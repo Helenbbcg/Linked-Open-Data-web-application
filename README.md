@@ -14,19 +14,19 @@ bootstrap.css: complete generic stylesheet.
 The above four files are from the official website.[2,3,4]  
 style.css: custom style sheet. 
 img.png: background image of the web application [5]. 
-HTML:  
-index.html: the home page, showing the cross-domain data. 
-cities.html: visualization for linked data in cities. 
-international.html: visualization for linked data in international issues. 
-transport.html: visualization for linked data in transport. 
-health.html: visualization for linked data in health. 
-energy.html: visualization for linked data in energy. 
-education.html: visualization for linked data in education. 
-introduction: page with introduction to the project.  
-search.html: page for searching datasets by category or publisher. 
-result.html: page for showing the search results to querying by category. 
-result_publisher.html: page for showing the search results to querying by publisher. 
-data.json: data that has been processed through Neo4j and Python. 
+HTML:   
+index.html: the home page, showing the cross-domain data.   
+cities.html: visualization for linked data in cities.  
+international.html: visualization for linked data in international issues.   
+transport.html: visualization for linked data in transport.  
+health.html: visualization for linked data in health.  
+energy.html: visualization for linked data in energy.  
+education.html: visualization for linked data in education.  
+introduction: page with introduction to the project.   
+search.html: page for searching datasets by category or publisher.   
+result.html: page for showing the search results to querying by category.   
+result_publisher.html: page for showing the search results to querying by publisher.   
+data.json: data that has been processed through Neo4j and Python.   
 
 The folder "data" contains data from six categories. It should be noted that the data collection process collected all RDF data for the six categories, but due to the sheer volume, the dataset shown here is part of the dataset used for visualization. The visualization of more linked data is mentioned in the "Future work" section of the report.
 
