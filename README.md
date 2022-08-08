@@ -3,7 +3,7 @@ Individual Project of Yuning Li
 
 This is a web application that presents a linked data cloud [1] from the European Data Portal and allows users to perform related query functions.
 To be able to run the web application, the user needs to install the Python environment and the very important Flask library. Once everything is configured and ready, the user runs app.py to start the application.
-Each specific file of the web application is described below.
+## Each specific file of the web application is described below.
 
 app.py: an instance of Flask and is used to receive requests from the web server，the main program that starts the whole web application.
 Static:
