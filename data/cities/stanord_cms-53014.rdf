@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:schema="http://schema.org/"
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-53014">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-53014">
+        <dcat:keyword>baugenehmigungen-und-bautätigkeit</dcat:keyword>
+        <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2010</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T09:37:31.022453</dct:modified>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6f89351a-4547-4639-b9e4-5f9e183d1b49">
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_2_vj_H/F_II_1_vj102_H.xls"/>
+            <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2010</dct:title>
+            <dct:format>XLS</dct:format>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/d98bdce8-9a07-4d71-bb28-582cc01e159f/resource/5976b607-597d-4482-bf74-40386f360ee4</dct:identifier>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >61cf653f7dc089eb92d0ea89ad53da1330d168e6335ad7b6efd323047f8b47eb</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T09:37:31.022453</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >96680</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <adms:identifier>F II 1 - vj 2/10 H</adms:identifier>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/81065c2a-981f-4d71-a91c-b34f8d195606">
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >114328</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T09:37:31.022453</dct:modified>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/d98bdce8-9a07-4d71-bb28-582cc01e159f/resource/58f6fea4-6ae5-4ea1-a076-4ae45295e389</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >35b5524cc4e7512dbd74188323b018b2cc58679f79c1ca9dd52f547c33465e1f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS53014/F_II_1_vj102_H.zip"/>
+            <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2010 (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:format>ZIP</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/hochbautaetigkeit-in-hamburg-im-2-vierteljahr-2010"/>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dcat:keyword>hochbautätigkeit-in-hamburg</dcat:keyword>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/QUARTERLY"/>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dct:identifier>StaNord_CMS:53014</dct:identifier>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/be3e6363-758f-48f2-abfe-a2debae1ebbb">
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>PDF</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T09:37:31.022453</dct:modified>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_2_vj_H/F_II_1_vj102_H.pdf"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/d98bdce8-9a07-4d71-bb28-582cc01e159f/resource/9176e4d8-589a-4d65-b028-973e08d359b0</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >104691</dcat:byteSize>
+            <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2010</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >1e670bae5d584fbd47beae815b93803779f2d849ecd0c058000541b03ccee40d</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2010-06-30T00:00:00</schema:endDate>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2010-04-01T00:00:00</schema:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:02Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>616864c44b89891e260e7572961714cd</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-53014"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-04T23:57:47Z</dct:issued>
+    <dct:identifier>StaNord_CMS:53014</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:02Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

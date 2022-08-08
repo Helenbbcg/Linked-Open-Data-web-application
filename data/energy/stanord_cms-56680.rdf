@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-56680">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:47:45Z</edp:transIssued>
+    <dct:identifier>StaNord_CMS:56680</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-56680">
+        <dct:title>Abfallentsorgung in Hamburg 2012 - Teil 3: Einsammlung von Abfällen</dct:title>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/abfallentsorgung-in-hamburg-2012-teil-3-einsammlung-von-abfaellen"/>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <adms:identifier>Q II 9 - j/12 HH</adms:identifier>
+        <dct:identifier>StaNord_CMS:56680</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8aca4103-20dd-4713-b619-a06936a874f0">
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS56680/Q_II_9_j12_HH.zip"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T08:01:41.890467</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>ZIP</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/ac558424-aa64-4f61-8211-333535ffe3eb/resource/5bb2a7f6-ee01-4810-8910-ccad03540c33</dct:identifier>
+            <dct:title>Abfallentsorgung in Hamburg 2012 - Teil 3: Einsammlung von Abfällen (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >151372</dcat:byteSize>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >6e5da860b612e150d821dc01e380dbde68a552d409fd5d9c657061a6920a953d</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fcd68c65-cdba-4fcf-91a0-d85d42231b12">
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:title>Abfallentsorgung in Hamburg 2012 - Teil 3: Einsammlung von Abfällen</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/ac558424-aa64-4f61-8211-333535ffe3eb/resource/7204b7f5-ab8c-4167-938c-4819a1c4af46</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/verkehr_umwelt_und_energie/Q_II_9_j_H/Q_II_9_j12_HH.xlsx"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >135473</dcat:byteSize>
+            <dct:format>XLSX</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T08:01:41.890467</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >d5b45e96e362d5f6d462e7ed8a92fa8364b5a126b0d9e3416c47c2de823ab2e7</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b3594183-6201-42ef-b91f-e86272cf2e32">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T08:01:41.890467</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:title>Abfallentsorgung in Hamburg 2012 - Teil 3: Einsammlung von Abfällen</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/verkehr_umwelt_und_energie/Q_II_9_j_H/Q_II_9_j12_HH.pdf"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/ac558424-aa64-4f61-8211-333535ffe3eb/resource/408b1519-8d7d-4146-8ea6-14022f3ff358</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>PDF</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >3e2370016490476be86c4aa3eefeca0c41c78a8d248c4346a09046c29f5914ba</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >287656</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword>einsammlung-von-abfällen-in-hamburg</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dcat:keyword>umwelt</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T08:01:41.890467</dct:modified>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>271356499d6ce917783d99091f5d2066</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:47:45Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-56680"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-04T23:57:28Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

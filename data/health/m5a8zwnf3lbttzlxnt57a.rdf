@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/m5a8zwnf3lbttzlxnt57a">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>5f34f5906fd4c31a112235f77c69e40e</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/m5a8zwnf3lbttzlxnt57a"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/m5a8zwnf3lbttzlxnt57a">
+        <dct:description xml:lang="cs-t-en-t0-mtec">Životní stůl podle věku a pohlaví</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Elämän taulukko iän ja sukupuolen mukaan</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:title xml:lang="el-t-en-t0-mtec">Πίνακας ζωής ανά ηλικία και φύλο</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Tabela življenja po starosti in spolu</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Dzīves tabula pēc vecuma un dzimuma</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Gyvenimo lentelė pagal amžių ir lytį</dct:description>
+        <dct:identifier>demo_mlifetable</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ffe15ebc-ffc2-4c8d-8458-a7aa447646a8">
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Table de mortalité par âge et sexe</dct:title>
+            <dct:title xml:lang="en">Life table by age and sex</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Sterbetafel nach Alter und Geschlecht</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/demo_mlifetable.sdmx.zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/31eb9ab6-c3b1-4e16-8644-cc41f1000b30</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Таблица „Живот“ по възраст и пол</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Dzīves tabula pēc vecuma un dzimuma</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Elulaud vanuse ja soo järgi</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Tabla de la vida por edad y sexo</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Tabel de viață în funcție de vârstă și sex</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Životní stůl podle věku a pohlaví</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Tabella di vita per età e sesso</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Gyvenimo lentelė pagal amžių ir lytį</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mlifetable">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/m5a8zwnf3lbttzlxnt57a"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mlifetable</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mlifetable</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Leven tafel naar leeftijd en geslacht</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Таблица „Живот“ по възраст и пол</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3b5ff5ae-4d86-492d-a6a9-5607630280a3">
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/demo_mlifetable.tsv.gz"/>
+            <dct:title xml:lang="en">Life table by age and sex</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/46c68e38-3f82-49e7-a400-10cb3844ce31</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Table de mortalité par âge et sexe</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Sterbetafel nach Alter und Geschlecht</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Tabela življenja po starosti in spolu</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Tabuľka života podľa veku a pohlavia</dct:title>
+        <dct:title xml:lang="de">Sterbetafel nach Alter und Geschlecht</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Tabuľka života podľa veku a pohlavia</dct:description>
+        <dct:description xml:lang="en">Life table by age and sex</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Tabella di vita per età e sesso</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/9d69c852-4c49-438d-8110-cc3f56dbbed8">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/dea2d04b-9556-44b1-9a09-486cca46d120">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Élet táblázat kor és nem szerint</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Tabela de vida por idade e sexo</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Tábla saoil de réir aoise agus gnéis</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2a198d22-0ffd-4655-a5e5-6d61ad8dd3f4">
+            <dct:identifier>http://data.europa.eu/88u/distribution/c598a22f-bd49-4c56-b604-f50e696f807f</dct:identifier>
+            <dct:title xml:lang="fr">Table de mortalité par âge et sexe</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Life table by age and sex</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/demo_mlifetable.tsv.gz&amp;unzip=true"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="de">Sterbetafel nach Alter und Geschlecht</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Livstabell efter ålder och kön</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Tábla saoil de réir aoise agus gnéis</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Tabella tal-ħajja skont l-età u s-sess</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Tabel de viață în funcție de vârstă și sex</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Tabella tal-ħajja skont l-età u s-sess</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/M5a8ZWNF3lBttzLxnT57A</dct:identifier>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Tablica života prema dobi i spolu</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Leven tafel naar leeftijd en geslacht</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Livstabell efter ålder och kön</dct:description>
+        <dct:description xml:lang="fr">Table de mortalité par âge et sexe</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Livstabel efter alder og køn</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Tablica života prema dobi i spolu</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Elämän taulukko iän ja sukupuolen mukaan</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/m5a8zwnf3lbttzlxnt57a"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="en">Life table by age and sex</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Stół życia według wieku i płci</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Élet táblázat kor és nem szerint</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Життєвий стіл за віком і статтю</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mlifetable"/>
+        <dct:title xml:lang="es-t-en-t0-mtec">Tabla de la vida por edad y sexo</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Життєвий стіл за віком і статтю</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/demo_mor_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/demo_mor_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/m5a8zwnf3lbttzlxnt57a"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="de">Sterbetafel nach Alter und Geschlecht</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/b2c7df2e-4f45-4b6d-b8dc-9ec4e63acc6f">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1960-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Tabela de vida por idade e sexo</dct:description>
+        <dct:title xml:lang="fr">Table de mortalité par âge et sexe</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Stół życia według wieku i płci</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="et-t-en-t0-mtec">Elulaud vanuse ja soo järgi</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-22</dct:modified>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πίνακας ζωής ανά ηλικία και φύλο</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Livstabel efter alder og køn</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:14:42Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:12:50Z</dct:issued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>M5a8ZWNF3lBttzLxnT57A</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:14:42Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

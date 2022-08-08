@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/204e27b5-5521-4437-9be7-767e80b2ccfc-stadt-zurich">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:09:12Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:07:08Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:07:18Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:00Z</dct:issued>
+    <dct:identifier>204e27b5-5521-4437-9be7-767e80b2ccfc@stadt-zurich</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>3ea6f8824bdd32bc4aca2fa623e32c0f</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/204e27b5-5521-4437-9be7-767e80b2ccfc-stadt-zurich">
+        <dct:title xml:lang="ga-t-de-t0-mtec">Téamh ceantair: Díolacháin teasa bhliantúla</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Dálkové vytápění: Roční prodej tepla</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Centralizētā siltumapgāde: Gada siltuma pārdošanas apjomi</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Roční prodej tepla všech okresních kolektorů tepla ročně v MWh</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Ročný predaj tepla všetkých diaľkových kolektorov tepla za rok v MWh</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Teleriscaldamento: Vendite annuali di calore</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Centralizuotas šildymas: Metinis šilumos pardavimas</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Kõigi kaugküttekollektorite aastane soojusmüük (MWh)</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Jaarlijkse warmteverkopen van alle stadswarmtecollectoren per jaar in MWh</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Visu rajona siltuma kolektoru gada siltuma pārdošanas apjoms (MWh)</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-20T00:00:00</dct:modified>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Az összes távhőgyűjtő éves hőértékesítése MWh-ban</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Godišnja prodaja topline svih centraliziranih kolektora topline godišnje u MWh</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Stadsverwarming: Jaarlijkse warmteverkopen</dct:title>
+        <dcat:keyword xml:lang="de">warmeabsatz</dcat:keyword>
+        <dct:title xml:lang="de">Fernwärme: Jährlicher Wärmeabsatz</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Årligt varmesalg af alle fjernvarmeopsamlere pr. år i MWh</dct:description>
+        <dcat:landingPage rdf:resource="https://ckan-ogdzh.clients.liip.ch/dataset/erz_fw_waermeabsatz"/>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Årlig värmeförsäljning av alla fjärrvärmeuppsamlare per år i MWh</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Távfűtés: Éves hőértékesítés</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Díolacháin teasa bhliantúla na dtiomsaitheoirí teasa ceantair go léir in aghaidh na bliana in MWh</dct:description>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Централізоване теплопостачання: Щорічні продажі тепла</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Vânzările anuale de energie termică ale tuturor colectoarelor de căldură centralizate pe an, în MWh</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kaukolämpö: Vuotuinen lämmönmyynti</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Централно отопление: Годишни продажби на топлинна енергия</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Ετήσιες πωλήσεις θερμότητας για όλους τους επαρχιακούς συλλέκτες θερμότητας ετησίως σε MWh</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Roczna sprzedaż ciepła wszystkich regionalnych kolektorów ciepła rocznie w MWh</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Calefacción urbana: Ventas anuales de calor</dct:title>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Ventes annuelles de chaleur de tous les collecteurs de chaleur par an, en MWh</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">Annual heat sales of all district heat collectors per year in MWh</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Fjärrvärme: Årlig värmeförsäljning</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Încălzire centralizată: Vânzări anuale de căldură</dct:title>
+        <dct:identifier>204e27b5-5521-4437-9be7-767e80b2ccfc@stadt-zurich</dct:identifier>
+        <dct:description xml:lang="de">Jährlicher Wärmeabsatz aller Fernwärmebezüger pro Jahr in MWh</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kaugküte: Aastane soojuse müük</dct:title>
+        <dcat:keyword xml:lang="de">warme</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Diaľkové vykurovanie: Ročný predaj tepla</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Ciepłownictwo miejskie: Roczna sprzedaż ciepła</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Tisħin distrettwali: Bejgħ annwali tas-sħana</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Річний продаж теплової енергії всіх дільничних теплозбирачів на рік в МВт-год</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/stadt-zurich">
+            <foaf:name>Fernwärme, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>GIS-Zentrum, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Öffentlichkeitsarbeit, Departementssekretariat PRD, Präsidialdepartement</foaf:name>
+            <foaf:name>Stadtreinigung, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Grundlagen + Strategien, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Infrastruktur, Schulamt, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>GIS, Wasserversorgung, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Stadtentwicklung, Präsidialdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, GWZ/BVS</foaf:name>
+            <foaf:name>Stab, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Raumentwicklung &amp; Architektur, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Freiraumplanung 2, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Datenmanagement, Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Energiebeauftragte, Departementssekretariat DIB, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Entsorgungslogistik, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Musikschule Konservatorium Zürich, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Stadtkanzlei, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Kompetenzzentren, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Kataster, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Beschäftigtenstatistik, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Baubewilligungen Abteilung 2, Amt für Baubewilligungen, Hochbaudepartement</foaf:name>
+            <foaf:name>A, ewz, Elektrizitätswerk der Stadt Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Entwässerung, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Park- und Grünanlagen, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Recht+Qualität, Dienstabteilung Verkehr, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Bestattungs- und Friedhofamt, Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Newsroom, Verkehrsbetriebe, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Landwirtschaft, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Fachbereich Labor, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Baugeschichtliches Archiv, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Fachbereich Lärmschutz, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Klärwerk Werdhölzli, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Informatik Kirchgemeinde, Informatik Kirchgemeinden, Verband der stadtzürcherischen evangelisch-reformierten Kirchgemeinden</foaf:name>
+            <foaf:name>Dokumentationsstelle Bauprojekte, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Sektion Bevölkerung, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Kommunikation, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Steueramt, Finanzdepartement</foaf:name>
+            <foaf:name>Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Schulpflege (ZSP), Stadt Zürich</foaf:name>
+            <foaf:name>Programmleitung BIM/GIS, Verkehrsbetriebe, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Kontraktmanagement, Zentrale Verwaltung, Sozialdepartement</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Kaikkien kaukolämmönkeräimien vuotuinen lämmönmyynti (MWh)</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Daljinsko ogrevanje: Letna prodaja toplote</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Aquecimento urbano: Vendas anuais de calor</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Vendite annuali di calore di tutti i collettori di calore distrettuale all'anno in MWh</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Τηλεθέρμανση: Ετήσιες πωλήσεις θερμότητας</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Ventas anuales de calor de todos los colectores de calor de distrito por año en MWh</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0a87910b-0298-4011-9ee7-5d128a91516a">
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fr-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="de">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">fw_waermeabsatz.csv</dct:title>
+            <dct:identifier>eb675710-b9a4-4a08-b37a-7a2c3f4ce873</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/erz_fw_waermeabsatz/download/fw_waermeabsatz.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >102</dcat:byteSize>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-11T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="lv-t-de-t0-mtec">fw_waermeabsatz.csv Sistēmas Prasības</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/erz_fw_waermeabsatz/download/fw_waermeabsatz.csv"/>
+            <dct:format>CSV</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+        <dct:title xml:lang="en-t-de-t0-mtec">District heating: Annual heat sales</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Letna prodaja toplote vseh daljinskih kolektorjev toplote na leto v MWh</dct:description>
+        <dcat:keyword xml:lang="de">fernwarme</dcat:keyword>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Chauffage urbain: Ventes annuelles de chaleur</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Visų centralizuotų šilumos kolektorių metinis šilumos pardavimas MWh</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@zuerich.ch"/>
+            <vcard:fn>Open Data Zürich</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Годишни продажби на топлоенергия на всички топлоколектори годишно в MWh</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">Fjernvarme: Årligt salg af varme</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-12-31T00:00:00</dct:issued>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Centralizirano grijanje: Godišnja prodaja topline</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Il-bejgħ annwali tas-sħana tal-kolletturi tas-sħana distrettwali kollha fis-sena f’MWh</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Vendas anuais de calor de todos os coletores de calor distritais por ano em MWh</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/204e27b5-5521-4437-9be7-767e80b2ccfc-stadt-zurich"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

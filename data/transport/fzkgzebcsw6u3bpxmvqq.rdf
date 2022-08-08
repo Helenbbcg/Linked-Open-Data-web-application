@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/fzkgzebcsw6u3bpxmvqq">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>23bff8190c3eee538e2cb9c71344295c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:05:57Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/fzkgzebcsw6u3bpxmvqq">
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/mar_pa_qm_el">
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/mar_pa_qm_el</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/fzkgzebcsw6u3bpxmvqq"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/mar_pa_qm_el</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+          </foaf:Document>
+        </dcat:landingPage>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/mar_pa_qm_el"/>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/f12f0f73-b199-4136-a62d-03bc7de015e2">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/cf3f7bdf-a3f1-4c99-a48d-b7dec3b488b4">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Į pagrindinius uostus ir iš jų vežami keleiviai. Graikija – ketvirčio duomenys</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Passiġġieri ttrasportati lejn/minn portijiet ewlenin — il-Greċja — data ta’ kull tliet xhur</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Paisinéirí arna n-iompar chuig na príomhchalafoirt/ó na príomhchalafoirt — an Ghréig — sonraí ráithiúla</dct:title>
+        <dct:description xml:lang="en">Passengers transported to/from main ports - Greece - quarterly data</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A fő kikötőkbe/kikötőkbe szállított utasok – Görögország – negyedéves adatok</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Passeggeri trasportati da/per i principali porti — Grecia — dati trimestrali</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Pääsatamiin/pääsatamiin kuljetettavat matkustajat – Kreikka – neljännesvuosittaiset tiedot</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fd0a14e0-b2e6-46cc-92ca-206d9a7a1ead">
+            <dct:identifier>http://data.europa.eu/88u/distribution/794235d4-1b17-484e-bbac-40e870df0609</dct:identifier>
+            <dct:title xml:lang="en">Passengers transported to/from main ports - Greece - quarterly data</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="fr">Passagers transportés, sortis/entrés des principaux ports - Grèce - données trimestrielles</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/mar_pa_qm_el.tsv.gz&amp;unzip=true"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Nach/aus Haupthäfen beförderte Passagiere - Griechenland - vierteljährliche Daten</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-09</dct:modified>
+        <dct:description xml:lang="es-t-en-t0-mtec">Pasajeros transportados hacia/desde los principales puertos — Grecia — Datos trimestrales</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Cestující přepravovaní do hlavních přístavů/z nich – Řecko – čtvrtletní údaje</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Pasažieru pārvadājumi uz/no galvenajām ostām — Grieķija — ceturkšņa dati</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Potniki, ki se prevažajo v glavna pristanišča/iz njih – Grčija – četrtletni podatki</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Cestujúci prepravení do/z hlavných prístavov – Grécko – štvrťročné údaje</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Potniki, ki se prevažajo v glavna pristanišča/iz njih – Grčija – četrtletni podatki</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Pasagerii transportați către/din porturile principale – Grecia – date trimestriale</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Пътници, транспортирани до/от основни пристанища — Гърция — тримесечни данни</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A fő kikötőkbe/kikötőkbe szállított utasok – Görögország – negyedéves adatok</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Põhisadamatesse/peamistest sadamatest veetavad reisijad – Kreeka – kvartaliandmed</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Passagerer, der transporteres til/fra hovedhavne — Grækenland — kvartalsdata</dct:description>
+        <dct:description xml:lang="fr">Passagers transportés, sortis/entrés des principaux ports - Grèce - données trimestrielles</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c0254242-e77c-4be0-a934-fcecfd224a2e">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Passagers transportés, sortis/entrés des principaux ports - Grèce - données trimestrielles</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Passengers transported to/from main ports - Greece - quarterly data</dct:title>
+            <dct:title xml:lang="de">Nach/aus Haupthäfen beförderte Passagiere - Griechenland - vierteljährliche Daten</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:identifier>http://data.europa.eu/88u/distribution/3b121324-9386-488d-a87e-b7c4b7571e58</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/mar_pa_qm_el.sdmx.zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-en-t0-mtec">Pasajeros transportados hacia/desde los principales puertos — Grecia — Datos trimestrales</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Cestující přepravovaní do hlavních přístavů/z nich – Řecko – čtvrtletní údaje</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Passagiers die van/naar de belangrijkste havens worden vervoerd — Griekenland — kwartaalgegevens</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Paisinéirí arna n-iompar chuig na príomhchalafoirt/ó na príomhchalafoirt — an Ghréig — sonraí ráithiúla</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Põhisadamatesse/peamistest sadamatest veetavad reisijad – Kreeka – kvartaliandmed</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Pasażerowie przewożeni do/z głównych portów – Grecja – dane kwartalne</dct:title>
+        <dct:title xml:lang="fr">Passagers transportés, sortis/entrés des principaux ports - Grèce - données trimestrielles</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/fzKgZeBcsw6U3bPxMvQQ</dct:identifier>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/fa3e4acf-77a3-4874-b057-88e6334160a2">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1997-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Į pagrindinius uostus ir iš jų vežami keleiviai. Graikija – ketvirčio duomenys</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Putnici prevezeni u glavne luke/iz glavnih luka – Grčka – tromjesečni podaci</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dct:title xml:lang="it-t-en-t0-mtec">Passeggeri trasportati da/per i principali porti — Grecia — dati trimestrali</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Passagerare som transporteras till/från huvudhamnarna – Grekland – kvartalsvisa uppgifter</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Επιβάτες που μεταφέρονται από/προς τους κύριους λιμένες — Ελλάδα — τριμηνιαία στοιχεία</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Пасажири перевозяться в/з основних портів - Греція - щоквартальні дані</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Pasagerii transportați către/din porturile principale – Grecia – date trimestriale</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Επιβάτες που μεταφέρονται από/προς τους κύριους λιμένες — Ελλάδα — τριμηνιαία στοιχεία</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Passagerare som transporteras till/från huvudhamnarna – Grekland – kvartalsvisa uppgifter</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Passageiros transportados de/para os principais portos — Grécia — dados trimestrais</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Пътници, превозвани до/от основни пристанища — Гърция — тримесечни данни</dct:description>
+        <dct:description xml:lang="de">Nach/aus Haupthäfen beförderte Passagiere - Griechenland - vierteljährliche Daten</dct:description>
+        <dct:title xml:lang="en">Passengers transported to/from main ports - Greece - quarterly data</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Pasażerowie przewożeni do/z głównych portów – Grecja – dane kwartalne</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Пасажири перевозяться в/з основних портів - Греція - щоквартальні дані</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Pääsatamiin/pääsatamiin kuljetettavat matkustajat – Kreikka – neljännesvuosittaiset tiedot</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/mar_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/mar_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/fzkgzebcsw6u3bpxmvqq"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Pasažieru pārvadājumi uz/no galvenajām ostām — Grieķija — ceturkšņa dati</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Passiġġieri ttrasportati lejn/minn portijiet ewlenin — il-Greċja — data ta’ kull tliet xhur</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Passageiros transportados de/para os principais portos — Grécia — dados trimestrais</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Passagiers die van/naar de belangrijkste havens worden vervoerd — Griekenland — kwartaalgegevens</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Cestujúci prepravení do/z hlavných prístavov – Grécko – štvrťročné údaje</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5ace58a8-1cb3-43f8-b36b-fe404acfa7a7">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/mar_pa_qm_el.tsv.gz"/>
+            <dct:title xml:lang="fr">Passagers transportés, sortis/entrés des principaux ports - Grèce - données trimestrielles</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Passengers transported to/from main ports - Greece - quarterly data</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/206b8f23-c01d-4e75-a26e-d92fc5923a18</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="de">Nach/aus Haupthäfen beförderte Passagiere - Griechenland - vierteljährliche Daten</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-en-t0-mtec">Passagerer, der transporteres til/fra hovedhavne — Grækenland — kvartalsdata</dct:title>
+        <dct:identifier>mar_pa_qm_el</dct:identifier>
+        <dct:title xml:lang="de">Nach/aus Haupthäfen beförderte Passagiere - Griechenland - vierteljährliche Daten</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/mar_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/mar_esms.sdmx.zip</schema:url>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/fzkgzebcsw6u3bpxmvqq"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Putnici prevezeni u glavne luke/iz glavnih luka – Grčka – tromjesečni podaci</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/fzkgzebcsw6u3bpxmvqq"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:04:03Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:05:57Z</edp:transIssued>
+    <dct:identifier>fzKgZeBcsw6U3bPxMvQQ</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

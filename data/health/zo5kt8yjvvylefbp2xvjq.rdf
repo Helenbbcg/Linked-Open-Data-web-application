@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/zo5kt8yjvvylefbp2xvjq">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>Zo5kt8YJVVyLEFBP2xvJQ</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:01:35Z</edp:transIssued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/zo5kt8yjvvylefbp2xvjq"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>cb310e4efc6a2596e780df504bafecdc</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/zo5kt8yjvvylefbp2xvjq">
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Ambiente — áreas urbanas funcionais</dct:title>
+        <dct:description xml:lang="de">Umwelt - funktionale städtische Gebiete</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Životní prostředí – funkční městské oblasti</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">An comhshaol — limistéir uirbeacha fheidhmiúla</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Ympäristö – toiminnalliset kaupunkialueet</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Okoliš – funkcionalna urbana područja</dct:title>
+        <dct:identifier>urb_lenv</dct:identifier>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Okoliš – funkcionalna urbana područja</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Keskkond – funktsionaalsed linnapiirkonnad</dct:title>
+        <dct:title xml:lang="fr">Environnement - zones urbaines fonctionnelles</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Milieu — functionele stedelijke gebieden</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Околна среда — функционални градски зони</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">An comhshaol — limistéir uirbeacha fheidhmiúla</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-06</dct:modified>
+        <dct:title xml:lang="es-t-en-t0-mtec">Medio ambiente — áreas urbanas funcionales</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/urb_lenv">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/zo5kt8yjvvylefbp2xvjq"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/urb_lenv</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/urb_lenv</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Životné prostredie – funkčné mestské oblasti</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Mediu – zone urbane funcționale</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/urb_esms.sdmx.zip">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/urb_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/zo5kt8yjvvylefbp2xvjq"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Навколишнє середовище - функціональні міські зони</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d053671f-5040-430f-b6a7-198979c876c7">
+            <dct:title xml:lang="de">Umwelt - funktionale städtische Gebiete</dct:title>
+            <dct:title xml:lang="en">Environment - functional urban areas</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/urb_lenv.tsv.gz"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ea82e938-6faf-4a0c-beeb-59a061ccf2cc</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Environnement - zones urbaines fonctionnelles</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-en-t0-mtec">Miljø — funktionelle byområder</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Milieu — functionele stedelijke gebieden</dct:description>
+        <dct:title xml:lang="en">Environment - functional urban areas</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4618"/>
+        <dct:title xml:lang="da-t-en-t0-mtec">Miljø — funktionelle byområder</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/34a678e5-1240-41ce-9237-ab97338b8b5b">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1990-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:identifier>http://data.europa.eu/88u/dataset/Zo5kt8YJVVyLEFBP2xvJQ</dct:identifier>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Vide — funkcionālas pilsētu teritorijas</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Околна среда — функционални градски зони</dct:description>
+        <dct:title xml:lang="de">Umwelt - funktionale städtische Gebiete</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/0f7b2acc-6572-4bc5-bb4c-f828c3f6e764">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/8600f3c7-cb85-4043-ba1d-b4f60f1db371">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Vide — funkcionālas pilsētu teritorijas</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Životné prostredie – funkčné mestské oblasti</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Mediu – zone urbane funcționale</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Περιβάλλον — λειτουργικές αστικές περιοχές</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Okolje – funkcionalna urbana območja</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Ympäristö – toiminnalliset kaupunkialueet</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Ambjent — żoni urbani funzjonali</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Ambiente — aree urbane funzionali</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Ambiente — áreas urbanas funcionais</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Περιβάλλον — λειτουργικές αστικές περιοχές</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Środowisko – funkcjonalne obszary miejskie</dct:title>
+        <dct:description xml:lang="en">Environment - functional urban areas</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Miljö – funktionella stadsområden</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Životní prostředí – funkční městské oblasti</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Okolje – funkcionalna urbana območja</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Medio ambiente — áreas urbanas funcionales</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/urb_lenv"/>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Aplinka – funkcinės miestų zonos</dct:description>
+        <dct:description xml:lang="fr">Environnement - zones urbaines fonctionnelles</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Навколишнє середовище - функціональні міські зони</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Környezetvédelem – funkcionális városi területek</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Aplinka – funkcinės miestų zonos</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/54dc122c-368f-46bc-bcd1-35f7d741331d">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Environment - functional urban areas</dct:title>
+            <dct:title xml:lang="de">Umwelt - funktionale städtische Gebiete</dct:title>
+            <dct:title xml:lang="fr">Environnement - zones urbaines fonctionnelles</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/urb_lenv.sdmx.zip"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/79c3cfa3-a204-4523-9492-7aebabb5ab8b</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Ambjent — żoni urbani funzjonali</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/53b0cd2b-16fa-4ba9-b35a-1a60b5b84679">
+            <dct:identifier>http://data.europa.eu/88u/distribution/be078ba1-aa51-46da-ac74-f4a46d9a24b8</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/urb_lenv.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="fr">Environnement - zones urbaines fonctionnelles</dct:title>
+            <dct:title xml:lang="en">Environment - functional urban areas</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="de">Umwelt - funktionale städtische Gebiete</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="it-t-en-t0-mtec">Ambiente — aree urbane funzionali</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Miljö – funktionella stadsområden</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Keskkond – funktsionaalsed linnapiirkonnad</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/urb_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/urb_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/zo5kt8yjvvylefbp2xvjq"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Środowisko – funkcjonalne obszary miejskie</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Környezetvédelem – funkcionális városi területek</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T08:59:31Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:01:35Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

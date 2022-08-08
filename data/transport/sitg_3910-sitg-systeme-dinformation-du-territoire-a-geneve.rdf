@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description>
+    <vcard:fn>louca.lerch@etat.ge.ch</vcard:fn>
+  </rdf:Description>
+  <vcard:Organization/>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/sitg_3910-sitg-systeme-dinformation-du-territoire-a-geneve">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>36d292ad2d91b0585b506b04cf991359</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:18Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/sitg_3910-sitg-systeme-dinformation-du-territoire-a-geneve">
+        <dct:title xml:lang="el-t-de-t0-mtec">AGGLO — ΣΤΑΘΜΌΣ D’AUTOPARTAGE</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.etat.ge.ch/geoportail/pro/?portalresources=AGGLO_STATION_AUTOPARTAGE">
+            <rdfs:label>"Lien vers le géoportail SITG pour prévisualisation de la donnée"</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:identifier>SITG_3910@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+        <dct:relation>
+          <rdf:Description rdf:about="https://ge.ch/sitgags1/rest/services/VECTOR/SITG_OPENDATA_01/MapServer/">
+            <rdfs:label>Les services sont exposés au travers de l'API REST d'ArcGIS Server. Interfaces supportées : REST - SOAP - WMS - WFS</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-05-25T00:00:00</dct:modified>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Estofo da estação d’Autopartage selon leur gestionnaire: — Mobilidade — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les points rouges correspondentes aux stations Mobilidade. — Les points bleus correspondente aux station Citiz. Fonte: Mobilidade Estofo da estação d’Autopartage selon leur gestionnaire: — Mobilidade — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les points rouges correspondentes aux stations Mobilidade. — Les points bleus correspondente aux station Citiz.
+Fonte:
+Mobilidade</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Stacijas d’Autopartage selon leur gestionnaire dīvāns: — Mobilitāte — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les Point Rouges korespondentās aux stacijas Mobility. — Les punkti bleus korespondentās aux stacijas Citiz. Avots: Mobilais tālrunis</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Jaama d’Autopartage selon leur gestionnaire diivan: – Liikuvus – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les Point rouges korrespondent aux Station Mobility. – Les Point bleus korrespondent aux jaamad Citiz. Allikas: Mobiilsus</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Gauč stanice d’Autopartage selon leur gestionnaire: — Mobilita – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les points rouges korespondent aux station Mobility. — Les points bleus korespondent aux stanice Citiz. Zdroj:
+Mobilita</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Sofa af station d'Autopartage selon leur gestionnaire: Mobilitet — Citiz Sur la capture d'écran figurant sur la fiche de métadonnées, — Les point rouges korrespondent aux stationer Mobility. — Les point bleus korrespondent aux stationer Citiz. Kilde: Mobilitet</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">AGGLO — ESTACIÓN D’AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">AGGLO – POSTAJA D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Aseman d’Autopartage selon leur gestionnaire sohva: — Liikkuvuus – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les Points rouges kirjeenvaihtaja aux station Mobility. — Les Points bleus kirjeenvaihtaja aux asemat Citiz. Lähde: Liikkuvuus</dct:description>
+        <dct:title xml:lang="hr-t-de-t0-mtec">AGGLO – STANICA D’AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">AGGLO – STANICA D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Couch tal-istazzjon d’Autopartage selon leur gestionnaire: — Mobilità — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les punti rouges korrispondent aux stations Mobility. — Les punti bleus aux stazzjonijiet korrispondenti Citiz. Sors: Mobilità</dct:description>
+        <dct:title xml:lang="uk-t-de-t0-mtec">AGGLO - СТАНЦІЯ D'AUTOPARTAGE</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:description xml:lang="de">Couche des stations d'autopartage selon leur gestionnaire: - Mobility - Citiz Sur la capture d'écran figurant sur la fiche de métadonnées, - Les points rouges correspondent aux stations Mobility. - Les points bleus correspondent aux stations Citiz. Source: Mobility</dct:description>
+        <dct:description xml:lang="it">Couche des stations d'autopartage selon leur gestionnaire: - Mobility - Citiz Sur la capture d'écran figurant sur la fiche de métadonnées, - Les points rouges correspondent aux stations Mobility. - Les points bleus correspondent aux stations Citiz. Source: Mobility</dct:description>
+        <dct:description xml:lang="fr">Couche des stations d'autopartage selon leur gestionnaire: - Mobility - Citiz Sur la capture d'écran figurant sur la fiche de métadonnées, - Les points rouges correspondent aux stations Mobility. - Les points bleus correspondent aux stations Citiz. Source: Mobility</dct:description>
+        <dct:description xml:lang="en">Couche des stations d'autopartage selon leur gestionnaire: - Mobility - Citiz Sur la capture d'écran figurant sur la fiche de métadonnées, - Les points rouges correspondent aux stations Mobility. - Les points bleus correspondent aux stations Citiz. Source: Mobility</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Диван на станцията d’Autopartage selon leur gestionnaire: — Мобилност — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les point rouges кореспондент aux Station Mobility. — Кореспондентът на Les Point bleus aux Stations Citiz. Източник: Мобилност</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">AGGLO – STAȚIA D’AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">AGGLO – ASEMA D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Gauč stanice d’Autopartage selon leur gestionnaire: — Mobilita – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les point rouges korešpondentné aux stanice Mobility. — Les Point bleus korešpondenčný aux stanice Citiz. Zdroj: Mobilita</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dcat:landingPage rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/3910"/>
+        <dct:title xml:lang="bg-t-de-t0-mtec">AGGLO — СТАНЦИЯ D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Καναπές του σταθμού d’Autopartage selon leur gestionnaire: — Κινητικότητα — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les points rouges responseent aux station Mobility. — Λιγότερα σημεία bleus ανταποκριτής aux σταθμοί Citiz. Πηγή: Κινητικότητα</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">AGGLO – JAAM D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Kanapa stacji d’Autopartage selon leur gestionnaire: — Mobilność – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les points rouges korespondent aux station Mobilność. — Les points bleus korespondent aux station Citiz. Źródło: Mobilność</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Sofá de la estación d’Autopartage selon leur gestionnaire: — Movilidad — Citiz Sur la capture d’écran figurat sur la fiche de métadonnées, — Les points rouges corresponsal aux station Mobility. — Los puntos bleus corresponsal aux station Citiz. Fuente: Movilidad Sofá de la estación d’Autopartage selon leur gestionnaire: — Movilidad — Citiz Sur la capture d’écran figurat sur la fiche de métadonnées, — Les points rouges corresponsal aux station Mobility. — Los puntos bleus corresponsal aux station Citiz.
+Fuente:
+Movilidad</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2b784b3b-519e-4512-9309-00a1cdf3da23">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Letöltés</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Les Données vetorial sont disponibles sous forme de fichiers.zip, incluindont la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Exceção de sauf, les formatos suivant sont proposés:
+Shape (ESRI) — Geodatabase-Arquivo (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Εξαίρεση Sauf, les formats suivant sont proposés: Σχήμα (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepție sauf, les formate suivant sont proposés:
+Formă (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pobierz</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-09-03T00:00:00</dct:issued>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Le Données vektoros sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf kivétel, les formátumok suivant sont proposés: Alak (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Descargar</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Les Données vctorial sont disponibles sous forme de fichiers.zip, včetně la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf výjimka, les formáty suivant sont proposés: Tvar (ESRI) – Geodatabázový soubor (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, inklużi la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Eċċezzjoni Sauf, formati les suivant sont proposés:
+Forma (ESRI) — Ġeodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stiahnuť</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Les Données векторен Sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) инси que les conditions générales d’utilization (.pdf). Sauf изключение, les formats suivant Sont предложения: Форма (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Laadi alla</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les умов générales d'utilisation (.pdf). SAUF виняток, les формати suivant sont пропозиції:
+Форма (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="da-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilization (.pdf). Undtagelse fra sauf, les formater suivant sont proposés: Form (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ladda ner</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/02c9c1fe-5c0c-480e-9101-623ec73634eb/resource/5ac2de9c-73e7-4313-9c2a-a2ca8988cb70</dct:identifier>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf) Sauf-poikkeus, les formaatit suivant sont proposés: Muoto (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Lataa</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lejupielādēt Lejupielādēt</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepción de sauf, les formatos suivant sont proposés: Forma (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf).
+Sauf išimtis, les formats suivant sont proposés:
+Forma (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Les Données vektorski sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les pogoji générales d’utilisation (.pdf). Izjema sauf, les formati suivant sont proposéji:
+Oblika (ESRI) – geopodatkovna zbirka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κατεβάστε</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-25T00:00:00</dct:modified>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Baixar o site</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Les Données vektoraalne sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf erand, les formaate suivant sont proposés: Kujund (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Parsisiųsti</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf uitzondering, les formats suivant sont proposés:
+Vorm (ESRI) — Geodatabase-Bestand (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prenesi</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Íoslódáil</dct:title>
+            <dcat:downloadURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/3910"/>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Les Données wektorowy sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Wyjątek sauf, les format suivant sont proposés:
+Kształt (ESRI) – Geodatabase-Plik (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Descărcați</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изтегляне</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Niżżel</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Les Données vektorial sont Disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les uvjeti générales d’utilisation (.pdf). Iznimka sauf, les formati suivant sont proposés: Oblik (ESRI) – Geopodatkovna baza podataka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stáhněte si</dct:title>
+            <dct:description xml:lang="fr">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="de">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Preuzimanje datoteka</dct:title>
+            <dct:description xml:lang="it">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Les Données vektoriella sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Sauf undantag, les format suivant sont proposés:
+Form (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="en">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:title xml:lang="en">Download</dct:title>
+            <dcat:accessURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/3910"/>
+            <dct:title xml:lang="de">Download</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="fr">Download</dct:title>
+            <dct:title xml:lang="it">Download</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Завантажити</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Le Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) agus coinníollacha générales d’utilization (.pdf). Eisceacht Sauf, formáidí les suivant sont proposés: Cruth (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Les Données vektortorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Výnimka sauf, les formats suivant sont proposés:
+Tvar (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf izņēmums, les formāti suivant sont proposés:
+Forma (ESRI) — Ģeodatu bāze-File (ESRI) — GML — KML — CSV</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">AGGLO – STACJA D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Kauč stanice d’Autopartage selon leur gestionnaire: — Mobilnost – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les point rouges dopisnik aux stanice Mobilnost. — Manje bodova bleus dopisnik aux stanice Citiz. Izvor: Mobilnost Kauč stanice d’Autopartage selon leur gestionnaire: — Mobilnost – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les point rouges dopisnik aux stanice Mobilnost. — Manje bodova bleus dopisnik aux stanice Citiz.
+Izvor:
+Mobilnost</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Kanapé az állomás d’Autopartage selon leur gestionnaire: –Mobilitás – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les point rouges tudósító aux station Mobility. – Les point bleus tudósító aux állomások Citiz. Forrás: Mobilitás</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">AGGLO — STAZZJON D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Canapeaua stației d’Autopartage selon leur gestionnaire: — Mobilitate – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les point rouges corespondent aux stations Mobility. — Les puncte bleus corespondent aux stații Citiz. Sursă: Mobilitate</dct:description>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Allah warns a seirbhísigh leis a chuid Word: — Soghluaisteacht — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les pointí rouges stáisiúin aux comhfhreagraí Soghluaisteachta. — Les pointí bleus comhfhreagraí stáisiúin aux Citiz. Minicíocht uisce: flúirseach Soghluaisteacht Allah warns a seirbhísigh leis a chuid Word: — Soghluaisteacht — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les pointí rouges stáisiúin aux comhfhreagraí Soghluaisteachta. — Les pointí bleus comhfhreagraí stáisiúin aux Citiz.
+Minicíocht uisce: flúirseach
+Soghluaisteacht</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">AGGLO – STANICE D’AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">AGGLO — STÁISIÚN D’AUTOPARTAGE</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Kavč postaje d’Autopartage selon leur gestionnaire: — Mobilnost – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les point rouges dopisne postaje Aux Mobilnost. — Les točke bleus dopisnik aux postaje Citiz. Vir: Mobilnost</dct:description>
+        <dct:title xml:lang="en">AGGLO - STATION D'AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="de">AGGLO - STATION D'AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Autopartage selon leur gestionnaire stoties sofos: – Mobilumas – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les point rouges korespondent aux station Mobility. – Les Points bleus korespondent aux stotys Citiz. Šaltinis: Mobilumas</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Bank van het station d’Autopartage selon leur gestionnaire: — Mobiliteit — Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, — Les points rouges correspondent aux stations Mobility. — Les points bleus correspondent aux stations Citiz. Bron: Mobiliteit</dct:description>
+        <dct:title xml:lang="fr">AGGLO - STATION D'AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="it">AGGLO - STATION D'AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">AGGLO – D’AUTOPARTAGE ÁLLOMÁS</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">AGGLO — STACIJA D’AUTOPARTAGE</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/SITG_3910">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="nl-t-de-t0-mtec">AGGLO — STATION D’AUTOPARTAGE</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/sitg-systeme-dinformation-du-territoire-a-geneve">
+            <foaf:name>Service du projet d'agglomération</foaf:name>
+            <foaf:name>Office cantonal de la statistique</foaf:name>
+            <foaf:name>Office cantonal de l'agriculture et de la nature</foaf:name>
+            <foaf:name>Direction du projet d'agglomération</foaf:name>
+            <foaf:name>Office de l'urbanisme</foaf:name>
+            <foaf:name>Direction de l'information du territoire</foaf:name>
+            <foaf:name>Office cantonal de l'énergie</foaf:name>
+            <foaf:name>Conservatoire et Jardin botaniques de la Ville de Genève</foaf:name>
+            <foaf:name>Office cantonal de l'eau</foaf:name>
+            <foaf:name>Office cantonal des transports</foaf:name>
+            <foaf:name>Direction de la planification cantonale</foaf:name>
+            <foaf:name>Service de géologie, sols et déchets</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="lt-t-de-t0-mtec">AGGLO – STOTIS D’AUTOPARTAGE</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">AGGLO – STATION D’AUTOPARTAGE</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Soffa för stationen d’Autopartage selon leur gestionnaire: — Rörlighet – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les points rouges korrespondent aux stationer. — Mindre poäng bleus korrespondent aux stationer Citiz. Källa: Rörlighet Soffa för stationen d’Autopartage selon leur gestionnaire: — Rörlighet – Citiz Sur la capture d’écran figurant sur la fiche de métadonnées, – Les points rouges korrespondent aux stationer. — Mindre poäng bleus korrespondent aux stationer Citiz.
+Källa:
+Rörlighet</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2019-09-03T00:00:00</dct:issued>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Диван станції d'Autopartage selon leur gestionnaire: Мобільність - Citiz Sur la capture d'écran фігурант sur la fiche de métadonnées, - Les Point Rouges кореспондент aux станцій Mobility. Les Point bleus кореспондент aux станцій Citiz. Джерело: Мобільність</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">AGGLO — STATION D'AUTOPARTAGE</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+        <dct:title xml:lang="pt-t-de-t0-mtec">AGGLO — ESTAÇÃO D’AUTOPARTAGE</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-11T20:07:37Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>SITG_3910@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:08:03Z</dct:modified>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T17:20:58Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/sitg_3910-sitg-systeme-dinformation-du-territoire-a-geneve"/>
+  </dcat:CatalogRecord>
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:louca.lerch@etat.ge.ch"/>
+  </rdf:Description>
+</rdf:RDF>

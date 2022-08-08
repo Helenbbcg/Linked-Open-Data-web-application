@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:54Z</dct:modified>
+    <dct:identifier>8d74b23d-41b6-4d87-a6ce-0c1cac84d41c</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>806b5ce37f22c55ca27f1466e296e0c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:54Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-03T20:25:19Z</dct:issued>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c33608e2-7820-4d7f-8429-d266f4b96d92">
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/maps/7a10c7d87a634e71a1655e7451522b53_0"/>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c/resource/7654fac9-e094-4192-8767-7a5332a460be</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title>ArcGIS Hub Dataset</dct:title>
+            <dct:format>HTML</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Covid-19</dcat:keyword>
+        <dcat:keyword>Ireland</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>OSI</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:customer.services@osi.ie"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword>Health</dcat:keyword>
+        <dct:language>en</dct:language>
+        <dcat:keyword>OSI</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cc10ea5d-f39c-405a-b5bc-cab9e65deb3b">
+            <dct:format>KML</dct:format>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/7a10c7d87a634e71a1655e7451522b53_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+            <dct:identifier>https://data.gov.ie/dataset/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c/resource/aef34041-d52d-46f7-8c4a-2dda83702dd5</dct:identifier>
+            <dct:title>KML</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-10-28T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/559901e5-d528-429b-9e34-b579b5012786">
+            <dct:identifier>https://data.gov.ie/dataset/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c/resource/a8defff2-16c9-48c1-9a83-4e5c03ecd1dd</dct:identifier>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/7a10c7d87a634e71a1655e7451522b53_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+            <dcat:mediaType>application/zip</dcat:mediaType>
+            <dct:title>Shapefile</dct:title>
+            <dct:format>ZIP</dct:format>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97">
+            <foaf:name>Ordnance Survey Ireland</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword>HSPC</dcat:keyword>
+        <dcat:theme rdf:resource="https://data.gov.ie/Health"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7bed4dab-47c8-4334-803e-e6b69d270df2">
+            <dct:format>CSV</dct:format>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/7a10c7d87a634e71a1655e7451522b53_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+            <dct:title>CSV</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c/resource/facf3d89-a3e3-48f9-b15c-2a450d0074f6</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-23T14:10:42</dct:modified>
+        <dcat:keyword>digihealth</dcat:keyword>
+        <dct:identifier>8d74b23d-41b6-4d87-a6ce-0c1cac84d41c</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9b258283-4b3f-4f5b-8a21-f4f0e033751f">
+            <dcat:accessURL rdf:resource="https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/COVID19_HPSC_HIU_Timeseries_Local_Electoral_Area_Mapped/FeatureServer/0"/>
+            <dct:format>ArcGIS GeoServices REST API</dct:format>
+            <dcat:mediaType>application/json</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c/resource/5b8d0e1a-7e70-4438-a985-3fcb6c2ed8dd</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title>ArcGIS GeoService</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>dgihealth</dcat:keyword>
+        <dct:title>COVID-19 HPSC HIU Timeseries Local Electoral Area Mapped</dct:title>
+        <dct:description>&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;div&gt;&lt;div style='font-family:inherit; font-size:16px;'&gt;&lt;font size='4' style='font-family:inherit;'&gt;&lt;font style='font-family:inherit;'&gt;Please see FAQ for latest information on COVID-19 Data Hub data flows: &lt;/font&gt;&lt;a href='https://covid-19.geohive.ie/pages/helpfaqs' style='color:rgb(0, 121, 193); text-decoration-line:none; font-family:inherit;' target='_blank' rel='nofollow ugc noopener noreferrer'&gt;https://covid-19.geohive.ie/pages/helpfaqs&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='font-family:inherit; font-size:16px;'&gt;&lt;font size='4' style='font-family:inherit;'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='font-family:inherit; font-size:16px;'&gt;&lt;font size='4' style='font-family:inherit;'&gt;&lt;u&gt;&lt;b&gt;Notice:&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='font-family:inherit; font-size:16px;'&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif' size='4'&gt;Due to the surge of cases over the Christmas period 2021, and increased processing times, updates of the Local Electoral Area (LEA) historic time series were paused. Updates of the historic time series resumed on 25th February 2022 (for cases created up to midnight on 21st February).  As work is still ongoing to geo-code all cases created during the surge period, there is a gap in the historic LEA time series for cases created between 21st December 2021 and 21st January 2022.  &lt;/font&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif' size='4'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face='Avenir Next W01, Avenir Next W00, Avenir Next, Avenir, Helvetica Neue, sans-serif' size='4'&gt;From the week of 30th May 2022 LEA data will no longer be updated.&lt;/font&gt;&lt;/div&gt;&lt;div style='font-family:inherit; font-size:16px;'&gt;&lt;font size='4' style='font-family:inherit;'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='font-family:inherit; font-size:16px;'&gt;&lt;font size='4' style='font-family:inherit;'&gt;Please refer to the FAQ page for more information.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style='font-family:&amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size:16px; box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4' style='font-family:inherit;'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='font-family:&amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size:16px; box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4' style='font-family:inherit;'&gt;14 Day Incidence of confirmed COVID-19 cases by LEA.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;span style='font-size:small;'&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;14 Day Time Series Incidence Rate of confirmed COVID-19 cases by LEA - Rate per 100k&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;This
+ hosted feature view provides a visualisation of the 14 Day Incidence 
+rate per 100k population of COVID-19 cases at the Local Electoral Area 
+(LEA) level across Ireland. In total, there are 166 LEA's across 
+Ireland.&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;Please
+ note: For confidentiality reasons, following consultation with the CSO,
+ all LEA's with values below 5 have been suppressed to 'Less than 5'. 
+Where a rate per 100k is set to 'Less than 5' it means that the LEA has a
+ 14 Day incidence below 5 and its value has been suppressed to show 
+'Less than 5'. This is not an indication of zero (0) confirmed cases. &lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;For
+ a proportion of notified COVID-19 cases, their location on the map may 
+reflect their place of work rather than their home address. Confirmed 
+cases have been geo-coded and allocated to Local Electoral Areas (LEA's)
+ by the Health Intelligence Unit (HIU) at the HSE.&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;This
+ service is used in Ireland's COVID-19 Data Hub, produced as a 
+collaboration between Ordnance Survey Ireland (OSi), the Central 
+Statistics Office (CSO), the Department of Housing, Planning and Local 
+Government, the Department of Health, the Health Protection Surveillance
+ Centre (HPSC), and the All-Island Research Observatory (AIRO). &lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;&lt;br /&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style='box-sizing:border-box; margin:0px; padding:0px;'&gt;&lt;font size='4'&gt;This service and Ireland's COVID-19 Data Hub are built using the GeoHive platform, Ireland's Geospatial Data Hub.&lt;/font&gt;&lt;/div&gt;</dct:description>
+        <dcat:landingPage rdf:resource="https://opendata-geohive.hub.arcgis.com/maps/7a10c7d87a634e71a1655e7451522b53_0"/>
+        <dcat:keyword>GeoHive</dcat:keyword>
+        <dcat:keyword>Covid</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasTelephone>-</vcard:hasTelephone>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/135532b1-243f-4fd6-ad09-1d4b683d94cc">
+            <dct:format>GeoJSON</dct:format>
+            <dct:title>GeoJSON</dct:title>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/7a10c7d87a634e71a1655e7451522b53_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+            <dcat:mediaType>application/vnd.geo+json</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/8d74b23d-41b6-4d87-a6ce-0c1cac84d41c/resource/ca85bc25-9683-4de0-8274-923fced7bbc2</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

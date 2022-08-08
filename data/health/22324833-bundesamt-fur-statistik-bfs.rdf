@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/22324833-bundesamt-fur-statistik-bfs">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:55Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:49:38Z</edp:transReceived>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>c70361c41cf29a94e3d88bc169095ca1</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:00Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/22324833-bundesamt-fur-statistik-bfs">
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-26T00:00:00</dct:issued>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Finanzjament tal-kura tas-saħħa skont is-sors</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="da-t-de-t0-mtec">Finansiering af sundhedspleje efter kilde</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Финансиране на здравеопазването по източник</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Financiamento dos cuidados de saúde por fonte</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:title xml:lang="de">Finanzierung des Gesundheitswesens nach Quellen</dct:title>
+        <dct:language>de</dct:language>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:48:59.668609</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a88dd29f-667a-4a40-883a-ff3aaecabe14">
+            <dct:title xml:lang="uk-t-de-t0-mtec">Фінансування охорони здоров'я за джерелами</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρηματοδότηση της υγειονομικής περίθαλψης ανά πηγή</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Financiranje zdravstvenega varstva po viru</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Finanziamento dell'assistenza sanitaria per fonte</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon rahoitus lähteen mukaan</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.05.02.02"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Financiranje zdravstvene zaštite po izvoru</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Financování zdravotní péče podle zdroje</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Finanțarea asistenței medicale prin sursă</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Finansowanie opieki zdrowotnej według źródeł</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Finansiering af sundhedspleje efter kilde</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cúram sláinte a mhaoiniú de réir foinse</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Financovanie zdravotnej starostlivosti podľa zdroja</dct:title>
+            <dct:identifier>22324839-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros finansavimas pagal šaltinį</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az egészségügyi ellátás finanszírozása forrás szerint</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiuteenuste rahastamine allikate kaupa</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Финансиране на здравеопазването по източник</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Finanzjament tal-kura tas-saħħa skont is-sors</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Financement des soins de santé par source</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="de">Finanzierung des Gesundheitswesens nach Quellen</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="en-t-de-t0-mtec">Funding of health care by source</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Financiación de la atención de la salud por fuente</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Financiering van de gezondheidszorg per bron</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Finansiering av hälso- och sjukvård efter källa</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes finansēšana pa avotiem</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Financiamento dos cuidados de saúde por fonte</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Financiering van de gezondheidszorg per bron</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="fr">Financement du système de la santé selon la source du financement</dct:title>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Financovanie zdravotnej starostlivosti podľa zdroja</dct:title>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Az egészségügyi ellátás finanszírozása forrás szerint</dct:title>
+        <dcat:keyword xml:lang="it">costi-e-finanziamento-del-sistema-sanitario</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Finansiering av hälso- och sjukvård efter källa</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Finanțarea asistenței medicale prin sursă</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ff35e93c-cab2-4bf0-b632-d23265f03404">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos sistemos finansavimas pagal finansavimo šaltinį</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Фінансування системи охорони здоров'я за джерелами фінансування</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Finansiering af sundhedssystemet efter finansieringskilde</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Financiering van het gezondheidszorgstelsel per financieringsbron</dct:title>
+            <dct:title xml:lang="fr">Financement du système de la santé selon la source du financement</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Maoiniú an chórais sláinte de réir foinse cistiúcháin</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Az egészségügyi rendszer finanszírozása finanszírozási forrás szerint</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324841/master"/>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Finanziamento del sistema sanitario per fonte di finanziamento</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi rahastamine rahastamisallikate kaupa</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Financovanie systému zdravotnej starostlivosti podľa zdroja financovania</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324841/master"/>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Финансиране на здравната система по източник на финансиране</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Financiamento do sistema de saúde por fonte de financiamento</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Financiación del sistema de salud por fuente de financiación</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Finanzjament tas-sistema tas-saħħa skont is-sors ta’ finanzjament</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Financiranje zdravstvenega sistema po viru financiranja</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Finansowanie systemu opieki zdrowotnej ze źródeł finansowania</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän rahoitus rahoituslähteen mukaan</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Financiranje zdravstvenog sustava na temelju izvora financiranja</dct:title>
+            <dct:identifier>22324841-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas finansējums pēc finansējuma avota</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-11T00:00:00</dct:modified>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Financování systému zdravotní péče podle zdroje financování</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Finanzierung des Gesundheitssystems nach Finanzierungsquelle</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Finanțarea sistemului de sănătate în funcție de sursa de finanțare</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Χρηματοδότηση του συστήματος υγείας ανά πηγή χρηματοδότησης</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Finansiering från hälso- och sjukvårdssystemet efter finansieringskälla</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health system funding by source of funding</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Financování zdravotní péče podle zdroje</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiuteenuste rahastamine allikate kaupa</dct:title>
+        <dct:identifier>22324833@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Фінансування охорони здоров'я за джерелами</dct:title>
+        <dcat:keyword xml:lang="de">kosten-und-finanzierung-des-gesundheitswesens</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Financiranje zdravstvene zaštite po izvoru</dct:title>
+        <dcat:keyword xml:lang="fr">couts-et-financement-du-systeme-de-sante</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Funding of health care by source</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Finansowanie opieki zdrowotnej według źródeł</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:keyword xml:lang="en">statistic-on-the-costs-and-financing-of-the-health-system</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon rahoitus lähteen mukaan</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes finansēšana pa avotiem</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cc288a42-eeb6-4179-b89f-017bdb668fb6">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az egészségügyi ellátás finanszírozása forrás szerint</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Finanțarea asistenței medicale prin sursă</dct:title>
+            <dct:identifier>22324839-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324839/master"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiuteenuste rahastamine allikate kaupa</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Finansiering av hälso- och sjukvård efter källa</dct:title>
+            <dct:title xml:lang="de">Finanzierung des Gesundheitswesens nach Quellen</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Financiranje zdravstvenega varstva po viru</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Finanziamento dell'assistenza sanitaria per fonte</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros finansavimas pagal šaltinį</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Finansowanie opieki zdrowotnej według źródeł</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="en-t-de-t0-mtec">Funding of health care by source</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Finanzjament tal-kura tas-saħħa skont is-sors</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes finansēšana pa avotiem</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Financování zdravotní péče podle zdroje</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Financement des soins de santé par source</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon rahoitus lähteen mukaan</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Financiamento dos cuidados de saúde por fonte</dct:title>
+            <dct:format>XLS</dct:format>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324839/master"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρηματοδότηση της υγειονομικής περίθαλψης ανά πηγή</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Фінансування охорони здоров'я за джерелами</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Financiación de la atención de la salud por fuente</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Financiranje zdravstvene zaštite po izvoru</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Finansiering af sundhedspleje efter kilde</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cúram sláinte a mhaoiniú de réir foinse</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Financovanie zdravotnej starostlivosti podľa zdroja</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-11T00:00:00</dct:modified>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Финансиране на здравеопазването по източник</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Financiering van de gezondheidszorg per bron</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c23d2ddb-2ec3-4573-a09d-e9a263c7b731">
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Finanțarea sistemului de sănătate în funcție de sursa de finanțare</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Financiering van het gezondheidszorgstelsel per financieringsbron</dct:title>
+            <dct:identifier>22324841-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Finansiering af sundhedssystemet efter finansieringskilde</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health system funding by source of funding</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.05.02.02"/>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas finansējums pēc finansējuma avota</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Finanzjament tas-sistema tas-saħħa skont is-sors ta’ finanzjament</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Фінансування системи охорони здоров'я за джерелами фінансування</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi rahastamine rahastamisallikate kaupa</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos sistemos finansavimas pagal finansavimo šaltinį</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Finanziamento del sistema sanitario per fonte di finanziamento</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Financiranje zdravstvenega sistema po viru financiranja</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Financiamento do sistema de saúde por fonte de financiamento</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Finansiering från hälso- och sjukvårdssystemet efter finansieringskälla</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Maoiniú an chórais sláinte de réir foinse cistiúcháin</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Financovanie systému zdravotnej starostlivosti podľa zdroja financovania</dct:title>
+            <dct:title xml:lang="fr">Financement du système de la santé selon la source du financement</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Finanzierung des Gesundheitssystems nach Finanzierungsquelle</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän rahoitus rahoituslähteen mukaan</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Finansowanie systemu opieki zdrowotnej ze źródeł finansowania</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Financiranje zdravstvenog sustava na temelju izvora financiranja</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Финансиране на здравната система по източник на финансиране</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Financiación del sistema de salud por fuente de financiación</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Financování systému zdravotní péče podle zdroje financování</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Az egészségügyi rendszer finanszírozása finanszírozási forrás szerint</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Χρηματοδότηση του συστήματος υγείας ανά πηγή χρηματοδότησης</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros finansavimas pagal šaltinį</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Cúram sláinte a mhaoiniú de réir foinse</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Finanziamento dell'assistenza sanitaria per fonte</dct:title>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Financiranje zdravstvenega varstva po viru</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Financiación de la atención de la salud por fuente</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Χρηματοδότηση της υγειονομικής περίθαλψης ανά πηγή</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.05.02.02"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:55Z</dct:issued>
+    <dct:identifier>22324833@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/22324833-bundesamt-fur-statistik-bfs"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

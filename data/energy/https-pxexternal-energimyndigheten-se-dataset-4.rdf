@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcatap="http://data.europa.eu/r5r/"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:j.0="http://entryscape.com/terms/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-pxexternal-energimyndigheten-se-dataset-4">
+    <dct:identifier>https://pxexternal.energimyndigheten.se/dataset/4</dct:identifier>
+    <foaf:primaryTopic>
+      <j.0:ServedByDataService rdf:about="http://data.europa.eu/88u/dataset/https-pxexternal-energimyndigheten-se-dataset-4">
+        <dct:description xml:lang="de-t-sv-t0-mtec">„Energieverbrauch in der Salzwasserfischerei 2017 aufgeschlüsselt nach Kraftstoffart und Motorleistung des Schiffes“</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b258171d-895e-4532-be3b-0953fe7b37f4">
+            <dct:title xml:lang="bg-t-sv-t0-mtec">Услуга за данни с информация на шведски език</dct:title>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">Servizz tad-dejta b’informazzjoni bl-Iżvediż</dct:title>
+            <dct:title xml:lang="sv">Datatjänst med information på svenska</dct:title>
+            <dct:title xml:lang="el-t-sv-t0-mtec">Υπηρεσία δεδομένων με πληροφορίες στα σουηδικά</dct:title>
+            <dct:title xml:lang="da-t-sv-t0-mtec">Dataservice med information på svensk</dct:title>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">Duomenų paslauga su informacija švedų kalba</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">Serviciul de date cu informații în limba suedeză</dct:title>
+            <dcat:accessService rdf:resource="https://pxexternal.energimyndigheten.se/distribution/dataservice/4"/>
+            <dct:title xml:lang="et-t-sv-t0-mtec">Andmeteenus infoga rootsi keeles</dct:title>
+            <dcat:accessURL rdf:resource="https://pxexternal.energimyndigheten.se/api/v1/sv/Fiskesektorns%20energianv%C3%A4ndning/EN0115_2.px"/>
+            <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">Serwis danych z informacjami w języku szwedzkim</dct:title>
+            <dct:identifier>https://pxexternal.energimyndigheten.se/distribution/4sv</dct:identifier>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">Data service met informatie in het Zweeds</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">Podatkovna storitev z informacijami v švedščini</dct:title>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">Datu pakalpojums ar informāciju zviedru valodā</dct:title>
+            <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/stable"/>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">Seirbhís sonraí le faisnéis i Sualainnis</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">Datendienst mit Informationen auf Schwedisch</dct:title>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">Dátová služba s informáciami vo švédčine</dct:title>
+            <dct:title xml:lang="it-t-sv-t0-mtec">Servizio dati con informazioni in svedese</dct:title>
+            <dct:title xml:lang="es-t-sv-t0-mtec">Servicio de datos con información en sueco</dct:title>
+            <dct:title xml:lang="en">Data service with information in Swedish</dct:title>
+            <foaf:page rdf:resource="http://www.energimyndigheten.se/statistik/den-officiella-statistiken/"/>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">Adatszolgáltatás svéd nyelven</dct:title>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">Podatkovna usluga s informacijama na švedskom</dct:title>
+            <rdf:type rdf:resource="http://entryscape.com/terms/ServiceDistribution"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">Service de données avec des informations en suédois</dct:title>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">Tietopalvelu ruotsiksi</dct:title>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">Serviço de dados com informações em sueco</dct:title>
+            <dct:title xml:lang="uk-t-sv-t0-mtec">Служба даних з інформацією шведською мовою</dct:title>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">Datová služba s informacemi ve švédštině</dct:title>
+            <dct:format>application/json</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="et-t-sv-t0-mtec">„Energiakasutus merekalanduses 2017. aastal kütuseliigi ja laeva mootorivõimsuse järgi“</dct:description>
+        <dct:description xml:lang="ro-t-sv-t0-mtec">„Consumul de energie în pescuitul cu apă sărată 2017 defalcat în funcție de tipul de combustibil și de puterea motorului navei”</dct:description>
+        <dct:title xml:lang="el-t-sv-t0-mtec">«Κατανάλωση ενέργειας στην αλιεία αλμυρών υδάτων 2017 ανά τύπο καυσίμου και ισχύ κινητήρα του σκάφους»</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="pt-t-sv-t0-mtec">«Utilização de energia na pesca de água salgada 2017 discriminada por tipo de combustível e potência do motor do navio»</dct:title>
+        <dct:title xml:lang="sv">"Energianvändningen i saltvattensfisket 2017 fördelad på bränsletyp och fartygets motoreffekt"</dct:title>
+        <dct:title xml:lang="de-t-sv-t0-mtec">„Energieverbrauch in der Salzwasserfischerei 2017 aufgeschlüsselt nach Kraftstoffart und Motorleistung des Schiffes“</dct:title>
+        <dct:description xml:lang="sv">"Energianvändningen i saltvattensfisket 2017 fördelad på bränsletyp och fartygets motoreffekt"</dct:description>
+        <dct:description xml:lang="sk-t-sv-t0-mtec">„Využívanie energie pri rybolove slaných vôd v roku 2017 rozčlenené podľa druhu paliva a výkonu motora plavidla“</dct:description>
+        <dct:title xml:lang="lt-t-sv-t0-mtec">„Energijos suvartojimas vykdant žvejybą sūriaisiais vandenimis 2017 m., suskirstytas pagal laivo kuro rūšį ir variklio galią“</dct:title>
+        <dct:description xml:lang="lv-t-sv-t0-mtec">“Enerģijas patēriņš sālsūdens zvejniecībā 2017. gadā, iedalot pēc kuģa degvielas veida un dzinēja jaudas”</dct:description>
+        <dct:title xml:lang="hu-t-sv-t0-mtec">„Energiafelhasználás a 2017. évi sósvízi halászatban a hajó tüzelőanyag-típusa és motorteljesítménye szerinti bontásban”</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://pxexternal.energimyndigheten.se/publisher">
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+            <foaf:homepage rdf:resource="https://www.energimyndigheten.se/"/>
+            <foaf:name>Statens Energimyndighet</foaf:name>
+            <foaf:name xml:lang="en">Swedish energy agency</foaf:name>
+          </foaf:Agent>
+        </dct:publisher>
+        <dct:title xml:lang="sk-t-sv-t0-mtec">„Využívanie energie pri rybolove slaných vôd v roku 2017 rozčlenené podľa druhu paliva a výkonu motora plavidla“</dct:title>
+        <j.0:servedByDataService rdf:resource="https://pxexternal.energimyndigheten.se/distribution/dataservice/4"/>
+        <dct:title xml:lang="et-t-sv-t0-mtec">„Energiakasutus merekalanduses 2017. aastal kütuseliigi ja laeva mootorivõimsuse järgi“</dct:title>
+        <dct:description xml:lang="sl-t-sv-t0-mtec">„Poraba energije pri ribolovu slane vode 2017, razčlenjena glede na vrsto goriva in moč motorja plovila“</dct:description>
+        <dct:description xml:lang="mt-t-sv-t0-mtec">“L-użu tal-enerġija fis-sajd tal-ilma mielaħ fl-2017 imqassam skont it-tip ta’ fjuwil u l-qawwa tal-magna tal-bastiment”</dct:description>
+        <dct:description xml:lang="cs-t-sv-t0-mtec">„Spotřeba energie při rybolovu slaných vod v roce 2017 v členění podle typu paliva a výkonu motoru plavidla“</dct:description>
+        <dct:description xml:lang="el-t-sv-t0-mtec">«Κατανάλωση ενέργειας στην αλιεία αλμυρών υδάτων 2017 ανά τύπο καυσίμου και ισχύ κινητήρα του σκάφους»</dct:description>
+        <dct:description xml:lang="pl-t-sv-t0-mtec">„Zużycie energii w połowach słonowodnych w 2017 r. w podziale na rodzaj paliwa i moc silnika statku”</dct:description>
+        <dct:title xml:lang="fr-t-sv-t0-mtec">«Utilisation de l’énergie dans la pêche en eau salée 2017 ventilée par type de carburant et puissance du moteur du navire»</dct:title>
+        <dct:title xml:lang="mt-t-sv-t0-mtec">“L-użu tal-enerġija fis-sajd tal-ilma mielaħ fl-2017 imqassam skont it-tip ta’ fjuwil u l-qawwa tal-magna tal-bastiment”</dct:title>
+        <dct:title xml:lang="nl-t-sv-t0-mtec">„Energiegebruik in de zoutwatervisserij 2017 uitgesplitst naar brandstoftype en motorvermogen van het vaartuig”</dct:title>
+        <dct:description xml:lang="nl-t-sv-t0-mtec">„Energiegebruik in de zoutwatervisserij 2017 uitgesplitst naar brandstoftype en motorvermogen van het vaartuig”</dct:description>
+        <dct:description xml:lang="fi-t-sv-t0-mtec">”Energiankäyttö suolaisen veden kalastuksessa vuonna 2017 aluksen polttoainetyypin ja konetehon mukaan”</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:contactPoint>
+          <vcard:Individual rdf:about="https://pxexternal.energimyndigheten.se/contact/3">
+            <vcard:fn>Johan Harrysson</vcard:fn>
+            <vcard:hasTelephone rdf:resource="https://pxexternal.energimyndigheten.se/contact/3/phone"/>
+            <vcard:hasEmail rdf:resource="mailto:johan.harrysson@energimyndigheten.se"/>
+          </vcard:Individual>
+        </dcat:contactPoint>
+        <dct:title xml:lang="cs-t-sv-t0-mtec">„Spotřeba energie při rybolovu slaných vod v roce 2017 v členění podle typu paliva a výkonu motoru plavidla“</dct:title>
+        <dct:title xml:lang="it-t-sv-t0-mtec">"Uso di energia nella pesca delle acque salate 2017 ripartito per tipo di combustibile e potenza motore della nave"</dct:title>
+        <dct:title xml:lang="uk-t-sv-t0-mtec">«Використання енергії в солоному рибному промислі 2017 розбивається за типом палива і потужністю двигуна судна»</dct:title>
+        <dcat:landingPage rdf:resource="https://pxexternal.energimyndigheten.se/pxweb/sv/Fiskesektorns%20energianv%C3%A4ndning/-/EN0115_2.px"/>
+        <dct:description xml:lang="da-t-sv-t0-mtec">"Energianvendelse i saltvandsfiskeriet 2017 opdelt efter brændstoftype og maskineffekt for fartøjet"</dct:description>
+        <dct:description xml:lang="hu-t-sv-t0-mtec">„Energiafelhasználás a 2017. évi sósvízi halászatban a hajó tüzelőanyag-típusa és motorteljesítménye szerinti bontásban”</dct:description>
+        <dct:title xml:lang="sl-t-sv-t0-mtec">„Poraba energije pri ribolovu slane vode 2017, razčlenjena glede na vrsto goriva in moč motorja plovila“</dct:title>
+        <dct:title xml:lang="pl-t-sv-t0-mtec">„Zużycie energii w połowach słonowodnych w 2017 r. w podziale na rodzaj paliwa i moc silnika statku”</dct:title>
+        <dct:description xml:lang="it-t-sv-t0-mtec">"Uso di energia nella pesca delle acque salate 2017 ripartito per tipo di combustibile e potenza motore della nave"</dct:description>
+        <dct:title xml:lang="fi-t-sv-t0-mtec">”Energiankäyttö suolaisen veden kalastuksessa vuonna 2017 aluksen polttoainetyypin ja konetehon mukaan”</dct:title>
+        <dct:description xml:lang="pt-t-sv-t0-mtec">«Utilização de energia na pesca de água salgada 2017 discriminada por tipo de combustível e potência do motor do navio»</dct:description>
+        <dct:description xml:lang="en">"Energy consumption in marine fisheries 2017 by fuel type and engine power"</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-02-07</dct:modified>
+        <dcat:keyword>Statens Energimyndighet</dcat:keyword>
+        <dct:title xml:lang="en">"Energy consumption in marine fisheries 2017 by fuel type and engine power"</dct:title>
+        <dct:description xml:lang="lt-t-sv-t0-mtec">„Energijos suvartojimas vykdant žvejybą sūriaisiais vandenimis 2017 m., suskirstytas pagal laivo kuro rūšį ir variklio galią“</dct:description>
+        <dct:description xml:lang="uk-t-sv-t0-mtec">«Використання енергії в солоному рибному промислі 2017 розбивається за типом палива і потужністю двигуна судна»</dct:description>
+        <dct:description xml:lang="hr-t-sv-t0-mtec">„Uporaba energije u ribolovu slanom vodom 2017. raščlanjena prema vrsti goriva i snazi motora plovila”</dct:description>
+        <dct:identifier>EN0115_2</dct:identifier>
+        <dct:description xml:lang="fr-t-sv-t0-mtec">«Utilisation de l’énergie dans la pêche en eau salée 2017 ventilée par type de carburant et puissance du moteur du navire»</dct:description>
+        <dct:title xml:lang="ga-t-sv-t0-mtec">“Úsáid fuinnimh in iascach sáile 2017 arna miondealú de réir chineál breosla agus chumhacht innill an tsoithigh”</dct:title>
+        <dct:description xml:lang="ga-t-sv-t0-mtec">“Úsáid fuinnimh in iascach sáile 2017 arna miondealú de réir chineál breosla agus chumhacht innill an tsoithigh”</dct:description>
+        <dct:title xml:lang="bg-t-sv-t0-mtec">„Потребление на енергия при риболова в соленоводни води за 2017 г., разбито по вид гориво и мощност на двигателя на кораба“</dct:title>
+        <dct:title xml:lang="es-t-sv-t0-mtec">«Utilización de energía en la pesquería de agua salada 2017 desglosada por tipo de combustible y potencia del motor del buque»</dct:title>
+        <dct:title xml:lang="hr-t-sv-t0-mtec">„Uporaba energije u ribolovu slanom vodom 2017. raščlanjena prema vrsti goriva i snazi motora plovila”</dct:title>
+        <dct:description xml:lang="bg-t-sv-t0-mtec">„Потребление на енергия при риболова в соленоводни води за 2017 г., разбито по вид гориво и мощност на двигателя на кораба“</dct:description>
+        <dct:title xml:lang="da-t-sv-t0-mtec">"Energianvendelse i saltvandsfiskeriet 2017 opdelt efter brændstoftype og maskineffekt for fartøjet"</dct:title>
+        <dct:title xml:lang="lv-t-sv-t0-mtec">“Enerģijas patēriņš sālsūdens zvejniecībā 2017. gadā, iedalot pēc kuģa degvielas veida un dzinēja jaudas”</dct:title>
+        <dcat:keyword> </dcat:keyword>
+        <dct:title xml:lang="ro-t-sv-t0-mtec">„Consumul de energie în pescuitul cu apă sărată 2017 defalcat în funcție de tipul de combustibil și de puterea motorului navei”</dct:title>
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dct:description xml:lang="es-t-sv-t0-mtec">«Utilización de energía en la pesquería de agua salada 2017 desglosada por tipo de combustible y potencia del motor del buque»</dct:description>
+      </j.0:ServedByDataService>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T04:30:50Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>521b06f69fb622fd3986e87f501b5d78</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-20T04:30:46Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-05T14:14:26Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-02T04:30:47Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>sv</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-pxexternal-energimyndigheten-se-dataset-4"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

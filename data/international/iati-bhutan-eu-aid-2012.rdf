@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/iati-bhutan-eu-aid-2012">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:38:58Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-04T04:53:42Z</edp:transReceived>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:02:31Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/iati-bhutan-eu-aid-2012"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/iati-bhutan-eu-aid-2012">
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/dacfb95b-d1a5-4e3a-adf5-205777678357">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2000-04-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-04-03</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="da-t-en-t0-mtec">[Forskudt] Europa-Kommissionen — GD INTPA — Udviklingsbistand og humanitær bistand til Bhutan</dct:title>
+        <dct:title xml:lang="en">[DEPRECATED] European Commission - DG INTPA - development and humanitarian assistance to Bhutan</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Commissione europea — DG INTPA — Sviluppo e assistenza umanitaria al Bhutan</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">[Deprecated] Euroopa Komisjon – DG INTPA – arengu- ja humanitaarabi Bhutanile</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat pomocy rozwojowej finansowanej z Europejskiego Funduszu Rozwoju w Bhutanie. Dyrekcja Generalna ds. Partnerstw Międzynarodowych jest odpowiedzialna za formułowanie międzynarodowego partnerstwa i polityki rozwojowej UE, której ostatecznym celem jest ograniczenie ubóstwa, zapewnienie zrównoważonego rozwoju oraz promowanie demokracji, praw człowieka i praworządności na całym świecie. Jego głównym celem jest wdrożenie większości pomocy zewnętrznej Komisji Europejskiej za pomocą instrumentów takich jak Instrument Finansowania Współpracy na rzecz Rozwoju (DCI) i Europejski Fundusz Rozwoju (EFR).
+To kluczowe zadanie wymaga od DG ITPA, aby w otwarty i odpowiedzialny sposób zapewniła budżet UE na pomoc.
+Z tego powodu Komisja publikuje swoje dane w rejestrze Międzynarodowej Inicjatywy na rzecz Przejrzystości Pomocy (IATI) od 2011 r.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/b3a8547a-b804-4cec-a158-30809d0da4d8"/>
+        </dcat:contactPoint>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-07-27</dct:issued>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o rozvojovej pomoci financovanej z Európskeho rozvojového fondu v Bhutáne. Generálne riaditeľstvo pre medzinárodné partnerstvá je zodpovedné za formulovanie medzinárodného partnerstva a rozvojovej politiky EÚ s konečným cieľom znížiť chudobu, zabezpečiť trvalo udržateľný rozvoj a podporovať demokraciu, ľudské práva a právny štát na celom svete. Jeho hlavným účelom je vykonávať väčšinu vonkajšej pomoci Európskej komisie prostredníctvom nástrojov, ako je nástroj rozvojovej spolupráce (DCI) a Európsky rozvojový fond (ERF).
+Táto kľúčová úloha si vyžaduje, aby GR ITPA poskytlo rozpočet pomoci EÚ otvoreným a zodpovedným spôsobom.
+Z tohto dôvodu uverejňuje svoje údaje v registri Iniciatívy za transparentnosť medzinárodnej pomoci (IATI) od roku 2011.</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://www.iatiregistry.org/dataset/ec-intpa-bt">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/iati-bhutan-eu-aid-2012"/>
+            <schema:url>https://www.iatiregistry.org/dataset/ec-intpa-bt</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Информация за помощта за развитие, финансирана чрез Европейския фонд за развитие в Бутан. Генерална дирекция „Международни партньорства“ отговаря за формулирането на политиката на ЕС за международно партньорство и развитие, като крайната цел е намаляване на бедността, осигуряване на устойчиво развитие и насърчаване на демокрацията, правата на човека и принципите на правовата държава по света. Основната му цел е да изпълнява по-голямата част от външната помощ на Европейската комисия чрез инструменти като Инструмента за сътрудничество за развитие (ИСР) и Европейския фонд за развитие (ЕФР). Тази жизненоважна задача изисква ГД ITPA да предоставя бюджета на ЕС за помощ по открит и отговорен начин. Поради тази причина от 2011 г. насам тя публикува своите данни в регистъра на Международната инициатива за прозрачност на помощта (IATI).</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">[Deprecated] Il-Kummissjoni Ewropea — DĠ INTPA — għajnuna għall-iżvilupp u umanitarja lill-Bhutan</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">[Deprecated] Ευρωπαϊκή Επιτροπή — ΓΔ INTPA — αναπτυξιακή και ανθρωπιστική βοήθεια προς το Μπουτάν</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind asistența pentru dezvoltare finanțată prin Fondul european de dezvoltare în Bhutan. Direcția Generală Parteneriate Internaționale este responsabilă de formularea parteneriatului internațional și a politicii de dezvoltare a UE, cu scopul final de a reduce sărăcia, de a asigura dezvoltarea durabilă și de a promova democrația, drepturile omului și statul de drept în întreaga lume. Scopul său principal este de a pune în aplicare cea mai mare parte a asistenței externe a Comisiei Europene, prin intermediul unor instrumente precum Instrumentul de cooperare pentru dezvoltare (ICD) și Fondul european de dezvoltare (FED). Această sarcină vitală necesită ca DG ITPA să furnizeze bugetul UE pentru ajutor într-un mod deschis și responsabil. Din acest motiv, Comisia publică datele sale în Registrul Inițiativei internaționale privind transparența ajutoarelor (IATI) începând din 2011.</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie paramą vystymuisi, finansuojamą iš Europos plėtros fondo Butane. Tarptautinės partnerystės generalinis direktoratas yra atsakingas už ES tarptautinės partnerystės ir vystymosi politikos formavimą, siekiant galutinio tikslo – mažinti skurdą, užtikrinti darnų vystymąsi ir skatinti demokratiją, žmogaus teises ir teisinę valstybę visame pasaulyje. Jos pagrindinis tikslas – įgyvendinti didžiąją Europos Komisijos išorės pagalbos dalį pasitelkiant tokias priemones kaip Vystomojo bendradarbiavimo priemonė (VBP) ir Europos plėtros fondas (EPF).
+Ši gyvybiškai svarbi užduotis reikalauja, kad ITPA generalinis direktoratas ES pagalbos biudžetą pateiktų atvirai ir atskaitingai.
+Dėl šios priežasties nuo 2011 m. ji skelbia savo duomenis Tarptautinės pagalbos skaidrumo iniciatyvos (IATI) registre.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3074"/>
+        <dct:description xml:lang="en">Information on development assistance financed through the European Development Fund in Bhutan. The Directorate-General for International Partnerships is responsible for formulating the EU’s international partnership and development policy, with the ultimate goal to reduce poverty, ensure sustainable development, and promote democracy, human rights, and the rule of law across the world. Its main purpose is to implement most of the European Commission’s external assistance, through instruments such as the Development Cooperation Instrument (DCI) and the European Development Fund (EDF). This vital task requires DG ITPA to deliver the EU’s aid budget in an open and accountable fashion. For this reason, it publishes its data in the International Aid Transparency Initiative (IATI) Registry since 2011.</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Comisión Europea — DG INTPA — Desarrollo y ayuda humanitaria a Bhután</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">[Deprecated] Európai Bizottság – DG INTPA – Fejlesztési és humanitárius segítségnyújtás Bhutánnak</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">[Deprecated] Europäische Kommission – GD INTPA – Entwicklung und humanitäre Hilfe für Bhutan</dct:title>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:description xml:lang="es-t-en-t0-mtec">Información sobre la ayuda al desarrollo financiada a través del Fondo Europeo de Desarrollo en Bhután. La Dirección General de Asociaciones Internacionales es responsable de formular la política internacional de asociación y desarrollo de la UE, con el objetivo final de reducir la pobreza, garantizar el desarrollo sostenible y promover la democracia, los derechos humanos y el Estado de Derecho en todo el mundo. Su principal objetivo es ejecutar la mayor parte de la ayuda exterior de la Comisión Europea, a través de instrumentos como el Instrumento de Cooperación al Desarrollo (ICD) y el Fondo Europeo de Desarrollo (FED).
+Esta tarea vital requiere que la DG ITPA presente el presupuesto de ayuda de la UE de manera abierta y responsable.
+Por este motivo, publica sus datos en el Registro de la Iniciativa Internacional para la Transparencia de la Ayuda (IATI) desde 2011.</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Tájékoztatás a bhutáni Európai Fejlesztési Alapból finanszírozott fejlesztési támogatásról. A Nemzetközi Partnerségi Főigazgatóság feladata az EU nemzetközi partnerségi és fejlesztési politikájának kialakítása, amelynek végső célja a szegénység csökkentése, a fenntartható fejlődés biztosítása, valamint a demokrácia, az emberi jogok és a jogállamiság előmozdítása világszerte. Fő célja az Európai Bizottság külső támogatásának nagy részének végrehajtása olyan eszközökön keresztül, mint a Fejlesztési Együttműködési Eszköz (DCI) és az Európai Fejlesztési Alap (EFA). Ehhez a létfontosságú feladathoz a DG ITPA-nak nyílt és elszámoltatható módon kell biztosítania az EU segélyezési költségvetését. Ezért 2011 óta közzéteszi adatait a nemzetközi segélyátláthatósági kezdeményezés (IATI) nyilvántartásában.</dct:description>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur l’aide au développement financée par le Fonds européen de développement au Bhoutan. La direction générale des partenariats internationaux est chargée d’élaborer la politique internationale de partenariat et de développement de l’UE, dont l’objectif ultime est de réduire la pauvreté, de garantir le développement durable et de promouvoir la démocratie, les droits de l’homme et l’état de droit dans le monde entier. Son objectif principal est de mettre en œuvre la majeure partie de l’aide extérieure de la Commission européenne, au moyen d’instruments tels que l’instrument de financement de la coopération au développement (ICD) et le Fonds européen de développement (FED). Cette tâche essentielle exige de la DG ITPA qu’elle fournisse le budget de l’aide de l’UE d’une manière ouverte et responsable. C’est pourquoi elle publie ses données dans le registre de l’Initiative internationale pour la transparence de l’aide (IATI) depuis 2011.</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Evropská komise – GŘ INTPA – rozvojová a humanitární pomoc Bhútánu</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">[Verouderd] Europese Commissie — DG INTPA — Ontwikkeling en humanitaire hulp aan Bhutan</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/862"/>
+        <dct:title xml:lang="sl-t-en-t0-mtec">[Zaprto] Evropska komisija – GD INTPA – razvojna in humanitarna pomoč Butanu</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-07-27</dct:modified>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Comissão Europeia — DG INTPA — ajuda ao desenvolvimento e ajuda humanitária ao Butão</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan kehitysrahastosta Bhutanissa rahoitettua kehitysapua koskevat tiedot. Kansainvälisten kumppanuuksien pääosaston tehtävänä on laatia EU:n kansainvälinen kumppanuus- ja kehitysyhteistyöpolitiikka, jonka perimmäisenä tavoitteena on köyhyyden vähentäminen, kestävän kehityksen varmistaminen sekä demokratian, ihmisoikeuksien ja oikeusvaltion edistäminen kaikkialla maailmassa. Sen päätarkoituksena on panna täytäntöön suurin osa Euroopan komission ulkoisesta avusta muun muassa kehitysyhteistyön rahoitusvälineen (DCI) ja Euroopan kehitysrahaston (EKR) avulla. Tämä elintärkeä tehtävä edellyttää, että pääosasto toteuttaa EU:n avustusbudjetin avoimesti ja vastuullisesti. Tästä syystä se on julkaissut tietojaan kansainvälisen avun avoimuusaloitteen (IATI) rekisterissä vuodesta 2011.</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o razvojni pomoči, financirani iz Evropskega razvojnega sklada v Butanu. Generalni direktorat za mednarodna partnerstva je odgovoren za oblikovanje mednarodne partnerske in razvojne politike EU, katere končni cilj je zmanjšati revščino, zagotoviti trajnostni razvoj ter spodbujati demokracijo, človekove pravice in pravno državo po vsem svetu. Njegov glavni namen je izvajanje večine zunanje pomoči Evropske komisije prek instrumentov, kot sta instrument za razvojno sodelovanje (DCI) in Evropski razvojni sklad (ERS). Ta ključna naloga zahteva, da GD ITPA zagotovi proračun EU za pomoč na odprt in odgovoren način. Zato od leta 2011 objavlja svoje podatke v registru mednarodne pobude za preglednost pomoči (IATI).</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis maidir le cúnamh forbartha arna mhaoiniú tríd an gCiste Eorpach Forbraíochta sa Bhútáin. Tá Ard-Stiúrthóireacht na gComhpháirtíochtaí Idirnáisiúnta freagrach as beartas comhpháirtíochta agus forbartha idirnáisiúnta an Aontais a cheapadh, agus é mar sprioc dheiridh aici an bhochtaineacht a laghdú, forbairt inbhuanaithe a áirithiú, agus an daonlathas, cearta an duine agus an smacht reachta a chur chun cinn ar fud an domhain. Is é is príomhchuspóir dó an chuid is mó de chúnamh seachtrach an Choimisiúin Eorpaigh a chur chun feidhme, trí ionstraimí amhail an Ionstraim maidir le Comhar um Fhorbairt (DCI) agus an Ciste Eorpach Forbraíochta (CEF). Éilíonn an cúram ríthábhachtach seo ar AS ITPA buiséad cabhrach an Aontais a chur i gcrích ar bhealach oscailte cuntasach. Ar an gcúis sin, foilsíonn sé a chuid sonraí i gClárlann an Tionscnaimh Trédhearcachta um Chabhair Idirnáisiúnta (IATI) ó 2011 i leith.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">[Odňatá] Európska komisia – GR INTPA – rozvojová a humanitárna pomoc Bhutánu</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:title xml:lang="fi-t-en-t0-mtec">[Deprecated] Euroopan komissio – INTPA-pääosasto – kehitysyhteistyö ja humanitaarinen apu Bhutanille</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om udviklingsbistand, der finansieres gennem Den Europæiske Udviklingsfond i Bhutan. Generaldirektoratet for Internationale Partnerskaber er ansvarligt for udformningen af EU's internationale partnerskabs- og udviklingspolitik med det endelige mål at reducere fattigdom, sikre bæredygtig udvikling og fremme demokrati, menneskerettigheder og retsstatsprincippet i hele verden. Hovedformålet er at gennemføre størstedelen af Europa-Kommissionens eksterne bistand gennem instrumenter såsom instrumentet til finansiering af udviklingssamarbejde (DCI) og Den Europæiske Udviklingsfond (EUF).
+Denne afgørende opgave kræver, at GD ITPA gennemfører EU's bistandsbudget på en åben og ansvarlig måde.
+Derfor har den siden 2011 offentliggjort sine data i International Aid Transparency Initiative (IATI) Registry.</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teave arenguabi kohta, mida rahastatakse Euroopa Arengufondist Bhutanis. Rahvusvahelise partnerluse peadirektoraat vastutab ELi rahvusvahelise partnerluse ja arengupoliitika kujundamise eest, mille lõppeesmärk on vähendada vaesust, tagada säästev areng ning edendada demokraatiat, inimõigusi ja õigusriiki kogu maailmas. Selle peamine eesmärk on rakendada suurem osa Euroopa Komisjoni välisabist selliste vahendite kaudu nagu arengukoostöö rahastamisvahend ja Euroopa Arengufond. See oluline ülesanne nõuab, et DG ITPA täidaks ELi abieelarve avatud ja vastutustundlikult.
+Sel põhjusel avaldab komisjon alates 2011. aastast oma andmed rahvusvahelise abi läbipaistvuse algatuse (IATI) registris.</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Informace o rozvojové pomoci financované z Evropského rozvojového fondu v Bhútánu. Generální ředitelství pro mezinárodní partnerství odpovídá za formulování mezinárodní politiky partnerství a rozvoje EU s konečným cílem snížit chudobu, zajistit udržitelný rozvoj a podporovat demokracii, lidská práva a právní stát po celém světě. Jeho hlavním účelem je provádět většinu vnější pomoci Evropské komise prostřednictvím nástrojů, jako je nástroj pro rozvojovou spolupráci (DCI) a Evropský rozvojový fond (ERF).
+Tento zásadní úkol vyžaduje, aby GŘ ITPA plnilo rozpočet EU na pomoc otevřeným a odpovědným způsobem.
+Z tohoto důvodu zveřejňuje své údaje v registru Mezinárodní iniciativy pro transparentnost pomoci (IATI) od roku 2011.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BTN"/>
+        </dct:spatial>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/INTPA"/>
+        </dct:publisher>
+        <dct:title xml:lang="sv-t-en-t0-mtec">[Fördömd] Europeiska kommissionen – GD INTPA – Utvecklingsbistånd och humanitärt bistånd till Bhutan</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">[Deprecated] Komisja Europejska – DG INTPA – pomoc rozwojowa i humanitarna dla Bhutanu</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">[Réamhaithe] An Coimisiún Eorpach — AS INTPA — cúnamh forbartha agus daonnúil don Bhútáin</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">[Deprecated] Europos Komisija – INTPA GD – vystymosi ir humanitarinė pagalba Butanui</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Information om utvecklingsbistånd som finansieras genom Europeiska utvecklingsfonden i Bhutan. Generaldirektoratet för internationella partnerskap ansvarar för utformningen av EU:s internationella partnerskaps- och utvecklingspolitik, med det slutliga målet att minska fattigdomen, säkerställa hållbar utveckling och främja demokrati, mänskliga rättigheter och rättsstatsprincipen i hela världen. Huvudsyftet är att genomföra merparten av Europeiska kommissionens externa bistånd genom instrument som finansieringsinstrumentet för utvecklingssamarbete och Europeiska utvecklingsfonden (EUF).
+Denna viktiga uppgift kräver att GD ITPA tillhandahåller EU:s biståndsbudget på ett öppet och ansvarsfullt sätt.
+Kommissionen offentliggör därför sina uppgifter i IATI-registret (International Aid Transparency Initiative) sedan 2011.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over de door het Europees Ontwikkelingsfonds in Bhutan gefinancierde ontwikkelingshulp. Het directoraat-generaal Internationale Partnerschappen is verantwoordelijk voor het formuleren van het internationale partnerschaps- en ontwikkelingsbeleid van de EU, met als uiteindelijke doel armoede terug te dringen, duurzame ontwikkeling te waarborgen en democratie, mensenrechten en de rechtsstaat overal ter wereld te bevorderen. Het voornaamste doel is het grootste deel van de externe bijstand van de Europese Commissie ten uitvoer te leggen door middel van instrumenten zoals het instrument voor ontwikkelingssamenwerking (DCI) en het Europees Ontwikkelingsfonds (EOF).
+Deze essentiële taak vereist dat DG ITPA de EU-steunbegroting op een open en verantwoordelijke manier uitvoert.
+Daarom publiceert zij haar gegevens sinds 2011 in het register van het International Aid Transparency Initiative (IATI).</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3077"/>
+        <dct:description xml:lang="de-t-en-t0-mtec">Informationen über die aus dem Europäischen Entwicklungsfonds in Bhutan finanzierte Entwicklungshilfe. Die Generaldirektion Internationale Partnerschaften ist zuständig für die Formulierung der internationalen Partnerschafts- und Entwicklungspolitik der EU mit dem Ziel, Armut zu verringern, eine nachhaltige Entwicklung zu gewährleisten und Demokratie, Menschenrechte und Rechtsstaatlichkeit weltweit zu fördern. Ihr Hauptzweck besteht darin, den Großteil der Außenhilfe der Europäischen Kommission durch Instrumente wie das Instrument für die Entwicklungszusammenarbeit (DCI) und den Europäischen Entwicklungsfonds (EEF) umzusetzen. Diese wichtige Aufgabe erfordert, dass die GD ITPA den EU-Beihilfehaushalt auf offene und rechenschaftspflichtige Weise ausführt. Aus diesem Grund veröffentlicht sie ihre Daten seit 2011 im Register der International Aid Transparency Initiative (IATI).</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre a ajuda ao desenvolvimento financiada pelo Fundo Europeu de Desenvolvimento no Butão. A Direção-Geral das Parcerias Internacionais é responsável pela formulação da política de parceria internacional e de desenvolvimento da UE, com o objetivo último de reduzir a pobreza, assegurar o desenvolvimento sustentável e promover a democracia, os direitos humanos e o Estado de direito em todo o mundo. O seu principal objetivo é executar a maior parte da ajuda externa da Comissão Europeia, através de instrumentos como o Instrumento de Cooperação para o Desenvolvimento (ICD) e o Fundo Europeu de Desenvolvimento (FED).
+Esta tarefa essencial exige que a DG ITPA forneça o orçamento de ajuda da UE de forma aberta e responsável.
+Por este motivo, publica os seus dados no Registo da Iniciativa Internacional para a Transparência da Ajuda (IATI) desde 2011.</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">[Одобрена] Европейска комисия — ГД INTPA — помощ за развитие и хуманитарна помощ за Бутан</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar l-għajnuna għall-iżvilupp iffinanzjata permezz tal-Fond Ewropew għall-Iżvilupp fil-Bhutan. Id-Direttorat Ġenerali għas-Sħubijiet Internazzjonali huwa responsabbli għall-formulazzjoni tas-sħubija internazzjonali u l-politika tal-iżvilupp tal-UE, bl-għan aħħari li jitnaqqas il-faqar, jiġi żgurat l-iżvilupp sostenibbli, u jiġu promossi d-demokrazija, id-drittijiet tal-bniedem, u l-istat tad-dritt madwar id-dinja. L-għan ewlieni tagħha huwa li timplimenta l-parti l-kbira tal-assistenza esterna tal-Kummissjoni Ewropea, permezz ta’ strumenti bħall-Istrument tal-Kooperazzjoni għall-Iżvilupp (DCI) u l-Fond Ewropew għall-Iżvilupp (FEŻ).
+Dan il-kompitu vitali jeħtieġ li d-DĠ ITPA jagħti l-baġit tal-għajnuna tal-UE b’mod miftuħ u responsabbli.
+Għal din ir-raġuni, hija tippubblika d-data tagħha fir-Reġistru tal-Inizjattiva Internazzjonali għat-Trasparenza tal-Għajnuna (IATI) mill-2011.</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με την αναπτυξιακή βοήθεια που χρηματοδοτείται από το Ευρωπαϊκό Ταμείο Ανάπτυξης στο Μπουτάν. Η Γενική Διεύθυνση Διεθνών Εταιρικών Σχέσεων είναι αρμόδια για τη διαμόρφωση της διεθνούς εταιρικής σχέσης και της αναπτυξιακής πολιτικής της ΕΕ, με απώτερο στόχο τη μείωση της φτώχειας, τη διασφάλιση της βιώσιμης ανάπτυξης και την προώθηση της δημοκρατίας, των ανθρωπίνων δικαιωμάτων και του κράτους δικαίου σε ολόκληρο τον κόσμο. Κύριος στόχος της είναι η υλοποίηση του μεγαλύτερου μέρους της εξωτερικής βοήθειας της Ευρωπαϊκής Επιτροπής, μέσω μηχανισμών όπως ο Μηχανισμός Αναπτυξιακής Συνεργασίας (ΜΑΣ) και το Ευρωπαϊκό Ταμείο Ανάπτυξης (ΕΤΑ). Αυτό το ζωτικό καθήκον απαιτεί από τη ΓΔ ITPA να παρέχει τον προϋπολογισμό βοήθειας της ΕΕ με ανοικτό και υπεύθυνο τρόπο. Για τον λόγο αυτό, δημοσιεύει τα δεδομένα της στο μητρώο της Πρωτοβουλίας για τη Διαφάνεια της Διεθνούς Βοήθειας (IATI) από το 2011.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sugli aiuti allo sviluppo finanziati dal Fondo europeo di sviluppo in Bhutan. La direzione generale dei Partenariati internazionali è responsabile della formulazione del partenariato internazionale e della politica di sviluppo dell'UE, con l'obiettivo ultimo di ridurre la povertà, garantire lo sviluppo sostenibile e promuovere la democrazia, i diritti umani e lo Stato di diritto in tutto il mondo. Il suo obiettivo principale è quello di attuare la maggior parte dell'assistenza esterna della Commissione europea, attraverso strumenti quali lo strumento di cooperazione allo sviluppo (DCI) e il Fondo europeo di sviluppo (FES).
+Questo compito fondamentale richiede alla DG ITPA di erogare il bilancio dell'UE per gli aiuti in modo aperto e responsabile.
+Per questo motivo pubblica i propri dati nel registro dell'iniziativa per la trasparenza degli aiuti internazionali (IATI) dal 2011.</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">[Deprecated] Eiropas Komisija — INTPA ĢD — attīstības un humānā palīdzība Butānai</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4055"/>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="hr-t-en-t0-mtec">[Narušeno] Europska komisija – DG INTPA – razvojna i humanitarna pomoć Butanu</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o razvojnoj pomoći koja se financira iz Europskog razvojnog fonda u Butanu. Glavna uprava za međunarodna partnerstva odgovorna je za oblikovanje međunarodnog partnerstva i razvojne politike EU-a s krajnjim ciljem smanjenja siromaštva, osiguravanja održivog razvoja i promicanja demokracije, ljudskih prava i vladavine prava diljem svijeta. Njegova je glavna svrha provedba većine vanjske pomoći Europske komisije s pomoću instrumenata kao što su Instrument za razvojnu suradnju (DCI) i Europski razvojni fond (ERF). Ta ključna zadaća zahtijeva od GU-a ITPA da proračun EU-a za pomoć osigura na otvoren i odgovoran način. Stoga od 2011. objavljuje svoje podatke u registru Inicijative za transparentnost međunarodne pomoći (IATI).</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">[Depreciat] Comisia Europeană – DG INTPA – asistență pentru dezvoltare și ajutor umanitar pentru Bhutan</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par attīstības palīdzību, ko finansē no Eiropas Attīstības fonda Butānā. Starptautisko partnerību ģenerāldirektorāts ir atbildīgs par ES starptautiskās partnerības un attīstības politikas formulēšanu, kuras galīgais mērķis ir samazināt nabadzību, nodrošināt ilgtspējīgu attīstību un veicināt demokrātiju, cilvēktiesības un tiesiskumu visā pasaulē. Tās galvenais mērķis ir īstenot lielāko daļu Eiropas Komisijas ārējās palīdzības, izmantojot tādus instrumentus kā attīstības sadarbības instruments (ASI) un Eiropas Attīstības fonds (EAF).
+Šim būtiskajam uzdevumam ITPA ĢD ir jānodrošina ES palīdzības budžets atklātā un atbildīgā veidā.
+Šā iemesla dēļ kopš 2011. gada tā publicē savus datus Starptautiskās palīdzības pārredzamības iniciatīvas (IATI) reģistrā.</dct:description>
+        <dct:title xml:lang="fr-t-en-t0-mtec">[Déprécié] Commission européenne — DG INTPA — Aide au développement et aide humanitaire au Bhoutan</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/BIENNIAL"/>
+        </dct:accrualPeriodicity>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>cb67fe711c799134d6f94ba7d45bf547</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>iati-bhutan-eu-aid-2012</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:02:33Z</edp:transIssued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

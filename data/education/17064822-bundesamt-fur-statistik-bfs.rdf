@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/17064822-bundesamt-fur-statistik-bfs">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:16Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/17064822-bundesamt-fur-statistik-bfs"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:59Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/17064822-bundesamt-fur-statistik-bfs">
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Izglītības gradienti māsu nozarē</dct:title>
+        <dct:identifier>17064822@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="fr">Parcours de formation dans le domaine des soins</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:keyword xml:lang="en">longitudinal-section-analyzes-in-the-field-of-education</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:description xml:lang="en-t-de-t0-mtec">This publication deals with the courses of nursing training at upper secondary and tertiary level. The results enable a better understanding of the dynamics in the care sector and the resulting recruitment needs.</dct:description>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Această publicație se ocupă cu cursurile de formare medicală la nivel secundar superior și terțiar. Rezultatele permit o mai bună înțelegere a dinamicii din sectorul îngrijirii și a nevoilor de recrutare rezultate.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5c571c38-f49f-4633-987c-4bd257e3d463">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izobraževalni gradienti v sektorju zdravstvene nege</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Ця публікація присвячена курсам сестринської підготовки на вищому середньому та третинному рівнях. Результати дозволяють краще зрозуміти динаміку в секторі догляду та потреби в підборі персоналу.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Oktatási gradiensek az ápolási szektorban</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Gradienti educaționali în sectorul asistenței medicale</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ova publikacija bavi se tečajevima osposobljavanja sestrinstva na višoj sekundarnoj i tercijarnoj razini. Rezultati omogućuju bolje razumijevanje dinamike u sektoru skrbi i posljedičnih potreba za zapošljavanjem.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/2130-2100"/>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa pubblicazione tratta i corsi di formazione infermieristica a livello secondario e terziario superiore. I risultati consentono una migliore comprensione delle dinamiche nel settore dell'assistenza e delle conseguenti esigenze di assunzione.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Gradjenti edukattivi fis-settur tal-infermiera</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-07T00:00:00</dct:modified>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Gradienty edukacyjne w sektorze pielęgniarskim</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Denne publikation omhandler kurserne i sygeplejeuddannelse på gymnasialt og tertiært niveau. Resultaterne muliggør en bedre forståelse af dynamikken i plejesektoren og de deraf følgende rekrutteringsbehov.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Niniejsza publikacja dotyczy kursów kształcenia pielęgniarskiego na poziomie średnim II stopnia i wyższym. Wyniki pozwalają lepiej zrozumieć dynamikę w sektorze opieki i wynikające z niej potrzeby rekrutacyjne.</dct:description>
+            <dct:description xml:lang="de">Die vorliegende Publikation befasst sich mit den Verläufen der Pflegeausbildungen auf Sekundarstufe II und auf Tertiärstufe. Die Ergebnisse ermöglichen ein besseres Verständnis der Dynamiken im Pflegebereich und des daraus resultierenden Rekrutierungsbedarfs.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This publication deals with the courses of nursing training at upper secondary and tertiary level. The results enable a better understanding of the dynamics in the care sector and the resulting recruitment needs.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Esta publicación trata de los cursos de formación de enfermería a nivel superior y terciario. Los resultados permiten comprender mejor la dinámica del sector asistencial y las necesidades de contratación resultantes.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Gradienti educativi nel settore infermieristico</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Švietimo gradientai slaugos sektoriuje</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame leidinyje aptariami slaugos mokymo kursai vidurinio ir aukštojo mokslo lygmenyse. Rezultatai padeda geriau suprasti priežiūros sektoriaus dinamiką ir su tuo susijusius įdarbinimo poreikius.</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din il-pubblikazzjoni tittratta l-korsijiet ta’ taħriġ tal-infermiera fil-livell sekondarju għoli u dak terzjarju. Ir-riżultati jippermettu fehim aħjar tad-dinamika fis-settur tal-kura u l-ħtiġijiet ta’ reklutaġġ li jirriżultaw.</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Освітні градієнти в медсестринському секторі</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Hoitoalan koulutuskaltevuus</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze publicatie behandelt de cursussen verpleegkunde op hoger secundair en tertiair niveau. De resultaten zorgen voor een beter inzicht in de dynamiek in de zorgsector en de daaruit voortvloeiende wervingsbehoeften.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Käesolevas väljaandes käsitletakse õenduskoolituse kursusi kesk- ja kolmanda taseme ülemisel astmel. Tulemused võimaldavad paremini mõista hooldussektori dünaamikat ja sellest tulenevaid värbamisvajadusi.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā publikācijā aplūkoti māsu apmācības kursi vidusskolas un terciārās izglītības līmenī. Rezultāti ļauj labāk izprast dinamiku aprūpes nozarē un no tās izrietošās darbā pieņemšanas vajadzības.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä julkaisussa käsitellään toisen asteen ja korkea-asteen hoitotyön kursseja. Tulokset auttavat ymmärtämään paremmin hoitoalan dynamiikkaa ja siitä johtuvia rekrytointitarpeita.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Esta publicação trata dos cursos de formação de enfermagem em nível superior secundário e terciário. Os resultados possibilitam uma melhor compreensão da dinâmica no setor assistencial e das necessidades de recrutamento resultantes.</dct:description>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="es-t-de-t0-mtec">Gradientes educativos en el sector de enfermería</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Denna publikation behandlar kurser i sjuksköterskeutbildning på gymnasie- och högskolenivå. Resultaten möjliggör en bättre förståelse för dynamiken inom vårdsektorn och de resulterande rekryteringsbehoven.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Táto publikácia sa zaoberá kurzami ošetrovateľskej odbornej prípravy na vyššej stredoškolskej a terciárnej úrovni. Výsledky umožňujú lepšie pochopiť dynamiku v sektore starostlivosti a z toho vyplývajúce potreby náboru.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Uddannelsesmæssige gradienter i sygeplejesektoren</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Hariduslikud kalled õendussektoris</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Onderwijsgradiënten in de verpleegsector</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Baineann an foilseachán seo le cúrsaí oiliúna altranais ag leibhéal meánscoile uachtaraí agus treasach. Cumasaíonn na torthaí tuiscint níos fearr ar an dinimic in earnáil an chúraim agus ar na riachtanais earcaíochta a eascraíonn astu.</dct:description>
+            <dct:identifier>17064824-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez a kiadvány a felső középfokú és felsőfokú ápolási képzés kurzusaival foglalkozik. Az eredmények lehetővé teszik a gondozási ágazat dinamikájának és az ebből eredő munkaerő-felvételi igények jobb megértését.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Obrazovni gradijenti u sektoru sestrinstva</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тази публикация се занимава с курсовете за обучение на медицински сестри в гимназиален етап на средното образование и висше образование. Резултатите дават възможност за по-добро разбиране на динамиката в сектора на грижите и произтичащите от това нужди от наемане на работа.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ta publikacija obravnava tečaje usposabljanja zdravstvene nege na višji sekundarni in terciarni ravni. Rezultati omogočajo boljše razumevanje dinamike v sektorju oskrbe in posledičnih potreb po zaposlovanju.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Η παρούσα έκδοση ασχολείται με τα μαθήματα νοσηλευτικής εκπαίδευσης στην ανώτερη δευτεροβάθμια και τριτοβάθμια εκπαίδευση. Τα αποτελέσματα επιτρέπουν την καλύτερη κατανόηση της δυναμικής στον τομέα της περίθαλψης και των αναγκών πρόσληψης που προκύπτουν.</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">La présente publication traite de l’évolution des formations infirmières au niveau secondaire supérieur et supérieur. Les résultats permettent de mieux comprendre les dynamiques dans le domaine des soins et les besoins en recrutement qui en découlent.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Această publicație se ocupă cu cursurile de formare medicală la nivel secundar superior și terțiar. Rezultatele permit o mai bună înțelegere a dinamicii din sectorul îngrijirii și a nevoilor de recrutare rezultate.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">Educational gradients in the nursing sector</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Utbildningsgradienter inom sjuksköterskesektorn</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Gradientes educacionais no setor de enfermagem</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Grádáin oideachais san earnáil altranais</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tato publikace se zabývá kurzy ošetřovatelské přípravy na vyšší sekundární a terciární úrovni. Výsledky umožňují lepší pochopení dynamiky v odvětví péče a výsledných potřeb náboru pracovníků.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Historique de l’éducation dans le domaine des soins</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vzdělávací gradienty v ošetřovatelském sektoru</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-11T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vzdelávacie gradienty v sektore ošetrovateľstva</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="de">Bildungsverläufe im Pflegebereich</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Образователни градиенти в сектора на сестринските грижи</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Izglītības gradienti māsu nozarē</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εκπαιδευτικές διαβαθμίσεις στον τομέα της νοσηλευτικής</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Gradjenti edukattivi fis-settur tal-infermiera</dct:title>
+        <dcat:keyword xml:lang="it">pubblicazione</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Gradientes educativos en el sector de enfermería</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Gradienty edukacyjne w sektorze pielęgniarskim</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-05-11T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="it">analisi-longitudinale-in-materia-di-istruzione</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Hoitoalan koulutuskaltevuus</dct:title>
+        <dct:description xml:lang="fr">Dans la perspective d’une meilleure compréhension des dynamiques à l’œuvre en lien avec le besoin de recrutement dans le domaine des soins, cette publication s’intéresse aux parcours de formation au degré secondaire II et au degré tertiaire dans ce domaine.</dct:description>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ova publikacija bavi se tečajevima osposobljavanja sestrinstva na višoj sekundarnoj i tercijarnoj razini. Rezultati omogućuju bolje razumijevanje dinamike u sektoru skrbi i posljedičnih potreba za zapošljavanjem.</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Käesolevas väljaandes käsitletakse õenduskoolituse kursusi kesk- ja kolmanda taseme ülemisel astmel. Tulemused võimaldavad paremini mõista hooldussektori dünaamikat ja sellest tulenevaid värbamisvajadusi.</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izobraževalni gradienti v sektorju zdravstvene nege</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Esta publicación trata de los cursos de formación de enfermería a nivel superior y terciario. Los resultados permiten comprender mejor la dinámica del sector asistencial y las necesidades de contratación resultantes.</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Gradienti educaționali în sectorul asistenței medicale</dct:title>
+        <dcat:keyword xml:lang="fr">publication</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="en">publication</dcat:keyword>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Esta publicação trata dos cursos de formação de enfermagem em nível superior secundário e terciário. Os resultados possibilitam uma melhor compreensão da dinâmica no setor assistencial e das necessidades de recrutamento resultantes.</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Η παρούσα έκδοση ασχολείται με τα μαθήματα νοσηλευτικής εκπαίδευσης στην ανώτερη δευτεροβάθμια και τριτοβάθμια εκπαίδευση. Τα αποτελέσματα επιτρέπουν την καλύτερη κατανόηση της δυναμικής στον τομέα της περίθαλψης και των αναγκών πρόσληψης που προκύπτουν.</dct:description>
+        <dcat:keyword xml:lang="de">langsschnittanalysen-im-bildungsbereich</dcat:keyword>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tato publikace se zabývá kurzy ošetřovatelské přípravy na vyšší sekundární a terciární úrovni. Výsledky umožňují lepší pochopení dynamiky v odvětví péče a výsledných potřeb náboru pracovníků.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Образователни градиенти в сектора на сестринските грижи</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Gradientes educacionais no setor de enfermagem</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez a kiadvány a felső középfokú és felsőfokú ápolási képzés kurzusaival foglalkozik. Az eredmények lehetővé teszik a gondozási ágazat dinamikájának és az ebből eredő munkaerő-felvételi igények jobb megértését.</dct:description>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questa pubblicazione tratta i corsi di formazione infermieristica a livello secondario e terziario superiore. I risultati consentono una migliore comprensione delle dinamiche nel settore dell'assistenza e delle conseguenti esigenze di assunzione.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6df38b7c-dad7-4b9e-9545-7d0824c59711">
+            <dct:title xml:lang="de-t-fr-t0-mtec">Schulungspfade im Pflegebereich</dct:title>
+            <dct:description xml:lang="de-t-fr-t0-mtec">Im Hinblick auf ein besseres Verständnis der Dynamiken im Zusammenhang mit dem Einstellungsbedarf im Pflegebereich konzentriert sich diese Publikation auf die Bildungswege der Sekundarstufe II und des Tertiärbereichs in diesem Bereich.</dct:description>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Курс на обучение в областта на грижите</dct:title>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Aby lepiej zrozumieć dynamikę pracy w związku z potrzebą rekrutacji w dziedzinie opieki, niniejsza publikacja koncentruje się na szkolnictwie średnim i wyższym w tej dziedzinie.</dct:description>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Med henblik på en bedre forståelse af dynamikken på arbejdspladsen i forhold til behovet for rekruttering på plejeområdet fokuserer denne publikation på ungdomsuddannelser og videregående uddannelser på dette område.</dct:description>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Навчальний курс у сфері догляду</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Training course in the field of care</dct:title>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">S cílem lépe pochopit dynamiku práce v souvislosti s potřebou náboru v oblasti péče se tato publikace zaměřuje na středoškolské a terciární vzdělávání v této oblasti.</dct:description>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Szkolenie w zakresie opieki</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Cúrsa oiliúna i réimse an chúraim</dct:title>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">S cieľom lepšie pochopiť dynamiku práce v súvislosti s potrebou náboru v oblasti starostlivosti sa táto publikácia zameriava na stredoškolské a terciárne vzdelávanie v tejto oblasti.</dct:description>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">D’fhonn tuiscint níos fearr a fháil ar an dinimic ag an obair i ndáil leis an ngá atá le hearcú i réimse an chúraim, dírítear san fhoilseachán seo ar oideachas meánscoile agus oideachas treasach sa réimse seo.</dct:description>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Tässä julkaisussa keskitytään alan keskiasteen ja korkea-asteen koulutukseen, jotta voidaan ymmärtää paremmin työn dynamiikkaa suhteessa hoitoalan rekrytointitarpeeseen.</dct:description>
+            <dct:identifier>17064825-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Hoitoalan koulutus</dct:title>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Annak érdekében, hogy jobban megértsük a munkahelyi dinamikát a gondozás területén történő toborzás szükségességével kapcsolatban, ez a kiadvány ezen a területen a közép- és felsőfokú oktatásra összpontosít.</dct:description>
+            <dct:description xml:lang="et-t-fr-t0-mtec">Selleks et paremini mõista töö dünaamikat seoses vajadusega tööle võtta hooldusvaldkonnas, keskendutakse käesolevas väljaandes selle valdkonna kesk- ja kolmanda taseme haridusele.</dct:description>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Lai labāk izprastu darba dinamiku saistībā ar nepieciešamību pieņemt darbā aprūpes jomā, šajā publikācijā galvenā uzmanība pievērsta vidējai un augstākajai izglītībai šajā jomā.</dct:description>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">S ciljem boljeg razumijevanja dinamike na radnom mjestu u odnosu na potrebu za zapošljavanjem u području skrbi, ova je publikacija usmjerena na srednjoškolsko i tercijarno obrazovanje u tom području.</dct:description>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">În vederea unei mai bune înțelegeri a dinamicii la locul de muncă în raport cu nevoia de recrutare în domeniul îngrijirii, această publicație se concentrează pe învățământul secundar și terțiar în acest domeniu.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/2131-2100"/>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kors ta’ taħriġ fil-qasam tal-kura</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Koolituskursus hooldusvaldkonnas</dct:title>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">З метою кращого розуміння динаміки на роботі у зв'язку з необхідністю набору персоналу у сфері догляду, ця публікація фокусується на середній та третинній освіті в цій галузі.</dct:description>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Curso de formação no domínio dos cuidados</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Tečaj usposabljanja na področju nege</dct:title>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">Za boljše razumevanje dinamike na delovnem mestu v zvezi s potrebo po zaposlovanju na področju oskrbe se ta publikacija osredotoča na srednješolsko in terciarno izobraževanje na tem področju.</dct:description>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">För att bättre förstå dynamiken i arbetet i förhållande till behovet av rekrytering inom vårdområdet fokuserar denna publikation på gymnasie- och högskoleutbildning inom detta område.</dct:description>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Kurz odbornej prípravy v oblasti starostlivosti</dct:title>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Siekiant geriau suprasti darbo dinamiką, susijusią su poreikiu įdarbinti priežiūros srityje, šiame leidinyje daugiausia dėmesio skiriama viduriniam ir tretiniam išsilavinimui šioje srityje.</dct:description>
+            <dct:description xml:lang="es-t-fr-t0-mtec">Con vistas a una mejor comprensión de la dinámica en el trabajo en relación con la necesidad de contratación en el campo de la atención, esta publicación se centra en la educación secundaria y terciaria en este campo.</dct:description>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">С оглед на по-доброто разбиране на динамиката на работното място във връзка с необходимостта от наемане на работа в областта на грижите, настоящата публикация се фокусира върху средното и висшето образование в тази област.</dct:description>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Képzés a gondozás területén</dct:title>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Bil-ħsieb ta’ fehim aħjar tad-dinamika fuq il-post tax-xogħol fir-rigward tal-ħtieġa ta’ reklutaġġ fil-qasam tal-kura, din il-pubblikazzjoni tiffoka fuq l-edukazzjoni sekondarja u terzjarja f’dan il-qasam.</dct:description>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Kursus inden for pleje</dct:title>
+            <dct:description xml:lang="fr">Dans la perspective d’une meilleure compréhension des dynamiques à l’œuvre en lien avec le besoin de recrutement dans le domaine des soins, cette publication s’intéresse aux parcours de formation au degré secondaire II et au degré tertiaire dans ce domaine.</dct:description>
+            <dct:description xml:lang="en-t-fr-t0-mtec">With a view to a better understanding of the dynamics at work in relation to the need for recruitment in the field of care, this publication focuses on secondary and tertiary education in this field.</dct:description>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Mokymo kursai priežiūros srityje</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Curso de formación en el ámbito de la atención</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Corso di formazione nel campo delle cure</dct:title>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Com vistas a uma melhor compreensão da dinâmica do trabalho em relação à necessidade de recrutamento no campo da assistência, esta publicação enfoca o ensino secundário e terciário neste campo.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Μαθήματα κατάρτισης στον τομέα της φροντίδας</dct:title>
+            <dct:description xml:lang="it-t-fr-t0-mtec">In vista di una migliore comprensione delle dinamiche sul lavoro in relazione alla necessità di reclutamento nel campo dell'assistenza, la presente pubblicazione si concentra sull'istruzione secondaria e terziaria in questo campo.</dct:description>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Met het oog op een beter begrip van de dynamiek op het werk in relatie tot de behoefte aan rekrutering op het gebied van zorg, richt deze publicatie zich op middelbaar en tertiair onderwijs op dit gebied.</dct:description>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Με στόχο την καλύτερη κατανόηση της δυναμικής στην εργασία σε σχέση με την ανάγκη πρόσληψης στον τομέα της περίθαλψης, η παρούσα έκδοση επικεντρώνεται στη δευτεροβάθμια και τριτοβάθμια εκπαίδευση στον τομέα αυτό.</dct:description>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Curs de formare în domeniul îngrijirii</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-11T00:00:00</dct:issued>
+            <dct:title xml:lang="fr">Parcours de formation dans le domaine des soins</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Školení v oblasti péče</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Tečaj osposobljavanja u području skrbi</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Opleiding op het gebied van zorg</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Utbildning inom vårdområdet</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Apmācības kurss aprūpes jomā</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Onderwijsgradiënten in de verpleegsector</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Educational gradients in the nursing sector</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze publicatie behandelt de cursussen verpleegkunde op hoger secundair en tertiair niveau. De resultaten zorgen voor een beter inzicht in de dynamiek in de zorgsector en de daaruit voortvloeiende wervingsbehoeften.</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Táto publikácia sa zaoberá kurzami ošetrovateľskej odbornej prípravy na vyššej stredoškolskej a terciárnej úrovni. Výsledky umožňujú lepšie pochopiť dynamiku v sektore starostlivosti a z toho vyplývajúce potreby náboru.</dct:description>
+        <dct:title xml:lang="de">Bildungsverläufe im Pflegebereich</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εκπαιδευτικές διαβαθμίσεις στον τομέα της νοσηλευτικής</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Utbildningsgradienter inom sjuksköterskesektorn</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Hariduslikud kalled õendussektoris</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Vzdelávacie gradienty v sektore ošetrovateľstva</dct:title>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Niniejsza publikacja dotyczy kursów kształcenia pielęgniarskiego na poziomie średnim II stopnia i wyższym. Wyniki pozwalają lepiej zrozumieć dynamikę w sektorze opieki i wynikające z niej potrzeby rekrutacyjne.</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Oktatási gradiensek az ápolási szektorban</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Din il-pubblikazzjoni tittratta l-korsijiet ta’ taħriġ tal-infermiera fil-livell sekondarju għoli u dak terzjarju. Ir-riżultati jippermettu fehim aħjar tad-dinamika fis-settur tal-kura u l-ħtiġijiet ta’ reklutaġġ li jirriżultaw.</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Grádáin oideachais san earnáil altranais</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna publikation behandlar kurser i sjuksköterskeutbildning på gymnasie- och högskolenivå. Resultaten möjliggör en bättre förståelse för dynamiken inom vårdsektorn och de resulterande rekryteringsbehoven. Denna publikation behandlar kurser i sjuksköterskeutbildning på gymnasie- och högskolenivå.
+Resultaten möjliggör en bättre förståelse för dynamiken inom vårdsektorn och de resulterande rekryteringsbehoven.</dct:description>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šajā publikācijā aplūkoti māsu apmācības kursi vidusskolas un terciārās izglītības līmenī. Rezultāti ļauj labāk izprast dinamiku aprūpes nozarē un no tās izrietošās darbā pieņemšanas vajadzības.</dct:description>
+        <dct:description xml:lang="de">Die vorliegende Publikation befasst sich mit den Verläufen der Pflegeausbildungen auf Sekundarstufe II und auf Tertiärstufe. Die Ergebnisse ermöglichen ein besseres Verständnis der Dynamiken im Pflegebereich und des daraus resultierenden Rekrutierungsbedarfs.</dct:description>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tässä julkaisussa käsitellään toisen asteen ja korkea-asteen hoitotyön kursseja. Tulokset auttavat ymmärtämään paremmin hoitoalan dynamiikkaa ja siitä johtuvia rekrytointitarpeita.</dct:description>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/2130-2100"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/260dfbab-45db-4b7e-b701-ebae44f72a37">
+            <dct:description xml:lang="et-t-de-t0-mtec">Käesolevas väljaandes käsitletakse õenduskoolituse kursusi kesk- ja kolmanda taseme ülemisel astmel. Tulemused võimaldavad paremini mõista hooldussektori dünaamikat ja sellest tulenevaid värbamisvajadusi.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vzdelávacie gradienty v sektore ošetrovateľstva</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Η παρούσα έκδοση ασχολείται με τα μαθήματα νοσηλευτικής εκπαίδευσης στην ανώτερη δευτεροβάθμια και τριτοβάθμια εκπαίδευση. Τα αποτελέσματα επιτρέπουν την καλύτερη κατανόηση της δυναμικής στον τομέα της περίθαλψης και των αναγκών πρόσληψης που προκύπτουν.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Švietimo gradientai slaugos sektoriuje</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17064824/master"/>
+            <dct:format>PDF</dct:format>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Această publicație se ocupă cu cursurile de formare medicală la nivel secundar superior și terțiar.
+Rezultatele permit o mai bună înțelegere a dinamicii din sectorul îngrijirii și a nevoilor de recrutare rezultate.</dct:description>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Gradjenti edukattivi fis-settur tal-infermiera</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Uddannelsesmæssige gradienter i sygeplejesektoren</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Obrazovni gradijenti u sektoru sestrinstva</dct:title>
+            <dct:identifier>17064824-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä julkaisussa käsitellään toisen asteen ja korkea-asteen hoitotyön kursseja. Tulokset auttavat ymmärtämään paremmin hoitoalan dynamiikkaa ja siitä johtuvia rekrytointitarpeita.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Grádáin oideachais san earnáil altranais</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-07T00:00:00</dct:modified>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izobraževalni gradienti v sektorju zdravstvene nege</dct:title>
+            <dct:description xml:lang="de">Die vorliegende Publikation befasst sich mit den Verläufen der Pflegeausbildungen auf Sekundarstufe II und auf Tertiärstufe. Die Ergebnisse ermöglichen ein besseres Verständnis der Dynamiken im Pflegebereich und des daraus resultierenden Rekrutierungsbedarfs.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-11T00:00:00</dct:issued>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din il-pubblikazzjoni tittratta l-korsijiet ta’ taħriġ tal-infermiera fil-livell sekondarju għoli u dak terzjarju.
+Ir-riżultati jippermettu fehim aħjar tad-dinamika fis-settur tal-kura u l-ħtiġijiet ta’ reklutaġġ li jirriżultaw.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Hoitoalan koulutuskaltevuus</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Esta publicação trata dos cursos de formação de enfermagem em nível superior secundário e terciário.
+Os resultados possibilitam uma melhor compreensão da dinâmica no setor assistencial e das necessidades de recrutamento resultantes.</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze publicatie behandelt de cursussen verpleegkunde op hoger secundair en tertiair niveau.
+De resultaten zorgen voor een beter inzicht in de dynamiek in de zorgsector en de daaruit voortvloeiende wervingsbehoeften.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ta publikacija obravnava tečaje usposabljanja zdravstvene nege na višji sekundarni in terciarni ravni.
+Rezultati omogočajo boljše razumevanje dinamike v sektorju oskrbe in posledičnih potreb po zaposlovanju.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tato publikace se zabývá kurzy ošetřovatelské přípravy na vyšší sekundární a terciární úrovni.
+Výsledky umožňují lepší pochopení dynamiky v odvětví péče a výsledných potřeb náboru pracovníků.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Izglītības gradienti māsu nozarē</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Gradientes educativos en el sector de enfermería</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Gradientes educacionais no setor de enfermagem</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vzdělávací gradienty v ošetřovatelském sektoru</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Historique de l’éducation dans le domaine des soins</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17064824/master"/>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Niniejsza publikacja dotyczy kursów kształcenia pielęgniarskiego na poziomie średnim II stopnia i wyższym.
+Wyniki pozwalają lepiej zrozumieć dynamikę w sektorze opieki i wynikające z niej potrzeby rekrutacyjne.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">Educational gradients in the nursing sector</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame leidinyje aptariami slaugos mokymo kursai vidurinio ir aukštojo mokslo lygmenyse. Rezultatai padeda geriau suprasti priežiūros sektoriaus dinamiką ir su tuo susijusius įdarbinimo poreikius.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="et-t-de-t0-mtec">Hariduslikud kalled õendussektoris</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">La présente publication traite de l’évolution des formations infirmières au niveau secondaire supérieur et supérieur. Les résultats permettent de mieux comprendre les dynamiques dans le domaine des soins et les besoins en recrutement qui en découlent.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Ця публікація присвячена курсам сестринської підготовки на вищому середньому та третинному рівнях.
+Результати дозволяють краще зрозуміти динаміку в секторі догляду та потреби в підборі персоналу.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Baineann an foilseachán seo le cúrsaí oiliúna altranais ag leibhéal meánscoile uachtaraí agus treasach. Cumasaíonn na torthaí tuiscint níos fearr ar an dinimic in earnáil an chúraim agus ar na riachtanais earcaíochta a eascraíonn astu.</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Utbildningsgradienter inom sjuksköterskesektorn</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez a kiadvány a felső középfokú és felsőfokú ápolási képzés kurzusaival foglalkozik. Az eredmények lehetővé teszik a gondozási ágazat dinamikájának és az ebből eredő munkaerő-felvételi igények jobb megértését.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā publikācijā aplūkoti māsu apmācības kursi vidusskolas un terciārās izglītības līmenī. Rezultāti ļauj labāk izprast dinamiku aprūpes nozarē un no tās izrietošās darbā pieņemšanas vajadzības.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ova publikacija bavi se tečajevima osposobljavanja sestrinstva na višoj sekundarnoj i tercijarnoj razini. Rezultati omogućuju bolje razumijevanje dinamike u sektoru skrbi i posljedičnih potreba za zapošljavanjem.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Gradienti educativi nel settore infermieristico</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Образователни градиенти в сектора на сестринските грижи</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Esta publicación trata de los cursos de formación de enfermería a nivel superior y terciario. Los resultados permiten comprender mejor la dinámica del sector asistencial y las necesidades de contratación resultantes.</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa pubblicazione tratta i corsi di formazione infermieristica a livello secondario e terziario superiore. I risultati consentono una migliore comprensione delle dinamiche nel settore dell'assistenza e delle conseguenti esigenze di assunzione.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This publication deals with the courses of nursing training at upper secondary and tertiary level. The results enable a better understanding of the dynamics in the care sector and the resulting recruitment needs.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Denne publikation omhandler kurserne i sygeplejeuddannelse på gymnasialt og tertiært niveau.
+Resultaterne muliggør en bedre forståelse af dynamikken i plejesektoren og de deraf følgende rekrutteringsbehov.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Táto publikácia sa zaoberá kurzami ošetrovateľskej odbornej prípravy na vyššej stredoškolskej a terciárnej úrovni.
+Výsledky umožňujú lepšie pochopiť dynamiku v sektore starostlivosti a z toho vyplývajúce potreby náboru.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εκπαιδευτικές διαβαθμίσεις στον τομέα της νοσηλευτικής</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Gradienti educaționali în sectorul asistenței medicale</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Gradienty edukacyjne w sektorze pielęgniarskim</dct:title>
+            <dct:title xml:lang="de">Bildungsverläufe im Pflegebereich</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Denna publikation behandlar kurser i sjuksköterskeutbildning på gymnasie- och högskolenivå.
+Resultaten möjliggör en bättre förståelse för dynamiken inom vårdsektorn och de resulterande rekryteringsbehoven.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Onderwijsgradiënten in de verpleegsector</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Освітні градієнти в медсестринському секторі</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Oktatási gradiensek az ápolási szektorban</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тази публикация се занимава с курсовете за обучение на медицински сестри в гимназиален етап на средното образование и висше образование. Резултатите дават възможност за по-добро разбиране на динамиката в сектора на грижите и произтичащите от това нужди от наемане на работа.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šiame leidinyje aptariami slaugos mokymo kursai vidurinio ir aukštojo mokslo lygmenyse. Rezultatai padeda geriau suprasti priežiūros sektoriaus dinamiką ir su tuo susijusius įdarbinimo poreikius.</dct:description>
+        <dcat:keyword xml:lang="fr">analyses-longitudinales-dans-le-domaine-de-la-formation</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Vzdělávací gradienty v ošetřovatelském sektoru</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7db3872a-a2fa-4058-97aa-3810bc75dfde">
+            <dct:description xml:lang="hr-t-fr-t0-mtec">S ciljem boljeg razumijevanja dinamike na radnom mjestu u odnosu na potrebu za zapošljavanjem u području skrbi, ova je publikacija usmjerena na srednjoškolsko i tercijarno obrazovanje u tom području.</dct:description>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Képzés a gondozás területén</dct:title>
+            <dct:description xml:lang="de-t-fr-t0-mtec">Im Hinblick auf ein besseres Verständnis der Dynamiken im Zusammenhang mit dem Einstellungsbedarf im Pflegebereich konzentriert sich diese Publikation auf die Bildungswege der Sekundarstufe II und des Tertiärbereichs in diesem Bereich.</dct:description>
+            <dct:title xml:lang="fr">Parcours de formation dans le domaine des soins</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Cúrsa oiliúna i réimse an chúraim</dct:title>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">För att bättre förstå dynamiken i arbetet i förhållande till behovet av rekrytering inom vårdområdet fokuserar denna publikation på gymnasie- och högskoleutbildning inom detta område.</dct:description>
+            <dct:identifier>17064825-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Szkolenie w zakresie opieki</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Tečaj usposabljanja na področju nege</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Μαθήματα κατάρτισης στον τομέα της φροντίδας</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Koolituskursus hooldusvaldkonnas</dct:title>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">D’fhonn tuiscint níos fearr a fháil ar an dinimic ag an obair i ndáil leis an ngá atá le hearcú i réimse an chúraim, dírítear san fhoilseachán seo ar oideachas meánscoile agus oideachas treasach sa réimse seo.</dct:description>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Siekiant geriau suprasti darbo dinamiką, susijusią su poreikiu įdarbinti priežiūros srityje, šiame leidinyje daugiausia dėmesio skiriama viduriniam ir tretiniam išsilavinimui šioje srityje.</dct:description>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Apmācības kurss aprūpes jomā</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Training course in the field of care</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Навчальний курс у сфері догляду</dct:title>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">С оглед на по-доброто разбиране на динамиката на работното място във връзка с необходимостта от наемане на работа в областта на грижите, настоящата публикация се фокусира върху средното и висшето образование в тази област.</dct:description>
+            <dct:description xml:lang="it-t-fr-t0-mtec">In vista di una migliore comprensione delle dinamiche sul lavoro in relazione alla necessità di reclutamento nel campo dell'assistenza, la presente pubblicazione si concentra sull'istruzione secondaria e terziaria in questo campo.</dct:description>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Utbildning inom vårdområdet</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-07T00:00:00</dct:modified>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Tečaj osposobljavanja u području skrbi</dct:title>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Curso de formação no domínio dos cuidados</dct:title>
+            <dct:description xml:lang="et-t-fr-t0-mtec">Selleks et paremini mõista töö dünaamikat seoses vajadusega tööle võtta hooldusvaldkonnas, keskendutakse käesolevas väljaandes selle valdkonna kesk- ja kolmanda taseme haridusele.</dct:description>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Kursus inden for pleje</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-11T00:00:00</dct:issued>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Tässä julkaisussa keskitytään alan keskiasteen ja korkea-asteen koulutukseen, jotta voidaan ymmärtää paremmin työn dynamiikkaa suhteessa hoitoalan rekrytointitarpeeseen.</dct:description>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Školení v oblasti péče</dct:title>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">În vederea unei mai bune înțelegeri a dinamicii la locul de muncă în raport cu nevoia de recrutare în domeniul îngrijirii, această publicație se concentrează pe învățământul secundar și terțiar în acest domeniu.</dct:description>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Med henblik på en bedre forståelse af dynamikken på arbejdspladsen i forhold til behovet for rekruttering på plejeområdet fokuserer denne publikation på ungdomsuddannelser og videregående uddannelser på dette område.</dct:description>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17064825/master"/>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Annak érdekében, hogy jobban megértsük a munkahelyi dinamikát a gondozás területén történő toborzás szükségességével kapcsolatban, ez a kiadvány ezen a területen a közép- és felsőfokú oktatásra összpontosít.</dct:description>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Lai labāk izprastu darba dinamiku saistībā ar nepieciešamību pieņemt darbā aprūpes jomā, šajā publikācijā galvenā uzmanība pievērsta vidējai un augstākajai izglītībai šajā jomā.</dct:description>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Курс на обучение в областта на грижите</dct:title>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Bil-ħsieb ta’ fehim aħjar tad-dinamika fuq il-post tax-xogħol fir-rigward tal-ħtieġa ta’ reklutaġġ fil-qasam tal-kura, din il-pubblikazzjoni tiffoka fuq l-edukazzjoni sekondarja u terzjarja f’dan il-qasam.</dct:description>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Met het oog op een beter begrip van de dynamiek op het werk in relatie tot de behoefte aan rekrutering op het gebied van zorg, richt deze publicatie zich op middelbaar en tertiair onderwijs op dit gebied.</dct:description>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">S cílem lépe pochopit dynamiku práce v souvislosti s potřebou náboru v oblasti péče se tato publikace zaměřuje na středoškolské a terciární vzdělávání v této oblasti.</dct:description>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">З метою кращого розуміння динаміки на роботі у зв'язку з необхідністю набору персоналу у сфері догляду, ця публікація фокусується на середній та третинній освіті в цій галузі.</dct:description>
+            <dct:description xml:lang="es-t-fr-t0-mtec">Con vistas a una mejor comprensión de la dinámica en el trabajo en relación con la necesidad de contratación en el campo de la atención, esta publicación se centra en la educación secundaria y terciaria en este campo.</dct:description>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Με στόχο την καλύτερη κατανόηση της δυναμικής στην εργασία σε σχέση με την ανάγκη πρόσληψης στον τομέα της περίθαλψης, η παρούσα έκδοση επικεντρώνεται στη δευτεροβάθμια και τριτοβάθμια εκπαίδευση στον τομέα αυτό.</dct:description>
+            <dct:description xml:lang="en-t-fr-t0-mtec">With a view to a better understanding of the dynamics at work in relation to the need for recruitment in the field of care, this publication focuses on secondary and tertiary education in this field.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="fr">Dans la perspective d’une meilleure compréhension des dynamiques à l’œuvre en lien avec le besoin de recrutement dans le domaine des soins, cette publication s’intéresse aux parcours de formation au degré secondaire II et au degré tertiaire dans ce domaine.</dct:description>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Schulungspfade im Pflegebereich</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Corso di formazione nel campo delle cure</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kors ta’ taħriġ fil-qasam tal-kura</dct:title>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Com vistas a uma melhor compreensão da dinâmica do trabalho em relação à necessidade de recrutamento no campo da assistência, esta publicação enfoca o ensino secundário e terciário neste campo.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17064825/master"/>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Mokymo kursai priežiūros srityje</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Opleiding op het gebied van zorg</dct:title>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">S cieľom lepšie pochopiť dynamiku práce v súvislosti s potrebou náboru v oblasti starostlivosti sa táto publikácia zameriava na stredoškolské a terciárne vzdelávanie v tejto oblasti.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Aby lepiej zrozumieć dynamikę pracy w związku z potrzebą rekrutacji w dziedzinie opieki, niniejsza publikacja koncentruje się na szkolnictwie średnim i wyższym w tej dziedzinie.</dct:description>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Hoitoalan koulutus</dct:title>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">Za boljše razumevanje dinamike na delovnem mestu v zvezi s potrebo po zaposlovanju na področju oskrbe se ta publikacija osredotoča na srednješolsko in terciarno izobraževanje na tem področju.</dct:description>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Curso de formación en el ámbito de la atención</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Curs de formare în domeniul îngrijirii</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Kurz odbornej prípravy v oblasti starostlivosti</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Obrazovni gradijenti u sektoru sestrinstva</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Uddannelsesmæssige gradienter i sygeplejesektoren</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta publikacija obravnava tečaje usposabljanja zdravstvene nege na višji sekundarni in terciarni ravni. Rezultati omogočajo boljše razumevanje dinamike v sektorju oskrbe in posledičnih potreb po zaposlovanju. Ta publikacija obravnava tečaje usposabljanja zdravstvene nege na višji sekundarni in terciarni ravni.
+Rezultati omogočajo boljše razumevanje dinamike v sektorju oskrbe in posledičnih potreb po zaposlovanju.</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Тази публикация се занимава с курсовете за обучение на медицински сестри в гимназиален етап на средното образование и висше образование. Резултатите дават възможност за по-добро разбиране на динамиката в сектора на грижите и произтичащите от това нужди от наемане на работа.</dct:description>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="da-t-de-t0-mtec">Denne publikation omhandler kurserne i sygeplejeuddannelse på gymnasialt og tertiært niveau. Resultaterne muliggør en bedre forståelse af dynamikken i plejesektoren og de deraf følgende rekrutteringsbehov.</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Ця публікація присвячена курсам сестринської підготовки на вищому середньому та третинному рівнях.
+Результати дозволяють краще зрозуміти динаміку в секторі догляду та потреби в підборі персоналу.</dct:description>
+        <dcat:keyword xml:lang="de">publikation</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Gradienti educativi nel settore infermieristico</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Освітні градієнти в медсестринському секторі</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Baineann an foilseachán seo le cúrsaí oiliúna altranais ag leibhéal meánscoile uachtaraí agus treasach. Cumasaíonn na torthaí tuiscint níos fearr ar an dinimic in earnáil an chúraim agus ar na riachtanais earcaíochta a eascraíonn astu.</dct:description>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:10:39.958062</dct:modified>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Švietimo gradientai slaugos sektoriuje</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>3b5922f99bd7c54f5b1a8dec42bd61a9</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:49:51Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:59Z</edp:transIssued>
+    <dct:identifier>17064822@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

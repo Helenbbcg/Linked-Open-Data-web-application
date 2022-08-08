@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/ehb64uezfzl8b5dsbmvrg">
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/ehb64uezfzl8b5dsbmvrg"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:07:15Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:identifier>eHb64uezFZl8B5DsBmvRg</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:09:11Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>e76dc52cdfea04898b54d6ec69ce195a</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:09:11Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/ehb64uezfzl8b5dsbmvrg">
+        <dct:description xml:lang="lt-t-en-t0-mtec">Importas – elektros energija. Mėnesiniai duomenys</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Allmhairí — leictreachas — sonraí míosúla</dct:title>
+        <dct:description xml:lang="fr">Importations - électricité - données mensuelles</dct:description>
+        <dct:title xml:lang="en">Imports - electricity - monthly data</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Importuri – energie electrică – date lunare</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Importazioni — energia elettrica — dati mensili</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Import — elektricitet — månedlige data</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_125m">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/ehb64uezfzl8b5dsbmvrg"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_125m</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_125m</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="fr">Importations - électricité - données mensuelles</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        </dcat:theme>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Import – el – månadsuppgifter</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/b128e245-9dcc-41a5-8db7-282b65f123a8">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2008-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2016-12-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="es-t-en-t0-mtec">Importaciones — electricidad — datos mensuales</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Imports — elektroenerģija — mēneša dati</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Importas – elektros energija. Mėnesiniai duomenys</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Dovoz – elektřina – měsíční údaje</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Import – elekter – kuuandmed</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Import – energia elektryczna – dane miesięczne</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Uvoz – električna energija – mjesečni podaci</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/ehb64uezfzl8b5dsbmvrg"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Tuonti – sähkö – kuukausittaiset tiedot</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Importaciones — electricidad — datos mensuales</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Importazioni — energia elettrica — dati mensili</dct:title>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Allmhairí — leictreachas — sonraí míosúla</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Dovoz – elektrická energia – mesačné údaje</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-03-07</dct:modified>
+        <dct:description xml:lang="de">Importe - Elektrizität - monatliche Daten</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_125m"/>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Dovoz – elektrická energia – mesačné údaje</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Εισαγωγές — ηλεκτρική ενέργεια — μηνιαία στοιχεία</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Import – elekter – kuuandmed</dct:description>
+        <dct:description xml:lang="en">Imports - electricity - monthly data</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Внос — електроенергия — месечни данни</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/eHb64uezFZl8B5DsBmvRg</dct:identifier>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Імпорт - електроенергія - щомісячні дані</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Invoer — elektriciteit — maandelijkse gegevens</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/b8655869-f26a-4f44-92be-2e50d9b92462">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/44d2b342-165f-4128-9e4f-c7fc5f7bad8b">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Importuri – energie electrică – date lunare</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Внос — електроенергия — месечни данни</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Importações — eletricidade — dados mensais</dct:description>
+        <dct:identifier>nrg_125m</dct:identifier>
+        <dct:title xml:lang="de">Importe - Elektrizität - monatliche Daten</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Import – villamos energia – havi adatok</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2260e837-3bd3-47bc-827e-9d1599b95048">
+            <dct:title xml:lang="en">Imports - electricity - monthly data</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="fr">Importations - électricité - données mensuelles</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_125m.tsv.gz"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Importe - Elektrizität - monatliche Daten</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c5557ccc-0b05-41c8-81c0-e9aa7c060b16</dct:identifier>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Invoer — elektriciteit — maandelijkse gegevens</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/ehb64uezfzl8b5dsbmvrg"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Import – villamos energia – havi adatok</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Uvoz – električna energija – mesečni podatki</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Uvoz – električna energija – mesečni podatki</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Uvoz – električna energija – mjesečni podaci</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fc52c10e-4ef1-4fbb-809a-97048d164e00">
+            <dct:identifier>http://data.europa.eu/88u/distribution/f23529f0-e106-4b9f-8c8c-8b08f2e1c6ea</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_125m.tsv.gz&amp;unzip=true"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">Imports - electricity - monthly data</dct:title>
+            <dct:title xml:lang="fr">Importations - électricité - données mensuelles</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Importe - Elektrizität - monatliche Daten</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Importazzjonijiet — elettriku — data ta’ kull xahar</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tuonti – sähkö – kuukausittaiset tiedot</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Importazzjonijiet — elettriku — data ta’ kull xahar</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Import – el – månadsuppgifter</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Import – energia elektryczna – dane miesięczne</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Dovoz – elektřina – měsíční údaje</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Εισαγωγές — ηλεκτρική ενέργεια — μηνιαία στοιχεία</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Імпорт - електроенергія - щомісячні дані</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Imports — elektroenerģija — mēneša dati</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0bfaf423-b4b6-4a72-af11-7c75dff2f659">
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="de">Importe - Elektrizität - monatliche Daten</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_125m.sdmx.zip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Imports - electricity - monthly data</dct:title>
+            <dct:title xml:lang="fr">Importations - électricité - données mensuelles</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/d21088ac-aea9-4e93-b6cc-9e445cbaa5c5</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-en-t0-mtec">Import — elektricitet — månedlige data</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Importações — eletricidade — dados mensais</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

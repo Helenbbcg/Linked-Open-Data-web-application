@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/elrc_729">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:00:15Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-04T06:47:36Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/elrc_729"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:36:27Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>409dbec5ee9e73ceac1ae01c65f1ab93</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/elrc_729">
+        <dct:title xml:lang="el-t-en-t0-mtec">Δίγλωσσο αγγλο-νορβηγικό παράλληλο corpus από την επίσημη σκανδιναβική ιστοσελίδα συνεργασίας</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Corpus parallelo bilingue inglese-norvegese dal sito ufficiale della cooperazione nordica</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Questa serie di dati è stata creata nel quadro dell'azione SMART 2014/1074 per il coordinamento europeo delle risorse linguistiche (ELRC) Meccanismo per collegare l'Europa — Traduzione automatizzata (CEF.AT). Per ulteriori informazioni sul progetto: http://lr-coordination.eu. Contenuti del sito web di cooperazione nordica http://www.norden.org scaricati e convertiti in un corpus parallelo</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Този набор от данни е създаден в рамките на Европейския механизъм за координация на езиковите ресурси (ELRC) Механизъм за свързване на Европа — автоматизиран превод (CEF.AT), действие SMART 2014/1074). За допълнителна информация относно проекта: http://lr-coordination.eu. Съдържание на уебсайта за скандинавско сътрудничество http://www.norden.org изтеглен и преобразуван в паралелен корпус</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">See andmekogum on loodud Euroopa keeleressursside koordineerimise (ELRC) Euroopa ühendamise rahastu (Automatiseeritud Translation – CEF.AT) meetme SMART 2014/1074 raames. Täiendav teave projekti kohta: http://lr-coordination.eu. Põhjamaade Koostöö veebilehe http://www.norden.org sisu alla laaditud ja ümber paralleelseks korpuseks</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Το εν λόγω σύνολο δεδομένων δημιουργήθηκε στο πλαίσιο της δράσης SMART 2014/1074 για τον Ευρωπαϊκό Συντονισμό Γλωσσικών Πόρων (ELRC) του μηχανισμού «Συνδέοντας την Ευρώπη» — Αυτόματη μετάφραση (CEF.AT). Για περισσότερες πληροφορίες σχετικά με το σχέδιο: http://lr-coordination.eu. Περιεχόμενο του ιστότοπου συνεργασίας των σκανδιναβικών χωρών http://www.norden.org που μεταφορτώθηκε και μετατράπηκε σε παράλληλο σώμα</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4478"/>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Ta nabor podatkov je bil ustvarjen v okviru evropskega instrumenta za usklajevanje jezikovnih virov (ELRC) – Automated Translation (CEF.AT) – ukrep SMART 2014/1074. Več informacij o projektu je na voljo na: http://lr-coordination.eu. Vsebina spletne strani Nordic Co-operation http://www.norden.org je bila prenesena in spremenjena v vzporedni korpus</dct:description>
+        <dct:description xml:lang="en">This dataset has been created within the framework of the European Language Resource Coordination (ELRC) Connecting Europe Facility - Automated Translation (CEF.AT) action SMART 2014/1074). For further information on the project: http://lr-coordination.eu. Contents of the Nordic Co-operation web site http://www.norden.org downloaded and converted into a parallel corpus</dct:description>
+        <dct:title xml:lang="en">Bilingual English-Norwegian parallel corpus from the official Nordic cooperation website </dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Cruthaíodh an tacar sonraí seo faoi chuimsiú na Saoráide um Chónascadh na hEorpa um Chomhordú Acmhainní Teanga (ELRC) — gníomh SMART 2014/1074 don Aistriúchán Uathoibrithe (CEF.AT). Chun tuilleadh eolais a fháil faoin tionscadal: http://lr-coordination.eu Ábhar an láithreán gréasáin um Chomhoibriú Nordach http://www.norden.org íoslódáil agus a thiontú i corpus comhthreomhar</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Tento datový soubor byl vytvořen v rámci akce „European Language Resource Coordination (ELRC) – Nástroj pro propojení Evropy – automatizovaný překlad (CEF.AT)“ SMART 2014/1074). Další informace o projektu naleznete na adrese: http://lr-coordination.eu Obsah webových stránek Severské spolupráce http://www.norden.org stažen a přeměněn na paralelní korpus</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Dwujęzyczny angielsko-norweski równoległy korpus z oficjalnej strony współpracy nordyckiej</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Corpus paralelo inglês-norueguês bilíngue do site oficial de cooperação nórdica</dct:title>
+        <dcat:keyword xml:lang="en">group-resources-for-language-technologies</dcat:keyword>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Dvojezični angleško-norveški vzporedni korpus iz uradne spletne strani nordijskega sodelovanja</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Šis duomenų rinkinys sukurtas pagal Europos kalbų išteklių koordinavimo (ELRC) Europos infrastruktūros tinklų priemonę – automatinio vertimo (CEF.AT) veiksmą SMART 2014/1074. Daugiau informacijos apie projektą: http://lr-coordination.eu. Šiaurės šalių bendradarbiavimo svetainės http://www.norden.org turinys atsisiųstas ir paverstas lygiagrečiu korpusu Šis duomenų rinkinys sukurtas pagal Europos kalbų išteklių koordinavimo (ELRC) Europos infrastruktūros tinklų priemonę – automatinio vertimo (CEF.AT) veiksmą SMART 2014/1074. Daugiau informacijos apie projektą: http://lr-coordination.eu. Šiaurės šalių bendradarbiavimo svetainės http://www.norden.org turinys atsisiųstas ir paverstas lygiagrečiu korpusu Šis duomenų rinkinys sukurtas pagal Europos kalbų išteklių koordinavimo (ELRC) Europos infrastruktūros tinklų priemonę – automatinio vertimo (CEF.AT) veiksmą SMART 2014/1074. Daugiau informacijos apie projektą: http://lr-coordination.eu.
+Šiaurės šalių bendradarbiavimo svetainės http://www.norden.org turinys atsisiųstas ir paverstas lygiagrečiu korpusu</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Kakskeelne inglise-Norra paralleelkorpus Põhjamaade koostöö veebisaidilt</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/CNECT"/>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7fea91d0-6f62-4b8a-99a0-41311420fbd5">
+            <dct:title xml:lang="sk-t-en-t0-mtec">Archív údajov obsahujúci súbory v týchto formátoch: TMX</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Duomenų archyvas, kuriame yra šių formatų rinkmenų:
+TMX</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Arkivju tad-data li fih fajls fil-formati li ġejjin: TMX</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Dataarkiv, der indeholder filer i følgende formater: TMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="et-t-en-t0-mtec">Andmearhiiv, mis sisaldab järgmistes vormingutes faile: TMX</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">Archivio di dati contenente file nei seguenti formati: TMX</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Arquivo de dados contendo arquivos nos seguintes formatos: TMX</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Archive de données contenant des fichiers dans les formats suivants: TMX</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Gegevensarchief met bestanden in de volgende formaten: TMX</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Datový archiv obsahující soubory v následujících formátech: TMX</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Αρχείο δεδομένων που περιέχει αρχεία με τους ακόλουθους μορφότυπους: ΤΜΧ</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:description xml:lang="et-t-en-t0-mtec">Andmearhiiv, mis sisaldab järgmistes vormingutes faile: TMX</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Duomenų archyvas, kuriame yra šių formatų rinkmenų: TMX</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Αρχείο δεδομένων που περιέχει αρχεία με τους ακόλουθους μορφότυπους: ΤΜΧ</dct:description>
+            <dct:description xml:lang="en">Data archive containing files in the following formats: TMX</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Gegevensarchief met bestanden in de volgende formaten: TMX</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Arkivju tad-data li fih fajls fil-formati li ġejjin: TMX</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Datu arhīvs, kas satur datnes šādos formātos: TMX</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Archiwum danych zawierające pliki w następujących formatach: TMX</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Archív údajov obsahujúci súbory v týchto formátoch: TMX</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">Datenarchiv mit Dateien in den folgenden Formaten: TMX</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Arquivo de dados contendo arquivos nos seguintes formatos: TMX</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Arhiva de date care conține fișiere în următoarele formate: TMX</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Archivio di dati contenente file nei seguenti formati: TMX</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Dataarkiv som innehåller filer i följande format: TMX</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Cartlann sonraí ina bhfuil comhaid sna formáidí seo a leanas: TMX</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Datu arhīvs, kas satur datnes šādos formātos: TMX</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Data-arkisto, joka sisältää seuraavissa muodoissa olevia tiedostoja: TMX</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A következő formátumú fájlokat tartalmazó adatarchívum: TMX</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/cf3b4be9-56f2-4a29-ac30-069bf592dbf5</dct:identifier>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Arhiva de date care conține fișiere în următoarele formate: TMX</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Dataarkiv som innehåller filer i följande format: TMX</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Arhiva podataka koja sadrži datoteke u sljedećim formatima: TMX</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Datový archiv obsahující soubory v následujících formátech: TMX</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="es-t-en-t0-mtec">Archivo de datos que contiene archivos en los siguientes formatos: TMX</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Archiwum danych zawierające pliki w następujących formatach: TMX</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Архив на данни, съдържащ файлове в следните формати: TMX</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Archivo de datos que contiene archivos en los siguientes formatos: TMX</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Datenarchiv mit Dateien in den folgenden Formaten: TMX</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Arhiva podataka koja sadrži datoteke u sljedećim formatima: TMX</dct:title>
+            <dct:title xml:lang="en">Data archive containing files in the following formats: TMX</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Cartlann sonraí ina bhfuil comhaid sna formáidí seo a leanas: TMX</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Data-arkisto, joka sisältää seuraavissa muodoissa olevia tiedostoja: TMX</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Arhiv podatkov, ki vsebuje datoteke v naslednjih oblikah: TMX</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Archive de données contenant des fichiers dans les formats suivants: TMX</dct:description>
+            <dcat:accessURL rdf:resource="https://elrc-share.eu/repository/browse/bilingual-english-norwegian-parallel-corpus-from-the-official-nordic-cooperation-website/1b01e6507ad411e8b7d400155d026706cf17041f9f654f3085de34f42140f2eb/"/>
+            <dct:description xml:lang="da-t-en-t0-mtec">Dataarkiv, der indeholder filer i følgende formater: TMX</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A következő formátumú fájlokat tartalmazó adatarchívum: TMX</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Arhiv podatkov, ki vsebuje datoteke v naslednjih oblikah: TMX</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Архив на данни, съдържащ файлове в следните формати: TMX</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Este conjunto de dados foi criado no âmbito da ação SMART 2014/1074 de Coordenação Europeia dos Recursos Linguísticos (ELRC) — Mecanismo Interligar a Europa — Tradução Automatizada (CEF.AT). Para mais informações sobre o projeto: http://lr-coordination.eu. Conteúdo do sítio da cooperação nórdica http://www.norden.org descarregado e convertido num corpus paralelo</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-10-04</dct:modified>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Kaksikielinen englanti-norjalainen rinnakkainen corpus viralliselta pohjoismaiselta yhteistyösivustolta</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Dette datasæt er oprettet inden for rammerne af European Language Resource Coordination (ELRC) Connecting Europe-faciliteten — Automated Translation (CEF.AT) aktion SMART 2014/1074). For yderligere oplysninger om projektet: http://lr-coordination.eu Indholdet af det nordiske samarbejdswebsted http://www.norden.org downloadet og konverteret til en parallel corpus</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Denna datauppsättning har skapats inom ramen för åtgärden SMART 2014/1074 (European Language Resource Coordination (ELRC) Fonden för ett sammanlänkat Europa – automatisk översättning). För ytterligare information om projektet: http://lr-coordination.eu. Innehållet på Nordic Co-operations webbplats http://www.norden.org laddas ner och konverteras till en parallell corpus Denna datauppsättning har skapats inom ramen för åtgärden SMART 2014/1074 (European Language Resource Coordination (ELRC) Fonden för ett sammanlänkat Europa – automatisk översättning). För ytterligare information om projektet: http://lr-coordination.eu. Innehållet på Nordic Co-operations webbplats http://www.norden.org laddas ner och konverteras till en parallell corpus Denna datauppsättning har skapats inom ramen för åtgärden SMART 2014/1074 (European Language Resource Coordination (ELRC) Fonden för ett sammanlänkat Europa – automatisk översättning). För ytterligare information om projektet: http://lr-coordination.eu.
+Innehållet på Nordic Co-operations webbplats http://www.norden.org laddas ner och konverteras till en parallell corpus</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Este conjunto de datos se ha creado en el marco de la acción SMART 2014/1074 para la coordinación de los recursos lingüísticos europeos (ELRC) del Mecanismo «Conectar Europa» — Traducción automatizada (CEF.AT). Para más información sobre el proyecto: http://lr-coordination.eu. Contenido del sitio web de Cooperación Nórdica http://www.norden.org descargado y convertido en un corpus paralelo</dct:description>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Cet ensemble de données a été créé dans le cadre de l’action SMART 2014/1074 du mécanisme européen de coordination des ressources linguistiques (ELRC) pour l’interconnexion en Europe — traduction automatisée (CEF.AT). Pour plus d’informations sur le projet: http://lr-coordination.eu. Contenu du site web «Coopération nordique» http://www.norden.org téléchargé et converti en corpus parallèle</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Deze dataset is gecreëerd in het kader van de European Language Resource Coordination (ELRC) Connecting Europe Facility — Automated Translation (CEF.AT) actie SMART 2014/1074. Voor meer informatie over het project: http://lr-coordination.eu Inhoud van de website voor Noordse samenwerking http://www.norden.org gedownload en omgezet in een parallel corpus</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Dvikalbis anglų-Norvegijos lygiagretus korpusas iš oficialios Šiaurės šalių bendradarbiavimo svetainės</dct:title>
+        <dct:description xml:lang="de-t-en-t0-mtec">Dieser Datensatz wurde im Rahmen der European Language Resource Coordination (ELRC) Connecting Europe Facility – Automated Translation (CEF.AT)-Aktion SMART 2014/1074 erstellt. Weitere Informationen zum Projekt finden Sie unter: http://lr-coordination.eu.
+Inhalte der nordischen Kooperationswebsite http://www.norden.org heruntergeladen und in ein paralleles Korpus umgewandelt</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Corpus paralelo bilingüe inglés-noruego del sitio web oficial de cooperación nórdica</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Corpus paralel bilingv engleză-norvegiană de pe site-ul oficial de cooperare nordică</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tämä tietokokonaisuus on luotu osana eurooppalaista kieliresurssien koordinointivälinettä (ELRC) Verkkojen Eurooppa -väline – Automated Translation (CEF.AT) -toimen SMART 2014/1074 puitteissa.
+Lisätietoja hankkeesta:
+http://lr-coordination.eu
+Pohjoismaisen yhteistyön verkkosivujen sisältö http://www.norden.org ladattu ja muunnettu rinnakkaiseksi korpukseksi</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Tvåspråkig engelsk-norsk parallell corpus från den officiella nordiska samarbetswebbplatsen</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Corpas comhthreomhar dátheangach idir an Béarla agus an Iorua ó shuíomh gréasáin oifigiúil an chomhair Nordach</dct:title>
+        <dct:identifier>ELRC_729</dct:identifier>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Šī datu kopa ir izveidota Eiropas Valodu resursu koordinācijas instrumenta (ELRC) Eiropas infrastruktūras savienošanas instrumenta “Automatizētā tulkošana” (CEF.AT) darbības ietvaros SMART 2014/1074). Sīkāka informācija par projektu: http://lr-coordination.eu Ziemeļvalstu sadarbības tīmekļa vietnes saturs http://www.norden.org lejupielādēts un pārveidots par paralēlu korpusu</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Tento súbor údajov bol vytvorený v rámci akcie SMART 2014/1074 v rámci Nástroja na prepájanie Európy (European Language Resource Coordination – EELRC) Nástroja na prepájanie Európy (CEF.AT). Ďalšie informácie o projekte nájdete na: http://lr-coordination.eu. Obsah webovej stránky Nordic Co-operation http://www.norden.org stiahol a konvertoval do paralelného korpusu Tento súbor údajov bol vytvorený v rámci akcie SMART 2014/1074 v rámci Nástroja na prepájanie Európy (European Language Resource Coordination – EELRC) Nástroja na prepájanie Európy (CEF.AT). Ďalšie informácie o projekte nájdete na: http://lr-coordination.eu. Obsah webovej stránky Nordic Co-operation http://www.norden.org stiahol a konvertoval do paralelného korpusu Tento súbor údajov bol vytvorený v rámci akcie SMART 2014/1074 v rámci Nástroja na prepájanie Európy (European Language Resource Coordination – EELRC) Nástroja na prepájanie Európy (CEF.AT). Ďalšie informácie o projekte nájdete na: http://lr-coordination.eu.
+Obsah webovej stránky Nordic Co-operation http://www.norden.org stiahol a konvertoval do paralelného korpusu</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Dvojjazyčný anglicko-nórsky paralelný korpus z oficiálnej webovej stránky severskej spolupráce</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Dvojezični englesko-norveški paralelni korpus sa službene web stranice nordijske suradnje</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Dvojjazyčná angličtina-norská paralelní korpus z oficiálních stránek severské spolupráce</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Tosproget engelsk-norsk parallel korpus fra det officielle nordiske samarbejdswebsted</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Tweetalig Engels-Noors parallel corpus van de officiële Noordse samenwerking website</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Divvalodu angļu-norvēģijas paralēlais korpuss no oficiālās Ziemeļvalstu sadarbības tīmekļa vietnes</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Acest set de date a fost creat în cadrul acțiunii SMART 2014/1074 privind Mecanismul european de coordonare a resurselor lingvistice (ELRC) Mecanismul pentru interconectarea Europei – traducere automată (CEF.AT). Pentru mai multe informații despre proiect: http://lr-coordination.eu. Conținutul site-ului web de cooperare nordică http://www.norden.org descărcat și transformat într-un corpus paralel</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1670"/>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Kétnyelvű angol-norvég párhuzamos corpus a hivatalos skandináv együttműködési honlapról</dct:title>
+        <j.0:datasetGroup rdf:resource="file:///usr/verticles/resources-for-language-technologies"/>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Ezt az adatkészletet az Európai Nyelvi Erőforrások Koordinációja (ELRC) Európai Hálózatfinanszírozási Eszköz – Automatizált fordítás (CEF.AT) SMART 2014/1074 intézkedése keretében hozták létre. A projekttel kapcsolatos további információk: http://lr-coordination.eu. A skandináv együttműködés weboldalának tartalma: http://www.norden.org letöltve és párhuzamos corpussá alakítva</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Korp parallel bilingwi Ingliż-Norveġiż mill-websajt uffiċjali ta’ kooperazzjoni Nordika</dct:title>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Corpus parallèle anglais-norvégien bilingue du site officiel de la coopération nordique</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/bd3d3ec7-83bb-4e6d-91e1-7f671fd49abd"/>
+        </dcat:contactPoint>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Ten zbiór danych został utworzony w ramach działania SMART 2014/1074 w ramach europejskiej koordynacji zasobów językowych (ELRC) instrumentu „Łącząc Europę” – zautomatyzowane tłumaczenie (CEF.AT). W celu uzyskania dalszych informacji na temat projektu: http://lr-coordination.eu. Zawartość strony internetowej współpracy nordyckiej http://www.norden.org pobrana i przekształcona w równoległy korpus</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://data.europa.eu/euodp/en/data/dataset/elrc_729">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/elrc_729"/>
+            <schema:url>http://data.europa.eu/euodp/en/data/dataset/elrc_729</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:language>
+          <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/ENG"/>
+        </dct:language>
+        <dct:language>
+          <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/NOB"/>
+        </dct:language>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Dan is-sett ta’ data nħoloq fi ħdan il-qafas tal-Faċilità Ewropea għall-Koordinazzjoni tar-Riżorsi tal-Lingwi (ELRC) Nikkollegaw l-Ewropa — l-azzjoni SMART 2014/1074 tat-Traduzzjoni Awtomatizzata (CEF.AT). Għal aktar informazzjoni dwar il-proġett: http://lr-coordination.eu. Kontenut tas-sit web tal-Kooperazzjoni Nordika http://www.norden.org jitniżżel u jiġi kkonvertit f’korp parallel</dct:description>
+        <dct:title xml:lang="de-t-en-t0-mtec">Zweisprachiger englisch-norwegischer Parallelkorpus von der offiziellen nordischen Kooperationswebsite</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Taj je skup podataka izrađen u okviru inicijative Europskog instrumenta za koordinaciju jezičnih resursa (ELRC) za povezivanje Europe – Automatizirano prevođenje (CEF.AT) SMART 2014/1074. Dodatne informacije o projektu: http://lr-coordination.eu. Sadržaj web stranice Nordijske suradnje http://www.norden.org preuzet i pretvoren u paralelni korpus</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Двуезичен английско-норвежки паралелен корпус от официалния сайт за скандинавско сътрудничество</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:00:14Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:identifier>elrc_729</dct:identifier>
+    <edp:originalLanguage>en</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

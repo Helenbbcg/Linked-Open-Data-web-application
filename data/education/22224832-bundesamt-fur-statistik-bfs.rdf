@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/22224832-bundesamt-fur-statistik-bfs">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:04Z</dct:modified>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T12:21:59Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/22224832-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="pt-t-de-t0-mtec">Candidatos a exames por profissão, tipo de formação, sexo e ano</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Examination candidates by occupation, type of training, gender and year</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-29T00:00:00</dct:issued>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Uchazeči o zkoušky podle povolání, druhu odborné přípravy, pohlaví a roku</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Candidatos a exámenes por ocupación, tipo de formación, género y año</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Изпитни кандидати по професия, вид обучение, пол и година</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Eksāmena kandidāti pēc profesijas, apmācības veida, dzimuma un gada</dct:title>
+        <dcat:keyword xml:lang="it">formazione-professionale-di-base-procedure-di-qualifica-incluso</dcat:keyword>
+        <dcat:keyword xml:lang="fr">formation-professionnelle-initiale-procedures-de-qualification-incluses</dcat:keyword>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Vizsgáztatók foglalkozás, képzés típusa, nem és év szerint</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Candidații la examen în funcție de ocupație, tip de formare, sex și an</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Examenskandidater efter yrke, typ av utbildning, kön och år</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/88663cd5-2b4a-4f58-bbe8-8f96d58911e5">
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Kandidati za izpite po poklicu in spolu</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Kandydaci do egzaminów według zawodu i płci</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Prüfungskandidaten nach Beruf und Geschlecht</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Υποψήφιοι για εξετάσεις ανά επάγγελμα και φύλο</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Kandidater till tentamen efter yrke och kön</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Candidatos a exames por profissão e sexo</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кандидати на іспити по професії і статі</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Kandidáti na skúšky podľa povolania a pohlavia</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Kandidatai egzaminams pagal profesiją ir lytį</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Kandidaten voor examens naar beroep en geslacht</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Vizsgázók foglalkozás és nem szerint</dct:title>
+            <dct:identifier>link-22224842-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Candidatos a exámenes por ocupación y sexo</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Candidates for examinations by occupation and sex</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Kandidāti eksāmeniem pēc profesijas un dzimuma</dct:title>
+            <dct:title xml:lang="fr">Candidats aux examens selon la profession et le sexe</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1502020100_304/px-x-1502020100_304/px-x-1502020100_304.px"/>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Kandidati za ispite po zanimanju i spolu</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kandidati għall-eżamijiet skont ix-xogħol u s-sess</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kandidaadid eksamitele ameti ja soo järgi</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Candidați pentru examene în funcție de ocupație și sex</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Ehdokkaat kokeisiin ammatin ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Candidati per esami per professione e sesso</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Iarrthóirí ar scrúduithe de réir gairme agus gnéis</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Ansøgere til eksamen efter erhverv og køn</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-29T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Kandidáti na zkoušky podle povolání a pohlaví</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Кандидати за изпити по професия и пол</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Kandydaci do egzaminu według zawodu, rodzaju szkolenia, płci i roku</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Uchádzači o skúšku podľa povolania, typu odbornej prípravy, pohlavia a roka</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Kandidati għall-eżami skont l-impjieg, it-tip ta’ taħriġ, is-sess u s-sena</dct:title>
+        <dcat:keyword xml:lang="de">berufliche-grundbildung-inkl-qualifikationsverfahren</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/76a8e5b0-3545-4668-a344-04f778554301">
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-29T00:00:00</dct:issued>
+            <dct:identifier>link-22224847-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1502020100_304/px-x-1502020100_304.px"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Examenkandidaten naar beroep, type opleiding, geslacht en jaar</dct:title>
+        <dct:spatial>Kantone</dct:spatial>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:47:14.030317</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f04fabbf-f0a0-4fc5-b82c-4dd2c75acb1e">
+            <dct:title xml:lang="nl-t-de-t0-mtec">Examenkandidaten per beroep en geslacht</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Candidatos a exámenes por profesión y género</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksamenskandidater efter erhverv og køn</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изпитни кандидати по професия и пол</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Candidats à l’examen par profession et par sexe</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Candidatos de exame por profissão e gênero</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1502020100_304/px-x-1502020100_304/px-x-1502020100_304.px"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Examenskandidater efter yrke och kön</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Candidati all'esame per professione e sesso</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vizsgáztatók szakma és nem szerinti bontásban</dct:title>
+            <dct:identifier>link-22224842-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="et-t-de-t0-mtec">Eksami kandidaadid kutseala ja soo järgi</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Candidații la examen în funcție de profesie și sex</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Iarrthóirí scrúdaithe de réir gairme agus inscne</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Examination candidates by profession and gender</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Υποψήφιοι εξετάσεων ανά επάγγελμα και φύλο</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Kandidáti na skúšky podľa profesie a pohlavia</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Kandydaci do egzaminu według zawodu i płci</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izpitni izpiti po poklicu in spolu</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Kandidáti na zkoušky podle povolání a pohlaví</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Kandidatų egzaminas pagal profesiją ir lytį</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kandidati għall-eżami skont il-professjoni u s-sess</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Іспит кандидатів за професією та статтю</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kokeen hakijat ammatin ja sukupuolen mukaan</dct:title>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-29T00:00:00</dct:issued>
+            <dct:title xml:lang="de">Prüfungskandidat/innen nach Beruf und Geschlecht</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ispitni kandidati prema zanimanju i spolu</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Eksāmena kandidāti pēc profesijas un dzimuma</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izpitni izpiti po poklicu, vrsti usposabljanja, spolu in letu</dct:title>
+        <dct:identifier>22224832@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Iarrthóirí scrúdaithe de réir gairme, cineáil oiliúna, inscne agus bliana</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tutkinto hakijat ammatin, koulutustyypin, sukupuolen ja vuoden mukaan</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Eksami kandidaadid ameti, koolituse liigi, soo ja aasta järgi</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Egzaminai pagal profesiją, mokymo tipą, lytį ir metus</dct:title>
+        <dct:title xml:lang="de">Prüfungskandidat/innen nach Beruf, Ausbildungstyp, Geschlecht und Jahr</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Candidati all'esame per professione, tipo di formazione, sesso e anno</dct:title>
+        <dct:title xml:lang="fr">Candidats aux examens selon la profession, le type de formation, le sexe et l'année</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/40a70d22-1094-49a1-8999-0579f515e2db">
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Kandidatai egzaminams pagal profesiją, mokymo tipą, lytį ir metus</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Kandidati za ispite po zanimanju, vrsti osposobljavanja, spolu i godini</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1502020100_304"/>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Кандидати за изпити по професия, вид обучение, пол и година</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Candidati per esami per professione, tipo di formazione, sesso e anno</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Prüfungskandidaten nach Beruf, Art der Ausbildung, Geschlecht und Jahr</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Kokeisiin ehdokkaat ammatin, koulutustyypin, sukupuolen ja vuoden mukaan</dct:title>
+            <dct:identifier>22224837-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kandidati għall-eżamijiet skont l-impjieg, it-tip ta’ taħriġ, is-sess u s-sena</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Candidații la examene în funcție de ocupație, tip de formare, sex și an</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Candidatos a exámenes por ocupación, tipo de formación, género y año</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Kandidaten voor examens naar beroep, soort opleiding, geslacht en jaar</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Candidates for examinations by occupation, type of training, gender and year</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fr">Candidats aux examens selon la profession, le type de formation, le sexe et l'année</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Kandidāti eksāmeniem pēc profesijas, apmācības veida, dzimuma un gada</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Kandidáti na zkoušky podle povolání, druhu odborné přípravy, pohlaví a roku</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Iarrthóirí ar scrúduithe de réir gairme, cineáil oiliúna, inscne agus bliana</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кандидати на іспити за фахом, вид навчання, стать і рік</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Eksamile kandideerijad ameti, koolituse liigi, soo ja aasta kaupa</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Υποψήφιοι για εξετάσεις ανά επάγγελμα, είδος κατάρτισης, φύλο και έτος</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-29T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Vizsgára jelentkezők foglalkozás, képzés típusa, nem és év szerint</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Kandydaci do egzaminów według zawodu, rodzaju szkolenia, płci i roku</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Ansøgere til eksamen efter erhverv, uddannelsestype, køn og år</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Uchádzači o skúšky podľa povolania, typu odbornej prípravy, pohlavia a roka</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Kandidater till tentamen efter yrke, typ av utbildning, kön och år</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Candidatos a exames por profissão, tipo de formação, sexo e ano</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Kandidati za izpite po poklicu, vrsti usposabljanja, spolu in letu</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">vocational-education-and-training-qualification-procedures-included</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/231accb7-b88c-47dc-859f-e7651d810bc8">
+            <dct:title xml:lang="es-t-de-t0-mtec">Candidatos a exámenes por ocupación, tipo de formación, género y año</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Υποψήφιοι εξετάσεων ανά επάγγελμα, είδος κατάρτισης, φύλο και έτος</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izpitni izpiti po poklicu, vrsti usposabljanja, spolu in letu</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Candidat(e) par profession, type de formation, sexe et année</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksamenskandidater efter erhverv, uddannelsestype, køn og år</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Candidati all'esame per professione, tipo di formazione, sesso e anno</dct:title>
+            <dct:identifier>22224837-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-29T00:00:00</dct:issued>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Kandydaci do egzaminu według zawodu, rodzaju szkolenia, płci i roku</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Uchazeči o zkoušky podle povolání, druhu odborné přípravy, pohlaví a roku</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1502020100_304"/>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vizsgáztatók foglalkozás, képzés típusa, nem és év szerint</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Іспит кандидатів за фахом, тип навчання, стать і рік</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Candidatos a exames por profissão, tipo de formação, sexo e ano</dct:title>
+            <dct:title xml:lang="de">Prüfungskandidat/innen nach Beruf, Ausbildungstyp, Geschlecht und Jahr</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tutkinto hakijat ammatin, koulutustyypin, sukupuolen ja vuoden mukaan</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изпитни кандидати по професия, вид обучение, пол и година</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Examenskandidater efter yrke, typ av utbildning, kön och år</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Candidații la examen în funcție de ocupație, tip de formare, sex și an</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Examenkandidaten naar beroep, type opleiding, geslacht en jaar</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Iarrthóirí scrúdaithe de réir gairme, cineáil oiliúna, inscne agus bliana</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kandidati għall-eżami skont l-impjieg, it-tip ta’ taħriġ, is-sess u s-sena</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="et-t-de-t0-mtec">Eksami kandidaadid ameti, koolituse liigi, soo ja aasta järgi</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Egzaminai pagal profesiją, mokymo tipą, lytį ir metus</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Examination candidates by occupation, type of training, gender and year</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ispitni kandidati prema zanimanju, vrsti osposobljavanja, spolu i godini</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Uchádzači o skúšku podľa povolania, typu odbornej prípravy, pohlavia a roka</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Eksāmena kandidāti pēc profesijas, apmācības veida, dzimuma un gada</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Іспит кандидатів за фахом, тип навчання, стать і рік</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Eksamenskandidater efter erhverv, uddannelsestype, køn og år</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/80581276-096e-49c1-96c4-c2c10fe4ab29">
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-29T00:00:00</dct:issued>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1502020100_304/px-x-1502020100_304.px"/>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:identifier>link-22224847-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Ispitni kandidati prema zanimanju, vrsti osposobljavanja, spolu i godini</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="el-t-de-t0-mtec">Υποψήφιοι εξετάσεων ανά επάγγελμα, είδος κατάρτισης, φύλο και έτος</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:54Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>ce25d63ef17a0f55953a8f2bf3eb629a</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/22224832-bundesamt-fur-statistik-bfs"/>
+    <dct:identifier>22224832@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:54Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/dg-enlargement-pre-accession-assistance-to-serbia">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:13:20Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:13:35Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:50:26Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>cb36ec4daffdc490eadf52d540fb03d0</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T17:12:20Z</edp:transReceived>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>dg-enlargement-pre-accession-assistance-to-serbia</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/dg-enlargement-pre-accession-assistance-to-serbia"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/dg-enlargement-pre-accession-assistance-to-serbia">
+        <dct:title xml:lang="pt-t-en-t0-mtec">DG NEAR — Assistência de pré-adesão à Sérvia</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis faoi thionscadail arna maoiniú tríd an Ionstraim um Chúnamh Réamhaontachais (IPA agus IPA II) sa tSeirbia ó 2010 i leith.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/7132"/>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par projektiem, kas Serbijā finansēti no Pirmspievienošanās palīdzības instrumenta (IPA un IPA II) kopš 2010. gada.</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">GD Grannskapspolitik och utvidgningsförhandlingar – Stöd inför anslutningen till Serbien</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SRB"/>
+        </dct:spatial>
+        <dct:title xml:lang="fr-t-en-t0-mtec">DG NEAR — Aide de préadhésion à la Serbie</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με έργα που χρηματοδοτούνται μέσω του Μηχανισμού Προενταξιακής Βοήθειας (ΜΠΒ και ΜΠΒ ΙΙ) στη Σερβία από το 2010.</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://www.iatiregistry.org/dataset/ec-near-rs">
+            <schema:url>https://www.iatiregistry.org/dataset/ec-near-rs</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/dg-enlargement-pre-accession-assistance-to-serbia"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar proġetti ffinanzjati permezz tal-Istrument għall-Assistenza ta’ Qabel l-Adeżjoni (IPA u IPA II) fis-Serbja mill-2010.</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">DG NEAR — Cúnamh réamhaontachais don tSeirbia</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="hu-t-en-t0-mtec">DG NEAR – Előcsatlakozási támogatás Szerbiának</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">DG NEAR — Pretoetredingssteun aan Servië</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">GD NEAR – Heranführungshilfe für Serbien</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-07-27</dct:issued>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/6710"/>
+        <dct:title xml:lang="el-t-en-t0-mtec">ΓΔ NEAR — Προενταξιακή βοήθεια στη Σερβία</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat projektów finansowanych w ramach Instrumentu Pomocy Przedakcesyjnej (IPA i IPA II) w Serbii od 2010 r.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4fefbbf7-9251-42de-bbac-fa5e6f07ff78">
+            <dct:title xml:lang="nl-t-en-t0-mtec">Download Near Activity File — Servië</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Descargar Near Activity File — Serbia</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Preuzimanje datoteka u blizini aktivnosti – Srbija</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Íoslódáil Comhad Gníomhaíochta in aice láimhe — An tSeirbia</dct:title>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_NEAR_C_RS.xml"/>
+            <dct:title xml:lang="et-t-en-t0-mtec">Lae alla kõrvaltegevuse fail – Serbia</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Κατεβάστε το αρχείο Κοντά Δραστηριότητα — Σερβία</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Lejupielādēt tuvu darbības failu — Serbija</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+            </dct:format>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Descărcați fișierul de activitate din apropiere – Serbia</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Stiahnite si súbor v blízkosti činnosti – Srbsko</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Download Near Aktivita Soubor – Srbsko</dct:title>
+            <dct:title xml:lang="en">Download Near Activity File - Serbia</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Download i nærheden af Aktivitetsfil — Serbien</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Изтегляне на файла в близост до дейността — Сърбия</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Parsisiųsti Netoli veiklos failą – Serbija</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/xml"/>
+            </dcat:mediaType>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Letöltés Near Activity fájl – Szerbia</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Baixar Arquivo Perto de Atividade — Sérvia</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Near Activity File herunterladen – Serbien</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Pobierz plik aktywności w pobliżu – Serbia</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Prenesite datoteko v bližini dejavnosti – Srbija</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Niżżel il-Fajl ta’ Attività Qarib — is-Serbja</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Télécharger le fichier d’activité proche — Serbie</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/b0256021-1ca1-453c-bed0-206651b3b7fe</dct:identifier>
+            <dct:title xml:lang="it-t-en-t0-mtec">Scarica Near Activity File — Serbia</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Lataa lähellä toimintotiedostoa – Serbia</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_NEAR_C_RS.xml"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_2_0"/>
+            </dct:license>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Hämta nära aktivitetsfil – Serbien</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="en">Information on projects financed through the Instrument for Pre-accession Assistance (IPA and IPA II) in Serbia since 2010.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o projektoch financovaných prostredníctvom nástroja predvstupovej pomoci (IPA a IPA II) v Srbsku od roku 2010.</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">ГД „Политика за съседство и преговори за разширяване“ — Предприсъединителна помощ за Сърбия</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">GR NEAR – Predvstupová pomoc Srbsku</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over projecten die sinds 2010 via het instrument voor pretoetredingssteun (IPA en IPA II) in Servië worden gefinancierd.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5892"/>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o projektima financiranima iz Instrumenta pretpristupne pomoći (IPA i IPA II) u Srbiji od 2010.</dct:description>
+        <dct:alternative xml:lang="en"> European Commission - Near Activity File - Serbia </dct:alternative>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre os projetos financiados pelo Instrumento de Assistência de Pré-Adesão (IPA e IPA II) na Sérvia desde 2010.</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">DG NEAR – Asistență de preaderare pentru Serbia</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">NEAR ĢD — Pirmspievienošanās palīdzība Serbijai</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind proiectele finanțate prin Instrumentul de asistență pentru preaderare (IPA și IPA II) în Serbia începând din 2010.</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Tájékoztatás az Előcsatlakozási Támogatási Eszközből (IPA és IPA II) finanszírozott projektekről Szerbiában 2010 óta.</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/NEAR"/>
+        </dct:publisher>
+        <dct:title xml:lang="en">DG NEAR - Pre-accession assistance to Serbia</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dcat:keyword xml:lang="en">IPA</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/fec4fc5c-0cd6-4055-bc1a-a3d074cb5c4f">
+            <vcard:hasEmail rdf:resource="mailto:delegation-serbia@eeas.europa.eu"/>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://europa.rs/eng/">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://europa.rs/eng/</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+381113083200">
+                <vcard:hasValue rdf:resource="tel:+381113083200"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Delegation of the European Union to the Republic of Serbia</vcard:organisation-name>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/e2c648d5-36fe-4cec-8333-19eaf97bb651">
+                <vcard:street-address>Avenija 19a, Vladimira Popovića 40/V, Novi Beograd, R. Srbija</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:identifier>ec-near-rs</dct:identifier>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        </dct:accrualPeriodicity>
+        <dct:title xml:lang="es-t-en-t0-mtec">DG NEAR — Ayuda de preadhesión a Serbia</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om projekter, der har været finansieret gennem instrumentet til førtiltrædelsesbistand (IPA og IPA II) i Serbien siden 2010.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sui progetti finanziati dallo strumento di assistenza preadesione (IPA e IPA II) in Serbia dal 2010.</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">DG NEAR – Pasirengimo narystei pagalba Serbijai</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4057"/>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Informace o projektech financovaných z nástroje předvstupní pomoci (NPP a NPP II) v Srbsku od roku 2010.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">DĠ NEAR — Assistenza ta’ qabel l-adeżjoni lis-Serbja</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Naapuruuspolitiikan ja laajentumisneuvottelujen pääosasto – Liittymistä valmisteleva tuki Serbialle</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o projektih, financiranih iz instrumenta za predpristopno pomoč (IPA in IPA II) v Srbiji od leta 2010.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">GU NEAR – Pretpristupna pomoć Srbiji</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">GŘ NEAR – Předvstupní pomoc Srbsku</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Naabruspoliitika ja laienemisläbirääkimiste peadirektoraat – Ühinemiseelne abi Serbiale</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teave ühinemiseelse abi rahastamisvahendi (IPA ja IPA II) kaudu Serbias alates 2010. aastast rahastatud projektide kohta.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">DG NEAR – Pomoc przedakcesyjna dla Serbii</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie projektus, finansuojamus pagal Pasirengimo narystei pagalbos priemonę (PNPP ir PNPP II) Serbijoje nuo 2010 m.</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">DG NEAR — Assistenza preadesione alla Serbia</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4690"/>
+        <dcat:keyword xml:lang="en">IPA II</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2016-02-08</dct:modified>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur les projets financés par l’instrument d’aide de préadhésion (IAP et IAP II) en Serbie depuis 2010.</dct:description>
+        <dcat:keyword xml:lang="en">Instrument for Pre-accession Assistance</dcat:keyword>
+        <dct:description xml:lang="de-t-en-t0-mtec">Informationen über Projekte, die seit 2010 im Rahmen des Instruments für Heranführungshilfe (IPA und IPA II) in Serbien finanziert werden.</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">GD NEAR – Predpristopna pomoč Srbiji</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Информация за проекти, финансирани чрез Инструмента за предприсъединителна помощ (ИПП и ИПП II) в Сърбия от 2010 г. насам.</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">GD NEAR — Førtiltrædelsesbistand til Serbien</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Información sobre los proyectos financiados a través del Instrumento de Ayuda Preadhesión (IPA e IAP II) en Serbia desde 2010.</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Information om projekt som finansierats genom instrumentet för stöd inför anslutningen (IPA och IPA II) i Serbien sedan 2010.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/12"/>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tiedot liittymistä valmistelevasta tukivälineestä (IPA ja IPA II) Serbiassa vuodesta 2010 lähtien rahoitetuista hankkeista.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

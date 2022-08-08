@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:j.0="http://entryscape.com/terms/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-opendata-umea-se-api-v2-catalog-datasets-energiforbrukning-i-geografiska-omradet-154110-obbola">
+    <foaf:primaryTopic>
+      <j.0:ServedByDataService rdf:about="http://data.europa.eu/88u/dataset/https-opendata-umea-se-api-v2-catalog-datasets-energiforbrukning-i-geografiska-omradet-154110-obbola">
+        <dct:description xml:lang="fi-t-sv-t0-mtec">Anonymisoidut kulutustiedot...</dct:description>
+        <dct:title xml:lang="bg-t-sv-t0-mtec">Потребление на енергия в географска зона 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="el-t-sv-t0-mtec">Ανωνυμοποιημένα δεδομένα κατανάλωσης από...</dct:description>
+        <dct:description xml:lang="ro-t-sv-t0-mtec">Date anonimizate privind consumul de la...</dct:description>
+        <dct:title xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="pl-t-sv-t0-mtec">Zużycie energii w obszarze geograficznym 154110 (Obbola)</dct:title>
+        <dcat:keyword xml:lang="sv">Energi</dcat:keyword>
+        <dct:title xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás az 154110 földrajzi területen (Obbola)</dct:title>
+        <dct:title xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 154110 (Obbola)</dct:title>
+        <dcat:keyword xml:lang="sv">El</dcat:keyword>
+        <dct:title xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh i Limistéar Geografach 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="sv">Energiförbrukning i Geografiska området 154110 (Obbola)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a5fdbee4-7a9a-4db4-869f-d28b8295b7a7">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-17T03:59:08.808Z</dct:modified>
+            <dct:description xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη Γεωγραφική Περιοχή 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 154110 (Obbola) (csv)</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-17T03:59:08.808Z</dct:issued>
+            <dct:description xml:lang="pl-t-sv-t0-mtec">Zużycie energii w obszarze geograficznym 154110 (Obbola) (csv)</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+            <dct:description xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás az 154110 földrajzi területen (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="nl-t-sv-t0-mtec">Energieverbruik in geografisch gebied 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 154110 (Obbola) (csv)</dct:description>
+            <dct:title xml:lang="sv">csv</dct:title>
+            <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-154110-obbola-csv</dct:identifier>
+            <dct:description xml:lang="da-t-sv-t0-mtec">Energiforbrug i geografisk område 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh i Limistéar Geografach 154110 (Obbola) (csv)</dct:description>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.sv"/>
+            <dct:description xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="it-t-sv-t0-mtec">Consumo energetico nella zona geografica 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="pt-t-sv-t0-mtec">Consumo de energia na área geográfica 154110 (Obbola) (csv)</dct:description>
+            <dct:format>text/csv</dct:format>
+            <dct:description xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 154110 (Obbola) (csv)</dct:description>
+            <dcat:accessURL rdf:resource="https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-154110-obbola/exports/csv"/>
+            <dct:description xml:lang="bg-t-sv-t0-mtec">Консумация на енергия в географска зона 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 154110 (Obbola) (csv)</dct:description>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="bg-t-sv-t0-mtec">CSV</dct:title>
+            <dct:description xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 154110 (Obbola) (csv)</dct:description>
+            <dct:title xml:lang="et-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">CSV</dct:title>
+            <dct:description xml:lang="sv">Energiförbrukning i Geografiska området 154110 (Obbola) (csv)</dct:description>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">CSV</dct:title>
+            <dct:description xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 154110 (Obbola) (csv)</dct:description>
+            <dct:description xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 154110 (Obbola) (csv)</dct:description>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">CSV</dct:title>
+            <dct:description xml:lang="en-t-sv-t0-mtec">Energy consumption in Geographical Area 154110 (Obbola) (csv)</dct:description>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="it-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="en-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="da-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="es-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="el-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">CSV</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Umeå Energi</dcat:keyword>
+        <dct:description xml:lang="lt-t-sv-t0-mtec">Anoniminiai vartojimo duomenys nuo...</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://admin.dataportal.se/store/43/resource/fd2584866d01e4eaee64e3ffcfe40e02">
+            <foaf:name>Umeå Energi</foaf:name>
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/Company"/>
+          </foaf:Agent>
+        </dct:publisher>
+        <dct:identifier>energiforbrukning-i-geografiska-omradet-154110-obbola@opendata.umea.se</dct:identifier>
+        <dct:description xml:lang="hu-t-sv-t0-mtec">Anonimizált fogyasztási adatok...</dct:description>
+        <dct:description xml:lang="sl-t-sv-t0-mtec">Anonimizirani podatki o porabi iz...</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-17T03:59:08.808Z</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b27311bb-9b0b-4f2b-b746-45bc95028f4a">
+            <dct:description xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη Γεωγραφική Περιοχή 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh i Limistéar Geografach 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="en-t-sv-t0-mtec">Energy consumption in Geographical Area 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 154110 (Obbola) (json)</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-17T03:59:08.808Z</dct:issued>
+            <dct:title xml:lang="sv">json</dct:title>
+            <dct:description xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 154110 (Obbola) (json)</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+            <dct:format>application/json</dct:format>
+            <dct:description xml:lang="it-t-sv-t0-mtec">Consumo energetico nella zona geografica 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 154110 (Obbola) (json)</dct:description>
+            <dcat:accessURL rdf:resource="https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-154110-obbola/exports/json"/>
+            <dct:description xml:lang="bg-t-sv-t0-mtec">Потребление на енергия в географска зона 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="nl-t-sv-t0-mtec">Energieverbruik in geografisch gebied 154110 (Obbola) (json)</dct:description>
+            <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-154110-obbola-json</dct:identifier>
+            <dct:description xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="pl-t-sv-t0-mtec">Zużycie energii w obszarze geograficznym 154110 (Obbola) (json)</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-17T03:59:08.808Z</dct:modified>
+            <dct:description xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 154110 (Obbola) (json)</dct:description>
+            <dct:description xml:lang="da-t-sv-t0-mtec">Energiforbrug i geografisk område 154110 (Obbola) (json)</dct:description>
+            <dct:title xml:lang="es-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="sv">Energiförbrukning i Geografiska området 154110 (Obbola) (json)</dct:description>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="en-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 154110 (Obbola) (json)</dct:description>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.sv"/>
+            <dct:title xml:lang="da-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="et-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="el-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás az 154110 földrajzi területen (Obbola) (json)</dct:description>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="pt-t-sv-t0-mtec">Consumo de energia na área geográfica 154110 (Obbola) (json)</dct:description>
+            <dct:title xml:lang="it-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="bg-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 154110 (Obbola) (json)</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="ga-t-sv-t0-mtec">Sonraí tomhaltais anaithnidithe ó...</dct:description>
+        <dct:description xml:lang="fr-t-sv-t0-mtec">Données de consommation anonymisées de...</dct:description>
+        <dcat:keyword xml:lang="sv">Fjärrvärme</dcat:keyword>
+        <dct:title xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="pl-t-sv-t0-mtec">Anonimowe dane dotyczące zużycia z...</dct:description>
+        <dct:description xml:lang="mt-t-sv-t0-mtec">Data dwar il-konsum anonimizzat minn...</dct:description>
+        <dct:description xml:lang="et-t-sv-t0-mtec">Anonüümseks muudetud tarbimisandmed...</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-17T03:59:08.808Z</dct:issued>
+        <dct:description xml:lang="it-t-sv-t0-mtec">Dati di consumo anonimizzati da...</dct:description>
+        <dct:description xml:lang="sv">Anonymiserad förbrukningsdata från Umeå Energi per nyckelkodsområde i Umeå Kommun. Detta data bör inte ses som exakta och kompletta förbrukningsvärden utan mer som en kvalificerad uppskattning av förbrukningen i syfte att se trender och indikationer.Datafilerna kommer endast innehålla värden för fastigheter i Umeå kommun där Umeå Energi är nätägare och informationen inte anses vara olämplig för distribution. Uppdateras normalt en gång varje månad med nytillkomna värden.Frågor kring detta förbrukningsdata hänvisas till matdata.datalager@umeaenergi.se </dct:description>
+        <dct:description xml:lang="pt-t-sv-t0-mtec">Dados de consumo anonimizados de...</dct:description>
+        <dct:title xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 154110 (Obbola)</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization rdf:about="https://admin.dataportal.se/store/43/resource/1759d73f629552cf8d3b66bc7e694e57">
+            <vcard:hasEmail rdf:resource="mailto:matdata.datalager@umeaenergi.se"/>
+            <vcard:fn>Umeå Energi</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dct:title xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="bg-t-sv-t0-mtec">Анонимизирани данни за потреблението от...</dct:description>
+        <dct:title xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="nl-t-sv-t0-mtec">Energieverbruik in geografisch gebied 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="da-t-sv-t0-mtec">Anonymiserede forbrugsdata fra...</dct:description>
+        <dcat:distribution>
+          <j.0:ServiceDistribution rdf:about="http://data.europa.eu/88u/distribution/6bd67298-8586-447c-bae1-d478cd4d8982">
+            <dct:description xml:lang="en-t-sv-t0-mtec">Energy consumption in Geographical Area 154110 (Obbola) (API)</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-17T03:59:08.808Z</dct:modified>
+            <dct:description xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη Γεωγραφική Περιοχή 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="sv">Energiförbrukning i Geografiska området 154110 (Obbola) (API)</dct:description>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">INTERFEJS API...</dct:title>
+            <dct:title xml:lang="it-t-sv-t0-mtec">L'API...</dct:title>
+            <dct:description xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 154110 (Obbola) (API)</dct:description>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">API-JI...</dct:title>
+            <dct:description xml:lang="bg-t-sv-t0-mtec">Потребление на енергия в географска зона 154110 (Obbola) (API)</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+            <dct:description xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás az 154110 földrajzi területen (Obbola) (API)</dct:description>
+            <dct:description xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 154110 (Obbola) (API)</dct:description>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">API’S...</dct:title>
+            <dct:description xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 154110 (Obbola) (API)</dct:description>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.sv"/>
+            <dct:description xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh i Limistéar Geografach 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 154110 (Obbola) (API)</dct:description>
+            <dcat:accessURL rdf:resource="https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-154110-obbola/records"/>
+            <dct:description xml:lang="pt-t-sv-t0-mtec">Consumo de energia na Área Geográfica 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 154110 (Obbola) (API)</dct:description>
+            <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-154110-obbola-API</dct:identifier>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dct:format>application/json</dct:format>
+            <dct:conformsTo rdf:resource="https://opendata.umea.se/api/v2/console"/>
+            <dct:description xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 154110 (Obbola) (API)</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-17T03:59:08.808Z</dct:issued>
+            <dct:description xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="it-t-sv-t0-mtec">Consumo energetico nella zona geografica 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 154110 (Obbola) (API)</dct:description>
+            <dct:description xml:lang="nl-t-sv-t0-mtec">Energieverbruik in geografisch gebied 154110 (Obbola) (API)</dct:description>
+            <dct:title xml:lang="sv">API</dct:title>
+            <dct:description xml:lang="pl-t-sv-t0-mtec">Zużycie energii w obszarze geograficznym 154110 (Obbola) (API)</dct:description>
+            <dct:title xml:lang="es-t-sv-t0-mtec">LA API...</dct:title>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="bg-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="el-t-sv-t0-mtec">API...</dct:title>
+            <dct:description xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 154110 (Obbola) (API)</dct:description>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="da-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">API...</dct:title>
+            <dct:description xml:lang="da-t-sv-t0-mtec">Energiforbrug i geografisk område 154110 (Obbola) (API)</dct:description>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="et-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="en-t-sv-t0-mtec">API...</dct:title>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">L’API...</dct:title>
+          </j.0:ServiceDistribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-sv-t0-mtec">Energiforbrug i geografisk område 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="cs-t-sv-t0-mtec">Anonymizované údaje o spotřebě z...</dct:description>
+        <dct:title xml:lang="en-t-sv-t0-mtec">Energy consumption in Geographical Area 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="hr-t-sv-t0-mtec">Anonimizirani podaci o potrošnji iz...</dct:description>
+        <dct:description xml:lang="sk-t-sv-t0-mtec">Anonymizované údaje o spotrebe z...</dct:description>
+        <dcat:landingPage rdf:resource="https://opendata.umea.se/explore/dataset/energiforbrukning-i-geografiska-omradet-154110-obbola/"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:title xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="es-t-sv-t0-mtec">Datos de consumo anonimizados de...</dct:description>
+        <dct:title xml:lang="pt-t-sv-t0-mtec">Consumo de energia na Área Geográfica 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="lv-t-sv-t0-mtec">Anonimizēti patēriņa dati no...</dct:description>
+        <dct:title xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="it-t-sv-t0-mtec">Consumo energetico nella zona geografica 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη Γεωγραφική Περιοχή 154110 (Obbola)</dct:title>
+        <dct:title xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 154110 (Obbola)</dct:title>
+        <dct:description xml:lang="en-t-sv-t0-mtec">Anonymised consumption data from...</dct:description>
+        <dct:description xml:lang="de-t-sv-t0-mtec">Anonymisierte Verbrauchsdaten von...</dct:description>
+        <dcat:keyword xml:lang="sv">Förbrukning</dcat:keyword>
+        <dct:description xml:lang="nl-t-sv-t0-mtec">Geanonimiseerde verbruiksgegevens van...</dct:description>
+      </j.0:ServedByDataService>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-18T04:42:30Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-18T04:31:39Z</edp:transIssued>
+    <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-154110-obbola</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-18T04:31:49Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T13:40:31Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-opendata-umea-se-api-v2-catalog-datasets-energiforbrukning-i-geografiska-omradet-154110-obbola"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>ff7f5c32af419f87ea85050695dbd812</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>sv</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

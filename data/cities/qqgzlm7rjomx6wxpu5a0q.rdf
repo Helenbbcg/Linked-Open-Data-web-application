@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/qqgzlm7rjomx6wxpu5a0q">
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T18:00:23Z</dct:modified>
+    <dct:identifier>QQgzLm7rJoMX6WXPU5a0Q</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T08:58:19Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/qqgzlm7rjomx6wxpu5a0q"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>a399bfb7c7ea69b9ec1a66190c091ef9</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T18:00:23Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/qqgzlm7rjomx6wxpu5a0q">
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/179175a4-98cc-4e20-8902-c0d5b5eaa986">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/70940af4-dffb-48c8-88cb-1710a7688c7e">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Vähittäiskauppa – neljännesvuosittaiset tiedot (NACE Rev. 2)</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b65fa969-2173-48d5-95db-a6987e3d064f">
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dct:title xml:lang="de">Einzelhandel - vierteljährliche Daten (NACE Rev. 2)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Retail trade - quarterly data (NACE Rev. 2)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrt_q.sdmx.zip"/>
+            <dct:title xml:lang="fr">Commerce de détail - données trimestrielles (NACE Rév. 2)</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4e379bbd-6308-49a7-a385-e455d5cfea78</dct:identifier>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>http://data.europa.eu/88u/dataset/QQgzLm7rJoMX6WXPU5a0Q</dct:identifier>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Trgovina na drobno – četrtletni podatki (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Detailhandel — kvartalsdata (NACE rev. 2)</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Роздрібна торгівля - щоквартальні дані (NACE Rev. 2)</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Maloobchod – čtvrtletní údaje (NACE Rev. 2)</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_q">
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_q</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qqgzlm7rjomx6wxpu5a0q"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_q</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Mažmeninė prekyba – ketvirtiniai duomenys (NACE 2 red.)</dct:title>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_q"/>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Detailhandel — kwartaalgegevens (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Mazumtirdzniecība — ceturkšņa dati (NACE 2. red.)</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Maloobchod – štvrťročné údaje (NACE Rev. 2)</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/284a0f36-4368-4e0d-97c3-926b30cd2de1">
+            <dct:title xml:lang="de">Einzelhandel - vierteljährliche Daten (NACE Rev. 2)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ad3db03c-ea59-4281-82d7-6ad3ae4994a0</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Retail trade - quarterly data (NACE Rev. 2)</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Commerce de détail - données trimestrielles (NACE Rév. 2)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrt_q.tsv.gz&amp;unzip=true"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/f899abf1-8a08-4c48-8a5d-b56801200cfd">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2022-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1989-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qqgzlm7rjomx6wxpu5a0q"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Maloobchod – čtvrtletní údaje (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Detaljhandel – kvartalsuppgifter (NACE Rev. 2)</dct:title>
+        <dct:identifier>ei_isrt_q</dct:identifier>
+        <dct:title xml:lang="de">Einzelhandel - vierteljährliche Daten (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Jaekaubandus – kvartaliandmed (NACE Rev. 2)</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-23</dct:modified>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Comércio a retalho — dados trimestrais (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Λιανικό εμπόριο — τριμηνιαία στοιχεία (NACE αναθ. 2)</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Comércio a retalho — dados trimestrais (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Vähittäiskauppa – neljännesvuosittaiset tiedot (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Detailhandel — kwartaalgegevens (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Kummerċ bl-imnut — data ta’ kull tliet xhur (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Търговия на дребно — тримесечни данни (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Comercio al por menor — datos trimestrales (NACE Rev. 2)</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_is_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_is_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qqgzlm7rjomx6wxpu5a0q"/>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Роздрібна торгівля - щоквартальні дані (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Commercio al dettaglio — dati trimestrali (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Comerțul cu amănuntul – date trimestriale (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="en">Retail trade - quarterly data (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="en">Retail trade - quarterly data (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Maloobchod – štvrťročné údaje (NACE Rev. 2)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bde3ce06-a6fc-4b34-abb0-d5f975a8c92c">
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/dbbe09d5-5430-422f-9ee1-1ed22cf2e595</dct:identifier>
+            <dct:title xml:lang="de">Einzelhandel - vierteljährliche Daten (NACE Rev. 2)</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrt_q.tsv.gz"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Retail trade - quarterly data (NACE Rev. 2)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Commerce de détail - données trimestrielles (NACE Rév. 2)</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Trgovina na malo – tromjesečni podaci (NACE Rev. 2)</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Trgovina na drobno – četrtletni podatki (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Detaljhandel – kvartalsuppgifter (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Mazumtirdzniecība — ceturkšņa dati (NACE 2. red.)</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Trádáil mhiondíola — sonraí ráithiúla (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Mažmeninė prekyba – ketvirtiniai duomenys (NACE 2 red.)</dct:description>
+        <dct:description xml:lang="fr">Commerce de détail - données trimestrielles (NACE Rév. 2)</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Trádáil mhiondíola — sonraí ráithiúla (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Comerțul cu amănuntul – date trimestriale (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Kiskereskedelem – negyedéves adatok (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Detailhandel — kvartalsdata (NACE rev. 2)</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Jaekaubandus – kvartaliandmed (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Handel detaliczny – dane kwartalne (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Trgovina na malo – tromjesečni podaci (NACE Rev. 2)</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Kummerċ bl-imnut — data ta’ kull tliet xhur (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Comercio al por menor — datos trimestrales (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="de">Einzelhandel - vierteljährliche Daten (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="fr">Commerce de détail - données trimestrielles (NACE Rév. 2)</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Λιανικό εμπόριο — τριμηνιαία στοιχεία (NACE αναθ. 2)</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Handel detaliczny – dane kwartalne (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Commercio al dettaglio — dati trimestrali (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Kiskereskedelem – negyedéves adatok (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Търговия на дребно — тримесечни данни (NACE Rev. 2)</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

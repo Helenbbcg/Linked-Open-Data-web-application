@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14941559-bundesamt-fur-statistik-bfs">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</dct:issued>
+    <dct:identifier>14941559@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14941559-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="en-t-de-t0-mtec">R &amp;amp; D personnel in Switzerland, by sector and activity</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">F &amp;amp; U-personale i Schweiz efter sektor og aktivitet</dct:title>
+        <dcat:keyword xml:lang="it">ricerca-e-sviluppo-rs-nelle-imprese-private</dcat:keyword>
+        <dct:title xml:lang="fr">Personnel de R-D en Suisse, selon le secteur d'activité et la fonction</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:keyword xml:lang="it">ricerca-e-sviluppo-rs-per-il-governo-federale</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje u području istraživanja i razvoja u Švicarskoj, po sektorima i djelatnostima</dct:title>
+        <dcat:keyword xml:lang="de">forschung-und-entwicklung-fe-in-der-privatwirtschaft</dcat:keyword>
+        <dcat:keyword xml:lang="fr">le-paysage-sous-pression</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">R&amp;amp;D персонал в Швейцарії, за секторами та діяльністю</dct:title>
+        <dcat:keyword xml:lang="fr">recherche-et-developpement-r-d-dans-les-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-campionaria</dcat:keyword>
+        <dcat:keyword xml:lang="de">registerauswertung</dcat:keyword>
+        <dcat:keyword xml:lang="en">research-and-development-rd-at-the-confederation</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Персонал за научноизследователска и развойна дейност в Швейцария по сектори и дейности</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="fr">enquete--par-sondage</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Osebje za raziskave in razvoj v Švici po sektorjih in dejavnostih</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Personale R &amp;amp; S in Svizzera, per settore e attività</dct:title>
+        <dcat:keyword xml:lang="it">analisi-basata-sui-registri</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-12-07T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="en">register-based-surveys</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">FoU-personal i Schweiz, efter sektor och verksamhet</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Pracovníci výzkumu a vývoje ve Švýcarsku, podle odvětví a činností</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">K+F személyzet Svájcban, ágazat és tevékenység szerint</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="de">stichprobenerhebung</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci výskumu a vývoja vo Švajčiarsku podľa odvetví a činností</dct:title>
+        <dcat:keyword xml:lang="fr">recherche-et-developpement-r-d-dans-les-entreprises-privees</dcat:keyword>
+        <dcat:keyword xml:lang="it">ricerca-e-sviluppo-rs-nelle-universita</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Persunal tar-R &amp;amp; Ż fl-Isvizzera, skont is-settur u l-attività</dct:title>
+        <dcat:keyword xml:lang="en">research-and-development-rd-in-the-business-enterprise-sector</dcat:keyword>
+        <dcat:keyword xml:lang="en">sample-surveys</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/60f7480d-6d4a-457a-8ae8-0b4b6d032f17">
+            <dct:title xml:lang="sv-t-fr-t0-mtec">FoU-personal i Schweiz, efter bransch och funktion</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">T &amp;amp; K-henkilöstö Sveitsissä toimialoittain ja toiminnoittain</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.15.02.01.02"/>
+            <dct:title xml:lang="en-t-fr-t0-mtec">R &amp; D staff in Switzerland, by industry and function</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pētniecības un izstrādes personāls Šveicē, pēc nozares un funkcijām</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale R &amp;amp; D in Svizzera, per industria e funzione</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">R &amp;amp; D personeel in Zwitserland, per industrie en functie</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό Ε &amp;amp; Α στην Ελβετία, κατά κλάδο και λειτουργία</dct:title>
+            <dct:identifier>14941573-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">MTTP darbuotojai Šveicarijoje pagal pramonės šakas ir pareigas</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Teadus- ja arendustöötajad Šveitsis majandusharude ja funktsioonide kaupa</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">R &amp;amp; D персонал в Швейцария, по промишленост и функции</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci výskumu a vývoja vo Švajčiarsku podľa odvetví a funkcií</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Pracownicy R &amp;amp; D w Szwajcarii, według przemysłu i funkcji</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal de I+D en Suiza, por industria y función</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="fr">Personnel de R-D en Suisse, selon le secteur d'activité et la fonction</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">K+F személyzet Svájcban, iparág és funkció szerint</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje za raziskave in razvoj v Švici po panogi in funkciji</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">R &amp;amp; D персонал в Швейцарії, за галузями і функціями</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">F &amp;amp; U-personale i Schweiz, efter branche og funktion</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Pracovníci výzkumu a vývoje ve Švýcarsku, podle odvětví a funkcí</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal tar-R &amp;amp; Ż fl-Isvizzera, skont l-industrija u l-funzjoni</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal de I &amp;amp; D na Suíça, por indústria e função</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">FuE-Personal in der Schweiz, nach Tätigkeitsbereich und Funktion</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personal R &amp;amp; D în Elveția, în funcție de industrie și funcție</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje u području istraživanja i razvoja u Švicarskoj, po industriji i funkciji</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann T &amp;amp; F san Eilvéis, de réir tionscail agus feidhme</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-de-t0-mtec">T &amp;amp; K-henkilöstö Sveitsissä sektoreittain ja toimialoittain</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">O &amp;amp; O-personeel in Zwitserland, naar sector en activiteit</dct:title>
+        <dcat:keyword xml:lang="en">research-and-development-rd-in-the-universities</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">P &amp;amp; A personāls Šveicē, pa nozarēm un darbībām</dct:title>
+        <dcat:keyword xml:lang="fr">exploitation-de-registres</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b44a5b96-16e1-4330-99f8-76a620118b77">
+            <dct:title xml:lang="sv-t-de-t0-mtec">FoU-personal i Schweiz, efter sektor och verksamhet</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Pearsanra T &amp;amp; F san Eilvéis, de réir earnála agus gníomhaíochta</dct:title>
+            <dct:title xml:lang="de">F+E-Personal in der Schweiz, nach Sektor und Tätigkeit</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci výskumu a vývoja vo Švajčiarsku podľa odvetví a činností</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal C &amp;amp; D în Elveția, pe sectoare și activități</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал за научноизследователска и развойна дейност в Швейцария по сектори и дейности</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">R &amp;amp; D personnel in Switzerland, by sector and activity</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">MTP personalas Šveicarijoje pagal sektorius ir veiklą</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">K+F személyzet Svájcban, ágazat és tevékenység szerint</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.15.02.01.02"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale R &amp;amp; S in Svizzera, per settore e attività</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje u području istraživanja i razvoja u Švicarskoj, po sektorima i djelatnostima</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal de I &amp;amp; D na Suíça, por setor e atividade</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de I+D en Suiza, por sector y actividad</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">R&amp;amp;D персонал в Швейцарії, за секторами та діяльністю</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό Ε &amp;amp; Α στην Ελβετία, ανά τομέα και δραστηριότητα</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Personel badawczo-rozwojowy w Szwajcarii, według sektorów i działalności</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teadus- ja arendustegevuse personal Šveitsis sektorite ja tegevuste kaupa</dct:title>
+            <dct:identifier>14941569-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal tar-R &amp;amp; Ż fl-Isvizzera, skont is-settur u l-attività</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje za raziskave in razvoj v Švici po sektorjih in dejavnostih</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="nl-t-de-t0-mtec">O &amp;amp; O-personeel in Zwitserland, naar sector en activiteit</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel de R &amp; D en Suisse, par secteur et par activité</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">P &amp;amp; A personāls Šveicē, pa nozarēm un darbībām</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">F &amp;amp; U-personale i Schweiz efter sektor og aktivitet</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Pracovníci výzkumu a vývoje ve Švýcarsku, podle odvětví a činností</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">T &amp;amp; K-henkilöstö Sveitsissä sektoreittain ja toimialoittain</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">F+E-Personal in der Schweiz, nach Sektor und Tätigkeit</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Personal de I+D en Suiza, por sector y actividad</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:keyword xml:lang="de">forschung-und-entwicklung-fe-beim-bund</dcat:keyword>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό Ε &amp;amp; Α στην Ελβετία, ανά τομέα και δραστηριότητα</dct:title>
+        <dcat:keyword xml:lang="en">landscape-under-pressure</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/73d6f509-ae17-4d52-acd8-f6ca40a74e66">
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal tar-R &amp;amp; Ż fl-Isvizzera, skont is-settur u l-attività</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal de I &amp;amp; D na Suíça, por setor e atividade</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">R&amp;amp;D персонал в Швейцарії, за секторами та діяльністю</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">FoU-personal i Schweiz, efter sektor och verksamhet</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci výskumu a vývoja vo Švajčiarsku podľa odvetví a činností</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de I+D en Suiza, por sector y actividad</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje u području istraživanja i razvoja u Švicarskoj, po sektorima i djelatnostima</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">F &amp;amp; U-personale i Schweiz efter sektor og aktivitet</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teadus- ja arendustegevuse personal Šveitsis sektorite ja tegevuste kaupa</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941569/master"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Pracovníci výzkumu a vývoje ve Švýcarsku, podle odvětví a činností</dct:title>
+            <dct:identifier>14941569-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό Ε &amp;amp; Α στην Ελβετία, ανά τομέα και δραστηριότητα</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">T &amp;amp; K-henkilöstö Sveitsissä sektoreittain ja toimialoittain</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">P &amp;amp; A personāls Šveicē, pa nozarēm un darbībām</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал за научноизследователска и развойна дейност в Швейцария по сектори и дейности</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">O &amp;amp; O-personeel in Zwitserland, naar sector en activiteit</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Personel badawczo-rozwojowy w Szwajcarii, według sektorów i działalności</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">MTP personalas Šveicarijoje pagal sektorius ir veiklą</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hu-t-de-t0-mtec">K+F személyzet Svájcban, ágazat és tevékenység szerint</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje za raziskave in razvoj v Švici po sektorjih in dejavnostih</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale R &amp;amp; S in Svizzera, per settore e attività</dct:title>
+            <dct:title xml:lang="de">F+E-Personal in der Schweiz, nach Sektor und Tätigkeit</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-12T00:00:00</dct:modified>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel de R &amp; D en Suisse, par secteur et par activité</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">R &amp;amp; D personnel in Switzerland, by sector and activity</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941569/master"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Pearsanra T &amp;amp; F san Eilvéis, de réir earnála agus gníomhaíochta</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal C &amp;amp; D în Elveția, pe sectoare și activități</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="et-t-de-t0-mtec">Teadus- ja arendustegevuse personal Šveitsis sektorite ja tegevuste kaupa</dct:title>
+        <dcat:keyword xml:lang="de">landschaft-unter-druck</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal de I &amp;amp; D na Suíça, por setor e atividade</dct:title>
+        <dct:identifier>14941559@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Personel badawczo-rozwojowy w Szwajcarii, według sektorów i działalności</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Personal C &amp;amp; D în Elveția, pe sectoare și activități</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d249517b-a680-4d4a-89d6-0dc0066dec54">
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pētniecības un izstrādes personāls Šveicē, pēc nozares un funkcijām</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941573/master"/>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Teadus- ja arendustöötajad Šveitsis majandusharude ja funktsioonide kaupa</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Pracovníci výzkumu a vývoje ve Švýcarsku, podle odvětví a funkcí</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal tar-R &amp;amp; Ż fl-Isvizzera, skont l-industrija u l-funzjoni</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">FuE-Personal in der Schweiz, nach Tätigkeitsbereich und Funktion</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">R &amp;amp; D персонал в Швейцария, по промишленост и функции</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci výskumu a vývoja vo Švajčiarsku podľa odvetví a funkcií</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje za raziskave in razvoj v Švici po panogi in funkciji</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Pracownicy R &amp;amp; D w Szwajcarii, według przemysłu i funkcji</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann T &amp;amp; F san Eilvéis, de réir tionscail agus feidhme</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal de I+D en Suiza, por industria y función</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale R &amp;amp; D in Svizzera, per industria e funzione</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal de I &amp;amp; D na Suíça, por indústria e função</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">MTTP darbuotojai Šveicarijoje pagal pramonės šakas ir pareigas</dct:title>
+            <dct:identifier>14941573-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό Ε &amp;amp; Α στην Ελβετία, κατά κλάδο και λειτουργία</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">R &amp;amp; D personeel in Zwitserland, per industrie en functie</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personal R &amp;amp; D în Elveția, în funcție de industrie și funcție</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-fr-t0-mtec">F &amp;amp; U-personale i Schweiz, efter branche og funktion</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">K+F személyzet Svájcban, iparág és funkció szerint</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-12T00:00:00</dct:modified>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">T &amp;amp; K-henkilöstö Sveitsissä toimialoittain ja toiminnoittain</dct:title>
+            <dct:title xml:lang="fr">Personnel de R-D en Suisse, selon le secteur d'activité et la fonction</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">R &amp; D staff in Switzerland, by industry and function</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje u području istraživanja i razvoja u Švicarskoj, po industriji i funkciji</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">FoU-personal i Schweiz, efter bransch och funktion</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">R &amp;amp; D персонал в Швейцарії, за галузями і функціями</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>fr</dct:language>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941573/master"/>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">paesaggio-sotto-pressione</dcat:keyword>
+        <dcat:keyword xml:lang="fr">recherche-et-developpement-r-d-dans-la-confederation</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.15.02.01.02"/>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Pearsanra T &amp;amp; F san Eilvéis, de réir earnála agus gníomhaíochta</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">MTP personalas Šveicarijoje pagal sektorius ir veiklą</dct:title>
+        <dcat:keyword xml:lang="de">forschung-und-entwicklung-fe-in-den-hochschulen</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:12:25.606769</dct:modified>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:07Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14941559-bundesamt-fur-statistik-bfs"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>4999760cf65c85034bddfed50c4b13d6</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:34:59Z</edp:transReceived>
+  </dcat:CatalogRecord>
+</rdf:RDF>

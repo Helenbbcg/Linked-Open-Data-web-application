@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:schema="http://schema.org/"
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-49711">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>StaNord_CMS:49711</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-03-11T23:48:44Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:09Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-49711">
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bouwactiviteit in Hamburg in 2.
+Kwartaal 2008</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības darbība Hamburgā 2. gadā.
+2008. gada ceturksnis</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Будівельна діяльність в Гамбурзі 2.
+Квартал 2008</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Rakennustoiminta Hampurissa vuonna 2. Vuoden 2008 neljännes</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statybos darbai Hamburge 2.
+2008 m. ketvirtis</dct:title>
+        <adms:identifier>F II 1 - vj 2/08 H</adms:identifier>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Byggverksamhet i Hamburg i 2.
+Kvartal 2008</dct:title>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Attività ta’ kostruzzjoni f’Hamburg fi 2.
+Tliet xhur tal-2008</dct:title>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <dct:title xml:lang="el-t-de-t0-mtec">Κατασκευαστική δραστηριότητα στο Αμβούργο 2. Τρίμηνο του 2008</dct:title>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Gradbena dejavnost v Hamburgu v 2.
+Četrtletje leta 2008</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska djelatnost u Hamburgu u 2. Kvartal 2008. godine</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Építési tevékenység Hamburgban 2. 2008 negyedéve</dct:title>
+        <dcat:keyword>baugenehmigungen-und-bautätigkeit</dcat:keyword>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Activités de construction de bâtiments à Hambourg dans le 2ème Trimestre 2008</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Строителна дейност в Хамбург в 2. Тримесечие на 2008 г.</dct:title>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/QUARTERLY"/>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stavební činnost v Hamburku v 2. Kvartál 2008</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Atividade de construção em Hamburgo em 2.
+Trimestre de 2008</dct:title>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/hochbautaetigkeit-in-hamburg-im-2-vierteljahr-2008"/>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2008-06-30T00:00:00</schema:endDate>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2008-04-01T00:00:00</schema:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Działalność budowlana w Hamburgu w 2.
+Kwartał 2008 r.</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og anlægsaktivitet i Hamborg i 2. Kvartal 2008</dct:title>
+        <dcat:keyword>hochbautätigkeit-in-hamburg</dcat:keyword>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2008</dct:title>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0dd89f3a-9de8-4702-bbb3-df924b4a48a1">
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/51eb2da7-a42d-4316-af0d-9a146d6157d5/resource/58c4bbd2-1cca-458b-bfa0-d40b0ca28c56</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >938b4aad11496d8f21dab17534b300fdbcfbf87fc73fa1e2fda5797de661d11e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2008</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>PDF</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_2_vj_H/F_II_1_vj082_H.pdf"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >130860</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T10:31:46.689441</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="en-t-de-t0-mtec">Construction activity in Hamburg in 2. Quarter of 2008</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6b4db1c6-4d39-4eb7-99cb-9c53e661bd9c">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2008 (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T10:31:46.689441</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >3a239b22050bf3f3abe8ebb8dab6af7f4af854b1bb6ac3b9cbae1f0bb3d70039</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >129100</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS49711/F_II_1_vj082_H.zip"/>
+            <dct:format>ZIP</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/51eb2da7-a42d-4316-af0d-9a146d6157d5/resource/ddc169e4-3329-4533-b656-b55a3c803712</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Activitatea de construcții în Hamburg în 2.
+Trimestrul 2008</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Gníomhaíocht tógála in Hamburg in 2. Ráithe 2008</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ehitustegevus Hamburgis 2. 2008. aasta kvartal</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Actividad de construcción en Hamburgo en 2. Trimestre de 2008</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T10:31:46.689441</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Stavebná činnosť v Hamburgu v 2.
+Štvrťrok 2008</dct:title>
+        <dct:identifier>StaNord_CMS:49711</dct:identifier>
+        <dct:title xml:lang="it-t-de-t0-mtec">Attività di costruzione ad Amburgo in 2. Trimestre 2008</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ba0474e9-d98c-402f-aeac-e64a50cffb1e">
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_2_vj_H/F_II_1_vj082_H.xls"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/51eb2da7-a42d-4316-af0d-9a146d6157d5/resource/448ec346-4097-40da-bb4a-d0b5c6561780</dct:identifier>
+            <dct:title>Hochbautätigkeit in Hamburg im 2. Vierteljahr 2008</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >110840</dcat:byteSize>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >2a0f53bcd42d9a30c3b099671ba540aaf811032e0958e4c45849876c67dfec4e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:format>XLS</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T10:31:46.689441</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:09Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-49711"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>fc5a41b4e28e8504a2431ab7edfe649e</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

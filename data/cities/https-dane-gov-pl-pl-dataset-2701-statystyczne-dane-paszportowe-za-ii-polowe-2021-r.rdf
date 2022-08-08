@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-dane-gov-pl-pl-dataset-2701-statystyczne-dane-paszportowe-za-ii-polowe-2021-r">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>a68f79e56091d1bba487e2df67b84fbc</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-31T16:38:37Z</dct:issued>
+    <dct:identifier>https://dane.gov.pl/pl/dataset/2701,statystyczne-dane-paszportowe-za-ii-polowe-2021-r</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/https-dane-gov-pl-pl-dataset-2701-statystyczne-dane-paszportowe-za-ii-polowe-2021-r">
+        <dct:title xml:lang="nl-t-pl-t0-mtec">statistische paspoortgegevens voor de tweede helft van 2021</dct:title>
+        <dct:description xml:lang="de-t-pl-t0-mtec">statistische Passdaten für das zweite Halbjahr 2021</dct:description>
+        <dct:description xml:lang="mt-t-pl-t0-mtec">data statistika tal-passaport għat-tieni nofs tal-2021</dct:description>
+        <dct:description xml:lang="es-t-pl-t0-mtec">datos estadísticos de pasaportes para el segundo semestre de 2021</dct:description>
+        <dct:title xml:lang="es-t-pl-t0-mtec">datos estadísticos de pasaportes para el segundo semestre de 2021</dct:title>
+        <dct:title xml:lang="de-t-pl-t0-mtec">statistische Passdaten für das zweite Halbjahr 2021</dct:title>
+        <dct:title xml:lang="sk-t-pl-t0-mtec">štatistické údaje o pasoch za druhý polrok 2021</dct:title>
+        <dct:description xml:lang="pt-t-pl-t0-mtec">dados estatísticos de passaportes para o segundo semestre de 2021</dct:description>
+        <dct:description xml:lang="cs-t-pl-t0-mtec">údaje o statistickém pasu za druhé pololetí roku 2021</dct:description>
+        <dct:title xml:lang="hu-t-pl-t0-mtec">statisztikai útlevéladatok 2021 második félévére vonatkozóan</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind>
+            <vcard:fn>KPRM</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:kontakt@dane.gov.pl"/>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://dane.gov.pl/pl/institution/33,ministerstwo-spraw-zagranicznych">
+            <foaf:name xml:lang="pl">Ministerstwo Spraw Zagranicznych</foaf:name>
+            <foaf:mbox>kancelaria@msz.gov.pl</foaf:mbox>
+            <foaf:name xml:lang="en">Ministerstwo Spraw Zagranicznych</foaf:name>
+          </foaf:Agent>
+        </dct:publisher>
+        <dcat:landingPage rdf:resource="https://dane.gov.pl/pl/dataset/2701,statystyczne-dane-paszportowe-za-ii-polowe-2021-r"/>
+        <dct:title xml:lang="pl">statystyczne dane paszportowe za II połowę 2021 r.</dct:title>
+        <dct:title xml:lang="en">statystyczne dane paszportowe za II połowę 2021 r.</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <dct:identifier rdf:resource="http://sws.geonames.org/798544/"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8b6f339a-5fbb-4afa-a389-dcfb9c08b8ff">
+            <dct:title xml:lang="bg-t-pl-t0-mtec">статистически паспортни данни за втората половина на 2021 г.</dct:title>
+            <dct:description xml:lang="da-t-pl-t0-mtec">statistiske pasdata for andet halvår af 2021</dct:description>
+            <dct:title xml:lang="lt-t-pl-t0-mtec">2021 m. antrojo pusmečio statistiniai pasų duomenys</dct:title>
+            <dct:description xml:lang="de-t-pl-t0-mtec">statistische Passdaten für das zweite Halbjahr 2021</dct:description>
+            <dct:title xml:lang="pt-t-pl-t0-mtec">dados estatísticos de passaportes para o segundo semestre de 2021</dct:title>
+            <dct:title xml:lang="hr-t-pl-t0-mtec">statistički podaci iz putovnice za drugu polovicu 2021.</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="it-t-pl-t0-mtec">dati statistici sui passaporti per la seconda metà del 2021</dct:description>
+            <dct:description xml:lang="sv-t-pl-t0-mtec">statistiska passuppgifter för andra halvåret 2021</dct:description>
+            <dct:description xml:lang="en">&lt;p&gt;statystyczne dane paszportowe za II połowę 2021 r.&lt;/p&gt;</dct:description>
+            <dct:description xml:lang="pl">&lt;p&gt;statystyczne dane paszportowe za II połowę 2021 r.&lt;/p&gt;</dct:description>
+            <dct:description xml:lang="hr-t-pl-t0-mtec">statistički podaci iz putovnice za drugu polovicu 2021.</dct:description>
+            <dct:title xml:lang="cs-t-pl-t0-mtec">údaje o statistickém pasu za druhé pololetí roku 2021</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-28T13:33:43.014501Z</dct:modified>
+            <dct:description xml:lang="lv-t-pl-t0-mtec">statistikas pases dati par 2021. gada otro pusi</dct:description>
+            <dct:description xml:lang="el-t-pl-t0-mtec">στατιστικά στοιχεία διαβατηρίου για το δεύτερο εξάμηνο του 2021</dct:description>
+            <dct:language>
+              <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/ENG">
+                <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/language"/>
+              </dct:LinguisticSystem>
+            </dct:language>
+            <dct:title xml:lang="el-t-pl-t0-mtec">στατιστικά στοιχεία διαβατηρίου για το δεύτερο εξάμηνο του 2021</dct:title>
+            <dct:identifier>https://dane.gov.pl/pl/dataset/2701/resource/37445</dct:identifier>
+            <dct:title xml:lang="fi-t-pl-t0-mtec">tilastolliset passitiedot vuoden 2021 jälkimmäiseltä puoliskolta</dct:title>
+            <dct:title xml:lang="sv-t-pl-t0-mtec">statistiska passuppgifter för andra halvåret 2021</dct:title>
+            <dct:language>
+              <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/POL">
+                <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/language"/>
+              </dct:LinguisticSystem>
+            </dct:language>
+            <dct:title xml:lang="da-t-pl-t0-mtec">statistiske pasdata for andet halvår af 2021</dct:title>
+            <dct:title xml:lang="fr-t-pl-t0-mtec">données statistiques sur les passeports pour le second semestre 2021</dct:title>
+            <dcat:accessURL rdf:resource="https://dane.gov.pl/pl/dataset/2701/resource/37445"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-28T13:33:41.936009Z</dct:issued>
+            <dct:description xml:lang="bg-t-pl-t0-mtec">статистически паспортни данни за втората половина на 2021 г.</dct:description>
+            <dct:description xml:lang="ga-t-pl-t0-mtec">sonraí an phas staidrimh don dara leath de 2021</dct:description>
+            <dct:description xml:lang="fi-t-pl-t0-mtec">tilastolliset passitiedot vuoden 2021 jälkimmäiseltä puoliskolta</dct:description>
+            <dct:description xml:lang="et-t-pl-t0-mtec">statistilised passiandmed 2021. aasta teise poolaasta kohta</dct:description>
+            <dct:title xml:lang="it-t-pl-t0-mtec">dati statistici sui passaporti per la seconda metà del 2021</dct:title>
+            <dct:description xml:lang="sl-t-pl-t0-mtec">statistični podatki o potnem listu za drugo polovico leta 2021</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX">
+                <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-type"/>
+              </dct:MediaTypeOrExtent>
+            </dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >15731</dcat:byteSize>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed">
+                <skos:prefLabel xml:lang="en">Completed</skos:prefLabel>
+                <skos:inScheme>
+                  <skos:ConceptScheme rdf:about="http://purl.org/adms/status/1.0">
+                    <dct:title xml:lang="en">Status</dct:title>
+                  </skos:ConceptScheme>
+                </skos:inScheme>
+              </skos:Concept>
+            </adms:status>
+            <dct:description xml:lang="mt-t-pl-t0-mtec">data statistika tal-passaport għat-tieni nofs tal-2021</dct:description>
+            <dct:description xml:lang="fr-t-pl-t0-mtec">données statistiques sur les passeports pour le second semestre 2021</dct:description>
+            <dct:description xml:lang="es-t-pl-t0-mtec">datos estadísticos de pasaportes para el segundo semestre de 2021</dct:description>
+            <dct:title xml:lang="nl-t-pl-t0-mtec">statistische paspoortgegevens voor de tweede helft van 2021</dct:title>
+            <dct:description xml:lang="ro-t-pl-t0-mtec">date statistice privind pașapoartele pentru a doua jumătate a anului 2021</dct:description>
+            <dct:title xml:lang="sl-t-pl-t0-mtec">statistični podatki o potnem listu za drugo polovico leta 2021</dct:title>
+            <dct:title xml:lang="de-t-pl-t0-mtec">statistische Passdaten für das zweite Halbjahr 2021</dct:title>
+            <dct:title xml:lang="uk-t-pl-t0-mtec">статистичні паспортні дані за другу половину 2021 року</dct:title>
+            <dct:description xml:lang="sk-t-pl-t0-mtec">štatistické údaje o pasoch za druhý polrok 2021</dct:description>
+            <dct:description xml:lang="pt-t-pl-t0-mtec">dados estatísticos de passaportes para o segundo semestre de 2021</dct:description>
+            <dct:title xml:lang="es-t-pl-t0-mtec">datos estadísticos de pasaportes para el segundo semestre de 2021</dct:title>
+            <dct:title xml:lang="ro-t-pl-t0-mtec">date statistice privind pașapoartele pentru a doua jumătate a anului 2021</dct:title>
+            <dct:title xml:lang="mt-t-pl-t0-mtec">data statistika tal-passaport għat-tieni nofs tal-2021</dct:title>
+            <dct:description xml:lang="nl-t-pl-t0-mtec">statistische paspoortgegevens voor de tweede helft van 2021</dct:description>
+            <dcat:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/legalcode.pl"/>
+            <dct:title xml:lang="hu-t-pl-t0-mtec">statisztikai útlevéladatok 2021 második félévére vonatkozóan</dct:title>
+            <dct:title xml:lang="lv-t-pl-t0-mtec">statistikas pases dati par 2021. gada otro pusi</dct:title>
+            <dct:title xml:lang="en">statystyczne dane paszportowe za II połowę 2021 r.</dct:title>
+            <dct:title xml:lang="pl">statystyczne dane paszportowe za II połowę 2021 r.</dct:title>
+            <dct:description xml:lang="lt-t-pl-t0-mtec">2021 m. antrojo pusmečio statistiniai pasų duomenys</dct:description>
+            <dct:description xml:lang="cs-t-pl-t0-mtec">údaje o statistickém pasu za druhé pololetí roku 2021</dct:description>
+            <dcat:downloadURL rdf:resource="https://api.dane.gov.pl/resources/37445,statystyczne-dane-paszportowe-za-ii-poowe-2021-r/file"/>
+            <dct:title xml:lang="ga-t-pl-t0-mtec">sonraí an phas staidrimh don dara leath de 2021</dct:title>
+            <dct:description xml:lang="uk-t-pl-t0-mtec">статистичні паспортні дані за другу половину 2021 року</dct:description>
+            <dct:description xml:lang="hu-t-pl-t0-mtec">statisztikai útlevéladatok 2021 második félévére vonatkozóan</dct:description>
+            <dct:title xml:lang="et-t-pl-t0-mtec">statistilised passiandmed 2021. aasta teise poolaasta kohta</dct:title>
+            <dct:title xml:lang="sk-t-pl-t0-mtec">štatistické údaje o pasoch za druhý polrok 2021</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-pl-t0-mtec">2021 m. antrojo pusmečio statistiniai pasų duomenys</dct:title>
+        <dct:title xml:lang="it-t-pl-t0-mtec">dati statistici sui passaporti per la seconda metà del 2021</dct:title>
+        <dct:description xml:lang="ga-t-pl-t0-mtec">sonraí an phas staidrimh don dara leath de 2021</dct:description>
+        <dct:description xml:lang="fi-t-pl-t0-mtec">tilastolliset passitiedot vuoden 2021 jälkimmäiseltä puoliskolta</dct:description>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/UNKNOWN">
+            <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/frequency"/>
+          </dct:Frequency>
+        </dct:accrualPeriodicity>
+        <dct:title xml:lang="uk-t-pl-t0-mtec">статистичні паспортні дані за другу половину 2021 року</dct:title>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:description xml:lang="et-t-pl-t0-mtec">statistilised passiandmed 2021. aasta teise poolaasta kohta</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR">
+            <skos:prefLabel xml:lang="en">International issues</skos:prefLabel>
+            <skos:inScheme>
+              <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
+                <dct:title xml:lang="en">Data theme</dct:title>
+                <dct:title xml:lang="pl">Kategoria danych</dct:title>
+              </skos:ConceptScheme>
+            </skos:inScheme>
+            <skos:prefLabel xml:lang="pl">Kwestie międzynarodowe</skos:prefLabel>
+          </skos:Concept>
+        </dcat:theme>
+        <dct:title xml:lang="cs-t-pl-t0-mtec">údaje o statistickém pasu za druhé pololetí roku 2021</dct:title>
+        <owl:versionInfo>None</owl:versionInfo>
+        <dct:description xml:lang="bg-t-pl-t0-mtec">статистически паспортни данни за втората половина на 2021 г.</dct:description>
+        <dct:description xml:lang="uk-t-pl-t0-mtec">статистичні паспортні дані за другу половину 2021 року</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/POL"/>
+        <dct:description xml:lang="lv-t-pl-t0-mtec">statistikas pases dati par 2021. gada otro pusi</dct:description>
+        <dct:description xml:lang="nl-t-pl-t0-mtec">statistische paspoortgegevens voor de tweede helft van 2021</dct:description>
+        <dct:title xml:lang="ga-t-pl-t0-mtec">sonraí an phas staidrimh don dara leath de 2021</dct:title>
+        <dct:description xml:lang="ro-t-pl-t0-mtec">date statistice privind pașapoartele pentru a doua jumătate a anului 2021</dct:description>
+        <dct:description xml:lang="el-t-pl-t0-mtec">στατιστικά στοιχεία διαβατηρίου για το δεύτερο εξάμηνο του 2021</dct:description>
+        <dct:description xml:lang="en">&lt;p&gt;statystyczne dane paszportowe za II połowę 2021 r.&lt;/p&gt;</dct:description>
+        <dct:description xml:lang="pl">&lt;p&gt;statystyczne dane paszportowe za II połowę 2021 r.&lt;/p&gt;</dct:description>
+        <dct:modified>2022-03-28T13:33:41.940028+00:00</dct:modified>
+        <dct:title xml:lang="sv-t-pl-t0-mtec">statistiska passuppgifter för andra halvåret 2021</dct:title>
+        <dct:description xml:lang="lt-t-pl-t0-mtec">2021 m. antrojo pusmečio statistiniai pasų duomenys</dct:description>
+        <dct:description xml:lang="sv-t-pl-t0-mtec">statistiska passuppgifter för andra halvåret 2021</dct:description>
+        <dct:description xml:lang="fr-t-pl-t0-mtec">données statistiques sur les passeports pour le second semestre 2021</dct:description>
+        <dct:description xml:lang="it-t-pl-t0-mtec">dati statistici sui passaporti per la seconda metà del 2021</dct:description>
+        <dct:title xml:lang="bg-t-pl-t0-mtec">статистически паспортни данни за втората половина на 2021 г.</dct:title>
+        <dct:title xml:lang="da-t-pl-t0-mtec">statistiske pasdata for andet halvår af 2021</dct:title>
+        <dct:description xml:lang="hu-t-pl-t0-mtec">statisztikai útlevéladatok 2021 második félévére vonatkozóan</dct:description>
+        <dct:title xml:lang="el-t-pl-t0-mtec">στατιστικά στοιχεία διαβατηρίου για το δεύτερο εξάμηνο του 2021</dct:title>
+        <dct:title xml:lang="et-t-pl-t0-mtec">statistilised passiandmed 2021. aasta teise poolaasta kohta</dct:title>
+        <dct:title xml:lang="lv-t-pl-t0-mtec">statistikas pases dati par 2021. gada otro pusi</dct:title>
+        <dct:title xml:lang="mt-t-pl-t0-mtec">data statistika tal-passaport għat-tieni nofs tal-2021</dct:title>
+        <dct:title xml:lang="ro-t-pl-t0-mtec">date statistice privind pașapoartele pentru a doua jumătate a anului 2021</dct:title>
+        <dct:description xml:lang="sl-t-pl-t0-mtec">statistični podatki o potnem listu za drugo polovico leta 2021</dct:description>
+        <dct:title xml:lang="sl-t-pl-t0-mtec">statistični podatki o potnem listu za drugo polovico leta 2021</dct:title>
+        <dct:description xml:lang="da-t-pl-t0-mtec">statistiske pasdata for andet halvår af 2021</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:description xml:lang="sk-t-pl-t0-mtec">štatistické údaje o pasoch za druhý polrok 2021</dct:description>
+        <dct:title xml:lang="fi-t-pl-t0-mtec">tilastolliset passitiedot vuoden 2021 jälkimmäiseltä puoliskolta</dct:title>
+        <dct:identifier>https://dane.gov.pl/pl/dataset/2701,statystyczne-dane-paszportowe-za-ii-polowe-2021-r</dct:identifier>
+        <dct:title xml:lang="hr-t-pl-t0-mtec">statistički podaci iz putovnice za drugu polovicu 2021.</dct:title>
+        <dct:description xml:lang="hr-t-pl-t0-mtec">statistički podaci iz putovnice za drugu polovicu 2021.</dct:description>
+        <dct:issued>2022-03-28T13:33:41.875334+00:00</dct:issued>
+        <dcat:keyword>paszport</dcat:keyword>
+        <dct:title xml:lang="fr-t-pl-t0-mtec">données statistiques sur les passeports pour le second semestre 2021</dct:title>
+        <dct:title xml:lang="pt-t-pl-t0-mtec">dados estatísticos de passaportes para o segundo semestre de 2021</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-04T05:23:17Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-31T16:38:37Z</edp:transIssued>
+    <edp:originalLanguage>pl</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-dane-gov-pl-pl-dataset-2701-statystyczne-dane-paszportowe-za-ii-polowe-2021-r"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T16:38:08Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

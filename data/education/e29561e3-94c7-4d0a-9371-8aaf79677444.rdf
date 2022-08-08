@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/e29561e3-94c7-4d0a-9371-8aaf79677444">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/e29561e3-94c7-4d0a-9371-8aaf79677444">
+        <dcat:keyword>dgiarts</dcat:keyword>
+        <dcat:keyword>dgihousing</dcat:keyword>
+        <dcat:keyword>culture and heritage</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-08-28T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cb95149f-de4e-45a8-9097-2184b11ceeb5">
+            <dcat:mediaType>application/vnd.geo+json</dcat:mediaType>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:format>GeoJSON</dct:format>
+            <dcat:accessURL rdf:resource="https://opendata-galwaycoco.hub.arcgis.com/datasets/galwaycoco::galway-county-architectural-conservation-areas-cdp-2015-2021.geojson?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:identifier>https://data.gov.ie/dataset/e29561e3-94c7-4d0a-9371-8aaf79677444/resource/7116357f-f08d-426b-8e8c-df33be1a98c5</dct:identifier>
+            <dct:title>GeoJSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8a65a511-23c6-4c7c-90d8-1331220af62b">
+            <dct:format>ArcGIS GeoServices REST API</dct:format>
+            <dcat:accessURL rdf:resource="https://services1.arcgis.com/mJI7JYqAOKXPG7Hh/arcgis/rest/services/GCC_ACA_20152021/FeatureServer/0"/>
+            <dct:title>ArcGIS GeoService</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/e29561e3-94c7-4d0a-9371-8aaf79677444/resource/4b276104-5830-49dd-bccc-ea0a29f0b589</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>application/json</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5f4b70b7-0041-41ea-93b2-42687d9aea1f">
+            <dct:identifier>https://data.gov.ie/dataset/e29561e3-94c7-4d0a-9371-8aaf79677444/resource/de718e01-2d6d-4940-935a-96e62427e83c</dct:identifier>
+            <dct:format>ZIP</dct:format>
+            <dcat:accessURL rdf:resource="https://opendata-galwaycoco.hub.arcgis.com/datasets/galwaycoco::galway-county-architectural-conservation-areas-cdp-2015-2021.zip?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:title>Shapefile</dct:title>
+            <dcat:mediaType>application/zip</dcat:mediaType>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Architectural</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:bdoyle@galwaycoco.ie"/>
+            <vcard:fn>Barry Doyle</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:landingPage rdf:resource="https://opendata-galwaycoco.hub.arcgis.com/maps/galwaycoco::galway-county-architectural-conservation-areas-cdp-2015-2021"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/galway-county-council">
+            <foaf:name>Galway County Council</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ac191a03-10d1-4a74-9bca-1a74fc868dd6">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://opendata-galwaycoco.hub.arcgis.com/maps/galwaycoco::galway-county-architectural-conservation-areas-cdp-2015-2021"/>
+            <dct:format>HTML</dct:format>
+            <dct:title>ArcGIS Hub Dataset</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/e29561e3-94c7-4d0a-9371-8aaf79677444/resource/6f5532dc-6095-4f56-92a8-716b1cf334a0</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>ACA</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-23T14:20:58</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/88688dd8-38f2-47fb-84ba-17b20490a4db">
+            <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+            <dct:title>KML</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/e29561e3-94c7-4d0a-9371-8aaf79677444/resource/85c7c41c-8977-4429-89d0-16e140d0ace5</dct:identifier>
+            <dct:format>KML</dct:format>
+            <dcat:accessURL rdf:resource="https://opendata-galwaycoco.hub.arcgis.com/datasets/galwaycoco::galway-county-architectural-conservation-areas-cdp-2015-2021.kml?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Galway</dcat:keyword>
+        <dcat:theme rdf:resource="https://data.gov.ie/Arts"/>
+        <dcat:keyword>Planning and Development</dcat:keyword>
+        <dct:language>en</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:description>&lt;div&gt;Owners and prospective owners and occupiers of protected structures or proposed protected structures or structures located in Architectural Conservation Areas should consult with the Planning Authority in good time as to the appropriateness of proposed works or other developments, and seek competent advice on best practice for carrying out such works.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;span style='font-family: &amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;'&gt;Produced as part of the Galway County Development Plan 2015 - 2021. See &lt;/span&gt;&lt;a href='http://www.galway.ie/' rel='nofollow ugc' style='color: rgb(0, 121, 193); text-decoration-line: none; font-family: &amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;' target='_blank'&gt;www.galway.ie&lt;/a&gt;&lt;span style='font-family: &amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;'&gt; for further details.  &lt;/span&gt;&lt;div style='font-family: &amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;'&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style='font-family: &amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px;'&gt;Galway County Council provides this information with the understanding that it is not guaranteed to be accurate, correct, or complete. Galway County Council accepts no liability for any loss or damage suffered by those using this data for any purpose.&lt;/div&gt;&lt;/div&gt;</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b170c0f9-e9f0-475d-8d92-ef98fff1a62f">
+            <dct:identifier>https://data.gov.ie/dataset/e29561e3-94c7-4d0a-9371-8aaf79677444/resource/ff69ce80-eae1-4eb3-b782-eeb8b0df3c86</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title>CSV</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://opendata-galwaycoco.hub.arcgis.com/datasets/galwaycoco::galway-county-architectural-conservation-areas-cdp-2015-2021.csv?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:format>CSV</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>e29561e3-94c7-4d0a-9371-8aaf79677444</dct:identifier>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasTelephone>-</vcard:hasTelephone>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword>Galway County Council</dcat:keyword>
+        <dct:title>Galway County Architectural Conservation Areas CDP 2015 2021</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>79cea6ddff765bfbffe26f9076838e59</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:52Z</edp:transIssued>
+    <dct:identifier>e29561e3-94c7-4d0a-9371-8aaf79677444</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:52Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/e29561e3-94c7-4d0a-9371-8aaf79677444"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-19T20:25:19Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

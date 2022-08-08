@@ -1,0 +1,150 @@
+<!-- The graph in this page is built by ECharts.
+It is referenced at https://echarts.apache.org/examples/zh/editor.html?c=graph-force, which is the official example of ECharts.-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Transport</title>
+
+  <link rel="stylesheet" href="../static/style.css" media="screen" type="text/css" />
+
+<style type="text/css">
+        h1{
+            font-size:40px;
+            font-weight: bold;
+            margin:12px 0!important;
+
+        }</style>
+</head>
+
+<body>
+
+
+  <script src="../static/jquery-2.2.1.min.js"></script>
+  <script src="../static/bootstrap.min.js"></script>
+  <script src="../static/echarts.min.js"></script>
+
+
+  <h1 align="center">Transport</h1>
+  <div class="nav1">
+		<ul>
+            <li><a href="/">HomePage</a></li>
+			<li><a href="/education">Education</a></li>
+
+			<li><a href="/energy">Energy</a></li>
+
+			<li><a href="/health">Health</a></li>
+            <li><a href="/cities">cities</a></li>
+
+			<li><a href="/transport">Transport</a></li>
+            <li><a href="/international">International</a></li>
+
+
+	   </ul>
+	</div>
+
+
+
+  <div id="main" style="width:100%;height:1500px"></div>
+  <script type="text/javascript">
+    var chartDom = document.getElementById('main');
+    var myChart = echarts.init(chartDom);
+    var option;
+
+
+    myChart.showLoading();
+    $.get('/graph').done(function (graph) {
+
+      myChart.hideLoading();
+      var newdata = [];
+      for (var i=0;i<graph.nodes.length;i++){
+          if (graph.nodes[i].category === 4){
+              newdata.push(graph.nodes[i]);
+
+          }
+      }
+
+      graph.nodes.forEach(function (node) {
+        if (node.dataset === true){
+          node.symbolSize = 30;
+        }
+        else{
+          node.symbolSize = 20;
+        }
+
+      });
+
+      option = {
+        title: {
+          text: 'The Linked Open Data Cloud from data.europa.eu',
+          subtext: 'Default layout',
+          top: 'bottom',
+          left: 'right'
+        },
+        tooltip: {
+
+          formatter: function (x) {
+              return x.data.name;
+          }
+      },
+
+
+
+        toolbox: {
+            show: true,
+            feature: {
+                mark: {
+                    show: true
+                },
+                restore: {
+                    show: true
+                },
+                saveAsImage: {
+                    show: true
+                }
+            }
+        },
+        legend: [
+
+        ],
+        series: [
+          {
+            name: 'name',
+            type: 'graph',
+            layout: 'force',
+
+            data:newdata,
+
+            links: graph.links,
+            categories: graph.categories,
+            roam: true,
+            focusNodeAdjacency:true,
+            label: {
+                    normal: {
+                        show: false
+                    }
+                },
+            force: {
+              repulsion: 100
+            }
+          }
+        ]
+      };
+      myChart.setOption(option);
+    });
+
+    option && myChart.setOption(option);
+
+    myChart.on('click', function (params) {
+      console.log(params);
+      window.open(params.data.properties.uri);
+
+    });
+  </script>
+
+
+</body>
+
+
+</html>

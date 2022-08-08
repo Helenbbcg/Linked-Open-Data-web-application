@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/b0243fdf-4658-44d4-aabf-fdf1d84e10d1">
+    <dct:identifier>b0243fdf-4658-44d4-aabf-fdf1d84e10d1</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:51Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:51Z</edp:transIssued>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/b0243fdf-4658-44d4-aabf-fdf1d84e10d1"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-15T20:25:12Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>41c76ca02a286ef0d66817fb6943e297</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/b0243fdf-4658-44d4-aabf-fdf1d84e10d1">
+        <dct:description xml:lang="pt-t-ga-t0-mtec">Este conjunto de dados contém dados espaciais de uma pesquisa de 2010 dos habitats de Roscommon. A pesquisa foi realizada pela RPS em julho de 2010 em nome do Conselho do Condado de Roscommon e em associação com o Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Projeção espacial: Web Mercator, &lt;/div&gt;&lt;div&gt;Data de criação: 2010, &lt;/div&gt;&lt;div&gt;Atualização de Frequência: Como Necessário, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt; Conselho do Condado de Roscommon fornece essas informações com o entendimento de que não é garantido ser preciso, correto ou completo. Roscommon County Council não se responsabiliza por qualquer perda ou dano sofrido por aqueles que usam esses dados para qualquer finalidade.</dct:description>
+        <dct:title xml:lang="nl-t-ga-t0-mtec">Boomlijnen</dct:title>
+        <dct:title xml:lang="hr-t-ga-t0-mtec">Drvoredi</dct:title>
+        <dct:description xml:lang="hr-t-ga-t0-mtec">Ovaj skup podataka sadrži prostorne podatke iz istraživanja iz 2010. godine o Roscommonovim staništima. Istraživanje je provedeno od strane RPS-a u srpnju 2010. godine u ime Vijeća okruga Roscommon i u suradnji s Vijećem baštine.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Izdavač: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Jezik podataka: engleski, &lt;/div&gt;&lt;div&gt;prostorna projekcija: Web Mercator, &lt;/div&gt;&lt;div&gt;Datum stvaranja: 2010, &lt;/div&gt;&lt;div&gt;Ažuriranje frekvencije: kao što je potrebno, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&gt;Roscommon County Council pruža ove informacije s razumijevanjem da nije zajamčeno da će biti točne, točne ili potpune. Vijeće okruga Roscommon ne preuzima odgovornost za bilo kakav gubitak ili štetu koju pretrpe oni koji koriste ove podatke u bilo koju svrhu.&lt;/div&gt;</dct:description>
+        <dcat:keyword>open data</dcat:keyword>
+        <dct:description xml:lang="sk-t-ga-t0-mtec">Tento súbor údajov obsahuje priestorové údaje z prieskumu biotopov spoločnosti Roscommon z roku 2010. Prieskum uskutočnil RPS v júli 2010 v mene Roscommon County Council a v spolupráci s Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Update Frequency: As Required, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council poskytuje tieto informácie s vedomím, že nie je zaručené, že sú presné, správne alebo úplné. Roscommon County Council nenesie žiadnu zodpovednosť za akúkoľvek stratu alebo škodu, ktorú utrpeli osoby, ktoré tieto údaje používajú na akýkoľvek účel.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="lv-t-ga-t0-mtec">Mežģīnes</dct:title>
+        <dcat:keyword>Survey</dcat:keyword>
+        <dct:description xml:lang="mt-t-ga-t0-mtec">Dan is-Sett ta’ Data fih data ġeografika minn stħarriġ tal-2010 dwar il-ħabitats ta’ Roscommon. L-istħarriġ sar mill-RPS f’Lulju 2010 f’isem il-Kunsill tal-Kontea ta’ Roscommon u f’assoċjazzjoni mal-Kunsill tal-Patrimonju.&lt;div&gt;&lt;div&gt;Dataset Publisher: il-Kunsill tal-Kontea ta’ Roscommon, &lt;/div&gt;&lt;div&gt;Dataset language: Ingliż, &lt;/div&gt;&lt;div&gt;Projezzjoni Spazjali: Web Mercator, &lt;/div&gt;&lt;div&gt;Data tal-Ħolqien: 2010, &lt;/div&gt;&lt;div&gt;Aġġornament Frekwenza: Kif Meħtieġ, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council jipprovdi din l-informazzjoni bil-fehim li mhuwiex garantit li jkun preċiż, korrett jew komplut. Il-Kunsill tal-Kontea ta’ Roscommon ma jaċċetta l-ebda responsabbiltà għal kwalunkwe telf jew ħsara mġarrba minn dawk li jużaw din id-data għal kwalunkwe skop.&lt;/div&gt;</dct:description>
+        <dct:description xml:lang="es-t-ga-t0-mtec">Este conjunto de datos contiene datos espaciales de una encuesta de 2010 de los hábitats de Roscommon. La encuesta fue realizada por RPS en julio de 2010 en nombre del Consejo del Condado de Roscommon y en asociación con el Consejo de Patrimonio.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Idioma de datos: inglés, &lt;/div&gt;&lt;div&gt;Proyección espacial: Web Mercator, &lt;/div&gt;&lt;div&gt;Fecha de creación: 2010, &lt;/div&gt;&lt;div&gt; Frecuencia de actualización: Como se requiere, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council proporciona esta información con el entendimiento de que no se garantiza que sea exacta, correcta o completa. Roscommon County Council no acepta ninguna responsabilidad por cualquier pérdida o daño sufrido por aquellos que utilizan estos datos para cualquier propósito.&lt;/div&gt;</dct:description>
+        <dct:description xml:lang="et-t-ga-t0-mtec">See andmekogum sisaldab Roscommoni elupaikade 2010. aasta uuringu ruumiandmeid. Uuringu viis RPS läbi 2010. aasta juulis Roscommoni krahvkonnanõukogu nimel ja koostöös pärandinõukoguga.&lt;div&gt;&lt;div&gt;&gt;Dataset Publisher: Roscommoni krahvkonnanõukogu, &lt;/div&gt;&gt;Datase keel: inglise keel, &lt;/div&gt;ruumiline projektsioon: Web Mercator, &lt;/div&gt;&lt;div&gt;Loomise kuupäev: 2010, &lt;/div&gt;&lt;div&gt;Uuendatud sagedus: vastavalt vajadusele, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommoni krahvkonnanõukogu annab selle teabe mõistes, et see ei ole tagatud, et see on täpne, õige või täielik. Roscommoni krahvkonnanõukogu ei vastuta kahjude eest, mis on tekkinud neile, kes neid andmeid mis tahes eesmärgil kasutavad.&lt;/div&gt;</dct:description>
+        <dct:description>&lt;p&gt;This dataset contains spatial data from a 2010 survey of Roscommon's habitats. The survey was conducted by RPS in July 2010 on behalf of Roscommon County Council and in association with the Heritage Council.&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Dataset Publisher:&lt;/b&gt; Roscommon County Council, &lt;/div&gt;&lt;div&gt;&lt;b&gt;Dataset language:&lt;/b&gt; English, &lt;/div&gt;&lt;div&gt;&lt;b&gt;Spatial Projection:&lt;/b&gt; Web Mercator, &lt;/div&gt;&lt;div&gt;&lt;b&gt;Date of Creation: &lt;/b&gt;2010, &lt;/div&gt;&lt;div&gt;&lt;b&gt;Update Frequency:&lt;/b&gt; As Required, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Roscommon County Council provides this information with the understanding that it is not guaranteed to be accurate, correct or complete. Roscommon County Council accepts no liability for any loss or damage suffered by those using this data for any purpose.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="ro-t-ga-t0-mtec">Linii de copac</dct:title>
+        <dct:description xml:lang="de-t-ga-t0-mtec">Dieser Datensatz enthält räumliche Daten aus einer 2010 durchgeführten Erhebung der Lebensräume von Roscommon. Die Umfrage wurde von RPS im Juli 2010 im Auftrag des Roscommon County Council und in Zusammenarbeit mit dem Heritage Council durchgeführt.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset Sprache: Englisch, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Aktualisierungshäufigkeit: Wie erforderlich, liefert &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council diese Informationen mit dem Verständnis, dass es nicht garantiert ist, genau, richtig oder vollständig zu sein. Roscommon County Council übernimmt keine Haftung für Verluste oder Schäden, die von Personen erlitten werden, die diese Daten für irgendeinen Zweck verwenden.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="de-t-ga-t0-mtec">Baumlinien</dct:title>
+        <dct:title xml:lang="pl-t-ga-t0-mtec">Linie drzew</dct:title>
+        <dct:description xml:lang="it-t-ga-t0-mtec">Questo set di dati contiene dati spaziali da un'indagine 2010 sugli habitat di Roscommon. L'indagine è stata condotta da RPS nel luglio 2010 per conto del Roscommon County Council e in associazione con il Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Editore: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Data of Creation: 2010, &lt;/div&gt;&lt;div&gt; Aggiornamento Frequenza: Come richiesto, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council fornisce queste informazioni con la comprensione che non è garantita per essere accurata, corretta o completa. Roscommon County Council non si assume alcuna responsabilità per eventuali perdite o danni subiti da coloro che utilizzano questi dati per qualsiasi scopo.</dct:description>
+        <dcat:keyword>roscommon</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-23T14:54:18</dct:modified>
+        <dct:title xml:lang="sv-t-ga-t0-mtec">Trädlinjer</dct:title>
+        <dct:description xml:lang="sv-t-ga-t0-mtec">Detta dataset innehåller rumsliga data från en 2010-undersökning av Roscommons livsmiljöer. Undersökningen genomfördes av RPS i juli 2010 på uppdrag av Roscommon County Council och i samarbete med Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010 &lt;/div&gt;&lt;div&gt; Uppdateringsfrekvens: Som krävs, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council ger denna information med förståelsen att den inte är garanterad att vara korrekt, korrekt eller fullständig. Roscommon County Council tar inget ansvar för förlust eller skada som drabbar dem som använder dessa data för något ändamål.</dct:description>
+        <dct:title xml:lang="cs-t-ga-t0-mtec">Čáry stromů</dct:title>
+        <dct:description xml:lang="cs-t-ga-t0-mtec">Tento datový soubor obsahuje prostorová data z průzkumu stanovišť Roscommon z roku 2010. Průzkum provedl RPS v červenci 2010 jménem rady hrabství Roscommon a ve spolupráci s Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset Language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Aktualizace frekvence: Jak je vyžadováno, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council poskytuje tyto informace s vědomím, že není zaručeno, že jsou přesné, správné nebo úplné. Rada hrabství Roscommon nenese žádnou odpovědnost za jakoukoli ztrátu nebo škodu, kterou utrpěli ti, kteří tyto údaje používají k jakémukoli účelu.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="sl-t-ga-t0-mtec">Drevesne črte</dct:title>
+        <dct:title xml:lang="bg-t-ga-t0-mtec">Линии на дърветата</dct:title>
+        <dct:description xml:lang="bg-t-ga-t0-mtec">Този набор от данни съдържа пространствени данни от проучване от 2010 г. на местообитанията на Roscommon. Проучването е проведено от RPS през юли 2010 г. от името на окръжния съвет на Roscommon и съвместно със Съвета за наследство.&lt;div&gt;&lt;div&gt;Dataset Publisher: County Council Roscommon, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt; Актуализирана честота: Както е необходимо, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council предоставя тази информация с разбирането, че не е гарантирано, че тя е точна, точна или пълна. Окръжният съвет на Roscommon не носи отговорност за загуби или щети, претърпени от тези, които използват тези данни за каквато и да е цел.</dct:description>
+        <dct:description xml:lang="nl-t-ga-t0-mtec">Deze dataset bevat ruimtelijke gegevens uit een onderzoek uit 2010 van Roscommon’s habitats. Het onderzoek werd uitgevoerd door RPS in juli 2010 namens Roscommon County Council en in samenwerking met de Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Uitgever: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset taal: Engels, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Update Frequentie: Zoals vereist, biedt &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council deze informatie met dien verstande dat het niet gegarandeerd nauwkeurig, correct of volledig is. Roscommon County Council aanvaardt geen aansprakelijkheid voor enig verlies of schade geleden door degenen die deze gegevens voor welk doel dan ook gebruiken.&lt;/div&gt;</dct:description>
+        <dcat:landingPage rdf:resource="https://data-roscoco.opendata.arcgis.com/maps/RosCoCo::treelines"/>
+        <dct:description xml:lang="en-t-ga-t0-mtec">This Dataset contains Spatial data from a 2010 survey of Roscommon’s habitats. The survey was conducted by RPS in July 2010 on behalf of Roscommon County Council and in association with the Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Update Frequency: As Required, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council provides this information with the understanding that it is not guaranteed to be accurate, correct or complete. Roscommon County Council accepts no liability for any loss or damage suffered by those using this data for any purpose.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="el-t-ga-t0-mtec">Δενδρογραμμές</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:gisoff@roscommoncoco.ie"/>
+            <vcard:fn>RoscomCoCoGIS</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fr-t-ga-t0-mtec">Lignes d’arbres</dct:title>
+        <dct:description xml:lang="el-t-ga-t0-mtec">Αυτό το σύνολο δεδομένων περιέχει χωρικά δεδομένα από μια έρευνα του 2010 για τους οικοτόπους της Roscommon. Η έρευνα διεξήχθη από την RPS τον Ιούλιο του 2010 για λογαριασμό του Roscommon County Council και σε συνεργασία με το Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Update Συχνότητα: Όπως απαιτείται, &lt;/div&gt;&lt;/div&gt;/div&gt; &lt;div&gt;&lt;div&gt;&gt;Roscommon County Council παρέχει αυτές τις πληροφορίες με την προϋπόθεση ότι δεν είναι εγγυημένη ότι είναι ακριβείς, σωστές ή πλήρεις. Η Roscommon County Council δεν φέρει καμία ευθύνη για οποιαδήποτε απώλεια ή ζημία που υπέστησαν όσοι χρησιμοποιούν αυτά τα δεδομένα για οποιονδήποτε σκοπό.&lt;/diiv&gt;</dct:description>
+        <dct:description xml:lang="uk-t-ga-t0-mtec">Цей набір даних містить просторові дані з опитування 2010 року про місця проживання Roscommon. Опитування було проведено РПС у липні 2010 року за дорученням ради округу Роскоммон та спільно з Радою Спадщини.âdiv&gt;âdiv&gt;âdiv&gt;Dataset Видавець: Roscommon County Council, Ü/div&gt;âdiv&gt;Dataset мова: англійська, Ü/div&gt;âdiv&gt;Spatial Projection: Web Mercator, Ü/div&gt;âdiv&gt;Date of Creation: 2010 р.: У міру необхідності, â/div&gt;â €/div&gt;â €/div&gt;âdiv&gt;âdiv&gt;âdiv&gt;âdiv&gt;Roscommon County Council надає цю інформацію з розумінням того, що вона не гарантується точною, правильною або повною. Рада округу Роскоммон не несе відповідальності за будь-які втрати або шкоду, завдані тими, хто використовує ці дані для будь-яких цілей.</dct:description>
+        <dct:title xml:lang="da-t-ga-t0-mtec">Trælinjer</dct:title>
+        <dcat:keyword>OpenSpatialIE</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-06-08T00:00:00</dct:issued>
+        <dct:title xml:lang="uk-t-ga-t0-mtec">Лінії деревообробки</dct:title>
+        <dct:description xml:lang="da-t-ga-t0-mtec">Dette datasæt indeholder geografiske data fra en 2010-undersøgelse af Roscommons levesteder. Undersøgelsen blev gennemført af RPS i juli 2010 på vegne af Roscommon County Council og i samarbejde med Heritage Council.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Update Frekvens: Som krævet, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council giver disse oplysninger med den forståelse, at det ikke er garanteret at være korrekt, korrekt eller fuldstændig. Roscommon County Council påtager sig intet ansvar for tab eller skade, som de, der bruger disse data, har lidt til noget formål.&lt;/div&gt;</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cdbe48b2-9c8e-410f-958a-0833a8380ac2">
+            <dct:format>KML</dct:format>
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::treelines.kml?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:identifier>https://data.gov.ie/dataset/b0243fdf-4658-44d4-aabf-fdf1d84e10d1/resource/918003c6-2b25-41f1-8bfd-0889aed91289</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+            <dct:title>KML</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>en</dct:language>
+        <dct:title xml:lang="it-t-ga-t0-mtec">Linee d'albero</dct:title>
+        <dct:title xml:lang="lt-t-ga-t0-mtec">Medžio linijos</dct:title>
+        <dct:identifier>b0243fdf-4658-44d4-aabf-fdf1d84e10d1</dct:identifier>
+        <dct:description xml:lang="fi-t-ga-t0-mtec">Tämä tietokokonaisuus sisältää paikkatietoja Roscommonin luontotyyppien 2010-tutkimuksesta. RPS toteutti tutkimuksen heinäkuussa 2010 Roscommon County Councilin puolesta ja yhdessä Heritage Councilin kanssa.&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;Dataset Language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Luomisen päivämäärä: 2010, &lt;/div&gt;&lt;div&gt;Päivitystaajuus: Tarvittaessa, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council antaa nämä tiedot edellyttäen, että ne eivät ole varmoja, paikkansapitäviä tai täydellisiä. Roscommon County Council ei ole vastuussa mistään menetyksistä tai vahingoista niille, jotka käyttävät näitä tietoja mihinkään tarkoitukseen.&lt;/div&gt;</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/64a86fa3-51a6-44b6-a122-01011e3e3016">
+            <dct:format>HTML</dct:format>
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/maps/RosCoCo::treelines"/>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title>ArcGIS Hub Dataset</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/b0243fdf-4658-44d4-aabf-fdf1d84e10d1/resource/30589dce-9063-4bf5-aaeb-838c42550b52</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-ga-t0-mtec">Linhas de árvore</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c1e59855-8432-4adc-be53-059e282d7616">
+            <dct:format>CSV</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/b0243fdf-4658-44d4-aabf-fdf1d84e10d1/resource/f1d1f9c8-09c4-451d-9276-3691a79c18c0</dct:identifier>
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::treelines.csv?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title>CSV</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sl-t-ga-t0-mtec">Ta podatkovni niz vsebuje prostorske podatke iz raziskave o habitatih Roscommon iz leta 2010. Raziskavo je julija 2010 izvedel RPS v imenu grofijskega sveta Roscommon in v sodelovanju s svetom za dediščino.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Jezik podatkov: angleščina, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Posodobitev pogostosti: kot je potrebno, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council zagotavlja te informacije z razumevanjem, da ni zagotovljeno, da so točni, pravilni ali popolni. Roscommon County Council ne prevzema nobene odgovornosti za kakršno koli izgubo ali škodo, ki so jo utrpeli tisti, ki uporabljajo te podatke za kakršen koli namen.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="fi-t-ga-t0-mtec">Puurajat</dct:title>
+        <dct:title xml:lang="en-t-ga-t0-mtec">Treelines</dct:title>
+        <dct:title>Treelines</dct:title>
+        <dct:title xml:lang="hu-t-ga-t0-mtec">Fasorok</dct:title>
+        <dct:description xml:lang="hu-t-ga-t0-mtec">Ez az adatkészlet a Roscommon élőhelyeinek 2010-es felméréséből származó téradatokat tartalmazza. A felmérést az RPS 2010 júliusában végezte el a Roscommon Megyei Tanács nevében és az Örökségi Tanáccsal együttműködve.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Update Frequency: As Required, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Update Frequency: As Required, &lt;/div&gt;&lt;div&gt;&lt;div&gt;Update Frequency: As Required, &lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council, azzal a feltétellel, hogy nem garantált, hogy pontos, helyes vagy teljes. Roscommon Megyei Tanács nem vállal felelősséget az ezen adatokat bármilyen célra használók által elszenvedett veszteségekért vagy károkért.&lt;/div&gt;</dct:description>
+        <dcat:keyword>habitat</dcat:keyword>
+        <dct:description xml:lang="lv-t-ga-t0-mtec">Šī datu kopa satur telpiskos datus no 2010. gada Roscommon dzīvotņu apsekojuma. Aptauju 2010. gada jūlijā veica RPS Roscommon grāfistes padomes vārdā un sadarbībā ar Kultūras mantojuma padomi.&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Izdevējs: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Stelial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;Izveidošanas datums: 2010, &lt;/div&gt;&lt;div&gt;Atjaunināt biežumu: kā nepieciešams, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council sniedz šo informāciju ar izpratni, ka tā nav garantēta, ka tā ir precīza, pareiza vai pilnīga. Roscommon grāfistes padome neuzņemas nekādu atbildību par zaudējumiem vai kaitējumu, kas nodarīts tiem, kuri izmanto šos datus jebkādiem mērķiem.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="es-t-ga-t0-mtec">Líneas de árboles</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/670808ad-df98-467f-a9f4-bf53f96e8ee4">
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::treelines.zip?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:identifier>https://data.gov.ie/dataset/b0243fdf-4658-44d4-aabf-fdf1d84e10d1/resource/17df32cd-0187-432e-93c4-bed606ef157a</dct:identifier>
+            <dcat:mediaType>application/zip</dcat:mediaType>
+            <dct:format>ZIP</dct:format>
+            <dct:title>Shapefile</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-ga-t0-mtec">Linji ta’ siġar</dct:title>
+        <dcat:theme rdf:resource="https://data.gov.ie/Arts"/>
+        <dct:description xml:lang="pl-t-ga-t0-mtec">Ten zestaw danych zawiera dane przestrzenne z 2010 roku badania siedlisk Roscommon. Badanie zostało przeprowadzone przez RPS w lipcu 2010 roku w imieniu Rady Powiatu Roscommon i we współpracy z Radą Dziedzictwa.&lt;div&gt;&lt;div&gt;&lt;div&gt;Div&gt;Wydawca: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Język danych: angielski, &lt;/div&gt;&lt;div&gt;Projekcja przestrzenna: Web Mercator, &lt;/div&gt;&lt;div&gt;Data stworzenia: 2010, &lt;/div&gt;&lt;div&gt;Update Częstotliwość: Zgodnie z wymaganiami, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council dostarcza tych informacji ze zrozumieniem, że nie jest gwarantowana dokładność, poprawność lub kompletność. Rada hrabstwa Roscommon nie ponosi odpowiedzialności za jakiekolwiek straty lub szkody poniesione przez osoby korzystające z tych danych w jakimkolwiek celu.&lt;/div&gt;</dct:description>
+        <dct:title xml:lang="sk-t-ga-t0-mtec">Stromčeky</dct:title>
+        <dct:description xml:lang="ro-t-ga-t0-mtec">Acest set de date conține date spațiale dintr-o anchetă din 2010 a habitatelor Roscommon. Sondajul a fost realizat de RPS în iulie 2010 în numele Consiliului Județean Roscommon și în asociere cu Consiliul Patrimoniului.&lt;div&gt;&lt;div&gt;Div&gt;Dataset Publisher: Consiliul Județean Roscommon, &lt;/div&gt;&lt;div&gt;Limba de date: Engleză, &lt;/div&gt;&lt;div&gt;Proiecție spațială: Web Mercator, &lt;/div&gt;&lt;div&gt;Date of Creation: 2010, &lt;/div&gt;&lt;div&gt;Update Frequency: După cum este necesar, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Consiliul Județean Roscommon oferă aceste informații cu înțelegerea faptului că nu este garantată a fi corectă, corectă sau completă. Consiliul Județean Roscommon nu își asumă răspunderea pentru orice pierdere sau daună suferită de cei care utilizează aceste date în orice scop.&lt;/div&gt;</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1b1408ae-e4e7-4205-bff0-3770def4e135">
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::treelines.geojson?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:format>GeoJSON</dct:format>
+            <dcat:mediaType>application/vnd.geo+json</dcat:mediaType>
+            <dct:title>GeoJSON</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/b0243fdf-4658-44d4-aabf-fdf1d84e10d1/resource/978c219a-3147-463e-96b6-3b2d07a99314</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>heritage</dcat:keyword>
+        <dcat:keyword>dgiarts</dcat:keyword>
+        <dcat:keyword>Roscommon County Council</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/roscommon-county-council">
+            <foaf:name>Roscommon County Council</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e2679b8d-9225-4130-ab86-63e21049e5c1">
+            <dct:title>ArcGIS GeoService</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/b0243fdf-4658-44d4-aabf-fdf1d84e10d1/resource/df62b5a9-b528-4603-b64d-5124d7159a71</dct:identifier>
+            <dcat:accessURL rdf:resource="https://services1.arcgis.com/0g8o874l5un2eDgz/arcgis/rest/services/Habitat_Survey_2010_Roscommon/FeatureServer/1"/>
+            <dct:format>ArcGIS GeoServices REST API</dct:format>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>application/json</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lt-t-ga-t0-mtec">Šiame duomenų rinkinyje pateikiami 2010 m. „Roscommon“ buveinių tyrimo erdviniai duomenys. Tyrimą 2010 m. liepos mėn. atliko RPS Roscommon apskrities tarybos vardu ir kartu su Paveldo taryba.&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Dataset Publisher: Roscommon County Council, &lt;/div&gt;&lt;div&gt;Dataset language: English, &lt;/div&gt;&lt;div&gt;Spatial Projection: Web Mercator, &lt;/div&gt;&lt;div&gt;div&gt;kūrimo data: 2010, &lt;/div&gt;&lt;div&gt;Atnaujinti Dažnis: Kaip Reikalinga, &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Roscommon County Council pateikia šią informaciją su supratimu, kad ji nėra garantuojama, kad ji bus tiksli, teisinga ar išsami. „Roscommon County Council“ neprisiima atsakomybės už bet kokius nuostolius ar žalą, kuriuos patyrė tie, kurie naudoja šiuos duomenis bet kokiu tikslu.&lt;/div&gt;</dct:description>
+        <dct:description xml:lang="fr-t-ga-t0-mtec">Ce jeu de données contient des données spatiales provenant d’une étude réalisée en 2010 sur les habitats de Roscommon. L’enquête a été menée par RPS en juillet 2010 pour le compte du Conseil du comté de Roscommon et en association avec le Heritage Council.‘div’‘div’‘div’Dataset Publisher: Roscommon County Council, ‘/div’‘div’Dataset language: English, ‘/div’‘div’Spatial Projection: Web Mercator, ‘/div’‘div’Date of Creation: 2010, ‘/div’‘div’Mise à jour Fréquence: Comme requis, ‘/div’‘/div’‘div’‘div’‘div’‘div’‘div’Roscommon County Council fournit cette information avec la compréhension qu’elle n’est pas garantie d’être exacte, correcte ou complète. Roscommon County Council décline toute responsabilité pour toute perte ou dommage subi par ceux qui utilisent ces données à quelque fin que ce soit.‘/div’</dct:description>
+        <dct:title xml:lang="et-t-ga-t0-mtec">Puuliinid</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

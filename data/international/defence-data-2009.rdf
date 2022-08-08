@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/defence-data-2009">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-04T05:36:44Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:01:53Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:01:52Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/defence-data-2009"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>6fff80643976fbdbc8b115804ecc6436</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/defence-data-2009">
+        <dct:title xml:lang="sk-t-en-t0-mtec">Údaje o obrane 2009</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Dados de defesa 2009</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Det Europæiske Forsvarsagentur (EDA) indsamler årligt forsvarsdata, og
+har gjort dette siden 2006 i overensstemmelse med agenturets ministerielle styringskomités afgørelse
+fra november 2005. Forsvarsministerierne i agenturets 27 medlemsstater (MS)
+angiv dataene. EDA fungerer som depotinstitution for dataene og offentliggør de aggregerede data 
+tal i hæfterne.</dct:description>
+        <dcat:keyword xml:lang="en">Operations Costs</dcat:keyword>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Evropska obrambna agencija (EDA) letno zbira obrambne podatke in
+ to počne od leta 2006 v skladu s sklepom ministrskega usmerjevalnega odbora agencije
+iz novembra 2005. Ministrstva za obrambo 27 držav članic Agencije
+navedite podatke.Evropska obrambna agencija deluje kot skrbnik podatkov in objavlja agregirano
+številke v svojih knjižicah.
+to počne od leta 2006 v skladu s sklepom ministrskega usmerjevalnega odbora agencije 
+iz novembra 2005.
+Ministrstva za obrambo 27 držav članic Agencije
+
+navedite podatke.
+Evropska obrambna agencija deluje kot skrbnik podatkov in objavlja agregirano
+
+številke v svojih knjižicah.</dct:description>
+        <dct:title xml:lang="de-t-en-t0-mtec">Verteidigungsdaten 2009</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Agenția Europeană de Apărare (AEA) colectează anual date în domeniul apărării și
+ a făcut acest lucru din 2006, în conformitate cu decizia Comitetului director ministerial al agenției
+din noiembrie 2005. Ministerele apărării din cele 27 de state membre ale agenției (SM)
+furnizați datele.AEA acționează în calitate de custode al datelor și publică datele agregate
+figuri în broșuri.
+a făcut acest lucru din 2006, în conformitate cu decizia Comitetului director ministerial al agenției 
+din noiembrie 2005.
+Ministerele apărării din cele 27 de state membre ale agenției (SM)
+
+furnizați datele.
+AEA acționează în calitate de custode al datelor și publică datele agregate
+
+figuri în broșuri.</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Bailíonn an Ghníomhaireacht Eorpach um Chosaint (GEC) sonraí cosanta ar bhonn bliantúil, agus
+tá sé sin déanta aige ó 2006 i leith, i gcomhréir le Cinneadh Bhord Stiúrtha Aireachta na Gníomhaireachta
+Samhain 2005. Aireachtaí Cosanta 27 mBallstát na Gníomhaireachta (MS)
+
+na sonraí a sholáthar.
+Feidhmíonn GEC mar choimeádaí ar na sonraí agus foilsíonn sé an comhiomlánú
+
+figiúirí ina leabhráin.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/NLD"/>
+        </dct:spatial>
+        <dct:description xml:lang="it-t-en-t0-mtec">L'Agenzia europea per la difesa (AED) raccoglie dati sulla difesa su base annuale, e
+lo fa dal 2006, in linea con la decisione del comitato direttivo ministeriale dell'Agenzia
+del novembre 2005. I ministeri della difesa dei 27 Stati membri dell'Agenzia
+
+fornire i dati.
+L'AED funge da custode dei dati e pubblica i dati aggregati
+
+figure nei suoi opuscoli.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/AUT"/>
+        </dct:spatial>
+        <dct:description xml:lang="fr-t-en-t0-mtec">L’Agence européenne de défense (AED) collecte des données sur la défense sur une base annuelle, et
+le fait depuis 2006, conformément à la décision du comité directeur ministériel de l’Agence.
+de novembre 2005. Les ministères de la défense des 27 États membres de l’Agence (EM)
+
+fournir les données.
+L’AED agit en tant que dépositaire des données et publie les données agrégées
+
+chiffres dans ses brochures.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Podaci o obrani 2009.</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Defensiegegevens 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FRA"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/MLT"/>
+        </dct:spatial>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Europeiska försvarsbyrån (EDA) samlar in försvarsuppgifter på årsbasis, och
+har gjort detta sedan 2006, i enlighet med byråns beslut om ministerrådets styrelse
+från november 2005. Försvarsministerierna i byråns 27 medlemsstater
+lämna uppgifterna. Europeiska försvarsbyrån fungerar som förvaringsinstitut för uppgifterna och offentliggör den aggregerade informationen.  siffror i broschyrerna.Europeiska försvarsbyrån (EDA) samlar in försvarsuppgifter på årsbasis, och
+har gjort detta sedan 2006, i enlighet med byråns beslut om ministerrådets styrelse
+från november 2005.
+Försvarsministerierna i byråns 27 medlemsstater
+lämna uppgifterna. Europeiska försvarsbyrån fungerar som förvaringsinstitut för uppgifterna och offentliggör den aggregerade informationen.
+siffror i broschyrerna. Europeiska försvarsbyrån (EDA) samlar in försvarsuppgifter på årsbasis, och
+har gjort detta sedan 2006, i enlighet med byråns beslut om ministerrådets styrelse
+från november 2005.Försvarsministerierna i byråns 27 medlemsstater
+lämna uppgifterna.
+Europeiska försvarsbyrån fungerar som förvaringsinstitut för uppgifterna och offentliggör den aggregerade informationen.
+siffror i broschyrerna.Europeiska försvarsbyrån (EDA) samlar in försvarsuppgifter på årsbasis, och
+har gjort detta sedan 2006, i enlighet med byråns beslut om ministerrådets styrelse
+från november 2005.
+Försvarsministerierna i byråns 27 medlemsstater
+lämna uppgifterna.Europeiska försvarsbyrån fungerar som förvaringsinstitut för uppgifterna och offentliggör den aggregerade informationen.
+siffror i broschyrerna.
+har gjort detta sedan 2006, i enlighet med byråns beslut om ministerrådets styrelse
+från november 2005. Försvarsministerierna i byråns 27 medlemsstater
+
+lämna uppgifterna.
+Europeiska försvarsbyrån fungerar som förvaringsinstitut för uppgifterna och offentliggör den aggregerade informationen.
+
+siffror i broschyrerna.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Data dwar id-Difiża 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GBR"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DNK"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">EDA</dcat:keyword>
+        <dct:description xml:lang="de-t-en-t0-mtec">Die Europäische Verteidigungsagentur (EDA) erfasst jährlich Verteidigungsdaten und
+hat dies seit 2006 im Einklang mit dem Beschluss des Lenkungsausschusses der Agentur getan.
+vom November 2005. Die Verteidigungsministerien der 27 Mitgliedstaaten der Agentur (MS)
+geben Sie die Daten an. EDA fungiert als Verwahrer der Daten und veröffentlicht die aggregierten 
+Zahlen in den Broschüren.</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan puolustusvirasto (EDA) kerää puolustustietoja vuosittain, ja
+on tehnyt näin vuodesta 2006 alkaen viraston ministeritason johtokunnan päätöksen mukaisesti.
+annettu marraskuussa 2005. Viraston 27 jäsenvaltion puolustusministeriöt
+
+anna tiedot.
+EDA toimii tietojen säilyttäjänä ja julkaisee aggregoidun
+
+luvut sen esityksissä.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/7982"/>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Puolustusta koskevat tiedot 2009</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/EDA"/>
+        </dct:publisher>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Europejska Agencja Obrony (EDA) co roku gromadzi dane obronne, oraz
+ czyni to od 2006 r., zgodnie z decyzją ministerialnej Rady Sterującej Agencji.
+z listopada 2005 r. Ministerstwa obrony 27 państw członkowskich Agencji
+podaj dane.EDA pełni funkcję powiernika danych i publikuje zagregowane dane
+dane w broszurach.
+czyni to od 2006 r., zgodnie z decyzją ministerialnej Rady Sterującej Agencji. 
+z listopada 2005 r.
+Ministerstwa obrony 27 państw członkowskich Agencji
+
+podaj dane.
+EDA pełni funkcję powiernika danych i publikuje zagregowane dane
+
+dane w broszurach.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Dane obronne 2009</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az Európai Védelmi Ügynökség (EVÜ) évente gyűjt védelmi adatokat, és
+ezt 2006 óta tette, összhangban az Ügynökség miniszteri irányítóbizottságának határozatával
+2005 novemberében. Az Ügynökség 27 tagállamának védelmi minisztériumai (tagállam)
+
+adja meg az adatokat.
+Az EVÜ az adatok őreként jár el és közzéteszi az összesített adatokat
+
+számok a füzeteiben.</dct:description>
+        <dcat:keyword xml:lang="en">Defence R and T</dcat:keyword>
+        <dct:description xml:lang="en">The European Defence Agency (EDA) collects defence data on an annual basis, and &#xD;
+has done so since 2006, in line with the Agency’s Ministerial Steering Board Decision &#xD;
+of November 2005. The Ministries of Defence of the Agency’s 27 Member States (MS) &#xD;
+provide the data. EDA acts as a custodian of the data and publishes the aggregated &#xD;
+figures in its booklets.&#xD;
+&#xD;
+</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Στοιχεία άμυνας 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BGR"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/HUN"/>
+        </dct:spatial>
+        <foaf:page>
+          <foaf:Document rdf:about="https://eda.europa.eu/info-hub/defence-data-portal">
+            <dct:title xml:lang="en">Defence Data Portal</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <schema:url>https://eda.europa.eu/info-hub/defence-data-portal</schema:url>
+            <dct:description xml:lang="en">Defence Data Portal</dct:description>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/defence-data-2009"/>
+            <schema:url xml:lang="en">https://eda.europa.eu/info-hub/defence-data-portal</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:keyword xml:lang="en">Defence Equipment Procurement</dcat:keyword>
+        <dct:description xml:lang="mt-t-en-t0-mtec">L-Aġenzija Ewropea għad-Difiża (EDA) tiġbor data dwar id-difiża fuq bażi annwali, u għamel dan mill-2006, f’konformità mad-Deċiżjoni tal-Bord ta’ Tmexxija Ministerjali tal-Aġenzija
+ta’ Novembru 2005.
+Il-Ministeri tad-Difiża tas-27 Stat Membru tal-Aġenzija (SM)
+ipprovdi d-data.L-EDA taġixxi bħala kustodju tad-data u tippubblika l-aggregat
+ ċifri fil-ktejjeb tiegħu.</dct:description>
+        <dcat:keyword xml:lang="en">EU</dcat:keyword>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DEU"/>
+        </dct:spatial>
+        <dct:title xml:lang="en">Defence Data 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CZE"/>
+        </dct:spatial>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Eiropas Aizsardzības aģentūra (EAA) katru gadu vāc aizsardzības datus un tas ir izdarīts kopš 2006. gada saskaņā ar Aģentūras Ministru valdes lēmumu.
+(2005. gada novembris).
+Aģentūras 27 dalībvalstu Aizsardzības ministrijas (DV)
+sniedziet datus.EAA darbojas kā datu glabātāja un publicē apkopotos datus
+ skaitļi bukletos.</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Aasta kaitseandmed</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GRC"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1343a2c7-7c6c-4a6b-8e20-6cab0e105557">
+            <dct:title xml:lang="mt-t-en-t0-mtec">Data dwar id-Difiża Nazzjonali 2009</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Sonraí Cosanta Náisiúnta 2009</dct:title>
+            <dct:description xml:lang="en">National Defence Data 2009</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Данни за националната отбрана за 2009 г.</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Valsts aizsardzības dati 2009. gadā</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Στοιχεία εθνικής άμυνας 2009</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Údaje o národnej obrane 2009</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Sonraí Cosanta Náisiúnta 2009</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:title xml:lang="en">National Defence Data 2009</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Datos de Defensa Nacional 2009</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Dados de Defesa Nacional 2009</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2009 m. nacionalinės gynybos duomenys</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Údaje o národnej obrane 2009</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Nationale Verteidigungsdaten 2009</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Date privind apărarea națională 2009</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Nationella försvarsdata 2009</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Kansalliset puolustustiedot 2009</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Στοιχεία εθνικής άμυνας 2009</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-01-09T09:03:45.627049+02:00</dct:issued>
+            <dcat:downloadURL rdf:resource="https://www.eda.europa.eu/docs/documents/national_defence_data_in_2009"/>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Nationale defensiegegevens 2009</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">Dati di difesa nazionale 2009</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">2009. évi honvédelmi adatok</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Données de la Défense nationale 2009</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Dane dotyczące obrony narodowej 2009</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Údaje o národní obraně 2009</dct:title>
+            <dcat:accessURL rdf:resource="https://www.eda.europa.eu/docs/documents/national_defence_data_in_2009"/>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Valsts aizsardzības dati 2009. gadā</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Dados de Defesa Nacional 2009</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">2009. évi honvédelmi adatok</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Nationale Verteidigungsdaten 2009</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Nationale forsvarsdata 2009</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Données de la Défense nationale 2009</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Nationella försvarsdata 2009</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">Riigikaitsealased andmed 2009. aastal</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/47a7e244-4c1a-4b33-9e1a-bea866b28409</dct:identifier>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Date privind apărarea națională 2009</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/pdf"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="lt-t-en-t0-mtec">2009 m. nacionalinės gynybos duomenys</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Podatki o nacionalni obrambi za leto 2009</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Kansalliset puolustustiedot 2009</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            </dct:format>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:description xml:lang="es-t-en-t0-mtec">Datos de Defensa Nacional 2009</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Данни за националната отбрана за 2009 г.</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Údaje o národní obraně 2009</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">Nationale forsvarsdata 2009</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Podaci o nacionalnoj obrani 2009.</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Podatki o nacionalni obrambi za leto 2009</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Nationale defensiegegevens 2009</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Podaci o nacionalnoj obrani 2009.</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Dane dotyczące obrony narodowej 2009</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Dati di difesa nazionale 2009</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Riigikaitsealased andmed 2009. aastal</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Data dwar id-Difiża Nazzjonali 2009</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://eda.europa.eu/info-hub/defence-data-portal"/>
+        <dct:description xml:lang="et-t-en-t0-mtec">Euroopa Kaitseagentuur (EDA) kogub igal aastal kaitseandmeid ning 
+on seda teinud alates 2006. aastast kooskõlas agentuuri ministrite juhtnõukogu otsusega.
+
+november 2005,
+Agentuuri 27 liikmesriigi kaitseministeeriumid
+
+esitage andmed.
+EDA tegutseb andmete haldajana ja avaldab koondandmed
+
+arvud oma brošüürides.</dct:description>
+        <dcat:keyword xml:lang="en">Defence Expenditure</dcat:keyword>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Údaje o obraně 2009</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Obrambni podatki za leto 2009</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">2009 m. gynybos duomenys</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Ο Ευρωπαϊκός Οργανισμός Άμυνας (ΕΟΑ) συλλέγει δεδομένα στον τομέα της άμυνας σε ετήσια βάση, και
+το πράττει από το 2006, σύμφωνα με την απόφαση του Υπουργικού Συμβουλίου του Οργανισμού.
+του Νοεμβρίου 2005. Τα Υπουργεία Άμυνας των 27 κρατών μελών του Οργανισμού (ΚΜ)
+δώστε τα δεδομένα. Ο ΕΟΑ ενεργεί ως θεματοφύλακας των δεδομένων και δημοσιεύει τα συγκεντρωτικά στοιχεία 
+στοιχεία στα φυλλάδια της.</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Försvarsuppgifter 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LUX"/>
+        </dct:spatial>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/6380"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LVA"/>
+        </dct:spatial>
+        <dct:description xml:lang="pt-t-en-t0-mtec">A Agência Europeia de Defesa (AED) recolhe dados de defesa numa base anual, e
+ o faz desde 2006, em conformidade com a Decisão do Conselho Diretor Ministerial da Agência.
+de novembro de 2005. Ministérios da Defesa dos 27 Estados-Membros da Agência (EM)
+fornecer os dados.A AED atua como guardiã dos dados e publica os dados agregados
+figuras em seus folhetos.
+o faz desde 2006, em conformidade com a Decisão do Conselho Diretor Ministerial da Agência. 
+de novembro de 2005.
+Ministérios da Defesa dos 27 Estados-Membros da Agência (EM)
+
+fornecer os dados.
+A AED atua como guardiã dos dados e publica os dados agregados
+
+figuras em seus folhetos.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ESP"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/POL"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ROU"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">Defence Operation and Maintenance</dcat:keyword>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5786"/>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Данни в областта на отбраната за 2009 г.</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3447"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/PRT"/>
+        </dct:spatial>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Európska obranná agentúra (EDA) každoročne zhromažďuje obranné údaje a
+ robí tak od roku 2006 v súlade s rozhodnutím ministerského riadiaceho výboru agentúry.
+z novembra 2005. Ministerstvá obrany 27 členských štátov agentúry (ČŠ)
+poskytnite údaje.EDA koná ako správca údajov a zverejňuje súhrnné údaje
+čísla vo svojich brožúrach.
+robí tak od roku 2006 v súlade s rozhodnutím ministerského riadiaceho výboru agentúry. 
+z novembra 2005.
+Ministerstvá obrany 27 členských štátov agentúry (ČŠ)
+
+poskytnite údaje.
+EDA koná ako správca údajov a zverejňuje súhrnné údaje
+
+čísla vo svojich brožúrach.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ITA"/>
+        </dct:spatial>
+        <dct:title xml:lang="it-t-en-t0-mtec">Dati della difesa 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BEL"/>
+        </dct:spatial>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Европейската агенция по отбрана (EDA) ежегодно събира данни в областта на отбраната, и
+прави това от 2006 г. в съответствие с решението на Управителния съвет на министрите на Агенцията
+от ноември 2005 г. Министерствата на отбраната на 27-те държави членки на Агенцията (ДЧ)
+представете данните. EDA действа като пазител на данните и публикува обобщените данни 
+фигури в брошурите си.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/EST"/>
+        </dct:spatial>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Sonraí Cosanta 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVN"/>
+        </dct:spatial>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Evropská obranná agentura (EDA) každoročně shromažďuje údaje o obraně a
+činí tak od roku 2006 v souladu s rozhodnutím ministerského řídícího výboru agentury.
+z listopadu 2005. Ministerstva obrany 27 členských států agentury
+uveďte údaje. EDA působí jako správce údajů a zveřejňuje souhrnné údaje 
+figurky ve svých brožurách.</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">2009. évi védelmi adatok</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Date privind apărarea 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CYP"/>
+        </dct:spatial>
+        <dct:title xml:lang="es-t-en-t0-mtec">Datos de defensa 2009</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-01-09</dct:modified>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/IRL"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">Collaborative Defence Expenditure</dcat:keyword>
+        <dcat:keyword xml:lang="en">European Defence Agency</dcat:keyword>
+        <dcat:keyword xml:lang="en">Defence Investment</dcat:keyword>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Données de la défense 2009</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7f96e6a9-559d-4a72-85b1-ccbdaf521e93">
+            <dct:description xml:lang="sl-t-en-t0-mtec">Evropska obrambna agencija letno zbira obrambne podatke. Podatke zagotavljajo ministrstva za obrambo 27 sodelujočih držav članic agencije. EDA deluje kot skrbnik podatkov in v tej knjižici objavlja zbirne podatke.</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Europos gynybos agentūra kasmet renka gynybos duomenis. Duomenis teikia Agentūros 27 dalyvaujančių valstybių narių gynybos ministerijos. EGA yra duomenų saugotoja ir šioje knygelėje skelbia suvestinius skaičius.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Puolustustiedot 2009 -vihko</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Folleto sobre datos de defensa 2009</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Europeiska försvarsbyrån samlar in försvarsuppgifter varje år. Försvarsministerierna i byråns 27 deltagande medlemsstater tillhandahåller uppgifterna.
+EDA fungerar som förvaringsinstitut för uppgifterna och offentliggör de aggregerade uppgifterna i denna broschyr.</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">Die Europäische Verteidigungsagentur erhebt jährlich Verteidigungsdaten. Die Verteidigungsministerien der 27 teilnehmenden Mitgliedstaaten der Agentur stellen die Daten bereit. Die EDA fungiert als Hüterin der Daten und veröffentlicht die aggregierten Zahlen in dieser Broschüre.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-01-09T09:03:45.627031+02:00</dct:issued>
+            <dct:title xml:lang="et-t-en-t0-mtec">Kaitseandmete 2009. aasta brošüür</dct:title>
+            <dct:title xml:lang="en">Defence Data 2009 Booklet</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Broșură de date privind apărarea 2009</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Eiropas Aizsardzības aģentūra katru gadu vāc aizsardzības datus. Datus sniedz aģentūras 27 iesaistīto dalībvalstu aizsardzības ministrijas. EAA darbojas kā datu glabātāja un publicē apkopotos datus šajā bukletā.</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Bailíonn an Ghníomhaireacht Eorpach um Chosaint sonraí cosanta ar bhonn bliantúil. Cuireann Aireachtaí Cosanta 27 mBallstát rannpháirteach na Gníomhaireachta na sonraí ar fáil. Feidhmíonn GEC mar choimeádaí na sonraí agus foilsíonn sé na figiúirí comhiomlánaithe sa leabhrán seo.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Verteidigungsdaten 2009 Broschüre</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Ο Ευρωπαϊκός Οργανισμός Άμυνας συλλέγει δεδομένα στον τομέα της άμυνας σε ετήσια βάση. Τα υπουργεία Άμυνας των 27 συμμετεχόντων κρατών μελών του Οργανισμού παρέχουν τα δεδομένα. Ο ΕΟΑ ενεργεί ως θεματοφύλακας των δεδομένων και δημοσιεύει τα συγκεντρωτικά στοιχεία στο παρόν φυλλάδιο.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Försvarsdata 2009 häfte</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">A Agência Europeia de Defesa recolhe dados de defesa numa base anual. Os Ministérios da Defesa dos 27 Estados-Membros participantes da Agência fornecem os dados. A AED atua como guardiã dos dados e publica os valores agregados nesta brochura.</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Opuscolo sui dati della difesa 2009</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Forsvarsdata 2009-hæfte</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Údaje o obraně 2009</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhrán Sonraí Cosanta 2009</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Европейската агенция по отбрана ежегодно събира данни в областта на отбраната. Данните се предоставят от министерствата на отбраната на 27-те участващи държави членки на Агенцията. EDA действа като пазител на данните и публикува обобщените данни в настоящата брошура.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan puolustusvirasto kerää puolustustietoja vuosittain. Viraston 27 osallistuvan jäsenvaltion puolustusministeriöt toimittavat tiedot. EDA toimii tietojen säilyttäjänä ja julkaisee aggregoidut luvut tässä esitteessä.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Európska obranná agentúra každoročne zhromažďuje obranné údaje. Tieto údaje poskytujú ministerstvá obrany 27 zúčastnených členských štátov agentúry. EDA pôsobí ako správca údajov a v tejto brožúre uverejňuje súhrnné údaje.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2009 m. Gynybos duomenų knygelė</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het Europees Defensieagentschap verzamelt defensiegegevens op jaarbasis. De ministeries van Defensie van de 27 deelnemende lidstaten van het Agentschap verstrekken de gegevens. Het EDA treedt op als bewaarder van de gegevens en publiceert de geaggregeerde cijfers in dit boekje.</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Europejska Agencja Obrony co roku gromadzi dane obronne. Dane te przekazują ministerstwa obrony 27 uczestniczących państw członkowskich Agencji. EDA pełni funkcję opiekuna danych i publikuje zagregowane dane liczbowe w niniejszej broszurze.</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenția Europeană de Apărare colectează anual date în domeniul apărării. Ministerele apărării din cele 27 de state membre participante ale agenției furnizează datele. AEA acționează în calitate de custode al datelor și publică cifrele agregate în prezenta broșură.</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Europska obrambena agencija svake godine prikuplja podatke o obrani. Podatke dostavljaju ministarstva obrane 27 država članica koje sudjeluju u Agenciji. EDA djeluje kao čuvar podataka i objavljuje zbirne podatke u ovoj brošuri.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.eda.europa.eu/docs/documents/national_defence_data_in_2009"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/8ed276cd-19dd-4405-89ff-16f69bcb5ca2</dct:identifier>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Informácie o obrane 2009 Kniha</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Brošura obrambenih podataka iz 2009.</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Φυλλάδι για τα στοιχεία άμυνας 2009</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Euroopa Kaitseagentuur kogub kaitseandmeid igal aastal. Andmed esitavad agentuuri 27 osaleva liikmesriigi kaitseministeeriumid. EDA tegutseb andmete haldajana ja avaldab käesolevas brošüüris koondandmed.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">La Agencia Europea de Defensa recoge anualmente datos de defensa. Los Ministerios de Defensa de los 27 Estados miembros participantes de la Agencia facilitan los datos. La AED actúa como custodio de los datos y publica las cifras agregadas en este folleto.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Книга с данни за отбраната за 2009 г.</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">L'Agenzia europea per la difesa raccoglie dati sulla difesa su base annuale. I ministeri della difesa dei 27 Stati membri partecipanti dell'Agenzia forniscono i dati. L'AED funge da custode dei dati e pubblica le cifre aggregate in questo opuscolo.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az Európai Védelmi Ügynökség évente gyűjt védelmi adatokat. Az Ügynökség 27 részt vevő tagállamának védelmi minisztériumai szolgáltatják az adatokat. Az EDA az adatok őreként jár el, és ebben a füzetben közzéteszi az összesített adatokat.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">L-Aġenzija Ewropea għad-Difiża tiġbor data dwar id-difiża fuq bażi annwali. Il-Ministeri tad-Difiża tas-27 Stat Membru parteċipanti tal-Aġenzija jipprovdu d-data. L-EDA taġixxi bħala l-kustodju tad-data u tippubblika ċ-ċifri aggregati f’dan il-ktejjeb.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Folheto de dados de defesa 2009</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:downloadURL rdf:resource="https://www.eda.europa.eu/docs/documents/national_defence_data_in_2009"/>
+            <dct:description xml:lang="da-t-en-t0-mtec">Det Europæiske Forsvarsagentur indsamler årligt forsvarsdata. Forsvarsministerierne i agenturets 27 deltagende medlemsstater leverer dataene. EDA fungerer som datavogter og offentliggør de aggregerede tal i denne pjece.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Obrona danych 2009 broszura</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livret 2009 sur les données de la défense</dct:title>
+            <dct:description xml:lang="en">The European Defence Agency collects defence data on an annual basis. The Ministries of Defence of the Agency’s 27 participating Member States provide the data. EDA acts as the custodian of the data and publishes the aggregated figures in this booklet. </dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">L’Agence européenne de défense collecte chaque année des données en matière de défense. Les ministères de la défense des 27 États membres participants de l’Agence fournissent les données. L’AED agit en tant que dépositaire des données et publie les chiffres agrégés de cette brochure.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Defensiegegevens 2009 Boekje</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Védelmi adatok 2009 füzet</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Aizsardzības dati 2009 buklets</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Knjižica obrambnih podatkov 2009</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Evropská obranná agentura každoročně shromažďuje údaje o obraně. Údaje poskytují ministerstva obrany 27 zúčastněných členských států agentury. EDA působí jako správce údajů a zveřejňuje souhrnné údaje v této brožuře.</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar id-Difiża 2009 Fuljett</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Aizsardzības dati 2009</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5053"/>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Europos gynybos agentūra (EGA) kasmet renka gynybos duomenis ir tai daroma nuo 2006 m., laikantis Agentūros ministrų valdančiosios tarybos sprendimo.
+2005 m. lapkričio mėn.
+Agentūros 27 valstybių narių gynybos ministerijos (VN)
+pateikite duomenis.EGA veikia kaip duomenų saugotoja ir skelbia apibendrintus duomenis
+ skaičiai savo brošiūroje.</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">La Agencia Europea de Defensa (AED) recoge datos de defensa anualmente, y
+lo ha hecho desde 2006, de conformidad con la Decisión de la Junta Directiva Ministerial de la Agencia.
+de noviembre de 2005. Los Ministerios de Defensa de los 27 Estados miembros de la Agencia (EM)
+proporcionar los datos. La AED actúa como custodio de los datos y publica los agregados 
+figuras en sus folletos.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-01-09</dct:issued>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVK"/>
+        </dct:spatial>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dcat:keyword xml:lang="en">Deployed Troops</dcat:keyword>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FIN"/>
+        </dct:spatial>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Europska obrambena agencija (EDA) svake godine prikuplja podatke o obrani i
+to čini od 2006., u skladu s Odlukom Upravnog odbora Agencije
+od studenoga 2005. Ministarstva obrane 27 država članica Agencije
+
+navedite podatke.
+EDA djeluje kao čuvar podataka i objavljuje skupne podatke
+
+brojke u svojim knjižicama.</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/4a3af339-9b89-4d04-b99b-0e1e1ea1843f"/>
+        </dcat:contactPoint>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Het Europees Defensieagentschap (EDA) verzamelt defensiegegevens op jaarbasis, en
+ heeft dit gedaan sinds 2006, in overeenstemming met het besluit van het ministerieel bestuur van het Agentschap
+van november 2005. De ministeries van Defensie van de 27 lidstaten van het Agentschap (MS)
+verstrek de gegevens.EDA treedt op als bewaarnemer van de gegevens en publiceert de geaggregeerde
+cijfers in de boekjes.
+heeft dit gedaan sinds 2006, in overeenstemming met het besluit van het ministerieel bestuur van het Agentschap 
+van november 2005.
+De ministeries van Defensie van de 27 lidstaten van het Agentschap (MS)
+
+verstrek de gegevens.
+EDA treedt op als bewaarnemer van de gegevens en publiceert de geaggregeerde
+
+cijfers in de boekjes.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SWE"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">Military personnel</dcat:keyword>
+        <dcat:keyword xml:lang="en">Defence R and D</dcat:keyword>
+        <dct:title xml:lang="da-t-en-t0-mtec">Forsvarsdata 2009</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LTU"/>
+        </dct:spatial>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>defence-data-2009</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:38:16Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

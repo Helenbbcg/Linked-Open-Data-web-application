@@ -1,0 +1,1440 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/92f198dc-b405-4234-ae17-09b3f2889092-stadt-zurich">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/92f198dc-b405-4234-ae17-09b3f2889092-stadt-zurich">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/52766f3a-e641-48ae-8ade-9f23acb8e33a">
+            <dct:identifier>035a32da-acc9-489d-88e6-5f55d2d432fb</dct:identifier>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220327_20220402.csv"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-17T00:00:00</dct:issued>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220327_20220402.csv"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220327_20220402.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258752193</dcat:byteSize>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220327_20220402.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9a8f2f15-0444-4fed-b68f-584b3de579af">
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220515_20220521.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220515_20220521.csv"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:identifier>19be2f04-bb79-4dcf-a25e-d0b7a73fceb5</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >256844223</dcat:byteSize>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-05T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220515_20220521.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220515_20220521.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="es-t-de-t0-mtec">Estos datos permiten una comparación muy precisa entre los tiempos de conducción previstos (SOLL) y los tiempos de conducción efectivos (IST) de cada vehículo del Verkehrsbetriebe Zürich (VBZ). Las llegadas y salidas de cada vehículo en su línea se miden en segundos. 
+Cada semana publicamos un nuevo conjunto de datos sobre los tiempos de conducción planificados (SOLL) y efectivos (IST), de lo contrario, el volumen de datos se volverá demasiado grande.
+Un conjunto de datos de una semana incluye alrededor de 250 MB. Los nombres de los archivos indican el período de comparación del tiempo de viaje: «Travel times_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv» (en inglés). 
+
+Las dos tablas ***Haltepunkt.csv*** y ***Haltestelle.csv*** coinciden con las tablas.
+
+Aquí encontrará los datos actuales para el año en curso a partir del **1 de enero de 2022 **. Los tiempos de seguimiento semanales de los últimos años (desde 2015) se pueden encontrar en los conjuntos de datos «[**tiempos de viaje *[JAHR]* de la VBZ en la comparación SOLL-IST (registrado)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)».</dct:description>
+        <dcat:keyword xml:lang="de">punktlichkeit</dcat:keyword>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Din id-dejta tippermetti tqabbil preċiż ħafna bejn il-ħinijiet ta’ sewqan ippjanati (SOLL) u dawk effettivi (IST) ta’ kull vettura tal-Verkehrsbetriebe Zürich (VBZ). Il-wasliet u t-tluq ta’ kull vettura fuq il-linja tagħha jitkejlu f’sekondi. 
+Kull ġimgħa nippubblikaw sett ta ‘data ġdid dwar il-ħinijiet tas-sewqan ippjanati (SOLL) u effettivi (IST), inkella l-volum tad-data malajr isir kbir wisq.
+Sett ta’ dejta ta’ ġimgħa jinkludi madwar 250 MB. L-ismijiet tal-fajls jindikaw il-perjodu ta’ tqabbil tal-ħin tal-ivvjaġġar: “Ħinijiet tal-ivvjaġġar_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+Iż-żewġ tabelli ***Haltepunkt.csv*** u ***Haltestelle.csv*** huma tabelli li jaqblu.
+
+Hawnhekk għandek issib id-data attwali għas-sena attwali mill-**1 ta’ Jannar 2022 **. Il-ħinijiet ta’ segwitu ta’ kull ġimgħa tal-aħħar snin (mill-2015) jistgħu jinstabu fis-settijiet tad-data “[** darbiet tal-vjaġġ *[JAHR]* tal-VBZ fil-paragun SOLL-IST (irreġistrat)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Restid för VBZ i jämförelsen med SOLL-IST</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šie duomenys leidžia labai tiksliai palyginti kiekvieno Verkehrsbetriebe Zürich (VBZ) transporto priemonės planuotą (SOLL) ir veiksmingą (IST) vairavimo trukmę. Kiekvienos transporto priemonės atvykimas ir išvykimas jos linijoje matuojamas sekundėmis. 
+Kiekvieną savaitę skelbiame naują duomenų rinkinį apie planuojamą (SOLL) ir veiksmingą (IST) vairavimo laiką, kitaip duomenų kiekis greitai taps per didelis.
+Vienos savaitės duomenų rinkinį sudaro apie 250 MB. Rinkmenų pavadinimai rodo kelionės laiko palyginimų laikotarpį: „Travel times_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv“. 
+
+Dvi lentelės ***Haltepunkt.csv*** ir ***Haltestelle.csv*** yra atitikimo lentelės.
+
+Čia rasite dabartinius einamųjų metų duomenis nuo ** 2022 m. sausio 1 d. **. Pastarųjų metų savaitės stebėjimo laiką (nuo 2015 m.) galima rasti duomenų rinkiniuose „[** kelionės laikas *[JAHR]* SOLL-IST palyginime (įrašytas)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)“.</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Il-ħinijiet tal-ivvjaġġar tal-VBZ fil-paragun SOLL-IST</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι ταξιδιού της VBZ στη σύγκριση SOLL-IST</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/84b7e351-43e2-42d9-b714-af725d73ce91">
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:identifier>02a9abca-ab95-45bc-aa83-2222cd2f1d69</dct:identifier>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220522_20220528.csv"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220522_20220528.csv"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-05T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >244230234</dcat:byteSize>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220522_20220528.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220522_20220528.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/stadt-zurich">
+            <foaf:name>GIS-Zentrum, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Wald, Landwirtschaft und Pachten, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Sportamt, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Stadtarchiv und Kläui Bibliothek, Stadt Uster</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Verkehrsbetriebe Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Einsatzplanung, Schutz &amp; Rettung, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Öffentlichkeitsarbeit, Departementssekretariat PRD, Präsidialdepartement</foaf:name>
+            <foaf:name>Zürich Tourismus</foaf:name>
+            <foaf:name>Sachbearbeitungspool Stab SEB, Soziale Einrichtungen und Betriebe, Sozialdepartement</foaf:name>
+            <foaf:name>Geschäftsleitungs-Sekretariat, Gesundheitszentren für das Alter, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Grundlagen + Strategien, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Informatik, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Infrastruktur, Schulamt, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Information und Beratung, Sportamt, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Verkehrsmanagement, Dienstabteilung Verkehr, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Artenförderung und Schutzgebiete, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Fachstelle Konzessionen, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Werkhof Zürich Nord, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Bundesamt für Statistik, Neuenburg, Sektion Demografie und Migration</foaf:name>
+            <foaf:name>Kunstbauten + Objektmanagement, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Freiraumplanung 2, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Energiebeauftragte, Departementssekretariat DIB, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Stadtkanzlei, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Kompetenzzentren, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Schweizerisches Arbeiterhilfswerk (SAH)</foaf:name>
+            <foaf:name>Kataster, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Naturberatung und Stadtökologie, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Archäologie, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Gartendenkmalpflege, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Stadtkanzlei, Stadt Uster</foaf:name>
+            <foaf:name>Zürcher Verkehrsverbund (ZVV)</foaf:name>
+            <foaf:name>Informatik &amp; Organisation, Städtische Gesundheitsdienste, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Recht+Qualität, Dienstabteilung Verkehr, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Bestattungs- und Friedhofamt, Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Parlamentsdienste, Gemeinderat der Stadt Zürich, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Fachbereich Labor, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Baugeschichtliches Archiv, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Fachbereich Lärmschutz, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Schweizerisches Sozialarchiv</foaf:name>
+            <foaf:name>Stadtarchiv Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Archäologie &amp; Denkmalpflege, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Produkteverantw.  &amp; Unterstützungsfunk., Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Spezialsammlung / Digitalisierung, Zentralbibliothek Zürich, Universität Zürich</foaf:name>
+            <foaf:name>Projekte, Schulgesundheitsdienste, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Arbeitsvorbereitung, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Amt für Raumentwicklung, Baudirektion</foaf:name>
+            <foaf:name>AOZ / DIR / KOM, AOZ, Asyl Organisation Zürich</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6c7ef2fc-21d0-4d05-87a8-96bd755b2d77">
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220213_20220219.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >256107115</dcat:byteSize>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:identifier>0dd4881f-69bc-4a43-87b3-46405280534d</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220213_20220219.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo trukmė_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-02-27T00:00:00</dct:issued>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220213_20220219.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220213_20220219.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c4a17731-3db0-4f3d-a4ac-64b9358a4a08">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220529_20220604.csv"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-12T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220529_20220604.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >260843563</dcat:byteSize>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:identifier>6a72c202-6f23-4dcd-a893-5a05ab832d0f</dct:identifier>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220529_20220604.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220529_20220604.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Тези данни позволяват много точно сравнение между планираното (SOLL) и ефективното (IST) време на управление на всяко превозно средство на Verkehrsbetriebe Zürich (VBZ). Пристиганията и заминаванията на всяко превозно средство по неговата линия се измерват в секунди.
+
+Всяка седмица публикуваме нов набор от данни за планираното (SOLL) и ефективно (IST) време на шофиране, в противен случай обемът на данните бързо ще стане твърде голям. Наборът от данни от една седмица включва около 250 MB. Имената на файловете показват периода на сравняване на времето за пътуване: „Време за пътуване_SOLL_IST_***VON-DATUM*****BIS-DATUM*****.csv“. 
+
+Двете таблици ***Haltepunkt.csv*** и ***Haltestelle.csv*** са съответстващи таблици.
+
+Тук ще намерите актуалните данни за текущата година от **1 януари 2022 г. **. Седмичните периоди за проследяване през последните години (от 2015 г.) могат да бъдат намерени в наборите от данни „[** пъти за пътуване * [JAHR]* на VBZ в сравнението SOLL-IST (записано)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)“.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a38b0dd7-b289-4df0-80fa-0baea142ffb5">
+            <dct:format>CSV</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258682183</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-10T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220626_20220702.csv"/>
+            <dct:identifier>ac7d6ffc-ece3-44cc-ab44-f3132206eca0</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220626_20220702.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220626_20220702.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Časy cestovania VBZ v porovnaní SOLL-IST</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Amanna taistil an VBZ sa chomparáid SOLL-IST</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/15b2614f-33cc-4c3a-a500-4d722f3b2b91">
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Haltepunkt.csv"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-07-29T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Haltepunkt.csv"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Breakpoint.csv Näytä tarkat tiedot</dct:title>
+            <dct:identifier>7b6a666e-2df8-4846-b63c-b30ab5265111</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Recensione di Breakpoint.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >735908</dcat:byteSize>
+            <dct:language>de</dct:language>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Точка розриву.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Página inicial &gt; Lista de Produto &gt; Breakpoint.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Breakpoint.csv – reštaurácie v okolí</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="de">Haltepunkt.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Informacje o programie Breakpoint.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Point d’arrêt.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Breakpoint.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Breakpoint.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:description xml:lang="de">Diese Daten ermöglichen einen sehr genauen Vergleich zwischen den geplanten (SOLL) und den effektiv erfolgten (IST) Fahrzeiten jedes Fahrzeugs der Verkehrsbetriebe Zürich (VBZ). Die Haltestellenankünfte und -abfahrten jedes Fahrzeugs auf seiner Linie wird sekundengenau gemessen.
+
+Wir publizieren jede Woche einen neuen Datensatz  zu den geplanten (SOLL) und effektiven (IST) Fahrzeiten, da das Datenvolumen sonst schnell zu gross wird. Ein Datensatz einer Woche umfasst rund 250 MB. Die Dateinamen zeigen den Zeitraum der Fahrzeitenvergleiche an: «Fahrzeiten_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv». 
+
+Die beiden Tabellen ***Haltepunkt.csv*** und ***Haltestelle.csv*** sind Matchingtabellen.
+
+Hier finden Sie die aktuellen Daten des laufenden Jahres ab dem **1. Januar 2022 **. Die wöchentlich nachgeführten Fahrzeiten der vergangenen Jahre (seit 2015) finden sie in den Datasets «[**Fahrzeiten *[JAHR]* der VBZ im SOLL-IST-Vergleich (Nachführung eingestellt)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)».
+</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevens maken een zeer nauwkeurige vergelijking mogelijk tussen de geplande (SOLL) en de effectieve (IST) rijtijden van elk voertuig van de Verkehrsbetriebe Zürich (VBZ). De aankomst en vertrek van elk voertuig op de lijn worden gemeten in seconden. 
+Elke week publiceren we een nieuwe dataset over de geplande (SOLL) en effectieve (IST) rijtijden, anders wordt het datavolume snel te groot.
+Een dataset van een week bevat ongeveer 250 MB. De bestandsnamen geven de periode van de reistijdvergelijkingen aan: „Reistijden_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+De twee tabellen ***Haltepunkt.csv*** en ***Haltestelle.csv*** zijn overeenkomende tabellen.
+
+Hier vindt u de actuele gegevens voor het lopende jaar vanaf **1 januari 2022 **. De wekelijkse follow-up tijden van de laatste jaren (sinds 2015) zijn te vinden in de datasets „[**journey times *[JAHR]* van de VBZ in de SOLL-IST vergelijking (opgenomen)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/22c57f30-04bf-4f41-95e7-fdbea7231b8c">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:identifier>59e5284f-5bc5-4c0f-af64-678d48a3038f</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >245824382</dcat:byteSize>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220417_20220423.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220417_20220423.csv"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220417_20220423.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-01T00:00:00</dct:issued>
+            <dct:format>CSV</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220417_20220423.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Estes dados permitem uma comparação muito precisa entre o tempo de condução planeado (SOLL) e o tempo de condução eficaz (IST) de cada veículo do Verkehrsbetriebe Zürich (VBZ). As chegadas e partidas de cada veículo em sua linha são medidas em segundos. 
+Toda semana publicamos um novo conjunto de dados sobre os tempos de condução planejados (SOLL) e eficazes (IST), caso contrário, o volume de dados rapidamente se tornará muito grande.
+Um conjunto de dados de uma semana inclui cerca de 250 MB. Os nomes dos ficheiros indicam o período de comparações do tempo de viagem: «Tempos de viagem_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv». 
+
+As duas tabelas ***Haltepunkt.csv*** e ***Haltestelle.csv*** são tabelas correspondentes.
+
+Aqui você encontrará os dados atuais para o ano em curso a partir de **1 de janeiro de 2022 **. Os tempos de acompanhamento semanal dos últimos anos (desde 2015) podem ser encontrados nos conjuntos de dados «[** vezes de viagem *[JAHR]* da VBZ na comparação SOLL-IST (gravada)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)».</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/079b825f-0aac-4e3d-88cf-50b340bd5dfc">
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-26T00:00:00</dct:issued>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220612_20220618.csv"/>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220612_20220618.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:language>de</dct:language>
+            <dct:format>CSV</dct:format>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220612_20220618.csv"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258056960</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:identifier>640847e4-be04-4734-a9fc-0814f2610328</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dcat:keyword xml:lang="de">hackzurich</dcat:keyword>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tieto údaje umožňujú veľmi presné porovnanie plánovaných (SOLL) a efektívnych časov jazdy každého vozidla Verkehrsbetriebe Zürich (VBZ). Prílety a odchody každého vozidla na jeho trati sa merajú v sekundách. 
+Každý týždeň zverejňujeme nový súbor údajov o plánovaných (SOLL) a efektívnych časoch jazdy (IST), inak sa objem údajov rýchlo stane príliš veľkým.
+Dátový súbor jedného týždňa obsahuje približne 250 MB. Názvy súborov označujú obdobie porovnania času cesty: „Cestovné časy_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv“. 
+
+Obe tabuľky ***Haltepunkt.csv*** a ***Haltestelle.csv*** sú zodpovedajúce tabuľky.
+
+Tu nájdete aktuálne údaje za aktuálny rok od **1. januára 2022 **. Týždenné časy sledovania za posledné roky (od roku 2015) možno nájsť v súboroch údajov „[**časy cesty *[JAHR]* VBZ v porovnaní SOLL-IST (zaznamenané)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)“.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c6a64d89-23c5-40f9-ad07-269bafba7870">
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Hotellit lähellä paikkaa Station.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="de">Haltestelle.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Haltestelle.csv"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Viešbučiai netoliese Station.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Informazioni su Station.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-07-29T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="en-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estação.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Станція.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estación.csv</dct:title>
+            <dct:identifier>7bb0405f-c009-498a-bc7c-d42bf7664e5f</dct:identifier>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Station.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Stație.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >33662</dcat:byteSize>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="et-t-de-t0-mtec">Jaam.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stanice.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Preskúmať: Station.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Laika ziņas Station.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Stanica.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Dworzec.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Stáisiún.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Arrêt de bus.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Haltestelle.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Reistijden van de VBZ in de SOLL-IST vergelijking</dct:title>
+        <dct:title xml:lang="de">Fahrzeiten der VBZ im SOLL-IST-Vergleich</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T02:18:58.952760</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/58f0e1b4-76ea-493a-8cb6-9f7bfbab0eb7">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:identifier>97d88e40-5cc5-40b2-a79e-8827018db9ee</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-08T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >257250287</dcat:byteSize>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220424_20220430.csv"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220424_20220430.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220424_20220430.csv"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220424_20220430.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A VBZ utazási ideje a SOLL-IST összehasonlításban</dct:title>
+        <dcat:keyword xml:lang="de">sachdaten</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3c0cea5b-2065-4305-a89f-54524701b472">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220619_20220625.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >257403239</dcat:byteSize>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220619_20220625.csv"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220619_20220625.csv"/>
+            <dct:identifier>456e4c86-541b-43b8-bde4-40594069c689</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-03T00:00:00</dct:issued>
+            <dct:format>CSV</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite de la ZBV dans la comparaison SOLL-IST</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de viagem do VBZ na comparação SOLL-IST</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/96b0f566-67bf-4ae4-a0e8-bdb176abc2bb">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220220_20220226.csv"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:identifier>23d6dd0c-5e82-4ad9-bd65-b7cd406ca0d8</dct:identifier>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-06T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >256788873</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220220_20220226.csv"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220220_20220226.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Czasy podróży VBZ w porównaniu SOLL-IST</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2015-11-11T00:00:00</dct:issued>
+        <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de viaje de la VBZ en la comparación SOLL-IST</dct:title>
+        <dct:identifier>92f198dc-b405-4234-ae17-09b3f2889092@stadt-zurich</dct:identifier>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Час подорожі VBZ в порівнянні SOLL-IST</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Dane te pozwalają na bardzo dokładne porównanie planowanych (SOLL) i efektywnych czasów jazdy (IST) każdego pojazdu Verkehrsbetriebe Zürich (VBZ). Przyloty i odjazdy każdego pojazdu na jego linii są mierzone w sekundach. 
+Co tydzień publikujemy nowy zbiór danych na temat planowanych (SOLL) i efektywnych czasów jazdy (IST), w przeciwnym razie wolumen danych szybko stanie się zbyt duży.
+Tygodniowy zbiór danych obejmuje około 250 MB. Nazwy plików wskazują okres porównywania czasu podróży: „Travel times_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+Dwie tabele ***Haltepunkt.csv*** i ***Haltestelle.csv*** są pasującymi tabelami.
+
+Tutaj znajdziesz aktualne dane za bieżący rok od **1 stycznia 2022 **. Tygodniowe okresy obserwacji ostatnich lat (od 2015 r.) można znaleźć w zbiorach danych „[**czasy podróży *[JAHR]* VBZ w porównaniu SOLL-IST (zarejestrowany)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Need andmed võimaldavad väga täpselt võrrelda Verkehrsbetriebe Zürichi (VBZ) iga sõiduki kavandatud (SOLL) ja efektiivset (IST) sõiduaega. Iga sõiduki saabumist ja väljumist selle liinil mõõdetakse sekundites. 
+Igal nädalal avaldame uue andmekogumi planeeritud (SOLL) ja efektiivse (IST) sõiduaegade kohta, vastasel juhul muutub andmemaht kiiresti liiga suureks.
+Ühe nädala pikkune andmekogum sisaldab umbes 250 MB. Failinimed näitavad sõiduaja võrdlusi: „Reisiajad_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv“. 
+
+Kaks tabelit ***Haltepunkt.csv*** ja ***Haltestelle.csv*** vastavad tabelitele.
+
+Siit leiate jooksva aasta andmed alates ** 1. jaanuarist 2022 **. Viimaste aastate (alates 2015. aastast) iganädalased jälgimisajad on esitatud andmekogumites „[** reisi korda * [JAHR]* VBZ-i võrdluses SOLL-IST (salvestatud)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)“.</dct:description>
+        <dcat:keyword xml:lang="de">vbz</dcat:keyword>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Dessa data möjliggör en mycket exakt jämförelse mellan den planerade (SOLL) och de effektiva (IST) körtiderna för varje fordon i Verkehrsbetriebe Zürich (VBZ). Varje fordons ankomster och avgångar på dess linje mäts i sekunder. 
+Varje vecka publicerar vi ett nytt dataset på planerade (SOLL) och effektiva (IST) körtider, annars blir datavolymen snabbt för stor.
+En dataset på en vecka omfattar cirka 250 MB. Filnamnen anger perioden för jämförelser av restid: ”Resetider_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+De två tabellerna ***Haltepunkt.csv*** och ***Haltestelle.csv*** är matchande tabeller.
+
+Här hittar du aktuella uppgifter för innevarande år från och med den 1 januari 2022 **. De senaste årens veckovisa uppföljningstider (sedan 2015) finns i datauppsättningarna ”[** resetider *[JAHR]* för VBZ i SOLL-IST-jämförelsen (inspelad)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fdbce1e2-aabb-48fb-a81a-a5ca2c5bb237">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220403_20220409.csv"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220403_20220409.csv"/>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >260321983</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-17T00:00:00</dct:issued>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:identifier>66af2f34-b476-4dc9-a48a-2c7cbd94c340</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220403_20220409.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220403_2022040409.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220403_20220409.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">verspatung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/edc23a3d-02b7-4500-9ed4-e3312a93c0aa">
+            <dct:identifier>32702301-0b18-434b-af18-c15a42fbfd88</dct:identifier>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220116_20220122.csv"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-30T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo trukmė_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >255964287</dcat:byteSize>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220116_20220122.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220116_20220122.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://ckan-ogdzh.clients.liip.ch/dataset/vbz_fahrzeiten_ogd"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fa1a0d7c-488a-4ce1-a267-672139ca6fd3">
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >255077978</dcat:byteSize>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-13T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220227_20220305.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:identifier>d1ac520d-447f-4175-9248-2d484beafc6e</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220227_20220305.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220227_20220305.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220227_20220305.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Aceste date permit o comparație foarte precisă între timpul de conducere planificat (SOLL) și timpul de conducere eficient (IST) al fiecărui vehicul al modelului Verkehrsbetriebe Zürich (VBZ). Sosirile și plecările fiecărui vehicul de pe linia sa sunt măsurate în câteva secunde. 
+În fiecare săptămână publicăm un nou set de date privind timpul de conducere planificat (SOLL) și eficient (IST), altfel volumul datelor va deveni rapid prea mare.
+Un set de date de o săptămână include aproximativ 250 MB. Numele fișierelor indică perioada de comparare a timpului de călătorie: „Timp de călătorie_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+Cele două tabele ***Haltepunkt.csv*** și ***Haltestelle.csv*** sunt tabele corespunzătoare.
+
+Aici veți găsi datele curente pentru anul curent de la **1 ianuarie 2022**. Orele săptămânale de urmărire din ultimii ani (din 2015) pot fi găsite în seturile de date „[**timele de călătorie *[JAHR]* ale VBZ în comparația SOLL-IST (înregistrată)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Cestovní časy VBZ ve srovnání SOLL-IST</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Rejsetider for VBZ i SOLL-IST-sammenligningen</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Timpul de călătorie al VBZ în comparația SOLL-IST</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Nämä tiedot mahdollistavat hyvin tarkan vertailun kunkin Verkehrsbetriebe Zürichin (VBZ) ajoneuvon suunnitellun (SOLL) ja tehokkaan (IST) ajoajan välillä. Kunkin linjalla olevan ajoneuvon saapumiset ja lähdöt mitataan sekunneissa. 
+Julkaisemme joka viikko uuden tietokokonaisuuden suunnitelluista (SOLL) ja tehollisista (IST) ajoajoista, muuten tietomäärä muuttuu nopeasti liian suureksi.
+Viikon pituinen aineisto sisältää noin 250 MB. Tiedostojen nimet ilmaisevat matka-ajan vertailun ajan: ”Matka-ajat_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+Kaksi taulukkoa ***Haltepunkt.csv*** ja ***Haltestelle.csv*** ovat vastaavia taulukoita.
+
+Täältä löydät kuluvan vuoden tiedot **1 päivästä tammikuuta 2022 ****. Viime vuosien (vuodesta 2015) viikoittaiset seurantaajat löytyvät tietoaineistoista ”[**matka-ajat *[JAHR]* VBZ:n SOLL-IST-vertailussa (tallennettu)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Disse data muliggør en meget præcis sammenligning mellem den planlagte (SOLL) og den effektive (IST) køretid for hvert køretøj i Verkehrsbetriebe Zürich (VBZ). Ankomster og afgange for hvert køretøj på dets linje måles i sekunder.
+
+Hver uge offentliggør vi et nyt datasæt om den planlagte (SOLL) og effektive (IST) køretid, ellers bliver datamængden hurtigt for stor. Et datasæt på en uge omfatter omkring 250 MB. Filnavnene angiver tidsrummet for sammenligning af rejsetider: "Rejsetider_SOLL_IST_***VON-DATUM***_*BIS-DATUM***.csv". 
+
+De to tabeller ***Haltepunkt.csv*** og ***Haltestelle.csv*** er matchende tabeller.
+
+Her finder du de aktuelle data for indeværende år fra ** den 1. januar 2022 **. De ugentlige opfølgningstider i de seneste år (siden 2015) kan findes i datasættene "[**rejsetider *[JAHR]* for VBZ i SOLL-IST-sammenligningen (indspillet)**] (https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)".</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ti podatki omogočajo zelo natančno primerjavo med načrtovanim (SOLL) in dejanskim (IST) časom vožnje vsakega vozila Verkehrsbetriebe Zürich (VBZ). Prihodi in odhodi vsakega vozila na progi se izmerijo v nekaj sekundah. 
+Vsak teden objavimo nov nabor podatkov o načrtovanem (SOLL) in učinkovitem (IST) času vožnje, sicer bo obseg podatkov hitro postal prevelik.
+Nabor podatkov za en teden vključuje približno 250 MB. Imena datotek označujejo obdobje primerjav časa potovanja: „Potovalni časi_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv“. 
+
+Tabeli ***Haltepunkt.csv*** in ***Haltestelle.csv*** sta ustrezni tabeli.
+
+Tukaj boste našli trenutne podatke za tekoče leto od **1. januarja 2022**. Tedenski čas spremljanja zadnjih let (od leta 2015) je mogoče najti v naborih podatkov „[** čas vožnje *[JAHR]* VBZ v primerjavi SOLL-IST (zapisan)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)“.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6016db5d-579b-4deb-b5a5-f14d5179c6be">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220130_20220205.csv"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >255385840</dcat:byteSize>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-02-13T00:00:00</dct:issued>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:identifier>e8c95708-e69a-4add-a26d-df0b4b178d79</dct:identifier>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220130_20220205.csv"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo trukmė_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220130_20220205.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220130_20220205.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7031f306-c559-4d41-be9e-66eabf554ae4">
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220206_20220212.csv"/>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:identifier>3e8c9b17-7513-448d-9a65-6e809e28042e</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-02-20T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220206_20220212.csv"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo trukmė_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >255854974</dcat:byteSize>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220206_20220212.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220206_20220212.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-de-t0-mtec">VBZ:n matkustusajat SOLL-IST-vertailussa</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">VBZ sõiduajad SOLL-IST võrdluses</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/50d77669-3f0c-46cf-a60c-5e5081013858">
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220306_20220312.csv"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-20T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >255493890</dcat:byteSize>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220306_20220312.csv"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:identifier>f7df2d3f-9eb4-4d49-8c72-e7d6883b08b0</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220306_20220312.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220306_20220312.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-de-t0-mtec">VBZ brauciena laiki SOLL-IST salīdzinājumā</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">I tempi di percorrenza della VBZ nel confronto SOLL-IST</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Ці дані дозволяють дуже точно порівняти запланований (SOLL) і ефективний час водіння кожного транспортного засобу Verkehrsbetriebe Zürich (VBZ). Прибуття і вильоти кожного транспортного засобу на його лінії вимірюються за лічені секунди. 
+Щотижня ми публікуємо новий набір даних про запланований (SOLL) та ефективний час водіння (IST), інакше обсяг даних швидко стане занадто великим.
+Набір даних на один тиждень включає близько 250 МБ. Назви файлів вказують період порівняння часу подорожі: Travel times_SOLL_IST_***VON-DATUM********BIS-DATUM***.csv. 
+
+Дві таблиці ****Haltepunkt.csv**** та ***Haltestelle.csv**** є відповідними таблицями.
+
+Тут ви знайдете поточні дані за поточний рік від **1 січня 2022 **. Щотижневий час спостереження за останні роки (з 2015 року) можна знайти в наборах даних "[**journey times * [JAHR]** з VBZ в порівнянні SOLL-IST (записано)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)".</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/06515a40-79f5-481f-b4c4-df4d6389de60">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-15T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:identifier>752022b7-bb12-4020-bd15-3e9db2c3306f</dct:identifier>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220501_20220507.csv"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >260132325</dcat:byteSize>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220501_2022050507.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220501_20220507.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220501_20220507.csv</dct:title>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2c27887e-935c-4336-b692-9f819d22ebbe">
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220123_20220129.csv"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:identifier>ef3fb783-77e4-4d2c-ae99-1f848fff5586</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >255970912</dcat:byteSize>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo trukmė_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220123_20220129.csv"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220123_20220129.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-02-06T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220123_20220129.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ti podaci omogućuju vrlo preciznu usporedbu planiranih (SOLL) i efektivnih (IST) vremena vožnje svakog vozila vozila Verkehrsbetriebe Zürich (VBZ). Dolasci i odlasci svakog vozila na njegovoj liniji mjere se u sekundama. 
+Svaki tjedan objavljujemo novi skup podataka o planiranom (SOLL) i učinkovitom (IST) vremenu vožnje, inače će količina podataka brzo postati prevelika.
+Skup podataka od tjedan dana uključuje oko 250 MB. U nazivima datoteka navodi se razdoblje usporedbe vremena putovanja: „Putna vremena_SOLL_IST_***VON-DATUM********BIS-DATUM***.csv”. 
+
+Dvije tablice ***Haltepunkt.csv*** i ***Haltestelle.csv*** su odgovarajuće tablice.
+
+Ovdje ćete pronaći aktualne podatke za tekuću godinu od ** 1. siječnja 2022.**. Tjedna razdoblja praćenja posljednjih godina (od 2015.) mogu se pronaći u skupovima podataka „[**putovanja *[JAHR]* VBZ-a u usporedbi SOLL-IST-a (zabilježeno)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Ceadaíonn na sonraí seo comparáid an-bheacht idir amanna tiomána pleanáilte (SOLL) agus amanna tiomána éifeachtacha (IST) gach feithicle den Verkehrsbetriebe Zürich (VBZ). Déantar teacht agus imeacht gach feithicle ar a líne a thomhas i soicindí. 
+Gach seachtain a fhoilsímid tacar sonraí nua ar an am atá beartaithe (SOLL) agus éifeachtach (IST) tiomána, ar shlí eile beidh an méid sonraí a bheith go tapa ró-mhór.
+Cuimsíonn tacar sonraí seachtaine thart ar 250 MB. Léiríonn ainmneacha na gcomhad tréimhse na gcomparáidí ama taistil: “Amanna taistil_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+Is táblaí meaitseála iad an dá thábla ***Haltepunkt.csv*** agus ***Haltestelle.csv***.
+
+Anseo gheobhaidh tú na sonraí reatha don bhliain reatha ón **1 Eanáir 2022 **. Is féidir teacht ar amanna seachtainiúla leantacha na mblianta deireanacha (ó 2015 i leith) sna tacair sonraí “[** amanna turais *[JAHR]* de VBZ sa chomparáid SOLL-IST (taifeadta)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/863706fa-71b2-4e6f-8526-1046614b603c">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220605_20220611.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >245338151</dcat:byteSize>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220605_20220611.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-19T00:00:00</dct:issued>
+            <dct:identifier>57ce9573-057f-49a0-9db4-7363efc18c78</dct:identifier>
+            <dct:format>CSV</dct:format>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220605_20220611.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Travel times of the VBZ in the SOLL-IST comparison</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ceeb4cb6-7fc8-4b81-bf69-d1114aae0fcf">
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220410_20220416.csv"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-24T00:00:00</dct:issued>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220410_20220416.csv"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:identifier>f901c933-a7ef-4d75-ad99-efbbcd545262</dct:identifier>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >245882230</dcat:byteSize>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220410_20220416.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220410_20220416.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">VBZ kelionės laikas SOLL-IST palyginime</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tyto údaje umožňují velmi přesné srovnání mezi plánovaným (SOLL) a efektivní (IST) doby jízdy každého vozidla Verkehrsbetriebe Zürich (VBZ). Příjezdy a odjezdy každého vozidla na jeho trati se měří v sekundách.
+
+Každý týden zveřejňujeme nový datový soubor o plánovaných (SOLL) a efektivních (IST) jízdních časech, jinak bude objem dat rychle příliš velký. Datový soubor jednoho týdne zahrnuje přibližně 250 MB. Názvy souborů uvádějí období srovnání doby cesty: „Travel times_SOLL_IST_*****VON-DATUM*******BIS-DATUM*****.csv“. 
+
+Dvě tabulky ***Haltepunkt.csv** a ***Haltestelle.csv*** jsou odpovídající stoly.
+
+Zde naleznete aktuální údaje za aktuální rok od **1. ledna 2022 **. Týdenní doby sledování posledních let (od roku 2015) lze nalézt v datových souborech „[**cestovní časy *[JAHR]** VBZ v porovnání SOLL-IST (zaznamenané)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)“.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@zuerich.ch"/>
+            <vcard:fn>Open Data Zürich</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8fc65ca8-6851-4005-9022-c2aa8cf6bf60">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220320_20220326.csv"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220320_20220326.csv"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:identifier>5c543923-35d4-4971-ad9e-fb14f207190a</dct:identifier>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258379261</dcat:byteSize>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220320_20220326.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-03T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220320_20220326.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šie dati ļauj ļoti precīzi salīdzināt katra Verkehrsbetriebe Cürich (VBZ) transportlīdzekļa plānoto (SOLL) un faktisko (IST) braukšanas laiku. Katra transportlīdzekļa ierašanos un izbraukšanu uz tās līnijas mēra sekundēs. 
+Katru nedēļu mēs publicējam jaunu datu kopu par plānotajiem (SOLL) un efektīvajiem (IST) braukšanas laikiem, pretējā gadījumā datu apjoms ātri kļūs pārāk liels.
+Vienas nedēļas datu kopa ietver aptuveni 250 MB. Datņu nosaukumos ir norādīts brauciena laika salīdzināšanas periods: “Ceļojumu laiki_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+Divas tabulas ***Haltepunkt.csv*** un ***Haltestelle.csv*** atbilst tabulām.
+
+Šeit jūs atradīsiet pašreizējos datus par kārtējo gadu no **2022. gada 1. janvāra **. Pēdējo gadu (kopš 2015. gada) nedēļas novērošanas laiks ir atrodams VBZ datu kopās “[**brauciena laiki *[JAHR]* SOLL-IST salīdzinājumā (ierakstīts)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/62cc7f47-b212-409b-8ac2-1e6aaefa5e7b">
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220102_20220108.csv"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258377992</dcat:byteSize>
+            <dct:identifier>5ed843ed-7cf4-4bbd-a157-eacd8abdb792</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220102_20220108.csv"/>
+            <dct:language>de</dct:language>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220102_20220108.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-16T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo trukmė_SOLL_IST_20220102_20220108.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme putovanja VBZ-a u usporedbi SOLL-IST-a</dct:title>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Ces données permettent une comparaison très précise entre le temps de conduite prévu (SOLL) et le temps de conduite effectif (IST) de chaque véhicule des entreprises de transport de Zurich (VBZ). Les arrivées et les départs des arrêts de chaque véhicule sur sa ligne sont mesurés à la seconde. 
+Chaque semaine, nous publions un nouveau jeu de données sur les temps de trajet prévus (SOLL) et efficaces (IST), car le volume de données devient trop gros.
+Un ensemble de données d’une semaine comprend environ 250 Mo. Les noms de fichiers indiquent la période de comparaison des temps de conduite: «Temps de trajet_SOLL_IST_***DE-DATE***_***DATE BIS***.csv». 
+
+Les deux tableaux ***point d’arrêt.csv*** et ***arrêt.csv*** sont des tableaux de correspondance.
+
+Vous trouverez ici les données actuelles de l’année en cours à partir du **1 janvier 2022 **. Les temps de conduite hebdomadaires des années précédentes (depuis 2015) figurent dans les ensembles de données «[**temps de trajet *[année]* de la ZBV dans la comparaison SOLL-IST (suite réglée)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)».</dct:description>
+        <dcat:keyword xml:lang="de">offentlicher-verkehr</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f9a93574-14eb-41b2-95c1-fa1ea1f9da3c">
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo trukmė_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:identifier>061ba5f6-e73d-4079-98d7-d49f1dbf2390</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220109_20220115.csv"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >255044670</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-23T00:00:00</dct:issued>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220109_20220115.csv"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220109_20220115.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="en-t-de-t0-mtec">These data allow a very precise comparison between the planned (SOLL) and the effective (IST) driving times of each vehicle of the Verkehrsbetriebe Zürich (VBZ). The arrivals and departures of each vehicle on its line are measured in seconds.
+
+Every week we publish a new dataset on the planned (SOLL) and effective (IST) driving times, otherwise the data volume will quickly become too large. A dataset of one week includes around 250 MB. The file names indicate the period of travel time comparisons: “Travel times_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv”. 
+
+The two tables ***Haltepunkt.csv*** and ***Haltestelle.csv*** are matching tables.
+
+Here you will find the current data for the current year from **1 January 2022 **. The weekly follow-up times of the last years (since 2015) can be found in the datasets “[**journey times *[JAHR]* of the VBZ in the SOLL-IST comparison (recorded)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)”.</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Τα στοιχεία αυτά επιτρέπουν μια πολύ ακριβή σύγκριση μεταξύ του προβλεπόμενου (SOLL) και του αποτελεσματικού (IST) χρόνου οδήγησης κάθε οχήματος της Verkehrsbetriebe Zürich (VBZ). Οι αφίξεις και οι αναχωρήσεις κάθε οχήματος στη γραμμή του μετρώνται σε δευτερόλεπτα.
+
+Κάθε εβδομάδα δημοσιεύουμε ένα νέο σύνολο δεδομένων για τους προγραμματισμένους (SOLL) και αποτελεσματικούς χρόνους οδήγησης (IST), διαφορετικά ο όγκος των δεδομένων θα γίνει γρήγορα πολύ μεγάλος. Ένα σύνολο δεδομένων μιας εβδομάδας περιλαμβάνει περίπου 250 MB. Τα ονόματα των αρχείων αναφέρουν την περίοδο σύγκρισης του χρόνου ταξιδιού: «Travel times_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv». 
+
+Οι δύο πίνακες ***Haltepunkt.csv*** και ***Haltestelle.csv*** αντιστοιχούν σε πίνακες.
+
+Εδώ θα βρείτε τα τρέχοντα στοιχεία για το τρέχον έτος από **1 Ιανουαρίου 2022 **. Οι εβδομαδιαίοι χρόνοι παρακολούθησης των τελευταίων ετών (από το 2015) βρίσκονται στα σύνολα δεδομένων «[**ταξίδια ταξιδιού *[JAHR]* της VBZ στη σύγκριση SOLL-IST (καταγεγραμμένη)**]](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)».</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ezek az adatok nagyon pontos összehasonlítást tesznek lehetővé a tervezett (SOLL) és a Verkehrsbetriebe Zürich (VBZ) egyes járműveinek tényleges (IST) vezetési ideje között. Az egyes járművek érkezését és indulását másodpercekben kell mérni. 
+Minden héten új adatkészletet teszünk közzé a tervezett (SOLL) és a hatékony (IST) vezetési időkről, különben az adatmennyiség gyorsan túl nagy lesz.
+Az egyhetes adatkészlet körülbelül 250 MB-ot tartalmaz. A fájlnevek jelzik az utazási idő összehasonlításának időtartamát: „Utazási idők_SOLL_IST_***VON-DATUM*********BIS-DATUM***.csv”. 
+
+A ***Haltepunkt.csv*** és a ***Haltestelle.csv*** táblázatok egyező táblák.
+
+Itt találja a tárgyévre vonatkozó aktuális adatokat ** 2022. január 1-jétől **. Az elmúlt évek heti nyomon követési időpontjai (2015 óta) megtalálhatók a „[**utazási idők *[JAHR]* a SOLL-IST összehasonlításban**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc) adatkészletekben”.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b3e9260b-0543-4343-8eca-09aeeb089a97">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220313_20220319.csv"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220313_20220319.csv"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:identifier>f56e2f4e-b1c7-42b1-b637-0cb14712c26a</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-03T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idő_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258238326</dcat:byteSize>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220313_20220319.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220313_20220319.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Potovalni časi VBZ v primerjavi s SOLL-IST</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1dfc3da6-e582-4323-8652-99586287a42d">
+            <dct:format>CSV</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-17T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258390366</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220703_20220709.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220703_20220709.csv"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220703_20220709.csv"/>
+            <dct:language>de</dct:language>
+            <dct:identifier>06fa31c2-3e00-4929-9cf9-0f92adeba39d</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/254768e9-553b-4cf8-b9f2-f6325af921c8">
+            <dct:title xml:lang="de">Fahrzeiten_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-22T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Час водіння_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Време на шофиране_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Driving times_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Časy jazdy_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Vairavimo laikas_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sõiduajad_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ajoajat_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tiempos de conducción_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Tempos de condução_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Køretider_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Timpi de conducere_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >258488308</dcat:byteSize>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Körtider_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Braukšanas laiki_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Amanna tiomána_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rijtijden_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tempi di guida_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba jízdy_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czasy jazdy_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-18T00:00:00</dct:modified>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ħinijiet tas-sewqan_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220508_20220514.csv"/>
+            <dct:identifier>f6724529-bef7-4ef9-8ec9-832611dff9df</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Vezetési idők_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Čas vožnje_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Temps de conduite_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/vbz_fahrzeiten_ogd/download/Fahrzeiten_SOLL_IST_20220508_20220514.csv"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Vrijeme vožnje_SOLL_IST_20220508_20220514.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρόνοι οδήγησης_SOLL_IST_20220508_20220514.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questi dati consentono un confronto molto preciso tra i tempi di guida previsti (SOLL) e quelli effettivi (IST) di ciascun veicolo della Verkehrsbetriebe Zürich (VBZ). Gli arrivi e le partenze di ogni veicolo sulla sua linea sono misurati in secondi. 
+Ogni settimana pubblichiamo un nuovo set di dati sui tempi di guida pianificati (SOLL) ed efficaci (IST), altrimenti il volume dei dati diventerà rapidamente troppo grande.
+Un set di dati di una settimana comprende circa 250 MB. I nomi dei file indicano il periodo di raffronto nel tempo del viaggio: "Orari di viaggio_SOLL_IST_***VON-DATUM***_***BIS-DATUM***.csv". 
+
+Le due tabelle ***Haltepunkt.csv*** e ***Haltestelle.csv*** sono tabelle corrispondenti.
+
+Qui troverete i dati attuali per l'anno in corso a partire dal 1º gennaio 2022 **. I tempi di follow-up settimanali degli ultimi anni (dal 2015) possono essere trovati nei set di dati "[** tempi di viaggio *[JAHR]* della VBZ nel confronto SOLL-IST (registrato)**](https://data.stadt-zuerich.ch/dataset?q=%22SOLL-IST-Vergleich%22&amp;sort=title_string+desc)".</dct:description>
+        <dcat:keyword xml:lang="de">bus</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Време за пътуване на VBZ в сравнението SOLL-IST</dct:title>
+        <dcat:keyword xml:lang="de">tram</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:23:57Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>94632412bdc17e17c37b5ae6aed3023c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:41Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:41Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/92f198dc-b405-4234-ae17-09b3f2889092-stadt-zurich"/>
+    <dct:identifier>92f198dc-b405-4234-ae17-09b3f2889092@stadt-zurich</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

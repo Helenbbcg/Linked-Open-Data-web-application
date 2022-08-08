@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/jmcw24ug2bprbq0cp1jhw">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:07:55Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/jmcw24ug2bprbq0cp1jhw"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:identifier>jMCW24UG2bPrbQ0cP1JHw</dct:identifier>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/jmcw24ug2bprbq0cp1jhw">
+        <dct:description xml:lang="hr-t-en-t0-mtec">Output opće države (oznaka ESA 2010 P.1) sastoji se od proizvoda koje su stvorile institucionalne jedinice opće države (tj. jedinice unutar podsektora središnje države, države, lokalne samouprave ili fondova socijalne sigurnosti). ESA 2010 kategorija P.1 uključuje tri vrste outputa: tržišni output, output za vlastitu finalnu uporabu i netržišni output.</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/574d200d-086d-4db8-aaf1-5ef46ce5b648">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2010-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="mt-t-en-t0-mtec">L-output tal-gvern ġenerali (ESA 2010 kodiċi P.1) jikkonsisti fil-prodotti maħluqa mill-unitajiet istituzzjonali tal-gvern ġenerali (jiġifieri unitajiet fis-sottosetturi tal-gvern ċentrali, tal-gvern statali, tal-gvern lokali jew tal-fondi tas-sigurtà soċjali). Il-kategorija P.1 tal-ESA 2010 tinkludi tliet tipi ta’ output: il-produzzjoni tas-suq, il-produzzjoni għall-użu finali proprju u l-produzzjoni mhux tas-suq.</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Producția administrațiilor publice</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Proizvodnja sektorja država (oznaka ESR 2010 P.1) je sestavljena iz produktov, ki so jih ustvarile institucionalne enote države (tj. enote v podsektorjih centralna država, državna država, lokalna država ali skladi socialne varnosti). Kategorija P.1 ESR 2010 vključuje tri vrste proizvodnje: tržna proizvodnja, proizvodnja za lastno končno porabo in netržna proizvodnja.</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tec00017">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00017</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00017</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/jmcw24ug2bprbq0cp1jhw"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="fr">Production des administrations publiques</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Aschur an rialtais ghinearálta</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Output van de overheid</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Продукция на сектор „Държавно управление“</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Valitsemissektori toodang</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Загальний обсяг виробництва</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/jmcw24ug2bprbq0cp1jhw"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="it-t-en-t0-mtec">La produzione delle amministrazioni pubbliche (codice SEC 2010 P.1) è costituita dai prodotti creati dalle unità istituzionali delle amministrazioni pubbliche (ossia unità all'interno dei sottosettori amministrazioni centrali, amministrazioni statali, amministrazioni locali o fondi di previdenza sociale). La categoria P.1 del SEC 2010 comprende tre tipi di output: produzione di mercato, produzione per uso proprio e produzione non di mercato.</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_main_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_main_esms.sdmx.zip</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/jmcw24ug2bprbq0cp1jhw"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Államháztartási kibocsátás</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Proizvodnja sektorja država</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3f2b514e-c497-49e8-b30a-6acb00b2f5f0">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="fr">Production des administrations publiques</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="de">Produktionswert des Staates</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/d3b71d33-6906-4f13-b6e8-067ad2853886</dct:identifier>
+            <dct:title xml:lang="en">General government output</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00017.sdmx.zip"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/95da2894-816f-4ff4-a744-904610e057bb">
+            <dct:title xml:lang="fr">Graphique</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Graph</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&amp;plugin=1&amp;language=en&amp;pcode=tec00017"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/da17e0b7-53c8-41c6-8c9b-f1a1bd028f9d</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fr">La production des administrations publiques (SEC 2010 code P.1) est constituée des produits créés par des unités institutionnelles générales des administrations publiques (par exemple, des unités au sein des sous-secteurs administration centrale, administration des états fédérés, administration locale ou administration de sécurité sociale). Le code P.1 du SEC 2010 comprend trois types de production: la production marchande, la production pour emploi final propre et l'autre production non marchande.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Produkcia verejnej správy</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Produzione delle amministrazioni pubbliche</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Produção das administrações públicas</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Vispārējās valdības izlaide</dct:title>
+        <dct:identifier>tec00017</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4cdae2f8-cf39-4449-9f10-de439bc19201">
+            <dct:title xml:lang="de">Tabelle</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="en">Table</dct:title>
+            <dct:title xml:lang="fr">Tableau</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/fbe0fc26-7de5-4982-8c3d-a105ace29f47</dct:identifier>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=tec00017"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az államháztartási kibocsátás (ESA 2010 P.1 kód) az államháztartási szervezeti egységek (azaz a központi kormányzat, az állami kormányzat, a helyi kormányzat vagy a társadalombiztosítási alapok alszektorokon belüli egységek) által létrehozott termékekből áll. Az ESA 2010 P.1. kategóriája három kimeneti típust tartalmaz: piaci kibocsátás, saját végfelhasználású kibocsátás és nem piaci kibocsátás.</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Vispārējās valdības izlaidi (EKS 2010 kods P.1) veido vispārējās valdības institucionālo vienību (t. i., centrālās valdības, pavalsts valdības, vietējās valdības vai sociālās nodrošināšanas fondu apakšsektoru vienību) radītie produkti. EKS 2010 P.1 kategorijā ietilpst trīs veidu izlaide: tirgus izlaide, izlaide pašu galapatēriņam un ārpustirgus izlaide.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Proizvodnja opće države</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1018"/>
+        <dct:description xml:lang="de">Der Produktionswert des Staates (Code P.1 ESVG 2010) ist der Wert der Leistungen der institutionellen Einheiten des Staates (d. h. Einheiten in den Teilsektoren Zentralstaat, Länder, Gemeinden und Sozialversicherung). Die Kategorie P.1 des ESVG 2010 umfasst drei Produktionsarten: Marktproduktion, Nichtmarktproduktion für die Eigenverwendung und Nichtmarktproduktion.</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="en">General government output</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">La producción de las administraciones públicas (código SEC 2010 P.1) consiste en los productos creados por las unidades institucionales de las administraciones públicas (es decir, unidades de los subsectores de la administración central, las administraciones estatales, las administraciones locales o los fondos de seguridad social). La categoría P.1 del SEC 2010 incluye tres tipos de resultados: producción de mercado, producción para uso final propio y salida no de mercado.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0d0aafdd-4283-424e-99f1-4a7bbd9cce2b">
+            <dct:identifier>http://data.europa.eu/88u/distribution/4d8031e7-0f29-4d92-bdbb-5672805d315d</dct:identifier>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00017.tsv.gz"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Production des administrations publiques</dct:title>
+            <dct:title xml:lang="en">General government output</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="de">Produktionswert des Staates</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-en-t0-mtec">A produção das administrações públicas (código SEC 2010 P.1) consiste nos produtos criados pelas unidades institucionais das administrações públicas (ou seja, unidades dos subsetores administração central, administração pública, administração local ou fundos de segurança social). A categoria P.1 do SEC 2010 inclui três tipos de saída:
+produção de mercado, produção para utilização final própria e produção não mercantil.</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Producción de las administraciones públicas</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/b53d940d-534b-4afd-97cb-c2e22b3a149e">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/c42076f2-685a-4945-a86f-c3235bc5b3b6">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/85ab4b8f-e775-46a4-8991-fea68156b375">
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00017.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">General government output</dct:title>
+            <dct:title xml:lang="de">Produktionswert des Staates</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Production des administrations publiques</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:identifier>http://data.europa.eu/88u/distribution/74262691-b89a-47fe-915e-739c784c8003</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="et-t-en-t0-mtec">Valitsemissektori toodang (ESA 2010 kood P.1) koosneb valitsemissektori institutsionaalsete üksuste (st keskvalitsuse, riigivalitsuse, kohaliku omavalitsuse või sotsiaalkindlustusfondide allsektorite üksuste) loodud toodetest. ESA 2010 kategooria P.1 hõlmab kolme tüüpi väljundeid: turutoodang, toodang enda lõppkasutuseks ja turuväline toodang.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Produzzjoni tal-gvern ġenerali</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Valdžios sektoriaus produkciją (2010 m. ESS kodas P.1) sudaro valdžios sektoriaus institucinių vienetų (t. y. centrinės valdžios, valstybinės valdžios, vietos valdžios arba socialinės apsaugos fondų subsektorių) sukurti produktai. 2010 m. ESS P.1 kategorija apima trijų rūšių produkciją: rinkos produkcija, produkcija savo galutiniam naudojimui ir ne rinkos produkcija.</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Den offentliga sektorns produktion</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Julkisyhteisöjen tuotos (EKT 2010 -koodi P.1) koostuu julkisyhteisöjen institutionaalisten yksiköiden (eli alasektoreiden valtion, valtionhallinnon, paikallishallinnon tai sosiaaliturvarahastojen) tuottamista tuotteista. EKT 2010:n luokkaan P.1 sisältyy kolme tuotostyyppiä: markkinatuotos, tuotos omaan loppukäyttöön ja markkinaton tuotos.</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Julkisyhteisöjen tuotanto</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">De output van de overheid (ESR 2010 code P.1) bestaat uit de producten die zijn gecreëerd door institutionele eenheden van de overheid (d.w.z. eenheden binnen de subsectoren centrale overheid, overheid, lokale overheid of socialezekerheidsfondsen). ESR 2010 categorie P.1 omvat drie soorten output: marktoutput, output voor eigen eindgebruik en niet-marktoutput.</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Produkce vládních institucí (kód ESA 2010 P.1) se skládá z produktů vytvořených institucionálními jednotkami vládních institucí (tj. jednotkami v rámci subsektorů ústředních vládních institucí, státních vládních institucí, místních vládních institucí nebo fondů sociálního zabezpečení). ESA 2010 kategorie P.1 zahrnuje tři typy výstupů: tržní produkce, produkce pro vlastní konečné užití a netržní produkce.</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Produkce vládních institucí</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/jMCW24UG2bPrbQ0cP1JHw</dct:identifier>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Valdžios sektoriaus produkcija</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Producția administrațiilor publice (codul SEC 2010 P.1) constă în produsele create de unitățile instituționale ale administrației publice (și anume, unități din cadrul subsectoarelor administrației centrale, administrației publice, administrației publice locale sau fondurilor de securitate socială). Categoria P.1 din SEC 2010 include trei tipuri de rezultate: producția de piață, producția pentru uzul final propriu și producția non-piață.</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tec00017"/>
+        <dct:title xml:lang="da-t-en-t0-mtec">Offentlig produktion</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f97121d0-1e27-4e9d-a2ff-e587fa8c5962">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&amp;init=1&amp;plugin=1&amp;language=en&amp;pcode=tec00017"/>
+            <dct:title xml:lang="fr">Carte</dct:title>
+            <dct:title xml:lang="en">Map</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c5cb8e6a-00b6-497d-a1d6-af97b0e05e39</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="de">Karte</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Produkcja globalna sektora instytucji rządowych i samorządowych</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Offentlig produktion (ENS 2010-kode P.1) består af produkter, der er skabt af institutionelle enheder i den offentlige forvaltning og service (dvs. enheder inden for delsektorerne statslig forvaltning og service, statslig forvaltning og service, lokal forvaltning og service eller sociale kasser og fonde). ENS 2010 kategori P.1 omfatter tre typer output: markedsmæssig produktion, produktion til eget brug og ikkemarkedsmæssig produktion.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Produkcia verejnej správy (kód ESA 2010 P.1) pozostáva z produktov vytvorených inštitucionálnymi jednotkami verejnej správy (t. j. jednotkami v subsektoroch ústredná štátna správa, štátna správa, miestna samospráva alebo fondy sociálneho zabezpečenia). ESA 2010 kategória P.1 zahŕňa tri typy výstupov: trhová produkcia, produkcia pre vlastné konečné použitie a netrhová produkcia.</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Produkcja globalna sektora instytucji rządowych i samorządowych (kod ESA 2010 P.1) składa się z produktów utworzonych przez jednostki instytucjonalne sektora instytucji rządowych i samorządowych (tj. jednostki w podsektorach instytucji rządowych i samorządowych, instytucji rządowych i samorządowych, samorządów lokalnych lub funduszy zabezpieczenia społecznego). ESA 2010 kategoria P.1 obejmuje trzy rodzaje produkcji: produkcja globalna rynkowa, produkcja globalna na użytek własny i produkcja globalna nierynkowa.</dct:description>
+        <dct:title xml:lang="de">Produktionswert des Staates</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Παραγωγή της γενικής κυβέρνησης</dct:title>
+        <dct:description xml:lang="en">General government output (ESA 2010 code P.1) consists of the products created by general government institutional units (i.e. units within the subsectors central government, state government, local government or social security funds). ESA 2010 category P.1 includes three types of output: market output, output for own final use and non-market output.</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Продукцията на сектор „Държавно управление„(код P.1) по ЕСС се състои от продуктите, създадени от институционални единици на сектор „Държавно управление„(т.е. единици в рамките на подсекторите „Централно държавно управление„, „Държавно управление“, „Местно държавно управление„или „фондове за социална сигурност“). ЕСС 2010 категория Р.1 включва три вида продукция: пазарна продукция, продукция за собствено крайно потребление и непазарна продукция.</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Η παραγωγή της γενικής κυβέρνησης (κωδικός ΕΣΛ 2010 P.1) αποτελείται από τα προϊόντα που δημιουργούνται από τις θεσμικές μονάδες της γενικής κυβέρνησης (δηλαδή μονάδες στους υποτομείς της κεντρικής κυβέρνησης, της κρατικής διοίκησης, της τοπικής αυτοδιοίκησης ή των οργανισμών κοινωνικής ασφάλισης). Η κατηγορία P.1 του ΕΣΛ 2010 περιλαμβάνει τρεις τύπους εκροών: εμπορεύσιμη παραγωγή, παραγωγή για ιδία τελική χρήση και μη εμπορεύσιμη παραγωγή.</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Den offentliga sektorns produktion (ENS 2010 kod P.1) består av produkter som skapats av den offentliga sektorns institutionella enheter (dvs. enheter inom delsektorerna staten, staten, kommunerna eller socialförsäkringsfonderna). ENS 2010 kategori P.1 omfattar tre typer av output: marknadsproduktion, produktion för egen slutlig användning och icke-marknadsproduktion.</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Загальний випуск уряду (код Р.1) складається з продуктів, створених загальними урядовими інституційними одиницями (тобто підрозділами в межах підсекторів центрального уряду, державного управління, місцевого самоврядування або фондів соціального страхування). ESA 2010 категорії P.1 включає в себе три типи випуску: вихід на ринок, вихід для власного кінцевого використання та неринковий вихід.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-21</dct:modified>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Is éard atá in aschur an rialtais ghinearálta (cód CEC 2010 P.1) na táirgí arna gcruthú ag aonaid institiúideacha an rialtais ghinearálta (i.e. aonaid laistigh d’fho-earnálacha an rialtais láir, an rialtais stáit, an rialtais áitiúil nó cistí slándála sóisialta). Áirítear trí chineál aschuir in CEC 2010 catagóir P.1: aschur margaidh, aschur chun críche úsáide críochnaithí dílse agus aschur chun críoch neamh-mhargaidh.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>79d1ef9b95ba782e1afe836604684087</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:07:55Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:05:45Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

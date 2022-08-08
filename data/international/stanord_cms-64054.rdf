@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-64054">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>c1c5b161b6477f0c7ed194fa53928510</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-24T23:51:59Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-64054">
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2022. gada 1. ceturksnī</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 1-во тримесечие на 2022 г.</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an chéad ráithe 2022</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul I 2022</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</schema:endDate>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-01T00:00:00</schema:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 1.º trimestre de 2022</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 1. čtvrtletí 2022</dct:title>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 1. štvrťrok 2022</dct:description>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina I tromjesečje 2022.</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 1er trimestre 2022</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Export van Sleeswijk-Holstein 1e kwartaal 2022</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2022. aasta I kvartalis</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Exportaciones de Schleswig-Holstein 1.er trimestre 2022</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 1. vuosineljännes 2022</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 1 квартал 2022</dct:description>
+        <dct:identifier>StaNord_CMS:64054</dct:identifier>
+        <dct:description xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 1ο τρίμηνο 2022</dct:description>
+        <dcat:keyword>außenhandel</dcat:keyword>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2022 m. 1-asis ketvirtis</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2022. gada 1. ceturksnī</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+            <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 1st quarter 2022</dct:title>
+        <dct:title>Ausfuhr des Landes Schleswig-Holstein 1. Quartal 2022</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 1. vuosineljännes 2022</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Exportaciones de Schleswig-Holstein 1.er trimestre 2022</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-06-16T00:00:00</dct:issued>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:info@statistik-nord.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 1º trimestre 2022</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fl-ewwel kwart tal-2022</dct:title>
+        <dcat:keyword>ausfuhr-des-landes-schleswig-holstein</dcat:keyword>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fl-ewwel kwart tal-2022</dct:description>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 1 квартал 2022</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 1:a kvartalet 2022</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.schleswig-holstein.de/organization/statistikamt-nord">
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein A.ö.R. (Statistikamt Nord)</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein v 1. četrtletju 2022</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an chéad ráithe 2022</dct:description>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/afd883ce-733c-4726-8bab-61b2bc441a4b">
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportaciones de Schleswig-Holstein 1.er trimestre 2022</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 1-во тримесечие на 2022 г.</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu I kwartał 2022 r.</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2022. első negyedév</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_22-1_SH.pdf"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2022. gada 1. ceturksnī</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 1. čtvrtletí 2022</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-17T00:16:32.116834</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2022 m. 1-asis ketvirtis</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >597290</dcat:byteSize>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein 1. Quartal 2022</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul I 2022</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 1 квартал 2022</dct:title>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:64054/resource/8f4e1fd0-57f2-4ca5-b6f7-324a6a234704</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an chéad ráithe 2022</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 1er trimestre 2022</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 1. štvrťrok 2022</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fl-ewwel kwart tal-2022</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 1ο τρίμηνο 2022</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 1:a kvartalet 2022</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 1. vuosineljännes 2022</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 1.º trimestre de 2022</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2022. aasta I kvartalis</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 1º trimestre 2022</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 1. kvartal 2022</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina I tromjesečje 2022.</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein v 1. četrtletju 2022</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Export van Sleeswijk-Holstein 1e kwartaal 2022</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_22-1_SH.pdf"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 1st quarter 2022</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 1er trimestre 2022</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 1ο τρίμηνο 2022</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul I 2022</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 1º trimestre 2022</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein v 1. četrtletju 2022</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 1. čtvrtletí 2022</dct:description>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+            <foaf:mbox>info@statistik-nord.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Export van Sleeswijk-Holstein 1e kwartaal 2022</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 1st quarter 2022</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 1:a kvartalet 2022</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 1. kvartal 2022</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2022. első negyedév</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2022. első negyedév</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu I kwartał 2022 r.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 1-во тримесечие на 2022 г.</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina I tromjesečje 2022.</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 1. kvartal 2022</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/97a1c956-3601-423a-9b13-8e2a5f3bbb72">
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 1ο τρίμηνο 2022</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 1:a kvartalet 2022</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina I tromjesečje 2022.</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Export van Sleeswijk-Holstein 1e kwartaal 2022</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2022. első negyedév</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu I kwartał 2022 r.</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 1-во тримесечие на 2022 г.</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >197158</dcat:byteSize>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 1º trimestre 2022</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 1. štvrťrok 2022</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2022. gada 1. ceturksnī</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an chéad ráithe 2022</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportaciones de Schleswig-Holstein 1.er trimestre 2022</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2022. aasta I kvartalis</dct:title>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:64054/resource/d66912b7-72bb-46eb-96b4-f5d95f473810</dct:identifier>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein v 1. četrtletju 2022</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 1. čtvrtletí 2022</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 1. kvartal 2022</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-17T00:16:32.116829</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2022 m. 1-asis ketvirtis</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 1. vuosineljännes 2022</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_22-1_SH.xlsx"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 1st quarter 2022</dct:title>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fl-ewwel kwart tal-2022</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_22-1_SH.xlsx"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 1.º trimestre de 2022</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 1er trimestre 2022</dct:title>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein 1. Quartal 2022</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 1 квартал 2022</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul I 2022</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description>Ausfuhr des Landes Schleswig-Holstein 1. Quartal 2022</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 1. štvrťrok 2022</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2022 m. 1-asis ketvirtis</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2022. aasta I kvartalis</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu I kwartał 2022 r.</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-06-17T00:16:32.072183</dct:modified>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 1.º trimestre de 2022</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-26T10:55:35Z</edp:transReceived>
+    <dct:identifier>StaNord_CMS:64054</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-24T23:51:59Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-64054"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T23:56:35Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

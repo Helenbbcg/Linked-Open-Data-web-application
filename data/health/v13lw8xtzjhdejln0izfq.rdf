@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/v13lw8xtzjhdejln0izfq">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:16:17Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:16:17Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:identifier>V13Lw8XTZJHDejLn0IzFQ</dct:identifier>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:14:07Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>b02823bfb2f08d883b66a0a99c4e0154</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/v13lw8xtzjhdejln0izfq"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/v13lw8xtzjhdejln0izfq">
+        <dct:title xml:lang="hr-t-en-t0-mtec">Javni rashodi za obrazovanje prema razini obrazovanja, usmjerenosti programa, vrsti izvora i kategoriji izdataka</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Veřejné výdaje na vzdělávání podle úrovně vzdělání, orientace programu, druhu zdroje a kategorie výdajů</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Offentlige udgifter til uddannelse efter uddannelsesniveau, programretning, kildetype og udgiftskategori</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Javni izdatki za izobraževanje po stopnji izobrazbe, usmeritvi programa, vrsti vira in kategoriji izdatkov</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Riiklikud hariduskulud haridustaseme, programmi suunitluse, allika liigi ja kulukategooria järgi</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Julkiset koulutusmenot koulutusasteen, ohjelmasuuntautuneisuuden, lähdetyypin ja menoluokan mukaan</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Verejné výdavky na vzdelávanie podľa úrovne vzdelávania, zamerania programu, druhu zdroja a kategórie výdavkov</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Javni izdatki za izobraževanje po stopnji izobrazbe, usmeritvi programa, vrsti vira in kategoriji izdatkov</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fine02">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fine02</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fine02</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/v13lw8xtzjhdejln0izfq"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:identifier>educ_uoe_fine02</dct:identifier>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Overheidsuitgaven voor onderwijs naar onderwijsniveau, programmagerichtheid, soort bron en uitgavencategorie</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Javni rashodi za obrazovanje prema razini obrazovanja, usmjerenosti programa, vrsti izvora i kategoriji izdataka</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Nefqa edukattiva pubblika skont il-livell tal-edukazzjoni, l-orjentazzjoni tal-programm, it-tip ta’ sors u l-kategorija tan-nefqa</dct:title>
+        <dct:description xml:lang="de">Öffentliche Ausgaben für Bildung nach Bildungsbereich, Ausrichtung des Bildungsprogramms, Finanzquelle und Ausgabenkategorie</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Δημόσιες εκπαιδευτικές δαπάνες ανά επίπεδο εκπαίδευσης, προσανατολισμό του προγράμματος, είδος πηγής και κατηγορία δαπανών</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/educ_uoe_enr_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/educ_uoe_enr_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/v13lw8xtzjhdejln0izfq"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Despesas públicas de ensino por nível de ensino, orientação do programa, tipo de fonte e categoria de despesas</dct:description>
+        <dct:description xml:lang="en">Public educational expenditure by education level, programme orientation, type of source and expenditure category</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Viešosios švietimo išlaidos pagal švietimo lygmenį, programos orientavimą, šaltinio tipą ir išlaidų kategoriją</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ad45b0f2-ebd3-4e14-981d-8dbabb1a1bee">
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="fr">Dépenses publiques au titre de l'éducation par niveau d'étude, orientation du programme, type de source et catégorie des dépenses</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fine02.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="en">Public educational expenditure by education level, programme orientation, type of source and expenditure category</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/3d1b7268-9ede-46ef-8271-5c0f0387634c</dct:identifier>
+            <dct:title xml:lang="de">Öffentliche Ausgaben für Bildung nach Bildungsbereich, Ausrichtung des Bildungsprogramms, Finanzquelle und Ausgabenkategorie</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Cheltuieli publice de învățământ în funcție de nivelul de educație, orientarea programului, tipul sursei și categoria de cheltuieli</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fine02"/>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Verejné výdavky na vzdelávanie podľa úrovne vzdelávania, zamerania programu, druhu zdroja a kategórie výdavkov</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-22</dct:modified>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Cheltuieli publice de învățământ în funcție de nivelul de educație, orientarea programului, tipul sursei și categoria de cheltuieli</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/educ_uoe_enr_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/v13lw8xtzjhdejln0izfq"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/educ_uoe_enr_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="es-t-en-t0-mtec">Gasto público en educación por nivel educativo, orientación de programas, tipo de fuente y categoría de gasto</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Offentliga utbildningsutgifter efter utbildningsnivå, programinriktning, typ av källa och utgiftskategori</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Державні витрати на освіту за рівнем освіти, програмною орієнтацією, типом джерела та категорії витрат</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Publiczne wydatki edukacyjne według poziomu wykształcenia, orientacji programowej, rodzaju źródła i kategorii wydatków</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Nefqa edukattiva pubblika skont il-livell tal-edukazzjoni, l-orjentazzjoni tal-programm, it-tip ta’ sors u l-kategorija tan-nefqa</dct:description>
+        <dct:description xml:lang="fr">Dépenses publiques au titre de l'éducation par niveau d'étude, orientation du programme, type de source et catégorie des dépenses</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/5be65dd9-6475-49ad-90cf-d04fa5d25074">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/edccf049-4253-4b66-be30-70c2c743ec07">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="da-t-en-t0-mtec">Offentlige udgifter til uddannelse efter uddannelsesniveau, programretning, kildetype og udgiftskategori</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Valsts izglītības izdevumi pēc izglītības līmeņa, programmas orientācijas, avota veida un izdevumu kategorijas</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Offentliga utbildningsutgifter efter utbildningsnivå, programinriktning, typ av källa och utgiftskategori</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Overheidsuitgaven voor onderwijs naar onderwijsniveau, programmagerichtheid, soort bron en uitgavencategorie</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Despesas públicas de ensino por nível de ensino, orientação do programa, tipo de fonte e categoria de despesas</dct:title>
+        <dct:title xml:lang="en">Public educational expenditure by education level, programme orientation, type of source and expenditure category</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Caiteachas poiblí oideachais de réir leibhéal oideachais, treoshuíomh cláir, cineál foinse agus catagóir caiteachais</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Riiklikud hariduskulud haridustaseme, programmi suunitluse, allika liigi ja kulukategooria järgi</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5fe6b43c-0b1b-419d-90ce-fdaee1023b1c">
+            <dct:title xml:lang="fr">Dépenses publiques au titre de l'éducation par niveau d'étude, orientation du programme, type de source et catégorie des dépenses</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Public educational expenditure by education level, programme orientation, type of source and expenditure category</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:identifier>http://data.europa.eu/88u/distribution/cc1e481a-8360-4b94-acd2-4336c0419857</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="de">Öffentliche Ausgaben für Bildung nach Bildungsbereich, Ausrichtung des Bildungsprogramms, Finanzquelle und Ausgabenkategorie</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fine02.tsv.gz"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Разходи за обществено образование по степен на образование, ориентация на програмата, вид източник и категория разходи</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Caiteachas poiblí oideachais de réir leibhéal oideachais, treoshuíomh cláir, cineál foinse agus catagóir caiteachais</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/V13Lw8XTZJHDejLn0IzFQ</dct:identifier>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Publiczne wydatki edukacyjne według poziomu wykształcenia, orientacji programowej, rodzaju źródła i kategorii wydatków</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/94d79e20-9525-4936-b8ff-75e1fbf70f8c">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2012-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="it-t-en-t0-mtec">Spesa pubblica per istruzione, orientamento al programma, tipo di fonte e categoria di spesa</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Δημόσιες εκπαιδευτικές δαπάνες ανά επίπεδο εκπαίδευσης, προσανατολισμό του προγράμματος, είδος πηγής και κατηγορία δαπανών</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Valsts izglītības izdevumi pēc izglītības līmeņa, programmas orientācijas, avota veida un izdevumu kategorijas</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Veřejné výdaje na vzdělávání podle úrovně vzdělání, orientace programu, druhu zdroje a kategorie výdajů</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c3425965-d3ed-40ae-aa91-34918eef7c22">
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fine02.sdmx.zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="de">Öffentliche Ausgaben für Bildung nach Bildungsbereich, Ausrichtung des Bildungsprogramms, Finanzquelle und Ausgabenkategorie</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/e241bd1f-eeaa-484e-9868-2958abb4d268</dct:identifier>
+            <dct:title xml:lang="en">Public educational expenditure by education level, programme orientation, type of source and expenditure category</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="fr">Dépenses publiques au titre de l'éducation par niveau d'étude, orientation du programme, type de source et catégorie des dépenses</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Öffentliche Ausgaben für Bildung nach Bildungsbereich, Ausrichtung des Bildungsprogramms, Finanzquelle und Ausgabenkategorie</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Julkiset koulutusmenot koulutusasteen, ohjelmasuuntautuneisuuden, lähdetyypin ja menoluokan mukaan</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Közoktatási kiadások oktatási szint, programorientáció, forrástípus és kiadási kategória szerint</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Viešosios švietimo išlaidos pagal švietimo lygmenį, programos orientavimą, šaltinio tipą ir išlaidų kategoriją</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Közoktatási kiadások oktatási szint, programorientáció, forrástípus és kiadási kategória szerint</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Spesa pubblica per istruzione, orientamento al programma, tipo di fonte e categoria di spesa</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Разходи за обществено образование по степен на образование, ориентация на програмата, вид източник и категория разходи</dct:title>
+        <dct:title xml:lang="fr">Dépenses publiques au titre de l'éducation par niveau d'étude, orientation du programme, type de source et catégorie des dépenses</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Державні витрати на освіту за рівнем освіти, програмною орієнтацією, типом джерела та категорії витрат</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Gasto público en educación por nivel educativo, orientación de programas, tipo de fuente y categoría de gasto</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

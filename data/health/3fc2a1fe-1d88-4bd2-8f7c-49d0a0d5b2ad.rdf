@@ -1,0 +1,3124 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>58cf3c18ee65daca447d5baa5366da2b</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:53Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:52Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6d2f2f27-4e59-4367-aa5a-d444e246b92b">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/maps/a0e3a1c53ad8422faf00604ee08955db_0"/>
+            <dct:format>HTML</dct:format>
+            <dct:title>ArcGIS Hub Dataset</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad/resource/d474e95d-8c9c-4de7-b443-78df1fa115c5</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-ga-t0-mtec">Podatki o dnevnem cepljenju zaradi COVID-19 HSE</dct:title>
+        <dct:title xml:lang="bg-t-ga-t0-mtec">Данни за ежедневната ваксинация срещу COVID-19 HSE</dct:title>
+        <dct:title xml:lang="pt-t-ga-t0-mtec">Números diários de vacinação contra a COVID-19 HSE</dct:title>
+        <dct:description xml:lang="nl-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please zie FAQ voor de meest recente informatie over de datastromen van COVID-19-datahubs. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=„0„cellpadding=”0„cellspacing=”0„style=”...; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr hoogte='19„style=”height:14.4pt;'&gt;  &lt;td height='19' style='height:14.4pt; width:82pt;' breedte='109'&gt;Veld
+label&lt;/td&gt;
+&lt;td style='border-left:none; width:194pt;' breedte='259'&gt;Veldnaam&lt;/td&gt; &lt;td style='border-left:none;
+width:274pt;' width='365'&gt;Explanation&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Extract Datum&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;Date de datum is Geëxtraheerd&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+ &lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Latitude&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Latitude&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Longitude&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Longitude&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Vaccination Datum&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Date van vaccinatie
+
+voorgekomen&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose1&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;SingleDose&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1 Cumulatief&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 2 Cumulatief&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Single van Dose
+
+Cumulatief&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;At minimaal één dosis&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;This is Dose 1
+
+Cumulatief + enkele dosis cumulatief&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;FullyVacc&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Fully gevaccineerd&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;This is Dose 2
+
+Ulmulatief + enkele dosis cumulatief&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;PopOver12&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Population Over 12&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Population van meer dan 12
+
+met behulp van CSO-bevolkingsramingen 2021&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% ten minste één dosis
+
+van Pop. ouder dan 12&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula per land
+Ten minste één
+
+Dosis/Bevolking Meer dan 12&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=„19” STYLE=„HEIGHT:14.4PT;’&gt;”
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% gevaccineerd van
+
+Pop. ouder dan 12&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula per land
+Volledig
+
+Gevaccineerd/Bevolking Meer dan 12&lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-09-18T00:00:00</dct:issued>
+        <dcat:keyword>dgihealth</dcat:keyword>
+        <dct:description xml:lang="sk-t-ga-t0-mtec">&lt;div&gt;&lt;span style=‚font-rodina: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif;najčastejšie otázky nájdete v časti Najnovšie informácie o dátových tokoch dátového centra COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table Border=‚0‚cellpadding=‘0‚cellspacing=‘0‚style=‘border-collapse:collapse;
+width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr výška =‘19‚štýl=‘height:14.4pt;'&gt;
+&lt;td výška='19' style='height:14.4pt;width:82pt;' šírka='109'&gt;pole
+štítok &lt;/td&gt;
+&lt;td style='border-left:none;
+width:194pt;' šírka='259'&gt; Názov poľa&lt;/td&gt;
+&lt;td style='border-left:none; width:274pt;' šírka='365'&gt;Explanation&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt;border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Extract Dátum &lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date dátum je Extrahované &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+ &lt;td výška='19' style='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+ &lt;td výška='19' style='height:14.4pt;border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Longitude&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt;Vaccination Dátum &lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Date očkovania
+vyskytla sa &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt; &lt;/td&gt;
+ &lt;/TR&gt; &lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+ &lt;td výška='19' style='height:14.4pt;border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+ &lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt;border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1 kumulatívne&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+ &lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt;Dose 2 kumulatívne&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt; &lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single dávky
+Kumulatívne &lt;/td&gt;  &lt;td style='border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;At najmenej jedna dávka&lt;/td&gt;  &lt;td style='border-top:none;border-left:none;'&gt;This je dávka 1
+ Kumulatívne + jednodávkové kumulatívne &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt;border-top:none;'&gt;FullyVacc&lt;/td&gt;
+ &lt;td style='border-top:none;border-left:none;'&gt;Fully očkované &lt;/td&gt;
+ &lt;td style='border-top:none;border-left:none;'&gt;This je dávka 2
+ Ulmulative + Single Dose Kumulatívna &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+&lt;td výška='19' style='height:14.4pt;border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Population nad 12&lt;/td&gt;  &lt;td style='border-top:none; border-left:none;'&gt;Population z viac ako 12 rokov
+použitie odhadov populácie organizácií občianskej spoločnosti na rok 2021&lt;/td&gt; 
+&lt;/TR&gt;
+
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+
+&lt;td výška='19' style='height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% aspoň jedna dávka
+
+viac ako 12 rokov &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula podľa štátu
+Aspoň jeden
+
+Dávka/populácia nad 12&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR VÝŠKA =‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;‘
+
+&lt;td výška='19' style='height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% očkované
+
+Pop. nad 12 rokov &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula podľa štátu
+Plne
+
+Očkované/Populácia nad 12&lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&gt;</dct:description>
+        <dcat:keyword>OSi</dcat:keyword>
+        <dct:title xml:lang="fr-t-ga-t0-mtec">COVID-19 HSE Chiffres de Vaccination Quotidienne</dct:title>
+        <dct:title xml:lang="fi-t-ga-t0-mtec">Covid-19:n päivittäiset rokotukset</dct:title>
+        <dct:description>&lt;div&gt;&lt;span style='font-family:&amp;quot;Avenir Next W01&amp;quot;, &amp;quot;Avenir Next W00&amp;quot;, &amp;quot;Avenir Next&amp;quot;, Avenir, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size:16px;'&gt;Please see FAQ for latest information on COVID-19 Data Hub Data Flows.&lt;/span&gt;  &lt;a href='https://covid-19.geohive.ie/pages/helpfaqs' target='_blank' rel='nofollow ugc noopener noreferrer'&gt;https://covid-19.geohive.ie/pages/helpfaqs&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;table border='0' cellpadding='0' cellspacing='0' style='border-collapse:collapse; width:550pt;' width='733'&gt;&lt;tbody&gt;&lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; width:82pt;' width='109'&gt;&lt;b&gt;Field
+  label&lt;/b&gt;&lt;/td&gt;
+  &lt;td style='border-left:none; width:194pt;' width='259'&gt;&lt;b&gt;Field Name&lt;/b&gt;&lt;/td&gt;
+  &lt;td style='border-left:none; width:274pt;' width='365'&gt;&lt;b&gt;Explanation&lt;/b&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Extract Date&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Date the data is
+  Extracted&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Vaccination Date&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Date the Vaccination
+  occurred&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Single Dose&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Dose 1 Cumulative&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Dose 2 Cumulative&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Single Dose
+  Cumulative&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;At Least One Dose&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;This is Dose 1
+  Cumulative  + Single Dose Cumulative&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Fully Vaccinated&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;This is Dose 2
+  Culmulative + Single Dose Cumulative&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Population Over 12&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Population Over 12
+  using CSO Population estimates 2021&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;% At Least One Dose
+  of Pop. over age 12&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Formula: At Least One
+  Dose/ Population Over 12&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr height='19' style='height:14.4pt;'&gt;
+  &lt;td height='19' style='height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;% Fully vaccinated of
+  Pop. over age 12&lt;/td&gt;
+  &lt;td style='border-top:none; border-left:none;'&gt;Formula: Fully
+  Vaccinated/ Population Over 12&lt;/td&gt;
+ &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;img /&gt;</dct:description>
+        <dct:title xml:lang="mt-t-ga-t0-mtec">COVID-19 HSE Kuljum Vaċċinazzjoni Figuri</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:customer.services@osi.ie"/>
+            <vcard:fn>OSI</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="hu-t-ga-t0-mtec">Covid19 HSE napi oltási adatok</dct:title>
+        <dct:description xml:lang="el-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please βλ. συχνές ερωτήσεις για τις τελευταίες πληροφορίες σχετικά με τις ροές δεδομένων του κόμβου δεδομένων COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=«0“cellpadding=”0“cellspacing=”0“style=”border-collapse:collapse· μέγεθος: Ύψος=19“στυλ=”Κωδικός:
+&lt;td height=’19’ style=’’height:14.4pt· πλάτος =’109’&gt;Πεδίο
+ετικέτα &lt;/td&gt;
+&lt;td style=’’border-left:none· πλάτος=259’&gt;Όνομα πεδίου &lt;/td&gt;
+&lt;td style=’’border-left:none· πλάτος =’365’&gt;Εξηγήσεις &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’’border-top:none· border-left:none;'&gt;Extract Ημερομηνία &lt;/td&gt;
+&lt;td style=’’border-top:none· border-left:none;'&gt;Date η ημερομηνία είναι
+Εκχύλιση &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’’border-top:none· border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’’border-top:none· border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’’border-top:none· border-left:none;'&gt;Vaccination Ημερομηνία &lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Εμβολιασμοί
+συνέβη &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style=’’border-top:none· τύπος: 1&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style=’’border-top:none· τύπος: 2&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’’border-top:none· border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’’border-top:none· περιγραφή:Συγκεντρωτικό 1 Σώρευση &lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’’border-top:none· περιγραφή:Συγκεντρωτικό 2 Σώρευση &lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Γεωγραφία της Δόσεως
+Σωρευτικό &lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Παιχνίδια &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style=’’border-top:none· τύπος: Ελάχιστη μία δόση &lt;/td&gt;
+&lt;td style=’’border-top:none· περιγραφή:Η δόση είναι η δόση 1
+Σωρευτικό + Σώρευση εφάπαξ δόσης &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style=’’border-top:none· ετικέτα:Εμβολιασμένος &lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Δόση 2
+Ulmulative + Single Dose Cumulative&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’’border-top:none· υλικό: Πάνω από 12&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Πάνω από 12
+χρησιμοποιώντας εκτιμήσεις των ΟΚΠ για τον πληθυσμό 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style=’’border-top:none· περιγραφή:Μια δόση τουλάχιστον μία δόση
+ΠΟΠ. άνω των 12 ετών &lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Γεωγραφία ανά χώρα Τουλάχιστον μία
+Δόση/Πληθυσμός Πάνω από 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=«19» STYLE=«HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’’height:14.4pt· border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Γεωγραφία που έχουν εμβολιαστεί
+Pop. άνω της ηλικίας 12&lt;/td&gt;
+&lt;td style=’’border-top:none· κατηγορία:Γεωγραφία ανά χώρα Πλήρως
+Εμβολιασμένος/Πληθυσμός άνω των 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/ΠΙΝΑΚΑΣ&gt;&gt;</dct:description>
+        <dcat:keyword>GeoHive</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4b5c3b56-45ee-4df1-854c-5f28e1a39072">
+            <dct:title>GeoJSON</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:identifier>https://data.gov.ie/dataset/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad/resource/9de6fbeb-cbf9-44fb-a813-1efd36bb048c</dct:identifier>
+            <dct:format>GeoJSON</dct:format>
+            <dcat:mediaType>application/vnd.geo+json</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/a0e3a1c53ad8422faf00604ee08955db_0.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>health</dcat:keyword>
+        <dct:language>en</dct:language>
+        <dcat:keyword>Vaccinations</dcat:keyword>
+        <dct:description xml:lang="pl-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please zob. najczęściej zadawane pytania dotyczące przepływu danych w centrum danych COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border='0'cellpadding='0'cellspacing='0'style='”; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr wysokość = '19' style='height:14.4pt;'&gt;  &lt;td height='19' style='height:14.4pt; width:82pt;' Szerokość = '109'&gt;Pole
+etykieta &lt;/td&gt;
+&lt;td style='border-left:none; width:194pt;' width='259'&gt;Nazwa pola&lt;/td&gt; &lt;td style='border-left:none;
+width:274pt;' width='365'&gt;Wyjaśnienie&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Extract data &lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;Date data jest Wyodrębnione &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt; &lt;/td&gt;
+ &lt;/TR&gt; &lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Longitude&lt;/td&gt;  &lt;td style='border-top:none;border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+ &lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Vaccination data &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Date szczepienia
+
+wystąpił &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose1&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;SingleDose&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1 Skumulacyjny &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 2 Skumulowane &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Single dawki
+
+Skumulowane &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;At jedna dawka &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;This jest dawka 1
+
+Skumulowana + pojedyncza dawka kumulacyjna &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;FullyVacc&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Fully szczepione &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;This jest dawka 2
+
+Ulmulative + pojedyncza dawka kumulacyjna &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;PopOver12&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Population powyżej 12&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Population od ponad 12
+
+wykorzystanie szacunkowych populacji organizacji społeczeństwa obywatelskiego 2021&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% co najmniej jedna dawka
+
+Pop. powyżej 12 roku życia &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula według kraju
+Co najmniej jeden
+
+Dawka/populacja powyżej 12 &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR WYSOKOŚĆ = '19' STYLE='HEIGHT:14.4PT;’&gt;
+
+&lt;td height='19' style='height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% szczepione
+
+Pop. powyżej 12 roku życia &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula według kraju
+W pełni
+
+Szczepionka/Populacja powyżej 12&lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dcat:keyword>HPSC</dcat:keyword>
+        <dct:description xml:lang="it-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please cfr. FAQ per le ultime informazioni sui flussi di dati dell'hub di dati COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=‘0'cellpadding='0'cellspacing='0'style='; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr altezza='19'stile='height:14.4pt;'&gt;
+&lt;td height='19‘style='height:14.4pt; width:82pt; 'larghezza='109'&gt;Campo
+etichetta &lt;/td&gt;
+&lt;td style='border-left:none; width:194pt; 'larghezza='259'&gt; Nome del campo&lt;/td&gt;
+&lt;td style='border-left:none; width:274pt; 'larghezza='365'&gt;Spiegazione&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Extract Data&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date la data è
+Estratto &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Vaccination Data&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date della vaccinazione
+si è verificato&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1 Cumulativo&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2 Cumulativo&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single della dose
+Cumulativo&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;At almeno una dose&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This è dose 1
+Cumulativo + singola dose cumulativa&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Fully vaccinato&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This è Dose 2
+Ulmulative + Single Dose Cumulative&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population oltre 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population da oltre 12 anni
+utilizzando le stime della popolazione dell'OSC 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;% almeno una dose
+di Pop. sopra l'età 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula per paese Almeno uno
+Dose/popolazione Oltre 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19' STYLE=‘HEIGHT:14.4PT;'&gt;
+&lt;td height='19‘style='height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;% vaccinato di
+Pop. sopra l'età 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula per paese Completamente
+Vaccinato/popolazione sopra 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="fr-t-ga-t0-mtec">‘div’‘span style='font-famille: &amp;amp;quot;Avenir Next W01 ciot; &amp;amp;quot;Avenir Next W00; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please voir FAQ pour les dernières informations sur les flux de données du hub de données COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=‘0’cellpadding=’0’cellspacing=’0’style=’; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr taille=’19’style=’height:14.4pt;'&gt;
+‘td height=’19‘style=’height:14.4pt; width:82pt;' largeur='109'&gt;Taille
+étiquette ‘/td’
+‘td style='border-left:none; width:194pt;' width='259'&gt;Nom du champ‘/td’
+‘td style='border-left:none; width:274pt;' largeur='365'&gt;Explication‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Extract Date‘/td’
+‘td style='border-top:none; border-left:none;'&gt;Date la date est
+Extrait ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Vaccination Date‘/td’
+‘td style='border-top:none; border-left:none;'&gt;Date de vaccination
+S’est produit‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Dose 1‘/td’
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Dose 2‘/td’
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Dose 1 Cumulatif‘/td’
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Dose 2 Cumulatif‘/td’
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Single de Dose
+Cumulatif‘/td’
+‘td style='border-top:none; border-left:none;'&gt; ‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;At au moins une dose ‘/td’
+‘td style='border-top:none; border-left:none;'&gt;This est Dose 1
+Cumulative + dose unique cumulative‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Fully vacciné‘/td’
+‘td style='border-top:none; border-left:none;'&gt;This est Dose 2
+Ulmulative + dose unique Cumulative‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;Population de plus de 12‘/td’
+‘td style='border-top:none; border-left:none;'&gt;Population de plus de 12 ans
+utilisation des estimations de population des OSC pour 2021‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;% au moins une dose
+de Pop. plus de 12‘/td’
+‘td style='border-top:none; border-left:none;'&gt;Formula par pays Au moins un
+Dose/Population supérieure à 12‘/td’
+‘/TR’
+‘TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+‘td height=’19‘style=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+‘td style='border-top:none; border-left:none;'&gt;% vacciné de
+Pop. plus de 12‘/td’
+‘td style='border-top:none; border-left:none;'&gt;Formula par pays Entièrement
+Vacciné/Population Plus de 12‘/td’ 
+‘/TR’‘/TBODY’‘/TABLE’</dct:description>
+        <dct:description xml:lang="ro-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif;font-size:16px;‘&gt;Please a se vedea întrebările frecvente pentru cele mai recente informații privind fluxurile de date ale platformelor de date COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=«0«cellpadding=»0«cellspacing=»0«style=»border-collapse:collapse;
+width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr înălțime =’19«style=»height:14.4pt;'&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;width:82pt;’ lățime=’109’&gt;Câmp
+etichetă &lt;/td&gt;
+&lt;td style=’border-left:none;
+width:194pt;’ lățime=’259’&gt;Numele câmpului&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;’ lățime=’365’&gt;Explicație &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Extract data&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date data este Extrasă &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+ &lt;td înălțime =’19’ style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+ &lt;td înălțime =’19’ style=’height:14.4pt;border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Longitude&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt;Vaccination data&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Date de vaccinare
+s-a întâmplat &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 1&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt; &lt;/td&gt;
+ &lt;/TR&gt; &lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+ &lt;td înălțime =’19’ style=’height:14.4pt;border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+ &lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 1 Cumulativ &lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+ &lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt;Dose 2 Cumulativ &lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt; &lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single de dozare
+Cumulativ &lt;/td&gt;  &lt;td style=’border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt;At cel puțin o doză &lt;/td&gt;  &lt;td style=’border-top:none;border-left:none;'&gt;This este doza 1
+ Cumulativ + doză unică cumulativă &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;border-top:none;'&gt;FullyVacc&lt;/td&gt;
+ &lt;td style=’border-top:none;border-left:none;'&gt;Fully vaccinate &lt;/td&gt;
+ &lt;td style=’border-top:none;border-left:none;'&gt;This este doza 2
+ Ulmulativ + doză unică cumulativă&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+&lt;td înălțime =’19’ style=’height:14.4pt;border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Population Peste 12&lt;/td&gt;  &lt;td style=’border-top:none; border-left:none;'&gt;Population de peste 12 ani
+utilizarea estimărilor populației OSC pentru 2021&lt;/td&gt; 
+&lt;/TR&gt;
+
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+
+&lt;td înălțime =’19’ style=’height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;% cel puțin o doză
+
+de Pop. peste 12 ani &lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Formula după țară
+Cel puțin unul
+
+Doză/Populație peste 12&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR ÎNĂLȚIME=«19» STIL=«HEIGHT:14.4PT;’&gt;
+
+&lt;td înălțime =’19’ style=’height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;% vaccinate cu
+
+Pop. peste 12 ani&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Formula după țară
+Pe deplin
+
+Vaccinat/Populație peste 12&lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:title xml:lang="cs-t-ga-t0-mtec">COVID-19 HSE Denní očkování Čísla</dct:title>
+        <dct:title xml:lang="lv-t-ga-t0-mtec">Covid-19 HSE ikdienas vakcinācijas skaitļi</dct:title>
+        <dct:description xml:lang="bg-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot; &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please Вж. ЧЗВ за най-новата информация относно потоците от данни в центровете за данни във връзка с COVID-19 https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table Border=„0„cellpadding=„0„cellspacing=“0„style=“border-collapse:collapse; височина:Височина = '19' стил='height:14.4pt;'&gt;
+&lt; td височина = '19' стил='height:14.4pt; име:Пол.; 'ширина='109'&gt;Поле
+етикет &lt;/td&gt;
+&lt;td style="border-left:none; width:194pt; 'ширина='259'&gt;Наименование на полето&lt;/td&gt;
+&lt;td style="border-left:none; width:274pt; 'ширина='365'&gt;Обяснение&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Extract Дата&lt;/td&gt;
+&lt;td style="border-top:none; категория:Начална дата
+Извлечени &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Vaccination Дата&lt;/td&gt;
+&lt;td style="border-top:none; категория:Ваксинации
+случи се &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 1 Кумулативен &lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 2 Кумулативен&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style="border-top:none; категория:Сгради и съоръжения на Доза
+Кумулативен &lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style="border-top:none; най-малко една доза &lt;/td&gt;
+&lt;td style="border-top:none; категория:Доза 1
+Кумулативен + кумулативен с единична доза&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style="border-top:none; категория:Ваксинирани &lt;/td&gt;
+&lt;td style="border-top:none; категория:Доза 2
+Ulmulative + единична доза Cumulative&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Population Над 12&lt;/td&gt;
+&lt;td style="border-top:none; категория:Повече от 12
+използване на оценки на населението на ОГО за 2021 г.&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style="border-top:none; забележка: Най-малко една доза
+на възраст над 12&lt;/td&gt;
+&lt;td style="border-top:none; категория:Сгради и съоръжения по държави Най-малко един
+Доза/Население над 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ВИСОЧИНА = '19' СТИЛ='HEIGHT:14.4PT;’&gt;
+&lt; td височина = '19' стил='height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style="border-top:none; категория:Китай, ваксиниран от
+Възраст над 12&lt;/td&gt;
+&lt;td style="border-top:none; категория:Сгради и съоръжения по държави Напълно
+Ваксинирани/Население над 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:title xml:lang="sk-t-ga-t0-mtec">Údaje o dennom očkovaní COVID-19 HSE</dct:title>
+        <dct:identifier>3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad</dct:identifier>
+        <dct:description xml:lang="pt-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif;font-size:16px;‘&gt;Please ver FAQ para obter informações mais recentes sobre fluxos de dados do hub de dados COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=‘0‘cellpadding=’0‘cellspacing=’0‘style=’’;
+width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr height=’19‘style=’height:14.4pt;'&gt;
+&lt;td altura='19' style='height:14.4pt;width:82pt;' width='109'&gt;Field
+etiqueta &lt;/td&gt;
+&lt;td style='border-left:none;
+width:194pt;' width='259'&gt;Field Name&lt;/td&gt;
+&lt;td style='border-left:none; width:274pt;' width='365'&gt;Explanation&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt;border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Extract Data&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date a data é Extraído &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+ &lt;td altura='19' style='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+ &lt;td altura='19' style='height:14.4pt;border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Longitude&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt;Vaccination Data&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Date de Vacinação
+ocorreu &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt; &lt;/td&gt;
+ &lt;/TR&gt; &lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+ &lt;td altura='19' style='height:14.4pt;border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+ &lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt;border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Dose 1 Cumulative&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+ &lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style='border-top:none;border-left:none;'&gt;Dose 2 Cumulative&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt; &lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single de Dose
+Cumulativo &lt;/td&gt;  &lt;td style='border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt; &lt;td style='border-top:none;
+border-left:none;'&gt;At pelo menos uma dose &lt;/td&gt;  &lt;td style='border-top:none;border-left:none;'&gt;This is Dose 1
+ Cumulativo + dose única cumulativa &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt;border-top:none;'&gt;FullyVacc&lt;/td&gt;
+ &lt;td style='border-top:none;border-left:none;'&gt;Fully vacinados &lt;/td&gt;
+ &lt;td style='border-top:none;border-left:none;'&gt;This é Dose 2
+ Ulmulative + dose única cumulativa &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td altura='19' style='height:14.4pt;border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style='border-top:none;
+border-left:none;'&gt;Population acima de 12&lt;/td&gt;  &lt;td style='border-top:none; border-left:none;'&gt;Population de mais de 12 anos
+utilizando as estimativas da população das OSC 2021&lt;/td&gt; 
+&lt;/TR&gt;
+
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+
+&lt;td altura='19' style='height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% pelo menos uma dose
+
+de Pop. acima de 12 anos &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula por país
+Pelo menos um
+
+Dose/população acima de 12&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR ALTURA=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+
+&lt;td altura='19' style='height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;% vacinadas de
+
+Pop. mais de 12 anos &lt;/td&gt;
+
+&lt;td style='border-top:none;
+border-left:none;'&gt;Formula por país
+Totalmente
+
+Vacinado/População acima de 12&lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="sl-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-družina: &amp;amp;quot;Avenir Next W01 quot; &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot; Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif;font-size:16px;‘&gt;Please glej pogosta vprašanja za najnovejše informacije o podatkovnih tokovih podatkovnega središča za COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=„0‚cellpadding=’0‚cellspacing=‘0‚cellspacing=‘0‚style=‘font-size:16px;‘&gt;Please;
+width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr height=’19‚style=‘height:14.4pt;'&gt;
+&lt;td height=’19’ style=’’height:14.4pt;width:82pt;’ width=’109’&gt;polje
+nalepka &lt;/td&gt;
+&lt;td style=’border-left:none;
+width:194pt;" width=’259’&gt;Ime polja&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;’ width=’365’&gt;Pojasnilo&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt;border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Extract datum &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date datum je Ekstrahirano &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+ &lt;td height=’19’ style=’’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+ &lt;td height=’19’ style=’’height:14.4pt;border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Longitude&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt;Vaccination datum &lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Date cepljenja
+zgodilo se je &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 1&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt; &lt;/td&gt;
+ &lt;/TR&gt; &lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+ &lt;td height=’19’ style=’’height:14.4pt;border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt; &lt;/TR&gt;
+ &lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt;border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 1 kumulativno &lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+ &lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt;Dose 2 kumulativno &lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;  &lt;/TR&gt; &lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single odmerka
+Kumulativno &lt;/td&gt;  &lt;td style=’border-top:none;border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt; &lt;td style=’border-top:none;
+border-left:none;'&gt;At najmanj en odmerek &lt;/td&gt;  &lt;td style=’border-top:none;border-left:none;'&gt;This je odmerek 1
+ Kumulativno z enim odmerkom &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt;border-top:none;'&gt;FullyVacc&lt;/td&gt;
+ &lt;td style=’border-top:none;border-left:none;'&gt;Fully cepljeni &lt;/td&gt;
+ &lt;td style=’border-top:none;border-left:none;'&gt;This je odmerek 2
+ Ulmulative + kumulativno z enim odmerkom &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height=’19’ style=’’height:14.4pt;border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Population nad 12 &lt;/td&gt;  &lt;td style=’border-top:none; border-left:none;'&gt;Population iz več kot 12
+uporaba ocen prebivalstva organizacij civilne družbe za leto 2021 &lt;/td&gt; 
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+
+&lt;td height=’19’ style=’’height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;% vsaj en odmerek
+
+oče, starejši od 12 let &lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Formula po državah
+Vsaj ena
+
+Odmerek/prebivalstvo nad 12 &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HEIGHT=‚19‘ STYLE=‚HEIGHT:14.4PT;‘&gt;
+
+&lt;td height=’19’ style=’’height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;% cepljeni
+
+Pop. nad 12 let &lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Formula po državah
+V celoti
+
+Cepljeno/prebivalstvo nad 12 &lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="cs-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-rodina: &amp;amp;quot;Avenir Další W01 quot; &amp;amp;quot;Avenir Další W00 quot; &amp;amp;quot;Avenir Další &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please viz FAQ pro nejnovější informace o datových tocích datového centra COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=’0’cellpadding=’0’cellspacing=’0’style=’border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr výška =’19’style=’height:14.4pt;'&gt;
+&lt;td výška =’19’ style=’height:14.4pt; width:82pt;’ šířka =’109’&gt;Field
+štítek&lt;/td&gt;
+&lt;td style=’border-left:none; width:194pt;’ šířka =’259’&gt; Název pole&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;’ šířka =’365’&gt; Vysvětlení&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Extract Datum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date datum je
+Extrahované&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Vaccination Datum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date očkování
+nastalo &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1 Kumulativní&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2 Kumulativní&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single Dávkování
+Kumulativní &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;At nejméně jedna dávka&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This je dávka 1
+Kumulativní + Kumulativní dávka s jednou dávkou&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Fully očkovaná&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This je dávka 2
+Ulmulativní + jednorázová kumulativní &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population více než 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population z více než 12
+použití odhadů počtu obyvatel organizací občanské společnosti 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% alespoň jedna dávka
+o Pop. starší 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula podle země Alespoň jeden
+Dávka/populace nad 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VÝŠKA=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td výška =’19’ style=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% očkovaná
+Pop. starší 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula podle země Plně
+Očkovaná/Populace nad 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="mt-t-ga-t0-mtec">&lt;div&gt;&lt; stil pan=’font-familja: &amp;amp; Quot; Avenir Next W01 quot;, &amp;amp; Quot; Avenir li jmiss W00 quot; Quot; Avenir Next &amp;amp; Quot; Helvetica Neue quot;ans-serif; font-size:16px;‘&gt;Please ara l-FAQ għall-aħħar informazzjoni dwar il-Flussi ta’ Data taċ-Ċentru tad-Data tal-COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=“0‘cellpadding=’0‘cellspacing=’0’style=”φ; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr għoli =’19‘stil=’height:14.4pt;'&gt;  &lt;td għoli =’19' stil=’height:14.4pt; width:82pt;’ wisgħa =’109'&gt;Qasam
+tikketta &lt;/td&gt;
+&lt;td stil=’border-left:none; width:194pt;' wisgħa = '259'&gt; Isem tal-qasam&lt;/td&gt; &lt;td stil=’border-left:none;
+width:274pt;’ wisgħa =’365'&gt; Spjegazzjoni &lt;/td&gt; 
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;ExtractDate&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Extract Data &lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Date id-data hija
+
+Estratt &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;Latitude&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Latitude&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;Longitude&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Longitude&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Vaccination Data &lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Date ta’ Tilqim
+
+seħħew &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;Dose1&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+applikazzjoni: 1&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;SingleDose&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+applikazzjoni: 1 Kumulattiv &lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Dose 2 Kumulattiv &lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Single ta’ Malta
+
+Kumulattiva &lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+tip: L-inqas Doża Waħda &lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+par ta ' border-left:none;'&gt;This huwa Doża 1
+
+Kumulattiv + Uniku Doża Kumulattiva&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;FullyVacc&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Fully imlaqqma &lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+par ta ' border-left:none;'&gt;This huwa Doża 2
+
+Ulmulative + Doża Uniku Cumulative&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;PopOver12&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+isem: Aktar minn 12&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Population Iżraeljani fuq 12
+
+bl-użu tal-istimi tal-popolazzjoni tas-CSO 2021&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;% ta’ mill-inqas doża waħda
+
+ta’ Pop. fuq l-età ta’ 12&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Formula ta’ abbozzi
+Għall-inqas wieħed
+
+Doża/Popolazzjoni ‘l fuq minn 12&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR GĦOLI=‘19’ STIL=‘‘HEIGHT:14.4PT;’&gt;’
+
+&lt;td għoli =’19' stil=’height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;% imlaqqma ta’
+
+Pop. fuq l-età 12&lt;/td&gt;
+
+&lt;td stil=’border-top:none;
+border-left:none;'&gt;Formula ta’ abbozzi
+Għal kollox
+
+Imlaqqma/Popolazzjoni ‘l fuq minn 12&lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt; &lt;/TABLE&gt;</dct:description>
+        <dcat:keyword>Ordnance Survey Ireland</dcat:keyword>
+        <dct:description xml:lang="lt-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-family: &amp;amp;quot;Avenir Next W01 quot; &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please žr. DUK dėl naujausios informacijos apie COVID-19 duomenų centro duomenų srautus. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=’0’cellpadding=’0’cellspacing=’0’style=“; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr aukštis=’19’style=’height:14.4pt;'&gt;
+&lt;td height=’19’ style=’height:14.4pt; width:82pt;’ plotis =’109’&gt;Laukas
+etiketė&lt;/td&gt;
+&lt;td style=’border-left:none; width:194pt;’ plotis =’259’&gt;Lauko pavadinimas&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;’ plotis =’365’&gt;Paaiškinimas&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Extract data&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date data
+Ištraukta&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Vaccination data&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date vakcinacija
+įvyko &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1 Cumulative&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2 Cumulative&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single vartojimas
+Kaupiamasis &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;At mažiausiai viena dozė &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This yra dozė 1
+Kumuliacinis + vienos dozės kumuliacinis &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Fully vakcinuoti&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This yra dozė 2
+Ulmulative + vienos dozės kumuliacinis &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population virš 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population iš daugiau nei 12
+naudojant PVO gyventojų įverčius 2021 m.&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% bent viena dozė
+pop. vyresni nei 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula pagal šalis Bent vienas
+Dozė/populiacija virš 12 &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUKŠTIS =’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% paskiepyti
+Pop. vyresni nei 12 &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula pagal šalis Visiškai
+Vakcinacija/populiacija virš 12 &lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="uk-t-ga-t0-mtec">&amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot; Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif;
+font-size:16px; '&gt; Будь ласка, дивись FAQ для отримання останньої інформації про COVID-19 Data Hub Data Flows. https://covid-19.geohive.ie/pages/helpfaqs 1:0'table Border='0'cellpadding='0'cellspacing='0'style='? width:550pt;'width='733'&gt;âtbody&gt; ★tr high='19'style='height:14.4pt;'&gt;
+TD висота = '19' style=''height:14.4pt;розмір: 'ширина ='109'&gt; Поле
+мітки: / td&gt;
+ TD стиль = ''border-left:none;width:194pt;' width='259'&gt; Ім'я поля: / td&gt;
+TD стиль = ''border-left:none;
+width:274pt; 'ширина ='365'&gt;Роз'яснення: / td&gt;
+* / TR&gt;
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+TD висота = '19' style=''height:14.4pt;border-top:none;'&gt;extractDate якомога/td&gt;
+ TD стиль = ''border-top:none; border-left:none; '&gt; Витяг Дата / td&gt;
+TD стиль = ''border-top:none;border-left:none;'&gt; Дата дати є
+Видобуто / td&gt;
+ * / TR&gt; ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;Latitude якомога/td&gt;
+TD стиль = ''border-top:none; border-left:none;'&gt;Latitude якомога/td&gt;
+TD стиль = ''border-top:none;border-left:none;'&gt; Ü/td&gt;
+ * / TR&gt;
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt; 
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;Longitude якомога/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Longitude якомога/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Ü/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;вакцинаціяДата/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Дата вакцинації / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Дата вакцинації
+
+події/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt; Доза1 1/2/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Доза 1:1/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Ü/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none; '&gt; Доза2 × / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Доза 2 × / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Ü/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;SingleDose якомога/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Однокласник / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Ü/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none; '&gt; Доз1Cum â € / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Доза 1 Кумулятивна 1/2/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Ü/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none; '&gt;Dose2Cumâ/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Доза 2 Кумулятивна 1/2 / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Ü/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;SingleDoseCum ^/td&gt;
+
+TD стиль = ''border-top:none;
+назва:Одна доза;'&gt; Одиночна доза
+
+Кумулятивна / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt; Ü/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;PartiallyVaccê/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none; '&gt; Принаймні одна доза / td&gt;
+
+TD стиль = ''border-top:none;
+доза: '&gt;Це доза 1
+
+Кумулятивна + Одиночна доза Кумулятивна 1/2/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;FullyVaccâ/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Повна вакцинація */td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Це доза 2
+
+Ulmulative + Одиночна доза Кумулятивна 1/2/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;PopOver12 якомога/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Населення понад 12:1/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Населення з більш ніж 12
+
+використання оцінок населення ОГС 2021/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;PartialPercent якомога/td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;% принаймні одна доза
+
+Поп. старше 12 років / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Формула за країною
+Принаймні один
+
+Доза/популяція понад 12 ×/td&gt;
+
+* / TR&gt;
+
+ÜTR HEIGHT = '19' STYLE='HEIGHT:14.4PT;'&gt;
+
+TD висота = '19' style=''height:14.4pt;
+border-top:none;'&gt;FullyPercent якомога/td&gt;
+
+TD стиль = ''border-top:none;
+застосування:'&gt;% вакциновано від
+
+Поп. старше 12 років / td&gt;
+
+TD стиль = ''border-top:none;
+border-left:none;'&gt;Формула за країною
+Повністю
+
+Вакцинована/Населення понад 12:00/td&gt;
+
+Ü/TR&gt; ЯКОМОГА/TBODY&gt; ★/TABLE&gt;</dct:description>
+        <dct:title xml:lang="et-t-ga-t0-mtec">COVID-19 HSE igapäevase vaktsineerimise näitajad</dct:title>
+        <dct:title xml:lang="uk-t-ga-t0-mtec">COVID-19 HSE Щоденна вакцинація Фігури</dct:title>
+        <dcat:keyword>Covid-19</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/89f7bece-8b68-42ec-807c-9c6ccf11825f">
+            <dct:title>ArcGIS GeoService</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:accessURL rdf:resource="https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/COVID19_Daily_Vaccination/FeatureServer/0"/>
+            <dct:format>ArcGIS GeoServices REST API</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad/resource/e31eb982-c12a-4753-9d20-9130cd0a9ebc</dct:identifier>
+            <dcat:mediaType>application/json</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-ga-t0-mtec">Podaci o dnevnom cijepljenju protiv bolesti COVID-19 HSE</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:title>COVID-19 HSE Daily Vaccination Figures</dct:title>
+        <dct:title xml:lang="en-t-ga-t0-mtec">COVID-19 HSE Daily Vaccination Figures</dct:title>
+        <dct:title xml:lang="de-t-ga-t0-mtec">COVID-19 HSE Tägliche Impfzahlen</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e738dd89-a749-429e-af26-3f79d146bf83">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:identifier>https://data.gov.ie/dataset/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad/resource/f8ee393f-7a00-4506-8090-98984ef5f383</dct:identifier>
+            <dct:format>ZIP</dct:format>
+            <dct:title>Shapefile</dct:title>
+            <dcat:mediaType>application/zip</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/a0e3a1c53ad8422faf00604ee08955db_0.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Department of Health</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7c4f4807-b56b-4d09-8028-9478c7914278">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:format>CSV</dct:format>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title>CSV</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad/resource/aa5dac5b-be0c-44c2-804e-b8457cffcb2b</dct:identifier>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/a0e3a1c53ad8422faf00604ee08955db_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-ga-t0-mtec">Covid-19 HSE Codzienne dane dotyczące szczepień</dct:title>
+        <dcat:keyword>NOCA</dcat:keyword>
+        <dct:description xml:lang="lv-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-ģimene: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please sk. jaunāko informāciju par Covid-19 datu centra datu plūsmām. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table robeža=“0“cellpadding=”0“cellspacing=”0“style=”border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr augstums=”19“style=”height:14.4pt;'&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; width:82pt;’ width=’109’&gt;Lauka
+etiķete&lt;/td&gt;
+&lt;td style=’border-left:none; width:194pt;’ width=’259’&gt;Lauka nosaukums&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;’ width=’365’&gt;Paskaidrojums&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Extract Datums&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date datums ir
+Iegūts &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Vaccination Datums&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date ar vakcināciju
+noticis &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1 kumulatīvs&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2 kumulatīvie&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single devā
+Kumulatīvs&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;At vismaz viena deva &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This ir deva 1
+Kumulatīva + vienas devas kumulatīva &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Fully vakcinācija&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This ir deva 2
+Ulmulative + vienas devas kumulatīva &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population vairāk nekā 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population no vairāk nekā 12
+PSO iedzīvotāju aplēses 2021. gadam &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% vismaz viena deva
+pop. vecāki par 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula pēc valsts Vismaz viens
+Deva/populācija virs 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR AUGSTUMS=“19” STILS=“HEIGHT:14.4PT;’&gt;
+&lt;td augstums=’19’ style=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% vakcinēti
+Pop. vecāki par 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula pēc valsts Pilnībā nokomplektēta
+Vakcinēts/Iedzīvotāju skaits pārsniedz 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:title xml:lang="da-t-ga-t0-mtec">Covid-19 HSE Daily Vaccination Tal</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97">
+            <foaf:name>Ordnance Survey Ireland</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:landingPage rdf:resource="https://opendata-geohive.hub.arcgis.com/maps/a0e3a1c53ad8422faf00604ee08955db_0"/>
+        <dct:title xml:lang="el-t-ga-t0-mtec">COVID-19 HSE Ημερήσιος Εμβολιασμός Αριθμοί</dct:title>
+        <dct:description xml:lang="es-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please ver FAQ para la información más reciente sobre flujos de datos del centro de datos COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=‘0‘cellpadding=’0‘cellspacing=’0‘style=’border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr altura = ‘19‘style=’height:14.4pt;'&gt;
+&lt;Td altura='19' estilo='height:14.4pt; width:82pt;' ancho='109'&gt; Campo
+etiqueta &lt;/td&gt;
+&lt;Td style='border-left:none; width:194pt;' ancho='259'&gt;Nombre del campo&lt;/td&gt;
+&lt;Td style='border-left:none; width:274pt;' ancho='365'&gt;Explicación&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Extract Fecha &lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Date la fecha es
+Extraído &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Vaccination Fecha &lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Date de Vacunación
+ocurrió &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Dose 1 Cumulativo&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Dose 2 Cumulativo&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Single de la dosis
+Acumulativo &lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;At menos una dosis &lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;This es la dosis 1
+Acumulativo + dosis única acumulativa&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Fully vacunados &lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;This es la dosis 2
+Ulmulative + Single Dose Cumulative&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Population de más de 12&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Population de más de 12 años
+utilización de las estimaciones de población de las OSC 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;% al menos una dosis
+de Pop. mayores de 12 &lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Formula por país Al menos uno
+Dosis/Población Más de 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR ALTURA=‘19’ ESTILO=‘HEIGHT:14.4PT;’&gt;
+&lt;Td altura='19' estilo='height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;% vacunados de
+Pop. sobre la edad 12&lt;/td&gt;
+&lt;Td style='border-top:none; border-left:none;'&gt;Formula por país Totalmente
+Vacunado/Población Más de 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dcat:keyword>ireland</dcat:keyword>
+        <dct:description xml:lang="fi-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please katso tuoreimmat tiedot covid-19-datakeskuksen datavirroista. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=’0’cellpadding=’0’cellspacing=’0’style=’”; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr korkeus=’19’style=’height:14.4pt;'&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; width:82pt;’ leveys=’109’&gt;kenttä
+etiketti &lt;/td&gt;
+&lt;td style=’border-left:none; width:194pt;’ leveys=’259’&gt;Kenteen nimi&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;’ leveys=’365’&gt;Selitys&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Extract Date&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date päivämäärä on
+Uutettu &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Vaccination Date&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date rokotukset
+tapahtui &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1 kumulatiivinen &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2 kumulatiivinen &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single
+Kumulatiivinen &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;At vähintään yksi annos &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This on annos 1
+Kumulatiivinen + kerta-annoskumulatiivinen &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Fully rokotettu &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This on annos 2
+Ulmulatiivinen + kerta-annos kumulatiivinen &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population Yli 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population from Yli 12
+kansalaisyhteiskunnan organisaatioiden väestöennusteiden käyttö 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% vähintään yksi annos
+pop. yli 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula maittain Ainakin yksi
+Annos/Väkiluku Yli 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KORKEUS=’19’ TYYLI=’HEIGHT:14.4PT;’&gt;
+&lt;td korkeus=’19’ tyyli=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% rokotetut
+Pop. yli 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula maittain Täysin
+Rokotettu/Väkiluku Yli 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:title xml:lang="es-t-ga-t0-mtec">Cifras diarias de vacunación contra COVID-19 HSE</dct:title>
+        <dct:description xml:lang="en-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please see FAQ for latest information on COVID-19 Data Hub Data Flows. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=‘0‘cellpadding=’0‘cellspacing=’0‘style=’border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr height=’19‘style=’height:14.4pt;'&gt;
+&lt;td height='19' style='height:14.4pt; width:82pt;' width='109'&gt;Field
+label&lt;/td&gt;
+&lt;td style='border-left:none; width:194pt;' width='259'&gt;Field Name&lt;/td&gt;
+&lt;td style='border-left:none; width:274pt;' width='365'&gt;Explanation&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Extract Date&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date the date is
+Extracted&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Vaccination Date&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date of Vaccination
+occurred&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1 Cumulative&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2 Cumulative&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single of Dose
+Cumulative&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;At least One Dose&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This is Dose 1
+Cumulative + Single Dose Cumulative&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Fully vaccinated&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This is Dose 2
+Ulmulative + Single Dose Cumulative&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population Over 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population from Over 12
+using CSO Population estimates 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;% at least One Dose
+of Pop. over age 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula by country At least one
+Dose/Population Over 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‘19’ STYLE=‘HEIGHT:14.4PT;’&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;% vaccinated of
+Pop. over age 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula by country Fully
+Vaccinated/Population Over 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="de-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-family: &amp;amp;quot;Avenir Next W01 quot; &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please siehe FAQ für die neuesten Informationen zu COVID-19 Data Hub Data Flows. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=‚0‘cellpadding=‘0‚cellspacing=‘0‚style=‘; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr Höhe=‚19‚style=‘height:14.4pt;'&gt;
+&lt;td height='19' style='height:14.4pt; width:82pt; 'Breite='109'&gt;Feld
+Etikett&lt;/td&gt;
+&lt;td style='border-left:none; width:194pt; 'Breite='259'&gt;Feldname&lt;/td&gt;
+&lt;td style='border-left:none; width:274pt;' width='365'&gt;Erläuterung&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Extract Datum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date das Datum ist
+Extrahiert&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Vaccination Datum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date der Impfung
+aufgetreten&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1 Kumulativ&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2 kumulativ&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single der Dosis
+Kumulativ&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;At mindest eine Dosis&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This ist Dosis 1
+Kumulativ + Einzeldosis kumulativ&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Fully geimpft&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This ist Dose 2
+Ulmulative + Einzeldosenkumulativ&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population über 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population von über 12
+Verwendung von zivilgesellschaftlichen Bevölkerungsschätzungen 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;% mindestens eine Dosis
+von Pop. über 12 Jahre&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula nach Land Mindestens eine
+Dosis/Bevölkerung über 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HEIGHT=‚19‚STYLE=‚HEIGHT:14.4PT;‘&gt;
+&lt;td height='19' style='height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;% geimpft von
+Pop. über 12 Jahre&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula nach Land Vollständig
+Geimpft/Bevölkerung über 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-23T14:10:50</dct:modified>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasTelephone>-</vcard:hasTelephone>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword>HSE</dcat:keyword>
+        <dcat:keyword>Covid</dcat:keyword>
+        <dct:title xml:lang="ro-t-ga-t0-mtec">Cifrele privind vaccinarea zilnică pentru COVID-19 HSE</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/656b58d1-80bb-48ac-a3de-14999e6af23e">
+            <dct:format>KML</dct:format>
+            <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:identifier>https://data.gov.ie/dataset/3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad/resource/4b2b8470-c740-4a58-9806-0088bef7a2f7</dct:identifier>
+            <dct:title>KML</dct:title>
+            <dcat:accessURL rdf:resource="https://opendata-geohive.hub.arcgis.com/datasets/a0e3a1c53ad8422faf00604ee08955db_0.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-ga-t0-mtec">COVID-19 HSE Dagelijkse Vaccinatiecijfers</dct:title>
+        <dct:title xml:lang="sv-t-ga-t0-mtec">Covid-19 HSE Daglig Vaccination Siffror</dct:title>
+        <dcat:theme rdf:resource="https://data.gov.ie/Health"/>
+        <dct:description xml:lang="sv-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-familj: &amp;amp;quot; Avenir Next W01 quot; &amp;amp;quot; Avenir Next W00 quot; &amp;amp;quot; Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif;
+font-size:16px;‘&gt;Please finns i Vanliga frågor för den senaste informationen om dataflöden från covid-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=’0’cellpadding=’0’cellspacing=’0’style=’border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr höjd=’19’style=’height:14.4pt;'&gt;
+&lt;td höjd=’19’ style=’height:14.4pt;width:82pt;’ bredd=’109’&gt;Fält
+etikett&lt;/td&gt;
+ &lt;td style=’border-left:none;width:194pt;’ bredd=’259’&gt;Fältnamn&lt;/td&gt;
+&lt;td style=’border-left:none;
+width:274pt;’ bredd=’365’&gt;Förklaring&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td höjd=’19’ style=’height:14.4pt;border-top:none;'&gt;ExtractDate&lt;/td&gt;
+ &lt;td style=’border-top:none; border-left:none;'&gt;Extract datum&lt;/td&gt;
+&lt;td style=’border-top:none;border-left:none;'&gt;Date datum är
+ Utvunnet &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;Latitude&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Latitude&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;Longitude&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Longitude&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Vaccination datum&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Date av vaccinationer
+
+inträffade &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;Dose1&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 1&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;Dose2&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 2&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;SingleDose&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Single&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 1 Kumulativ&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Dose 2 Kumulativ&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Single av Dose
+
+Kumulativ&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt; &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;At minst en dos&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;This är dos 1
+
+Kumulativt + Engångsdos Cumulativ&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;FullyVacc&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Fully vaccinerade &lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;This är dos 2
+
+Ultmulativ + enkeldos kumulativ &lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;PopOver12&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Population över 12&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Population från över 12 år
+
+användning av det civila samhällets befolkningsuppskattningar 2021&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;PartialPercent&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;% minst en dos
+
+av Pop. över 12 år&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Formula efter land
+Minst en
+
+Dos/Folkmängd över 12&lt;/td&gt;
+
+&lt;/TR&gt;
+
+&lt;TR HÖJD=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+
+&lt;td höjd=’19’ style=’height:14.4pt;
+border-top:none;'&gt;FullyPercent&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;% vaccinerade
+
+Pop. över 12 år&lt;/td&gt;
+
+&lt;td style=’border-top:none;
+border-left:none;'&gt;Formula efter land
+Till fullo
+
+Vaccinerad/Befolkning över 12&lt;/td&gt;
+
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:title xml:lang="it-t-ga-t0-mtec">COVID-19 HSE cifre vaccinazioni giornaliere</dct:title>
+        <dct:description xml:lang="da-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-familie: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please se FAQ for seneste oplysninger om COVID-19 Data Hub Data Flows. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border="0'cellpadding='0'cellspacing='0'style='border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr højde='19' stil='height:14.4pt;'&gt;
+&lt;td højde='19' stil = "height:14.4pt; width:82pt;' bredde = "109'&gt; Felt
+mærke&lt;/td&gt;
+&lt;td style="border-left:none; width:194pt;' bredde='259'&gt; Feltnavn&lt;/td&gt;
+&lt;td style="border-left:none; width:274pt;' bredde='365'&gt; Forklaring&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Extract Dato&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Date dato er
+Udvundet&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Vaccination Dato&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Date af vaccination
+opstod &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 1 kumulativ &lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Dose 2 kumulativ &lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Single af Dosering
+Kumulativ&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;At mindst én dosis &lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;This er dosis 1
+Kumulativ + enkeltdosis Cumulativ&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Fully vaccineret&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;This er dosis 2
+Ulmulativ + enkeltdosis kumulativ&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Population over 12&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Population fra over 12 år
+anvendelse af CSO's befolkningsestimater 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;% mindst én dosis
+af Pop. over 12 &lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Formula efter land Mindst én
+Dosis/Population Over 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR HØJDE= "19' STIL = "HEIGHT:14.4PT;’&gt;
+&lt;td højde='19' stil = "height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;% vaccineret af
+Pop. over alder 12&lt;/td&gt;
+&lt;td style="border-top:none; border-left:none;'&gt;Formula efter land Fuldt ud
+Vaccineret/Population Over 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:title xml:lang="lt-t-ga-t0-mtec">COVID-19 HSE kasdienio skiepijimo duomenys</dct:title>
+        <dcat:keyword>Ireland</dcat:keyword>
+        <dct:description xml:lang="hu-t-ga-t0-mtec">&lt;div&gt;&lt;span style=’font-family: &amp;amp;quot;Avenir Next W01 quot; &amp;amp;quot;Avenir Next W00 quot; &amp;amp;quot; Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please lásd a Covid19 adatközpont adatáramlásaival kapcsolatos legfrissebb információkat. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=’0’cellpadding=’0’cellspacing=’0’style=’☐); width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr magasság=’19’style=’height:14.4pt;'&gt;
+&lt;td height=’19’ style=’height:14.4pt; width:82pt;’szélesség=’109’&gt;Field
+címke &lt;/td&gt;
+&lt;td style=’border-left:none; width:194pt;’szélesség=’259’&gt;Field Name&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;’szélesség=’365’&gt;Explanation&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Extract Dátum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date a dátum
+Kivont &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Vaccination Dátum&lt;/td&gt;
+&lt;td style=’border-top:none; NKFI-EPR:A védőoltások
+megtörtént&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1 kumulatív &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2 kumulatív &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; NKFI-EPR:A dózisok
+Kumulatív &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;At legalább egy adag &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This az 1-es dózis
+Kumulatív + egyszeri dózis kumulatív &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Fully beoltott&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This a 2-es dózis
+Ulmulatív + egyszeri dózis kumulatív &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population felett 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population 12 év felett
+a civil társadalmi szervezetek népességére vonatkozó becslések alkalmazása 2021&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% legalább egy adag
+12 éves kor felett &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula országok szerint Legalább egy
+Dózis/Population Over 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR MAGASSÁG=’19’ STYLE=’HEIGHT:14.4PT;’&gt;
+&lt;td height=’19’ style=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style=’border-top:none; NKFI-EPR:A vakcinázott
+Pop. 12 éves kor felett&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula országok szerint Teljes egészében
+Beoltott/Population Over 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="et-t-ga-t0-mtec">&lt;div&gt;&lt;pan style=’font-perekond: &amp;amp;quot;Avenir Next W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please vt uusimat teavet COVID-19 andmekeskuse andmevoogude kohta. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=„0“ cellpadding=’0„cellspacing=“0’style=’border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr kõrgus=’19„style=“height:14.4pt;'&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; width:82pt;„laius=“109’&gt;Väli
+silt &lt;/td&gt;
+&lt;td style=’border-left:none; width:194pt;„laius=“259’&gt;Väli nimi&lt;/td&gt;
+&lt;td style=’border-left:none; width:274pt;„laius=“365’&gt; Selgitus&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Extract kuupäev &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date kuupäev on
+Ekstraheeritud &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Vaccination kuupäev &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Date vaktsineerimised
+juhtus &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 1 kumulatiivne&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Dose 2 kumulatiivne &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Single annused
+Kumulatiivne &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;At vähemalt üks annus &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This on annus 1
+Kumulatiivne + ühekordse annuse kumulatiivne &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Fully vaktsineeritud &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;This on annus 2
+Ulmulative + ühekordse annuse kumulatiivne&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population üle 12&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Population üle 12
+kodanikuühiskonna organisatsioonide hinnangul 2021. aastal &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% vähemalt üks annus
+Pop. üle 12-aastased &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula riikide kaupa Vähemalt üks
+Annus/rahvastik Üle 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR KÕRGUS=„19“ STYLE=„HEIGHT:14.4PT;“&gt;
+&lt;td kõrgus=„19“ style=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;% vaktsineeritud
+Pop. üle 12-aastased &lt;/td&gt;
+&lt;td style=’border-top:none; border-left:none;'&gt;Formula riikide kaupa Täielikult
+Vaktsineeritud/rahvastik Üle 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+        <dct:description xml:lang="hr-t-ga-t0-mtec">&lt;div&gt;&lt;span style='font-obitelj: &amp;amp;quot;Avenir Sljedeći W01 quot;, &amp;amp;quot;Avenir Next W00 quot;, &amp;amp;quot;Avenir Next &amp;amp;quot;Helvetica Neue quot;sans-serif; font-size:16px;‘&gt;Please vidjeti Najčešća pitanja za najnovije informacije o protoku podataka središta za COVID-19. https://covid-19.geohive.ie/pages/helpfaqs&lt;/div&gt;&lt;table border=‚0‚cellpadding=’0‚cellspacing=’0‚style=’border-collapse:collapse; width:550pt;‘width=’733‘&gt;&lt;tbody&gt;&lt;tr visina = '19‚style=’height:14.4pt;'&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; width:82pt;' širina='109'&gt;Polje
+oznaka &lt;/td&gt;
+&lt;td style='border-left:none; width:194pt;' širina='259'&gt; Naziv polja&lt;/td&gt;
+&lt;td style='border-left:none; width:274pt;' širina='365'&gt; Objašnjenje&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;ExtractDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Extract Datum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date je datum
+Izdvojeno&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Latitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Longitude&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;VaccinationDate&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Vaccination Datum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Date cijepljenja
+dogodio se &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;Dose1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;Dose2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;SingleDose&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Single&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;Dose1Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 1 Kumulativno &lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;Dose2Cum&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Dose 2 Kumulativno &lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;SingleDoseCum&lt;/td&gt;
+&lt;td style='border-top:none; primjena: Doza
+Kumulativno &lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt; &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;PartiallyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;At najmanje jedna doza&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This je doza 1
+Kumulativno + kumulativno doziranje &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;FullyVacc&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Fully cijepljena &lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;This je doza 2
+Ulmulativna + jedna doza kumulativna &lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;PopOver12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population više od 12&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Population iz više od 12
+korištenje procjena stanovništva organizacija civilnog društva za 2021.&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;PartialPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;% barem jedna doza
+stariji od 12 godina &lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula po zemljama Barem jedan
+Doza/populacija tijekom 12&lt;/td&gt;
+&lt;/TR&gt;
+&lt;TR VISINA=‚19’ STIL=‚HEIGHT:14.4PT;’&gt;
+&lt;td visina=‚19‚style=’height:14.4pt; border-top:none;'&gt;FullyPercent&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;%
+Starija od 12 godina&lt;/td&gt;
+&lt;td style='border-top:none; border-left:none;'&gt;Formula po zemljama U cijelosti
+Cijepljena/populacija iznad 12&lt;/td&gt; 
+&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-15T20:25:19Z</dct:issued>
+    <dct:identifier>3fc2a1fe-1d88-4bd2-8f7c-49d0a0d5b2ad</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

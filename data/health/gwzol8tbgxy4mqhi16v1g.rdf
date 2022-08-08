@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/gwzol8tbgxy4mqhi16v1g">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T12:06:08Z</dct:modified>
+    <dct:identifier>gWZoL8TbgXy4MQhi16v1g</dct:identifier>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T12:06:08Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:03:34Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/gwzol8tbgxy4mqhi16v1g">
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ilc_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ilc_esms.sdmx.zip</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/gwzol8tbgxy4mqhi16v1g"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Ráta géardhíthe ábhartha de réir leibhéal gnóthachtála oideachais (daonra atá 18 mbliana d’aois agus níos sine)</dct:description>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/1ea57931-0bba-4f19-83d8-a99fd36ab7ae">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/3dfea68e-7983-4e64-a406-e920e2a17eac">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Тяжкий рівень матеріальної депривації за рівнем освіти (населення віком від 18 років і старше)</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Suure materiaalse puuduse määr haridustaseme järgi (18-aastased ja vanemad)</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Tasso di deprivazione materiale grave per livello di istruzione (popolazione di 18 anni e oltre)</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/83"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-15</dct:modified>
+        <dct:description xml:lang="en">Severe material deprivation rate by educational attainment level (population aged 18 and over)</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Ποσοστό σοβαρής υλικής στέρησης ανά μορφωτικό επίπεδο (πληθυσμός ηλικίας 18 ετών και άνω)</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd14">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd14</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/gwzol8tbgxy4mqhi16v1g"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd14</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/f8d2c6e4-677c-462e-9df2-04e23ffca6aa">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2003-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Miera závažnej materiálnej deprivácie podľa úrovne dosiahnutého vzdelania (populácia vo veku 18 rokov a viac)</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Ernstige materiële deprivatiepercentages naar opleidingsniveau (bevolking van 18 jaar en ouder)</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Stopnja hude materialne prikrajšanosti glede na stopnjo izobrazbe (prebivalstvo, staro 18 let in več)</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A súlyos anyagi nélkülözés aránya az iskolai végzettség szintje szerint (18 éves vagy annál idősebb népesség)</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Allvarlig materiell fattigdom efter utbildningsnivå (befolkning 18 år och äldre)</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Alvorlige materielle afsavn efter uddannelsesniveau (befolkning på 18 år og derover)</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Smagas materiālās nenodrošinātības rādītājs izglītības līmeņa dalījumā (iedzīvotāji vecumā no 18 gadiem)</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Taxa de privação material grave por nível de escolaridade (população com 18 anos ou mais)</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Tasa de privación material grave por nivel educativo (población de 18 años o más)</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Smagas materiālās nenodrošinātības rādītājs izglītības līmeņa dalījumā (iedzīvotāji vecumā no 18 gadiem)</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Stopa teške materijalne oskudice prema razini obrazovanja (populacija u dobi od 18 godina i više)</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Wskaźnik poważnej deprywacji materialnej według poziomu wykształcenia (populacja w wieku 18 lat i więcej)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0c3fd00e-88cf-4efd-9674-e286563028d9">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:identifier>http://data.europa.eu/88u/distribution/abcedfb5-d734-4787-8c2f-ddd3f072e7f1</dct:identifier>
+            <dct:title xml:lang="fr">Taux de privation matérielle sévère par niveau d'éducation atteint (population âgée de 18 ans et plus)</dct:title>
+            <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach Bildungsabschluss (Personen im Alter von 18 und älter)</dct:title>
+            <dct:title xml:lang="en">Severe material deprivation rate by educational attainment level (population aged 18 and over)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_mddd14.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/gwzol8tbgxy4mqhi16v1g"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Stopnja hude materialne prikrajšanosti glede na stopnjo izobrazbe (prebivalstvo, staro 18 let in več)</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Didelio materialinio nepritekliaus lygis pagal išsilavinimo lygį (18 m. ir vyresni gyventojai)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Tasso di deprivazione materiale grave per livello di istruzione (popolazione di 18 anni e oltre)</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Miera závažnej materiálnej deprivácie podľa úrovne dosiahnutého vzdelania (populácia vo veku 18 rokov a viac)</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Тяжкий рівень матеріальної депривації за рівнем освіти (населення віком від 18 років і старше)</dct:title>
+        <dct:description xml:lang="fr">Taux de privation matérielle sévère par niveau d'éducation atteint (population âgée de 18 ans et plus)</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3659"/>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Ráta géardhíthe ábhartha de réir leibhéal gnóthachtála oideachais (daonra atá 18 mbliana d’aois agus níos sine)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f4b670e4-f3be-4b1c-bd63-684503aa3c12">
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">Severe material deprivation rate by educational attainment level (population aged 18 and over)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach Bildungsabschluss (Personen im Alter von 18 und älter)</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_mddd14.tsv.gz"/>
+            <dct:title xml:lang="fr">Taux de privation matérielle sévère par niveau d'éducation atteint (population âgée de 18 ans et plus)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/d1cf58f3-e726-4cf3-8b30-6c551214923a</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Ernstige materiële deprivatiepercentages naar opleidingsniveau (bevolking van 18 jaar en ouder)</dct:title>
+        <dct:identifier>ilc_mddd14</dct:identifier>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Vakava aineellinen puute koulutustason mukaan (vähintään 18-vuotias väestö)</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Stopa teške materijalne oskudice prema razini obrazovanja (populacija u dobi od 18 godina i više)</dct:description>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd14"/>
+        <dct:identifier>http://data.europa.eu/88u/dataset/gWZoL8TbgXy4MQhi16v1g</dct:identifier>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Дял на тежките материални лишения по образователно равнище (население на възраст 18 и повече години)</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A súlyos anyagi nélkülözés aránya az iskolai végzettség szintje szerint (18 éves vagy annál idősebb népesség)</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Rata ta’ deprivazzjoni materjali estrema skont il-livell edukattiv milħuq (popolazzjoni minn 18-il sena ‘l fuq)</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Дял на тежките материални лишения по образователно равнище (население на възраст 18 и повече години)</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Rata de deprivare materială severă în funcție de nivelul de studii (populația în vârstă de 18 ani și peste)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Míra závažné materiální deprivace podle úrovně dosaženého vzdělání (populace ve věku 18 let a více)</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Taxa de privação material grave por nível de escolaridade (população com 18 anos ou mais)</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Rata ta’ deprivazzjoni materjali estrema skont il-livell edukattiv milħuq (popolazzjoni minn 18-il sena ‘l fuq)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e178c1fa-3535-4a4b-bf61-b7f44ca64f89">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_mddd14.sdmx.zip"/>
+            <dct:title xml:lang="en">Severe material deprivation rate by educational attainment level (population aged 18 and over)</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach Bildungsabschluss (Personen im Alter von 18 und älter)</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="fr">Taux de privation matérielle sévère par niveau d'éducation atteint (population âgée de 18 ans et plus)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/88541d8d-9061-4d74-b374-4fa796f6b6d6</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-en-t0-mtec">Alvorlige materielle afsavn efter uddannelsesniveau (befolkning på 18 år og derover)</dct:title>
+        <dct:title xml:lang="fr">Taux de privation matérielle sévère par niveau d'éducation atteint (population âgée de 18 ans et plus)</dct:title>
+        <dct:description xml:lang="de">Rate der erheblichen materiellen Deprivation nach Bildungsabschluss (Personen im Alter von 18 und älter)</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1469"/>
+        <dct:title xml:lang="es-t-en-t0-mtec">Tasa de privación material grave por nivel educativo (población de 18 años o más)</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Rata de deprivare materială severă în funcție de nivelul de studii (populația în vârstă de 18 ani și peste)</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Míra závažné materiální deprivace podle úrovně dosaženého vzdělání (populace ve věku 18 let a více)</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Vakava aineellinen puute koulutustason mukaan (vähintään 18-vuotias väestö)</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Wskaźnik poważnej deprywacji materialnej według poziomu wykształcenia (populacja w wieku 18 lat i więcej)</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Didelio materialinio nepritekliaus lygis pagal išsilavinimo lygį (18 m. ir vyresni gyventojai)</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Suure materiaalse puuduse määr haridustaseme järgi (18-aastased ja vanemad)</dct:description>
+        <dct:title xml:lang="en">Severe material deprivation rate by educational attainment level (population aged 18 and over)</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ποσοστό σοβαρής υλικής στέρησης ανά μορφωτικό επίπεδο (πληθυσμός ηλικίας 18 ετών και άνω)</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4050"/>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Allvarlig materiell fattigdom efter utbildningsnivå (befolkning 18 år och äldre)</dct:title>
+        <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach Bildungsabschluss (Personen im Alter von 18 und älter)</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>60fa73663190b29dad685e358b88831d</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/gwzol8tbgxy4mqhi16v1g"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/k925wsrulpolu8gzoj2pvg">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/k925wsrulpolu8gzoj2pvg">
+        <dct:title xml:lang="en">Self-propelled vessels, tugs and pushers, by date of construction</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Pašgājēji kuģi, velkoņi un stūmēji, pēc būvniecības datuma</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/152d95c0-c6a3-45d7-92a0-3cf4830e0cd2">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1970-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Plovila na lastni pogon, vlačilci in potiskalniki, do datuma gradnje</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Iseliikuvad laevad, puksiirid ja tõukurid, ehituskuupäeva järgi</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Buques, remolcadores y empujadores autopropulsados, por fecha de construcción</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4735"/>
+        <dct:title xml:lang="de">Gütermotorschiffe und Güterschleppkähne, Schubboote und Schub-Schleppboote, nach Baujahr</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Statki samobieżne, holowniki i pchacze, według daty budowy</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Soithí, tugaí agus brúiteoirí féinghluaiste, de réir dháta na tógála</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Plavidlá s vlastným pohonom, remorkéry a tlačidlá, podľa dátumu výstavby</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/iww_eq_age">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/k925wsrulpolu8gzoj2pvg"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/iww_eq_age</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/iww_eq_age</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Önjáró hajók, vontatók és tológépek az építés időpontja szerint</dct:title>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/iww_eq_age"/>
+        <dct:description xml:lang="fr">Bateaux automoteurs, remorqueurs et pousseurs, par date de construction</dct:description>
+        <dct:description xml:lang="en">Self-propelled vessels, tugs and pushers, by date of construction</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Plavidla s vlastním pohonem, remorkéry a tlačné čluny, podle data stavby</dct:title>
+        <dct:description xml:lang="de">Gütermotorschiffe und Güterschleppkähne, Schubboote und Schub-Schleppboote, nach Baujahr</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Самоходни плавателни съдове, влекачи и тласкачи, по дата на построяване</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Самохідні судна, буксири і штовхачі, за датою будівництва</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Självgående fartyg, bogserbåtar och skjutbogserare, efter tillverkningsdatum</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/K925WsRulpOLu8gZOj2pvg</dct:identifier>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Statki samobieżne, holowniki i pchacze, według daty budowy</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Αυτοπροωθούμενα πλοία, ρυμουλκά και ωστικά, κατά την ημερομηνία κατασκευής</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/19a66b42-b10f-476c-96a5-1938a3b88b53">
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dct:identifier>http://data.europa.eu/88u/distribution/b4cb54ad-e362-4173-8882-ad568b800d39</dct:identifier>
+            <dct:title xml:lang="de">Gütermotorschiffe und Güterschleppkähne, Schubboote und Schub-Schleppboote, nach Baujahr</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="en">Self-propelled vessels, tugs and pushers, by date of construction</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/iww_eq_age.sdmx.zip"/>
+            <dct:title xml:lang="fr">Bateaux automoteurs, remorqueurs et pousseurs, par date de construction</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Schepen, sleepboten en duwboten met eigen beweegkracht, op de datum van de bouw</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Nave autopropulsate, remorchere și împingătoare, după data construcției</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Plavidlá s vlastným pohonom, remorkéry a tlačidlá, podľa dátumu výstavby</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Buques, remolcadores y empujadores autopropulsados, por fecha de construcción</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Αυτοπροωθούμενα πλοία, ρυμουλκά και ωστικά, κατά την ημερομηνία κατασκευής</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/k925wsrulpolu8gzoj2pvg"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Embarcações, rebocadores e empurradores autopropulsores, por data de construção</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Självgående fartyg, bogserbåtar och skjutbogserare, efter tillverkningsdatum</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Selvkørende fartøjer, slæbebåde og pushere, efter bygningsdato</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Navi semoventi, rimorchiatori e spintori, per data di costruzione</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Savaeigiai laivai, vilkikai ir stūmikai pagal pastatymo datą</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/k925wsrulpolu8gzoj2pvg"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Schepen, sleepboten en duwboten met eigen beweegkracht, op de datum van de bouw</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Itseliikkuvat alukset, hinaajat ja työntölaitteet rakennuspäivämäärän mukaan</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Самоходни плавателни съдове, влекачи и тласкачи, по дата на построяване</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/806d92b4-d5bb-4f61-a166-d5d20b3afd9c">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/19c924db-1f6e-49aa-adcd-12712cb258e3">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="et-t-en-t0-mtec">Iseliikuvad laevad, puksiirid ja tõukurid, ehituskuupäeva järgi</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Embarcações, rebocadores e empurradores autopropulsores, por data de construção</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Bastimenti awtopropulsivi, laneċ tal-irmonk u mbuttar, skont id-data tal-kostruzzjoni</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Brodovi, tegljači i potiskivači na vlastiti pogon, prema datumu gradnje</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Soithí, tugaí agus brúiteoirí féinghluaiste, de réir dháta na tógála</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Itseliikkuvat alukset, hinaajat ja työntölaitteet rakennuspäivämäärän mukaan</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Selvkørende fartøjer, slæbebåde og pushere, efter bygningsdato</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Plovila na lastni pogon, vlačilci in potiskalniki, do datuma gradnje</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Plavidla s vlastním pohonem, remorkéry a tlačné čluny, podle data stavby</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-30</dct:modified>
+        <dct:identifier>iww_eq_age</dct:identifier>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Brodovi, tegljači i potiskivači na vlastiti pogon, prema datumu gradnje</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Самохідні судна, буксири і штовхачі, за датою будівництва</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Bastimenti awtopropulsivi, laneċ tal-irmonk u mbuttar, skont id-data tal-kostruzzjoni</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Navi semoventi, rimorchiatori e spintori, per data di costruzione</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Savaeigiai laivai, vilkikai ir stūmikai pagal pastatymo datą</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Nave autopropulsate, remorchere și împingătoare, după data construcției</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Pašgājēji kuģi, velkoņi un stūmēji, pēc būvniecības datuma</dct:title>
+        <dct:title xml:lang="fr">Bateaux automoteurs, remorqueurs et pousseurs, par date de construction</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a5363595-47e5-4f43-85a5-7e481f306fc3">
+            <dct:title xml:lang="de">Gütermotorschiffe und Güterschleppkähne, Schubboote und Schub-Schleppboote, nach Baujahr</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="fr">Bateaux automoteurs, remorqueurs et pousseurs, par date de construction</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/5f2da59e-262c-40cc-9e93-aa6b8970f474</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/iww_eq_age.tsv.gz"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="en">Self-propelled vessels, tugs and pushers, by date of construction</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Önjáró hajók, vontatók és tológépek az építés időpontja szerint</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e7c1242e-9552-4426-ad9b-a761848b06a7">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/iww_eq_age.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="en">Self-propelled vessels, tugs and pushers, by date of construction</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/97096715-1a42-4e65-8126-86bf8471a66f</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="fr">Bateaux automoteurs, remorqueurs et pousseurs, par date de construction</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Gütermotorschiffe und Güterschleppkähne, Schubboote und Schub-Schleppboote, nach Baujahr</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:03:19Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:05:29Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:05:29Z</edp:transIssued>
+    <dct:identifier>K925WsRulpOLu8gZOj2pvg</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>e2a2ac3b09f59c9c4805babcde044ea8</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/k925wsrulpolu8gzoj2pvg"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

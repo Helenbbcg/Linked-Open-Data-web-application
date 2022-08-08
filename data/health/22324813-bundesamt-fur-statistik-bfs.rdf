@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/22324813-bundesamt-fur-statistik-bfs">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:54Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:46:26Z</edp:transReceived>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:00Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:54Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/22324813-bundesamt-fur-statistik-bfs"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>ea9e81c0c0e4077ed10d360dc4ea6f6e</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:identifier>22324813@bundesamt-fur-statistik-bfs</dct:identifier>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/22324813-bundesamt-fur-statistik-bfs">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:48:33.472681</dct:modified>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/39530538-cf08-43dc-abd3-3b6cd2e876ba">
+            <dct:title xml:lang="en-t-de-t0-mtec">Healthcare Costs by Benefits</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Náklady na zdravotní péči podle přínosů</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.05.01.03"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Coût des soins de santé par prestation</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Sjukvårdskostnader efter fördelar</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Разходите за здравеопазване според ползите</dct:title>
+            <dct:title xml:lang="de">Kosten des Gesundheitswesens nach Leistungen</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros išlaidos pagal naudą</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Custos de Saúde por Benefícios</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Το κόστος της υγειονομικής περίθαλψης από τα οφέλη</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Витрати на охорону здоров'я за пільгами</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Spejjeż tal-kura tas-saħħa skont il-Benefiċċji</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Costi sanitari per benefici</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Troškovi zdravstvene skrbi po naknadama</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Costurile asistenței medicale în funcție de beneficii</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Koszty opieki zdrowotnej według korzyści</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes izmaksas pa ieguvumiem</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zorgkosten op basis van voordelen</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Stroški zdravstvenega varstva po ugodnostih</dct:title>
+            <dct:identifier>22324819-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Costos de atención médica por beneficios</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egészségügyi költségek előnyök szerint</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sundhedsudgifter efter fordele</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Costais Cúram Sláinte de réir Sochar</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon kustannukset hyötyjen mukaan</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Náklady na zdravotnú starostlivosť podľa výhod</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiukulud hüvitiste kaupa</dct:title>
+            <dct:format>HTML</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Витрати на охорону здоров'я за пільгами</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Costurile asistenței medicale în funcție de beneficii</dct:title>
+        <dcat:keyword xml:lang="en">statistic-on-the-costs-and-financing-of-the-health-system</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Healthcare Costs by Benefits</dct:title>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="it">costi-e-finanziamento-del-sistema-sanitario</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Troškovi zdravstvene skrbi po naknadama</dct:title>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Разходите за здравеопазване според ползите</dct:title>
+        <dct:identifier>22324813@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiukulud hüvitiste kaupa</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2f06f6bb-ff3c-406e-b64f-0aab561f0705">
+            <dct:title xml:lang="es-t-fr-t0-mtec">Costos del sistema de salud por beneficio</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Kosten van het gezondheidszorgstelsel naar baten</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Витрати на охорону здоров'я за вигодою</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi kulud hüvitiste kaupa</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Custos do sistema de saúde por benefício</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Udgifter til sundhedssystemet efter fordel</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Costais an chórais sláinte de réir sochair</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Spejjeż tas-sistema tas-saħħa skont il-benefiċċju</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Kosten des Gesundheitssystems nach Leistungen</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Náklady na systém zdravotní péče podle přínosů</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Costi del sistema sanitario per benefici</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Koszty systemu opieki zdrowotnej według korzyści</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészségügyi rendszer költségei előnyök szerint</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.05.01.03"/>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Troškovi zdravstvenog sustava prema koristima</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Costurile sistemului de sănătate în funcție de beneficii</dct:title>
+            <dct:title xml:lang="fr">Coûts du système de santé selon les prestations</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Náklady na systém zdravotnej starostlivosti podľa prínosu</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Stroški zdravstvenega sistema po koristih</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos priežiūros sistemos išlaidos pagal naudą</dct:title>
+            <dct:identifier>22324824-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health system costs by benefit</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän kustannukset hyötyjen mukaan</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Разходи за здравната система според ползите</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Κόστος του συστήματος υγείας ανά όφελος</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas izmaksas pa ieguvumiem</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Kostnader för hälso- och sjukvårdssystemet per förmån</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e668dc4a-1273-4744-8712-72b600eeddab">
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324819/master"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Costurile asistenței medicale în funcție de beneficii</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324819/master"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon kustannukset hyötyjen mukaan</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Coût des soins de santé par prestation</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Sjukvårdskostnader efter fördelar</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Costais Cúram Sláinte de réir Sochar</dct:title>
+            <dct:identifier>22324819-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Costi sanitari per benefici</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiukulud hüvitiste kaupa</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Healthcare Costs by Benefits</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Spejjeż tal-kura tas-saħħa skont il-Benefiċċji</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Stroški zdravstvenega varstva po ugodnostih</dct:title>
+            <dct:title xml:lang="de">Kosten des Gesundheitswesens nach Leistungen</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Koszty opieki zdrowotnej według korzyści</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Troškovi zdravstvene skrbi po naknadama</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-11T00:00:00</dct:modified>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes izmaksas pa ieguvumiem</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zorgkosten op basis van voordelen</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Το κόστος της υγειονομικής περίθαλψης από τα οφέλη</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Náklady na zdravotní péči podle přínosů</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Разходите за здравеопазване според ползите</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Costos de atención médica por beneficios</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Náklady na zdravotnú starostlivosť podľa výhod</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sundhedsudgifter efter fordele</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros išlaidos pagal naudą</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Custos de Saúde por Benefícios</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Витрати на охорону здоров'я за пільгами</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egészségügyi költségek előnyök szerint</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Zorgkosten op basis van voordelen</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="fr">Coûts du système de santé selon les prestations</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Costi sanitari per benefici</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Costos de atención médica por beneficios</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.05.01.03"/>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Sundhedsudgifter efter fordele</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon kustannukset hyötyjen mukaan</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:title xml:lang="el-t-de-t0-mtec">Το κόστος της υγειονομικής περίθαλψης από τα οφέλη</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Custos de Saúde por Benefícios</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros išlaidos pagal naudą</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Spejjeż tal-kura tas-saħħa skont il-Benefiċċji</dct:title>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes izmaksas pa ieguvumiem</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5713158d-1a1a-4e57-835d-0d18bab7ea38">
+            <dct:identifier>22324824-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészségügyi rendszer költségei előnyök szerint</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Spejjeż tas-sistema tas-saħħa skont il-benefiċċju</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Costais an chórais sláinte de réir sochair</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Náklady na systém zdravotnej starostlivosti podľa prínosu</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos priežiūros sistemos išlaidos pagal naudą</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Koszty systemu opieki zdrowotnej według korzyści</dct:title>
+            <dct:title xml:lang="fr">Coûts du système de santé selon les prestations</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Разходи за здравната система според ползите</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324824/master"/>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Kosten des Gesundheitssystems nach Leistungen</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Costurile sistemului de sănătate în funcție de beneficii</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi kulud hüvitiste kaupa</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Stroški zdravstvenega sistema po koristih</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Troškovi zdravstvenog sustava prema koristima</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Kosten van het gezondheidszorgstelsel naar baten</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Náklady na systém zdravotní péče podle přínosů</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22324824/master"/>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Витрати на охорону здоров'я за вигодою</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Custos do sistema de saúde por benefício</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Κόστος του συστήματος υγείας ανά όφελος</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Udgifter til sundhedssystemet efter fordel</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health system costs by benefit</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Kostnader för hälso- och sjukvårdssystemet per förmån</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-11T00:00:00</dct:modified>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän kustannukset hyötyjen mukaan</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas izmaksas pa ieguvumiem</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Costos del sistema de salud por beneficio</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Costi del sistema sanitario per benefici</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Kosten des Gesundheitswesens nach Leistungen</dct:title>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="fr">couts-et-financement-du-systeme-de-sante</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Costais Cúram Sláinte de réir Sochar</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Sjukvårdskostnader efter fördelar</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-26T00:00:00</dct:issued>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Náklady na zdravotnú starostlivosť podľa výhod</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Koszty opieki zdrowotnej według korzyści</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Náklady na zdravotní péči podle přínosů</dct:title>
+        <dcat:keyword xml:lang="de">kosten-und-finanzierung-des-gesundheitswesens</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Stroški zdravstvenega varstva po ugodnostih</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Egészségügyi költségek előnyök szerint</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

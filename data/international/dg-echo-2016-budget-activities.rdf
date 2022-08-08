@@ -1,0 +1,682 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/dg-echo-2016-budget-activities">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:50:11Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:13:22Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/dg-echo-2016-budget-activities">
+        <dct:description xml:lang="sl-t-en-t0-mtec">Evropski informacijski sistem za odzivanje na nesreče (EDRIS) vsebuje poročilo o dejavnostih humanitarne pomoči za vse dejavnosti, ki se financirajo iz proračuna Evropske komisije prek Generalnega direktorata za evropsko civilno zaščito in operacije humanitarne pomoči (ECHO). 
+ 
+Ta nabor podatkov vsebuje poročila za leto 2016.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9a65587e-56da-4d78-a363-798bc0684f92">
+            <dct:title xml:lang="de-t-en-t0-mtec">Humanitäre Hilfe, die aus dem EG-Haushalt 2016 über die GD ECHO finanziert wird</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ανθρωπιστική βοήθεια που χρηματοδοτείται από τον προϋπολογισμό της Ευρωπαϊκής Επιτροπής για το 2016 μέσω της ΓΔ ECHO</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">L-indirizz URL jipprovdi aċċess għad-dejta mhux ipproċessata rikka.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Humanitaire hulp gefinancierd uit de EG-begroting 2016 via DG ECHO</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Humanitární pomoc financovaná z rozpočtu ES na rok 2016 prostřednictvím GŘ ECHO</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">La dirección URL proporciona acceso a los datos en bruto enriquecidos.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">URL-adressen giver adgang til de rige rå data.</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/xml"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="et-t-en-t0-mtec">Humanitaarabi, mida rahastatakse EÜ 2016. aasta eelarvest humanitaarabi peadirektoraadi kaudu</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an seoladh URL rochtain ar na sonraí saibhir amh.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Pomoc humanitarna finansowana z budżetu KE na 2016 r. z DG ECHO</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Adresa URL oferă acces la datele brute bogate.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">EU:n vuoden 2016 talousarviosta ECHOn kautta rahoitettava humanitaarinen apu</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η διεύθυνση URL παρέχει πρόσβαση στα πλούσια ανεπεξέργαστα δεδομένα.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Humanitarinė pagalba, finansuojama iš 2016 m. EK biudžeto per Humanitarinės pagalbos ir civilinės saugos GD</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+            </dct:format>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Aide humanitaire financée par le budget 2016 de la CE par l’intermédiaire de la DG ECHO</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Humānā palīdzība, ko finansē no EK 2016. gada budžeta ar ECHO ĢD starpniecību</dct:title>
+            <dcat:accessURL rdf:resource="https://webgate.ec.europa.eu/hac/IATI/ec-echo-2016.xml"/>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Cabhair dhaonnúil arna maoiniú ag buiséad an Choimisiúin do 2016 trí AS ECHO</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Die URL-Adresse bietet Zugriff auf die reichen Rohdaten.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">URL-adressen ger tillgång till de rika rådata.</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Naslov URL omogoča dostop do bogatih neobdelanih podatkov.</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Humanitær bistand finansieret over EU's budget for 2016 gennem GD ECHO</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">URL-osoite tarjoaa pääsyn rikkaisiin raakatietoihin.</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het URL-adres biedt toegang tot de rijke ruwe gegevens.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Adresa URL poskytuje přístup k bohatým nezpracovaným datům.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">L’adresse URL donne accès aux données brutes riches.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Хуманитарна помощ, финансирана от бюджета на ЕК за 2016 г. чрез ГД „Хуманитарна помощ“</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">URL adrese nodrošina piekļuvi bagātīgajiem neapstrādātiem datiem.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Ajuda humanitária financiada pelo orçamento da CE para 2016 através da DG ECHO</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Humanitarna pomoč, ki se financira iz proračuna Evropske komisije za leto 2016 prek GD ECHO</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">URL adresa omogućuje pristup bogatim neobrađenim podacima.</dct:description>
+            <dct:description xml:lang="en">The URL address provides access to the rich raw data.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">URL adresa poskytuje prístup k bohatým surovým dátam.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Az Európai Bizottság 2016. évi költségvetéséből a Humanitárius Segélyek és Polgári Védelem Főigazgatóságán keresztül finanszírozott humanitárius segítségnyújtás</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O endereço URL fornece acesso aos dados brutos ricos.</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="es-t-en-t0-mtec">Ayuda humanitaria financiada por el presupuesto de la CE de 2016 a través de la DG ECHO</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Adres URL zapewnia dostęp do bogatych danych surowych.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">URL адресът осигурява достъп до богатите необработени данни.</dct:description>
+            <dct:title xml:lang="en">Humanitarian aid financed by the 2016 EC budget through DG ECHO</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Għajnuna umanitarja ffinanzjata mill-baġit tal-KE għall-2016 permezz tad-DĠ ECHO</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Humanitarna pomoć financirana iz proračuna EK-a za 2016. putem Glavne uprave ECHO</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="lt-t-en-t0-mtec">URL adresas suteikia prieigą prie turtingų neapdorotų duomenų.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Ajutor umanitar finanțat din bugetul CE 2016 prin intermediul DG ECHO</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az URL-cím hozzáférést biztosít a gazdag nyers adatokhoz.</dct:description>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:identifier>http://data.europa.eu/88u/distribution/83b42b4b-1642-457f-9335-9233c957ccba</dct:identifier>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Humanitärt bistånd som finansieras genom EU:s budget för 2016 genom GD Echo</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Humanitárna pomoc financovaná z rozpočtu EK na rok 2016 prostredníctvom GR ECHO</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Aiuti umanitari finanziati dal bilancio UE 2016 tramite la DG ECHO</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">URL-aadress võimaldab juurdepääsu rikkalikele toorandmetele.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">L'indirizzo URL consente l'accesso ai dati grezzi ricchi.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en">Humanitarian aid financed by the 2016 EC budget through DG ECHO</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/bcb64713-58c6-4074-a78a-4e1fb1f4ccce">
+            <vcard:hasEmail rdf:resource="mailto:ECHO-HOLIS@ec.europa.eu"/>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="https://ec.europa.eu/echo/contact_en">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>https://ec.europa.eu/echo/contact_en</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO)</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Europejski system informacji na temat reagowania na klęski żywiołowe (EDRIS) zawiera sprawozdanie z działalności w zakresie pomocy humanitarnej dla wszystkich działań finansowanych z budżetu Komisji Europejskiej za pośrednictwem Dyrekcji Generalnej ds. Europejskich Operacji Ochrony Ludności i Pomocy Humanitarnej (ECHO). 
+ 
+Ten zbiór danych zawiera sprawozdania za rok 2016.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3074"/>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Is-Sistema Ewropea ta’ Informazzjoni dwar ir-Rispons ta’ Diżastri f’Emerġenza (EDRIS) fiha rapport ta’ attività tal-Għajnuna Umanitarja għall-attivitajiet kollha ffinanzjati mill-baġit tal-Kummissjoni Ewropea permezz tad-Direttorat Ġenerali għall-Protezzjoni Ċivili u l-Operazzjonijiet tal-Għajnuna Umanitarja Ewropej (ECHO). 
+ 
+Dan is-sett ta’ data fih rapporti għas-sena 2016.</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Humanitaire hulp gefinancierd uit de EG-begroting 2016 via DG ECHO</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/862"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <j.0:datasetGroup rdf:resource="file:///usr/verticles/eu-budget-and-spending"/>
+        <dcat:keyword xml:lang="en">group-transparency</dcat:keyword>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az Európai Veszélyhelyzet-reagálási Információs Rendszer (EDRIS) humanitárius segítségnyújtási tevékenységi jelentést tartalmaz az Európai Bizottság költségvetése által az Európai Polgári Védelem és Humanitárius Segítségnyújtási Műveletek Főigazgatóságán (ECHO) keresztül finanszírozott valamennyi tevékenységre vonatkozóan. 
+ 
+Ez az adatkészlet 2016-ra vonatkozó jelentéseket tartalmaz.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Humanitarna pomoć financirana iz proračuna EK-a za 2016. putem Glavne uprave ECHO</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Europski informacijski sustav za odgovor na hitne situacije (EDRIS) sadržava izvješće o aktivnostima humanitarne pomoći za sve aktivnosti koje se financiraju iz proračuna Europske komisije putem Glavne uprave za europsku civilnu zaštitu i europske operacije humanitarne pomoći (ECHO). 
+ 
+Ovaj skup podataka sadržava izvješća za 2016. godinu.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Humanitárna pomoc financovaná z rozpočtu EK na rok 2016 prostredníctvom GR ECHO</dct:title>
+        <dcat:keyword xml:lang="en">group-eu-budget-and-spending</dcat:keyword>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/860dfb8a-52d4-4083-84c6-edb867fa8041">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2016-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Европейската информационна система за реагиране при бедствия (EDRIS) съдържа доклад за дейността в областта на хуманитарната помощ за всички дейности, финансирани от бюджета на Европейската комисия чрез Генерална дирекция „Европейска гражданска защита и европейски операции за хуманитарна помощ“. 
+ 
+Този набор от данни съдържа доклади за 2016 г.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6f09ab6f-c125-4e5d-84c7-7f7733f086cc">
+            <dct:description xml:lang="fi-t-en-t0-mtec">CSV-muuntotyökalu, joka tarjoaa mahdollisuuden joko (1) valita muunnettavat tiedot (IATI-rekisteristä) tai (2) valita THREE:n käytettävissä olevista IATI-tietojen CSV-sarjoista: 
+a) Yksinkertainen aktiivisuustiivistelmä (CSV). 
+Ylimmän tason tiedot rivillä kustakin tukitoimesta. Kunkin tapahtumatyypin kokonaisluvut. Alakohtaiset koodit ovat ”;” erillisinä luetteloina. Hyödyllinen perustutkimuksessa. 
+b) Täydelliset toimintotiedot (CSV). 
+Täysi litistetty versio kustakin IATI-toimintatietueesta – yksi rivi toimintoa kohti. Jos sarakkeessa on useita arvoja (esim. useita sektoreita tai useita taloustoimia), ne erotetaan toisistaan ”;”. 
+C) Kaikki liiketoimet (CSV).  
+Yksityiskohtainen luettelo kaikista liiketoimista valuutoilla, määrillä ja luokituksilla kunkin liiketoimen osalta.</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:title xml:lang="cs-t-en-t0-mtec">CSV konverzní nástroj</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">CSV konverteerimise tööriist</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">CSV konvertavimo priemonė, suteikianti galimybę (1) pasirinkti duomenis konvertuoti (iš IATI registro) arba (2) pasirinkti iš THREE turimų IATI duomenų CSV serijos įrašų: 
+(a) Paprastoji veiklos santrauka (CSV). 
+Aukščiausio lygio informacija su eilutėmis apie kiekvieną pagalbos veiklą. Iš viso pagal kiekvieną sandorio rūšį. Sektorių kodai pateikiami kaip „;“ atskiras sąrašas. Naudinga fundamentiniams tyrimams. 
+b) pilni veiklos duomenys (CSV). 
+Išsami kiekvieno IATI veiklos įrašo versija – viena eilutė vienai veiklos rūšiai. Jei stulpelyje yra kelios vertės (pvz., keli sektoriai arba daugelis sandorių), jos atskiriamos „;“. 
+C) Visi sandoriai (BSV).  
+Išsamus visų sandorių sąrašas, nurodant valiutas, sumas ir klasifikaciją, nurodant eilutę kiekvienam sandoriui.</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">CSV konverziós eszköz</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Orodje za pretvorbo CSV</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Herramienta de conversión CSV</dct:title>
+            <dcat:accessURL rdf:resource="http://csvdownloader.iatistandard.org/csv/direct_from_registry/?xml=https%3A//webgate.ec.europa.eu/hac/IATI/ec-echo-2016.xml"/>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Dostupan alat za pretvorbu CSV-a koji nudi mogućnost za (1) odabir podataka za pretvaranje (iz registra IATI) ili (2) odabir među dostupnim CSV serijalizacijama podataka IATI: 
+(a) Jednostavan sažetak aktivnosti (CSV). 
+Informacije na najvišoj razini s redom za svaku aktivnost potpore. Ukupni iznosi za svaku vrstu transakcije. Oznake sektora uključene su kao „;” odvojeni popis. Korisno za osnovna istraživanja. 
+(b) Cijeli podaci o aktivnostima (CSV). 
+Potpuna spljoštena verzija svakog zapisa o aktivnostima IATI-ja – jedan redak po aktivnosti. Ako postoji više vrijednosti za stupac (npr. više sektora ili mnogo transakcija), one su odvojene s „;”. 
+(C) Sve transakcije (CSV).  
+Detaljan popis svih transakcija, s valutama, iznosima i klasifikacijama s retkom za svaku transakciju.</dct:description>
+            <dcat:downloadURL rdf:resource="http://csvdownloader.iatistandard.org/csv/direct_from_registry/?xml=https%3A//webgate.ec.europa.eu/hac/IATI/ec-echo-2016.xml"/>
+            <dct:description xml:lang="it-t-en-t0-mtec">Strumento di conversione CSV disponibile che offre l'opzione di (1) selezionare i dati da convertire (dal registro IATI) o (2) selezionare tra le TRE serializzazioni CSV disponibili di dati IATI:
+ 
+(a) Semplice sintesi delle attività (CSV).
+
+
+Informazioni di alto livello con una riga per ciascuna attività di aiuto.
+Cifre totali per ciascun tipo di operazione.
+I codici settoriali sono inclusi come elenco separato ";".
+Utile per la ricerca di base.
+
+
+(B) Dati completi sull'attività (CSV).
+
+
+Versione completa appiattita di ogni record di attività IATI — una riga per attività.
+Se esistono valori multipli per una colonna (ad esempio più settori, o molte operazioni), questi sono separati da ";".
+
+
+C) Tutte le transazioni (CSV).
+
+
+Elenco dettagliato di tutte le operazioni, con valute, importi e classificazioni con una riga per ciascuna operazione.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">CSV konvertering værktøj til rådighed tilbyder mulighed for enten (1) vælge de data, der skal konverteres (fra IATI registreringsdatabasen) eller (2) vælge blandt THREE tilgængelige CSV serialiseringer af IATI data: 
+(a) Enkelt aktivitetsresumé (CSV). 
+Oplysninger på øverste niveau med en række for hver hjælpeaktivitet. Samlede tal for hver type transaktion. Sektorkoder er medtaget som en ";" separat liste. Nyttig til grundforskning. 
+fuldstændige aktivitetsdata (CSV). 
+Fuld fladtrykt version af hver IATI-aktivitetspost — en række pr. aktivitet. Hvis der findes flere værdier for en kolonne (f.eks. flere sektorer eller mange transaktioner), adskilles disse af ";". 
+C) Alle transaktioner (CSV).  
+Detaljeret liste over alle transaktioner med valutaer, beløb og klassifikationer med en række for hver transaktion.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">CSV konverzný nástroj, ktorý ponúka možnosť buď (1) vybrať dáta na konverziu (z registra IATI) alebo (2) vybrať medzi THREE dostupné CSV serializácie IATI dát:
+ 
+a) Jednoduché zhrnutie činnosti (CSV).
+
+
+Informácie na najvyššej úrovni s riadkom pre každú činnosť pomoci.
+Celkové údaje za každý druh transakcie.
+Sektorové kódy sú zahrnuté ako oddelený zoznam „;“.
+Užitočné pre základný výskum.
+
+
+b) Úplné údaje o činnosti (CSV).
+
+
+Plne sploštená verzia každého záznamu o aktivite IATI – jeden riadok na činnosť.
+Ak existuje viacero hodnôt pre stĺpec (napr. viaceré sektory alebo mnohé transakcie), tieto hodnoty sa oddelia „;“.
+
+
+C) Všetky transakcie (CSV).
+
+
+Podrobný zoznam všetkých transakcií s menami, sumami a klasifikáciami s riadkom pre každú transakciu.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Εργαλείο μετατροπής CSV</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Instrument de conversie CSV</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Outil de conversion CSV disponible offrant l’option soit (1) sélectionner les données à convertir (à partir du registre IATI) ou (2) sélectionner parmi THREE Sérialisations CSV des données IATI:
+  (a) Résumé des activités simples (CSV).   Informations de haut niveau avec une rangée pour chaque activité d’aide. Total des chiffres pour chaque type de transaction.Les codes sectoriels sont inclus sous la forme d’une liste séparée.
+Utile pour la recherche fondamentale. 
+(B) Données sur l’activité complète (CSV).  Version aplatie complète de chaque enregistrement d’activité IATI — une ligne par activité.
+Lorsqu’il existe plusieurs valeurs pour une colonne (par exemple, plusieurs secteurs, ou de nombreuses transactions), celles-ci sont séparées par «;».  
+(c) Toutes les transactions (CSV).
+
+
+Liste détaillée de toutes les transactions, avec devises, montants et classifications avec une ligne pour chaque transaction.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">CSV konverteerimisvahend, mis pakub võimalust kas 1) valida teisendatavad andmed (IATI registrist) või 2) valida THREE saadaolevate IATI andmete CSV seerias:
+ 
+a) Lihtne tegevuse kokkuvõte (CSV).
+
+
+Tipptasemel teave, mis sisaldab rida iga abitegevuse kohta.
+Iga tehinguliigi kohta kokku.
+Sektorikoodid on esitatud eraldi loeteluna.
+Kasulik alusuuringute jaoks.
+
+
+b) Täielikud tegevusandmed (CSV).
+
+
+Iga IATI tegevuskirje täielik lame versioon – üks rida tegevuse kohta.
+Kui veerus on mitu väärtust (nt mitu sektorit või palju tehinguid), eraldatakse need sõnadega „;“.
+
+
+C) Kõik tehingud (CSV).
+
+
+Üksikasjalik loetelu kõikidest tehingutest koos valuutade, summade ja liigitustega iga tehingu kohta järjest.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">CSV-muunnostyökalu</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Uirlis chomhshó CSV atá ar fáil ag tairiscint an rogha chun (1) roghnaigh na sonraí a thiontú (ó chlár IATI) nó (2) roghnú i measc na sraitheanna CSV THREE atá ar fáil de shonraí IATI:
+ 
+(a) Achoimre ar ghníomhaíochtaí simplí (CSV).
+
+
+Faisnéis ardleibhéil le sraith le haghaidh gach gníomhaíochta cabhrach.
+Na figiúirí iomlána do gach cineál idirbhirt.
+Áirítear cóid earnála mar liosta ‘;’ deighilte.
+Úsáideach le haghaidh taighde bunúsach.
+
+
+(b) Sonraí gníomhaíochta iomlána (CSV).
+
+
+Leagan iomlán leacaithe de gach taifead gníomhaíochta IATI — sraith amháin in aghaidh na gníomhaíochta.
+I gcás ina bhfuil illuachanna ann do cholún (e.g. ilearnálacha, nó cuid mhór idirbheart), déantar iad a dheighilt le ‘;’.
+
+
+(c) Gach idirbheart (CSV).
+
+
+Liosta mionsonraithe de na hidirbhearta uile, le hairgeadraí, méideanna agus aicmithe le ró le haghaidh gach idirbhirt.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">CSV konverteringsverktyg</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Pieejamais CSV konversijas rīks, kas piedāvā iespēju vai nu 1) atlasīt konvertējamos datus (no IATI reģistra), vai 2) izvēlēties no THREE pieejamām IATI datu CSV serializācijas:
+ 
+vienkāršs darbības kopsavilkums (CSV).
+
+
+Augstākā līmeņa informācija ar rindu par katru atbalsta darbību.
+Kopējie skaitļi par katru darījuma veidu.
+Nozaru kodi ir iekļauti kā “;” atsevišķs saraksts.
+Noderīga fundamentālajiem pētījumiem.
+
+
+(b) Pilni darbības dati (CSV).
+
+
+Katra IATI darbības ieraksta pilna saplacinātā versija — viena rinda par katru darbību.
+Ja kolonnai ir vairākas vērtības (piemēram, vairāki sektori vai daudzi darījumi), tās atdala ar “;”.
+
+
+visi darījumi (CSV).
+
+
+Detalizēts saraksts ar visiem darījumiem ar valūtām, summām un klasifikāciju ar rindu katram darījumam.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Uirlis chomhshó CSV</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">CSV konvertavimo įrankis</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">CSV konversijas rīks</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE"/>
+            <dct:description xml:lang="el-t-en-t0-mtec">Διαθέσιμο εργαλείο μετατροπής CSV που προσφέρει τη δυνατότητα είτε (1) επιλογής των δεδομένων προς μετατροπή (από το μητρώο IATI) είτε (2) επιλογής μεταξύ των διαθέσιμων σειριακών τιμών CSV THREE των δεδομένων IATI:
+  απλή περίληψη δραστηριοτήτων (CSV).   Πληροφορίες ανώτατου επιπέδου με μια σειρά για κάθε δραστηριότητα ενίσχυσης. Συνολικά αριθμητικά στοιχεία για κάθε είδος συναλλαγής.Οι τομεακοί κωδικοί περιλαμβάνονται ως «;» διαχωρισμένος κατάλογος.
+Χρήσιμο για τη βασική έρευνα. 
+πλήρη δεδομένα δραστηριότητας (CSV).  Πλήρης επίπεδη έκδοση κάθε εγγραφής δραστηριότητας IATI — μία σειρά ανά δραστηριότητα.
+Όταν υπάρχουν πολλαπλές τιμές για μια στήλη (π.χ. πολλαπλοί τομείς, ή πολλές συναλλαγές), αυτές διαχωρίζονται με «·».  
+όλες οι συναλλαγές (CSV).
+
+
+Λεπτομερής κατάλογος όλων των συναλλαγών, με νομίσματα, ποσά και ταξινομήσεις με μια γραμμή για κάθε συναλλαγή.</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Instrumentul de conversie CSV disponibil care oferă opțiunea fie (1) de a selecta datele pentru a converti (din registrul IATI) sau (2) de a selecta dintre cele trei serializări CSV disponibile ale datelor IATI:
+ 
+(a) Rezumatul activității simple (CSV).
+
+
+Informații de nivel superior cu câte un rând pentru fiecare activitate de ajutor.
+Cifre totale pentru fiecare tip de tranzacție.
+Codurile sectoriale sunt incluse sub forma unei liste separate „;”.
+Util pentru cercetarea de bază.
+
+
+(b) Date complete privind activitatea (VCS).
+
+
+Versiunea complet aplatizată a fiecărei înregistrări a activității IATI – un rând pentru fiecare activitate.
+În cazul în care există mai multe valori pentru o coloană (de exemplu, mai multe sectoare sau multe tranzacții), acestea sunt separate prin „;”.
+
+
+(C) Toate tranzacțiile (CSV).
+
+
+Lista detaliată a tuturor tranzacțiilor, cu monede, sume și clasificări, cu câte un rând pentru fiecare tranzacție.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Nástroj na konverziu CSV</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Ferramenta de conversão CSV</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">CSV konvertering værktøj</dct:title>
+            <dct:title xml:lang="en">CSV conversion tool</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="nl-t-en-t0-mtec">CSV-conversietool beschikbaar met de optie om (1) de te converteren gegevens te selecteren (uit het IATI-register) of (2) te selecteren uit THREE beschikbare CSV-serialisaties van IATI-gegevens:
+ 
+(a) Eenvoudige activiteitssamenvatting (CSV).
+
+
+Informatie op het hoogste niveau met een rij voor elke steunactiviteit.
+Totale cijfers voor elk type transactie.
+Sectorcodes zijn opgenomen als een „;” gescheiden lijst.
+Nuttig voor fundamenteel onderzoek.
+
+
+(B) Volledige activiteitsgegevens (CSV).
+
+
+Volledige afgeplatte versie van elk IATI-activiteitsrecord — één rij per activiteit.
+Wanneer er meerdere waarden bestaan voor een kolom (bv. meerdere sectoren, of veel transacties), worden deze gescheiden door „;”.
+
+
+(C) Alle transacties (CSV).
+
+
+Gedetailleerde lijst van alle transacties, met valuta’s, bedragen en classificaties met een rij voor elke transactie.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4cd74941-65a4-4f42-abc2-a13823fdba24</dct:identifier>
+            <dct:title xml:lang="it-t-en-t0-mtec">Strumento di conversione CSV</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Outil de conversion CSV</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Narzędzie do konwersji CSV</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Dostępne narzędzie do konwersji CSV oferujące opcję (1) wybranie danych do konwersji (z rejestru IATI) lub (2) wybór spośród dostępnych w THREE serializacji CSV danych IATI:
+  (a) Proste podsumowanie aktywności (CSV).   Informacje na najwyższym poziomie z wierszem dla każdego działania pomocowego. Dane liczbowe ogółem dla każdego rodzaju transakcji.Kody sektorowe są włączone jako wykaz „;”;
+Przydatne do podstawowych badań. 
+pełne dane dotyczące działalności (CSV).  Pełna spłaszczona wersja każdego rekordu aktywności IATI – jeden wiersz na działanie.
+Jeżeli istnieje wiele wartości dla danej kolumny (np. wielu sektorów lub wielu transakcji), są one oddzielone symbolem „;”.  
+C) Wszystkie transakcje (CSV).
+
+
+Szczegółowy wykaz wszystkich transakcji, z walutami, kwotami i klasyfikacją z wierszem dla każdej transakcji.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">CSV инструмент за преобразуване, предлагащ възможност за (1) изберете данните за конвертиране (от IATI регистър) или (2) изберете измежду THREE налични CSV сериализации на IATI данни: 
+а) Обикновено обобщение на дейността (CSV). 
+Информация от най-високо ниво с един ред за всяка дейност по предоставяне на помощ. Общо данни за всеки вид сделка. Секторните кодове са включени като отделен списък. Полезно за фундаментални изследвания. 
+б) Пълни данни за дейността (CSV). 
+Пълна сплескана версия на всеки запис на дейността на IATI — по един ред за всяка дейност. Когато съществуват няколко стойности за колона (напр. няколко сектора или много операции), те се разделят с „;“. 
+в) Всички трансакции (CSV).  
+Подробен списък на всички трансакции с валути, суми и класификации с един ред за всяка трансакция.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">CSV conversie tool</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">CSV alat za pretvorbu</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Orodje za pretvorbo CSV, ki ponuja možnost, da (1) izbere podatke za pretvorbo (iz registra IATI) ali (2) izbere med razpoložljivo THREE serijskimi zapisi podatkov IATI:
+  (a) Enostaven povzetek dejavnosti (CSV).   Informacije na najvišji ravni z vrstico za vsako dejavnost pomoči. Skupni zneski za vsako vrsto transakcije.Oznake sektorjev so vključene kot ločen seznam „;“.
+Uporabno za temeljne raziskave. 
+(b) podatki o celotni dejavnosti (CSV).  Popolna sploščena različica vsakega zapisa dejavnosti IATI – ena vrstica na dejavnost.
+Če za stolpec obstaja več vrednosti (npr. več sektorjev ali veliko transakcij), so te ločene z „;“.  
+(C) Vse transakcije (CSV).
+
+
+Podroben seznam vseh transakcij z valutami, zneski in klasifikacijami z vrstico za vsako transakcijo.</dct:description>
+            <dct:description xml:lang="en">CSV conversion tool available offering the option to either (1) select the data to convert (from IATI registry) or (2) select among THREE available CSV serialisations of IATI data:&#xD;
+(a) Simple activity summary (CSV).&#xD;
+Top-level information with a row for each aid activity. Total figures for each type of transaction. Sector codes are included as a ';' separated list. Useful for basic research.&#xD;
+(b) Full activity data (CSV).&#xD;
+Full flattened version of each IATI Activity record - one row per activity. Where multiple values exist for a column (e.g. multiple sectors, or many transactions) these are separated by ';'.&#xD;
+(c) All transactions (CSV).&#xD;
+Detailed list of all transactions, with currencies, amounts and classifications with a row for each transaction.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">CSV инструмент за преобразуване</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">CSV-Konvertierungstool, das die Möglichkeit bietet, entweder (1) die zu konvertierenden Daten auszuwählen (aus der IATI-Registrierung) oder (2) wählen Sie unter THREE verfügbare CSV Serialisierungen von IATI-Daten: 
+(a) Einfache Zusammenfassung der Aktivität (CSV). 
+Top-Level-Informationen mit einer Zeile für jede Hilfstätigkeit. Gesamtzahlen für jede Transaktionsart. Sektorcodes sind als „;“ getrennte Liste enthalten. Nützlich für die Grundlagenforschung. 
+B) Vollständige Aktivitätsdaten (CSV). 
+Vollständige abgeflachte Version jedes IATI-Aktivitätsrekords – eine Zeile pro Aktivität. Gibt es für eine Spalte mehrere Werte (z. B. mehrere Sektoren oder viele Transaktionen), werden diese durch „;“ getrennt. 
+(C) Alle Transaktionen (CSV).  
+Detaillierte Liste aller Transaktionen mit Währungen, Beträgen und Klassifizierungen mit einer Zeile für jede Transaktion.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Għodda ta’ konverżjoni tas-CSV disponibbli li toffri l-għażla li jew (1) tintgħażel id-data li trid tiġi kkonvertita (mir-reġistru tal-IATI) jew (2) tintgħażel fost is-serjezzazzjonijiet CSV disponibbli tat-THREE tad-data tal-IATI:
+ 
+(a) Sommarju sempliċi ta’ l-attività (CSV).
+
+
+Informazzjoni tal-ogħla livell b’ringiela għal kull attività ta’ għajnuna.
+Ċifri totali għal kull tip ta’ tranżazzjoni.
+Il-kodiċijiet tas-settur huma inklużi bħala lista separata “;”.
+Utli għar-riċerka bażika.
+
+
+(b) Data sħiħa dwar l-attività (CSV).
+
+
+Verżjoni sħiħa ċatta ta’ kull rekord ta’ Attività IATI — ringiela waħda għal kull attività.
+Fejn jeżistu diversi valuri għal kolonna (eż. diversi setturi, jew ħafna tranżazzjonijiet) dawn huma separati b’ “;”.
+
+
+(C) It-tranżazzjonijiet kollha (CSV).
+
+
+Lista dettaljata tat-tranżazzjonijiet kollha, b’muniti, ammonti u klassifikazzjonijiet b’ringiela għal kull tranżazzjoni.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Ferramenta de conversão CSV disponível oferecendo a opção de (1) selecionar os dados a converter (do registo IATI) ou (2) selecionar entre THREE serializações CSV disponíveis de dados IATI:
+ 
+a) Síntese simples da atividade (CSV).
+
+
+Informações de nível superior com uma linha para cada atividade de auxílio.
+Valores totais para cada tipo de transação.
+Os códigos setoriais são incluídos como uma lista separada «;».
+Útil para a investigação básica.
+
+
+B) Dados completos da atividade (CSV).
+
+
+Versão completa achatada de cada registo de atividade IATI — uma linha por atividade.
+Quando existem vários valores para uma coluna (por exemplo, múltiplos setores ou muitas operações), estes são separados por «;».
+
+
+C) Todas as transações (CSV).
+
+
+Lista detalhada de todas as transações, com divisas, quantias e classificações com uma linha para cada transação.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">CSV konverzní nástroj, který nabízí možnost buď (1) vybrat data, která mají být převedena (z registru IATI), nebo (2) vybrat mezi dostupnými CSV serializacemi IATI dat: 
+a) Jednoduché shrnutí činnosti (CSV). 
+Informace na nejvyšší úrovni s řádkem pro každou činnost podpory. Celkové údaje pro každý typ transakce. Kódy odvětví jsou uvedeny jako „;“ oddělený seznam. Užitečné pro základní výzkum. 
+b) Údaje o celé činnosti (CSV). 
+Plná zploštělá verze každého záznamu o aktivitě IATI – jeden řádek na každou aktivitu. Existuje-li pro sloupec více hodnot (např. více sektorů nebo mnoho transakcí), jsou tyto hodnoty odděleny znakem „;“. 
+C) Všechny transakce (CSV).  
+Podrobný seznam všech transakcí s měnami, částkami a klasifikacemi s řádkem pro každou transakci.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">CSV konverziós eszköz áll rendelkezésre, amely lehetőséget kínál arra, hogy vagy (1) válassza ki a konvertálandó adatokat (az IATI-nyilvántartásból) vagy (2) válassza ki az IATI-adatok THREE elérhető CSV szerializációi közül:
+  egyszerű tevékenység-összefoglaló (CSV).   Felső szintű információk, az egyes támogatási tevékenységekre vonatkozó sorokkal együtt. Az egyes ügylettípusokra vonatkozó összesített adatok.A szektorkódok „;” külön listaként szerepelnek.
+Hasznos alapkutatáshoz. 
+teljes tevékenységi adatok (CSV).  Minden IATI tevékenységi rekord teljes lapos változata – tevékenységenként egy sor.
+Ha több érték létezik egy oszlopra (pl. több szektorra vagy számos tranzakcióra), ezeket „;”.  
+C) Minden tranzakció (CSV).
+
+
+Az összes tranzakció részletes felsorolása, pénznemekkel, összegekkel és besorolásokkal, minden egyes ügylet sorával.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">CSV-Umwandlungswerkzeug</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <dct:description xml:lang="es-t-en-t0-mtec">Herramienta de conversión CSV disponible que ofrece la opción de (1) seleccionar los datos a convertir (del registro IATI) o (2) seleccionar entre TRES serializaciones CSV disponibles de datos IATI: 
+a) Resumen de actividad simple (CSV). 
+Información de primer nivel con una fila para cada actividad de ayuda. Cifras totales para cada tipo de transacción. Los códigos sectoriales se incluyen como una lista separada «;». Útil para la investigación básica. 
+B) Datos completos de actividad (CSV). 
+Versión aplanada completa de cada registro de actividad IATI — una fila por actividad. Cuando existan valores múltiples para una columna (por ejemplo, múltiples sectores o muchas transacciones), estos están separados por «;». 
+C) Todas las transacciones (CSV).  
+Lista detallada de todas las transacciones, con monedas, cantidades y clasificaciones con una fila para cada transacción.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">CSV konverteringsverktyg som erbjuder möjlighet att antingen (1) välja de data som ska konverteras (från IATI-registret) eller (2) välja bland THREE tillgängliga CSV serialiseringar av IATI-data:
+ 
+a) Enkel verksamhetssammanfattning (CSV).
+
+
+Information på högsta nivå med en rad för varje stödverksamhet.
+Totala siffror för varje typ av transaktion.
+Sektorkoder ingår som en separat förteckning ”;”.
+Användbar för grundforskning.
+
+
+b) Fullständiga verksamhetsuppgifter (CSV).
+
+
+Full tillplattad version av varje IATI-aktivitetspost – en rad per aktivitet.
+Om det finns flera värden för en kolumn (t.ex. flera sektorer eller många transaktioner) separeras dessa med ”;”.
+
+
+C) Alla transaktioner (CSV).
+
+
+Detaljerad förteckning över alla transaktioner, med valutor, belopp och klassificeringar med en rad för varje transaktion.</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Għodda ta ‘konverżjoni CSV</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5873"/>
+        <dct:description xml:lang="et-t-en-t0-mtec">Euroopa hädaolukordadele reageerimise infosüsteem (EDRIS) sisaldab humanitaarabi tegevusaruannet kõigi tegevuste kohta, mida rahastatakse Euroopa Komisjoni eelarvest Euroopa kodanikukaitse ja humanitaarabioperatsioonide peadirektoraadi (ECHO) kaudu. 
+ 
+See andmekogum sisaldab 2016. aasta aruandeid.</dct:description>
+        <j.0:datasetGroup rdf:resource="file:///usr/verticles/transparency"/>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan hätäavun tietojärjestelmä (EDRIS) sisältää humanitaarisen avun toimintakertomuksen kaikista toimista, jotka rahoitetaan Euroopan komission talousarviosta Euroopan pelastuspalveluasioiden ja humanitaarisen avun operaatioiden pääosaston (ECHO) kautta. 
+ 
+Tämä tietokokonaisuus sisältää raportit vuodelta 2016.</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Humānā palīdzība, ko finansē no EK 2016. gada budžeta ar ECHO ĢD starpniecību</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Humanitarinė pagalba, finansuojama iš 2016 m. EK biudžeto per Humanitarinės pagalbos ir civilinės saugos GD</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Sistemul european de informații privind răspunsul la dezastrele de urgență (EDRIS) conține un raport de activitate privind ajutorul umanitar pentru toate activitățile finanțate din bugetul Comisiei Europene prin intermediul Direcției Generale Protecție Civilă și Operațiuni Umanitare Europene (ECHO). 
+ 
+Acest set de date conține rapoarte pentru anul 2016.</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Cabhair dhaonnúil arna maoiniú ag buiséad an Choimisiúin do 2016 trí AS ECHO</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Det europeiska informationssystemet för katastrofinsatser (EDRIS) innehåller verksamhetsrapport om humanitärt bistånd för all verksamhet som finansieras genom Europeiska kommissionens budget genom generaldirektoratet för europeiskt civilskydd och humanitära biståndsinsatser (Echo). 
+ 
+Denna datauppsättning innehåller rapporter för 2016.</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Humanitarna pomoč, ki se financira iz proračuna Evropske komisije za leto 2016 prek GD ECHO</dct:title>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Aide humanitaire financée par le budget 2016 de la CE par l’intermédiaire de la DG ECHO</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Ajuda humanitária financiada pelo orçamento da CE para 2016 através da DG ECHO</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Ajutor umanitar finanțat din bugetul CE 2016 prin intermediul DG ECHO</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Het Europees Informatiesysteem voor respons bij rampen (EDRIS) bevat een activiteitenverslag over humanitaire hulp voor alle activiteiten die door het directoraat-generaal Europese Civiele Bescherming en Humanitaire Hulp (ECHO) uit de begroting van de Europese Commissie worden gefinancierd. 
+ 
+Deze dataset bevat verslagen over het jaar 2016.</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Humanitaarabi, mida rahastatakse EÜ 2016. aasta eelarvest humanitaarabi peadirektoraadi kaudu</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Humanitární pomoc financovaná z rozpočtu ES na rok 2016 prostřednictvím GŘ ECHO</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O Sistema Europeu de Informação de Resposta a Catástrofes de Emergência (EDRIS) contém um relatório de atividades no domínio da ajuda humanitária para todas as atividades financiadas pelo orçamento da Comissão Europeia através da Direção-Geral da Proteção Civil e das Operações de Ajuda Humanitária Europeias (ECHO). 
+ 
+Este conjunto de dados contém relatórios para 2016.</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://www.iatiregistry.org/dataset/ec-echo-2016">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/dg-echo-2016-budget-activities"/>
+            <schema:url>https://www.iatiregistry.org/dataset/ec-echo-2016</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="en">The European Emergency Disaster Response Information System (EDRIS) contains Humanitarian Aid activity report for all activities financed by the European Commission budget through Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO). &#xD;
+&#xD;
+This dataset contains reports for the year 2016.</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Aiuti umanitari finanziati dal bilancio UE 2016 tramite la DG ECHO</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="de-t-en-t0-mtec">Humanitäre Hilfe, die aus dem EG-Haushalt 2016 über die GD ECHO finanziert wird</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1005"/>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Хуманитарна помощ, финансирана от бюджета на ЕК за 2016 г. чрез ГД „Хуманитарна помощ“</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Evropský informační systém pro reakci na mimořádné katastrofy (EDRIS) obsahuje zprávu o činnosti humanitární pomoci pro všechny činnosti financované z rozpočtu Evropské komise prostřednictvím Generálního ředitelství pro evropskou civilní ochranu a operace humanitární pomoci (ECHO). 
+ 
+Tento soubor údajů obsahuje zprávy za rok 2016.</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Το Ευρωπαϊκό Σύστημα Πληροφοριών για την Αντιμετώπιση Καταστροφών Έκτακτης Ανάγκης (EDRIS) περιέχει έκθεση δραστηριοτήτων για την ανθρωπιστική βοήθεια για όλες τις δραστηριότητες που χρηματοδοτούνται από τον προϋπολογισμό της Ευρωπαϊκής Επιτροπής μέσω της Γενικής Διεύθυνσης Ευρωπαϊκής Πολιτικής Προστασίας και Επιχειρήσεων Ανθρωπιστικής Βοήθειας (ECHO). 
+ 
+Το εν λόγω σύνολο δεδομένων περιέχει εκθέσεις για το έτος 2016.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/261032ee-cf80-4fad-9992-39546a717fea">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Esploratore degli aiuti dell'UE</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="lt-t-en-t0-mtec">„EU Aid Explorer“</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Explorador da ajuda da UE</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Εξερευνητής βοήθειας της ΕΕ</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Изследовател на помощта на ЕС</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Průzkumník pomoci EU</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Prieskumník pomoci EÚ</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Explorador de la ayuda de la UE</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">L-Esploratur tal-Għajnuna tal-UE</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">ES palīdzības pārlūks</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">ELi abi Explorer</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/396b3c0b-72b8-49a0-aff0-5e1a83508154</dct:identifier>
+            <dct:title xml:lang="sv-t-en-t0-mtec">EU:s biståndsutforskare</dct:title>
+            <dcat:accessURL rdf:resource="https://euaidexplorer.ec.europa.eu/"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de-t-en-t0-mtec">EU-Hilfe-Explorer</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Istraživač pomoći EU-a</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">EU Aid Explorer</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">EU Aid Explorer</dct:title>
+            <dct:title xml:lang="en">EU Aid Explorer</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">EU Aid Explorer</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">EU Aid Explorer</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">EU's undersøgelse af bistand</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">An Taiscéalaí Cabhrach AE</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Explorateur de l’aide de l’UE</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">EU Aid Explorer (EU Aid Explorer)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">EU Segítségnyújtási Felderítő</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="it-t-en-t0-mtec">Il sistema europeo d'informazione sulla risposta alle catastrofi (EDRIS) contiene una relazione sulle attività di aiuto umanitario per tutte le attività finanziate dal bilancio della Commissione europea tramite la direzione generale della Protezione civile e delle operazioni di aiuto umanitario europee (ECHO). 
+ 
+Questa serie di dati contiene le relazioni per l'anno 2016.</dct:description>
+        <dct:description xml:lang="de-t-en-t0-mtec">Das Europäische Informationssystem für Katastrophenhilfe (EDRIS) enthält einen Tätigkeitsbericht über humanitäre Hilfe für alle Maßnahmen, die aus dem Haushalt der Europäischen Kommission über die Generaldirektion Europäische Katastrophenschutz und humanitäre Hilfe (ECHO) finanziert werden. 
+ 
+Dieser Datensatz enthält Berichte für das Jahr 2016.</dct:description>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Le système européen d’information sur la réaction aux catastrophes d’urgence (EDRIS) contient un rapport d’activité sur l’aide humanitaire pour toutes les activités financées par le budget de la Commission européenne par l’intermédiaire de la direction générale de la protection civile et des opérations d’aide humanitaire européennes (ECHO). 
+ 
+Cet ensemble de données contient des rapports pour l’année 2016.</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Humanitärt bistånd som finansieras genom EU:s budget för 2016 genom GD Echo</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/e2f70276-9b66-4fff-b914-6acd30061bfc">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2016-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="es-t-en-t0-mtec">Ayuda humanitaria financiada por el presupuesto de la CE de 2016 a través de la DG ECHO</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/bd410901-c178-4231-896b-a8a8a0f5e27d">
+            <vcard:organisation-name>Directorate-General for European Civil Protection and Humanitarian Aid Operations (ECHO)</vcard:organisation-name>
+            <vcard:hasURL rdf:resource="https://ec.europa.eu/echo/contact_en"/>
+            <vcard:hasEmail rdf:resource="mailto:ECHO-HOLIS@ec.europa.eu"/>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        </dct:accrualPeriodicity>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Eiropas informācijas sistēma reaģēšanai uz katastrofām (EDRIS) ietver humānās palīdzības darbības pārskatu par visām darbībām, ko finansē no Eiropas Komisijas budžeta ar Eiropas Civilās aizsardzības un humānās palīdzības operāciju ģenerāldirektorāta (ECHO) starpniecību. 
+ 
+Šajā datu kopā ir iekļauti ziņojumi par 2016. gadu.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Għajnuna umanitarja ffinanzjata mill-baġit tal-KE għall-2016 permezz tad-DĠ ECHO</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="https://webgate.ec.europa.eu/hac/listReport/Documentations_export_xml_V1.1.doc">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/dg-echo-2016-budget-activities"/>
+            <dct:description xml:lang="en">A step-by-step guide on how to export XML from within EDRIS and how to load it into Excel (including description and screenshots).</dct:description>
+            <schema:url xml:lang="en">https://webgate.ec.europa.eu/hac/listReport/Documentations_export_xml_V1.1.doc</schema:url>
+            <dct:title xml:lang="en">Learn how to manage XML data in Excel</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/DOC"/>
+            </dct:format>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="da-t-en-t0-mtec">Det europæiske informationssystem for katastrofeberedskab (EDRIS) indeholder en aktivitetsrapport om humanitær bistand for alle aktiviteter, der finansieres over Europa-Kommissionens budget gennem Generaldirektoratet for Civilbeskyttelse og Humanitære Bistandsforanstaltninger på Europæisk Plan (ECHO). 
+ 
+Dette datasæt indeholder rapporter for 2016.</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Az Európai Bizottság 2016. évi költségvetéséből a Humanitárius Segélyek és Polgári Védelem Főigazgatóságán keresztül finanszírozott humanitárius segítségnyújtás</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">EU:n vuoden 2016 talousarviosta ECHOn kautta rahoitettava humanitaarinen apu</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Pomoc humanitarna finansowana z budżetu KE na 2016 r. z DG ECHO</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Humanitær bistand finansieret over EU's budget for 2016 gennem GD ECHO</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ανθρωπιστική βοήθεια που χρηματοδοτείται από τον προϋπολογισμό της Ευρωπαϊκής Επιτροπής για το 2016 μέσω της ΓΔ ECHO</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Europos reagavimo į nelaimes informacijos sistemoje (EDRIS) pateikiama humanitarinės pagalbos veiklos ataskaita, skirta visai veiklai, kurią iš Europos Komisijos biudžeto finansuoja Europos civilinės saugos ir humanitarinės pagalbos operacijų generalinis direktoratas (ECHO). 
+ 
+Šiame duomenų rinkinyje pateikiamos 2016 m. ataskaitos.</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Sa Chóras Faisnéise Eorpach um Fhreagairt ar Thubaistí Éigeandála (EDRIS) tá tuarascáil gníomhaíochta maidir le Cabhair Dhaonnúil le haghaidh na ngníomhaíochtaí uile arna maoiniú ag buiséad an Choimisiúin Eorpaigh tríd an Ard-Stiúrthóireacht um Chosaint Shibhialta Eorpach agus um Oibríochtaí Cabhrach Daonnúla Eorpacha (ECHO). 
+ 
+Tá tuarascálacha sa tacar sonraí seo don bhliain 2016.</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">El Sistema Europeo de Información sobre Respuesta a Emergencias en Casos de Desastre (EDRIS) contiene un informe de actividades de ayuda humanitaria para todas las actividades financiadas por el presupuesto de la Comisión Europea a través de la Dirección General de Protección Civil Europea y Operaciones de Ayuda Humanitaria (ECHO). 
+ 
+Este conjunto de datos contiene informes para el año 2016.</dct:description>
+        <dct:isPartOf rdf:resource="https://data.europa.eu/euodp/en/data/dataset/edris-european-emergency-disaster-response-information-system"/>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ECHO"/>
+        </dct:publisher>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Európsky informačný systém reakcie na núdzové katastrofy (EDRIS) obsahuje správu o činnosti humanitárnej pomoci pre všetky činnosti financované z rozpočtu Európskej komisie prostredníctvom Generálneho riaditeľstva pre európsku civilnú ochranu a operácie humanitárnej pomoci (ECHO). 
+ 
+Tento súbor údajov obsahuje správy za rok 2016.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T17:26:18Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/dg-echo-2016-budget-activities"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:identifier>dg-echo-2016-budget-activities</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>9e330c567e03d46bc74484202e1773e0</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:13:07Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

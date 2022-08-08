@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/dg-near-organisation-information">
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-04T06:30:31Z</edp:transReceived>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:36:58Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:00:41Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>dd8cf01948661953ce19bc9078ae635a</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>dg-near-organisation-information</dct:identifier>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/dg-near-organisation-information">
+        <dct:title xml:lang="es-t-en-t0-mtec">DG NEAR — Información de la organización</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2285"/>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Faisnéis eagraíochta AS NEAR</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4057"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/6710"/>
+        <dct:title xml:lang="hu-t-en-t0-mtec">DG NEAR – Szervezeti információk</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/7132"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/563a5c71-4ad4-47ba-b021-4cc5e51c884f">
+            <dct:title xml:lang="fr-t-en-t0-mtec">Dossier d’organisation de la DG NEAR IATI</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o strategiji GU-a NEAR za pretpristupnu pomoć, strateškim dokumentima, upravljanoj pomoći, godišnjem izvješćivanju, proračunu.</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Datoteka organizacije DG NEAR IATI</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre a estratégia da DG NEAR em matéria de assistência de pré-adesão, documentos de estratégia, assistência gerida, relatórios anuais, orçamento.</dct:description>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/iati_organisation_near.xml"/>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Processo de organização da DG NEAR IATI</dct:title>
+            <dct:description xml:lang="en">Information on DG NEAR strategy for pre-accession assistance, strategy papers, managed assistance, annual reporting, budget.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">IATI ĢD organizācijas datne</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Naabruspoliitika ja laienemisläbirääkimiste peadirektoraadi IATI organisatsiooni fail</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar l-istrateġija tad-DĠ NEAR għall-assistenza ta’ qabel l-adeżjoni, dokumenti ta’ strateġija, assistenza ġestita, rappurtar annwali, baġit.</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Fajl tal-Organizzazzjoni tad-DĠ NEAR IATI</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">GD NEAR IATI:s organisationsfil</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur la stratégie de la DG NEAR pour l’aide de préadhésion, documents de stratégie, aide gérée, rapports annuels, budget.</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o strategiji GD NEAR za predpristopno pomoč, strateški dokumenti, upravljana pomoč, letno poročanje, proračun.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tietoa naapuruuspolitiikan ja laajentumisneuvottelujen pääosaston liittymistä valmistelevaa tukea koskevasta strategiasta, strategia-asiakirjoista, hallinnoidusta avusta, vuotuisesta raportoinnista, talousarviosta.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/iati_organisation_near.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-10-31T11:43:04.215907+02:00</dct:issued>
+            <dct:title xml:lang="el-t-en-t0-mtec">Φάκελος οργάνωσης της ΓΔ NEAR IATI</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat strategii DG NEAR w zakresie pomocy przedakcesyjnej, dokumentów strategicznych, pomocy zarządzanej, sprawozdawczości rocznej, budżetu.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Informace o strategii GŘ NEAR pro předvstupní pomoc, strategické dokumenty, řízenou pomoc, výroční zprávy, rozpočet.</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over de strategie van DG NEAR voor pretoetredingssteun, strategiedocumenten, beheerde bijstand, jaarlijkse verslaglegging, begroting.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Datei der GD NEAR IATI Organisation</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Dosarul organizației DG NEAR IATI</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Dossier organizzativo della DG NEAR IATI</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Információk a DG NEAR előcsatlakozási támogatásra vonatkozó stratégiájáról, stratégiai dokumentumok, irányított támogatás, éves jelentéstétel, költségvetés.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">DG NEAR IATI organizacinė byla</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind strategia DG NEAR pentru asistența pentru preaderare, documente de strategie, asistență gestionată, raportare anuală, buget.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Информация относно стратегията на ГД „Политика за съседство и преговори за разширяване“ за предприсъединителна помощ, стратегически документи, управлявана помощ, годишно докладване, бюджет.</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">DG NEAR IATI Organisation File</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Comhad Eagraíochta IATI AS NEAR</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Dokumentacja dotycząca organizacji DG NEAR IATI</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis faoi straitéis AS NEAR um Chúnamh Réamhaontachais, páipéir straitéise, cúnamh bainistithe, tuairisciú bliantúil, buiséad.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A DG NEAR IATI szervezeti dokumentációja</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie NEAR GD pasirengimo narystei pagalbos strategiją, strateginius dokumentus, valdomą pagalbą, metines ataskaitas, biudžetą.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om GD NEAR's strategi for førtiltrædelsesbistand, strategidokumenter, forvaltet bistand, årlig rapportering og budget.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sulla strategia della DG NEAR per l'assistenza preadesione, documenti di strategia, assistenza gestita, relazioni annuali, bilancio.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Naapuruuspolitiikan ja laajentumisneuvottelujen pääosaston IATI-organisaatiotiedosto</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/xml"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par NEAR ĢD pirmspievienošanās palīdzības stratēģiju, stratēģijas dokumentiem, pārvaldīto palīdzību, gada pārskatiem, budžetu.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">Información sobre la estrategia de la DG NEAR para la ayuda de preadhesión, los documentos de estrategia, la asistencia gestionada, la presentación de informes anuales y el presupuesto.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Dokument o organizaciji GD NEAR IATI</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Досие на организацията на ГД „Политика за съседство и преговори за разширяване“</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">GD NEAR IATI-organisationsfil</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με τη στρατηγική της ΓΔ NEAR για την προενταξιακή βοήθεια, τα έγγραφα στρατηγικής, τη διαχείριση της βοήθειας, την ετήσια υποβολή εκθέσεων, τον προϋπολογισμό.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o stratégii GR NEAR pre predvstupovú pomoc, strategické dokumenty, riadenú pomoc, výročné správy, rozpočet.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Information om GD Grannskapspolitik och utvidgningsförhandlingars strategi för föranslutningsstöd, strategidokument, förvaltat stöd, årlig rapportering och budget.</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:description xml:lang="et-t-en-t0-mtec">Teave naabruspoliitika ja laienemisläbirääkimiste peadirektoraadi ühinemiseelse abi strateegia, strateegiadokumentide, hallatud abi, iga-aastase aruandluse ja eelarve kohta.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Soubor organizace GŘ NEAR IATI</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Dossier van de organisatie van DG NEAR IATI</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Archivo de organización DG NEAR IATI</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Informationen über die Strategie der GD NEAR für Heranführungshilfe, Strategiepapiere, verwaltete Hilfe, jährliche Berichterstattung, Haushalt.</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+            </dct:format>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Organizačná zložka GR NEAR IATI</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/a2d3b015-e1ba-48be-b614-7016b995733a</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">European Neighbourhood Partnership Instrument</dcat:keyword>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teave naabruspoliitika ja laienemisläbirääkimiste peadirektoraadi ühinemiseelse abi strateegia, strateegiadokumentide, hallatud abi, iga-aastase aruandluse ja eelarve kohta.</dct:description>
+        <dcat:keyword xml:lang="en">Neighbourhood South</dcat:keyword>
+        <dct:title xml:lang="pt-t-en-t0-mtec">DG NEAR — Informações sobre a organização</dct:title>
+        <dcat:keyword xml:lang="en">Neighbourhood East</dcat:keyword>
+        <dct:title xml:lang="it-t-en-t0-mtec">DG NEAR — Informazioni sull'organizzazione</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">GD NEAR — Oplysninger om organisationen</dct:title>
+        <dcat:keyword xml:lang="en">Strategy Papers</dcat:keyword>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:description xml:lang="de-t-en-t0-mtec">Informationen über die Strategie der GD NEAR für Heranführungshilfe, Strategiepapiere, verwaltete Hilfe, jährliche Berichterstattung, Haushalt.</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie NEAR GD pasirengimo narystei pagalbos strategiją, strateginius dokumentus, valdomą pagalbą, metines ataskaitas, biudžetą.</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Naabruspoliitika ja laienemisläbirääkimiste peadirektoraat – organisatsiooni teave</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">DĠ NEAR — Informazzjoni dwar l-organizzazzjoni</dct:title>
+        <dcat:keyword xml:lang="en">IPA</dcat:keyword>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis faoi straitéis AS NEAR um Chúnamh Réamhaontachais, páipéir straitéise, cúnamh bainistithe, tuairisciú bliantúil, buiséad.</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om GD NEAR's strategi for førtiltrædelsesbistand, strategidokumenter, forvaltet bistand, årlig rapportering og budget.</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar l-istrateġija tad-DĠ NEAR għall-assistenza ta’ qabel l-adeżjoni, dokumenti ta’ strateġija, assistenza ġestita, rappurtar annwali, baġit.</dct:description>
+        <dcat:keyword xml:lang="en">European Neighbourhood Instrument</dcat:keyword>
+        <dct:title xml:lang="bg-t-en-t0-mtec">ГД „Политика за съседство и преговори за разширяване“ — Информация за организацията</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-07-27</dct:issued>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind strategia DG NEAR pentru asistența pentru preaderare, documente de strategie, asistență gestionată, raportare anuală, buget.</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">NEAR ĢD — informācija par organizācijām</dct:title>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        </dct:accrualPeriodicity>
+        <dcat:keyword xml:lang="en">Audit</dcat:keyword>
+        <dct:title xml:lang="pl-t-en-t0-mtec">DG NEAR – Informacje o organizacji</dct:title>
+        <dcat:keyword xml:lang="en">Budget</dcat:keyword>
+        <dct:title xml:lang="en">DG NEAR- Organisation information</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tietoa naapuruuspolitiikan ja laajentumisneuvottelujen pääosaston liittymistä valmistelevaa tukea koskevasta strategiasta, strategia-asiakirjoista, hallinnoidusta avusta, vuotuisesta raportoinnista, talousarviosta.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sulla strategia della DG NEAR per l'assistenza preadesione, documenti di strategia, assistenza gestita, relazioni annuali, bilancio.</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">DG NEAR – Informații privind organizația</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Informace o strategii GŘ NEAR pro předvstupní pomoc, strategické dokumenty, řízenou pomoc, výroční zprávy, rozpočet.</dct:description>
+        <dct:description xml:lang="en">Information on DG NEAR strategy for pre-accession assistance, strategy papers, managed assistance, annual reporting, budget.</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:title xml:lang="sv-t-en-t0-mtec">GD Grannskapspolitik och utvidgningsförhandlingar – Organisationsinformation</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat strategii DG NEAR w zakresie pomocy przedakcesyjnej, dokumentów strategicznych, pomocy zarządzanej, sprawozdawczości rocznej, budżetu.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dcat:keyword xml:lang="en">Enlargement strategy</dcat:keyword>
+        <dct:title xml:lang="sl-t-en-t0-mtec">GD NEAR – informacije o organizaciji</dct:title>
+        <dct:title xml:lang="fr-t-en-t0-mtec">DG NEAR — Informations sur l’organisation</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Kaimynystės politikos ir plėtros derybų GD – Organizacijos informacija</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o strategiji GD NEAR za predpristopno pomoč, strateški dokumenti, upravljana pomoč, letno poročanje, proračun.</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par NEAR ĢD pirmspievienošanās palīdzības stratēģiju, stratēģijas dokumentiem, pārvaldīto palīdzību, gada pārskatiem, budžetu.</dct:description>
+        <dct:title xml:lang="de-t-en-t0-mtec">GD NEAR – Organisationsinformationen</dct:title>
+        <dcat:keyword xml:lang="en">ENPI</dcat:keyword>
+        <dct:title xml:lang="el-t-en-t0-mtec">ΓΔ NEAR — Πληροφορίες για την οργάνωση</dct:title>
+        <dcat:keyword xml:lang="en">Progress reports</dcat:keyword>
+        <dct:title xml:lang="hr-t-en-t0-mtec">GU NEAR – informacije o organizaciji</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Информация относно стратегията на ГД „Политика за съседство и преговори за разширяване“ за предприсъединителна помощ, стратегически документи, управлявана помощ, годишно докладване, бюджет.</dct:description>
+        <dcat:keyword xml:lang="en">IPA II</dcat:keyword>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/12"/>
+        <dct:title xml:lang="cs-t-en-t0-mtec">GŘ NEAR – informace o organizaci</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2016-01-28</dct:modified>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://iatiregistry.org/dataset/ec-near-iati_organisation_near">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/dg-near-organisation-information"/>
+            <schema:url>https://iatiregistry.org/dataset/ec-near-iati_organisation_near</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/NEAR"/>
+        </dct:publisher>
+        <dct:title xml:lang="nl-t-en-t0-mtec">DG NEAR — Informatie over organisatie</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o strategiji GU-a NEAR za pretpristupnu pomoć, strateškim dokumentima, upravljanoj pomoći, godišnjem izvješćivanju, proračunu.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over de strategie van DG NEAR voor pretoetredingssteun, strategiedocumenten, beheerde bijstand, jaarlijkse verslaglegging, begroting.</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="es-t-en-t0-mtec">Información sobre la estrategia de la DG NEAR para la ayuda de preadhesión, los documentos de estrategia, la asistencia gestionada, la presentación de informes anuales y el presupuesto.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre a estratégia da DG NEAR em matéria de assistência de pré-adesão, documentos de estratégia, assistência gerida, relatórios anuais, orçamento.</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Information om GD Grannskapspolitik och utvidgningsförhandlingars strategi för föranslutningsstöd, strategidokument, förvaltat stöd, årlig rapportering och budget.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o stratégii GR NEAR pre predvstupovú pomoc, strategické dokumenty, riadenú pomoc, výročné správy, rozpočet.</dct:description>
+        <dcat:keyword xml:lang="en">ENI</dcat:keyword>
+        <dcat:keyword xml:lang="en">Instrument for Pre-accession Assistance</dcat:keyword>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Információk a DG NEAR előcsatlakozási támogatásra vonatkozó stratégiájáról, stratégiai dokumentumok, irányított támogatás, éves jelentéstétel, költségvetés.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">GR NEAR – Informácie o organizácii</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με τη στρατηγική της ΓΔ NEAR για την προενταξιακή βοήθεια, τα έγγραφα στρατηγικής, τη διαχείριση της βοήθειας, την ετήσια υποβολή εκθέσεων, τον προϋπολογισμό.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/cf0c2700-a1cc-4626-acfb-6fe72d000984"/>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Naapuruuspolitiikan ja laajentumisneuvottelujen pääosasto – Organisaatiotiedot</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur la stratégie de la DG NEAR pour l’aide de préadhésion, documents de stratégie, aide gérée, rapports annuels, budget.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/7932"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/437422"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:00:41Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/dg-near-organisation-information"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/annual-list-of-contractors-2017">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:51:55Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:identifier>annual-list-of-contractors-2017</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>db766a2f90b198d04de534214507c362</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/annual-list-of-contractors-2017">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-12-20</dct:modified>
+        <dct:description xml:lang="en">According to Articles 21, 123, 124 and 170 of the Rules of Application’, laying down detailed rules for publication and contract advertising Direct Contracts with a value between 15.000€ and 60.000€ and List of Specific Contracts based on a Framework Contract awarded during a financial year and exceeding the Directive thresholds 2, shall be published on the Fusion for Energy website, no later than 30 June of the following financial year of its signature, Fusion for Energy advertises hereby the annual list of contracts concluded during 2017.</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/annual-list-of-contractors-2017"/>
+            <schema:url>https://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/753"/>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Годишен списък на изпълнителите за 2017 г.</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Gadskārtējais darbuzņēmēju saraksts 2017. gadā</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Rakenduseeskirjade artiklite 21, 123, 124 ja 170 kohaselt"avaldab Fusion for Energy veebisaidil hiljemalt selle allkirjastamisele järgneva eelarveaasta 30. juuniks ühisettevõtte Fusion for Energy veebisaidil üksikasjalikud eeskirjad avaldamise ja lepingute reklaamimise kohta, mille väärtus jääb vahemikku 15 000 kuni 60 000 eurot, ning eelarveaasta jooksul sõlmitud raamlepingul põhinevate erilepingute loetelu, mis ületab direktiivi piirmäära 2.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Lista annwali ta’ kuntratturi 2017</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/e8c3d2c6-4a29-4ef6-a948-2702465a7fde">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2017-01-01T00:00:00</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2017-12-31T00:00:00</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/FUSEN"/>
+        </dct:publisher>
+        <dct:title xml:lang="en">Annual list of contractors 2017</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Lista anuală a contractanților pentru 2017</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Vuotuinen toimeksisaajien luettelo 2017</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/3a1f8502-fce0-41ad-a632-7ee91ed1a4c2"/>
+        </dcat:contactPoint>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az alkalmazási szabályok 21., 123., 124. és 170. cikke értelmében a közzétételre és a szerződés meghirdetésére vonatkozó részletes szabályokat megállapító, 15 000 és 60 000 euró közötti értékű közvetlen szerződéseket, valamint az egy pénzügyi év során odaítélt keretszerződésen alapuló és az irányelv 2. küszöbértékét meghaladó egyedi szerződéseket legkésőbb az aláírását követő pénzügyi év június 30-ig közzé kell tenni a Fusion for Energy honlapján, a Fusion for Energy meghirdeti a 2017-ben megkötött szerződések éves listáját.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-12-20</dct:issued>
+        <dct:description xml:lang="it-t-en-t0-mtec">A norma degli articoli 21, 123, 124 e 170 delle modalità di applicazione", che stabilisce le modalità di pubblicazione e di pubblicità dei contratti diretti di valore compreso tra 15 000 EUR e 60 000 EUR e l'elenco dei contratti specifici basati su un contratto quadro aggiudicato nel corso di un esercizio finanziario e che superano le soglie della direttiva 2, sono pubblicati sul sito web "Fusion for Energy", entro il 30 giugno dell'esercizio successivo della sua firma, Fusion for Energy pubblicizza l'elenco annuale dei contratti conclusi nel corso del 2017.</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Skont l-Artikoli 21, 123, 124 u 170 tar-Regoli ta’ Applikazzjoni", li jistabbilixxi regoli dettaljati għall-pubblikazzjoni u r-reklamar kuntrattwali Kuntratti Diretti b’valur ta’ bejn EUR 15 000 u EUR 60.000 u Lista ta’ Kuntratti Speċifiċi bbażati fuq Kuntratt Qafas mogħti matul sena finanzjarja u li jaqbeż il-limiti tad-Direttiva 2, għandhom jiġu ppubblikati fuq is-sit web tal-Fużjoni għall-Enerġija, sa mhux aktar tard mit-30 ta’ Ġunju tas-sena finanzjarja ta’ wara tal-iffirmar tagħha, il-Fużjoni għall-Enerġija tirreklama hawnhekk il-lista annwali ta’ kuntratti konklużi matul l-2017.</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Lista anual de contratistas 2017</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Pagal Taikymo taisyklių 21, 123, 124 ir 170 straipsnius, nustatančius išsamias taisykles dėl skelbimo ir skelbimo apie tiesiogines sutartis, kurių vertė yra nuo 15 000 iki 60 000 EUR, ir konkrečių sutarčių, grindžiamų preliminariąja sutartimi, sudaryta per finansinius metus ir viršijančių direktyvoje nustatytas ribas 2, sąrašą, ne vėliau kaip kitų finansinių metų, kuriais ji pasirašoma, birželio 30 d. skelbiamas Branduolių sintezės energetikos vystymo bendrosios įmonės interneto svetainėje 2017 m. sudarytų sutarčių metinis sąrašas.</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Jaarlijkse lijst van contractanten 2017</dct:title>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:description xml:lang="ro-t-en-t0-mtec">În conformitate cu articolele 21, 123, 124 și 170 din Normele de aplicare", care stabilesc norme detaliate pentru publicarea și publicitatea contractelor pentru contractele directe cu o valoare cuprinsă între 15 000 EUR și 60 000 EUR și Lista contractelor specifice bazate pe un contract-cadru atribuite în cursul unui exercițiu financiar și care depășesc pragurile prevăzute de directivă 2 se publică pe site-ul Fusion for Energy, cel târziu la data de 30 iunie a exercițiului financiar următor semnării sale, Fusion for Energy publică lista anuală a contractelor încheiate în cursul anului 2017.</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">De réir Airteagail 21, 123, 124 agus 170 de na Rialacha maidir le Cur i bhFeidhm', lena leagtar síos rialacha mionsonraithe maidir le foilsiú agus fógraíocht conartha Conarthaí Díreacha ag a bhfuil luach idir EUR 15 000 agus EUR 60.000 agus Liosta de Chonarthaí Sonracha bunaithe ar Chreatchonradh arna dhámhachtain le linn bliana airgeadais agus a sháraíonn tairseach na Treorach 2, foilseofar iad ar shuíomh gréasáin Fuinneamh Comhleá, tráth nach déanaí ná an 30 Meitheamh an bhliain airgeadais ina dhiaidh sin dá shíniú, fógraíonn Fusion for Energy leis seo liosta bliantúil na gconarthaí a tugadh i gcrích le linn 2017.</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A vállalkozók éves listája 2017</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Съгласно членове 21, 123, 124 и 170 от Правилата за прилагане„за определяне на подробни правила за публикуване и обявяване на преки договори на стойност между 15 000 EUR и 60 000 EUR и списък на специфичните договори, основани на рамков договор, сключен през дадена финансова година и надхвърлящ праговете на директивата 2, се публикуват на уебсайта „Термоядрен синтез за енергия“ не по-късно от 30 юни на следващата финансова година от подписването му, с настоящото Fusion for Energy обявява годишния списък на договорите, сключени през 2017 г.</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Årlig förteckning över uppdragstagare 2017</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1123"/>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Liosta bliantúil na gconraitheoirí 2017</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:description xml:lang="el-t-en-t0-mtec">Σύμφωνα με τα άρθρα 21, 123, 124 και 170 των κανόνων εφαρμογής, τα οποία καθορίζουν τους λεπτομερείς κανόνες για τη δημοσίευση και τη διαφήμιση των συμβάσεων Άμεσες συμβάσεις αξίας μεταξύ 15,000 EUR και 60,000 EUR και κατάλογος ειδικών συμβάσεων βάσει σύμβασης-πλαισίου που συνήφθη κατά τη διάρκεια ενός οικονομικού έτους και υπερβαίνουν τα κατώτατα όρια της οδηγίας 2, δημοσιεύονται στον δικτυακό τόπο της Σύντηξης για ενέργεια, το αργότερο έως τις 30 Ιουνίου του επόμενου οικονομικού έτους υπογραφής της, η Σύντηξη για ενέργεια δημοσιεύει τον ετήσιο κατάλογο των συμβάσεων που συνήφθησαν κατά τη διάρκεια του 2017.</dct:description>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Conformément aux articles 21, 123, 124 et 170 des règles d’application", qui établissent les modalités de publication et de publicité des contrats directs d’une valeur comprise entre 15 000 EUR et 60 000 EUR et la liste des contrats spécifiques fondés sur un contrat-cadre attribué au cours d’un exercice et dépassant les seuils de la directive 2, sont publiées sur le site web Fusion for Energy, au plus tard le 30 juin de l’exercice suivant à compter de sa signature, Fusion for Energy publie ci-après la liste annuelle des contrats conclus au cours de l’année 2017.</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Letni seznam izvajalcev za leto 2017</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">De conformidad con los artículos 21, 123, 124 y 170 de las normas de desarrollo", por el que se establecen las modalidades de publicación y publicidad de los contratos directos por un valor comprendido entre 15,000 EUR y 60,000 EUR y la lista de contratos específicos basados en un contrato marco adjudicado durante un ejercicio financiero y que superen los umbrales de la Directiva 2, se publicarán en el sitio web de Fusion for Energy, a más tardar el 30 de junio del ejercicio financiero siguiente de su firma, Fusion for Energy anuncia la lista anual de contratos celebrados durante 2017.</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Key Reference Documents</dct:description>
+            <dct:title xml:lang="en">Key Reference Documents</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/annual-list-of-contractors-2017"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <schema:url xml:lang="en">http://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="lt-t-en-t0-mtec">2017 m. metinis rangovų sąrašas</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">V skladu s členi 21, 123, 124 in 170 pravil uporabe, ki določajo podrobna pravila za objavo in oglaševanje neposrednih pogodb v vrednosti od 15 000 EUR do 60,000 EUR ter seznam posebnih pogodb, ki temeljijo na okvirni pogodbi, oddani v proračunskem letu in presegajo pragove iz Direktive 2, se najpozneje do 30. junija naslednjega proračunskega leta podpisa na spletni strani Fuzija za energijo objavijo letni seznam pogodb, sklenjenih v letu 2017.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5536"/>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Podle článků 21, 123, 124 a 170 prováděcích pravidel", které stanoví podrobná pravidla pro zveřejňování a zveřejňování přímých zakázek v hodnotě od 15 000 EUR do 60 000 EUR, a seznam zvláštních smluv založených na rámcové smlouvě zadané během rozpočtového roku a překračující prahové hodnoty 2 směrnice se společnost Fusion for Energy zveřejní na internetových stránkách podniku Fusion for Energy nejpozději do 30. června následujícího rozpočtového roku, který byl podepsán. Společnost Fusion for Energy tímto zveřejňuje roční seznam smluv uzavřených v průběhu roku 2017.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fca20956-7f5f-4610-bddb-bcdd23ded347">
+            <dct:description xml:lang="hr-t-en-t0-mtec">Dowload skup podataka u pdf formatu</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Conjunto de dados dowload em formato pdf</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Dowload skup podataka u pdf formatu</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Набор от данни за dowload в pdf формат</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Dowload σύνολο δεδομένων σε μορφή pdf</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Dwload andmestu PDF-vormingus</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Dowload podatkovni niz v formatu pdf</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Datensatz im PDF-Format zum Herunterladen</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Jeu de données dowload au format pdf</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Набор от данни за dowload в pdf формат</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Zbiór danych dowload w formacie pdf</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Súbor dát dowload vo formáte pdf</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Íoslódáil tacar sonraí i bhformáid pdf</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:downloadURL rdf:resource="http://fusionforenergy.europa.eu/downloads/procurements/Annual%20List%20of%20Contracts%202017.pdf"/>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Dowload dataset in pdf-formaat</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Dowload dataset f’format pdf</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Dowload σύνολο δεδομένων σε μορφή pdf</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-12-20T11:16:25.919212+02:00</dct:issued>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Dowload datu kopa pdf formātā</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Dowload duomenų rinkinys pdf formatu</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Dowload duomenų rinkinys pdf formatu</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Dowload dataset in pdf-formaat</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Súbor dát dowload vo formáte pdf</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Dowload dataset in formato pdf</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Dowload datu kopa pdf formātā</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Datasæt med dowload i pdf-format</dct:description>
+            <dct:description xml:lang="en">Dowload dataset in pdf format&#xD;
+</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Dowload podatkovni niz v formatu pdf</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Dwload andmestu PDF-vormingus</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Dowload adatkészlet pdf formátumban</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Dowload datové sady ve formátu pdf</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Dowload dataset f’format pdf</dct:description>
+            <dcat:accessURL rdf:resource="http://fusionforenergy.europa.eu/downloads/procurements/Annual%20List%20of%20Contracts%202017.pdf"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Dowload adatkészlet pdf formátumban</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Dowload datové sady ve formátu pdf</dct:description>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/pdf"/>
+            </dcat:mediaType>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            </dct:format>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Íoslódáil tacar sonraí i bhformáid pdf</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Zbiór danych dowload w formacie pdf</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Dowload-tiedosto pdf-muodossa</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Datasæt med dowload i pdf-format</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">Conjunto de datos Dowload en formato pdf</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Dowload-tiedosto pdf-muodossa</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Ladda dataset i pdf-format</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Datensatz im PDF-Format zum Herunterladen</dct:description>
+            <dct:title xml:lang="en">Dowload dataset in pdf format</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Set de date dowload în format pdf</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/6b144541-ed31-47ef-b8af-0a3525b6bc76</dct:identifier>
+            <dct:title xml:lang="es-t-en-t0-mtec">Conjunto de datos Dowload en formato pdf</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Ladda dataset i pdf-format</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Dowload dataset in formato pdf</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Jeu de données dowload au format pdf</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Set de date dowload în format pdf</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Conjunto de dados dowload em formato pdf</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Liste annuelle des contractants 2017</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Roční seznam dodavatelů 2017</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ετήσιος κατάλογος αναδόχων 2017</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Enligt artiklarna 21, 123, 124 och 170 i tillämpningsföreskrifterna ska direkta kontrakt med ett värde på mellan 15 000 och 60 000 EUR och en förteckning över specifika kontrakt som grundar sig på ett ramavtal som tilldelats under ett räkenskapsår och som överstiger tröskelvärdena i direktivet offentliggöras på webbplatsen Fusion for Energy senast den 30 juni påföljande räkenskapsår efter undertecknandet. Fusion for Energy offentliggör härmed den årliga förteckningen över kontrakt som ingåtts under 2017.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Roczna lista wykonawców w 2017 r.</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Elenco annuale dei contraenti 2017</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">Jährliche Liste der Auftragnehmer 2017</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Årlig liste over kontrahenter 2017</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">2017. aasta töövõtjate nimekiri</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Podľa článkov 21, 123, 124 a 170 pravidiel uplatňovania, v ktorých sa stanovujú podrobné pravidlá uverejňovania a zverejňovania priamych zmlúv v hodnote od 15 000 EUR do 60 000 EUR a zoznam osobitných zmlúv založených na rámcovej zmluve zadanej počas rozpočtového roka, ktorá presahuje prahové hodnoty smernice 2, sa uverejnia na webovej stránke spoločného podniku Fusion for Energy najneskôr do 30. júna nasledujúceho rozpočtového roka od jej podpisu, spoločnosť Fusion for Energy týmto uverejňuje ročný zoznam zmlúv uzavretých v priebehu roka 2017.</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Zgodnie z art. 21, 123, 124 i 170 zasad stosowania", określające szczegółowe zasady ogłaszania i ogłaszania umów bezpośrednich o wartości od 15 000 do 60 000 EUR, a także wykaz umów szczegółowych na podstawie umowy ramowej udzielonej w ciągu roku budżetowego i przekraczających progi określone w dyrektywie 2, publikuje się na stronie internetowej Fusion for Energy nie później niż do dnia 30 czerwca następnego roku budżetowego, w którym została podpisana, Fusion for Energy ogłasza niniejszym roczny wykaz umów zawartych w 2017 r.</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">U skladu s člancima 21., 123., 124. i 170. Pravila primjene", kojima se utvrđuju detaljna pravila za objavu i oglašavanje ugovora Izravni ugovori u vrijednosti između 15 000 EUR i 60 000 EUR te popis posebnih ugovora na temelju okvirnog ugovora sklopljenog tijekom financijske godine koji premašuju pragove Direktive 2, objavljuju se na internetskim stranicama Fuzije za energiju najkasnije do 30. lipnja sljedeće financijske godine nakon potpisivanja, Fuzija za energiju ovime objavljuje godišnji popis ugovora sklopljenih tijekom 2017.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Ročný zoznam dodávateľov 2017</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Soveltamissääntöjen 21, 123, 124 ja 170 artiklan mukaan Fusion for Energy -yhteisyrityksen verkkosivustolla julkaistaan viimeistään sen varainhoitovuoden 2017 aikana tehtyjen sopimusten luettelo, jonka arvo on 15 000 EUR ja enintään 60 000 euroa, ja luettelo erillissopimuksista, jotka perustuvat varainhoitovuoden aikana tehtyyn puitesopimukseen ja jotka ylittävät direktiivin kynnysarvot 2.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Overeenkomstig de artikelen 21, 123, 124 en 170 van de uitvoeringsvoorschriften" van de artikelen 21, 123, 124 en 170 van de uitvoeringsvoorschriften tot vaststelling van gedetailleerde regels voor bekendmaking en bekendmaking van rechtstreekse contracten met een waarde van 15 000 EUR tot 60,000 EUR en de lijst van specifieke contracten op basis van een raamcontract dat is gegund gedurende een boekjaar dat de drempels van de richtlijn overschrijdt, worden uiterlijk op 30 juni van het volgende boekjaar van de ondertekening van Fusion for Energy de jaarlijkse lijst van in 2017 gesloten contracten bekendgemaakt.</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Lista anual de contratantes 2017</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">I henhold til artikel 21, 123, 124 og 170 i gennemførelsesbestemmelserne", der fastsætter detaljerede regler for offentliggørelse og offentliggørelse af kontrakter om direkte kontrakter til en værdi af mellem 15 000 EUR og 60 000 EUR og en liste over specifikke kontrakter baseret på en rammekontrakt, der er tildelt i løbet af et regnskabsår, og som overstiger tærskelværdierne i direktivet, skal Fusion for Energy senest den 30. juni i det følgende regnskabsår efter undertegnelsen offentliggøre den årlige liste over kontrakter, der indgås i løbet af 2017.</dct:description>
+        <dct:description xml:lang="de-t-en-t0-mtec">Gemäß den Artikeln 21, 123, 124 und 170 der Anwendungsbestimmungen" mit Durchführungsbestimmungen für die Veröffentlichung und die Bekanntmachung von Direktaufträgen im Wert zwischen 15,000 EUR und 60,000 EUR und Liste der Einzelverträge auf der Grundlage eines Rahmenvertrags, der in einem Geschäftsjahr vergeben wurde und die Schwellenwerte der Richtlinie 2 überschreitet, werden spätestens am 30. Juni des folgenden Haushaltsjahres ihrer Unterzeichnung auf der Website "Fusion for Energy" die Jahresliste der 2017 abgeschlossenen Verträge veröffentlicht.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Nos termos dos artigos 21.º, 123.º, 124.º e 170.º das normas de execução", que estabelecem regras pormenorizadas para a publicação e a publicidade dos contratos diretos de valor compreendido entre 15,000 EUR e 60 000 EUR e a lista de contratos específicos baseados num contrato-quadro adjudicado durante um exercício financeiro que exceda os limiares 2 da diretiva, deve ser publicada no sítio Web da Energia de Fusão, o mais tardar até 30 de junho do exercício seguinte à sua assinatura, a lista anual dos contratos celebrados em 2017.</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Saskaņā ar piemērošanas noteikumu 21., 123., 124. un 170. pantu", ar ko paredz sīki izstrādātus noteikumus par publicēšanu un līgumu izsludināšanu tiešiem līgumiem, kuru vērtība ir no EUR 15 000 līdz EUR 60 000, un to īpašo līgumu sarakstu, kuru pamatā ir pamatlīgums, kas piešķirts finanšu gadā un pārsniedz direktīvā noteiktās robežvērtības 2, publicē Fusion for Energy tīmekļa vietnē ne vēlāk kā nākamā finanšu gada 30. jūnijā pēc tās parakstīšanas.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Godišnji popis izvođača 2017.</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T16:27:22Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/annual-list-of-contractors-2017"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:15:00Z</edp:transIssued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:14:44Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

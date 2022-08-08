@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/4b6f4f9a-dcd7-48f7-a22b-7205e7261f0d">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:25:23Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-12T10:05:47Z</dct:issued>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <dct:identifier>4b6f4f9a-dcd7-48f7-a22b-7205e7261f0d</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:25:23Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/4b6f4f9a-dcd7-48f7-a22b-7205e7261f0d"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>5750a0e0f670599312c35f48bbe2b99c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/4b6f4f9a-dcd7-48f7-a22b-7205e7261f0d">
+        <dct:title xml:lang="cs-t-ga-t0-mtec">Časová data pro Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="hu-t-ga-t0-mtec">Ezek a tömegközlekedési szolgáltatók GTFS-fájljai minden alkalommal frissülnek, amikor egy szolgáltatási menetrend megváltozik.
+Ha volt egy korábbi verzió, akkor azt felülírják.
+
+Az egyes üzemeltetők jegyzékének érvényességi időszakát az egyes GTFS-fájlokban a megfelelő módon kell bejelenteni.
+
+Típus = Static Transit
+
+Formátum = GTFS
+
+Szállított, mint = Zip formátumot tartalmazó szöveges fájlokat, amelyek megfelelnek a GTFS specifikáció.</dct:description>
+        <dct:description xml:lang="nl-t-ga-t0-mtec">De GTFS-bestanden van deze openbaarvervoerders worden telkens bijgewerkt wanneer een dienstregeling wordt gewijzigd.
+Als er een vorige versie was, dan is het geschreven. De geldigheidsperiode voor het schema van elke exploitant wordt in de afzonderlijke GTFS-bestanden op de juiste wijze aangegeven.
+Type = Statische doorgang
+ Formaat = GTFS
+Geleverd als = Zip-formaat met tekstbestanden die voldoen aan de GTFS-specificatie. De GTFS-bestanden van deze openbaarvervoerders worden telkens bijgewerkt wanneer een dienstregeling wordt gewijzigd.
+Als er een vorige versie was, dan is het geschreven.
+
+De geldigheidsperiode voor het schema van elke exploitant wordt in de afzonderlijke GTFS-bestanden op de juiste wijze aangegeven.
+
+Type = Statische doorgang
+
+Formaat = GTFS
+
+Geleverd als = Zip-formaat met tekstbestanden die voldoen aan de GTFS-specificatie.</dct:description>
+        <dcat:keyword>bus</dcat:keyword>
+        <dct:description xml:lang="da-t-ga-t0-mtec">Disse offentlige transportoperatørers GTFS-filer opdateres hver gang en fartplan ændres. Hvis der var en tidligere version, vil det være overskrevet.
+Gyldighedsperioden for hver operatørs skema angives på passende vis i de enkelte GTFS-filer.
+Type = Statisk transit
+Format = GTFS 
+Leveres som = Zip-format, der indeholder tekstfiler, der overholder GTFS-specifikationen.</dct:description>
+        <dct:description xml:lang="uk-t-ga-t0-mtec">Ці файли GTFS операторів громадського транспорту оновлюються щоразу, коли змінюється графік обслуговування.
+Якщо була попередня версія, вона буде закінчена.  Термін дії для кожного оператора оголошується відповідним чином в окремих файлах GTFS.
+
+Тип = статичний транзит
+
+Формат = GTFS
+
+Поставляється як формат Zip, що містить текстові файли, які відповідають специфікації GTFS.</dct:description>
+        <dct:description xml:lang="bg-t-ga-t0-mtec">Тези файлове GTFS на операторите на обществен транспорт се актуализират всеки път, когато се променя разписанието на услугите. Ако има предишна версия, тя ще бъде написана.
+Периодът на валидност за графика на всеки оператор се декларира по подходящ начин в рамките на отделните файлове на GTFS.
+Тип = статичен транзит
+Формат = GTFS 
+Доставя се като = Zip формат, съдържащ текстови файлове, които съответстват на спецификацията GTFS.</dct:description>
+        <dct:title>Schedule data for Dualway(GTFS)</dct:title>
+        <dct:title xml:lang="en-t-ga-t0-mtec">Schedule data for Dualway(GTFS)</dct:title>
+        <dct:title xml:lang="de-t-ga-t0-mtec">Zeitplandaten für Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="sv-t-ga-t0-mtec">Dessa kollektivtrafikföretags GTFS-filer uppdateras varje gång en tidtabell ändras.
+Om det fanns en tidigare version kommer den att vara överskriven.  Giltighetsperioden för varje operatörs tidtabell anges på lämpligt sätt i de enskilda GTFS-filerna.
+
+Typ = Statisk transitering
+
+Format = GTFS
+
+Levereras som = Zip-format som innehåller textfiler som överensstämmer med GTFS-specifikationen.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:title xml:lang="pl-t-ga-t0-mtec">Dane harmonogramu dla Dualway (GTFS)</dct:title>
+        <dct:title xml:lang="pt-t-ga-t0-mtec">Dados de programação para Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="ro-t-ga-t0-mtec">Aceste fișiere GTFS ale operatorilor de transport public sunt actualizate de fiecare dată când se modifică un orar de serviciu.
+Dacă a existat o versiune anterioară, aceasta va fi scrisă. Perioada de valabilitate pentru fiecare program al fiecărui operator este declarată în mod corespunzător în fișierele GTFS individuale.
+Tip = Tranzit static
+ Format = GTFS
+
+Livrat ca = format Zip care conține fișiere text conforme cu specificațiile GTFS.</dct:description>
+        <dct:title xml:lang="ro-t-ga-t0-mtec">Date de programare pentru Dualway (GTFS)</dct:title>
+        <dcat:keyword>transport</dcat:keyword>
+        <dct:description xml:lang="mt-t-ga-t0-mtec">Dawn il-fajls tal-GTFS tal-operaturi tat-trasport pubbliku jiġu aġġornati kull darba li tinbidel skeda tas-servizz.
+Jekk kien hemm verżjoni preċedenti se jkun fuq bil-miktub. Il-perjodu ta’ Validità għall-Iskeda ta’ kull operatur huwa ddikjarat bil-mod xieraq fil-fajls individwali tal-GTFS.
+Tip = Tranżitu Statiku
+ Format = GTFS
+Imwassla bħala = format Zip li fihom fajls testwali li jikkonformaw mal-Ispeċifikazzjoni GTFS. Dawn il-fajls tal-GTFS tal-operaturi tat-trasport pubbliku jiġu aġġornati kull darba li tinbidel skeda tas-servizz.
+Jekk kien hemm verżjoni preċedenti se jkun fuq bil-miktub.
+
+Il-perjodu ta’ Validità għall-Iskeda ta’ kull operatur huwa ddikjarat bil-mod xieraq fil-fajls individwali tal-GTFS.
+
+Tip = Tranżitu Statiku
+
+Format = GTFS
+
+Imwassla bħala = format Zip li fihom fajls testwali li jikkonformaw mal-Ispeċifikazzjoni GTFS.</dct:description>
+        <dct:title xml:lang="nl-t-ga-t0-mtec">Schemagegevens voor Dualway (GTFS)</dct:title>
+        <dct:description>
+These public transport operators' GTFS files are updated every time a service timetable is changed. If there was a previous version it will be over written.
+The validity period for each operator's Schedule is declared in the appropriate manner within in the individual GTFS files.
+Type = Static Transit
+Format  = GTFS
+Delivered as = Zip format containing Text files that conform to the GTFS Specification.</dct:description>
+        <dcat:landingPage rdf:resource="http://www.transportforireland.ie/transitData/PT_Data.html"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d59291a6-8a54-4aa0-a092-da2c0fda4c3a">
+            <dct:description>GTFS data for Dualway(GTFS)</dct:description>
+            <dcat:accessURL rdf:resource="http://www.transportforireland.ie/transitData/google_transit_dualway.zip"/>
+            <dct:format>GTFS</dct:format>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title>GTFS_Dualway(GTFS).zip</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/4b6f4f9a-dcd7-48f7-a22b-7205e7261f0d/resource/9ae4e350-7cf5-4158-a91a-ff243cba298e</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sk-t-ga-t0-mtec">Plánovacie údaje pre Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="hr-t-ga-t0-mtec">Ove GTFS datoteke operatera javnog prijevoza ažuriraju se svaki put kada se promijeni vozni red.
+Ako je postojala prethodna verzija, bit će napisana.
+Razdoblje valjanosti za raspored svakog operatora proglašava se na odgovarajući način u pojedinačnim GTFS datotekama. Vrsta = Statički tranzit
+ Format = GTFS
+
+Isporučeno kao = Zip format koji sadrži tekstualne datoteke koje su u skladu s GTFS specifikacijom.</dct:description>
+        <dct:title xml:lang="uk-t-ga-t0-mtec">Розклад даних для Dualway (GTFS)</dct:title>
+        <dct:title xml:lang="fr-t-ga-t0-mtec">Données d’horaire pour Dualway (GTFS)</dct:title>
+        <dcat:keyword>gtfs</dcat:keyword>
+        <dct:title xml:lang="fi-t-ga-t0-mtec">Aikataulu tiedot Dualway (GTFS)</dct:title>
+        <dct:title xml:lang="sv-t-ga-t0-mtec">Schemadata för Dualway (GTFS)</dct:title>
+        <dct:title xml:lang="es-t-ga-t0-mtec">Datos de programación para Dualway (GTFS)</dct:title>
+        <dct:title xml:lang="mt-t-ga-t0-mtec">Data tal-iskeda għal Dualway (GTFS)</dct:title>
+        <dcat:keyword>luas</dcat:keyword>
+        <dct:description xml:lang="sk-t-ga-t0-mtec">Tieto súbory GTFS prevádzkovateľov verejnej dopravy sa aktualizujú vždy, keď sa zmení cestovný poriadok služieb.
+Ak by existovala predchádzajúca verzia, bola by napísaná.  Obdobie platnosti plánu každého prevádzkovateľa sa uvádza vhodným spôsobom v rámci jednotlivých súborov GTFS.
+
+Typ = Statický tranzit
+
+Formát = GTFS
+
+Dodávané ako = Zip formát obsahujúci textové súbory, ktoré sú v súlade so špecifikáciou GTFS.</dct:description>
+        <dct:title xml:lang="sl-t-ga-t0-mtec">Podatki o urniku za Dualway (GTFS)</dct:title>
+        <dct:title xml:lang="hu-t-ga-t0-mtec">Menetrend adatok Dualway (GTFS)</dct:title>
+        <dcat:keyword>schedule</dcat:keyword>
+        <dct:description xml:lang="cs-t-ga-t0-mtec">Tyto soubory GTFS provozovatelů veřejné dopravy se aktualizují pokaždé, když dojde ke změně jízdního řádu. Pokud by existovala předchozí verze, měla by být napsána.
+Doba platnosti harmonogramu každého provozovatele se vhodným způsobem deklaruje v jednotlivých souborech GTFS.
+Typ = Statický tranzit
+Formát = GTFS 
+Dodáváno jako = formát Zip obsahující textové soubory, které odpovídají specifikaci GTFS.</dct:description>
+        <dct:title xml:lang="da-t-ga-t0-mtec">Tidsplan data for Dualway (GTFS)</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2015-10-27T00:00:00</dct:issued>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:peter.cranny@nationaltransport.ie"/>
+            <vcard:fn>Peter Cranny</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="es-t-ga-t0-mtec">Los archivos GTFS de estos operadores de transporte público se actualizan cada vez que se cambia un horario de servicio. Si hubo una versión anterior, se terminará de escribir.
+El período de validez para la Lista de cada operador se declara de la manera apropiada dentro de los archivos GTFS individuales.
+Tipo = Tránsito estático
+Formato = GTFS 
+Se entrega como = formato Zip que contiene archivos de texto que se ajustan a la especificación GTFS.</dct:description>
+        <dct:description xml:lang="fr-t-ga-t0-mtec">Les fichiers GTFS de ces opérateurs de transport public sont mis à jour chaque fois qu’un horaire de service est modifié.
+S’il y avait une version précédente, elle sera trop écrite.
+La période de validité de l’annexe de chaque exploitant est déclarée de la manière appropriée dans les différents fichiers GTFS. Type = transit statique
+ Format = GTFS
+
+Livré sous = format Zip contenant des fichiers texte conformes à la spécification GTFS.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T01:03:40</dct:modified>
+        <dct:description xml:lang="pt-t-ga-t0-mtec">Os ficheiros GTFS dos operadores de transportes públicos são atualizados sempre que um horário de serviço é alterado.
+Se houver uma versão anterior, ela será escrita. O período de validade para o cronograma de cada operador é declarado da maneira apropriada dentro dos arquivos GTFS individuais.
+Tipo = Trânsito estático
+ Formato = GTFS
+Entregue como = formato Zip contendo arquivos de texto que estão em conformidade com a Especificação GTFS. Os ficheiros GTFS dos operadores de transportes públicos são atualizados sempre que um horário de serviço é alterado.
+Se houver uma versão anterior, ela será escrita.
+
+O período de validade para o cronograma de cada operador é declarado da maneira apropriada dentro dos arquivos GTFS individuais.
+
+Tipo = Trânsito estático
+
+Formato = GTFS
+
+Entregue como = formato Zip contendo arquivos de texto que estão em conformidade com a Especificação GTFS.</dct:description>
+        <dct:description xml:lang="el-t-ga-t0-mtec">Τα εν λόγω αρχεία GTFS των εν λόγω φορέων δημόσιων μεταφορών επικαιροποιούνται κάθε φορά που αλλάζει το χρονοδιάγραμμα δρομολογίων. Αν υπήρχε μια προηγούμενη εκδοχή, θα είναι γραμμένη.
+Η περίοδος ισχύος για τον πίνακα κάθε φορέα εκμετάλλευσης δηλώνεται με τον κατάλληλο τρόπο στα επιμέρους αρχεία GTFS.
+Τύπος = Στατική διέλευση
+Μορφή = GTFS 
+Παραδόθηκε ως = μορφή Zip που περιέχει αρχεία κειμένου που συμμορφώνονται με τις προδιαγραφές GTFS.</dct:description>
+        <dct:description xml:lang="en-t-ga-t0-mtec">These public transport operators’ GTFS files are updated every time a service timetable is changed. If there was a previous version it will be over written.
+The Validity period for each operator’s Schedule is declared in the appropriate manner within the individual GTFS files.
+Type = Static Transit
+Format = GTFS 
+Delivered as = Zip format containing Text files that Conform to the GTFS Specification.</dct:description>
+        <dct:title xml:lang="it-t-ga-t0-mtec">Dati di pianificazione per Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="fi-t-ga-t0-mtec">Nämä julkisen liikenteen harjoittajien GTFS-tiedostot päivitetään aina, kun palvelun aikataulua muutetaan.
+Jos on olemassa aiempi versio, se on kirjoitettu loppuun.
+Kunkin operaattorin aikataulun voimassaoloaika ilmoitetaan asianmukaisella tavalla yksittäisissä GTFS-tiedostoissa. Tyyppi = staattinen kauttakulku
+ Muoto = GTFS
+
+Toimitetaan = Zip-muodossa, joka sisältää tekstitiedostoja, jotka vastaavat GTFS-spesifikaatioita.</dct:description>
+        <dct:description xml:lang="et-t-ga-t0-mtec">Nende ühistranspordiettevõtjate GTFSi faile ajakohastatakse iga kord, kui sõiduplaani muudetakse. Kui on olemas eelmine versioon, siis see on üle kirjutatud.
+
+Iga käitaja ajakava kehtivusperiood deklareeritakse sobival viisil GTFS-failides.
+
+Tüüp = Staatiline transiit
+
+Formaat = GTFS
+
+Tarnitakse kujul = ZIP-vormingus, mis sisaldab GTFSi spetsifikatsioonile vastavaid tekstifaile.</dct:description>
+        <dct:description xml:lang="it-t-ga-t0-mtec">I file GTFS di questi operatori del trasporto pubblico vengono aggiornati ogni volta che viene modificato un orario di servizio.
+Se c'era una versione precedente, sarà più scritto. Il periodo di validità per il programma di ciascun operatore è dichiarato nel modo appropriato all'interno dei singoli file GTFS.
+Tipo = transito statico
+ Formato = GTFS
+Consegnato come = formato Zip contenente file di testo conformi alle specifiche GTFS. I file GTFS di questi operatori del trasporto pubblico vengono aggiornati ogni volta che viene modificato un orario di servizio.
+Se c'era una versione precedente, sarà più scritto.
+
+Il periodo di validità per il programma di ciascun operatore è dichiarato nel modo appropriato all'interno dei singoli file GTFS.
+
+Tipo = transito statico
+
+Formato = GTFS
+
+Consegnato come = formato Zip contenente file di testo conformi alle specifiche GTFS.</dct:description>
+        <dct:description xml:lang="lv-t-ga-t0-mtec">Šīs sabiedriskā transporta operatoru GTFS datnes tiek atjauninātas katru reizi, kad tiek mainīts kustības grafiks.
+Ja bija iepriekšējā versija, tas būs vairāk rakstīts. Derīguma periods katra operatora grafikam ir pienācīgi deklarēts atsevišķās GTFS datnēs.
+Tips = statiskais tranzīts
+ Formāts = GTFS
+Piegādāts kā = Zip formāts, kas satur teksta failus, kas atbilst GTFS specifikācijai. Šīs sabiedriskā transporta operatoru GTFS datnes tiek atjauninātas katru reizi, kad tiek mainīts kustības grafiks.
+Ja bija iepriekšējā versija, tas būs vairāk rakstīts.
+
+Derīguma periods katra operatora grafikam ir pienācīgi deklarēts atsevišķās GTFS datnēs.
+
+Tips = statiskais tranzīts
+
+Formāts = GTFS
+
+Piegādāts kā = Zip formāts, kas satur teksta failus, kas atbilst GTFS specifikācijai.</dct:description>
+        <dct:identifier>4b6f4f9a-dcd7-48f7-a22b-7205e7261f0d</dct:identifier>
+        <dct:title xml:lang="hr-t-ga-t0-mtec">Raspored podataka za Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="de-t-ga-t0-mtec">Die GTFS-Dateien dieser öffentlichen Verkehrsunternehmen werden bei jeder Änderung des Fahrplans aktualisiert. Wenn es eine vorherige Version gab, wird sie überschrieben.
+Die Gültigkeitsdauer für den Zeitplan jedes Betreibers wird in den einzelnen GTFS-Dateien entsprechend angegeben.
+Typ = Statischer Transit
+Format = GTFS 
+Geliefert als = Zip-Format mit Textdateien, die der GTFS-Spezifikation entsprechen.</dct:description>
+        <dct:title xml:lang="et-t-ga-t0-mtec">Dualway (GTFS) ajakava andmed</dct:title>
+        <dcat:theme rdf:resource="https://data.gov.ie/Transport"/>
+        <dct:title xml:lang="lt-t-ga-t0-mtec">„Dualway“ (GTFS) tvarkaraščio duomenys</dct:title>
+        <dct:title xml:lang="el-t-ga-t0-mtec">Δεδομένα χρονοδιαγράμματος για το Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="lt-t-ga-t0-mtec">Šie viešojo transporto operatorių GTFS failai atnaujinami kiekvieną kartą, kai keičiamas paslaugų tvarkaraštis.
+Jei yra ankstesnė versija, ji bus perrašyta. Kiekvieno operatoriaus sąrašo galiojimo laikotarpis tinkamai deklaruojamas atskirose GTFS bylose.
+Tipas = Statinis tranzitas
+ Formatas = GTFS
+Pristatytas kaip = Zip formatas, kuriame yra teksto failai, atitinkantys GTFS specifikaciją. Šie viešojo transporto operatorių GTFS failai atnaujinami kiekvieną kartą, kai keičiamas paslaugų tvarkaraštis.
+Jei yra ankstesnė versija, ji bus perrašyta.
+
+Kiekvieno operatoriaus sąrašo galiojimo laikotarpis tinkamai deklaruojamas atskirose GTFS bylose.
+
+Tipas = Statinis tranzitas
+
+Formatas = GTFS
+
+Pristatytas kaip = Zip formatas, kuriame yra teksto failai, atitinkantys GTFS specifikaciją.</dct:description>
+        <dct:title xml:lang="lv-t-ga-t0-mtec">Grafiks datiem par Dualway (GTFS)</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/national-transport-authority">
+            <foaf:name>National Transport Authority</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:language>en</dct:language>
+        <dct:accrualPeriodicity>Irregular</dct:accrualPeriodicity>
+        <dct:title xml:lang="bg-t-ga-t0-mtec">График на данните за Dualway (GTFS)</dct:title>
+        <dct:description xml:lang="sl-t-ga-t0-mtec">Datoteke GTFS teh izvajalcev javnega prevoza se posodobijo vsakič, ko se spremeni vozni red storitev.
+Če obstaja prejšnja različica, bo napisana.  Obdobje veljavnosti za vozni red vsakega prevoznika je ustrezno deklarirano v posameznih datotekah GTFS.
+
+Tip = statični tranzit
+
+Format = GTFS
+
+Dostavljeno kot = Zip format, ki vsebuje besedilne datoteke, ki ustrezajo specifikaciji GTFS.</dct:description>
+        <dct:description xml:lang="pl-t-ga-t0-mtec">Te pliki GTFS operatorów transportu publicznego są aktualizowane za każdym razem, gdy zmieniany jest rozkład jazdy.
+Jeśli istniała poprzednia wersja, to zostanie napisana. Okres ważności dla harmonogramu każdego operatora jest deklarowany w odpowiedni sposób w poszczególnych plikach GTFS.
+Typ = tranzyt statyczny
+ Format = GTFS
+Dostarczane jako = format Zip zawierający pliki tekstowe zgodne ze specyfikacją GTFS. Te pliki GTFS operatorów transportu publicznego są aktualizowane za każdym razem, gdy zmieniany jest rozkład jazdy.
+Jeśli istniała poprzednia wersja, to zostanie napisana.
+
+Okres ważności dla harmonogramu każdego operatora jest deklarowany w odpowiedni sposób w poszczególnych plikach GTFS.
+
+Typ = tranzyt statyczny
+
+Format = GTFS
+
+Dostarczane jako = format Zip zawierający pliki tekstowe zgodne ze specyfikacją GTFS.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

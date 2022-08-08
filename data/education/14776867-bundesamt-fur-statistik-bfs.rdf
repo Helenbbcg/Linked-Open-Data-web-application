@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14776867-bundesamt-fur-statistik-bfs">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:26:05Z</edp:transReceived>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14776867-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="fr">publication</dcat:keyword>
+        <dcat:keyword xml:lang="en">publication</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Statistika specijalnog obrazovanja</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Quanti alunni nelle scuole regolari hanno una misura pedagogica aumentata? Quanti alunni frequentano una scuola speciale? Qual è la proporzione di personale pedagogico speciale nella scuola dell'obbligo? Qual è il rapporto di cura? Come sono organizzate le scuole speciali? La presente pubblicazione sulle statistiche della pedagogia speciale si occupa di informazioni sui discenti con esigenze educative speciali, personale pedagogico speciale e scuole speciali. I risultati si riferiscono all'anno scolastico 2018/19.</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Erihariduse statistika</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="es-t-de-t0-mtec">Estadísticas de Educación Especial</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/26406341-d6b4-4de4-a9aa-30d1f364a3d8">
+            <dct:description xml:lang="hr-t-de-t0-mtec">Koliko učenika u redovnim školama ima povećanu posebnu pedagošku mjeru? Koliko učenika pohađa posebnu školu? Koliki je udio posebnog pedagoškog osoblja u obveznoj školi? Što je odnos skrbi? Kako su organizirane posebne škole? Ova publikacija o statistici posebne pedagogije bavi se informacijama o učenicima s posebnim obrazovnim potrebama, posebnim pedagoškim osobljem i posebnim školama. Rezultati se odnose na školsku godinu 2018/19.</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Statistik över specialpedagogik</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Statistiche sull'istruzione speciale</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Kui paljudel tavakoolide õpilastel on suurem pedagoogiline erimeede? Kui palju õpilasi käib erikoolis? Kui suur on eripedagoogilise personali osakaal kohustuslikus koolis? Mis on hooldussuhe? Kuidas erikoolid on korraldatud? Käesolev väljaanne eripedagoogika statistika kohta käsitleb teavet hariduslike erivajadustega õppijate, pedagoogiliste eritöötajate ja erikoolide kohta. Tulemused on seotud 2018/19. õppeaastaga.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Speciālās izglītības statistika</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Quanti alunni nelle scuole regolari hanno una misura pedagogica aumentata? Quanti alunni frequentano una scuola speciale? Qual è la proporzione di personale pedagogico speciale nella scuola dell'obbligo? Qual è il rapporto di cura? Come sono organizzate le scuole speciali? La presente pubblicazione sulle statistiche della pedagogia speciale si occupa di informazioni sui discenti con esigenze educative speciali, personale pedagogico speciale e scuole speciali. I risultati si riferiscono all'anno scolastico 2018/19.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Statystyki edukacji specjalnej</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Колко ученици в редовните училища имат увеличена специална педагогическа мярка? Колко ученици посещават специално училище? Какъв е делът на специалния педагогически персонал в задължителното училище? Каква е връзката с грижите? Как се организират специалните училища? Настоящата публикация за статистиката на специалната педагогика се занимава с информация за обучаеми със специални образователни потребности, специален педагогически персонал и специални училища. Резултатите са свързани с учебната 2018/19 година.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Statistieken van het speciaal onderwijs</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">¿Cuántos alumnos de las escuelas ordinarias han aumentado las medidas pedagógicas especiales? ¿Cuántos alumnos asisten a una escuela especial? ¿Cuál es la proporción de personal pedagógico especial en la escuela obligatoria? ¿Cuál es la relación de cuidado? ¿Cómo se organizan las escuelas especiales? La presente publicación sobre estadísticas de pedagogía especial trata de información sobre alumnos con necesidades educativas especiales, personal pedagógico especial y escuelas especiales. Los resultados se relacionan con el año escolar 2018/19.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Specialiojo ugdymo statistika</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Statistics of Special Education</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14776871/master"/>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Koľko žiakov v bežných školách má zvýšené osobitné pedagogické opatrenie? Koľko žiakov navštevuje špeciálnu školu? Aký je podiel špeciálnych pedagogických pracovníkov v povinnej škole?
+Aký je vzťah starostlivosti?
+Ako sa organizujú špeciálne školy?
+Táto publikácia o štatistike špeciálnej pedagogiky sa zaoberá informáciami o študentoch so špeciálnymi vzdelávacími potrebami, špeciálnych pedagogických pracovníkoch a špeciálnych školách.
+Výsledky sa týkajú školského roka 2018/19.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Statistica educației speciale</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Kemm-il student fl-iskejjel regolari għandhom miżura pedagoġika speċjali miżjuda? Kemm-il student jattendu skola speċjali? X’inhu l-proporzjon ta’ persunal pedagoġiku speċjali fl-iskola obbligatorja? X’inhi r-relazzjoni ta ‘kura? Kif jiġu organizzati l-iskejjel speċjali? Il-pubblikazzjoni preżenti dwar l-istatistika ta’ pedagoġija speċjali tittratta informazzjoni dwar studenti bi bżonnijiet edukattivi speċjali, persunal pedagoġiku speċjali u skejjel speċjali. Ir-riżultati huma relatati mas-sena skolastika 2018/19.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">How many pupils in the regular schools have an increased special pedagogical measure? How many pupils attend a special school? What is the proportion of special pedagogical staff in the compulsory school? What is the care relationship? How are the special schools organised? The present publication on the statistics of special pedagogy deals with information on learners with special educational needs, special pedagogical staff and special schools. The results relate to the 2018/19 school year.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Στατιστικά της Ειδικής Αγωγής</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-30T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A speciális oktatás statisztikái</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Statistiques de la pédagogie spéciale</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Статистика на специалното образование</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí an Oideachais Speisialta</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Hur många elever i de vanliga skolorna har en ökad särskild pedagogisk åtgärd? Hur många elever går i en specialskola? Hur stor är andelen särskild pedagogisk personal i grundskolan?
+Vad är vårdrelationen?
+Hur organiseras specialskolorna?
+Den aktuella publikationen om statistik över specialpedagogik behandlar information om elever med särskilda utbildningsbehov, särskild pedagogisk personal och specialskolor.
+Resultaten avser läsåret 2018/19.</dct:description>
+            <dct:description xml:lang="de">Wie viele Schülerinnen und Schüler in den Regelschulen haben eine verstärkte sonderpädagogische Massnahme? Wie viele Schülerinnen und Schüler besuchen eine Sonderschule? Wie hoch ist der Anteil des sonderpädagogischen Personals in der obligatorischen Schule? Wie ist das Betreuungsverhältnis? Wie sind die Sonderschulen organisiert? Bei der vorliegenden Publikation zur Statistik der Sonderpädagogik handelt es sich um Informationen zu den Lernenden mit einem sonderpädagogischen Bildungsbedarf, dem sonderpädagogischen Personal und den Sonderschulen. Die Ergebnisse beziehen sich auf das Schuljahr 2018/19.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Cé mhéad dalta sna scoileanna rialta a bhfuil beart oideolaíoch speisialta méadaithe acu? Cé mhéad dalta a fhreastalaíonn ar scoil speisialta? Cad é cion na foirne oideolaíochta speisialta sa scoil éigeantach? Cad é an caidreamh cúraim? Conas a eagraítear na scoileanna speisialta? Baineann an foilseachán seo ar staitisticí na hoideolaíochta speisialta le heolas faoi fhoghlaimeoirí a bhfuil riachtanais speisialta oideachais acu, faoi fhoireann speisialta oideolaíochta agus faoi scoileanna speisialta. Baineann na torthaí leis an scoilbhliain 2018/19.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Statistika specijalnog obrazovanja</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Статистика спеціальної освіти</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estatísticas da Educação Especial</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štatistika špeciálneho vzdelávania</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="et-t-de-t0-mtec">Erihariduse statistika</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Kiek mokinių eilinėse mokyklose turi padidintą specialią pedagoginę priemonę? Kiek mokinių lanko specialią mokyklą? Kokia yra specialiųjų pedagoginių darbuotojų dalis privalomojoje mokykloje? Kas yra priežiūros santykiai? Kaip organizuojamos specialiosios mokyklos? Šiame leidinyje apie specialiosios pedagogikos statistiką pateikiama informacija apie specialiųjų ugdymosi poreikių turinčius moksleivius, specialųjį pedagoginį personalą ir specialiąsias mokyklas. Rezultatai susiję su 2018–19 mokslo metais.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Statistik over specialundervisning</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Combien d’élèves dans les écoles ordinaires ont-ils des mesures pédagogiques spéciales renforcées? Combien d’élèves fréquentent une école spéciale? Quelle est la proportion de personnel éducatif spécialisé dans l’école obligatoire? Quelle est la relation de garde? Comment les écoles spéciales sont-elles organisées? La présente publication sur la statistique de la pédagogie spéciale est une information sur les apprenants ayant des besoins éducatifs particuliers, le personnel éducatif spécialisé et les écoles spéciales. Les résultats se rapportent à l’année scolaire 2018/19.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Kuinka monella tavallisten koulujen oppilailla on lisääntynyt erityispedagoginen toimenpide? Kuinka monta oppilasta käy erityiskoulua? Mikä on oppivelvollisuuskoulun erityispedagogiikan osuus? Mikä on hoitosuhde? Miten erikoiskoulut järjestetään? Tämä erityispedagogiikan tilastojulkaisu käsittelee tietoa erityisopetusta tarvitsevista oppijoista, erityispedagogisesta henkilöstöstä ja erityiskouluista. Tulokset liittyvät lukuvuoteen 2018/19.</dct:description>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14776871/master"/>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Statistika ta ‘Edukazzjoni Speċjali</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Erityisopetuksen tilastot</dct:title>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="de">Statistik der Sonderpädagogik</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Statistika speciálního vzdělávání</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Hoeveel leerlingen op de reguliere scholen hebben een verhoogde speciale pedagogische maatregel? Hoeveel leerlingen gaan naar een speciale school? Wat is het aandeel van speciaal pedagogisch personeel in de verplichte school?
+Wat is de zorgrelatie?
+Hoe worden de speciale scholen georganiseerd?
+De huidige publicatie over de statistieken van de speciale pedagogie behandelt informatie over leerlingen met speciale onderwijsbehoeften, speciaal pedagogisch personeel en speciale scholen.
+De resultaten hebben betrekking op het schooljaar 2018/19.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Kolik žáků v běžných školách má zvýšené speciální pedagogické opatření? Kolik žáků navštěvuje speciální školu? Jaký je podíl zvláštních pedagogických pracovníků na povinné škole? Jaký je vztah péče? Jak jsou organizovány speciální školy? Tato publikace o statistice speciální pedagogiky se zabývá informacemi o studentech se speciálními vzdělávacími potřebami, speciálních pedagogických pracovníků a speciálních školách. Výsledky se týkají školního roku 2018/19.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ilu uczniów w regularnych szkołach ma zwiększoną szczególną formę pedagogiczną? Ilu uczniów uczęszcza do specjalnej szkoły?
+Jaki jest odsetek kadry pedagogicznej w szkole obowiązkowej?
+Jaki jest związek opiekuńczy?
+Jak organizowane są szkoły specjalne?
+Niniejsza publikacja poświęcona statystyce pedagogiki specjalnej dotyczy informacji o osobach uczących się o specjalnych potrzebach edukacyjnych, specjalnych kadrach pedagogicznych i szkołach specjalnych.
+Wyniki dotyczą roku szkolnego 2018/19.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Koliko učencev v rednih šolah ima povečan poseben pedagoški ukrep? Koliko učencev obiskuje posebno šolo? Kolikšen je delež posebnega pedagoškega osebja v obvezni šoli?
+Kaj je skrbniško razmerje?
+Kako so organizirane posebne šole?
+Ta publikacija o statistiki posebne pedagogike obravnava informacije o učencih s posebnimi izobraževalnimi potrebami, posebnem pedagoškem osebju in posebnih šolah.
+Rezultati se nanašajo na šolsko leto 2018/19.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Hvor mange elever på de almindelige skoler har en øget særlig pædagogisk foranstaltning? Hvor mange elever går på en særlig skole? Hvor stor er andelen af specialpædagogisk personale i den obligatoriske skole? Hvad er plejeforholdet? Hvordan tilrettelægges specialskolerne? Nærværende publikation om statistik over specialpædagogik omhandler oplysninger om elever med særlige uddannelsesbehov, særligt pædagogisk personale og specialskoler. Resultaterne vedrører skoleåret 2018/19.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Quantos alunos das escolas regulares têm uma medida pedagógica especial acrescida? Quantos alunos frequentam uma escola especial?
+Qual é a proporção de pessoal pedagógico especial na escola obrigatória?
+Qual é a relação de cuidado?
+Como se organizam as escolas especiais?
+A presente publicação sobre as estatísticas da pedagogia especial trata da informação sobre os alunos com necessidades educativas especiais, pessoal pedagógico especial e escolas especiais.
+Os resultados referem-se ao ano letivo 2018/19.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">A rendszeres iskolákban hány diák rendelkezik fokozott pedagógiai intézkedéssel? Hány diák jár speciális iskolába? Mekkora a speciális pedagógiai személyzet aránya a kötelező iskolában? Mi a gondozási kapcsolat? Hogyan szerveződnek a speciális iskolák? A speciális pedagógiai statisztikákról szóló jelen kiadvány a speciális nevelési igényű tanulókra, a speciális pedagógiai személyzetre és a speciális iskolákra vonatkozó információkkal foglalkozik. Az eredmények a 2018/19-es tanévre vonatkoznak.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Πόσοι μαθητές στα κανονικά σχολεία έχουν αυξημένο ειδικό παιδαγωγικό μέτρο; Πόσοι μαθητές φοιτούν σε ένα ειδικό σχολείο; Ποιο είναι το ποσοστό του ειδικού παιδαγωγικού προσωπικού στο υποχρεωτικό σχολείο; Ποια είναι η σχέση φροντίδας; Πώς οργανώνονται τα ειδικά σχολεία; Η παρούσα έκδοση για τα στατιστικά της ειδικής παιδαγωγικής ασχολείται με την ενημέρωση για τους εκπαιδευόμενους με ειδικές εκπαιδευτικές ανάγκες, το ειδικό παιδαγωγικό προσωπικό και τα ειδικά σχολεία. Τα αποτελέσματα αφορούν το σχολικό έτος 2018/19.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Cik skolēnu parastajās skolās ir pastiprināts īpašs pedagoģiskais pasākums? Cik skolēnu apmeklē īpašu skolu? Kāda ir īpašā pedagoģiskā personāla proporcija obligātajā skolā? Kādas ir aprūpes attiecības? Kā tiek organizētas speciālās skolas? Šī publikācija par speciālās pedagoģijas statistiku attiecas uz informāciju par izglītojamajiem ar speciālām izglītības vajadzībām, speciālo pedagoģisko personālu un speciālajām skolām. Rezultāti attiecas uz 2018./19. mācību gadu.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Скільки учнів у звичайних школах мають підвищену спеціальну педагогічну міру? Скільки учнів відвідує спеціальну школу? Яка частка спеціального педагогічного персоналу в обов'язковому навчальному закладі?
+Що таке турбота про відносини?
+Як організовуються спеціальні школи?
+У нинішньому виданні зі статистики спеціальної педагогіки розглядається інформація про учнів з особливими освітніми потребами, спеціальних педагогічних працівників та спеціальних навчальних закладах.
+Результати стосуються 2018/19 навчального року.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-26T00:00:00</dct:modified>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Câți elevi din școlile obișnuite au o măsură pedagogică specială sporită?
+Câți elevi merg la o școală specială?
+Care este proporția personalului pedagogic special din școala obligatorie?
+Care este relația de îngrijire?
+Cum se organizează școlile speciale?
+Prezenta publicație privind statisticile pedagogiei speciale se referă la informații despre cursanții cu nevoi educaționale speciale, personalul pedagogic special și școlile speciale.
+Rezultatele se referă la anul școlar 2018/19.</dct:description>
+            <dct:identifier>14776871-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estadísticas de Educación Especial</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Statistika posebnega izobraževanja</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Statystyki edukacji specjalnej</dct:title>
+        <dcat:keyword xml:lang="de">publikation</dcat:keyword>
+        <dcat:keyword xml:lang="en">educational-institutions</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Statistik over specialundervisning</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Štatistika špeciálneho vzdelávania</dct:title>
+        <dcat:keyword xml:lang="en">learners-pupils-and-students-schooling-and-vocationalprofessional-education-and-training</dcat:keyword>
+        <dct:title xml:lang="de">Statistik der Sonderpädagogik</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Koľko žiakov v bežných školách má zvýšené osobitné pedagogické opatrenie? Koľko žiakov navštevuje špeciálnu školu? Aký je podiel špeciálnych pedagogických pracovníkov v povinnej škole? Aký je vzťah starostlivosti? Ako sa organizujú špeciálne školy? Táto publikácia o štatistike špeciálnej pedagogiky sa zaoberá informáciami o študentoch so špeciálnymi vzdelávacími potrebami, špeciálnych pedagogických pracovníkoch a špeciálnych školách. Výsledky sa týkajú školského roka 2018/19. Koľko žiakov v bežných školách má zvýšené osobitné pedagogické opatrenie? Koľko žiakov navštevuje špeciálnu školu? Aký je podiel špeciálnych pedagogických pracovníkov v povinnej škole? Aký je vzťah starostlivosti? Ako sa organizujú špeciálne školy? Táto publikácia o štatistike špeciálnej pedagogiky sa zaoberá informáciami o študentoch so špeciálnymi vzdelávacími potrebami, špeciálnych pedagogických pracovníkoch a špeciálnych školách. Výsledky sa týkajú školského roka 2018/19.</dct:description>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Câți elevi din școlile obișnuite au o măsură pedagogică specială sporită? Câți elevi merg la o școală specială? Care este proporția personalului pedagogic special din școala obligatorie? Care este relația de îngrijire? Cum se organizează școlile speciale? Prezenta publicație privind statisticile pedagogiei speciale se referă la informații despre cursanții cu nevoi educaționale speciale, personalul pedagogic special și școlile speciale. Rezultatele se referă la anul școlar 2018/19. Câți elevi din școlile obișnuite au o măsură pedagogică specială sporită? Câți elevi merg la o școală specială? Care este proporția personalului pedagogic special din școala obligatorie? Care este relația de îngrijire? Cum se organizează școlile speciale? Prezenta publicație privind statisticile pedagogiei speciale se referă la informații despre cursanții cu nevoi educaționale speciale, personalul pedagogic special și școlile speciale. Rezultatele se referă la anul școlar 2018/19.</dct:description>
+        <dcat:keyword xml:lang="fr">institutions-de-formation</dcat:keyword>
+        <dcat:keyword xml:lang="it">personale-scolastico</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a706db45-789a-4151-b111-01a5d3a9648c">
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Statistika specijalizirane pedagogije</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Статистически данни за специализираната педагогика</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Statistik der Fachpädagogik</dct:title>
+            <dct:description xml:lang="et-t-fr-t0-mtec">Kui paljud tavakooli õpilased saavad kasu eripedagoogika täiustatud meetmest? Kui palju õpilasi käib erikoolis? Kui suur on kohustusliku kooli eripedagoogika töötajate osakaal?
+Mis on juhtimise määr?
+Kuidas korraldatakse spetsialiseeritud koole?
+Käesolevas eripedagoogika statistikat käsitlevas väljaandes antakse teavet hariduslike erivajadustega õpilaste, eripedagoogika töötajate ja erikoolide kohta.
+Need tulemused põhinevad 2018/19 õppeaasta andmetel.</dct:description>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-26T00:00:00</dct:modified>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Quantos alunos das escolas comuns beneficiam de uma medida reforçada de pedagogia especializada? Quantos alunos frequentam uma escola especializada?
+Qual é a parcela do pessoal de pedagogia especializada na escola obrigatória?
+Qual é a taxa de gestão?
+Como se organizam as escolas especializadas?
+Esta publicação sobre estatísticas sobre pedagogia especializada fornece informações sobre os alunos com necessidades educativas especiais, sobre o pessoal da pedagogia especializada e sobre as escolas especializadas.
+Esses resultados são ganzas em dados do ano letivo 2018/19.</dct:description>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Statistika odborné pedagogiky</dct:title>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Hoeveel leerlingen op gewone scholen profiteren van een versterkte mate van gespecialiseerde pedagogie? Hoeveel studenten gaan naar een gespecialiseerde school? Wat is het aandeel van het personeel van gespecialiseerde pedagogie op de verplichte school? Wat is het beheerspercentage?
+Hoe worden gespecialiseerde scholen georganiseerd?
+Deze publicatie over statistieken over gespecialiseerde pedagogie biedt informatie over leerlingen met speciale onderwijsbehoeften, over het personeel van gespecialiseerde pedagogie en over gespecialiseerde scholen.
+Deze resultaten zijn gebaseerd op gegevens uit het schooljaar 2018/19.</dct:description>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Statistici privind pedagogia specializată</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-30T00:00:00</dct:issued>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Πόσοι μαθητές στα κανονικά σχολεία επωφελούνται από ένα ενισχυμένο μέτρο εξειδικευμένης παιδαγωγικής; Πόσοι μαθητές φοιτούν σε ένα εξειδικευμένο σχολείο; Ποιο είναι το ποσοστό του προσωπικού της εξειδικευμένης παιδαγωγικής στο υποχρεωτικό σχολείο; Ποιο είναι το ποσοστό διαχείρισης; Πώς οργανώνονται τα εξειδικευμένα σχολεία; Η παρούσα έκδοση στατιστικών για την εξειδικευμένη παιδαγωγική παρέχει πληροφορίες για τους μαθητές με ειδικές εκπαιδευτικές ανάγκες, για το προσωπικό της εξειδικευμένης παιδαγωγικής και για τα εξειδικευμένα σχολεία. Τα αποτελέσματα αυτά βασίζονται σε στοιχεία από το σχολικό έτος 2018/19.</dct:description>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estatísticas sobre pedagogia especializada</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Statistika spetsialiseeritud pedagoogika kohta</dct:title>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Kiek mokinių įprastose mokyklose naudojasi patobulinta specializuotos pedagogikos priemone? Kiek mokinių lanko specializuotą mokyklą? Kokia yra specializuotos pedagogikos darbuotojų dalis privalomojoje mokykloje? Kas yra valdymo norma? Kaip organizuojamos specializuotos mokyklos? Šiame leidinyje apie specializuotos pedagogikos statistiką pateikiama informacija apie specialiųjų ugdymosi poreikių turinčius moksleivius, specializuotos pedagogikos darbuotojus ir specializuotas mokyklas. Šie rezultatai pagrįsti 2018–19 mokslo metų duomenimis. Kiek mokinių įprastose mokyklose naudojasi patobulinta specializuotos pedagogikos priemone? Kiek mokinių lanko specializuotą mokyklą? Kokia yra specializuotos pedagogikos darbuotojų dalis privalomojoje mokykloje? Kas yra valdymo norma? Kaip organizuojamos specializuotos mokyklos? Šiame leidinyje apie specializuotos pedagogikos statistiką pateikiama informacija apie specialiųjų ugdymosi poreikių turinčius moksleivius, specializuotos pedagogikos darbuotojus ir specializuotas mokyklas.
+Šie rezultatai pagrįsti 2018–19 mokslo metų duomenimis.</dct:description>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Statistiche sulla pedagogia specializzata</dct:title>
+            <dct:description xml:lang="es-t-fr-t0-mtec">¿Cuántos alumnos de las escuelas ordinarias se benefician de una medida mejorada de pedagogía especializada? ¿Cuántos estudiantes asisten a una escuela especializada? ¿Cuál es la proporción del personal de pedagogía especializada en la escuela obligatoria? ¿Cuál es la tasa de gestión? ¿Cómo se organizan las escuelas especializadas? Esta publicación sobre estadísticas sobre pedagogía especializada proporciona información sobre alumnos con necesidades educativas especiales, sobre el personal de pedagogía especializada y sobre escuelas especializadas. Estos resultados se basan en datos del año escolar 2018/19. ¿Cuántos alumnos de las escuelas ordinarias se benefician de una medida mejorada de pedagogía especializada? ¿Cuántos estudiantes asisten a una escuela especializada? ¿Cuál es la proporción del personal de pedagogía especializada en la escuela obligatoria? ¿Cuál es la tasa de gestión? ¿Cómo se organizan las escuelas especializadas? Esta publicación sobre estadísticas sobre pedagogía especializada proporciona información sobre alumnos con necesidades educativas especiales, sobre el personal de pedagogía especializada y sobre escuelas especializadas. Estos resultados se basan en datos del año escolar 2018/19. ¿Cuántos alumnos de las escuelas ordinarias se benefician de una medida mejorada de pedagogía especializada? ¿Cuántos estudiantes asisten a una escuela especializada? ¿Cuál es la proporción del personal de pedagogía especializada en la escuela obligatoria? ¿Cuál es la tasa de gestión? ¿Cómo se organizan las escuelas especializadas?
+Esta publicación sobre estadísticas sobre pedagogía especializada proporciona información sobre alumnos con necesidades educativas especiales, sobre el personal de pedagogía especializada y sobre escuelas especializadas.
+Estos resultados se basan en datos del año escolar 2018/19.</dct:description>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Staidreamh maidir le hoideolaíocht speisialaithe</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Szakpedagógiai statisztika</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Statistik om specialiseret pædagogik</dct:title>
+            <dct:description xml:lang="fr">Combien d’élèves des écoles ordinaires sont au bénéfice d’une mesure renforcée de pédagogie spécialisée? Combien d’élèves fréquentent une école spécialisée? Quelle est la part du personnel de la pédagogie spécialisée à l’école obligatoire? Quel est le taux d’encadrement? Comment les écoles spécialisées sont-elles organisées? Cette publication relative à la statistique de la pédagogie spécialisée présente des informations sur les élèves ayant des besoins éducatifs particuliers, sur le personnel de la pédagogie spécialisée et sur les écoles spécialisées. Ces résultats se fondent sur les données de l’année scolaire 2018/19.</dct:description>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Specializuotos pedagogikos statistika</dct:title>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Hvor mange elever i almindelige skoler nyder godt af en øget grad af specialiseret pædagogik? Hvor mange elever går på en specialskole? Hvor stor er andelen af ansatte i specialiseret pædagogik i den obligatoriske skolegang? Hvad er ledelsesraten? Hvordan organiseres specialiserede skoler? Denne publikation om statistikker over specialiseret pædagogik indeholder oplysninger om elever med særlige uddannelsesbehov, om personalet i specialiseret pædagogik og om specialiserede skoler. Disse resultater er baseret på data fra skoleåret 2018/19. Hvor mange elever i almindelige skoler nyder godt af en øget grad af specialiseret pædagogik? Hvor mange elever går på en specialskole? Hvor stor er andelen af ansatte i specialiseret pædagogik i den obligatoriske skolegang? Hvad er ledelsesraten? Hvordan organiseres specialiserede skoler? Denne publikation om statistikker over specialiseret pædagogik indeholder oplysninger om elever med særlige uddannelsesbehov, om personalet i specialiseret pædagogik og om specialiserede skoler.
+Disse resultater er baseret på data fra skoleåret 2018/19.</dct:description>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Kemm-il student fl-iskejjel ordinarji jibbenefikaw minn miżura mtejba ta’ pedagoġija speċjalizzata? Kemm studenti jattendu skola speċjalizzata? X’inhu s-sehem tal-persunal tal-pedagoġija speċjalizzata fl-iskola obbligatorja? X’inhi r-rata ta’ ġestjoni? Kif jiġu organizzati skejjel speċjalizzati? Din il-pubblikazzjoni dwar l-istatistika dwar il-pedagoġija speċjalizzata tipprovdi informazzjoni dwar studenti bi bżonnijiet edukattivi speċjali, dwar il-persunal ta’ pedagoġija speċjalizzata u dwar skejjel speċjalizzati. Dawn ir-riżultati huma bbażati fuq data mis-sena skolastika 2018/19. Kemm-il student fl-iskejjel ordinarji jibbenefikaw minn miżura mtejba ta’ pedagoġija speċjalizzata? Kemm studenti jattendu skola speċjalizzata? X’inhu s-sehem tal-persunal tal-pedagoġija speċjalizzata fl-iskola obbligatorja? X’inhi r-rata ta’ ġestjoni? Kif jiġu organizzati skejjel speċjalizzati? Din il-pubblikazzjoni dwar l-istatistika dwar il-pedagoġija speċjalizzata tipprovdi informazzjoni dwar studenti bi bżonnijiet edukattivi speċjali, dwar il-persunal ta’ pedagoġija speċjalizzata u dwar skejjel speċjalizzati. Dawn ir-riżultati huma bbażati fuq data mis-sena skolastika 2018/19. Kemm-il student fl-iskejjel ordinarji jibbenefikaw minn miżura mtejba ta’ pedagoġija speċjalizzata? Kemm studenti jattendu skola speċjalizzata?
+X’inhu s-sehem tal-persunal tal-pedagoġija speċjalizzata fl-iskola obbligatorja?
+X’inhi r-rata ta’ ġestjoni?
+Kif jiġu organizzati skejjel speċjalizzati?
+Din il-pubblikazzjoni dwar l-istatistika dwar il-pedagoġija speċjalizzata tipprovdi informazzjoni dwar studenti bi bżonnijiet edukattivi speċjali, dwar il-persunal ta’ pedagoġija speċjalizzata u dwar skejjel speċjalizzati.
+Dawn ir-riżultati huma bbażati fuq data mis-sena skolastika 2018/19.</dct:description>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">Koliko učencev v običajnih šolah ima koristi od okrepljenega ukrepa specializirane pedagogike? Koliko učencev obiskuje specializirano šolo? Kolikšen je delež osebja specializirane pedagogike v obvezni šoli? Kakšna je stopnja upravljanja? Kako so organizirane specializirane šole? Publikacija o statistiki specializirane pedagogike vsebuje informacije o učencih s posebnimi izobraževalnimi potrebami, osebju specializirane pedagogike in specializiranih šolah. Ti rezultati temeljijo na podatkih iz šolskega leta 2018/19.</dct:description>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Kuinka moni tavallisten koulujen oppilas hyötyy erityispedagogiikan tehostetusta toimenpiteestä? Kuinka monta opiskelijaa osallistuu erikoiskouluun? Mikä on oppivelvollisuuskoulun erityispedagogiikan henkilöstön osuus? Mikä on hallintoaste? Miten erikoiskoulut järjestetään? Tässä erityispedagogiikan tilastojulkaisussa annetaan tietoa erityisopetusta tarvitsevista oppilaista, erityispedagogiikan henkilöstöstä ja erikoiskouluista. Tulokset perustuvat lukuvuoden 2018/19 tietoihin. Kuinka moni tavallisten koulujen oppilas hyötyy erityispedagogiikan tehostetusta toimenpiteestä? Kuinka monta opiskelijaa osallistuu erikoiskouluun? Mikä on oppivelvollisuuskoulun erityispedagogiikan henkilöstön osuus? Mikä on hallintoaste? Miten erikoiskoulut järjestetään? Tässä erityispedagogiikan tilastojulkaisussa annetaan tietoa erityisopetusta tarvitsevista oppilaista, erityispedagogiikan henkilöstöstä ja erikoiskouluista.
+Tulokset perustuvat lukuvuoden 2018/19 tietoihin.</dct:description>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Στατιστικές για την εξειδικευμένη παιδαγωγική</dct:title>
+            <dct:description xml:lang="de-t-fr-t0-mtec">Wie viele Schüler in normalen Schulen profitieren von einer verstärkten Sonderpädagogik? Wie viele Schüler besuchen eine Fachschule? Wie hoch ist der Anteil der Fachpädagogik an der Pflichtschule? Wie hoch ist die Führungsquote? Wie werden Fachschulen organisiert? Diese Veröffentlichung über die Statistik der Fachpädagogik enthält Informationen über Schüler mit besonderen pädagogischen Bedürfnissen, über das Personal der Fachpädagogik und über die Fachschulen. Diese Ergebnisse basieren auf Daten für das Schuljahr 2018/19.</dct:description>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Ilu uczniów w szkołach zwyczajnych korzysta ze zwiększonego zakresu pedagogiki specjalistycznej? Ilu uczniów uczęszcza do specjalistycznej szkoły? Jaki jest udział personelu pedagogiki specjalistycznej w szkole obowiązkowej? Jaki jest wskaźnik zarządzania? W jaki sposób organizowane są szkoły specjalistyczne? Niniejsza publikacja na temat statystyk dotyczących pedagogiki specjalistycznej zawiera informacje na temat uczniów o specjalnych potrzebach edukacyjnych, personelu pedagogiki specjalistycznej i szkół specjalistycznych. Wyniki te są oparte na danych z roku szkolnego 2018/19.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Hány diák részesül a hagyományos iskolákban a speciális pedagógia fokozott mértékéből? Hány diák jár speciális iskolába? Mekkora a speciális pedagógiai személyzet aránya a kötelező iskolában? Mekkora az irányítási arány? Hogyan szerveződnek a szakiskolák? A speciális pedagógiai statisztikákról szóló kiadvány tájékoztatást nyújt a sajátos nevelési igényű tanulókról, a szakpedagógiai személyzetről és a szakiskolákról. Ezek az eredmények a 2018/19-es tanév adatain alapulnak. Hány diák részesül a hagyományos iskolákban a speciális pedagógia fokozott mértékéből? Hány diák jár speciális iskolába? Mekkora a speciális pedagógiai személyzet aránya a kötelező iskolában? Mekkora az irányítási arány? Hogyan szerveződnek a szakiskolák? A speciális pedagógiai statisztikákról szóló kiadvány tájékoztatást nyújt a sajátos nevelési igényű tanulókról, a szakpedagógiai személyzetről és a szakiskolákról. Ezek az eredmények a 2018/19-es tanév adatain alapulnak. Hány diák részesül a hagyományos iskolákban a speciális pedagógia fokozott mértékéből? Hány diák jár speciális iskolába? Mekkora a speciális pedagógiai személyzet aránya a kötelező iskolában? Mekkora az irányítási arány? Hogyan szerveződnek a szakiskolák?
+A speciális pedagógiai statisztikákról szóló kiadvány tájékoztatást nyújt a sajátos nevelési igényű tanulókról, a szakpedagógiai személyzetről és a szakiskolákról.
+Ezek az eredmények a 2018/19-es tanév adatain alapulnak.</dct:description>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">Колко ученици в обикновените училища се възползват от засилена мярка за специализирана педагогика? Колко ученици посещават специализирано училище? Какъв е делът на персонала на специализирана педагогика в задължителното училище? Каква е степента на управление? Как се организират специализираните училища? Настоящата публикация за статистиката на специализираната педагогика предоставя информация за учениците със специални образователни потребности, за персонала на специализираната педагогика и за специализираните училища. Тези резултати се основават на данни от учебната 2018/19 година. Колко ученици в обикновените училища се възползват от засилена мярка за специализирана педагогика? Колко ученици посещават специализирано училище? Какъв е делът на персонала на специализирана педагогика в задължителното училище? Каква е степента на управление? Как се организират специализираните училища? Настоящата публикация за статистиката на специализираната педагогика предоставя информация за учениците със специални образователни потребности, за персонала на специализираната педагогика и за специализираните училища. Тези резултати се основават на данни от учебната 2018/19 година. Колко ученици в обикновените училища се възползват от засилена мярка за специализирана педагогика? Колко ученици посещават специализирано училище? Какъв е делът на персонала на специализирана педагогика в задължителното училище? Каква е степента на управление? Как се организират специализираните училища?
+Настоящата публикация за статистиката на специализираната педагогика предоставя информация за учениците със специални образователни потребности, за персонала на специализираната педагогика и за специализираните училища.
+Тези резултати се основават на данни от учебната 2018/19 година.</dct:description>
+            <dct:description xml:lang="en-t-fr-t0-mtec">How many pupils in ordinary schools benefit from an enhanced measure of specialised pedagogy? How many students attend a specialised school? What is the share of the staff of specialised pedagogy at compulsory school? What is the management rate? How are specialised schools organised? This publication on statistics on specialised pedagogy provides information on pupils with special educational needs, on the staff of specialised pedagogy and on specialised schools. These results are based on data from the 2018/19 school year.</dct:description>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Statistični podatki o specializirani pedagogiki</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štatistika špecializovanej pedagogiky</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Statistieken over gespecialiseerde pedagogie</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Erikoispedagogiikan tilastot</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Statistics on specialised pedagogy</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Statistik om specialiserad pedagogik</dct:title>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">Hur många elever i vanliga skolor drar nytta av ett förbättrat mått på specialiserad pedagogik? Hur många elever går i en specialiserad skola? Hur stor är andelen personal inom specialpedagogik i grundskolan? Vad är förvaltningsräntan? Hur organiseras specialiserade skolor? Denna publikation om statistik över specialiserad pedagogik ger information om elever med särskilda utbildningsbehov, om personalen vid specialiserad pedagogik och om specialiserade skolor. Dessa resultat bygger på uppgifter från läsåret 2018/19.</dct:description>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">Cé mhéad dalta i ngnáthscoileanna a thairbhíonn de bheart feabhsaithe d’oideolaíocht speisialaithe? Cé mhéad mac léinn a fhreastalaíonn ar scoil speisialaithe? Cén sciar d’fhoireann na hoideolaíochta speisialaithe sa scoil éigeantach? Cad é an ráta bainistíochta? Conas a eagraítear scoileanna speisialaithe? Soláthraíonn an foilseachán seo ar staitisticí maidir le hoideolaíocht speisialaithe eolas ar dhaltaí a bhfuil riachtanais speisialta oideachais acu, ar fhoireann sainoideolaíochta agus ar scoileanna speisialaithe.
+Tá na torthaí seo bunaithe ar shonraí ón scoilbhliain 2018/19.</dct:description>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">Câți elevi din școlile obișnuite beneficiază de o măsură sporită de pedagogie specializată? Câți elevi frecventează o școală specializată? Care este ponderea personalului pedagogiei specializate la școala obligatorie? Care este rata de management? Cum se organizează școlile specializate? Această publicație privind statisticile pedagogiei specializate oferă informații despre elevii cu nevoi educaționale speciale, despre personalul pedagogiei specializate și despre școlile specializate. Aceste rezultate se bazează pe date din anul școlar 2018/19. Câți elevi din școlile obișnuite beneficiază de o măsură sporită de pedagogie specializată? Câți elevi frecventează o școală specializată? Care este ponderea personalului pedagogiei specializate la școala obligatorie? Care este rata de management? Cum se organizează școlile specializate? Această publicație privind statisticile pedagogiei specializate oferă informații despre elevii cu nevoi educaționale speciale, despre personalul pedagogiei specializate și despre școlile specializate. Aceste rezultate se bazează pe date din anul școlar 2018/19. Câți elevi din școlile obișnuite beneficiază de o măsură sporită de pedagogie specializată? Câți elevi frecventează o școală specializată? Care este ponderea personalului pedagogiei specializate la școala obligatorie? Care este rata de management? Cum se organizează școlile specializate?
+Această publicație privind statisticile pedagogiei specializate oferă informații despre elevii cu nevoi educaționale speciale, despre personalul pedagogiei specializate și despre școlile specializate.
+Aceste rezultate se bazează pe date din anul școlar 2018/19.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">Kolik žáků v běžných školách těží z posíleného opatření specializované pedagogiky? Kolik studentů navštěvuje specializovanou školu? Jaký je podíl zaměstnanců specializované pedagogiky na povinné škole? Jaká je míra řízení?
+Jak jsou organizovány specializované školy?
+Tato publikace o statistice specializované pedagogiky poskytuje informace o žácích se zvláštními vzdělávacími potřebami, o pracovnících specializované pedagogiky a o specializovaných školách.
+Tyto výsledky vycházejí z údajů ze školního roku 2018/19.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14776869/master"/>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Statystyki dotyczące pedagogiki specjalistycznej</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Statistika par specializētu pedagoģiju</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14776869/master"/>
+            <dct:title xml:lang="fr">Statistique de la pédagogie spécialisée</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Statistika dwar pedagoġija speċjalizzata</dct:title>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Cik skolēnu parastajās skolās gūst labumu no pastiprinātas specializētās pedagoģijas? Cik skolēnu apmeklē specializētu skolu? Kāds ir specializētās pedagoģijas darbinieku īpatsvars obligātajā skolā? Kāds ir pārvaldības līmenis? Kā tiek organizētas specializētās skolas? Šī publikācija par specializētās pedagoģijas statistiku sniedz informāciju par skolēniem ar īpašām izglītības vajadzībām, par specializētās pedagoģijas personālu un specializētajām skolām. Šo rezultātu pamatā ir dati par 2018./19. mācību gadu. Cik skolēnu parastajās skolās gūst labumu no pastiprinātas specializētās pedagoģijas? Cik skolēnu apmeklē specializētu skolu? Kāds ir specializētās pedagoģijas darbinieku īpatsvars obligātajā skolā? Kāds ir pārvaldības līmenis? Kā tiek organizētas specializētās skolas? Šī publikācija par specializētās pedagoģijas statistiku sniedz informāciju par skolēniem ar īpašām izglītības vajadzībām, par specializētās pedagoģijas personālu un specializētajām skolām. Šo rezultātu pamatā ir dati par 2018./19. mācību gadu. Cik skolēnu parastajās skolās gūst labumu no pastiprinātas specializētās pedagoģijas? Cik skolēnu apmeklē specializētu skolu? Kāds ir specializētās pedagoģijas darbinieku īpatsvars obligātajā skolā?
+Kāds ir pārvaldības līmenis?
+Kā tiek organizētas specializētās skolas?
+Šī publikācija par specializētās pedagoģijas statistiku sniedz informāciju par skolēniem ar īpašām izglītības vajadzībām, par specializētās pedagoģijas personālu un specializētajām skolām.
+Šo rezultātu pamatā ir dati par 2018./19. mācību gadu.</dct:description>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">Koľko žiakov na bežných školách má prospech z posilneného opatrenia špecializovanej pedagogiky? Koľko študentov navštevuje špecializovanú školu? Aký je podiel zamestnancov špecializovanej pedagogiky na povinnej škole? Aká je miera riadenia? Ako sa organizujú špecializované školy? Táto publikácia o štatistike špecializovanej pedagogiky poskytuje informácie o žiakoch so špeciálnymi vzdelávacími potrebami, o zamestnancoch špecializovanej pedagogiky a o špecializovaných školách. Tieto výsledky sú založené na údajoch zo školského roka 2018/19.</dct:description>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estadísticas sobre pedagogía especializada</dct:title>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">Скільки учнів у звичайних школах отримують вигоду від посиленої міри спеціалізованої педагогіки? Скільки учнів відвідують спеціалізовану школу? Яка частка персоналу спеціалізованої педагогіки в обов'язковому навчальному закладі? Що таке рівень управління? Як організовуються спеціалізовані школи? Ця публікація зі статистики з спеціалізованої педагогіки містить інформацію про учнів з особливими освітніми потребами, про персонал спеціалізованої педагогіки та про спеціалізовані школи. Ці результати базуються на даних 2018/19 навчального року.</dct:description>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Статистика зі спеціалізованої педагогіки</dct:title>
+            <dct:description xml:lang="it-t-fr-t0-mtec">Quanti alunni nelle scuole ordinarie beneficiano di una maggiore misura di pedagogia specializzata? Quanti studenti frequentano una scuola specializzata? Qual è la quota del personale della pedagogia specializzata nella scuola dell'obbligo?
+Qual è il tasso di gestione?
+Come sono organizzate le scuole specializzate?
+Questa pubblicazione sulle statistiche sulla pedagogia specializzata fornisce informazioni sugli alunni con esigenze educative speciali, sul personale della pedagogia specializzata e sulle scuole specializzate.
+Questi risultati si basano sui dati dell'anno scolastico 2018/19.</dct:description>
+            <dct:identifier>14776869-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">Koliko učenika u redovnim školama ima koristi od poboljšane mjere specijalizirane pedagogije? Koliko učenika pohađa specijaliziranu školu? Koliki je udio osoblja specijalizirane pedagogije u obveznoj školi? Kolika je stopa upravljanja? Kako su organizirane specijalizirane škole? Ova publikacija o statistici specijalizirane pedagogije pruža informacije o učenicima s posebnim obrazovnim potrebama, osoblju specijalizirane pedagogije i specijaliziranim školama. Ti se rezultati temelje na podacima iz školske godine 2018./19.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fr">Combien d’élèves des écoles ordinaires sont au bénéfice d’une mesure renforcée de pédagogie spécialisée? Combien d’élèves fréquentent une école spécialisée? Quelle est la part du personnel de la pédagogie spécialisée à l’école obligatoire? Quel est le taux d’encadrement? Comment les écoles spécialisées sont-elles organisées? Cette publication relative à la statistique de la pédagogie spécialisée présente des informations sur les élèves ayant des besoins éducatifs particuliers, sur le personnel de la pédagogie spécialisée et sur les écoles spécialisées. Ces résultats se fondent sur les données de l’année scolaire 2018/19.</dct:description>
+        <dcat:keyword xml:lang="fr">eleves-et-etudiants-formation-scolaire-et-professionnelle</dcat:keyword>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Колко ученици в редовните училища имат увеличена специална педагогическа мярка? Колко ученици посещават специално училище? Какъв е делът на специалния педагогически персонал в задължителното училище? Каква е връзката с грижите? Как се организират специалните училища? Настоящата публикация за статистиката на специалната педагогика се занимава с информация за обучаеми със специални образователни потребности, специален педагогически персонал и специални училища. Резултатите са свързани с учебната 2018/19 година.</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Statistik över specialpedagogik</dct:title>
+        <dct:description xml:lang="de">Wie viele Schülerinnen und Schüler in den Regelschulen haben eine verstärkte sonderpädagogische Massnahme? Wie viele Schülerinnen und Schüler besuchen eine Sonderschule? Wie hoch ist der Anteil des sonderpädagogischen Personals in der obligatorischen Schule? Wie ist das Betreuungsverhältnis? Wie sind die Sonderschulen organisiert? Bei der vorliegenden Publikation zur Statistik der Sonderpädagogik handelt es sich um Informationen zu den Lernenden mit einem sonderpädagogischen Bildungsbedarf, dem sonderpädagogischen Personal und den Sonderschulen. Die Ergebnisse beziehen sich auf das Schuljahr 2018/19.</dct:description>
+        <dct:identifier>14776867@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A speciális oktatás statisztikái</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Kiek mokinių eilinėse mokyklose turi padidintą specialią pedagoginę priemonę? Kiek mokinių lanko specialią mokyklą? Kokia yra specialiųjų pedagoginių darbuotojų dalis privalomojoje mokykloje? Kas yra priežiūros santykiai? Kaip organizuojamos specialiosios mokyklos? Šiame leidinyje apie specialiosios pedagogikos statistiką pateikiama informacija apie specialiųjų ugdymosi poreikių turinčius moksleivius, specialųjį pedagoginį personalą ir specialiąsias mokyklas. Rezultatai susiję su 2018–19 mokslo metais.</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí an Oideachais Speisialta</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:keyword xml:lang="de">lernende-schulerinnen-und-studierende-schul--und-berufsbildung</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Statistica educației speciale</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Kemm-il student fl-iskejjel regolari għandhom miżura pedagoġika speċjali miżjuda?
+Kemm-il student jattendu skola speċjali?
+X’inhu l-proporzjon ta’ persunal pedagoġiku speċjali fl-iskola obbligatorja?
+X’inhi r-relazzjoni ta ‘kura?
+Kif jiġu organizzati l-iskejjel speċjali?
+Il-pubblikazzjoni preżenti dwar l-istatistika ta’ pedagoġija speċjali tittratta informazzjoni dwar studenti bi bżonnijiet edukattivi speċjali, persunal pedagoġiku speċjali u skejjel speċjali.
+Ir-riżultati huma relatati mas-sena skolastika 2018/19.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/af1bc004-ba52-4daf-81f8-f2329c7603b6">
+            <dct:description xml:lang="et-t-fr-t0-mtec">Kui paljud tavakooli õpilased saavad kasu eripedagoogika täiustatud meetmest? Kui palju õpilasi käib erikoolis? Kui suur on kohustusliku kooli eripedagoogika töötajate osakaal? Mis on juhtimise määr? Kuidas korraldatakse spetsialiseeritud koole? Käesolevas eripedagoogika statistikat käsitlevas väljaandes antakse teavet hariduslike erivajadustega õpilaste, eripedagoogika töötajate ja erikoolide kohta. Need tulemused põhinevad 2018/19 õppeaasta andmetel.</dct:description>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Statistieken over gespecialiseerde pedagogie</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:identifier>14776869-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-30T00:00:00</dct:issued>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">Koľko žiakov na bežných školách má prospech z posilneného opatrenia špecializovanej pedagogiky? Koľko študentov navštevuje špecializovanú školu? Aký je podiel zamestnancov špecializovanej pedagogiky na povinnej škole? Aká je miera riadenia? Ako sa organizujú špecializované školy? Táto publikácia o štatistike špecializovanej pedagogiky poskytuje informácie o žiakoch so špeciálnymi vzdelávacími potrebami, o zamestnancoch špecializovanej pedagogiky a o špecializovaných školách. Tieto výsledky sú založené na údajoch zo školského roka 2018/19.</dct:description>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Statistika specijalizirane pedagogije</dct:title>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Quantos alunos das escolas comuns beneficiam de uma medida reforçada de pedagogia especializada? Quantos alunos frequentam uma escola especializada? Qual é a parcela do pessoal de pedagogia especializada na escola obrigatória? Qual é a taxa de gestão? Como se organizam as escolas especializadas? Esta publicação sobre estatísticas sobre pedagogia especializada fornece informações sobre os alunos com necessidades educativas especiais, sobre o pessoal da pedagogia especializada e sobre as escolas especializadas. Esses resultados são ganzas em dados do ano letivo 2018/19.</dct:description>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Statistika spetsialiseeritud pedagoogika kohta</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Statistici privind pedagogia specializată</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Szakpedagógiai statisztika</dct:title>
+            <dct:description xml:lang="fr">Combien d’élèves des écoles ordinaires sont au bénéfice d’une mesure renforcée de pédagogie spécialisée? Combien d’élèves fréquentent une école spécialisée? Quelle est la part du personnel de la pédagogie spécialisée à l’école obligatoire? Quel est le taux d’encadrement? Comment les écoles spécialisées sont-elles organisées? Cette publication relative à la statistique de la pédagogie spécialisée présente des informations sur les élèves ayant des besoins éducatifs particuliers, sur le personnel de la pédagogie spécialisée et sur les écoles spécialisées. Ces résultats se fondent sur les données de l’année scolaire 2018/19.</dct:description>
+            <dct:title xml:lang="fr">Statistique de la pédagogie spécialisée</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Statistik om specialiseret pædagogik</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Statistiche sulla pedagogia specializzata</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="it-t-fr-t0-mtec">Quanti alunni nelle scuole ordinarie beneficiano di una maggiore misura di pedagogia specializzata? Quanti studenti frequentano una scuola specializzata? Qual è la quota del personale della pedagogia specializzata nella scuola dell'obbligo? Qual è il tasso di gestione? Come sono organizzate le scuole specializzate? Questa pubblicazione sulle statistiche sulla pedagogia specializzata fornisce informazioni sugli alunni con esigenze educative speciali, sul personale della pedagogia specializzata e sulle scuole specializzate. Questi risultati si basano sui dati dell'anno scolastico 2018/19.</dct:description>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Statistika dwar pedagoġija speċjalizzata</dct:title>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">Kolik žáků v běžných školách těží z posíleného opatření specializované pedagogiky? Kolik studentů navštěvuje specializovanou školu? Jaký je podíl zaměstnanců specializované pedagogiky na povinné škole? Jaká je míra řízení? Jak jsou organizovány specializované školy? Tato publikace o statistice specializované pedagogiky poskytuje informace o žácích se zvláštními vzdělávacími potřebami, o pracovnících specializované pedagogiky a o specializovaných školách. Tyto výsledky vycházejí z údajů ze školního roku 2018/19.</dct:description>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Hoeveel leerlingen op gewone scholen profiteren van een versterkte mate van gespecialiseerde pedagogie? Hoeveel studenten gaan naar een gespecialiseerde school? Wat is het aandeel van het personeel van gespecialiseerde pedagogie op de verplichte school? Wat is het beheerspercentage? Hoe worden gespecialiseerde scholen georganiseerd? Deze publicatie over statistieken over gespecialiseerde pedagogie biedt informatie over leerlingen met speciale onderwijsbehoeften, over het personeel van gespecialiseerde pedagogie en over gespecialiseerde scholen. Deze resultaten zijn gebaseerd op gegevens uit het schooljaar 2018/19.</dct:description>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">Колко ученици в обикновените училища се възползват от засилена мярка за специализирана педагогика? Колко ученици посещават специализирано училище? Какъв е делът на персонала на специализирана педагогика в задължителното училище? Каква е степента на управление? Как се организират специализираните училища? Настоящата публикация за статистиката на специализираната педагогика предоставя информация за учениците със специални образователни потребности, за персонала на специализираната педагогика и за специализираните училища. Тези резултати се основават на данни от учебната 2018/19 година.</dct:description>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Statistični podatki o specializirani pedagogiki</dct:title>
+            <dct:description xml:lang="es-t-fr-t0-mtec">¿Cuántos alumnos de las escuelas ordinarias se benefician de una medida mejorada de pedagogía especializada? ¿Cuántos estudiantes asisten a una escuela especializada? ¿Cuál es la proporción del personal de pedagogía especializada en la escuela obligatoria? ¿Cuál es la tasa de gestión? ¿Cómo se organizan las escuelas especializadas? Esta publicación sobre estadísticas sobre pedagogía especializada proporciona información sobre alumnos con necesidades educativas especiales, sobre el personal de pedagogía especializada y sobre escuelas especializadas. Estos resultados se basan en datos del año escolar 2018/19.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/1961-1900"/>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Cik skolēnu parastajās skolās gūst labumu no pastiprinātas specializētās pedagoģijas? Cik skolēnu apmeklē specializētu skolu? Kāds ir specializētās pedagoģijas darbinieku īpatsvars obligātajā skolā? Kāds ir pārvaldības līmenis? Kā tiek organizētas specializētās skolas? Šī publikācija par specializētās pedagoģijas statistiku sniedz informāciju par skolēniem ar īpašām izglītības vajadzībām, par specializētās pedagoģijas personālu un specializētajām skolām. Šo rezultātu pamatā ir dati par 2018./19. mācību gadu.</dct:description>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">Koliko učencev v običajnih šolah ima koristi od okrepljenega ukrepa specializirane pedagogike? Koliko učencev obiskuje specializirano šolo? Kolikšen je delež osebja specializirane pedagogike v obvezni šoli? Kakšna je stopnja upravljanja? Kako so organizirane specializirane šole? Publikacija o statistiki specializirane pedagogike vsebuje informacije o učencih s posebnimi izobraževalnimi potrebami, osebju specializirane pedagogike in specializiranih šolah. Ti rezultati temeljijo na podatkih iz šolskega leta 2018/19.</dct:description>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estadísticas sobre pedagogía especializada</dct:title>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Ilu uczniów w szkołach zwyczajnych korzysta ze zwiększonego zakresu pedagogiki specjalistycznej? Ilu uczniów uczęszcza do specjalistycznej szkoły? Jaki jest udział personelu pedagogiki specjalistycznej w szkole obowiązkowej? Jaki jest wskaźnik zarządzania? W jaki sposób organizowane są szkoły specjalistyczne? Niniejsza publikacja na temat statystyk dotyczących pedagogiki specjalistycznej zawiera informacje na temat uczniów o specjalnych potrzebach edukacyjnych, personelu pedagogiki specjalistycznej i szkół specjalistycznych. Wyniki te są oparte na danych z roku szkolnego 2018/19.</dct:description>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Kuinka moni tavallisten koulujen oppilas hyötyy erityispedagogiikan tehostetusta toimenpiteestä? Kuinka monta opiskelijaa osallistuu erikoiskouluun? Mikä on oppivelvollisuuskoulun erityispedagogiikan henkilöstön osuus? Mikä on hallintoaste? Miten erikoiskoulut järjestetään? Tässä erityispedagogiikan tilastojulkaisussa annetaan tietoa erityisopetusta tarvitsevista oppilaista, erityispedagogiikan henkilöstöstä ja erikoiskouluista. Tulokset perustuvat lukuvuoden 2018/19 tietoihin.</dct:description>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štatistika špecializovanej pedagogiky</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Statistika odborné pedagogiky</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Erikoispedagogiikan tilastot</dct:title>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Kiek mokinių įprastose mokyklose naudojasi patobulinta specializuotos pedagogikos priemone? Kiek mokinių lanko specializuotą mokyklą? Kokia yra specializuotos pedagogikos darbuotojų dalis privalomojoje mokykloje? Kas yra valdymo norma? Kaip organizuojamos specializuotos mokyklos? Šiame leidinyje apie specializuotos pedagogikos statistiką pateikiama informacija apie specialiųjų ugdymosi poreikių turinčius moksleivius, specializuotos pedagogikos darbuotojus ir specializuotas mokyklas. Šie rezultatai pagrįsti 2018–19 mokslo metų duomenimis.</dct:description>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estatísticas sobre pedagogia especializada</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Statistik der Fachpädagogik</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Statistics on specialised pedagogy</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Specializuotos pedagogikos statistika</dct:title>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Hány diák részesül a hagyományos iskolákban a speciális pedagógia fokozott mértékéből? Hány diák jár speciális iskolába? Mekkora a speciális pedagógiai személyzet aránya a kötelező iskolában? Mekkora az irányítási arány? Hogyan szerveződnek a szakiskolák? A speciális pedagógiai statisztikákról szóló kiadvány tájékoztatást nyújt a sajátos nevelési igényű tanulókról, a szakpedagógiai személyzetről és a szakiskolákról. Ezek az eredmények a 2018/19-es tanév adatain alapulnak.</dct:description>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">Koliko učenika u redovnim školama ima koristi od poboljšane mjere specijalizirane pedagogije? Koliko učenika pohađa specijaliziranu školu? Koliki je udio osoblja specijalizirane pedagogije u obveznoj školi? Kolika je stopa upravljanja? Kako su organizirane specijalizirane škole? Ova publikacija o statistici specijalizirane pedagogije pruža informacije o učenicima s posebnim obrazovnim potrebama, osoblju specijalizirane pedagogije i specijaliziranim školama. Ti se rezultati temelje na podacima iz školske godine 2018./19.</dct:description>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Statystyki dotyczące pedagogiki specjalistycznej</dct:title>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">Cé mhéad dalta i ngnáthscoileanna a thairbhíonn de bheart feabhsaithe d’oideolaíocht speisialaithe? Cé mhéad mac léinn a fhreastalaíonn ar scoil speisialaithe? Cén sciar d’fhoireann na hoideolaíochta speisialaithe sa scoil éigeantach? Cad é an ráta bainistíochta? Conas a eagraítear scoileanna speisialaithe? Soláthraíonn an foilseachán seo ar staitisticí maidir le hoideolaíocht speisialaithe eolas ar dhaltaí a bhfuil riachtanais speisialta oideachais acu, ar fhoireann sainoideolaíochta agus ar scoileanna speisialaithe. Tá na torthaí seo bunaithe ar shonraí ón scoilbhliain 2018/19.</dct:description>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Статистически данни за специализираната педагогика</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Statistik om specialiserad pedagogik</dct:title>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Πόσοι μαθητές στα κανονικά σχολεία επωφελούνται από ένα ενισχυμένο μέτρο εξειδικευμένης παιδαγωγικής; Πόσοι μαθητές φοιτούν σε ένα εξειδικευμένο σχολείο; Ποιο είναι το ποσοστό του προσωπικού της εξειδικευμένης παιδαγωγικής στο υποχρεωτικό σχολείο; Ποιο είναι το ποσοστό διαχείρισης; Πώς οργανώνονται τα εξειδικευμένα σχολεία; Η παρούσα έκδοση στατιστικών για την εξειδικευμένη παιδαγωγική παρέχει πληροφορίες για τους μαθητές με ειδικές εκπαιδευτικές ανάγκες, για το προσωπικό της εξειδικευμένης παιδαγωγικής και για τα εξειδικευμένα σχολεία. Τα αποτελέσματα αυτά βασίζονται σε στοιχεία από το σχολικό έτος 2018/19.</dct:description>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Στατιστικές για την εξειδικευμένη παιδαγωγική</dct:title>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Kemm-il student fl-iskejjel ordinarji jibbenefikaw minn miżura mtejba ta’ pedagoġija speċjalizzata? Kemm studenti jattendu skola speċjalizzata? X’inhu s-sehem tal-persunal tal-pedagoġija speċjalizzata fl-iskola obbligatorja? X’inhi r-rata ta’ ġestjoni? Kif jiġu organizzati skejjel speċjalizzati? Din il-pubblikazzjoni dwar l-istatistika dwar il-pedagoġija speċjalizzata tipprovdi informazzjoni dwar studenti bi bżonnijiet edukattivi speċjali, dwar il-persunal ta’ pedagoġija speċjalizzata u dwar skejjel speċjalizzati. Dawn ir-riżultati huma bbażati fuq data mis-sena skolastika 2018/19.</dct:description>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">Hur många elever i vanliga skolor drar nytta av ett förbättrat mått på specialiserad pedagogik? Hur många elever går i en specialiserad skola? Hur stor är andelen personal inom specialpedagogik i grundskolan? Vad är förvaltningsräntan? Hur organiseras specialiserade skolor? Denna publikation om statistik över specialiserad pedagogik ger information om elever med särskilda utbildningsbehov, om personalen vid specialiserad pedagogik och om specialiserade skolor. Dessa resultat bygger på uppgifter från läsåret 2018/19.</dct:description>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Статистика зі спеціалізованої педагогіки</dct:title>
+            <dct:description xml:lang="de-t-fr-t0-mtec">Wie viele Schüler in normalen Schulen profitieren von einer verstärkten Sonderpädagogik? Wie viele Schüler besuchen eine Fachschule? Wie hoch ist der Anteil der Fachpädagogik an der Pflichtschule? Wie hoch ist die Führungsquote? Wie werden Fachschulen organisiert? Diese Veröffentlichung über die Statistik der Fachpädagogik enthält Informationen über Schüler mit besonderen pädagogischen Bedürfnissen, über das Personal der Fachpädagogik und über die Fachschulen. Diese Ergebnisse basieren auf Daten für das Schuljahr 2018/19.</dct:description>
+            <dct:description xml:lang="en-t-fr-t0-mtec">How many pupils in ordinary schools benefit from an enhanced measure of specialised pedagogy? How many students attend a specialised school? What is the share of the staff of specialised pedagogy at compulsory school? What is the management rate? How are specialised schools organised? This publication on statistics on specialised pedagogy provides information on pupils with special educational needs, on the staff of specialised pedagogy and on specialised schools. These results are based on data from the 2018/19 school year.</dct:description>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Hvor mange elever i almindelige skoler nyder godt af en øget grad af specialiseret pædagogik? Hvor mange elever går på en specialskole? Hvor stor er andelen af ansatte i specialiseret pædagogik i den obligatoriske skolegang? Hvad er ledelsesraten? Hvordan organiseres specialiserede skoler? Denne publikation om statistikker over specialiseret pædagogik indeholder oplysninger om elever med særlige uddannelsesbehov, om personalet i specialiseret pædagogik og om specialiserede skoler. Disse resultater er baseret på data fra skoleåret 2018/19.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">Скільки учнів у звичайних школах отримують вигоду від посиленої міри спеціалізованої педагогіки? Скільки учнів відвідують спеціалізовану школу? Яка частка персоналу спеціалізованої педагогіки в обов'язковому навчальному закладі? Що таке рівень управління? Як організовуються спеціалізовані школи? Ця публікація зі статистики з спеціалізованої педагогіки містить інформацію про учнів з особливими освітніми потребами, про персонал спеціалізованої педагогіки та про спеціалізовані школи. Ці результати базуються на даних 2018/19 навчального року.</dct:description>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Statistika par specializētu pedagoģiju</dct:title>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">Câți elevi din școlile obișnuite beneficiază de o măsură sporită de pedagogie specializată? Câți elevi frecventează o școală specializată? Care este ponderea personalului pedagogiei specializate la școala obligatorie? Care este rata de management? Cum se organizează școlile specializate? Această publicație privind statisticile pedagogiei specializate oferă informații despre elevii cu nevoi educaționale speciale, despre personalul pedagogiei specializate și despre școlile specializate. Aceste rezultate se bazează pe date din anul școlar 2018/19.</dct:description>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Staidreamh maidir le hoideolaíocht speisialaithe</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A rendszeres iskolákban hány diák rendelkezik fokozott pedagógiai intézkedéssel? Hány diák jár speciális iskolába? Mekkora a speciális pedagógiai személyzet aránya a kötelező iskolában? Mi a gondozási kapcsolat? Hogyan szerveződnek a speciális iskolák? A speciális pedagógiai statisztikákról szóló jelen kiadvány a speciális nevelési igényű tanulókra, a speciális pedagógiai személyzetre és a speciális iskolákra vonatkozó információkkal foglalkozik. Az eredmények a 2018/19-es tanévre vonatkoznak.</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Speciālās izglītības statistika</dct:title>
+        <dcat:keyword xml:lang="de">bildungsinstitutionen</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Koliko učenika u redovnim školama ima povećanu posebnu pedagošku mjeru? Koliko učenika pohađa posebnu školu? Koliki je udio posebnog pedagoškog osoblja u obveznoj školi? Što je odnos skrbi? Kako su organizirane posebne škole? Ova publikacija o statistici posebne pedagogije bavi se informacijama o učenicima s posebnim obrazovnim potrebama, posebnim pedagoškim osobljem i posebnim školama. Rezultati se odnose na školsku godinu 2018/19.</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">Statistics of Special Education</dct:title>
+        <dct:title xml:lang="fr">Statistique de la pédagogie spécialisée</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Specialiojo ugdymo statistika</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Kuinka monella tavallisten koulujen oppilailla on lisääntynyt erityispedagoginen toimenpide? Kuinka monta oppilasta käy erityiskoulua? Mikä on oppivelvollisuuskoulun erityispedagogiikan osuus? Mikä on hoitosuhde? Miten erikoiskoulut järjestetään? Tämä erityispedagogiikan tilastojulkaisu käsittelee tietoa erityisopetusta tarvitsevista oppijoista, erityispedagogisesta henkilöstöstä ja erityiskouluista. Tulokset liittyvät lukuvuoteen 2018/19.</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Statistika ta ‘Edukazzjoni Speċjali</dct:title>
+        <dcat:keyword xml:lang="de">schulpersonal</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6c3442c8-7f2f-44f7-bad7-ba715d36fcc0">
+            <dct:title xml:lang="lt-t-de-t0-mtec">Specialiojo ugdymo statistika</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A speciális oktatás statisztikái</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Statistica educației speciale</dct:title>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Kemm-il student fl-iskejjel regolari għandhom miżura pedagoġika speċjali miżjuda? Kemm-il student jattendu skola speċjali? X’inhu l-proporzjon ta’ persunal pedagoġiku speċjali fl-iskola obbligatorja?
+X’inhi r-relazzjoni ta ‘kura?
+Kif jiġu organizzati l-iskejjel speċjali?
+Il-pubblikazzjoni preżenti dwar l-istatistika ta’ pedagoġija speċjali tittratta informazzjoni dwar studenti bi bżonnijiet edukattivi speċjali, persunal pedagoġiku speċjali u skejjel speċjali.
+Ir-riżultati huma relatati mas-sena skolastika 2018/19.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Câți elevi din școlile obișnuite au o măsură pedagogică specială sporită? Câți elevi merg la o școală specială? Care este proporția personalului pedagogic special din școala obligatorie?
+Care este relația de îngrijire?
+Cum se organizează școlile speciale?
+Prezenta publicație privind statisticile pedagogiei speciale se referă la informații despre cursanții cu nevoi educaționale speciale, personalul pedagogic special și școlile speciale.
+Rezultatele se referă la anul școlar 2018/19.</dct:description>
+            <dct:identifier>14776871-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Speciālās izglītības statistika</dct:title>
+            <dct:description xml:lang="de">Wie viele Schülerinnen und Schüler in den Regelschulen haben eine verstärkte sonderpädagogische Massnahme? Wie viele Schülerinnen und Schüler besuchen eine Sonderschule? Wie hoch ist der Anteil des sonderpädagogischen Personals in der obligatorischen Schule? Wie ist das Betreuungsverhältnis? Wie sind die Sonderschulen organisiert? Bei der vorliegenden Publikation zur Statistik der Sonderpädagogik handelt es sich um Informationen zu den Lernenden mit einem sonderpädagogischen Bildungsbedarf, dem sonderpädagogischen Personal und den Sonderschulen. Die Ergebnisse beziehen sich auf das Schuljahr 2018/19.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Statistiche sull'istruzione speciale</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ilu uczniów w regularnych szkołach ma zwiększoną szczególną formę pedagogiczną? Ilu uczniów uczęszcza do specjalnej szkoły? Jaki jest odsetek kadry pedagogicznej w szkole obowiązkowej?
+Jaki jest związek opiekuńczy?
+Jak organizowane są szkoły specjalne?
+Niniejsza publikacja poświęcona statystyce pedagogiki specjalnej dotyczy informacji o osobach uczących się o specjalnych potrzebach edukacyjnych, specjalnych kadrach pedagogicznych i szkołach specjalnych.
+Wyniki dotyczą roku szkolnego 2018/19.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Στατιστικά της Ειδικής Αγωγής</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Statistik over specialundervisning</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Statistieken van het speciaal onderwijs</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Statistics of Special Education</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Cik skolēnu parastajās skolās ir pastiprināts īpašs pedagoģiskais pasākums? Cik skolēnu apmeklē īpašu skolu? Kāda ir īpašā pedagoģiskā personāla proporcija obligātajā skolā?
+Kādas ir aprūpes attiecības?
+Kā tiek organizētas speciālās skolas?
+Šī publikācija par speciālās pedagoģijas statistiku attiecas uz informāciju par izglītojamajiem ar speciālām izglītības vajadzībām, speciālo pedagoģisko personālu un speciālajām skolām.
+Rezultāti attiecas uz 2018./19. mācību gadu.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Hvor mange elever på de almindelige skoler har en øget særlig pædagogisk foranstaltning? Hvor mange elever går på en særlig skole? Hvor stor er andelen af specialpædagogisk personale i den obligatoriske skole? Hvad er plejeforholdet? Hvordan tilrettelægges specialskolerne? Nærværende publikation om statistik over specialpædagogik omhandler oplysninger om elever med særlige uddannelsesbehov, særligt pædagogisk personale og specialskoler. Resultaterne vedrører skoleåret 2018/19.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">A rendszeres iskolákban hány diák rendelkezik fokozott pedagógiai intézkedéssel? Hány diák jár speciális iskolába? Mekkora a speciális pedagógiai személyzet aránya a kötelező iskolában? Mi a gondozási kapcsolat? Hogyan szerveződnek a speciális iskolák? A speciális pedagógiai statisztikákról szóló jelen kiadvány a speciális nevelési igényű tanulókra, a speciális pedagógiai személyzetre és a speciális iskolákra vonatkozó információkkal foglalkozik. Az eredmények a 2018/19-es tanévre vonatkoznak.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Колко ученици в редовните училища имат увеличена специална педагогическа мярка? Колко ученици посещават специално училище? Какъв е делът на специалния педагогически персонал в задължителното училище? Каква е връзката с грижите? Как се организират специалните училища? Настоящата публикация за статистиката на специалната педагогика се занимава с информация за обучаеми със специални образователни потребности, специален педагогически персонал и специални училища. Резултатите са свързани с учебната 2018/19 година.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Koliko učenika u redovnim školama ima povećanu posebnu pedagošku mjeru? Koliko učenika pohađa posebnu školu? Koliki je udio posebnog pedagoškog osoblja u obveznoj školi? Što je odnos skrbi? Kako su organizirane posebne škole? Ova publikacija o statistici posebne pedagogije bavi se informacijama o učenicima s posebnim obrazovnim potrebama, posebnim pedagoškim osobljem i posebnim školama. Rezultati se odnose na školsku godinu 2018/19.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">¿Cuántos alumnos de las escuelas ordinarias han aumentado las medidas pedagógicas especiales? ¿Cuántos alumnos asisten a una escuela especial? ¿Cuál es la proporción de personal pedagógico especial en la escuela obligatoria? ¿Cuál es la relación de cuidado? ¿Cómo se organizan las escuelas especiales? La presente publicación sobre estadísticas de pedagogía especial trata de información sobre alumnos con necesidades educativas especiales, personal pedagógico especial y escuelas especiales. Los resultados se relacionan con el año escolar 2018/19.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Kuinka monella tavallisten koulujen oppilailla on lisääntynyt erityispedagoginen toimenpide? Kuinka monta oppilasta käy erityiskoulua? Mikä on oppivelvollisuuskoulun erityispedagogiikan osuus? Mikä on hoitosuhde? Miten erikoiskoulut järjestetään? Tämä erityispedagogiikan tilastojulkaisu käsittelee tietoa erityisopetusta tarvitsevista oppijoista, erityispedagogisesta henkilöstöstä ja erityiskouluista. Tulokset liittyvät lukuvuoteen 2018/19.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-30T00:00:00</dct:issued>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Koľko žiakov v bežných školách má zvýšené osobitné pedagogické opatrenie? Koľko žiakov navštevuje špeciálnu školu? Aký je podiel špeciálnych pedagogických pracovníkov v povinnej škole?
+Aký je vzťah starostlivosti?
+Ako sa organizujú špeciálne školy?
+Táto publikácia o štatistike špeciálnej pedagogiky sa zaoberá informáciami o študentoch so špeciálnymi vzdelávacími potrebami, špeciálnych pedagogických pracovníkoch a špeciálnych školách.
+Výsledky sa týkajú školského roka 2018/19.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Πόσοι μαθητές στα κανονικά σχολεία έχουν αυξημένο ειδικό παιδαγωγικό μέτρο; Πόσοι μαθητές φοιτούν σε ένα ειδικό σχολείο; Ποιο είναι το ποσοστό του ειδικού παιδαγωγικού προσωπικού στο υποχρεωτικό σχολείο; Ποια είναι η σχέση φροντίδας; Πώς οργανώνονται τα ειδικά σχολεία; Η παρούσα έκδοση για τα στατιστικά της ειδικής παιδαγωγικής ασχολείται με την ενημέρωση για τους εκπαιδευόμενους με ειδικές εκπαιδευτικές ανάγκες, το ειδικό παιδαγωγικό προσωπικό και τα ειδικά σχολεία. Τα αποτελέσματα αφορούν το σχολικό έτος 2018/19.</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estatísticas da Educação Especial</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Статистика спеціальної освіти</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estadísticas de Educación Especial</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Hoeveel leerlingen op de reguliere scholen hebben een verhoogde speciale pedagogische maatregel? Hoeveel leerlingen gaan naar een speciale school? Wat is het aandeel van speciaal pedagogisch personeel in de verplichte school?
+Wat is de zorgrelatie?
+Hoe worden de speciale scholen georganiseerd?
+De huidige publicatie over de statistieken van de speciale pedagogie behandelt informatie over leerlingen met speciale onderwijsbehoeften, speciaal pedagogisch personeel en speciale scholen.
+De resultaten hebben betrekking op het schooljaar 2018/19.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí an Oideachais Speisialta</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Erihariduse statistika</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Статистика на специалното образование</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Statistika specijalnog obrazovanja</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Erityisopetuksen tilastot</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Quantos alunos das escolas regulares têm uma medida pedagógica especial acrescida? Quantos alunos frequentam uma escola especial? Qual é a proporção de pessoal pedagógico especial na escola obrigatória?
+Qual é a relação de cuidado?
+Como se organizam as escolas especiais?
+A presente publicação sobre as estatísticas da pedagogia especial trata da informação sobre os alunos com necessidades educativas especiais, pessoal pedagógico especial e escolas especiais.
+Os resultados referem-se ao ano letivo 2018/19.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Statistiques de la pédagogie spéciale</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Quanti alunni nelle scuole regolari hanno una misura pedagogica aumentata? Quanti alunni frequentano una scuola speciale? Qual è la proporzione di personale pedagogico speciale nella scuola dell'obbligo?
+Qual è il rapporto di cura?
+Come sono organizzate le scuole speciali?
+La presente pubblicazione sulle statistiche della pedagogia speciale si occupa di informazioni sui discenti con esigenze educative speciali, personale pedagogico speciale e scuole speciali.
+I risultati si riferiscono all'anno scolastico 2018/19.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/1960-1900"/>
+            <dct:description xml:lang="et-t-de-t0-mtec">Kui paljudel tavakoolide õpilastel on suurem pedagoogiline erimeede? Kui palju õpilasi käib erikoolis? Kui suur on eripedagoogilise personali osakaal kohustuslikus koolis? Mis on hooldussuhe? Kuidas erikoolid on korraldatud? Käesolev väljaanne eripedagoogika statistika kohta käsitleb teavet hariduslike erivajadustega õppijate, pedagoogiliste eritöötajate ja erikoolide kohta. Tulemused on seotud 2018/19. õppeaastaga.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Kolik žáků v běžných školách má zvýšené speciální pedagogické opatření? Kolik žáků navštěvuje speciální školu? Jaký je podíl zvláštních pedagogických pracovníků na povinné škole? Jaký je vztah péče? Jak jsou organizovány speciální školy? Tato publikace o statistice speciální pedagogiky se zabývá informacemi o studentech se speciálními vzdělávacími potřebami, speciálních pedagogických pracovníků a speciálních školách. Výsledky se týkají školního roku 2018/19.</dct:description>
+            <dct:title xml:lang="de">Statistik der Sonderpädagogik</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Hur många elever i de vanliga skolorna har en ökad särskild pedagogisk åtgärd? Hur många elever går i en specialskola? Hur stor är andelen särskild pedagogisk personal i grundskolan?
+Vad är vårdrelationen?
+Hur organiseras specialskolorna?
+Den aktuella publikationen om statistik över specialpedagogik behandlar information om elever med särskilda utbildningsbehov, särskild pedagogisk personal och specialskolor.
+Resultaten avser läsåret 2018/19.</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Kiek mokinių eilinėse mokyklose turi padidintą specialią pedagoginę priemonę? Kiek mokinių lanko specialią mokyklą? Kokia yra specialiųjų pedagoginių darbuotojų dalis privalomojoje mokykloje?
+Kas yra priežiūros santykiai?
+Kaip organizuojamos specialiosios mokyklos?
+Šiame leidinyje apie specialiosios pedagogikos statistiką pateikiama informacija apie specialiųjų ugdymosi poreikių turinčius moksleivius, specialųjį pedagoginį personalą ir specialiąsias mokyklas.
+Rezultatai susiję su 2018–19 mokslo metais.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Скільки учнів у звичайних школах мають підвищену спеціальну педагогічну міру? Скільки учнів відвідує спеціальну школу? Яка частка спеціального педагогічного персоналу в обов'язковому навчальному закладі? Що таке турбота про відносини? Як організовуються спеціальні школи? У нинішньому виданні зі статистики спеціальної педагогіки розглядається інформація про учнів з особливими освітніми потребами, спеціальних педагогічних працівників та спеціальних навчальних закладах. Результати стосуються 2018/19 навчального року.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Statistika ta ‘Edukazzjoni Speċjali</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">How many pupils in the regular schools have an increased special pedagogical measure? How many pupils attend a special school? What is the proportion of special pedagogical staff in the compulsory school? What is the care relationship? How are the special schools organised? The present publication on the statistics of special pedagogy deals with information on learners with special educational needs, special pedagogical staff and special schools. The results relate to the 2018/19 school year.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štatistika špeciálneho vzdelávania</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Statistika posebnega izobraževanja</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Statystyki edukacji specjalnej</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Statistik över specialpedagogik</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Koliko učencev v rednih šolah ima povečan poseben pedagoški ukrep?
+Koliko učencev obiskuje posebno šolo?
+Kolikšen je delež posebnega pedagoškega osebja v obvezni šoli?
+Kaj je skrbniško razmerje?
+Kako so organizirane posebne šole?
+Ta publikacija o statistiki posebne pedagogike obravnava informacije o učencih s posebnimi izobraževalnimi potrebami, posebnem pedagoškem osebju in posebnih šolah.
+Rezultati se nanašajo na šolsko leto 2018/19.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Cé mhéad dalta sna scoileanna rialta a bhfuil beart oideolaíoch speisialta méadaithe acu? Cé mhéad dalta a fhreastalaíonn ar scoil speisialta? Cad é cion na foirne oideolaíochta speisialta sa scoil éigeantach? Cad é an caidreamh cúraim? Conas a eagraítear na scoileanna speisialta? Baineann an foilseachán seo ar staitisticí na hoideolaíochta speisialta le heolas faoi fhoghlaimeoirí a bhfuil riachtanais speisialta oideachais acu, faoi fhoireann speisialta oideolaíochta agus faoi scoileanna speisialta. Baineann na torthaí leis an scoilbhliain 2018/19.</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Combien d’élèves dans les écoles ordinaires ont-ils des mesures pédagogiques spéciales renforcées? Combien d’élèves fréquentent une école spéciale? Quelle est la proportion de personnel éducatif spécialisé dans l’école obligatoire? Quelle est la relation de garde? Comment les écoles spéciales sont-elles organisées? La présente publication sur la statistique de la pédagogie spéciale est une information sur les apprenants ayant des besoins éducatifs particuliers, le personnel éducatif spécialisé et les écoles spéciales. Les résultats se rapportent à l’année scolaire 2018/19.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Statistika speciálního vzdělávání</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="es-t-de-t0-mtec">¿Cuántos alumnos de las escuelas ordinarias han aumentado las medidas pedagógicas especiales? ¿Cuántos alumnos asisten a una escuela especial? ¿Cuál es la proporción de personal pedagógico especial en la escuela obligatoria? ¿Cuál es la relación de cuidado? ¿Cómo se organizan las escuelas especiales? La presente publicación sobre estadísticas de pedagogía especial trata de información sobre alumnos con necesidades educativas especiales, personal pedagógico especial y escuelas especiales. Los resultados se relacionan con el año escolar 2018/19.</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Erityisopetuksen tilastot</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ilu uczniów w regularnych szkołach ma zwiększoną szczególną formę pedagogiczną? Ilu uczniów uczęszcza do specjalnej szkoły?
+Jaki jest odsetek kadry pedagogicznej w szkole obowiązkowej?
+Jaki jest związek opiekuńczy?
+Jak organizowane są szkoły specjalne?
+Niniejsza publikacja poświęcona statystyce pedagogiki specjalnej dotyczy informacji o osobach uczących się o specjalnych potrzebach edukacyjnych, specjalnych kadrach pedagogicznych i szkołach specjalnych.
+Wyniki dotyczą roku szkolnego 2018/19.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-11-30T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:keyword xml:lang="it">allievi-e-studenti-formazione-scolastica-e-professionale</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Статистика на специалното образование</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Statistieken van het speciaal onderwijs</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Статистика спеціальної освіти</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Στατιστικά της Ειδικής Αγωγής</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Estatísticas da Educação Especial</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="et-t-de-t0-mtec">Kui paljudel tavakoolide õpilastel on suurem pedagoogiline erimeede? Kui palju õpilasi käib erikoolis? Kui suur on eripedagoogilise personali osakaal kohustuslikus koolis? Mis on hooldussuhe? Kuidas erikoolid on korraldatud? Käesolev väljaanne eripedagoogika statistika kohta käsitleb teavet hariduslike erivajadustega õppijate, pedagoogiliste eritöötajate ja erikoolide kohta. Tulemused on seotud 2018/19. õppeaastaga.</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Quantos alunos das escolas regulares têm uma medida pedagógica especial acrescida? Quantos alunos frequentam uma escola especial? Qual é a proporção de pessoal pedagógico especial na escola obrigatória? Qual é a relação de cuidado?
+Como se organizam as escolas especiais?
+A presente publicação sobre as estatísticas da pedagogia especial trata da informação sobre os alunos com necessidades educativas especiais, pessoal pedagógico especial e escolas especiais.
+Os resultados referem-se ao ano letivo 2018/19.</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Kolik žáků v běžných školách má zvýšené speciální pedagogické opatření? Kolik žáků navštěvuje speciální školu? Jaký je podíl zvláštních pedagogických pracovníků na povinné škole? Jaký je vztah péče? Jak jsou organizovány speciální školy? Tato publikace o statistice speciální pedagogiky se zabývá informacemi o studentech se speciálními vzdělávacími potřebami, speciálních pedagogických pracovníků a speciálních školách. Výsledky se týkají školního roku 2018/19.</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Statistika posebnega izobraževanja</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:11:58.660363</dct:modified>
+        <dct:description xml:lang="el-t-de-t0-mtec">Πόσοι μαθητές στα κανονικά σχολεία έχουν αυξημένο ειδικό παιδαγωγικό μέτρο; Πόσοι μαθητές φοιτούν σε ένα ειδικό σχολείο; Ποιο είναι το ποσοστό του ειδικού παιδαγωγικού προσωπικού στο υποχρεωτικό σχολείο; Ποια είναι η σχέση φροντίδας; Πώς οργανώνονται τα ειδικά σχολεία; Η παρούσα έκδοση για τα στατιστικά της ειδικής παιδαγωγικής ασχολείται με την ενημέρωση για τους εκπαιδευόμενους με ειδικές εκπαιδευτικές ανάγκες, το ειδικό παιδαγωγικό προσωπικό και τα ειδικά σχολεία. Τα αποτελέσματα αφορούν το σχολικό έτος 2018/19.</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">How many pupils in the regular schools have an increased special pedagogical measure? How many pupils attend a special school? What is the proportion of special pedagogical staff in the compulsory school? What is the care relationship? How are the special schools organised? The present publication on the statistics of special pedagogy deals with information on learners with special educational needs, special pedagogical staff and special schools. The results relate to the 2018/19 school year.</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Hoeveel leerlingen op de reguliere scholen hebben een verhoogde speciale pedagogische maatregel? Hoeveel leerlingen gaan naar een speciale school? Wat is het aandeel van speciaal pedagogisch personeel in de verplichte school? Wat is de zorgrelatie? Hoe worden de speciale scholen georganiseerd? De huidige publicatie over de statistieken van de speciale pedagogie behandelt informatie over leerlingen met speciale onderwijsbehoeften, speciaal pedagogisch personeel en speciale scholen. De resultaten hebben betrekking op het schooljaar 2018/19. Hoeveel leerlingen op de reguliere scholen hebben een verhoogde speciale pedagogische maatregel? Hoeveel leerlingen gaan naar een speciale school? Wat is het aandeel van speciaal pedagogisch personeel in de verplichte school? Wat is de zorgrelatie? Hoe worden de speciale scholen georganiseerd? De huidige publicatie over de statistieken van de speciale pedagogie behandelt informatie over leerlingen met speciale onderwijsbehoeften, speciaal pedagogisch personeel en speciale scholen. De resultaten hebben betrekking op het schooljaar 2018/19. Hoeveel leerlingen op de reguliere scholen hebben een verhoogde speciale pedagogische maatregel?
+Hoeveel leerlingen gaan naar een speciale school?
+Wat is het aandeel van speciaal pedagogisch personeel in de verplichte school?
+Wat is de zorgrelatie?
+Hoe worden de speciale scholen georganiseerd?
+De huidige publicatie over de statistieken van de speciale pedagogie behandelt informatie over leerlingen met speciale onderwijsbehoeften, speciaal pedagogisch personeel en speciale scholen.
+De resultaten hebben betrekking op het schooljaar 2018/19.</dct:description>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Hur många elever i de vanliga skolorna har en ökad särskild pedagogisk åtgärd? Hur många elever går i en specialskola? Hur stor är andelen särskild pedagogisk personal i grundskolan? Vad är vårdrelationen? Hur organiseras specialskolorna? Den aktuella publikationen om statistik över specialpedagogik behandlar information om elever med särskilda utbildningsbehov, särskild pedagogisk personal och specialskolor. Resultaten avser läsåret 2018/19. Hur många elever i de vanliga skolorna har en ökad särskild pedagogisk åtgärd? Hur många elever går i en specialskola? Hur stor är andelen särskild pedagogisk personal i grundskolan? Vad är vårdrelationen? Hur organiseras specialskolorna? Den aktuella publikationen om statistik över specialpedagogik behandlar information om elever med särskilda utbildningsbehov, särskild pedagogisk personal och specialskolor. Resultaten avser läsåret 2018/19.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Statistika speciálního vzdělávání</dct:title>
+        <dcat:keyword xml:lang="it">pubblicazione</dcat:keyword>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Cé mhéad dalta sna scoileanna rialta a bhfuil beart oideolaíoch speisialta méadaithe acu? Cé mhéad dalta a fhreastalaíonn ar scoil speisialta? Cad é cion na foirne oideolaíochta speisialta sa scoil éigeantach? Cad é an caidreamh cúraim? Conas a eagraítear na scoileanna speisialta? Baineann an foilseachán seo ar staitisticí na hoideolaíochta speisialta le heolas faoi fhoghlaimeoirí a bhfuil riachtanais speisialta oideachais acu, faoi fhoireann speisialta oideolaíochta agus faoi scoileanna speisialta. Baineann na torthaí leis an scoilbhliain 2018/19.</dct:description>
+        <dcat:keyword xml:lang="en">school-staff</dcat:keyword>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Cik skolēnu parastajās skolās ir pastiprināts īpašs pedagoģiskais pasākums? Cik skolēnu apmeklē īpašu skolu? Kāda ir īpašā pedagoģiskā personāla proporcija obligātajā skolā? Kādas ir aprūpes attiecības? Kā tiek organizētas speciālās skolas? Šī publikācija par speciālās pedagoģijas statistiku attiecas uz informāciju par izglītojamajiem ar speciālām izglītības vajadzībām, speciālo pedagoģisko personālu un speciālajām skolām. Rezultāti attiecas uz 2018./19. mācību gadu. Cik skolēnu parastajās skolās ir pastiprināts īpašs pedagoģiskais pasākums? Cik skolēnu apmeklē īpašu skolu?
+Kāda ir īpašā pedagoģiskā personāla proporcija obligātajā skolā?
+Kādas ir aprūpes attiecības?
+Kā tiek organizētas speciālās skolas?
+Šī publikācija par speciālās pedagoģijas statistiku attiecas uz informāciju par izglītojamajiem ar speciālām izglītības vajadzībām, speciālo pedagoģisko personālu un speciālajām skolām.
+Rezultāti attiecas uz 2018./19. mācību gadu.</dct:description>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="fr">personnel-des-ecoles</dcat:keyword>
+        <dct:description xml:lang="da-t-de-t0-mtec">Hvor mange elever på de almindelige skoler har en øget særlig pædagogisk foranstaltning? Hvor mange elever går på en særlig skole? Hvor stor er andelen af specialpædagogisk personale i den obligatoriske skole? Hvad er plejeforholdet? Hvordan tilrettelægges specialskolerne? Nærværende publikation om statistik over specialpædagogik omhandler oplysninger om elever med særlige uddannelsesbehov, særligt pædagogisk personale og specialskoler. Resultaterne vedrører skoleåret 2018/19.</dct:description>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Koliko učencev v rednih šolah ima povečan poseben pedagoški ukrep? Koliko učencev obiskuje posebno šolo? Kolikšen je delež posebnega pedagoškega osebja v obvezni šoli? Kaj je skrbniško razmerje? Kako so organizirane posebne šole? Ta publikacija o statistiki posebne pedagogike obravnava informacije o učencih s posebnimi izobraževalnimi potrebami, posebnem pedagoškem osebju in posebnih šolah. Rezultati se nanašajo na šolsko leto 2018/19. Koliko učencev v rednih šolah ima povečan poseben pedagoški ukrep? Koliko učencev obiskuje posebno šolo? Kolikšen je delež posebnega pedagoškega osebja v obvezni šoli? Kaj je skrbniško razmerje? Kako so organizirane posebne šole? Ta publikacija o statistiki posebne pedagogike obravnava informacije o učencih s posebnimi izobraževalnimi potrebami, posebnem pedagoškem osebju in posebnih šolah. Rezultati se nanašajo na šolsko leto 2018/19.</dct:description>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/1960-1900"/>
+        <dcat:keyword xml:lang="it">istituzioni-di-formazione</dcat:keyword>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Скільки учнів у звичайних школах мають підвищену спеціальну педагогічну міру? Скільки учнів відвідує спеціальну школу? Яка частка спеціального педагогічного персоналу в обов'язковому навчальному закладі? Що таке турбота про відносини? Як організовуються спеціальні школи? У нинішньому виданні зі статистики спеціальної педагогіки розглядається інформація про учнів з особливими освітніми потребами, спеціальних педагогічних працівників та спеціальних навчальних закладах. Результати стосуються 2018/19 навчального року. Скільки учнів у звичайних школах мають підвищену спеціальну педагогічну міру? Скільки учнів відвідує спеціальну школу? Яка частка спеціального педагогічного персоналу в обов'язковому навчальному закладі? Що таке турбота про відносини? Як організовуються спеціальні школи? У нинішньому виданні зі статистики спеціальної педагогіки розглядається інформація про учнів з особливими освітніми потребами, спеціальних педагогічних працівників та спеціальних навчальних закладах. Результати стосуються 2018/19 навчального року.</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Statistiche sull'istruzione speciale</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>14776867@bundesamt-fur-statistik-bfs</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>42868bb174ee319a747328348b0f78c5</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14776867-bundesamt-fur-statistik-bfs"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:11Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

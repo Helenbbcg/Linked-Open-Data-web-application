@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14941541-bundesamt-fur-statistik-bfs">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:25:02Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14941541-bundesamt-fur-statistik-bfs"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:07Z</dct:modified>
+    <dct:identifier>14941541@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14941541-bundesamt-fur-statistik-bfs">
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="el-t-de-t0-mtec">Γυναίκες και άνδρες σε ακαδημαϊκές σταδιοδρομίες στην Ελβετία, φοιτητές και ερευνητές</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f102b202-5435-47c9-82bc-3d6a1756f93b">
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Nisa u rġiel fil-karriera akkademika fl-Isvizzera, studenti u riċerkaturi</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Жени и мъже в академичната кариера в Швейцария, студенти и изследователи</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Nők és férfiak a svájci akadémiai karrierben, diákok és kutatók</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Sievietes un vīrieši akadēmiskajā karjerā Šveicē, studenti un pētnieki</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Žene i muškarci u akademskoj karijeri u Švicarskoj, studenti i istraživači</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Mná agus fir i ngairm acadúil san Eilvéis, mic léinn agus taighdeoirí</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Women and men in the academic career in Switzerland, students and researchers</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Frauen und Männer in der akademischen Laufbahn in der Schweiz, Studenten und Forscher</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Donne e uomini nella carriera accademica in Svizzera, studenti e ricercatori</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.15.03.05.01"/>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Kvinnor och män i den akademiska karriären i Schweiz, studenter och forskare</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Raparigas e homens na carreira acadêmica na Suíça, estudantes e pesquisadores</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Kvinder og mænd i den akademiske karriere i Schweiz, studerende og forskere</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Ženy a muži v akademické kariéře ve Švýcarsku, studenti a výzkumní pracovníci</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Naiset ja miehet akateemisen uran Sveitsissä, opiskelijat ja tutkijat</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Femei și bărbați în cariera academică în Elveția, studenți și cercetători</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Mujeres y hombres en la carrera académica en Suiza, estudiantes e investigadores</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Жінки та чоловіки в академічній кар'єрі в Швейцарії, студенти та дослідники</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Ženske in moški v akademski karieri v Švici, študenti in raziskovalci</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Vrouwen en mannen in de academische carrière in Zwitserland, studenten en onderzoekers</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Kobiety i mężczyźni w karierze akademickiej w Szwajcarii, studenci i naukowcy</dct:title>
+            <dct:identifier>14941556-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Naised ja mehed akadeemilises karjääris Šveitsis, üliõpilased ja teadlased</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Γυναίκες και άνδρες στην ακαδημαϊκή σταδιοδρομία στην Ελβετία, φοιτητές και ερευνητές</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Moterys ir vyrai akademinėje karjeroje Šveicarijoje, studentai ir mokslininkai</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Ženy a muži v akademickej kariére vo Švajčiarsku, študenti a výskumní pracovníci</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fr">Femmes et hommes dans la carrière académique en Suisse, étudiants et chercheurs</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.15.03.05.01"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/389da8ad-329f-4a97-8756-ba146a98399e">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Nők és férfiak tudományos pályára Svájcban, diákok és kutatók</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Moterys ir vyrai akademinėje karjeroje Šveicarijoje, studentai ir mokslininkai</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Γυναίκες και άνδρες σε ακαδημαϊκές σταδιοδρομίες στην Ελβετία, φοιτητές και ερευνητές</dct:title>
+            <dct:title xml:lang="de">Frauen und Männer in der akademische Karriere in der Schweiz, Studierende und Forscher/innen</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mujeres y hombres en carreras académicas en Suiza, estudiantes e investigadores</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Ženy a muži v akademickej kariére vo Švajčiarsku, študenti a výskumní pracovníci</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Vrouwen en mannen in een academische loopbaan in Zwitserland, studenten en onderzoekers</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Kobiety i mężczyźni w karierze akademickiej w Szwajcarii, studenci i naukowcy</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941551/master"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-24T00:00:00</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kvinder og mænd i akademiske karrierer i Schweiz, studerende og forskere</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Raparigas e homens em carreiras acadêmicas na Suíça, estudantes e pesquisadores</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Femei și bărbați în cariere academice în Elveția, studenți și cercetători</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mná agus fir i ngairmeacha acadúla san Eilvéis, mic léinn agus taighdeoirí</dct:title>
+            <dct:identifier>14941551-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Naiset ja miehet akateemisen uran Sveitsissä, opiskelijat ja tutkijat</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sievietes un vīrieši akadēmiskajā karjerā Šveicē, studenti un pētnieki</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941551/master"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Naised ja mehed akadeemilises karjääris Šveitsis, üliõpilased ja teadlased</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Nisa u rġiel f’karrieri akkademiċi fl-Iżvizzera, studenti u riċerkaturi</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Жінки та чоловіки в академічній кар'єрі в Швейцарії, студенти та дослідники</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ženske in moški v akademskih poklicih v Švici, študenti in raziskovalci</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Donne e uomini nelle carriere accademiche in Svizzera, studenti e ricercatori</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kvinnor och män i akademiska karriärer i Schweiz, studenter och forskare</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Žene i muškarci u akademskim karijerama u Švicarskoj, studenti i istraživači</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Women and men in academic careers in Switzerland, students and researchers</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Жени и мъже в академични кариери в Швейцария, студенти и изследователи</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ženy a muži v akademické kariéře ve Švýcarsku, studenti a výzkumní pracovníci</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Femmes et hommes dans la carrière académique en Suisse, étudiants et chercheurs</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:12:34.556902</dct:modified>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Žene i muškarci u akademskim karijerama u Švicarskoj, studenti i istraživači</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Nők és férfiak tudományos pályára Svájcban, diákok és kutatók</dct:title>
+        <dcat:keyword xml:lang="en">university-staff</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Femei și bărbați în cariere academice în Elveția, studenți și cercetători</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Kobiety i mężczyźni w karierze akademickiej w Szwajcarii, studenci i naukowcy</dct:title>
+        <dcat:keyword xml:lang="fr">personnel-des-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Mujeres y hombres en carreras académicas en Suiza, estudiantes e investigadores</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Mná agus fir i ngairmeacha acadúla san Eilvéis, mic léinn agus taighdeoirí</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Vrouwen en mannen in een academische loopbaan in Zwitserland, studenten en onderzoekers</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <rdfs:seeAlso>19384494@bundesamt-fur-statistik-bfs</rdfs:seeAlso>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Ženske in moški v akademskih poklicih v Švici, študenti in raziskovalci</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Women and men in academic careers in Switzerland, students and researchers</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Ženy a muži v akademickej kariére vo Švajčiarsku, študenti a výskumní pracovníci</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="da-t-de-t0-mtec">Kvinder og mænd i akademiske karrierer i Schweiz, studerende og forskere</dct:title>
+        <dcat:keyword xml:lang="it">personale-universitario</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Donne e uomini nelle carriere accademiche in Svizzera, studenti e ricercatori</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e7da5077-1fa7-4310-b289-86fcc731cf21">
+            <dct:title xml:lang="it-t-de-t0-mtec">Donne e uomini nelle carriere accademiche in Svizzera, studenti e ricercatori</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mujeres y hombres en carreras académicas en Suiza, estudiantes e investigadores</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Kobiety i mężczyźni w karierze akademickiej w Szwajcarii, studenci i naukowcy</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Nisa u rġiel f’karrieri akkademiċi fl-Iżvizzera, studenti u riċerkaturi</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kvinnor och män i akademiska karriärer i Schweiz, studenter och forskare</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ženske in moški v akademskih poklicih v Švici, študenti in raziskovalci</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Women and men in academic careers in Switzerland, students and researchers</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Femmes et hommes dans la carrière académique en Suisse, étudiants et chercheurs</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kvinder og mænd i akademiske karrierer i Schweiz, studerende og forskere</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Femei și bărbați în cariere academice în Elveția, studenți și cercetători</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Moterys ir vyrai akademinėje karjeroje Šveicarijoje, studentai ir mokslininkai</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Naised ja mehed akadeemilises karjääris Šveitsis, üliõpilased ja teadlased</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Žene i muškarci u akademskim karijerama u Švicarskoj, studenti i istraživači</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.15.03.05.01"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sievietes un vīrieši akadēmiskajā karjerā Šveicē, studenti un pētnieki</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ženy a muži v akademické kariéře ve Švýcarsku, studenti a výzkumní pracovníci</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Vrouwen en mannen in een academische loopbaan in Zwitserland, studenten en onderzoekers</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Жени и мъже в академични кариери в Швейцария, студенти и изследователи</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Nők és férfiak tudományos pályára Svájcban, diákok és kutatók</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Ženy a muži v akademickej kariére vo Švajčiarsku, študenti a výskumní pracovníci</dct:title>
+            <dct:identifier>14941551-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mná agus fir i ngairmeacha acadúla san Eilvéis, mic léinn agus taighdeoirí</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Γυναίκες και άνδρες σε ακαδημαϊκές σταδιοδρομίες στην Ελβετία, φοιτητές και ερευνητές</dct:title>
+            <dct:title xml:lang="de">Frauen und Männer in der akademische Karriere in der Schweiz, Studierende und Forscher/innen</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Raparigas e homens em carreiras acadêmicas na Suíça, estudantes e pesquisadores</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Жінки та чоловіки в академічній кар'єрі в Швейцарії, студенти та дослідники</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Naiset ja miehet akateemisen uran Sveitsissä, opiskelijat ja tutkijat</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Frauen und Männer in der akademische Karriere in der Schweiz, Studierende und Forscher/innen</dct:title>
+        <dct:title xml:lang="fr">Femmes et hommes dans la carrière académique en Suisse, étudiants et chercheurs</dct:title>
+        <dcat:keyword xml:lang="de">hochschulpersonal</dcat:keyword>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Жени и мъже в академични кариери в Швейцария, студенти и изследователи</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Ženy a muži v akademické kariéře ve Švýcarsku, studenti a výzkumní pracovníci</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Raparigas e homens em carreiras acadêmicas na Suíça, estudantes e pesquisadores</dct:title>
+        <dct:identifier>14941541@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Nisa u rġiel f’karrieri akkademiċi fl-Iżvizzera, studenti u riċerkaturi</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/edf5ecfb-4efb-48e2-85e1-f9559d6f21c9">
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Kobiety i mężczyźni w karierze akademickiej w Szwajcarii, studenci i naukowcy</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-24T00:00:00</dct:modified>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Vrouwen en mannen in de academische carrière in Zwitserland, studenten en onderzoekers</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Naiset ja miehet akateemisen uran Sveitsissä, opiskelijat ja tutkijat</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Γυναίκες και άνδρες στην ακαδημαϊκή σταδιοδρομία στην Ελβετία, φοιτητές και ερευνητές</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Žene i muškarci u akademskoj karijeri u Švicarskoj, studenti i istraživači</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Frauen und Männer in der akademischen Laufbahn in der Schweiz, Studenten und Forscher</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Kvinnor och män i den akademiska karriären i Schweiz, studenter och forskare</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:identifier>14941556-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Ženy a muži v akademickej kariére vo Švajčiarsku, študenti a výskumní pracovníci</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Ženy a muži v akademické kariéře ve Švýcarsku, studenti a výzkumní pracovníci</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Mujeres y hombres en la carrera académica en Suiza, estudiantes e investigadores</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Moterys ir vyrai akademinėje karjeroje Šveicarijoje, studentai ir mokslininkai</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Nők és férfiak a svájci akadémiai karrierben, diákok és kutatók</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Ženske in moški v akademski karieri v Švici, študenti in raziskovalci</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941556/master"/>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Жінки та чоловіки в академічній кар'єрі в Швейцарії, студенти та дослідники</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Жени и мъже в академичната кариера в Швейцария, студенти и изследователи</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Sievietes un vīrieši akadēmiskajā karjerā Šveicē, studenti un pētnieki</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="fr">Femmes et hommes dans la carrière académique en Suisse, étudiants et chercheurs</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Naised ja mehed akadeemilises karjääris Šveitsis, üliõpilased ja teadlased</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Nisa u rġiel fil-karriera akkademika fl-Isvizzera, studenti u riċerkaturi</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Femei și bărbați în cariera academică în Elveția, studenți și cercetători</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Donne e uomini nella carriera accademica in Svizzera, studenti e ricercatori</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Women and men in the academic career in Switzerland, students and researchers</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Mná agus fir i ngairm acadúil san Eilvéis, mic léinn agus taighdeoirí</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Raparigas e homens na carreira acadêmica na Suíça, estudantes e pesquisadores</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941556/master"/>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Kvinder og mænd i den akademiske karriere i Schweiz, studerende og forskere</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Жінки та чоловіки в академічній кар'єрі в Швейцарії, студенти та дослідники</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Moterys ir vyrai akademinėje karjeroje Šveicarijoje, studentai ir mokslininkai</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Kvinnor och män i akademiska karriärer i Schweiz, studenter och forskare</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Naiset ja miehet akateemisen uran Sveitsissä, opiskelijat ja tutkijat</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-12-07T00:00:00</dct:issued>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="et-t-de-t0-mtec">Naised ja mehed akadeemilises karjääris Šveitsis, üliõpilased ja teadlased</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Sievietes un vīrieši akadēmiskajā karjerā Šveicē, studenti un pētnieki</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>993e8763cf5994aad058c733a1978d8b</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <vcard:Organization/>
+  <rdf:Description>
+    <vcard:fn>thomas.jerome@tpg.ch</vcard:fn>
+  </rdf:Description>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/sitg_5393-sitg-systeme-dinformation-du-territoire-a-geneve">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:32Z</dct:issued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:08:18Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-11T20:07:52Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>c15b0f3223867be6514f2e65c84992b0</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T17:28:00Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/sitg_5393-sitg-systeme-dinformation-du-territoire-a-geneve"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/sitg_5393-sitg-systeme-dinformation-du-territoire-a-geneve">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dbb7908f-948a-4743-8c4f-26783646d763">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Letöltés</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κατεβάστε</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stiahnuť</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Les Données vctorial sont disponibles sous forme de fichiers.zip, včetně la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf výjimka, les formáty suivant sont proposés: Tvar (ESRI) – Geodatabázový soubor (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf) Sauf-poikkeus, les formaatit suivant sont proposés: Muoto (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Завантажити</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pobierz</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf išimtis, les formats suivant sont proposés: Forma (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Preuzimanje datoteka</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, inklużi la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Eċċezzjoni Sauf, formati les suivant sont proposés: Forma (ESRI) — Ġeodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-05-02T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Baixar o site</dct:title>
+            <dct:title xml:lang="en">Download</dct:title>
+            <dct:title xml:lang="fr">Download</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-25T00:00:00</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">Download</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/4651bfc1-c5e6-41ac-b993-b7cee0ab0945/resource/a6353fcb-2c67-4f2e-be44-9f2aff7f99c2</dct:identifier>
+            <dct:title xml:lang="de">Download</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="it">Download</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf uitzondering, les formats suivant sont proposés: Vorm (ESRI) — Geodatabase-Bestand (ESRI) — GML — KML — CSV Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf uitzondering, les formats suivant sont proposés: Vorm (ESRI) — Geodatabase-Bestand (ESRI) — GML — KML — CSV Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf uitzondering, les formats suivant sont proposés: Vorm (ESRI) — Geodatabase-Bestand (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilization (.pdf). Undtagelse fra sauf, les formater suivant sont proposés: Form (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изтегляне</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prenesi</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepție sauf, les formate suivant sont proposés: Formă (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dcat:accessURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/5393"/>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Le Données vektoros sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf kivétel, les formátumok suivant sont proposés: Alak (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ladda ner</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les умов générales d'utilisation (.pdf). SAUF виняток, les формати suivant sont пропозиції: Форма (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf izņēmums, les formāti suivant sont proposés: Forma (ESRI) — Ģeodatu bāze-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Lataa</dct:title>
+            <dcat:downloadURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/5393"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Parsisiųsti</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepción de sauf, les formatos suivant sont proposés: Forma (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Les Données vektorski sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les pogoji générales d’utilisation (.pdf). Izjema sauf, les formati suivant sont proposéji: Oblika (ESRI) – geopodatkovna zbirka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="en">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="de">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="fr">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="it">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stáhněte si</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Niżżel</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Εξαίρεση Sauf, les formats suivant sont proposés: Σχήμα (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Les Données vektortorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Výnimka sauf, les formats suivant sont proposés: Tvar (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lejupielādēt Lejupielādēt</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Les Données vetorial sont disponibles sous forme de fichiers.zip, incluindont la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Exceção de sauf, les formatos suivant sont proposés: Shape (ESRI) — Geodatabase-Arquivo (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Les Données vektorial sont Disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les uvjeti générales d’utilisation (.pdf). Iznimka sauf, les formati suivant sont proposés: Oblik (ESRI) – Geopodatkovna baza podataka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Descărcați</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Íoslódáil</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Les Données wektorowy sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Wyjątek sauf, les format suivant sont proposés: Kształt (ESRI) – Geodatabase-Plik (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Les Données векторен Sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) инси que les conditions générales d’utilization (.pdf). Sauf изключение, les formats suivant Sont предложения: Форма (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Le Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) agus coinníollacha générales d’utilization (.pdf). Eisceacht Sauf, formáidí les suivant sont proposés: Cruth (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Les Données vektoriella sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Sauf undantag, les format suivant sont proposés: Form (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Descargar</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Les Données vektoraalne sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf erand, les formaate suivant sont proposés: Kujund (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Laadi alla</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">RESEAU TPG – HAUBANS DAINŲ ŽODŽIAI, DAINŲ TEKSTAI</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">RESEAU TPG – HAUBANS</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">RESEAU TPG – HAUBANS</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">RESEAU TPG – HAUBANS</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">RESEAU TPG – HAUBANS</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.etat.ge.ch/geoportail/pro/?portalresources=TPG_HAUBANS">
+            <rdfs:label>"Lien vers le géoportail SITG pour prévisualisation de la donnée"</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:title xml:lang="pl-t-de-t0-mtec">RESEAU TPG – HAUBANS (UJEDNOZNACZNIENIE)</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Cette couche contient l’ensemble des lignes Service de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Cette couche contient l’ensemble des lignes servants de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">RESEAU TPG – HAUBANS – REŠTAURÁCIE V OKOLÍ</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">HOTELL NÄRA RESEAU TPG – HAUBANS</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Cette couche contient l’ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Cette couche contient l’ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">BESEDILO PESMI HAUBANS – RESEAU TPG</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/sitg-systeme-dinformation-du-territoire-a-geneve">
+            <foaf:name>Service de l'air, du bruit et des rayonnements non ionisants</foaf:name>
+            <foaf:name>Office du patrimoine et des sites</foaf:name>
+            <foaf:name>Office cantonal de l'agriculture et de la nature</foaf:name>
+            <foaf:name>Direction du projet d'agglomération</foaf:name>
+            <foaf:name>Office de l'urbanisme</foaf:name>
+            <foaf:name>Office cantonal de la culture et du sport</foaf:name>
+            <foaf:name>Office cantonal de l'eau</foaf:name>
+            <foaf:name>Direction générale de l'enseignement secondaire II</foaf:name>
+            <foaf:name>Service de l'inventaire des monuments d'art et d'histoire</foaf:name>
+            <foaf:name>Transports public genevois</foaf:name>
+            <foaf:name>Direction de la planification cantonale</foaf:name>
+            <foaf:name>Ville de Genève</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Cette sofae contient l’ensemble des lignes szolga de support aux lignes de contact des voies de tramways et de trolibus du réseau des Transports Publics</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Cette couche contient l’ensemble des lignes servo de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">RESEAU TPG – HAUBANS NÄYTÄ TARKAT TIEDOT</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-05-25T00:00:00</dct:modified>
+        <dcat:landingPage rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/5393"/>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Cette couche contient l’ensemble des lignes servant de support aux lignes de contact des tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:language>fr</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Cette sofae contient l’ensemble des lignes servant de support aux lignes de contact des voies de trolejbus et de trolejbus du réseau des Transports Verejnosť</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">RESEAU TPG – HAUBANS – NEJLEPŠÍ CENY UBYTOVÁNÍ VE MĚSTĚ HAUBANS</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">RESEAU TPG — HAUBANS</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Cette couche contient l’ Ansambl des lignes service de support aux lignes de contact des voies de Tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Cette couche contient l’ensemble des lignes tarnas de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="mt-t-de-t0-mtec">RESEAU TPG — HAUBANS</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">RESEAU TPG — HAUBANS</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">RESEAU TPG — HAUBANS</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">RESEAU TPG — HAUBANS</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">RESEAU TPG — HAUBANS</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">RESEAU TPG — HAUBANS</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Cette soffa contient l’ensemble des lignes tjänare de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Tacaíocht a thabhairt do sheirbhíseach deux lignes de contact des voies de tramways et de tralaíbus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="it">Cette couche contient l'ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">HOTELLER I NÆRHEDEN AF RESEAU TPG — HAUBANS</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Cette couche contient l’ensemble des lignes server de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="en">Cette couche contient l'ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="fr">Cette couche contient l'ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Cette couche contient l’ensemble des lignes service de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="de">Cette couche contient l'ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/SITG_5393">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:relation>
+          <rdf:Description rdf:about="https://ge.ch/sitgags1/rest/services/VECTOR/SITG_OPENDATA_04/MapServer/">
+            <rdfs:label>Les services sont exposés au travers de l'API REST d'ArcGIS Server. Interfaces supportées : REST - SOAP - WMS - WFS</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="en">RESEAU TPG - HAUBANS</dct:title>
+        <dct:title xml:lang="fr">RESEAU TPG - HAUBANS</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Restauracje w pobliżu lokalizacji: Cette couche contient l’ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolebus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Cette couche contient l'ensemble des lignesser de support aux lignes de contact de voies de tramways et de trolleybus du réseau des Transports Громадство Genevois</dct:description>
+        <dct:title xml:lang="it">RESEAU TPG - HAUBANS</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">RESEAU TPG - HAUBANS</dct:title>
+        <dct:title xml:lang="de">RESEAU TPG - HAUBANS</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Cette sofa contient l'ensemble des lignes tjener de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois</dct:description>
+        <dct:identifier>SITG_5393@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dct:title xml:lang="pt-t-de-t0-mtec">RESEAU TPG — RIO DE JANEIRO</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Bezmaksas Lejupielādēt Cette couche contient l’ensemble des lignes servant de support Sistēmas Prasības</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2016-05-02T00:00:00</dct:issued>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Cette sofae contient l’ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Publics Genevois – Cette sofae contient l’ensemble des lignes servant de support aux lignes de contact des voies de tramvai et de trolleybus du réseau des Publics Genevois</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Cette sohva contient l’ensemble des lignes servant de support aux lignes de contact des voies de tramways et de trolleybus du réseau des Transports Publics Genevois Näytä tarkat tiedot</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>SITG_5393@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+  </dcat:CatalogRecord>
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:thomas.jerome@tpg.ch"/>
+  </rdf:Description>
+</rdf:RDF>

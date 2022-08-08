@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/c2qzdx3kbkiom7hfpipw">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:01:25Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>8ede2a1286952665e5c780ac123b1145</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T08:59:19Z</dct:issued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>C2QZDX3kbKIOM7HFpIpw</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/c2qzdx3kbkiom7hfpipw"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/c2qzdx3kbkiom7hfpipw">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/018c2c84-a2e5-466b-93b9-1c76ca5d4a04">
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/1a05aa25-2e35-48e9-a250-ef338b434e7a</dct:identifier>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/demo_mager.tsv.gz"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="de">Sterbefälle nach Geburtsjahr (erreichtem Alter) und Geschlecht</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">Deaths by year of birth (age reached) and sex</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="fr">Décès par année de naissance (âge atteint) et sexe</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Kuolemat syntymävuoden (ikä saavutettu) ja sukupuolen mukaan</dct:title>
+        <dct:description xml:lang="fr">Décès par année de naissance (âge atteint) et sexe</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Úmrtí podle roku narození (dosažený věk) a pohlaví</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Úmrtia podľa roku narodenia (dosiahnutého veku) a pohlavia</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/336b6d6e-4288-494d-8f44-c5c826bacfcf">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/4f23e51e-f91e-49a9-aea8-785e69b5e2d0">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fr">Décès par année de naissance (âge atteint) et sexe</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Nāves gadījumi pēc dzimšanas gada (iegūtais vecums) un dzimuma</dct:title>
+        <dct:title xml:lang="de">Sterbefälle nach Geburtsjahr (erreichtem Alter) und Geschlecht</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Úmrtia podľa roku narodenia (dosiahnutého veku) a pohlavia</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Morti per anno di nascita (età raggiunta) e sesso</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Básanna de réir bhliain bhreithe (aois bainte amach) agus inscne</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mager">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/c2qzdx3kbkiom7hfpipw"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mager</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mager</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="el-t-en-t0-mtec">Θάνατοι κατά έτος γέννησης (ηλικίας) και φύλο</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Smrti po letu rojstva (dosežena starost) in spolu</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Смертність від року народження (досягнення віку) і сексу</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Θάνατοι κατά έτος γέννησης (ηλικίας) και φύλο</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Halálozások születési év (elért életkor) és nem szerint</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="et-t-en-t0-mtec">Surmad sünniaasta (vanuse) ja soo järgi</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Imwiet skont is-sena tat-twelid (l-età milħuqa) u s-sess</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Śmierć według roku urodzenia (osiągnięty wiek) i płeć</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Dødsfald efter fødselsår (alder) og køn</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Overlijden per geboortejaar (leeftijd bereikt) en geslacht</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Mortes por ano de nascimento (idade alcançada) e sexo</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Dödsfall efter födelseår (ålder uppnådd) och kön</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Overlijden per geboortejaar (leeftijd bereikt) en geslacht</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="en">Deaths by year of birth (age reached) and sex</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Смъртни случаи по година на раждане (навършена възраст) и пол</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Nāves gadījumi pēc dzimšanas gada (iegūtais vecums) un dzimuma</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="en">Deaths by year of birth (age reached) and sex</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/demo_mor_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/demo_mor_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/c2qzdx3kbkiom7hfpipw"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Kuolemat syntymävuoden (ikä saavutettu) ja sukupuolen mukaan</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Surmad sünniaasta (vanuse) ja soo järgi</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Mirties atvejai pagal gimimo metus (sulaukus amžiaus) ir lytį</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Смъртни случаи по година на раждане (навършена възраст) и пол</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Defunciones por año de nacimiento (edad alcanzada) y sexo</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/6b4d9945-6aa1-46f4-bd0e-fe9370522e65">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1960-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-22</dct:modified>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Śmierć według roku urodzenia (osiągnięty wiek) i płeć</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2a1b38fc-c116-45f2-b68c-41f528952281">
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Sterbefälle nach Geburtsjahr (erreichtem Alter) und Geschlecht</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/demo_mager.sdmx.zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/2bfd9c60-edc8-46af-9395-a15b24004f17</dct:identifier>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">Deaths by year of birth (age reached) and sex</dct:title>
+            <dct:title xml:lang="fr">Décès par année de naissance (âge atteint) et sexe</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Смертність від року народження (досягнення віку) і сексу</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6f4a7d88-38c4-4fc4-a931-47c8585c5fda">
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">Deaths by year of birth (age reached) and sex</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/demo_mager.tsv.gz&amp;unzip=true"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Décès par année de naissance (âge atteint) et sexe</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/2a711687-7162-42ad-8a4f-3828b7788823</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Sterbefälle nach Geburtsjahr (erreichtem Alter) und Geschlecht</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-en-t0-mtec">Dødsfald efter fødselsår (alder) og køn</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Defunciones por año de nacimiento (edad alcanzada) y sexo</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Smrti po letu rojstva (dosežena starost) in spolu</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Halálozások születési év (elért életkor) és nem szerint</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/c2qzdx3kbkiom7hfpipw"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/demo_mor_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Imwiet skont is-sena tat-twelid (l-età milħuqa) u s-sess</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Úmrtí podle roku narození (dosažený věk) a pohlaví</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Decese în funcție de anul nașterii (vârsta atinsă) și de sex</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Decese în funcție de anul nașterii (vârsta atinsă) și de sex</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Mirties atvejai pagal gimimo metus (sulaukus amžiaus) ir lytį</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Smrtni slučajevi po godini rođenja (dostignuta dob) i spolu</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Morti per anno di nascita (età raggiunta) e sesso</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:description xml:lang="de">Sterbefälle nach Geburtsjahr (erreichtem Alter) und Geschlecht</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Mortes por ano de nascimento (idade alcançada) e sexo</dct:description>
+        <dct:identifier>demo_mager</dct:identifier>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Básanna de réir bhliain bhreithe (aois bainte amach) agus inscne</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Dödsfall efter födelseår (ålder uppnådd) och kön</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:identifier>http://data.europa.eu/88u/dataset/C2QZDX3kbKIOM7HFpIpw</dct:identifier>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/demo_mager"/>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Smrtni slučajevi po godini rođenja (dostignuta dob) i spolu</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:01:25Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

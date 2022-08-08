@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/38yfsytwlatioobnunslw">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:18:07Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T06:18:01Z</dct:issued>
+    <dct:identifier>38YFSyTwlatIooBnuNSlw</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>9732ae299c7582e363669b2c2ce92e81</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:18:07Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/38yfsytwlatioobnunslw"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/38yfsytwlatioobnunslw">
+        <dct:description xml:lang="da-t-en-t0-mtec">Virksomheder, soveværelser og sengepladser i turistindkvartering efter urbaniseringsgrad og kyst-/ikke-kystområde</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Zařízení, ložnice a lůžka v turistickém ubytování, podle stupně urbanizace a pobřežní/nepobřežní oblasti</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Unități, dormitoare și paturi în unități de cazare turistică, în funcție de gradul de urbanizare și zona costieră/non-costieră</dct:description>
+        <dct:identifier>tour_cap_natdc</dct:identifier>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Заклади, спальні та спальні місця в туристичному розміщенні, за ступенем урбанізації та прибережної/неприбережної зони</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Заклади, спальні та спальні місця в туристичному розміщенні, за ступенем урбанізації та прибережної/неприбережної зони</dct:description>
+        <dct:description xml:lang="de">Betriebe, Zimmer und Schlafgelegenheiten zur Beherbergung von Reisenden nach Verstädterungsgrad und Küsten-/Nicht-Küstengebiet</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/tour_occ_esms.htm">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/38yfsytwlatioobnunslw"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/tour_occ_esms.htm</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Iestādes, guļamistabas un gultasvietas tūristu mītnēs pēc urbanizācijas pakāpes un piekrastes/piekrastes zonas</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Stabbilimenti, kmamar tas-sodda u postijiet tas-sodda f’akkomodazzjoni turistika, skont il-grad ta’ urbanizzazzjoni u żona kostali/mhux kostali</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Iestādes, guļamistabas un gultasvietas tūristu mītnēs pēc urbanizācijas pakāpes un piekrastes/piekrastes zonas</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Objekti, spavaće sobe i ležajevi u turističkom smještaju, prema stupnju urbanizacije i priobalnom/neobalnom području</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Turistų apgyvendinimo įstaigos, miegamieji ir nakvynės vietos pagal urbanizacijos laipsnį ir pakrančių ir (arba) ne pakrančių zonas</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fd2abc70-0034-42d9-b507-fcdc601eef96">
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="de">Betriebe, Zimmer und Schlafgelegenheiten zur Beherbergung von Reisenden nach Verstädterungsgrad und Küsten-/Nicht-Küstengebiet</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_natdc.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="en">Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="fr">Établissements, chambres et places-lits dans des hébergements touristiques, par degré d’urbanisation et zone côtière/non côtière</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/e0156c2d-36dd-42ae-aed6-b6efa4c75a3b</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A turisztikai szálláshelyeken található létesítmények, hálószobák és ágyak, az urbanizáció foka és a part menti/nem part menti területek szerint</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Zariadenia, spálne a lôžka v turistických ubytovacích zariadeniach podľa stupňa urbanizácie a pobrežnej/nepobrežnej oblasti</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Bunaíochtaí, seomraí leapa agus áiteanna leapa i gcóiríocht do thurasóirí, de réir leibhéal uirbithe agus limistéir chósta/neamhchósta</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Objekti, spavaće sobe i ležajevi u turističkom smještaju, prema stupnju urbanizacije i priobalnom/neobalnom području</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Заведения, спални и легла в обекти за туристическо настаняване, по степен на урбанизация и крайбрежен/некрайбрежен район</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Inrichtingen, slaapkamers en slaapplaatsen in toeristische accommodatie, naar mate van verstedelijking en kust/niet-kustgebied</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/5a514a7c-2fd7-47dc-9363-539920694326">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/a23461a4-395b-4fb8-b29f-fc93041ade1a">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Ustanove, spalnice in ležišča v turističnih nastanitvenih objektih, glede na stopnjo urbanizacije in obalno/neobalno območje</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Anläggningar, sovrum och sängplatser i turistboenden, efter urbaniseringsgrad och kustnära/icke-kustnära områden</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Stabilimenti, camere da letto e posti letto in alloggi turistici, per grado di urbanizzazione e zona costiera/non costiera</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Virksomheder, soveværelser og sengepladser i turistindkvartering efter urbaniseringsgrad og kyst-/ikke-kystområde</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Inrichtingen, slaapkamers en slaapplaatsen in toeristische accommodatie, naar mate van verstedelijking en kust/niet-kustgebied</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Unități, dormitoare și paturi în unități de cazare turistică, în funcție de gradul de urbanizare și zona costieră/non-costieră</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Stabbilimenti, kmamar tas-sodda u postijiet tas-sodda f’akkomodazzjoni turistika, skont il-grad ta’ urbanizzazzjoni u żona kostali/mhux kostali</dct:description>
+        <dct:title xml:lang="en">Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Zařízení, ložnice a lůžka v turistickém ubytování, podle stupně urbanizace a pobřežní/nepobřežní oblasti</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Ettevõtted, magamistoad ja voodikohad majutusettevõtetes linnastumise astme ja ranniku/mitterannikuala järgi</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c060900f-eccf-496d-a2ff-2fdbfdad75fc">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="en">Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="fr">Établissements, chambres et places-lits dans des hébergements touristiques, par degré d’urbanisation et zone côtière/non côtière</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_natdc.sdmx.zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="de">Betriebe, Zimmer und Schlafgelegenheiten zur Beherbergung von Reisenden nach Verstädterungsgrad und Küsten-/Nicht-Küstengebiet</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/9e1a633c-f328-412c-9388-6338b1c74ad5</dct:identifier>
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Majoitusliikkeiden laitokset, makuuhuoneet ja vuodepaikat kaupungistumisasteen ja rannikkoalueen ja muun kuin rannikkoalueen mukaan</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Obiekty, sypialnie i miejsca noclegowe w obiektach zakwaterowania turystycznego, według stopnia urbanizacji i obszarów przybrzeżnych/nieprzybrzeżnych</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-07</dct:modified>
+        <dct:title xml:lang="el-t-en-t0-mtec">Εγκαταστάσεις, υπνοδωμάτια και κρεβατοκάμαρες σε τουριστικά καταλύματα, κατά βαθμό αστικοποίησης και παράκτια/μη παράκτια περιοχή</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Ustanove, spalnice in ležišča v turističnih nastanitvenih objektih, glede na stopnjo urbanizacije in obalno/neobalno območje</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Majoitusliikkeiden laitokset, makuuhuoneet ja vuodepaikat kaupungistumisasteen ja rannikkoalueen ja muun kuin rannikkoalueen mukaan</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Bunaíochtaí, seomraí leapa agus áiteanna leapa i gcóiríocht do thurasóirí, de réir leibhéal uirbithe agus limistéir chósta/neamhchósta</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Stabilimenti, camere da letto e posti letto in alloggi turistici, per grado di urbanizzazione e zona costiera/non costiera</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Εγκαταστάσεις, υπνοδωμάτια και κρεβατοκάμαρες σε τουριστικά καταλύματα, κατά βαθμό αστικοποίησης και παράκτια/μη παράκτια περιοχή</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tour_occ_esms.sdmx.zip">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/38yfsytwlatioobnunslw"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tour_occ_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Estabelecimentos, quartos e camas em alojamento turístico, por grau de urbanização e zona costeira/não costeira</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Establecimientos, dormitorios y plazas de alojamiento turístico, por grado de urbanización y zona costera/no costera</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Turistų apgyvendinimo įstaigos, miegamieji ir nakvynės vietos pagal urbanizacijos laipsnį ir pakrančių ir (arba) ne pakrančių zonas</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A turisztikai szálláshelyeken található létesítmények, hálószobák és ágyak, az urbanizáció foka és a part menti/nem part menti területek szerint</dct:description>
+        <dct:title xml:lang="de">Betriebe, Zimmer und Schlafgelegenheiten zur Beherbergung von Reisenden nach Verstädterungsgrad und Küsten-/Nicht-Küstengebiet</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/c6f5aa4b-3e4b-457f-ba7f-45af82f85bc3">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2012-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Obiekty, sypialnie i miejsca noclegowe w obiektach zakwaterowania turystycznego, według stopnia urbanizacji i obszarów przybrzeżnych/nieprzybrzeżnych</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Zariadenia, spálne a lôžka v turistických ubytovacích zariadeniach podľa stupňa urbanizácie a pobrežnej/nepobrežnej oblasti</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Anläggningar, sovrum och sängplatser i turistboenden, efter urbaniseringsgrad och kustnära/icke-kustnära områden</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tour_cap_natdc">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/38yfsytwlatioobnunslw"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tour_cap_natdc</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tour_cap_natdc</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="es-t-en-t0-mtec">Establecimientos, dormitorios y plazas de alojamiento turístico, por grado de urbanización y zona costera/no costera</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:title xml:lang="fr">Établissements, chambres et places-lits dans des hébergements touristiques, par degré d’urbanisation et zone côtière/non côtière</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/43cffcbc-f99c-43c6-9c19-b1ba7a23c517">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_cap_natdc.tsv.gz"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/5cb59af9-ee57-46aa-abe5-5cec89c4c5bb</dct:identifier>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Établissements, chambres et places-lits dans des hébergements touristiques, par degré d’urbanisation et zone côtière/non côtière</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="de">Betriebe, Zimmer und Schlafgelegenheiten zur Beherbergung von Reisenden nach Verstädterungsgrad und Küsten-/Nicht-Küstengebiet</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Заведения, спални и легла в обекти за туристическо настаняване, по степен на урбанизация и крайбрежен/некрайбрежен район</dct:description>
+        <dct:description xml:lang="en">Establishments, bedrooms and bed-places in tourist accommodation, by degree of urbanisation and coastal/non-coastal area</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tour_cap_natdc"/>
+        <dct:description xml:lang="et-t-en-t0-mtec">Ettevõtted, magamistoad ja voodikohad majutusettevõtetes linnastumise astme ja ranniku/mitterannikuala järgi</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5909"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4470"/>
+        <dct:description xml:lang="fr">Établissements, chambres et places-lits dans des hébergements touristiques, par degré d’urbanisation et zone côtière/non côtière</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/38YFSyTwlatIooBnuNSlw</dct:identifier>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Estabelecimentos, quartos e camas em alojamento turístico, por grau de urbanização e zona costeira/não costeira</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

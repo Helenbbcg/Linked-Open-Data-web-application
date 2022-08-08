@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18304510-bundesamt-fur-statistik-bfs">
+    <dct:identifier>18304510@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18304510-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="pt-t-de-t0-mtec">Indicadores de universidades de ciências aplicadas por departamento e universidade</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0a406df9-45f6-4b2c-b544-a83684d61317">
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:identifier>link-18304516-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1506030200_241/px-x-1506030200_241.px"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Az alkalmazott tudományok egyetemeinek mutatói tanszékek és egyetemek szerint</dct:title>
+        <dcat:keyword xml:lang="en">finance-of-the-universities</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Lietišķo zinātņu universitāšu rādītāji pa departamentiem un universitātēm</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Ukazatele univerzit aplikovaných věd podle katedry a vysokých škol</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="fr">finances-des-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Indicadores de las universidades de ciencias aplicadas por departamento y universidad</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-08-30T00:00:00</dct:issued>
+        <dct:title xml:lang="el-t-de-t0-mtec">Δείκτες πανεπιστημίων εφαρμοσμένων επιστημών ανά τμήμα και πανεπιστήμιο</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2a1435a0-bdcd-4216-bb5a-f02954509bad">
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táscairí ollscoileanna na n-eolaíochtaí feidhmeacha de réir roinne agus ollscoile</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1506030200_241"/>
+            <dct:title xml:lang="de">Indikatoren der Fachhochschulen nach Fachbereich und Hochschule</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Indicatoren van hogescholen per afdeling en universiteit</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az alkalmazott tudományok egyetemeinek mutatói tanszékek és egyetemek szerint</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ammattikorkeakoulujen indikaattorit laitoksen ja yliopiston mukaan</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Indicateurs des hautes écoles spécialisées par domaine et université</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Indikaturi ta’ universitajiet ta’ xjenzi applikati skont id-dipartiment u l-università</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lietišķo zinātņu universitāšu rādītāji pa departamentiem un universitātēm</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Pokazatelji sveučilišta primijenjenih znanosti po odjelu i sveučilištu</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Показники університетів прикладних наук за кафедрою та університетом</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ukazatele univerzit aplikovaných věd podle katedry a vysokých škol</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Indicadores de universidades de ciências aplicadas por departamento e universidade</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δείκτες πανεπιστημίων εφαρμοσμένων επιστημών ανά τμήμα και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Показатели на университетите по приложни науки по катедра и университет</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wskaźniki uniwersytetów nauk stosowanych według wydziałów i uczelni</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Indicators of universities of applied sciences by department and university</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="es-t-de-t0-mtec">Indicadores de las universidades de ciencias aplicadas por departamento y universidad</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Indicatori delle università di scienze applicate per dipartimento e università</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Taikomųjų mokslų universitetų rodikliai pagal departamentus ir universitetus</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Kazalniki univerz uporabnih znanosti po oddelkih in univerzah</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Indikatorer för yrkeshögskolor efter institution och universitet</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Ukazovatele univerzít aplikovaných vied podľa katedry a univerzity</dct:title>
+            <dct:identifier>18304514-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Indicatori ai universităților de științe aplicate pe departamente și universități</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Indikatorer for universiteter for anvendt videnskab efter afdeling og universitet</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="et-t-de-t0-mtec">Rakenduskõrgkoolide näitajad osakonna ja ülikooli kaupa</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c0fab870-46d6-49ca-b070-a7c9e3e5c8db">
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1506030200_241/px-x-1506030200_241.px"/>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:identifier>link-18304516-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-de-t0-mtec">Indikatorer for universiteter for anvendt videnskab efter afdeling og universitet</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Ukazovatele univerzít aplikovaných vied podľa katedry a univerzity</dct:title>
+        <dcat:keyword xml:lang="it">finanziare-le-universita</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b033cd1c-fad4-440f-b1d3-e1770c0a7cf1">
+            <dct:title xml:lang="en-t-de-t0-mtec">Indicators of universities of applied sciences by department and university</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Indicadores de universidades de ciências aplicadas por departamento e universidade</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Indikaturi ta’ universitajiet ta’ xjenzi applikati skont id-dipartiment u l-università</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Ukazovatele univerzít aplikovaných vied podľa katedry a univerzity</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1506030200_241/px-x-1506030200_241/px-x-1506030200_241.px"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-de-t0-mtec">Rakenduskõrgkoolide näitajad osakonna ja ülikooli kaupa</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wskaźniki uniwersytetów nauk stosowanych według wydziałów i uczelni</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Taikomųjų mokslų universitetų rodikliai pagal departamentus ir universitetus</dct:title>
+            <dct:title xml:lang="de">Indikatoren der Fachhochschulen nach Fachbereich und Hochschule</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Indicatori delle università di scienze applicate per dipartimento e università</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Indikatorer for universiteter for anvendt videnskab efter afdeling og universitet</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Indicatoren van hogescholen per afdeling en universiteit</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Indicateurs des hautes écoles spécialisées par domaine et université</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Indicatori ai universităților de științe aplicate pe departamente și universități</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Kazalniki univerz uporabnih znanosti po oddelkih in univerzah</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az alkalmazott tudományok egyetemeinek mutatói tanszékek és egyetemek szerint</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Показники університетів прикладних наук за кафедрою та університетом</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Indikatorer för yrkeshögskolor efter institution och universitet</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Показатели на университетите по приложни науки по катедра и университет</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lietišķo zinātņu universitāšu rādītāji pa departamentiem un universitātēm</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ukazatele univerzit aplikovaných věd podle katedry a vysokých škol</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δείκτες πανεπιστημίων εφαρμοσμένων επιστημών ανά τμήμα και πανεπιστήμιο</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Pokazatelji sveučilišta primijenjenih znanosti po odjelu i sveučilištu</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táscairí ollscoileanna na n-eolaíochtaí feidhmeacha de réir roinne agus ollscoile</dct:title>
+            <dct:identifier>link-18304520-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ammattikorkeakoulujen indikaattorit laitoksen ja yliopiston mukaan</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Indicadores de las universidades de ciencias aplicadas por departamento y universidad</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Indicators of universities of applied sciences by department and university</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Táscairí ollscoileanna na n-eolaíochtaí feidhmeacha de réir roinne agus ollscoile</dct:title>
+        <dcat:keyword xml:lang="de">hochschulfinanzen</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wskaźniki uniwersytetów nauk stosowanych według wydziałów i uczelni</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Indicatori ai universităților de științe aplicate pe departamente și universități</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Показники університетів прикладних наук за кафедрою та університетом</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Ammattikorkeakoulujen indikaattorit laitoksen ja yliopiston mukaan</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Показатели на университетите по приложни науки по катедра и университет</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Indicatoren van hogescholen per afdeling en universiteit</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ddff6bf0-a4fc-4cb1-8319-e046ba9a4330">
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Indikatorer för specialiserade universitet efter ämnesområde och universitet</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Indicatori delle università specializzate per campo di studio e università</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Indicadores de universidades especializadas por campo de estudo e universidade</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Индикатори на специализирани университети по области на обучение и университети</dct:title>
+            <dct:title xml:lang="fr">Indicateurs des hautes écoles spécialisées selon le domaine d'études et la haute école</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Показники спеціалізованих університетів за галузями навчання та університетами</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δείκτες εξειδικευμένων πανεπιστημίων ανά τομέα σπουδών και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Ukazatele specializovaných vysokých škol podle oborů a vysokých škol</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Indicators of specialised universities by field of study and university</dct:title>
+            <dct:identifier>link-18304520-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Indicatori ai universităților specializate pe domenii de studiu și universități</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1506030200_241/px-x-1506030200_241/px-x-1506030200_241.px"/>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Indikatorer for specialiserede universiteter efter studieområde og universitet</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Specializuotų universitetų rodikliai pagal studijų sritį ir universitetą</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Kazalniki specializiranih univerz po študijskih in univerzitetnih področjih</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Pokazatelji specijaliziranih sveučilišta po području studija i sveučilišta</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Erikoistuneiden yliopistojen indikaattorit koulutusaloittain ja yliopistoittain</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Wskaźniki wyspecjalizowanych uczelni według kierunków studiów i uniwersytetów</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Indicadores de universidades especializadas por campo de estudio y universidad</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Specializēto universitāšu rādītāji pa studiju jomām un universitātēm</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Táscairí ollscoileanna speisialaithe de réir réimse staidéir agus ollscoile</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Spetsialiseerunud ülikoolide näitajad õppevaldkondade ja ülikoolide kaupa</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Indikatoren der Fachhochschulen nach Studienfach und Hochschule</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Indicatoren van gespecialiseerde universiteiten naar vakgebied en universiteit</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Ukazovatele špecializovaných univerzít podľa študijného odboru a univerzity</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Indikaturi ta ‘universitajiet speċjalizzati skont il-qasam ta’ studju u l-università</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A szakosodott egyetemek mutatói tanulmányi és egyetemi területek szerint</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="et-t-de-t0-mtec">Rakenduskõrgkoolide näitajad osakonna ja ülikooli kaupa</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Indikaturi ta’ universitajiet ta’ xjenzi applikati skont id-dipartiment u l-università</dct:title>
+        <dct:title xml:lang="de">Indikatoren der Fachhochschulen nach Fachbereich und Hochschule</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/978c6f66-edc3-4023-8505-8ddd6ff74a26">
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Kazalniki specializiranih univerz po študijskih in univerzitetnih področjih</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Táscairí ollscoileanna speisialaithe de réir réimse staidéir agus ollscoile</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Indikatorer for specialiserede universiteter efter studieområde og universitet</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Ukazatele specializovaných vysokých škol podle oborů a vysokých škol</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Indicators of specialised universities by field of study and university</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Показники спеціалізованих університетів за галузями навчання та університетами</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Wskaźniki wyspecjalizowanych uczelni według kierunków studiów i uniwersytetów</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Pokazatelji specijaliziranih sveučilišta po području studija i sveučilišta</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1506030200_241"/>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A szakosodott egyetemek mutatói tanulmányi és egyetemi területek szerint</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Specializēto universitāšu rādītāji pa studiju jomām un universitātēm</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Indikaturi ta ‘universitajiet speċjalizzati skont il-qasam ta’ studju u l-università</dct:title>
+            <dct:identifier>18304514-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fr">Indicateurs des hautes écoles spécialisées selon le domaine d'études et la haute école</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δείκτες εξειδικευμένων πανεπιστημίων ανά τομέα σπουδών και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Indikatoren der Fachhochschulen nach Studienfach und Hochschule</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Indicatoren van gespecialiseerde universiteiten naar vakgebied en universiteit</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Indicadores de universidades especializadas por campo de estudo e universidade</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Erikoistuneiden yliopistojen indikaattorit koulutusaloittain ja yliopistoittain</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Specializuotų universitetų rodikliai pagal studijų sritį ir universitetą</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Indicatori delle università specializzate per campo di studio e università</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Indicatori ai universităților specializate pe domenii de studiu și universități</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Ukazovatele špecializovaných univerzít podľa študijného odboru a univerzity</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Spetsialiseerunud ülikoolide näitajad õppevaldkondade ja ülikoolide kaupa</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Индикатори на специализирани университети по области на обучение и университети</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Indikatorer för specialiserade universitet efter ämnesområde och universitet</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Indicadores de universidades especializadas por campo de estudio y universidad</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr">Indicateurs des hautes écoles spécialisées selon le domaine d'études et la haute école</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:08:36.848134</dct:modified>
+        <dct:identifier>18304510@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Kazalniki univerz uporabnih znanosti po oddelkih in univerzah</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Indicatori delle università di scienze applicate per dipartimento e università</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Taikomųjų mokslų universitetų rodikliai pagal departamentus ir universitetus</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Indikatorer för yrkeshögskolor efter institution och universitet</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Pokazatelji sveučilišta primijenjenih znanosti po odjelu i sveučilištu</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:21:03Z</edp:transReceived>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:16Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:16Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>a378ebdfaa3f5d9b49ff6e8efe47d18c</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18304510-bundesamt-fur-statistik-bfs"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:20Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

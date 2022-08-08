@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/5a63a7d5-2384-47b3-ac04-a6c43d9e5376">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:25:22Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-03T20:25:22Z</dct:issued>
+    <dct:identifier>5a63a7d5-2384-47b3-ac04-a6c43d9e5376</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:25:22Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/5a63a7d5-2384-47b3-ac04-a6c43d9e5376">
+        <dcat:keyword>luas</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/national-transport-authority">
+            <foaf:name>National Transport Authority</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T01:03:31</dct:modified>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Peter Cranny</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:peter.cranny@nationaltransport.ie"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="https://data.gov.ie/Transport"/>
+        <dct:accrualPeriodicity>Irregular</dct:accrualPeriodicity>
+        <dcat:keyword>transport</dcat:keyword>
+        <dcat:keyword>gtfs</dcat:keyword>
+        <dct:title>Schedule data for Dublin Express(GTFS)</dct:title>
+        <dct:description>
+These public transport operators' GTFS files are updated every time a service timetable is changed. If there was a previous version it will be over written.
+The validity period for each operator's Schedule is declared in the appropriate manner within in the individual GTFS files.
+Type = Static Transit
+Format  = GTFS
+Delivered as = Zip format containing Text files that conform to the GTFS Specification.</dct:description>
+        <dct:identifier>5a63a7d5-2384-47b3-ac04-a6c43d9e5376</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/264d3677-e881-4859-86d4-c6d800344353">
+            <dct:identifier>https://data.gov.ie/dataset/5a63a7d5-2384-47b3-ac04-a6c43d9e5376/resource/eace1f83-5a4e-44b9-b9d6-244dbb57b523</dct:identifier>
+            <dct:description>GTFS data for Dublin Express(GTFS)</dct:description>
+            <dct:title>GTFS_Dublin Express(GTFS).zip</dct:title>
+            <dcat:accessURL rdf:resource="http://www.transportforireland.ie/transitData/google_transit_dublinexpress.zip"/>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:format>GTFS</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>en</dct:language>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2015-10-27T00:00:00</dct:issued>
+        <dcat:keyword>schedule</dcat:keyword>
+        <dcat:keyword>bus</dcat:keyword>
+        <dcat:landingPage rdf:resource="http://www.transportforireland.ie/transitData/PT_Data.html"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>a85ce6d369b9dbb8dad3e2d1a22bbf6a</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/5a63a7d5-2384-47b3-ac04-a6c43d9e5376"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

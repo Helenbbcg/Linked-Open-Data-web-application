@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/19164203-bundesamt-fur-statistik-bfs">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:32:20Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:20Z</dct:issued>
+    <dct:identifier>19164203@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/19164203-bundesamt-fur-statistik-bfs"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:29Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:20Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>984b0e56e44f45d95e74e5688792301f</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/19164203-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="hu-t-de-t0-mtec">A képzési díj, a kanton és az iskolai végzettség összege, díjazása</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Importe, remuneración en forma de tasa de formación, cantón y nivel de educación</dct:title>
+        <dcat:keyword xml:lang="de">kantonale-stipendien-und-darlehen</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:05:49.861526</dct:modified>
+        <dct:title xml:lang="da-t-de-t0-mtec">Beløb, vederlag i form af uddannelsesgebyr, kanton og uddannelsesniveau</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Iznos, naknada u obliku naknade za obuku, kantona i razine obrazovanja</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e8eb40ac-8624-4d6d-bbe3-360a7e85f5b7">
+            <dct:title xml:lang="hu-t-de-t0-mtec">A képzési díj, a kanton és az iskolai végzettség összege, díjazása</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ammont, remunerazzjoni fil-forma ta’ miżata għat-taħriġ, kanton u livell ta’ edukazzjoni</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Importo, retribuzione sotto forma di quota di formazione, cantone e livello di istruzione</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Méid, luach saothair i bhfoirm na táille oiliúna, cantún agus leibhéal oideachais</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Розмір, винагорода у вигляді плати за навчання, кантон і рівень освіти</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Suma, remunerația sub formă de taxă de formare, canton și nivel de educație</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusmaksun muodossa maksettavan korvauksen määrä, kantoni ja koulutustaso</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Znesek, plačilo v obliki takse za usposabljanje, kanton in stopnja izobrazbe</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Montante, remuneração sob a forma de taxa de formação, cantão e nível de ensino</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ποσό, αμοιβή με τη μορφή τέλους κατάρτισης, καντόνι και επίπεδο εκπαίδευσης</dct:title>
+            <dct:identifier>link-19164209-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">Amount, remuneration in the form of the training fee, canton and level of education</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Montant, bénéficiaires selon la forme de la cotisation de formation, canton et niveau d’enseignement</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="da-t-de-t0-mtec">Beløb, vederlag i form af uddannelsesgebyr, kanton og uddannelsesniveau</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Summa, tasu koolitustasuna, kanton ja haridustase</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Importe, remuneración en forma de tasa de formación, cantón y nivel de educación</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Summa, atlīdzība apmācības maksas veidā, kantons un izglītības līmenis</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Částka, odměna ve formě poplatku za odbornou přípravu, kanton a úroveň vzdělání</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Suma, odmena vo forme poplatku za odbornú prípravu, kantón a úroveň vzdelania</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Suma, atlygis mokant mokymo mokestį, kantonas ir išsilavinimo lygis</dct:title>
+            <dct:title xml:lang="de">Betrag, Bezügerinnen und Bezüger nach Form des Ausbildungsbeitrags, Kanton und Bildungsstufe</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Размер, възнаграждение под формата на такса за обучение, кантон и ниво на образование</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1506020000_114/px-x-1506020000_114/px-x-1506020000_114.px"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Kwota, wynagrodzenie w formie opłaty szkoleniowej, kanton i poziom wykształcenia</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bedrag, vergoeding in de vorm van het opleidingsgeld, kanton en opleidingsniveau</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Iznos, naknada u obliku naknade za obuku, kantona i razine obrazovanja</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Belopp, ersättning i form av utbildningsavgift, kanton och utbildningsnivå</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Amount, remuneration in the form of the training fee, canton and level of education</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-10-06T00:00:00</dct:issued>
+        <dct:title xml:lang="fr">Montant et bénéficiaires selon le type de contribution à la formation, le canton et le degré de formation</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Importo, retribuzione sotto forma di quota di formazione, cantone e livello di istruzione</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Розмір, винагорода у вигляді плати за навчання, кантон і рівень освіти</dct:title>
+        <dct:identifier>19164203@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/247c37a7-8d00-492a-8954-f00c49ce30b8">
+            <dct:title xml:lang="ga-t-fr-t0-mtec">An méid agus na tairbhithe de réir an chineáil ranníocaíochta le hoiliúint, cantún agus leibhéal na hoiliúna</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кількість і бенефіціарів відповідно до виду внеску в навчання, кантон і рівень підготовки</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Belopp och stödmottagare beroende på typ av bidrag till utbildning, kanton och utbildningsnivå</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Suma ir paramos gavėjai pagal įnašo į mokymą rūšį, kantoną ir mokymo lygį</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ποσό και δικαιούχοι ανάλογα με το είδος της συνεισφοράς στην κατάρτιση, το καντόνι και το επίπεδο κατάρτισης</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Beløb og støttemodtagere alt efter typen af bidrag til uddannelse, kanton og uddannelsesniveau</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Suma și beneficiarii în funcție de tipul de contribuție la formare, canton și nivelul de formare</dct:title>
+            <dct:title xml:lang="fr">Montant et bénéficiaires selon le type de contribution à la formation, le canton et le degré de formation</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Összeg és kedvezményezettek a képzéshez való hozzájárulás típusa, kanton és a képzés szintje szerint</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Částka a příjemci podle druhu příspěvku na odbornou přípravu, kanton a úroveň odborné přípravy</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">L-ammont u l-benefiċjarji skont it-tip ta’ kontribuzzjoni għat-taħriġ, il-canton u l-livell ta’ taħriġ</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Bedrag en begunstigden naar soort bijdrage aan opleiding, kanton en opleidingsniveau</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Размер и бенефициери в зависимост от вида на приноса за обучение, кантон и ниво на обучение</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Znesek in upravičenci glede na vrsto prispevka k usposabljanju, kanton in raven usposabljanja</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Kwota i beneficjenci w zależności od rodzaju wkładu w szkolenia, kantonu i poziomu szkolenia</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Summa ja toetusesaajad vastavalt koolitusele antava toetuse liigile, kantonile ja koolituse tasemele</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Cantidad y beneficiarios según tipo de contribución a la formación, cantón y nivel de formación</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:identifier>link-19164209-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Montante e beneficiários de acordo com o tipo de contribuição para a formação, cantão e nível de formação</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1506020000_114/px-x-1506020000_114/px-x-1506020000_114.px"/>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Importo e beneficiari in base al tipo di contributo alla formazione, al cantone e al livello di formazione</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Määrä ja edunsaajat koulutus-, kantoni- ja koulutustason mukaan</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Suma a príjemcovia podľa druhu príspevku na odbornú prípravu, kantónu a úrovne odbornej prípravy</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Summa un saņēmēji atkarībā no ieguldījuma veida apmācībā, kantonā un apmācības līmenī</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Amount and beneficiaries according to type of contribution to training, canton and level of training</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Betrag und Empfänger nach Art des Ausbildungsbeitrags, Kanton und Ausbildungsgrad</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Iznos i korisnici prema vrsti doprinosa osposobljavanju, kantonu i razini osposobljavanja</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f7307aee-4e55-487c-87ec-88c675222a82">
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:identifier>link-19164207-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1506020000_114/px-x-1506020000_114.px"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">cantonal-scholarships-and-loans</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dac90808-c2fb-4622-bde8-520d98da4ae0">
+            <dct:title xml:lang="lv-t-de-t0-mtec">Summa, atlīdzība apmācības maksas veidā, kantons un izglītības līmenis</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Montant, bénéficiaires selon la forme de la cotisation de formation, canton et niveau d’enseignement</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Amount, remuneration in the form of the training fee, canton and level of education</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Kwota, wynagrodzenie w formie opłaty szkoleniowej, kanton i poziom wykształcenia</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="it-t-de-t0-mtec">Importo, retribuzione sotto forma di quota di formazione, cantone e livello di istruzione</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Beløb, vederlag i form af uddannelsesgebyr, kanton og uddannelsesniveau</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Summa, tasu koolitustasuna, kanton ja haridustase</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Suma, atlygis mokant mokymo mokestį, kantonas ir išsilavinimo lygis</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Částka, odměna ve formě poplatku za odbornou přípravu, kanton a úroveň vzdělání</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Importe, remuneración en forma de tasa de formación, cantón y nivel de educación</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A képzési díj, a kanton és az iskolai végzettség összege, díjazása</dct:title>
+            <dct:title xml:lang="de">Betrag, Bezügerinnen und Bezüger nach Form des Ausbildungsbeitrags, Kanton und Bildungsstufe</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ammont, remunerazzjoni fil-forma ta’ miżata għat-taħriġ, kanton u livell ta’ edukazzjoni</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bedrag, vergoeding in de vorm van het opleidingsgeld, kanton en opleidingsniveau</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1506020000_114"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ποσό, αμοιβή με τη μορφή τέλους κατάρτισης, καντόνι και επίπεδο εκπαίδευσης</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Méid, luach saothair i bhfoirm na táille oiliúna, cantún agus leibhéal oideachais</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Розмір, винагорода у вигляді плати за навчання, кантон і рівень освіти</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Belopp, ersättning i form av utbildningsavgift, kanton och utbildningsnivå</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Montante, remuneração sob a forma de taxa de formação, cantão e nível de ensino</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Iznos, naknada u obliku naknade za obuku, kantona i razine obrazovanja</dct:title>
+            <dct:identifier>19164204-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Suma, odmena vo forme poplatku za odbornú prípravu, kantón a úroveň vzdelania</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Suma, remunerația sub formă de taxă de formare, canton și nivel de educație</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Znesek, plačilo v obliki takse za usposabljanje, kanton in stopnja izobrazbe</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Размер, възнаграждение под формата на такса за обучение, кантон и ниво на образование</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusmaksun muodossa maksettavan korvauksen määrä, kantoni ja koulutustaso</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Suma, remunerația sub formă de taxă de formare, canton și nivel de educație</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Suma, odmena vo forme poplatku za odbornú prípravu, kantón a úroveň vzdelania</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Kwota, wynagrodzenie w formie opłaty szkoleniowej, kanton i poziom wykształcenia</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Méid, luach saothair i bhfoirm na táille oiliúna, cantún agus leibhéal oideachais</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Znesek, plačilo v obliki takse za usposabljanje, kanton in stopnja izobrazbe</dct:title>
+        <dcat:keyword xml:lang="it">sovvenzioni-cantonali-e-prestiti</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dcat:keyword xml:lang="fr">bourses-et-prets-detudes-cantonaux</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dc87b74d-aaed-4424-bf6e-25cd4593f310">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1506020000_114/px-x-1506020000_114.px"/>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:identifier>link-19164207-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Belopp, ersättning i form av utbildningsavgift, kanton och utbildningsnivå</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Ποσό, αμοιβή με τη μορφή τέλους κατάρτισης, καντόνι και επίπεδο εκπαίδευσης</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Částka, odměna ve formě poplatku za odbornou přípravu, kanton a úroveň vzdělání</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Summa, tasu koolitustasuna, kanton ja haridustase</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9af16ac7-1201-4739-8297-646b4382d05f">
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Määrä ja edunsaajat koulutus-, kantoni- ja koulutustason mukaan</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Cantidad y beneficiarios según tipo de contribución a la formación, cantón y nivel de formación</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Betrag und Empfänger nach Art des Ausbildungsbeitrags, Kanton und Ausbildungsgrad</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Částka a příjemci podle druhu příspěvku na odbornou přípravu, kanton a úroveň odborné přípravy</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Montante e beneficiários de acordo com o tipo de contribuição para a formação, cantão e nível de formação</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Belopp och stödmottagare beroende på typ av bidrag till utbildning, kanton och utbildningsnivå</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Amount and beneficiaries according to type of contribution to training, canton and level of training</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Suma a príjemcovia podľa druhu príspevku na odbornú prípravu, kantónu a úrovne odbornej prípravy</dct:title>
+            <dct:identifier>19164204-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">An méid agus na tairbhithe de réir an chineáil ranníocaíochta le hoiliúint, cantún agus leibhéal na hoiliúna</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1506020000_114"/>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">L-ammont u l-benefiċjarji skont it-tip ta’ kontribuzzjoni għat-taħriġ, il-canton u l-livell ta’ taħriġ</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Iznos i korisnici prema vrsti doprinosa osposobljavanju, kantonu i razini osposobljavanja</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Summa ja toetusesaajad vastavalt koolitusele antava toetuse liigile, kantonile ja koolituse tasemele</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Summa un saņēmēji atkarībā no ieguldījuma veida apmācībā, kantonā un apmācības līmenī</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Suma ir paramos gavėjai pagal įnašo į mokymą rūšį, kantoną ir mokymo lygį</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Összeg és kedvezményezettek a képzéshez való hozzájárulás típusa, kanton és a képzés szintje szerint</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Размер и бенефициери в зависимост от вида на приноса за обучение, кантон и ниво на обучение</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Znesek in upravičenci glede na vrsto prispevka k usposabljanju, kanton in raven usposabljanja</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Suma și beneficiarii în funcție de tipul de contribuție la formare, canton și nivelul de formare</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fr">Montant et bénéficiaires selon le type de contribution à la formation, le canton et le degré de formation</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ποσό και δικαιούχοι ανάλογα με το είδος της συνεισφοράς στην κατάρτιση, το καντόνι και το επίπεδο κατάρτισης</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кількість і бенефіціарів відповідно до виду внеску в навчання, кантон і рівень підготовки</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Beløb og støttemodtagere alt efter typen af bidrag til uddannelse, kanton og uddannelsesniveau</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Kwota i beneficjenci w zależności od rodzaju wkładu w szkolenia, kantonu i poziomu szkolenia</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Importo e beneficiari in base al tipo di contributo alla formazione, al cantone e al livello di formazione</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Bedrag en begunstigden naar soort bijdrage aan opleiding, kanton en opleidingsniveau</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Ammont, remunerazzjoni fil-forma ta’ miżata għat-taħriġ, kanton u livell ta’ edukazzjoni</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusmaksun muodossa maksettavan korvauksen määrä, kantoni ja koulutustaso</dct:title>
+        <dct:title xml:lang="de">Betrag, Bezügerinnen und Bezüger nach Form des Ausbildungsbeitrags, Kanton und Bildungsstufe</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Размер, възнаграждение под формата на такса за обучение, кантон и ниво на образование</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Suma, atlygis mokant mokymo mokestį, kantonas ir išsilavinimo lygis</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bedrag, vergoeding in de vorm van het opleidingsgeld, kanton en opleidingsniveau</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Montante, remuneração sob a forma de taxa de formação, cantão e nível de ensino</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Summa, atlīdzība apmācības maksas veidā, kantons un izglītības līmenis</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

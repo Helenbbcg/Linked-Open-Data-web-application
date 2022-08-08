@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-55843">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-55843">
+        <dcat:keyword>umwelt</dcat:keyword>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1c1b09ec-8447-4b01-bd57-ed245acfdaa7">
+            <dct:format>PDF</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >0f0e419d8aa317f897ea2eba7ab746bc6faf3342faa6c0d422720952e09ea832</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/verkehr_umwelt_und_energie/Q_I_3_j_H/Q_I_3_j12_HH.pdf"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >589051</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/822c7d28-d71d-4d48-99dc-cda52c5fc37a/resource/1e9b53f4-86ed-4028-9572-dd94da99c94d</dct:identifier>
+            <dct:title>Unfälle beim Umgang mit wassergefährdenden Stoffen und bei der Beförderung wassergefährdender Stoffe in Hamburg 2012</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T08:17:03.172479</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T08:17:03.172479</dct:modified>
+        <dct:identifier>StaNord_CMS:55843</dct:identifier>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7124616e-9f32-4d93-9fa9-50064f452f43">
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:format>ZIP</dct:format>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS55843/Q_I_3_j12_HH.zip"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T08:17:03.172479</dct:modified>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/822c7d28-d71d-4d48-99dc-cda52c5fc37a/resource/85ecc591-b7bb-482b-80a2-5ed48425fa6e</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >673801250cb76e06d4e61f7641acaeb7f2826ea6c553ccf1a00a1ee5825898c6</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Unfälle beim Umgang mit wassergefährdenden Stoffen und bei der Beförderung wassergefährdender Stoffe in Hamburg 2012 (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >209561</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/unfaelle-beim-umgang-mit-wassergefaehrdenden-stoffen-und-bei-der-befoerderung-wassergefaeh-2012"/>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dcat:keyword>unfälle-beim-umgang-mit-wassergefährdenden-stoffen-und-bei-der-beförderung-wassergefährdender-stoffe</dcat:keyword>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dct:title>Unfälle beim Umgang mit wassergefährdenden Stoffen und bei der Beförderung wassergefährdender Stoffe in Hamburg 2012</dct:title>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <adms:identifier>Q I 3 - j 12 HH</adms:identifier>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/78f31810-8676-494a-b368-c3ab020e171a">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/verkehr_umwelt_und_energie/Q_I_3_j_H/Q_I_3_j12_HH.xlsx"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T08:17:03.172479</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >180682</dcat:byteSize>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/822c7d28-d71d-4d48-99dc-cda52c5fc37a/resource/1bc39824-0bb6-40ca-9038-16dd7342d07f</dct:identifier>
+            <dct:title>Unfälle beim Umgang mit wassergefährdenden Stoffen und bei der Beförderung wassergefährdender Stoffe in Hamburg 2012</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>XLSX</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >c5f26704cc937708e41cc80dd6f479517f65471c15b9b230af900017a4694152</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:47:50Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>59b8a980adf3f2a8c2c447a41fa95547</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>StaNord_CMS:55843</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-55843"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:47:50Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:47:50Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

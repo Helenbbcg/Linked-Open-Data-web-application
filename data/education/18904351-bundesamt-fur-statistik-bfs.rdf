@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18904351-bundesamt-fur-statistik-bfs">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>dd9230edce931a13219bca84c42f98b4</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>18904351@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18904351-bundesamt-fur-statistik-bfs"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:20Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:30:39Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:28Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18904351-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.06.02.03"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/50bc86fd-fb2f-4b68-adb2-785a2d6bfd48">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poplatky za vzdelávanie na obyvateľa a federálnu dotáciu podľa kantónu</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mācību maksa uz vienu iedzīvotāju un federālā subsīdija pa kantonu</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koolitustasud elaniku ja föderaalse toetuse kohta kantonite kaupa</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táillí oiliúna in aghaidh an áitritheora agus an fhóirdheontais chónaidhme, de réir canton</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Taxe de formare pe cap de locuitor și subvenții federale, pe canton</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Miżati għat-taħriġ għal kull abitant u sussidju federali, skont il-canton</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Képzési díjak lakosonként és szövetségi támogatás, kanton szerint</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Opleidingskosten per inwoner en federale subsidie, per kanton</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Spese di formazione per abitante e sussidi federali, da parte del cantone</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Taxas de formação por habitante e subsídio federal, por cantão</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Uddannelsesgebyrer pr. indbygger og føderalt tilskud pr. kanton</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusmaksut asukasta ja liittovaltion tukea, kantoni</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Pristojbine za usposabljanje na prebivalca in zvezno subvencijo, s kantonom</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Такси за обучение на глава от населението и федерална субсидия, по кантон</dct:title>
+            <dct:identifier>18904362-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de">Ausbildungsbeiträge pro Einwohnerin bzw. Einwohner und Bundessubvention, nach Kanton</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Naknade za obuku po stanovniku i savezna subvencija, po kantonu</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Utbildningsavgifter per invånare och federalt stöd, av kanton</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.06.02.03"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Плата за навчання на одного жителя і федеральні субсидії, кантон</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Školné na obyvatele a federální dotace podle kantonu</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Training fees per inhabitant and federal subsidy, by canton</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Mokestis už mokslą vienam gyventojui ir federalinė subsidija pagal kantoną</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αμοιβές κατάρτισης ανά κάτοικο και ομοσπονδιακή επιδότηση, ανά καντόνι</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tasas de capacitación por habitante y subsidio federal, por cantón</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Opłaty szkoleniowe na mieszkańca i dotacje federalne, według kantonu</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Cotisations de formation par habitant et subvention fédérale, par canton</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Плата за навчання на одного жителя і федеральні субсидії, кантон</dct:title>
+        <dct:title xml:lang="de">Ausbildungsbeiträge pro Einwohnerin bzw. Einwohner und Bundessubvention, nach Kanton</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Такси за обучение на глава от населението и федерална субсидия, по кантон</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Taxe de formare pe cap de locuitor și subvenții federale, pe canton</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Táillí oiliúna in aghaidh an áitritheora agus an fhóirdheontais chónaidhme, de réir canton</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Opleidingskosten per inwoner en federale subsidie, per kanton</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6a042cb5-b48b-4a16-8072-10b4b90801cb">
+            <dct:title xml:lang="el-t-de-t0-mtec">Αμοιβές κατάρτισης ανά κάτοικο και ομοσπονδιακή επιδότηση, ανά καντόνι</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Плата за навчання на одного жителя і федеральні субсидії, кантон</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-29T00:00:00</dct:modified>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tasas de capacitación por habitante y subsidio federal, por cantón</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koolitustasud elaniku ja föderaalse toetuse kohta kantonite kaupa</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táillí oiliúna in aghaidh an áitritheora agus an fhóirdheontais chónaidhme, de réir canton</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Opłaty szkoleniowe na mieszkańca i dotacje federalne, według kantonu</dct:title>
+            <dct:identifier>18904362-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Naknade za obuku po stanovniku i savezna subvencija, po kantonu</dct:title>
+            <dct:title xml:lang="de">Ausbildungsbeiträge pro Einwohnerin bzw. Einwohner und Bundessubvention, nach Kanton</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Opleidingskosten per inwoner en federale subsidie, per kanton</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Pristojbine za usposabljanje na prebivalca in zvezno subvencijo, s kantonom</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Miżati għat-taħriġ għal kull abitant u sussidju federali, skont il-canton</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Utbildningsavgifter per invånare och federalt stöd, av kanton</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Uddannelsesgebyrer pr. indbygger og føderalt tilskud pr. kanton</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904362/master"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Képzési díjak lakosonként és szövetségi támogatás, kanton szerint</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Taxas de formação por habitante e subsídio federal, por cantão</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mācību maksa uz vienu iedzīvotāju un federālā subsīdija pa kantonu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Taxe de formare pe cap de locuitor și subvenții federale, pe canton</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poplatky za vzdelávanie na obyvateľa a federálnu dotáciu podľa kantónu</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904362/master"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Spese di formazione per abitante e sussidi federali, da parte del cantone</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Mokestis už mokslą vienam gyventojui ir federalinė subsidija pagal kantoną</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusmaksut asukasta ja liittovaltion tukea, kantoni</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Školné na obyvatele a federální dotace podle kantonu</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="en-t-de-t0-mtec">Training fees per inhabitant and federal subsidy, by canton</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Такси за обучение на глава от населението и федерална субсидия, по кантон</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Cotisations de formation par habitant et subvention fédérale, par canton</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Mokestis už mokslą vienam gyventojui ir federalinė subsidija pagal kantoną</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:05:57.824372</dct:modified>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Utbildningsavgifter per invånare och federalt stöd, av kanton</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Taxas de formação por habitante e subsídio federal, por cantão</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusmaksut asukasta ja liittovaltion tukea, kantoni</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Školné na obyvatele a federální dotace podle kantonu</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Mācību maksa uz vienu iedzīvotāju un federālā subsīdija pa kantonu</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Képzési díjak lakosonként és szövetségi támogatás, kanton szerint</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2ab45607-590b-467b-9ee2-1664dd16a0dd">
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Вноски за обучение на глава от населението и федерална субсидия от кантон</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Contribuciones a la capacitación por habitante per cápita y subsidio federal, por cantón</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Ranníocaíochtaí le hoiliúint per capita resp. áitritheora agus fóirdheontas cónaidhme, de réir canton</dct:title>
+            <dct:identifier>18904357-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Συνεισφορές στην κατά κεφαλήν κατάρτιση κατοίκου και ομοσπονδιακής επιδότησης, από καντόνι</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Kantono įnašai į mokymą vienam gyventojui ir federalinė subsidija</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tuki koulutukseen asukasta kohden ja liittovaltion tuki kantonin mukaan</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Príspevky na odbornú prípravu na obyvateľa resp. obyvateľa a federálnu dotáciu kantónom</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Contribuții la formarea pe cap de locuitor și subvenția federală, de către canton</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Contribuições para a formação per capita resp. habitante e subsídio federal, por cantão</dct:title>
+            <dct:title xml:lang="fr">Contributions à la formation par habitante resp. habitant et subvention fédérale, par canton</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Ieguldījums apmācībā uz vienu iedzīvotāju resp. iedzīvotājs un federālā subsīdija, ko veic kantons</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Внесок у навчання на душу населення мешканцем та федеральною субсидією, кантоном</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Prispevki kantona k usposabljanju na prebivalca in zvezni subvenciji</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Doprinosi za obuku po stanovniku resp. stanovnik i savezna subvencija, po kantonu</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Ausbildungsbeiträge pro Einwohner bzw. Einwohner und Bundeszuschuss, nach Kantonen</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Składki na szkolenia per capita resp. mieszkaniec i subwencja federalna, przez kanton</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kantoni panus koolitusse elaniku kohta resp. elaniku kohta ja föderaalne toetus</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kontribuzzjonijiet għat-taħriġ għal kull persuna residenti u sussidju federali, skont id-distrett</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Bidrag til uddannelse pr. indbygger pr. indbygger og føderalt tilskud pr. kanton</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Hozzájárulás az egy főre jutó képzéshez és a szövetségi támogatáshoz kantononként</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Contributions to training per capita resp. inhabitant and federal subsidy, by canton</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Contributi alla formazione pro capite resp. abitante e sussidi federali, da parte del cantone</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Bidrag till utbildning per capita resp. invånare och federalt stöd, per kanton</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.06.02.03"/>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Příspěvky na odbornou přípravu na obyvatele resp. federální dotace podle kantonu</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Bijdragen aan opleiding per hoofd van de bevolking resp. inwonende en federale subsidie, per kanton</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="da-t-de-t0-mtec">Uddannelsesgebyrer pr. indbygger og føderalt tilskud pr. kanton</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Opłaty szkoleniowe na mieszkańca i dotacje federalne, według kantonu</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:spatial>Kantone</dct:spatial>
+        <dcat:keyword xml:lang="it">sovvenzioni-cantonali-e-prestiti</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="el-t-de-t0-mtec">Αμοιβές κατάρτισης ανά κάτοικο και ομοσπονδιακή επιδότηση, ανά καντόνι</dct:title>
+        <dct:identifier>18904351@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="it-t-de-t0-mtec">Spese di formazione per abitante e sussidi federali, da parte del cantone</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-10-06T00:00:00</dct:issued>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Poplatky za vzdelávanie na obyvateľa a federálnu dotáciu podľa kantónu</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Pristojbine za usposabljanje na prebivalca in zvezno subvencijo, s kantonom</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Koolitustasud elaniku ja föderaalse toetuse kohta kantonite kaupa</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Training fees per inhabitant and federal subsidy, by canton</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/99ca7bc5-e17f-4994-99ae-3e120f910aa7">
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="fr">Contributions à la formation par habitante resp. habitant et subvention fédérale, par canton</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tuki koulutukseen asukasta kohden ja liittovaltion tuki kantonin mukaan</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Příspěvky na odbornou přípravu na obyvatele resp. federální dotace podle kantonu</dct:title>
+            <dct:format>XLS</dct:format>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904357/master"/>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Contributi alla formazione pro capite resp. abitante e sussidi federali, da parte del cantone</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Contribuições para a formação per capita resp. habitante e subsídio federal, por cantão</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-29T00:00:00</dct:modified>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kantoni panus koolitusse elaniku kohta resp. elaniku kohta ja föderaalne toetus</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Ranníocaíochtaí le hoiliúint per capita resp. áitritheora agus fóirdheontas cónaidhme, de réir canton</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Contributions to training per capita resp. inhabitant and federal subsidy, by canton</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Doprinosi za obuku po stanovniku resp. stanovnik i savezna subvencija, po kantonu</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Príspevky na odbornú prípravu na obyvateľa resp. obyvateľa a federálnu dotáciu kantónom</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904357/master"/>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Prispevki kantona k usposabljanju na prebivalca in zvezni subvenciji</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Contribuții la formarea pe cap de locuitor și subvenția federală, de către canton</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Kantono įnašai į mokymą vienam gyventojui ir federalinė subsidija</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Contribuciones a la capacitación por habitante per cápita y subsidio federal, por cantón</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kontribuzzjonijiet għat-taħriġ għal kull persuna residenti u sussidju federali, skont id-distrett</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Внесок у навчання на душу населення мешканцем та федеральною субсидією, кантоном</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Składki na szkolenia per capita resp. mieszkaniec i subwencja federalna, przez kanton</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Ieguldījums apmācībā uz vienu iedzīvotāju resp. iedzīvotājs un federālā subsīdija, ko veic kantons</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:identifier>18904357-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Bidrag till utbildning per capita resp. invånare och federalt stöd, per kanton</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Συνεισφορές στην κατά κεφαλήν κατάρτιση κατοίκου και ομοσπονδιακής επιδότησης, από καντόνι</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Ausbildungsbeiträge pro Einwohner bzw. Einwohner und Bundeszuschuss, nach Kantonen</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Bidrag til uddannelse pr. indbygger pr. indbygger og føderalt tilskud pr. kanton</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Bijdragen aan opleiding per hoofd van de bevolking resp. inwonende en federale subsidie, per kanton</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Вноски за обучение на глава от населението и федерална субсидия от кантон</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Hozzájárulás az egy főre jutó képzéshez és a szövetségi támogatáshoz kantononként</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Miżati għat-taħriġ għal kull abitant u sussidju federali, skont il-canton</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="en">cantonal-scholarships-and-loans</dcat:keyword>
+        <dcat:keyword xml:lang="de">kantonale-stipendien-und-darlehen</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="es-t-de-t0-mtec">Tasas de capacitación por habitante y subsidio federal, por cantón</dct:title>
+        <dcat:keyword xml:lang="fr">bourses-et-prets-detudes-cantonaux</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Naknade za obuku po stanovniku i savezna subvencija, po kantonu</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="fr">Contributions à la formation par habitante resp. habitant et subvention fédérale, par canton</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:20Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

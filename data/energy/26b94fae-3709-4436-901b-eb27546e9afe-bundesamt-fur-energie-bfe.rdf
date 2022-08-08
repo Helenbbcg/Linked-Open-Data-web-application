@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/26b94fae-3709-4436-901b-eb27546e9afe-bundesamt-fur-energie-bfe">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:30Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/26b94fae-3709-4436-901b-eb27546e9afe-bundesamt-fur-energie-bfe"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-21T20:07:31Z</dct:modified>
+    <dct:identifier>26b94fae-3709-4436-901b-eb27546e9afe@bundesamt-fur-energie-bfe</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>7ffdd3ddccbfbd0b0359bd1cb4afc06e</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/26b94fae-3709-4436-901b-eb27546e9afe-bundesamt-fur-energie-bfe">
+        <dct:title xml:lang="hr-t-de-t0-mtec">Javni energetski savjetodavni centri</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Veřejná energetická poradenská centra</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/faa92a41-dc87-4e38-8570-c52ff948577c">
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Посилання на спеціалізований портал</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Länk till specialistportalen</dct:description>
+            <dct:description xml:lang="de">Link zum Fachportal</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Saite uz speciālistu portālu</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Link til specialistportalen</dct:title>
+            <dct:description xml:lang="fr">Lien vers le portail</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Link til specialistportalen</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Link spetsialisti portaalile</dct:title>
+            <dct:description xml:lang="en">Link to portal</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Link na specijalistički portal</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Връзка към специализирания портал</dct:title>
+            <dct:title xml:lang="de">Link zum Fachportal</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="it">Link per il portale</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Link para o portal especializado</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Nasc chuig an saintairseach</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Saite uz speciālistu portālu</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Enlace al portal especializado</dct:description>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Link do portalu specjalistycznego</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Odkaz na odborný portál</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Länk till specialistportalen</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Σύνδεσμος προς την ειδική πύλη</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Link għall-portal speċjalizzat</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Odkaz na špecializovaný portál</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Link na specijalistički portal</dct:description>
+            <dct:title xml:lang="en">Link to portal</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Nasc chuig an saintairseach</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Link għall-portal speċjalizzat</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Посилання на спеціалізований портал</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Odkaz na špecializovaný portál</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Link către portalul specializat</dct:description>
+            <dcat:accessURL rdf:resource="https://wms.geo.admin.ch/?REQUEST=GetCapabilities&amp;SERVICE=WMS&amp;VERSION=1.0.0"/>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Nuoroda į specialistų portalą</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Σύνδεσμος προς την ειδική πύλη</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Povezava do specializiranega portala</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Linkki asiantuntijaportaaliin</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Nuoroda į specialistų portalą</dct:title>
+            <dct:language>en</dct:language>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Връзка към специализирания портал</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/fe663957-428f-4cc0-afdb-ba9a59a8687c/resource/1f09c1ad-bb05-4ca6-9567-0ca778388dd9</dct:identifier>
+            <dct:description xml:lang="et-t-de-t0-mtec">Link spetsialisti portaalile</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Linkki asiantuntijaportaaliin</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Link către portalul specializat</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Link para o portal especializado</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-03-01T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Link a szakportálhoz</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Enlace al portal especializado</dct:title>
+            <dct:title xml:lang="it">Link per il portale</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Link naar het gespecialiseerde portaal</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Povezava do specializiranega portala</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Odkaz na odborný portál</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Link do portalu specjalistycznego</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Link a szakportálhoz</dct:description>
+            <dct:format>WMS</dct:format>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Link naar het gespecialiseerde portaal</dct:description>
+            <dct:title xml:lang="fr">Lien vers le portail</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-de-t0-mtec">Centros Públicos de Asesoramiento Energético</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Nyilvános energetikai tanácsadó központok</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Utbudet av offentliga energikonsultcenter i Schweiz är mångsidigt. De erbjuder produkt- och företagsneutrala konsultationer om energifrågor för en bred publik och finansieras av den offentliga sektorn. Beroende på kantonen är de offentliga energirådgivningstjänsterna kantonella eller regionalt organiserade. Vissa städer och kommuner har också egna kommunala rådgivningstjänster för energifrågor. De enskilda konsultcentrumens specialistkompetenser och tematiska rådgivningsfokus ligger inom områdena byggnader &amp;amp; byggnadsteknik, elektriska apparater och belysning eller rörlighet. För de olika kundgrupperna erbjuder företag och samhällen olika kostnadsfria och kostnadseffektiva konsultationer. En översikt över de konsulttjänster som erbjuds av de offentliga energirådgivningsorganen och EnergieSchweiz informationslinje (den federala regeringens rådgivande erbjudande) finns på www.energieschweiz.ch/beratung. För varje energirådgivningsorgan anges dess sponsrande organisation (kantonella, regionala eller lokala myndigheter, märkta med symbolens färg) och dess avrinningsområde (anslutna kommuner, markerade med färgat område) på kartan. Informationen på Mouseklick innehåller fullständiga kontaktuppgifter, inklusive namn på webbplatsens ledning och adress, och ger information om de konsultprioriteringar och de kundgrupper för vilka samråd erbjuds. Utbudet av offentliga energikonsultcenter i Schweiz är mångsidigt. De erbjuder produkt- och företagsneutrala konsultationer om energifrågor för en bred publik och finansieras av den offentliga sektorn. Beroende på kantonen är de offentliga energirådgivningstjänsterna kantonella eller regionalt organiserade. Vissa städer och kommuner har också egna kommunala rådgivningstjänster för energifrågor. De enskilda konsultcentrumens specialistkompetenser och tematiska rådgivningsfokus ligger inom områdena byggnader &amp;amp; byggnadsteknik, elektriska apparater och belysning eller rörlighet. För de olika kundgrupperna erbjuder företag och samhällen olika kostnadsfria och kostnadseffektiva konsultationer. En översikt över de konsulttjänster som erbjuds av de offentliga energirådgivningsorganen och EnergieSchweiz informationslinje (den federala regeringens rådgivande erbjudande) finns på www.energieschweiz.ch/beratung. För varje energirådgivningsorgan anges dess sponsrande organisation (kantonella, regionala eller lokala myndigheter, märkta med symbolens färg) och dess avrinningsområde (anslutna kommuner, markerade med färgat område) på kartan. Informationen på Mouseklick innehåller fullständiga kontaktuppgifter, inklusive namn på webbplatsens ledning och adress, och ger information om de konsultprioriteringar och de kundgrupper för vilka samråd erbjuds. Utbudet av offentliga energikonsultcenter i Schweiz är mångsidigt. De erbjuder produkt- och företagsneutrala konsultationer om energifrågor för en bred publik och finansieras av den offentliga sektorn. Beroende på kantonen är de offentliga energirådgivningstjänsterna kantonella eller regionalt organiserade.
+Vissa städer och kommuner har också egna kommunala rådgivningstjänster för energifrågor.
+De enskilda konsultcentrumens specialistkompetenser och tematiska rådgivningsfokus ligger inom områdena byggnader &amp;amp; byggnadsteknik, elektriska apparater och belysning eller rörlighet.
+För de olika kundgrupperna erbjuder företag och samhällen olika kostnadsfria och kostnadseffektiva konsultationer.
+En översikt över de konsulttjänster som erbjuds av de offentliga energirådgivningsorganen och EnergieSchweiz informationslinje (den federala regeringens rådgivande erbjudande) finns på www.energieschweiz.ch/beratung.
+För varje energirådgivningsorgan anges dess sponsrande organisation (kantonella, regionala eller lokala myndigheter, märkta med symbolens färg) och dess avrinningsområde (anslutna kommuner, markerade med färgat område) på kartan.
+Informationen på Mouseklick innehåller fullständiga kontaktuppgifter, inklusive namn på webbplatsens ledning och adress, och ger information om de konsultprioriteringar och de kundgrupper för vilka samråd erbjuds.</dct:description>
+        <dcat:keyword xml:lang="fr">consultation</dcat:keyword>
+        <dcat:keyword xml:lang="en">consultation</dcat:keyword>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Raspon javnih energetskih savjetodavnih centara u Švicarskoj je raznolik. Nude savjetovanja o energetskim pitanjima koja su neutralna na proizvode i poduzeća za široku publiku, a financira ih javni sektor. Ovisno o kantonu, javne energetske savjetodavne službe su kantonalno ili regionalno organizirane. Neki gradovi i općine također imaju svoje općinske savjetodavne službe za energetska pitanja. Specijalizirane temeljne kompetencije i tematski konzalting fokus pojedinih savjetodavnih centara su u područjima zgrada i građevinske tehnologije, električnih uređaja i rasvjete ili mobilnosti. Za različite skupine korisnika privatne, tvrtke i zajednice nude različite besplatne i isplative konzultacije. Pregled usluga savjetovanja koje nude javna energetska savjetodavna tijela i infolinija EnergieSchweiz (savjetodavna ponuda savezne vlade) dostupni su na www.energieschweiz.ch/beratung. Za svako energetsko savjetodavno tijelo na karti su prikazana njegova sponzorska organizacija (kantonalna, regionalna ili lokalna tijela, označena bojom simbola) i njegovo područje obuhvata (povezane općine označene obojenim područjem). Informacije u Mouseklicku sadrže sve podatke za kontakt, uključujući naziv uprave i adresu web-mjesta, te pružaju informacije o prioritetima savjetovanja i skupinama kupaca za koje se nude konzultacije.</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Tá raon na n-ionad comhairliúcháin fuinnimh phoiblí san Eilvéis éagsúil. Cuireann siad comhairliúcháin atá neodrach ó thaobh táirgí agus cuideachta ar fáil maidir le saincheisteanna fuinnimh do phobal leathan agus maoiníonn an earnáil phoiblí iad. Ag brath ar an gcantún, tá na seirbhísí comhairleacha fuinnimh phoiblí cantún nó eagraithe go réigiúnach. Tá a gcuid seirbhísí comhairleacha bardasacha féin ag roinnt cathracha agus bardas maidir le saincheisteanna fuinnimh. Tá príomhinniúlachtaí speisialaithe agus fócas téamach comhairliúcháin na n-ionad comhairliúcháin aonair i réimsí na bhfoirgneamh agus na teicneolaíochta foirgneamh, fearas leictreach &amp;amp; soilsiú nó soghluaisteacht. Maidir leis na grúpaí custaiméirí éagsúla príobháideacha, cuireann cuideachtaí agus pobail comhairliúcháin éagsúla saor in aisce agus éifeachtach ó thaobh costais ar fáil. Is féidir forbhreathnú ar na seirbhísí comhairliúcháin a thairgeann na comhlachtaí comhairleacha fuinnimh phoiblí agus an líne faisnéise de EnergieSchweiz (tairiscint chomhairleach an Rialtais Chónaidhme) a fháil ag www.energieschweiz.ch/beratung. I gcás gach comhlachta chomhairligh fuinnimh, taispeántar a eagraíocht urraíochta (údaráis chanúnacha, réigiúnacha nó áitiúla, marcáilte le dath na siombaile) agus a dobharcheantar (bardais chleamhnaithe, marcáilte le limistéar daite) ar an léarscáil. San fhaisnéis ag Mouseklick tá na sonraí teagmhála iomlána, lena n-áirítear ainm bhainistíocht agus seoladh an tsuímh gréasáin, agus faisnéis a sholáthar faoi na tosaíochtaí comhairliúcháin agus na grúpaí custaiméirí dá dtairgtear comhairliúcháin.</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Javni svetovalni centri za energijo</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="fr">La Suisse dispose d'une offre diversifiée en services publics de conseil en énergie. Ces services proposent des conseils énergétiques de manière neutre et indépendante. Ils s'adressent à un large public et sont financés par les pouvoirs publics. Selon les cantons, les services publics de conseil en matière d'énergie sont organisés en entités cantonales ou régionales. Quelques villes et communes ont aussi leur propre service communal de conseil énergétique. Les compétences techniques et les spécialisations de ces services se concentrent sur les domaines suivants: bâtiments &amp; technique du bâtiment, appareils électriques &amp; éclairage, mobilité. Ils offrent une large palette de conseils gratuits (ou à prix abordable) à différents groupes de clients (particuliers, entreprises et communes). Les offres des services de conseil cantonaux et de l'Infoline de SuisseEnergie (offre de conseil de la Confédération) sont décrites sur le site www.suisseenergie.ch/conseil. Pour chaque service de conseil en énergie, la carte indique l'organisation responsable (entités cantonales, régionales ou communales, représentées par la couleur du symbole) et son rayon d'activité (communes associées, représentées par une surface colorée). Des informations détaillées peuvent être visualisées en cliquant sur la carte: coordonnées complètes, y compris nom de la direction du service et adresse de son site Internet, spécialisations et public cible.</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Спектр центрів громадського енергетичного консалтингу в Швейцарії різноманітний. Вони пропонують продуктові та нейтральні консультації з енергетичних питань для широкої аудиторії та фінансуються державним сектором. Залежно від кантону, державні енергетичні консультаційні послуги є кантональними або регіонально організованими. Деякі міста і муніципалітети також мають власні муніципальні консультаційні послуги з енергетичних питань. Спеціалізовані основні компетенції та тематичний консалтинг фокусуються на індивідуальних консалтингових центрах у сферах будівель та будівельних технологій, електроприладів та освітлення або мобільності. Для різних груп клієнтів приватні, компанії та спільноти пропонують різні безкоштовні та економічно ефективні консультації. Огляд консультаційних послуг, пропонованих державними енергетичними консультативними органами та інфолайном EnergieSchweiz (дорадча пропозиція федерального уряду) можна знайти за адресою www.energieschweiz.ch/beratung. Для кожного енергетичного консультативного органу на карті зображена його спонсорська організація (кантональна, регіональна або місцева влада, позначена кольором символу) та її водозбірна площа (афілійовані муніципалітети, позначені кольоровими зонами). Інформація в Mouseklick містить повні контактні дані, включаючи ім'я керівництва та адресу веб-сайту, а також надає інформацію про пріоритети консалтингу та групи клієнтів, для яких пропонуються консультації. Спектр центрів громадського енергетичного консалтингу в Швейцарії різноманітний. Вони пропонують продуктові та нейтральні консультації з енергетичних питань для широкої аудиторії та фінансуються державним сектором. Залежно від кантону, державні енергетичні консультаційні послуги є кантональними або регіонально організованими. Деякі міста і муніципалітети також мають власні муніципальні консультаційні послуги з енергетичних питань. Спеціалізовані основні компетенції та тематичний консалтинг фокусуються на індивідуальних консалтингових центрах у сферах будівель та будівельних технологій, електроприладів та освітлення або мобільності. Для різних груп клієнтів приватні, компанії та спільноти пропонують різні безкоштовні та економічно ефективні консультації. Огляд консультаційних послуг, пропонованих державними енергетичними консультативними органами та інфолайном EnergieSchweiz (дорадча пропозиція федерального уряду) можна знайти за адресою www.energieschweiz.ch/beratung. Для кожного енергетичного консультативного органу на карті зображена його спонсорська організація (кантональна, регіональна або місцева влада, позначена кольором символу) та її водозбірна площа (афілійовані муніципалітети, позначені кольоровими зонами). Інформація в Mouseklick містить повні контактні дані, включаючи ім'я керівництва та адресу веб-сайту, а також надає інформацію про пріоритети консалтингу та групи клієнтів, для яких пропонуються консультації. Спектр центрів громадського енергетичного консалтингу в Швейцарії різноманітний. Вони пропонують продуктові та нейтральні консультації з енергетичних питань для широкої аудиторії та фінансуються державним сектором. Залежно від кантону, державні енергетичні консультаційні послуги є кантональними або регіонально організованими.
+Деякі міста і муніципалітети також мають власні муніципальні консультаційні послуги з енергетичних питань.
+Спеціалізовані основні компетенції та тематичний консалтинг фокусуються на індивідуальних консалтингових центрах у сферах будівель та будівельних технологій, електроприладів та освітлення або мобільності.
+Для різних груп клієнтів приватні, компанії та спільноти пропонують різні безкоштовні та економічно ефективні консультації.
+Огляд консультаційних послуг, пропонованих державними енергетичними консультативними органами та інфолайном EnergieSchweiz (дорадча пропозиція федерального уряду) можна знайти за адресою www.energieschweiz.ch/beratung.
+Для кожного енергетичного консультативного органу на карті зображена його спонсорська організація (кантональна, регіональна або місцева влада, позначена кольором символу) та її водозбірна площа (афілійовані муніципалітети, позначені кольоровими зонами).
+Інформація в Mouseklick містить повні контактні дані, включаючи ім'я керівництва та адресу веб-сайту, а також надає інформацію про пріоритети консалтингу та групи клієнтів, для яких пропонуються консультації.</dct:description>
+        <dct:language>it</dct:language>
+        <dcat:landingPage rdf:resource="https://www.bfe.admin.ch/energieberatungsstellen"/>
+        <dct:description xml:lang="en">There is a wide variety of public energy advice services available in Switzerland. They offer impartial advice (neutral relative to products and companies) to the public in general and are financed by the public sector. Depending on the canton, public energy advice services are organised either by the canton or by the region. Some towns and municipalities also provide their own local services for questions about energy. The technical core competence and thematic priorities of the various advice services lie in the sectors Buildings and Building Technology, Electrical Devices and Lighting, and Mobility. They offer different types of free and reasonably priced advice for various customers groups, such as private individuals, companies and municipalities. You can find an overview of the advice offered by public energy advice services and of the SwissEnergy Infoline (state advisory service) at www.energieschweiz.ch/beratung. The sponsoring organisation (cantonal, regional or municipal sponsorship indicated by the colour of the symbol) for each energy advice service and the catchment area (affiliated municipalities, indicated by the surface colour) are shown on the map. By mouse click you can find the complete contact details with the names of management and the website address and you are also informed about the main focus of the advice and the customer groups catered for.</dct:description>
+        <dcat:keyword xml:lang="it">energia</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ba9d6569-b6d1-4437-ad0e-2d8b79aae9d8">
+            <dct:description xml:lang="uk-t-de-t0-mtec">Геопакет геопакетів</dct:description>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.energieberatungsstellen/gpkg/2056/ch.bfe.energieberatungsstellen.zip"/>
+            <dct:description xml:lang="de">Geopackage</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-03-01T00:00:00</dct:issued>
+            <dct:description xml:lang="lv-t-de-t0-mtec">GeoPackage Sistēmas Prasības</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/fe663957-428f-4cc0-afdb-ba9a59a8687c/resource/c4b41581-caef-44b7-9c43-a83e8ba96499</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">GeoPackage – Videó letöltés mp3-ban</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">GeoPackage Sistēmas Prasības</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ippakkjar ta ‘GeoPackage</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">GeoPackage</dct:description>
+            <dcat:mediaType>Geopackage (ogc)</dcat:mediaType>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="bg-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.energieberatungsstellen/gpkg/2056/ch.bfe.energieberatungsstellen.zip"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="de">Geopackage</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">GeoPackage – Videó letöltés mp3-ban</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Ippakkjar ta ‘GeoPackage</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Геопакет геопакетів</dct:title>
+            <dct:format>GPKG</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="it">In Svizzera vi sono numerosi servizi di consulenza energetica pubblici che offrono consulenze a un vasto pubblico e che sono finanziati dagli enti pubblici. Sono caratterizzati da un approccio neutrale rispetto a prodotti e aziende. A seconda dei Cantoni, i servizi di consulenza energetica pubblici sono organizzati su base cantonale o regionale. Alcune città e comuni gestiscono anche propri servizi di consulenza comunali sulle questioni energetiche. I temi su cui si concentrano le competenze e l'attività di consulenza dei singoli servizi sono quelli degli edifici e dell'impiantistica, degli apparecchi elettrici e dell'illuminazione oppure della mobilità. I servizi di consulenza energetica offrono ai vari gruppi di clienti (privati, imprese e comuni) diverse forme di consulenza gratuita o a basso prezzo. All'indirizzo www.svizzeraenergia.ch/consulenza troverete una panoramica sull'offerta dei servizi di consulenza energetica pubblici e della Infoline di SvizzeraEnergia (offerta di consulenza della Confederazione). Per ogni servizio di consulenza energetica è indicato sulla carta l'ente responsabile (cantone, regione o comune, caratterizzato dal colore del simbolo) e il bacino di utenza (comuni aderenti, contrassegnati dalla superficie colorata). Le informazioni che compaiono cliccando con il mouse includono i dati di contatto completi, incluso il nome del responsabile e il sito web, e informano sui temi di competenza e i gruppi target cui sono rivolte le consulenze.</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A svájci állami energetikai tanácsadó központok széles választéka sokrétű. Széles közönség számára kínálnak termék- és vállalatsemleges konzultációkat energiaügyi kérdésekben, és az állami szektor finanszírozza őket. A kantontól függően a nyilvános energetikai tanácsadási szolgáltatások kantoni vagy regionális szinten szerveződnek. Egyes városoknak és önkormányzatoknak saját önkormányzati tanácsadási szolgáltatásaik is vannak energetikai kérdésekben. Az egyes tanácsadó központok szakmai alapkompetenciái és tematikus tanácsadási fókusza az épületek és épülettechnológia, az elektromos készülékek és a világítás vagy a mobilitás területén található. A különböző ügyfélcsoportok számára a magánvállalatok és a közösségek különböző ingyenes és költséghatékony konzultációkat kínálnak. A nyilvános energiaügyi tanácsadó szervek által nyújtott tanácsadási szolgáltatások és az EnergieSchweiz (a szövetségi kormány tanácsadói ajánlata) tájékoztatója a következő címen érhető el: www.energieschweiz.ch/beratung. A térképen minden energetikai tanácsadó testület esetében a támogató szervezet (kantoni, regionális vagy helyi hatóságok, a szimbólum színével jelölve) és vonzáskörzete (kapcsolt települések, színes területtel jelölve) látható. A Mouseklick-nél található információk tartalmazzák a teljes elérhetőségi adatokat, beleértve a weboldal vezetésének és címének nevét, valamint tájékoztatást nyújtanak a konzultációs prioritásokról és azokról az ügyfélcsoportokról, amelyek számára konzultációkat kínálnak. A svájci állami energetikai tanácsadó központok széles választéka sokrétű. Széles közönség számára kínálnak termék- és vállalatsemleges konzultációkat energiaügyi kérdésekben, és az állami szektor finanszírozza őket. A kantontól függően a nyilvános energetikai tanácsadási szolgáltatások kantoni vagy regionális szinten szerveződnek. Egyes városoknak és önkormányzatoknak saját önkormányzati tanácsadási szolgáltatásaik is vannak energetikai kérdésekben. Az egyes tanácsadó központok szakmai alapkompetenciái és tematikus tanácsadási fókusza az épületek és épülettechnológia, az elektromos készülékek és a világítás vagy a mobilitás területén található. A különböző ügyfélcsoportok számára a magánvállalatok és a közösségek különböző ingyenes és költséghatékony konzultációkat kínálnak.
+A nyilvános energiaügyi tanácsadó szervek által nyújtott tanácsadási szolgáltatások és az EnergieSchweiz (a szövetségi kormány tanácsadói ajánlata) tájékoztatója a következő címen érhető el: www.energieschweiz.ch/beratung.
+A térképen minden energetikai tanácsadó testület esetében a támogató szervezet (kantoni, regionális vagy helyi hatóságok, a szimbólum színével jelölve) és vonzáskörzete (kapcsolt települések, színes területtel jelölve) látható.
+A Mouseklick-nél található információk tartalmazzák a teljes elérhetőségi adatokat, beleértve a weboldal vezetésének és címének nevét, valamint tájékoztatást nyújtanak a konzultációs prioritásokról és azokról az ügyfélcsoportokról, amelyek számára konzultációkat kínálnak.</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Το φάσμα των δημόσιων συμβουλευτικών κέντρων ενέργειας στην Ελβετία είναι ποικίλο. Προσφέρουν ουδέτερες διαβουλεύσεις για προϊόντα και εταιρείες σε θέματα ενέργειας σε ευρύ κοινό και χρηματοδοτούνται από τον δημόσιο τομέα. Ανάλογα με το καντόνι, οι δημόσιες συμβουλευτικές υπηρεσίες στον τομέα της ενέργειας είναι οργανωμένες σε καντόνι ή σε περιφερειακό επίπεδο. Ορισμένες πόλεις και δήμοι έχουν επίσης τις δικές τους υπηρεσίες παροχής συμβουλών σε θέματα ενέργειας. Οι εξειδικευμένες βασικές ικανότητες και η θεματική συμβουλευτική εστίαση των επιμέρους συμβουλευτικών κέντρων είναι στους τομείς της τεχνολογίας κτιρίων και κτιρίων, των ηλεκτρικών συσκευών και του φωτισμού ή της κινητικότητας. Για τις διάφορες ομάδες πελατών, οι ιδιωτικές, οι εταιρείες και οι κοινότητες προσφέρουν διαφορετικές δωρεάν και οικονομικά αποδοτικές διαβουλεύσεις. Επισκόπηση των συμβουλευτικών υπηρεσιών που προσφέρουν οι δημόσιοι συμβουλευτικοί φορείς στον τομέα της ενέργειας και της γραμμής πληροφοριών της EnergieSchweiz (συμβουλευτική προσφορά της ομοσπονδιακής κυβέρνησης) διατίθεται στη διεύθυνση www.energieschweiz.ch/beratung. Για κάθε συμβουλευτικό φορέα στον τομέα της ενέργειας, η χορηγός του οργάνωση (καντονικές, περιφερειακές ή τοπικές αρχές, με το χρώμα του συμβόλου) και η λεκάνη απορροής του (συνδεδεμένοι δήμοι, με χρωματιστή περιοχή) απεικονίζονται στον χάρτη. Οι πληροφορίες στο Mouseklick περιέχουν τα πλήρη στοιχεία επικοινωνίας, συμπεριλαμβανομένου του ονόματος της διαχείρισης και της διεύθυνσης της ιστοσελίδας, και παρέχουν πληροφορίες σχετικά με τις συμβουλευτικές προτεραιότητες και τις ομάδες πελατών για τις οποίες προσφέρονται διαβουλεύσεις.</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Het aanbod van openbare energie adviescentra in Zwitserland is divers. Ze bieden product- en bedrijfsneutrale raadplegingen over energiekwesties voor een breed publiek en worden gefinancierd door de publieke sector. Afhankelijk van het kanton zijn de openbare energieadviesdiensten kantoneel of regionaal georganiseerd. Sommige steden en gemeenten hebben ook hun eigen gemeentelijke adviesdiensten voor energievraagstukken. De specialistische kerncompetenties en thematische consulting focus van de individuele adviescentra zijn op het gebied van gebouwen &amp;amp; bouwtechniek, elektrische apparaten &amp;amp; verlichting of mobiliteit. Voor de verschillende klantengroepen bieden particulieren, bedrijven en gemeenschappen verschillende gratis en kosteneffectieve consulten aan. Een overzicht van de adviesdiensten aangeboden door de openbare energie adviesorganen en de infoline van EnergieSchweiz (adviesaanbod van de federale overheid) is te vinden op www.energieschweiz.ch/beratung. Voor elk energieadviesorgaan worden de sponsorende organisatie (kantonale, regionale of lokale overheden, aangeduid met de kleur van het symbool) en het stroomgebied (aangesloten gemeenten, gemarkeerd door gekleurd gebied) op de kaart weergegeven. De informatie op Mouseklick bevat de volledige contactgegevens, waaronder de naam van het beheer en het adres van de website, en geeft informatie over de adviesprioriteiten en de klantengroepen waarvoor raadplegingen worden aangeboden. Het aanbod van openbare energie adviescentra in Zwitserland is divers. Ze bieden product- en bedrijfsneutrale raadplegingen over energiekwesties voor een breed publiek en worden gefinancierd door de publieke sector. Afhankelijk van het kanton zijn de openbare energieadviesdiensten kantoneel of regionaal georganiseerd. Sommige steden en gemeenten hebben ook hun eigen gemeentelijke adviesdiensten voor energievraagstukken.
+De specialistische kerncompetenties en thematische consulting focus van de individuele adviescentra zijn op het gebied van gebouwen &amp;amp; bouwtechniek, elektrische apparaten &amp;amp; verlichting of mobiliteit.
+Voor de verschillende klantengroepen bieden particulieren, bedrijven en gemeenschappen verschillende gratis en kosteneffectieve consulten aan.
+Een overzicht van de adviesdiensten aangeboden door de openbare energie adviesorganen en de infoline van EnergieSchweiz (adviesaanbod van de federale overheid) is te vinden op www.energieschweiz.ch/beratung.
+Voor elk energieadviesorgaan worden de sponsorende organisatie (kantonale, regionale of lokale overheden, aangeduid met de kleur van het symbool) en het stroomgebied (aangesloten gemeenten, gemarkeerd door gekleurd gebied) op de kaart weergegeven.
+De informatie op Mouseklick bevat de volledige contactgegevens, waaronder de naam van het beheer en het adres van de website, en geeft informatie over de adviesprioriteiten en de klantengroepen waarvoor raadplegingen worden aangeboden.</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Ponuka verejných energetických poradenských centier vo Švajčiarsku je rôznorodá. Ponúkajú produktovo neutrálne konzultácie o energetických otázkach pre široké publikum a financujú ich verejný sektor. V závislosti od kantónu sú verejné energetické poradenské služby kantonálne alebo regionálne organizované. Niektoré mestá a obce majú aj vlastné obecné poradenské služby v oblasti energetiky. Špecializované kľúčové kompetencie a tematické poradenské zameranie jednotlivých poradenských centier sú v oblasti stavebných a stavebných technológií, elektrických spotrebičov a osvetlenia alebo mobility. Pre rôzne skupiny zákazníkov súkromné spoločnosti a komunity ponúkajú rôzne bezplatné a nákladovo efektívne konzultácie. Prehľad poradenských služieb poskytovaných verejnými energetickými poradnými orgánmi a informačnou linkou EnergieSchweiz (poradná ponuka spolkovej vlády) nájdete na adrese www.energieschweiz.ch/beratung. Pre každý energetický poradný orgán je na mape uvedená jeho sponzorská organizácia (kantonálne, regionálne alebo miestne orgány označené farbou symbolu) a jej povodie (pridružené obce označené farebnou oblasťou). Informácie na adrese Mouseklick obsahujú úplné kontaktné údaje vrátane názvu správy a adresy webovej stránky a poskytujú informácie o poradenských prioritách a skupinách zákazníkov, pre ktoré sú konzultácie ponúkané. Ponuka verejných energetických poradenských centier vo Švajčiarsku je rôznorodá. Ponúkajú produktovo neutrálne konzultácie o energetických otázkach pre široké publikum a financujú ich verejný sektor. V závislosti od kantónu sú verejné energetické poradenské služby kantonálne alebo regionálne organizované. Niektoré mestá a obce majú aj vlastné obecné poradenské služby v oblasti energetiky. Špecializované kľúčové kompetencie a tematické poradenské zameranie jednotlivých poradenských centier sú v oblasti stavebných a stavebných technológií, elektrických spotrebičov a osvetlenia alebo mobility. Pre rôzne skupiny zákazníkov súkromné spoločnosti a komunity ponúkajú rôzne bezplatné a nákladovo efektívne konzultácie.
+Prehľad poradenských služieb poskytovaných verejnými energetickými poradnými orgánmi a informačnou linkou EnergieSchweiz (poradná ponuka spolkovej vlády) nájdete na adrese www.energieschweiz.ch/beratung.
+Pre každý energetický poradný orgán je na mape uvedená jeho sponzorská organizácia (kantonálne, regionálne alebo miestne orgány označené farbou symbolu) a jej povodie (pridružené obce označené farebnou oblasťou).
+Informácie na adrese Mouseklick obsahujú úplné kontaktné údaje vrátane názvu správy a adresy webovej stránky a poskytujú informácie o poradenských prioritách a skupinách zákazníkov, pre ktoré sú konzultácie ponúkané.</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Julkiset energianeuvontakeskukset</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Viešieji energetikos konsultacijų centrai</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Škála veřejných energetických poradenských center ve Švýcarsku je různorodá. Nabízejí produktově neutrální konzultace o energetických otázkách pro široké publikum a jsou financovány veřejným sektorem. V závislosti na kantonu jsou veřejné energetické poradenské služby kantonální nebo regionálně organizované. Některá města a obce mají také vlastní obecní poradenské služby v oblasti energetiky. Odborné základní kompetence a tematické poradenské zaměření jednotlivých poradenských center jsou v oblasti budov a stavebních technologií, elektrických spotřebičů a osvětlení nebo mobility. Pro různé skupiny zákazníků soukromé, společnosti a komunity nabízejí různé bezplatné a nákladově efektivní konzultace. Přehled poradenských služeb nabízených veřejnými energetickými poradenskými orgány a informační linka EnergieSchweiz (poradní nabídka spolkové vlády) je k dispozici na adrese www.energieschweiz.ch/beratung. Pro každý energetický poradní orgán jsou na mapě uvedeny jeho sponzorské organizace (kantonální, regionální nebo místní orgány označené barvou symbolu) a jeho spádová oblast (přidružené obce označené barevnou oblastí). Informace v Mouseklicku obsahují úplné kontaktní údaje, včetně názvu vedení a adresy webových stránek, a poskytují informace o prioritách poradenství a skupinách zákazníků, pro které jsou konzultace nabízeny.</dct:description>
+        <dcat:keyword xml:lang="de">bgdi-bundesgeodaten-infrastruktur</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="it">consultazione</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation.html">
+            <foaf:name>Bundesamt für Energie</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Publiskie enerģētikas konsultāciju centri</dct:title>
+        <dct:language>en</dct:language>
+        <dcat:keyword xml:lang="en">fsdi-federal-spatial-data-infrastructure</dcat:keyword>
+        <dcat:keyword xml:lang="de">beratungsdienst</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-20T00:00:00</dct:modified>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Viešųjų energetikos konsultacijų centrų Šveicarijoje spektras yra įvairus. Jos siūlo plačiajai auditorijai produktų ir įmonių neutralias konsultacijas energetikos klausimais ir jas finansuoja viešasis sektorius. Priklausomai nuo kantono, viešosios konsultavimo energetikos klausimais paslaugos yra organizuotos kantonų arba regionų lygmeniu. Kai kurie miestai ir savivaldybės taip pat turi savo savivaldybių konsultavimo energetikos klausimais paslaugas. Atskirų konsultavimo centrų pagrindinės specialistų kompetencijos ir teminės konsultacijos yra pastatų ir statybos technologijų, elektros prietaisų ir apšvietimo ar mobilumo srityse. Įvairioms klientų grupėms privačios įmonės ir bendruomenės siūlo įvairias nemokamas ir ekonomiškai efektyvias konsultacijas. Viešųjų energetikos patariamųjų įstaigų teikiamų konsultavimo paslaugų apžvalgą ir „EnergieSchweiz“ (Federalinės vyriausybės patariamojo pasiūlymo) infoline galima rasti adresu www.energieschweiz.ch/beratung. Žemėlapyje parodyta kiekvienos patariamosios energetikos įstaigos rėmėja (kantonų, regionų ar vietos valdžios institucijos, pažymėtos simbolio spalva) ir jos baseinas (susijusios savivaldybės, pažymėtos spalvotu plotu). „Mouseklick“ informacijoje pateikiami išsamūs kontaktiniai duomenys, įskaitant svetainės valdymo pavadinimą ir adresą, taip pat pateikiama informacija apie konsultacijų prioritetus ir klientų grupes, dėl kurių siūlomos konsultacijos. Viešųjų energetikos konsultacijų centrų Šveicarijoje spektras yra įvairus. Jos siūlo plačiajai auditorijai produktų ir įmonių neutralias konsultacijas energetikos klausimais ir jas finansuoja viešasis sektorius. Priklausomai nuo kantono, viešosios konsultavimo energetikos klausimais paslaugos yra organizuotos kantonų arba regionų lygmeniu. Kai kurie miestai ir savivaldybės taip pat turi savo savivaldybių konsultavimo energetikos klausimais paslaugas. Atskirų konsultavimo centrų pagrindinės specialistų kompetencijos ir teminės konsultacijos yra pastatų ir statybos technologijų, elektros prietaisų ir apšvietimo ar mobilumo srityse. Įvairioms klientų grupėms privačios įmonės ir bendruomenės siūlo įvairias nemokamas ir ekonomiškai efektyvias konsultacijas.
+Viešųjų energetikos patariamųjų įstaigų teikiamų konsultavimo paslaugų apžvalgą ir „EnergieSchweiz“ (Federalinės vyriausybės patariamojo pasiūlymo) infoline galima rasti adresu www.energieschweiz.ch/beratung.
+Žemėlapyje parodyta kiekvienos patariamosios energetikos įstaigos rėmėja (kantonų, regionų ar vietos valdžios institucijos, pažymėtos simbolio spalva) ir jos baseinas (susijusios savivaldybės, pažymėtos spalvotu plotu).
+„Mouseklick“ informacijoje pateikiami išsamūs kontaktiniai duomenys, įskaitant svetainės valdymo pavadinimą ir adresą, taip pat pateikiama informacija apie konsultacijų prioritetus ir klientų grupes, dėl kurių siūlomos konsultacijos.</dct:description>
+        <dcat:keyword xml:lang="en">energy</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Publieke adviescentra voor energie</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dcat:keyword xml:lang="de">beratung</dcat:keyword>
+        <dct:title xml:lang="de">Öffentliche Energieberatungsstellen</dct:title>
+        <dcat:keyword xml:lang="en">consultancy</dcat:keyword>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Obseg javnih energetskih svetovalnih centrov v Švici je raznolik. Za široko občinstvo ponujajo posvetovanja o energetskih vprašanjih, ki so nevtralna za izdelke in podjetja, financirajo pa jih javni sektor. Odvisno od kantona so javne svetovalne storitve na področju energetike kantonske ali regionalno organizirane. Nekatera mesta in občine imajo tudi lastne občinske svetovalne službe za energetska vprašanja. Strokovne ključne kompetence in tematsko svetovanje posameznih svetovalnih centrov so na področjih stavbne in gradbene tehnologije, električnih aparatov in razsvetljave ali mobilnosti.
+Za različne skupine strank zasebna podjetja in skupnosti ponujajo različna brezplačna in stroškovno učinkovita posvetovanja.
+Pregled svetovalnih storitev, ki jih ponujajo javni svetovalni organi za energijo, in infoline EnergieSchweiz (svetovalna ponudba zvezne vlade) so na voljo na www.energieschweiz.ch/beratung.
+Za vsak energetski svetovalni organ so na zemljevidu prikazani sponzorska organizacija (kantonski, regionalni ali lokalni organi, označeni z barvo simbola) in njegovo povodje (povezane občine, označene z obarvanim območjem).
+Informacije na Mouseklick vsebujejo vse kontaktne podatke, vključno z imenom vodstva in naslovom spletne strani, ter informacije o prednostnih nalogah svetovanja in skupinah strank, za katere so na voljo posvetovanja.</dct:description>
+        <dct:description xml:lang="de">Das Angebot an öffentlichen Energieberatungsstellen in der Schweiz ist vielfältig. Sie bieten produkte- und firmenneutrale Beratungen in Energiefragen für ein breites Publikum an und werden von der öffentlichen Hand finanziert. Je nach Kanton sind die öffentlichen Energieberatungsstellen kantonal oder regional organisiert. Einige Städte und Gemeinden unterhalten auch eigene kommunale Beratungsstellen für Energiefragen. Die fachlichen Kernkompetenzen und thematischen Beratungsschwerpunkte der einzelnen Beratungsstellen liegen in den Bereichen Gebäude &amp; Gebäudetechnik, Elektrogeräte &amp; Beleuchtung oder Mobilität. Für die verschiedenen Kundengruppen Private, Unternehmen und Gemeinden bieten sie unterschiedliche kostenlose und kostengünstige Beratungen an. Einen Überblick über die Beratungsangebote der öffentlichen Energieberatungsstellen und der Infoline von EnergieSchweiz (Beratungsangebot des Bundes) findet sich auf www.energieschweiz.ch/beratung. Für jede Energieberatungsstelle wird ihre Trägerorganisation (kantonale, regionale oder kommunale Trägerschaft, gekennzeichnet durch Farbe des Symbols) und ihr Einzugsgebiet (angeschlossene Gemeinden, gekennzeichnet durch eingefärbte Fläche) auf der Karte dargestellt. Die Informationen bei Mouseklick beinhalten die vollständigen Kontaktdaten, inklusive Name der Leitung und Adresse der Webseite, und geben Auskunft über die Beratungsschwerpunkte und die Kundengruppen, für die Beratungen angeboten werden.</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Šveitsi avalike energiakonsultatsioonikeskuste valik on mitmekesine. Nad pakuvad laiale publikule toote- ja ettevõtteneutraalseid energiaalaseid konsultatsioone ning neid rahastab avalik sektor. Sõltuvalt kantonist on avalikud energiaalased nõustamisteenused kantonite või piirkondlikult korraldatud. Mõnedel linnadel ja omavalitsustel on ka oma kohalike omavalitsuste nõustamisteenused energiaküsimustes. Individuaalsete konsultatsioonikeskuste erialane põhipädevus ja temaatiline nõustamine on hoonete ja ehitustehnoloogia, elektriseadmete ja valgustuse või liikuvuse valdkonnas. Erinevatele kliendirühmadele pakuvad eraettevõtted ja kogukonnad erinevaid tasuta ja kulutõhusaid konsultatsioone. Ülevaade avalike energianõuandeorganite pakutavatest konsultatsiooniteenustest ja EnergieSchweizi infotelefon (föderaalvalitsuse nõustamispakkumine) on kättesaadav aadressil www.energieschweiz.ch/beratung. Kaardil on näidatud iga energiaalase nõuandeorgani sponsororganisatsioon (kantoni-, piirkondlikud või kohalikud asutused, millele on märgitud sümboli värv) ja valgala (seotud omavalitsusüksused, mis on tähistatud värvilise piirkonnaga). Teave Mouseklickis sisaldab kõiki kontaktandmeid, sealhulgas veebilehe haldaja nime ja aadressi, ning annab teavet konsultatsiooniprioriteetide ja kliendirühmade kohta, kelle jaoks konsultatsioone pakutakse.</dct:description>
+        <dcat:keyword xml:lang="it">ifdg-infrastruttura-federale-dei-dati-geografici</dcat:keyword>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Sveitsin julkisten energiakonsultointikeskusten valikoima on monipuolinen. Ne tarjoavat laajalle yleisölle energiakysymyksiä koskevia tuote- ja yritysneutraaleja kuulemisia, ja niitä rahoittaa julkinen sektori. Kantonista riippuen julkiset energianeuvontapalvelut ovat kantoni- tai alueellisesti organisoituja. Joillakin kaupungeilla ja kunnilla on myös omat energia-alan neuvontapalvelut. Yksittäisten konsulttikeskusten ydinosaamisen ja temaattisen konsultoinnin painopisteet ovat rakennusten ja talotekniikan, sähkölaitteiden ja valaistuksen sekä liikkumisen aloilla. Yksityisille asiakasryhmille yritykset ja yhteisöt tarjoavat erilaisia ilmaisia ja kustannustehokkaita konsultaatioita. Yleiskatsaus julkisten energia-alan neuvoa-antavien elinten tarjoamista konsultointipalveluista ja EnergieSchweizin tiedotuslinjasta (liittovaltion neuvoa-antava tarjous) on saatavilla osoitteessa www.energieschweiz.ch/beratung. Karttaan on merkitty kunkin energia-alan neuvoa-antavan elimen tukiorganisaatio (kantonaali-, alue- tai paikallisviranomaiset, jotka on merkitty tunnuksen värillä) ja sen valuma-alue (riippuvaiset kunnat, jotka on merkitty värillisellä alueella). Mouseklickin tiedot sisältävät täydelliset yhteystiedot, mukaan lukien verkkosivuston johdon ja osoitteen nimi, sekä tiedot konsultointiprioriteeteista ja asiakasryhmistä, joita varten kuulemisia tarjotaan.</dct:description>
+        <dct:identifier>26b94fae-3709-4436-901b-eb27546e9afe@bundesamt-fur-energie-bfe</dct:identifier>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Громадські енергетичні консультативні центри</dct:title>
+        <dct:description xml:lang="pt-t-de-t0-mtec">A gama de centros públicos de consultoria de energia na Suíça é diversificada. Eles oferecem consultas neutras em produtos e empresas sobre questões energéticas para um público amplo e são financiados pelo setor público. Dependendo do cantão, os serviços públicos de aconselhamento energético são cantonais ou organizados regionalmente. Algumas cidades e concelhos também têm seus próprios serviços de assessoria municipal para questões energéticas. As competências essenciais especializadas e o foco de consultoria temática dos centros de consultoria individuais estão nas áreas de edifícios e tecnologia de construção, eletrodomésticos e iluminação ou mobilidade. Para os diferentes grupos de clientes privados, empresas e comunidades oferecem diferentes consultas gratuitas e econômicas. Uma visão geral dos serviços de consultoria oferecidos pelos órgãos consultivos públicos de energia e a infoline da EnergieSchweiz (oferta consultiva do Governo Federal) pode ser encontrada em www.energieschweiz.ch/beratung. Para cada órgão consultivo em matéria de energia, a sua organização patrocinadora (autoridades cantonais, regionais ou locais, marcadas pela cor do símbolo) e a sua bacia hidrográfica (comunas afiliadas, marcadas por zona colorida) são indicadas no mapa. As informações em Mouseklick contêm todos os pormenores de contato, incluindo o nome da gerência e endereço do site, e fornecem informações sobre as prioridades de consultoria e os grupos de clientes para os quais as consultas são oferecidas. A gama de centros públicos de consultoria de energia na Suíça é diversificada. Eles oferecem consultas neutras em produtos e empresas sobre questões energéticas para um público amplo e são financiados pelo setor público. Dependendo do cantão, os serviços públicos de aconselhamento energético são cantonais ou organizados regionalmente. Algumas cidades e concelhos também têm seus próprios serviços de assessoria municipal para questões energéticas. As competências essenciais especializadas e o foco de consultoria temática dos centros de consultoria individuais estão nas áreas de edifícios e tecnologia de construção, eletrodomésticos e iluminação ou mobilidade. Para os diferentes grupos de clientes privados, empresas e comunidades oferecem diferentes consultas gratuitas e econômicas.
+Uma visão geral dos serviços de consultoria oferecidos pelos órgãos consultivos públicos de energia e a infoline da EnergieSchweiz (oferta consultiva do Governo Federal) pode ser encontrada em www.energieschweiz.ch/beratung.
+Para cada órgão consultivo em matéria de energia, a sua organização patrocinadora (autoridades cantonais, regionais ou locais, marcadas pela cor do símbolo) e a sua bacia hidrográfica (comunas afiliadas, marcadas por zona colorida) são indicadas no mapa.
+As informações em Mouseklick contêm todos os pormenores de contato, incluindo o nome da gerência e endereço do site, e fornecem informações sobre as prioridades de consultoria e os grupos de clientes para os quais as consultas são oferecidas.</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Обхватът на обществените консултантски центрове в областта на енергетиката в Швейцария е разнообразен. Те предлагат продуктови и фирмени неутрални консултации по енергийни въпроси за широка аудитория и се финансират от публичния сектор. В зависимост от кантона обществените консултантски услуги в областта на енергетиката са кантонални или регионално организирани. Някои градове и общини също разполагат със собствени общински консултантски услуги по енергийни въпроси. Специализираните основни компетенции и тематичен консултантски фокус на отделните консултантски центрове са в областта на сградите и сградните технологии, електроуредите и осветлението или мобилността. За различните групи клиенти частни фирми и общности предлагат различни безплатни и рентабилни консултации. Преглед на консултантските услуги, предлагани от публичните консултативни органи в областта на енергетиката, и информационната линия на EnergieSchweiz (консултативна оферта на федералното правителство) можете да намерите на www.energieschweiz.ch/beratung. За всеки енергиен консултативен орган неговата спонсорираща организация (кантонални, регионални или местни органи, маркирани с цвета на символа) и неговия водосборен район (свързани общини, маркирани с оцветен район) са показани на картата. Информацията в Mouseklick съдържа пълните данни за контакт, включително името на ръководството и адреса на уебсайта, и предоставя информация за консултантските приоритети и групите клиенти, за които се предлагат консултации.</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Zakres publicznych centrów doradztwa energetycznego w Szwajcarii jest różnorodny. Oferują one neutralne dla produktów i firmy konsultacje w kwestiach energetycznych dla szerokiego grona odbiorców i są finansowane przez sektor publiczny. W zależności od kantonu publiczne usługi doradztwa energetycznego są kantonalne lub regionalne. Niektóre miasta i gminy mają również własne komunalne usługi doradcze w kwestiach energetycznych. Specjalistyczne podstawowe kompetencje i konsulting tematyczny poszczególnych ośrodków konsultingowych znajdują się w obszarach budownictwa i technologii budowlanej, urządzeń elektrycznych i oświetlenia lub mobilności. Dla różnych grup klientów prywatnych, firmy i społeczności oferują różne bezpłatne i opłacalne konsultacje. Przegląd usług doradczych oferowanych przez publiczne organy doradcze ds. energii oraz infolinię EnergieSchweiz (ofertę doradczą rządu federalnego) można znaleźć na stronie www.energieschweiz.ch/beratung. Dla każdego organu doradczego ds. energii na mapie znajduje się jego organizacja sponsorująca (organy kantonalne, regionalne lub lokalne, oznaczone kolorem symbolu) oraz obszar zlewni (powiązane gminy oznaczone kolorowym obszarem). Informacje w Mouseklick zawierają pełne dane kontaktowe, w tym nazwę zarządzania i adres strony internetowej, a także informacje o priorytetach konsultingowych i grupach klientów, dla których oferowane są konsultacje. Zakres publicznych centrów doradztwa energetycznego w Szwajcarii jest różnorodny. Oferują one neutralne dla produktów i firmy konsultacje w kwestiach energetycznych dla szerokiego grona odbiorców i są finansowane przez sektor publiczny. W zależności od kantonu publiczne usługi doradztwa energetycznego są kantonalne lub regionalne. Niektóre miasta i gminy mają również własne komunalne usługi doradcze w kwestiach energetycznych. Specjalistyczne podstawowe kompetencje i konsulting tematyczny poszczególnych ośrodków konsultingowych znajdują się w obszarach budownictwa i technologii budowlanej, urządzeń elektrycznych i oświetlenia lub mobilności. Dla różnych grup klientów prywatnych, firmy i społeczności oferują różne bezpłatne i opłacalne konsultacje.
+Przegląd usług doradczych oferowanych przez publiczne organy doradcze ds. energii oraz infolinię EnergieSchweiz (ofertę doradczą rządu federalnego) można znaleźć na stronie www.energieschweiz.ch/beratung.
+Dla każdego organu doradczego ds. energii na mapie znajduje się jego organizacja sponsorująca (organy kantonalne, regionalne lub lokalne, oznaczone kolorem symbolu) oraz obszar zlewni (powiązane gminy oznaczone kolorowym obszarem).
+Informacje w Mouseklick zawierają pełne dane kontaktowe, w tym nazwę zarządzania i adres strony internetowej, a także informacje o priorytetach konsultingowych i grupach klientów, dla których oferowane są konsultacje.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e46b2db8-4cb2-406c-bbcd-12476fd3cab6">
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.energieberatungsstellen/xtf/2056/ch.bfe.energieberatungsstellen.zip"/>
+            <dct:language>de</dct:language>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.energieberatungsstellen/xtf/2056/ch.bfe.energieberatungsstellen.zip"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">I NÆRHEDEN AF INTERLIS</dct:title>
+            <dct:title xml:lang="de">Interlis</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:format>INTERLIS</dct:format>
+            <dct:description xml:lang="da-t-de-t0-mtec">I NÆRHEDEN AF INTERLIS</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">МІЖНАРОДНИЙ МІЖНАРОДН</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">INTERLIS INFORMĀCIJA</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">AZ INTERLIS</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">INTERLIS INFORMĀCIJA</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/fe663957-428f-4cc0-afdb-ba9a59a8687c/resource/ad41111a-ba8f-4adb-867c-661946fd66fc</dct:identifier>
+            <dct:title xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="de">Interlis</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">SLOVENČINA</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">AZ INTERLIS</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-03-01T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">МІЖНАРОДНИЙ МІЖНАРОДН</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">SLOVENČINA</dct:description>
+            <dcat:mediaType>INTERLIS</dcat:mediaType>
+            <dct:description xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-de-t0-mtec">Rækken af offentlige energirådgivningscentre i Schweiz er forskelligartet. De tilbyder produkt- og virksomhedsneutrale høringer om energispørgsmål for et bredt publikum og finansieres af den offentlige sektor. Afhængigt af kantonen er de offentlige energirådgivningstjenester kantonale eller regionalt organiserede. Nogle byer og kommuner har også deres egne kommunale rådgivningstjenester om energispørgsmål. De enkelte konsulentcentres specialiserede kernekompetencer og tematiske rådgivningsfokus er inden for bygnings- og bygningsteknologi, elektriske apparater &amp;amp; belysning eller mobilitet. For de forskellige kundegrupper tilbyder private virksomheder og lokalsamfund forskellige gratis og omkostningseffektive høringer. En oversigt over rådgivningsydelserne fra de offentlige energirådgivningsorganer og EnergieSchweiz-informationslinjen (rådgivningstilbud fra forbundsregeringen) findes på www.energieschweiz.ch/beratung. For hvert energirådgivningsorgan er dets sponsororganisation (kantonale, regionale eller lokale myndigheder, markeret med symbolets farve) og dets afvandingsområde (tilknyttede kommuner, markeret med farvet område) vist på kortet. Oplysningerne på Mouseklick indeholder de fulde kontaktoplysninger, herunder navnet på ledelsen og adressen på webstedet, og giver oplysninger om de rådgivningsprioriteter og de kundegrupper, for hvilke der tilbydes konsultationer.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Δημόσια Συμβουλευτικά Κέντρα Ενέργειας</dct:title>
+        <dct:title xml:lang="fr">Services publics de conseil en énergie</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:geoinformation@bfe.admin.ch"/>
+            <vcard:fn>geoinformation@bfe.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dcat:keyword xml:lang="fr">societe-de-conseil</dcat:keyword>
+        <dct:description xml:lang="es-t-de-t0-mtec">La gama de centros públicos de consultoría energética en Suiza es diversa. Ofrecen consultas neutrales de productos y empresas sobre cuestiones energéticas para un amplio público y están financiadas por el sector público. Dependiendo del cantón, los servicios públicos de asesoramiento energético son cantonales o regionalmente organizados. Algunas ciudades y municipios también cuentan con sus propios servicios de asesoramiento municipal para cuestiones energéticas. Las competencias básicas especializadas y el enfoque de consultoría temática de los centros de consultoría individuales se encuentran en las áreas de edificios y tecnología de construcción, electrodomésticos e iluminación o movilidad. Para los diferentes grupos de clientes privados, empresas y comunidades ofrecen diferentes consultas gratuitas y rentables. Una visión general de los servicios de consultoría ofrecidos por los organismos públicos de asesoramiento energético y la línea de información de EnergieSchweiz (oferta consultiva del Gobierno Federal) puede consultarse en www.energieschweiz.ch/beratung. Para cada organismo asesor de energía, su organización patrocinadora (autoridades cantonales, regionales o locales, marcadas por el color del símbolo) y su zona de captación (municipios afiliados, marcados por zona coloreada) se muestran en el mapa. La información en Mouseklick contiene los datos de contacto completos, incluido el nombre de la dirección y la dirección del sitio web, y proporciona información sobre las prioridades de consultoría y los grupos de clientes para los que se ofrecen las consultas.</dct:description>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Gama de centre publice de consultanță în domeniul energiei din Elveția este diversă. Acestea oferă consultări neutre produse și companii pe probleme energetice pentru un public larg și sunt finanțate de sectorul public. În funcție de canton, serviciile publice de consiliere energetică sunt cantonale sau organizate la nivel regional. Unele orașe și municipalități au, de asemenea, propriile servicii de consiliere municipală pentru chestiuni legate de energie. Competențele de bază de specialitate și focusul de consultanță tematică al centrelor individuale de consultanță sunt în domeniile clădirilor și tehnologiei clădirilor, aparatelor electrice și iluminatului sau mobilității. Pentru diferitele grupuri de clienți, companiile și comunitățile oferă diferite consultări gratuite și eficiente din punct de vedere al costurilor. O prezentare generală a serviciilor de consultanță oferite de organismele publice de consultanță în domeniul energiei și a liniei informative a EnergieSchweiz (oferta consultativă a Guvernului Federal) poate fi consultată la adresa www.energieschweiz.ch/beratung. Pentru fiecare organism consultativ în domeniul energiei, pe hartă sunt indicate organizația sa sponsor (autoritățile cantonale, regionale sau locale, marcate cu culoarea simbolului) și bazinul hidrografic al acestuia (localitățile afiliate, marcate cu zone colorate). Informațiile de la Mouseklick conțin datele complete de contact, inclusiv numele managementului și adresa site-ului web, și oferă informații despre prioritățile de consultare și grupurile de clienți pentru care sunt oferite consultări. Gama de centre publice de consultanță în domeniul energiei din Elveția este diversă. Acestea oferă consultări neutre produse și companii pe probleme energetice pentru un public larg și sunt finanțate de sectorul public. În funcție de canton, serviciile publice de consiliere energetică sunt cantonale sau organizate la nivel regional. Unele orașe și municipalități au, de asemenea, propriile servicii de consiliere municipală pentru chestiuni legate de energie. Competențele de bază de specialitate și focusul de consultanță tematică al centrelor individuale de consultanță sunt în domeniile clădirilor și tehnologiei clădirilor, aparatelor electrice și iluminatului sau mobilității. Pentru diferitele grupuri de clienți, companiile și comunitățile oferă diferite consultări gratuite și eficiente din punct de vedere al costurilor.
+O prezentare generală a serviciilor de consultanță oferite de organismele publice de consultanță în domeniul energiei și a liniei informative a EnergieSchweiz (oferta consultativă a Guvernului Federal) poate fi consultată la adresa www.energieschweiz.ch/beratung.
+Pentru fiecare organism consultativ în domeniul energiei, pe hartă sunt indicate organizația sa sponsor (autoritățile cantonale, regionale sau locale, marcate cu culoarea simbolului) și bazinul hidrografic al acestuia (localitățile afiliate, marcate cu zone colorate).
+Informațiile de la Mouseklick conțin datele complete de contact, inclusiv numele managementului și adresa site-ului web, și oferă informații despre prioritățile de consultare și grupurile de clienți pentru care sunt oferite consultări.</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Valsts enerģētikas konsultāciju centru klāsts Šveicē ir daudzveidīgs. Tie piedāvā plašai auditorijai konsultācijas par enerģētikas jautājumiem neatkarīgi no produktiem un uzņēmumiem, un tos finansē publiskais sektors. Atkarībā no kantona publiskie enerģētikas konsultāciju pakalpojumi tiek organizēti kantonu vai reģionāli. Dažām pilsētām un pašvaldībām ir arī savi pašvaldību konsultāciju pakalpojumi enerģētikas jautājumos. Individuālo konsultāciju centru speciālistu pamatkompetences un tematiskās konsultācijas ir tādās jomās kā ēkas un ēku tehnoloģijas, elektroierīces un apgaismojums vai mobilitāte. Dažādām klientu grupām privātie uzņēmumi un kopienas piedāvā dažādas bezmaksas un rentablas konsultācijas. Pārskats par konsultāciju pakalpojumiem, ko piedāvā publiskās enerģētikas padomdevējas struktūras, un EnergieSchweiz infoline (Federālās valdības konsultatīvais piedāvājums) ir atrodams tīmekļa vietnē www.energieschweiz.ch/beratung. Katrai enerģētikas padomdevējai struktūrai kartē ir norādīta tās sponsorējošā organizācija (kantonālās, reģionālās vai vietējās iestādes, kas apzīmētas ar simbola krāsu) un tās sateces baseins (saistītās pašvaldības, apzīmētas ar krāsainu teritoriju). Informācija Mouseklick satur pilnu kontaktinformāciju, tostarp vadības nosaukumu un tīmekļa vietnes adresi, un sniedz informāciju par konsultāciju prioritātēm un klientu grupām, kurām tiek piedāvātas konsultācijas.</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Ionaid Chomhairleacha Fuinnimh Phoiblí</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2018-03-01T00:00:00</dct:issued>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Centre publice de consiliere în domeniul energiei</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/26b94fae-3709-4436-901b-eb27546e9afe">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Обществени консултативни центрове в областта на енергетиката</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:keyword xml:lang="de">energie</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Avalikud energiaalase nõustamise keskused</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Centros públicos de consultoria em energia</dct:title>
+        <dct:title xml:lang="en">Public energy advice services</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="fr">energie</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Verejné energetické poradenské centrá</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Offentliga energirådgivningscentrum</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Ċentri Pubbliċi ta’ Konsulenza dwar l-Enerġija</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Offentlige energirådgivningscentre</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Publiczne Centra Doradztwa Energetycznego</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c50b6b16-67bb-4e0b-8e76-70edcc6f200f">
+            <dct:identifier>https://ckan.opendata.swiss/dataset/fe663957-428f-4cc0-afdb-ba9a59a8687c/resource/fd8589e8-3771-490f-9603-2ee5755b29c0</dct:identifier>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="it">Geoportale tematico - map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="de">Fachportal - map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Spetsialisti portaal – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kartta (esikatselu) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Karta (Pregled) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Speciális portál – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zemljevid (predogled) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Hartă (Previzualizare) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Specialist portal — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Specialist portal — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="en">Thematic geoportal - map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Karte (Priekšskatījums) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Mapa (Podgląd) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Speciālistu portāls — map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Térkép (előzetes) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kaart (Voorbeeld) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kort (Preview) Fachportal — kort.geo.admin.ch</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Карта (Преглед) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Odborný portál – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Odborný portál – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="fr">Map (Preview) Géoportail thématique - map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Карта (Попередній перегляд) Fachportal - map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χάρτης (Προεπισκόπηση) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Mapa (Zobraziť) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="de">Map (Preview) Fachportal - map.geo.admin.ch</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-03-01T00:00:00</dct:issued>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Специализиран портал — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Portal speċjalizzat — map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="en">Map (Preview) Thematic geoportal - map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Specialistų portalas – map.geo.admin.ch</dct:description>
+            <dct:language>en</dct:language>
+            <dct:description xml:lang="fr">Géoportail thématique - map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Mappa (Preview) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kaart (eelvaade) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:language>de</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Specialportal – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Portal especializado — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Portal especializado — map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Mapa (Preview) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Žemėlapis (Preview) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mapa (Preview) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mapa (Preview) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="it">Map (Preview) Geoportale tematico - map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Karta (förhandsgranska) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Strokovni portal – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Tairseach speisialaithe — léarscáil.geo.admin.ch</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Portalul specialiștilor – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Ειδική πύλη — map.geo.admin.ch</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mapa (Réamhamharc) Fachportal — map.geo.admin.ch</dct:title>
+            <dcat:accessURL rdf:resource="https://map.geo.admin.ch/?topic=energie&amp;lang=de&amp;layers=ch.bfe.energieberatungsstellen"/>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Portal specjalistyczny – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Спеціалізований портал - map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Specijalistički portal – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Asiantuntijaportaali – map.geo.admin.ch</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">societa-di-consulenza</dcat:keyword>
+        <dct:title xml:lang="it">Servizi di consulenza energetica pubblici</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e6d2f94f-75c8-4e90-8721-646498b52b8d">
+            <dct:title xml:lang="it-t-de-t0-mtec">API di swisstopo REST</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="de">swisstopo REST API</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">API Swisstopo REST</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="de">swisstopo REST API</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:description xml:lang="fr-t-de-t0-mtec">API Swisstopo REST</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-03-01T00:00:00</dct:issued>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://api3.geo.admin.ch/rest/services/api/MapServer/ch.bfe.energieberatungsstellen"/>
+            <dct:description xml:lang="it-t-de-t0-mtec">API di swisstopo REST</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/fe663957-428f-4cc0-afdb-ba9a59a8687c/resource/91a34824-b98e-4a1a-9d7e-6d851e5ac328</dct:identifier>
+            <dct:format>API</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">ifdg-linfrastructure-federale-de-donnees-geographiques</dcat:keyword>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Il-firxa ta’ ċentri pubbliċi ta’ konsulenza dwar l-enerġija fl-Isvizzera hija diversa. Dawn joffru konsultazzjonijiet newtrali għall-prodotti u l-kumpaniji dwar kwistjonijiet tal-enerġija għal udjenza wiesgħa u huma ffinanzjati mis-settur pubbliku. Skont il-canton, is-servizzi pubbliċi ta’ konsulenza dwar l-enerġija huma kantonali jew organizzati reġjonalment. Xi bliet u muniċipalitajiet għandhom ukoll is-servizzi ta’ konsulenza muniċipali tagħhom stess għal kwistjonijiet tal-enerġija. Il-kompetenzi ewlenin speċjalizzati u l-fokus konsultattiv tematiku taċ-ċentri ta’ konsulenza individwali huma fl-oqsma tal-bini u t-teknoloġija tal-bini, l-apparat elettriku u d-dawl jew il-mobbiltà. Għad-diversi gruppi ta’ klijenti privati, il-kumpaniji u l-komunitajiet joffru konsultazzjonijiet differenti b’xejn u kosteffettivi. Ħarsa ġenerali lejn is-servizzi ta’ konsulenza offruti mill-korpi pubbliċi ta’ konsulenza dwar l-enerġija u l-linja ta’ informazzjoni ta’ EnergieSchweiz (offerta konsultattiva tal-Gvern Federali) tinsab fuq www.energieschweiz.ch/beratung. Għal kull korp konsultattiv dwar l-enerġija, l-organizzazzjoni ta’ sponsor tagħha (awtoritajiet kantonali, reġjonali jew lokali, immarkata bil-kulur tas-simbolu) u ż-żona fejn jinġabar l-ilma (muniċipalitajiet affiljati, immarkati skont iż-żona kkulurita) huma murija fuq il-mappa. L-informazzjoni fuq Mouseklick fiha d-dettalji ta’ kuntatt sħaħ, inkluż l-isem tal-ġestjoni u l-indirizz tas-sit web, u tipprovdi informazzjoni dwar il-prijoritajiet ta’ konsultazzjoni u l-gruppi ta’ klijenti li għalihom jiġu offruti konsultazzjonijiet.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:05:13Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:06:49Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

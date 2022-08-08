@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:j.0="http://entryscape.com/terms/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-opendata-umea-se-api-v2-catalog-datasets-energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och">
+    <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och</dct:identifier>
+    <edp:originalLanguage>sv</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-opendata-umea-se-api-v2-catalog-datasets-energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-18T04:49:24Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>539b3fba95fe20850f7f241e7ef216dc</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-17T04:30:51Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-18T04:30:45Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <j.0:ServedByDataService rdf:about="http://data.europa.eu/88u/dataset/https-opendata-umea-se-api-v2-catalog-datasets-energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och">
+        <dct:title xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás a 0715 földrajzi területen (Umeå megye önkormányzatának része, falvak és ritkán lakott területek)</dct:title>
+        <dct:description xml:lang="fi-t-sv-t0-mtec">Umeå Energin anonymisoidut kulutustiedot kutakin Uumajan kunnan koodialuetta kohti. Näitä tietoja ei tule pitää tarkkoina ja täydellisinä kulutusarvoina, vaan pikemminkin kulutusarviona, jotta voidaan nähdä suuntauksia ja viitteitä. Tiedostot sisältävät vain arvot kiinteistöille Uumajan kunnassa, jossa Umeå Energi on verkon omistaja, eikä tietoja pidetä epäasianmukaisina jakeluun. Yleensä päivitetään kerran kuukaudessa uusilla arvoilla. Kysymyksiä näistä kulutustiedoista viitataan osoitteeseen matdata.datalager@umeaenergi.se</dct:description>
+        <dcat:landingPage rdf:resource="https://opendata.umea.se/explore/dataset/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och/"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-16T22:45:06.325Z</dct:modified>
+        <dct:description xml:lang="hr-t-sv-t0-mtec">Anonimizirani podaci o potrošnji tvrtke Umeå Energi po području ključnog koda u općini Umeå. Te podatke ne bi trebalo smatrati točnim i potpunim vrijednostima potrošnje, već više kao kvalificiranu procjenu potrošnje kako bi se vidjeli trendovi i indikacije.Datoteke podataka sadržavat će samo vrijednosti za nekretnine u općini Umeå u kojoj je Umeå Energi vlasnik mreže i informacije se ne smatraju neprikladnima za distribuciju. Obično se ažuriraju jednom mjesečno s novim vrijednostima.Pitanja o ovim podacima o potrošnji upućuju se na matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="da-t-sv-t0-mtec">Anonymiserede forbrugsdata fra Umeå Energi pr. nøglekodeområde i Umeå Kommune. Disse data skal ikke ses som nøjagtige og fuldstændige forbrugsværdier, men mere som et kvalificeret skøn over forbruget for at se tendenser og indikationer. Datafilerne vil kun indeholde værdier for ejendomme i Umeå kommune, hvor Umeå Energi er netejer, og oplysningerne anses ikke for uhensigtsmæssige til distribution. Normalt opdateres en gang om måneden med nye værdier.Spørgsmål om disse forbrugsdata henvises til matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="lt-t-sv-t0-mtec">Anoniminiai „Umeå Energi“ vartojimo duomenys pagal Umeå savivaldybės rakto kodo sritį. Šie duomenys neturėtų būti laikomi tiksliomis ir visomis vartojimo vertėmis, o labiau kvalifikuotu vartojimo įverčiu, kad būtų galima pamatyti tendencijas ir indikacijas. Duomenų rinkmenose bus pateikiamos tik turto vertės Umeo savivaldybėje, kur „Umeå Energi“ yra tinklo savininkė, o informacija nelaikoma netinkama platinimui. Paprastai atnaujinama kartą per mėnesį su naujomis vertėmis. Klausimai apie šiuos vartojimo duomenis pateikiami matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="ga-t-sv-t0-mtec">Anaithnidiú sonraí tomhaltais ó Umeå Energi in aghaidh an réimse cód eochair i Umeå Bardas. Níor cheart na sonraí seo a mheas mar luachanna tomhaltais cruinne agus iomlána ach níos mó mar mheastachán cáilithe tomhaltais chun treochtaí agus tásca a fheiceáil.Ní bheidh ach luachanna le haghaidh maoine i mbardas Umeå i mbardas ina bhfuil Umeå Energi an t-úinéir líonra agus nach meastar go bhfuil an fhaisnéis míchuí le dáileadh. Déantar nuashonrú de ghnáth uair sa mhí le luachanna nua.Tagraítear ceisteanna faoi na sonraí tomhaltais seo chuig matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="bg-t-sv-t0-mtec">Анонимизирани данни за потреблението от Umeå Energi по ключова кодова област в община Umeå. Тези данни не следва да се разглеждат като точни и пълни стойности на потреблението, а по-скоро като квалифицирана оценка на потреблението, за да се видят тенденциите и индикациите. Файловете с данни ще съдържат само стойности за имоти в община Umeå, където Umeå Energi е собственик на мрежата и информацията не се счита за неподходяща за разпространение. Обикновено се актуализира веднъж месечно с нови стойности.Въпросите относно тези данни за потреблението се отнасят до matdata.datalager@umeaenergi.se</dct:description>
+        <dct:title xml:lang="da-t-sv-t0-mtec">Energiforbrug i det geografiske område 0715 (del af Umeå Amtsråd, landsbyer og tyndt befolkede områder)</dct:title>
+        <dcat:keyword>Umeå Energi</dcat:keyword>
+        <dcat:keyword xml:lang="sv">Energi</dcat:keyword>
+        <dct:description xml:lang="fr-t-sv-t0-mtec">Données de consommation anonymisées d’Umeå Energi par zone de code clé dans la municipalité d’Umeå. Ces données ne doivent pas être considérées comme des valeurs de consommation exactes et complètes, mais plutôt comme une estimation qualifiée de la consommation afin de voir les tendances et les indications.Les fichiers de données ne contiendront que des valeurs pour les propriétés de la municipalité d’Umeå où Umeå Energi est le propriétaire du réseau et les informations ne sont pas considérées comme inappropriées pour la distribution. Normalement mis à jour une fois par mois avec de nouvelles valeurs.Les questions concernant ces données de consommation sont renvoyées à matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="pl-t-sv-t0-mtec">Anonimowe dane dotyczące zużycia pochodzące z Umeå Energi według kluczowego obszaru kodu w gminie Umeå. Dane te nie powinny być postrzegane jako dokładne i pełne wartości zużycia, ale raczej jako kwalifikowane oszacowanie zużycia w celu zapoznania się z trendami i wskazaniami. Pliki danych będą zawierać tylko wartości dla nieruchomości w gminie Umeå, gdzie właścicielem sieci jest Umeå Energi, a informacje nie są uważane za nieodpowiednie do celów dystrybucji.
+Zwykle aktualizowana raz w miesiącu o nowe wartości. Pytania dotyczące tych danych dotyczących zużycia są odsyłane do matdata.datalager@umeaenergi.se</dct:description>
+        <dct:title xml:lang="bg-t-sv-t0-mtec">Потребление на енергия в географски район 0715 (част от Окръжния съвет на Умео, села и слабо населени райони)</dct:title>
+        <dct:title xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 0715 (daļa no Ūmeo grāfistes padomes, ciemati un mazapdzīvoti apgabali)</dct:title>
+        <dct:description xml:lang="it-t-sv-t0-mtec">Dati relativi al consumo anonimizzati di Umeå Energi per area di codice chiave nel comune di Umeå. Questi dati non devono essere visti come valori di consumo accurati e completi, ma più come una stima qualificata del consumo per vedere le tendenze e le indicazioni.I file di dati conterranno solo valori per le proprietà nel comune di Umeå dove Umeå Energi è il proprietario della rete e le informazioni non sono considerate inadeguate per la distribuzione. Normalmente aggiornato una volta al mese con nuovi valori. Le domande su questi dati di consumo sono riferite a matdata.datalager@umeaenergi.se</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/574bc612-6a77-4451-853a-a5ea96bea863">
+            <dct:description xml:lang="bg-t-sv-t0-mtec">Потребление на енергия в географската зона 0715 (част от Окръжния съвет на Умео, села и слабо населени райони) (csv)</dct:description>
+            <dct:description xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 0715 (partie du conseil du comté d’Umeå, villages et zones à faible densité de population) (csv)</dct:description>
+            <dct:description xml:lang="it-t-sv-t0-mtec">Consumo di energia nella zona geografica 0715 (parte del consiglio della contea di Umeå, villaggi e zone scarsamente popolate) (csv)</dct:description>
+            <dct:description xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás a 0715 földrajzi területen (Umeå megye önkormányzatának része, falvak és ritkán lakott területek) (csv)</dct:description>
+            <dct:description xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 0715 (dio Vijeća okruga Umeå, sela i rijetko naseljena područja) (csv)</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-16T22:45:06.325Z</dct:modified>
+            <dct:description xml:lang="pt-t-sv-t0-mtec">Consumo de energia na Área Geográfica 0715 (parte do Conselho Distrital de Umeå, aldeias e zonas escassamente povoadas) (csv)</dct:description>
+            <dct:description xml:lang="sv">Energiförbrukning i Geografiska området 0715 (del av Umeå landförsamling, byar och glesbygd) (csv)</dct:description>
+            <dct:description xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 0715 (Teil des Kreisrates Umeå, Dörfer und dünn besiedelte Gebiete) (csv)</dct:description>
+            <dct:description xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 0715 (součást rady župy Umeå, vesnice a řídce osídlené oblasti) (csv)</dct:description>
+            <dct:title xml:lang="sv">csv</dct:title>
+            <dct:description xml:lang="en-t-sv-t0-mtec">Energy consumption in the Geographical Area 0715 (part of Umeå County Council, villages and sparsely populated areas) (csv)</dct:description>
+            <dct:description xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 0715 (časť zastupiteľstva župy Umeå, obce a riedko osídlené oblasti) (csv)</dct:description>
+            <dct:description xml:lang="pl-t-sv-t0-mtec">Zużycie energii w obszarze geograficznym 0715 (część rady hrabstwa Umeå, wsie i obszary słabo zaludnione) (csv)</dct:description>
+            <dct:description xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 0715 (del grofijskega sveta Umeå, vasi in redko poseljena območja) (csv)</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+            <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och-csv</dct:identifier>
+            <dct:description xml:lang="da-t-sv-t0-mtec">Energiforbrug i det geografiske område 0715 (del af Umeå Amtsråd, landsbyer og tyndt befolkede områder) (csv)</dct:description>
+            <dct:description xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 0715 (parti mill-Kunsill tal-Kontea ta’ Umeå, l-irħula u ż-żoni b’popolazzjoni baxxa) (csv)</dct:description>
+            <dct:description xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 0715 (Umeo grafystės tarybos dalis, kaimai ir retai apgyvendintos vietovės) (csv)</dct:description>
+            <dct:description xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 0715 (daļa no Ūmeo grāfistes padomes, ciemati un mazapdzīvoti apgabali) (csv)</dct:description>
+            <dct:description xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh sa Limistéar Geografach 0715 (cuid de Chomhairle Contae Umeå, sráidbhailte agus ceantair inar tearc an daonra) (csv)</dct:description>
+            <dct:title xml:lang="bg-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="es-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">CSV</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-16T22:45:06.325Z</dct:issued>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="en-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">CSV</dct:title>
+            <dct:description xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη γεωγραφική περιοχή 0715 (μέρος του συμβουλίου της κομητείας Umeå, χωριά και αραιοκατοικημένες περιοχές) (csv)</dct:description>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="el-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="et-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="it-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="da-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">CSV</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.sv"/>
+            <dcat:accessURL rdf:resource="https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och/exports/csv"/>
+            <dct:description xml:lang="nl-t-sv-t0-mtec">Energieverbruik in het geografische gebied 0715 (deel van de districtsraad van Umeå, dorpen en dunbevolkte gebieden) (csv)</dct:description>
+            <dct:description xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 0715 (Umeå maakonna volikogu osa, külad ja hõredalt asustatud alad) (csv)</dct:description>
+            <dct:description xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 0715 (parte del Consejo del Condado de Umeå, aldeas y zonas escasamente pobladas) (csv)</dct:description>
+            <dct:format>text/csv</dct:format>
+            <dct:description xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 0715 (osa Uumajan lääninvaltuustoa, kyliä ja harvaan asuttuja alueita) (csv)</dct:description>
+            <dct:description xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 0715 (parte a Consiliului Județean Umeå, sate și zone slab populate) (csv)</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 0715 (partie du conseil du comté d’Umeå, villages et zones à faible densité de population)</dct:title>
+        <dct:title xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη γεωγραφική περιοχή 0715 (μέρος του συμβουλίου της κομητείας Umeå, χωριά και αραιοκατοικημένες περιοχές)</dct:title>
+        <dct:description xml:lang="sv">Anonymiserad förbrukningsdata från Umeå Energi per nyckelkodsområde i Umeå Kommun. Detta data bör inte ses som exakta och kompletta förbrukningsvärden utan mer som en kvalificerad uppskattning av förbrukningen i syfte att se trender och indikationer.Datafilerna kommer endast innehålla värden för fastigheter i Umeå kommun där Umeå Energi är nätägare och informationen inte anses vara olämplig för distribution. Uppdateras normalt en gång varje månad med nytillkomna värden.Frågor kring detta förbrukningsdata hänvisas till matdata.datalager@umeaenergi.se </dct:description>
+        <dct:title xml:lang="pl-t-sv-t0-mtec">Zużycie energii w obszarze geograficznym 0715 (część rady hrabstwa Umeå, wsie i obszary słabo zaludnione)</dct:title>
+        <dct:description xml:lang="sl-t-sv-t0-mtec">Anonimizirani podatki o porabi družbe Umeå Energi na ključno kodno območje v občini Umeå. Ti podatki se ne smejo obravnavati kot točni in popolni vrednosti porabe, ampak bolj kot kvalificirana ocena porabe, da bi videli trende in indikacije.Datoteke podatkov bodo vsebovale samo vrednosti za nepremičnine v občini Umeå, kjer je Umeå Energi lastnik omrežja in informacije se ne štejejo za neprimerne za distribucijo. Običajno se posodabljajo enkrat mesečno z novimi vrednostmi.Vprašanja o teh podatkih o porabi so navedena na matdata.datalager@umeaenergi.se</dct:description>
+        <dct:title xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 0715 (Umeå maakonna volikogu osa, külad ja hõredalt asustatud alad)</dct:title>
+        <dcat:keyword xml:lang="sv">Förbrukning</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6efed467-44ae-4058-8392-8f83ced8f430">
+            <dct:description xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 0715 (Umeo grafystės tarybos dalis, kaimai ir retai apgyvendintos vietovės) (json)</dct:description>
+            <dct:description xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás a 0715 földrajzi területen (Umeå megye önkormányzatának része, falvak és ritkán lakott területek) (json)</dct:description>
+            <dct:description xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 0715 (parte a Consiliului Județean Umeå, sate și zone slab populate) (json)</dct:description>
+            <dct:description xml:lang="bg-t-sv-t0-mtec">Потребление на енергия в географската зона 0715 (част от Окръжния съвет на Умео, села и слабо населени райони) (json)</dct:description>
+            <dct:description xml:lang="en-t-sv-t0-mtec">Energy consumption in the Geographical Area 0715 (part of Umeå County Council, villages and sparsely populated areas) (json)</dct:description>
+            <dct:description xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 0715 (parti mill-Kunsill tal-Kontea ta’ Umeå, l-irħula u ż-żoni b’popolazzjoni baxxa) (json)</dct:description>
+            <dct:description xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 0715 (Teil des Kreisrates Umeå, Dörfer und dünn besiedelte Gebiete) (json)</dct:description>
+            <dct:description xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 0715 (daļa no Ūmeo grāfistes padomes, ciemati un mazapdzīvoti apgabali) (json)</dct:description>
+            <dct:description xml:lang="da-t-sv-t0-mtec">Energiforbrug i det geografiske område 0715 (del af Umeå Amtsråd, landsbyer og tyndt befolkede områder) (json)</dct:description>
+            <dct:description xml:lang="nl-t-sv-t0-mtec">Energieverbruik in het geografische gebied 0715 (deel van de districtsraad van Umeå, dorpen en dunbevolkte gebieden) (json)</dct:description>
+            <dct:description xml:lang="pt-t-sv-t0-mtec">Consumo de energia na Área Geográfica 0715 (parte do Conselho Distrital de Umeå, aldeias e zonas escassamente povoadas) (json)</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-16T22:45:06.325Z</dct:issued>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.sv"/>
+            <dct:description xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 0715 (Umeå maakonna volikogu osa, külad ja hõredalt asustatud alad) (json)</dct:description>
+            <dct:description xml:lang="sv">Energiförbrukning i Geografiska området 0715 (del av Umeå landförsamling, byar och glesbygd) (json)</dct:description>
+            <dct:description xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 0715 (dio Vijeća okruga Umeå, sela i rijetko naseljena područja) (json)</dct:description>
+            <dct:description xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 0715 (del grofijskega sveta Umeå, vasi in redko poseljena območja) (json)</dct:description>
+            <dct:format>application/json</dct:format>
+            <dct:description xml:lang="it-t-sv-t0-mtec">Consumo di energia nella zona geografica 0715 (parte del consiglio della contea di Umeå, villaggi e zone scarsamente popolate) (json)</dct:description>
+            <dct:description xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 0715 (parte del Consejo del Condado de Umeå, aldeas y zonas escasamente pobladas) (json)</dct:description>
+            <dct:description xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 0715 (součást rady župy Umeå, vesnice a řídce osídlené oblasti) (json)</dct:description>
+            <dct:title xml:lang="sv">json</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-16T22:45:06.325Z</dct:modified>
+            <dct:description xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 0715 (časť zastupiteľstva župy Umeå, obce a riedko osídlené oblasti) (json)</dct:description>
+            <dct:description xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh sa Limistéar Geografach 0715 (cuid de Chomhairle Contae Umeå, sráidbhailte agus ceantair inar tearc an daonra) (json)</dct:description>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">JSON</dct:title>
+            <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och-json</dct:identifier>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 0715 (osa Uumajan lääninvaltuustoa, kyliä ja harvaan asuttuja alueita) (json)</dct:description>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="en-t-sv-t0-mtec">JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och/exports/json"/>
+            <dct:description xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 0715 (partie du conseil du comté d’Umeå, villages et zones à faible densité de population) (json)</dct:description>
+            <dct:title xml:lang="el-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="es-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="da-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη γεωγραφική περιοχή 0715 (μέρος του συμβουλίου της κομητείας Umeå, χωριά και αραιοκατοικημένες περιοχές) (json)</dct:description>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">JSON</dct:title>
+            <dct:description xml:lang="pl-t-sv-t0-mtec">Zużycie energii w obszarze geograficznym 0715 (część rady hrabstwa Umeå, wsie i obszary słabo zaludnione) (json)</dct:description>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="it-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="et-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="bg-t-sv-t0-mtec">JSON</dct:title>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">JSON</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 0715 (dio Vijeća okruga Umeå, sela i rijetko naseljena područja)</dct:title>
+        <dct:title xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 0715 (parte del Consejo del Condado de Umeå, aldeas y zonas escasamente pobladas)</dct:title>
+        <dct:title xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 0715 (osa Uumajan lääninvaltuustoa, kyliä ja harvaan asuttuja alueita)</dct:title>
+        <dct:title xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 0715 (časť zastupiteľstva župy Umeå, obce a riedko osídlené oblasti)</dct:title>
+        <dct:title xml:lang="en-t-sv-t0-mtec">Energy consumption in the Geographical Area 0715 (part of Umeå County Council, villages and sparsely populated areas)</dct:title>
+        <dct:identifier>energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och@opendata.umea.se</dct:identifier>
+        <dct:title xml:lang="pt-t-sv-t0-mtec">Consumo de energia na Área Geográfica 0715 (parte do Conselho Distrital de Umeå, aldeias e zonas escassamente povoadas)</dct:title>
+        <dct:title xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 0715 (Teil des Kreisrates Umeå, Dörfer und dünn besiedelte Gebiete)</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization rdf:about="https://admin.dataportal.se/store/43/resource/1759d73f629552cf8d3b66bc7e694e57">
+            <vcard:hasEmail rdf:resource="mailto:matdata.datalager@umeaenergi.se"/>
+            <vcard:fn>Umeå Energi</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 0715 (parte a Consiliului Județean Umeå, sate și zone slab populate)</dct:title>
+        <dcat:keyword xml:lang="sv">Fjärrvärme</dcat:keyword>
+        <dct:title xml:lang="it-t-sv-t0-mtec">Consumo di energia nella zona geografica 0715 (parte del consiglio della contea di Umeå, villaggi e zone scarsamente popolate)</dct:title>
+        <dct:title xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 0715 (parti mill-Kunsill tal-Kontea ta’ Umeå, l-irħula u ż-żoni b’popolazzjoni baxxa)</dct:title>
+        <dct:description xml:lang="nl-t-sv-t0-mtec">Geanonimiseerde verbruiksgegevens van Umeå Energi per sleutelcodegebied in de gemeente Umeå. Deze gegevens moeten niet worden beschouwd als nauwkeurige en volledige verbruikswaarden, maar meer als een gekwalificeerde schatting van het verbruik om trends en indicaties te zien.De gegevensbestanden bevatten alleen waarden voor eigenschappen in de gemeente Umeå, waar Umeå Energi de eigenaar van het netwerk is en de informatie niet als ongeschikt voor distributie wordt beschouwd. Normaal een keer per maand bijgewerkt met nieuwe waarden.Vragen over deze verbruiksgegevens worden verwezen naar matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="et-t-sv-t0-mtec">Umeå Energi anonüümitud tarbimisandmed Umeå valla võtmekoodi piirkonna kohta. Neid andmeid ei tohiks vaadelda täpsete ja täielike tarbimisväärtustena, vaid pigem kvalifitseeritud hinnanguna tarbimise kohta, et näha suundumusi ja näitajaid. Andmefailid sisaldavad ainult Umeå vallas asuvate kinnistute väärtusi, kus Umeå Energi on võrgu omanik, ning teavet ei peeta levitamiseks sobimatuks. Tavaliselt uuendatakse kord kuus uute väärtustega. Küsimused nende tarbimisandmete kohta on esitatud aadressil matdata.datalager@umeaenergi.se</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-16T22:45:06.325Z</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/598105de-0d58-487e-844c-9cae8ec0edfc">
+            <dct:description xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 0715 (součást shromáždění župy Umeå, vesnice a řídce osídlené oblasti) (API)</dct:description>
+            <dct:title xml:lang="bg-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="es-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">API</dct:title>
+            <dct:description xml:lang="pt-t-sv-t0-mtec">Consumo de energia na área geográfica 0715 (parte da Assembleia do Condado de Umeå, aldeias e zonas escassamente povoadas) (API)</dct:description>
+            <dct:title xml:lang="it-t-sv-t0-mtec">API</dct:title>
+            <dct:description xml:lang="it-t-sv-t0-mtec">Consumo energetico nella zona geografica 0715 (parte dell'assemblea della contea di Umeå, villaggi e zone scarsamente popolate) (API)</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+            <dct:description xml:lang="en-t-sv-t0-mtec">Energy consumption in the Geographical Area 0715 (part of Umeå County Assembly, Villages and sparsely populated areas) (API)</dct:description>
+            <dct:description xml:lang="sv">Energiförbrukning i Geografiska området 0715 (del av Umeå landförsamling, byar och glesbygd) (API)</dct:description>
+            <dct:description xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 0715 (Umeo apskrities asamblėjos dalis, kaimai ir retai apgyvendintos vietovės) (API)</dct:description>
+            <dct:identifier>https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och-API</dct:identifier>
+            <dct:description xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 0715 (del skupščine okrožja Umeå, vasi in redko poseljena območja) (API)</dct:description>
+            <dct:description xml:lang="et-t-sv-t0-mtec">Energiatarbimine geograafilises piirkonnas 0715 (Umeå maakonna volikogu osa, külad ja hõredalt asustatud alad) (API)</dct:description>
+            <dct:description xml:lang="lv-t-sv-t0-mtec">Enerģijas patēriņš ģeogrāfiskajā apgabalā 0715 (daļa no Ūmeo grāfistes asamblejas, ciemati un mazapdzīvoti apgabali) (API)</dct:description>
+            <dct:description xml:lang="el-t-sv-t0-mtec">Κατανάλωση ενέργειας στη γεωγραφική περιοχή 0715 (μέρος της κομητείας Umeå, χωριά και αραιοκατοικημένες περιοχές) (API)</dct:description>
+            <dcat:accessURL rdf:resource="https://opendata.umea.se/api/v2/catalog/datasets/energiforbrukning-i-geografiska-omradet-0715-del-av-umea-landforsamling-byar-och/records"/>
+            <dct:description xml:lang="nl-t-sv-t0-mtec">Energieverbruik in het geografische gebied 0715 (deel van de Umeå County Assembly, dorpen en dunbevolkte gebieden) (API)</dct:description>
+            <dct:title xml:lang="et-t-sv-t0-mtec">RAKENDUSLIIDES</dct:title>
+            <dct:description xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh sa Limistéar Geografach 0715 (cuid de Thionól Contae Umeå, Sráidbhailte agus limistéir inar tearc an daonra) (API)</dct:description>
+            <dct:conformsTo rdf:resource="https://opendata.umea.se/api/v2/console"/>
+            <dct:description xml:lang="de-t-sv-t0-mtec">Energieverbrauch im geografischen Gebiet 0715 (Teil der Gemeinde Umeå, Dörfer und dünn besiedelte Gebiete) (API)</dct:description>
+            <dct:description xml:lang="mt-t-sv-t0-mtec">Il-konsum tal-enerġija fiż-Żona Ġeografika 0715 (parti mill-Assemblea tal-Kontea ta’ Umeå, Villages u żoni b’popolazzjoni baxxa) (API)</dct:description>
+            <rdf:type rdf:resource="http://entryscape.com/terms/ServiceDistribution"/>
+            <dct:format>application/json</dct:format>
+            <dct:description xml:lang="sk-t-sv-t0-mtec">Spotreba energie v zemepisnej oblasti 0715 (časť zhromaždenia župy Umeå, obce a riedko osídlené oblasti) (API)</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-16T22:45:06.325Z</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-16T22:45:06.325Z</dct:issued>
+            <dct:description xml:lang="fr-t-sv-t0-mtec">Consommation d’énergie dans la zone géographique 0715 (partie de l’assemblée du comté d’Umeå, villages et zones à faible densité de population) (API)</dct:description>
+            <dct:description xml:lang="pl-t-sv-t0-mtec">Zużycie energii na obszarze geograficznym 0715 (część zgromadzenia hrabstwa Umeå, wsie i obszary słabo zaludnione) (API)</dct:description>
+            <dct:description xml:lang="es-t-sv-t0-mtec">Consumo de energía en la zona geográfica 0715 (parte de la Asamblea del Condado de Umeå, pueblos y zonas escasamente pobladas) (API)</dct:description>
+            <dct:description xml:lang="fi-t-sv-t0-mtec">Energiankulutus maantieteellisellä alueella 0715 (osa Uumajan lääninvaltuustoa, kyliä ja harvaan asuttuja alueita) (API)</dct:description>
+            <dct:description xml:lang="ro-t-sv-t0-mtec">Consumul de energie în zona geografică 0715 (parte a Adunării județene Umeå, sate și zone slab populate) (API)</dct:description>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.sv"/>
+            <dct:description xml:lang="hr-t-sv-t0-mtec">Potrošnja energije u zemljopisnom području 0715 (dio skupštine okruga Umeå, sela i rijetko naseljena područja) (API)</dct:description>
+            <dct:description xml:lang="bg-t-sv-t0-mtec">Потребление на енергия в географската зона 0715 (част от събранието на окръг Umeå, села и слабо населени райони) (API)</dct:description>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">API</dct:title>
+            <dct:description xml:lang="da-t-sv-t0-mtec">Energiforbrug i det geografiske område 0715 (del af Umeå amtsforsamling, landsbyer og tyndt befolkede områder) (API)</dct:description>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="el-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">API</dct:title>
+            <dct:description xml:lang="hu-t-sv-t0-mtec">Energiafogyasztás a 0715 földrajzi területen (Umeå megye közgyűlésének része, falvak és ritkán lakott területek) (API)</dct:description>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="sv">API</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="en-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">API</dct:title>
+            <dct:title xml:lang="da-t-sv-t0-mtec">API</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://admin.dataportal.se/store/43/resource/fd2584866d01e4eaee64e3ffcfe40e02">
+            <foaf:name>Umeå Energi</foaf:name>
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/Company"/>
+          </foaf:Agent>
+        </dct:publisher>
+        <dct:title xml:lang="cs-t-sv-t0-mtec">Spotřeba energie v zeměpisné oblasti 0715 (součást rady župy Umeå, vesnice a řídce osídlené oblasti)</dct:title>
+        <dct:description xml:lang="de-t-sv-t0-mtec">Anonymisierte Verbrauchsdaten von Umeå Energi pro Schlüsselcode-Bereich in der Gemeinde Umeå. Diese Daten sollten nicht als genaue und vollständige Verbrauchswerte, sondern eher als qualifizierte Schätzung des Verbrauchs angesehen werden, um Trends und Indikationen zu sehen.Die Datendateien enthalten nur Werte für Immobilien in der Gemeinde Umeå, wo Umeå Energi Eigentümer des Netzwerks ist und die Informationen nicht als ungeeignet für die Verteilung angesehen werden. Normalerweise einmal monatlich aktualisiert mit neuen Werten.Fragen zu diesen Verbrauchsdaten werden auf matdata.datalager@umeaenergi.se verwiesen.</dct:description>
+        <dct:description xml:lang="hu-t-sv-t0-mtec">Az Umeå Energi-tól származó anonimizált fogyasztási adatok Umeå önkormányzatának kulcskódja szerint. Ezek az adatok nem tekinthetők pontos és teljes fogyasztási értékeknek, hanem inkább a fogyasztás minősített becslésének, hogy megtekinthessék a trendeket és a jelzéseket. Az adatfájlok csak Umeå településen található ingatlanok értékeit tartalmazzák, ahol Umeå Energi a hálózat tulajdonosa, és az információ nem tekinthető alkalmatlannak az elosztásra. Általában havonta egyszer frissül új értékekkel.Az e fogyasztási adatokkal kapcsolatos kérdések a következő címen találhatók: matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="ro-t-sv-t0-mtec">Date anonimizate privind consumul din Umeå Energi per zonă de cod cheie din municipalitatea Umeå. Aceste date nu ar trebui considerate ca valori de consum exacte și complete, ci mai mult ca o estimare calificată a consumului pentru a vedea tendințele și indicațiile. Fișierele de date vor conține doar valori pentru proprietățile din municipalitatea Umeå, unde Umeå Energi este proprietarul rețelei, iar informațiile nu sunt considerate inadecvate pentru distribuție. În mod normal, actualizat o dată pe lună cu noi valori. Întrebări cu privire la aceste date de consum sunt menționate la matdata.datalager@umeaenergi.se</dct:description>
+        <dcat:keyword xml:lang="sv">El</dcat:keyword>
+        <dct:description xml:lang="en-t-sv-t0-mtec">Anonymised consumption data from Umeå Energi per key code area in Umeå Municipality. This data should not be seen as accurate and complete consumption values but more as a qualified estimate of consumption in order to see trends and indications.The data files will only contain values for properties in Umeå municipality where Umeå Energi is the network owner and the information is not considered inappropriate for distribution. Normally updated once every month with new values.Questions about this consumption data are referred to matdata.datalager@umeaenergi.se</dct:description>
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dct:description xml:lang="el-t-sv-t0-mtec">Ανωνυμοποιημένα δεδομένα κατανάλωσης από την Umeå Energi ανά περιοχή βασικού κωδικού στο δήμο Umeå. Τα δεδομένα αυτά δεν θα πρέπει να θεωρούνται ακριβείς και πλήρεις τιμές κατανάλωσης, αλλά περισσότερο ως ειδική εκτίμηση της κατανάλωσης προκειμένου να διαπιστωθούν οι τάσεις και οι ενδείξεις. Τα αρχεία δεδομένων θα περιέχουν μόνο τιμές για ακίνητα στον δήμο Umeå όπου η Umeå Energi είναι ο ιδιοκτήτης του δικτύου και οι πληροφορίες δεν θεωρούνται ακατάλληλες για διανομή. Συνήθως επικαιροποιούνται μία φορά το μήνα με νέες τιμές.Οι ερωτήσεις σχετικά με αυτά τα δεδομένα κατανάλωσης αναφέρονται στη διεύθυνση matdata.datalager@umeaenergi.se</dct:description>
+        <dct:title xml:lang="ga-t-sv-t0-mtec">Tomhaltas fuinnimh sa Limistéar Geografach 0715 (cuid de Chomhairle Contae Umeå, sráidbhailte agus ceantair inar tearc an daonra)</dct:title>
+        <dct:description xml:lang="mt-t-sv-t0-mtec">Data dwar il-konsum anonimizzata minn Umeå Energi għal kull żona ta’ kodiċi ewlenija fil-Muniċipalità ta’ Umeå. Din id-data m’għandhiex titqies bħala valuri ta’ konsum preċiżi u kompleti iżda aktar bħala stima kwalifikata tal-konsum sabiex wieħed jara x-xejriet u l-indikazzjonijiet. Il-fajls tad-data se jkun fihom biss valuri għall-proprjetajiet fil-muniċipalità ta’ Umeå fejn Umeå Energi hija s-sid tan-netwerk u l-informazzjoni ma titqiesx xierqa għad-distribuzzjoni. Normalment jiġu aġġornati darba fix-xahar b’valuri ġodda.Il-mistoqsijiet dwar din id-data dwar il-konsum huma msemmija matdata.datalager@umeaenergi.se</dct:description>
+        <dct:title xml:lang="sv">Energiförbrukning i Geografiska området 0715 (del av Umeå landförsamling, byar och glesbygd)</dct:title>
+        <dct:title xml:lang="nl-t-sv-t0-mtec">Energieverbruik in het geografische gebied 0715 (deel van de districtsraad van Umeå, dorpen en dunbevolkte gebieden)</dct:title>
+        <dct:title xml:lang="sl-t-sv-t0-mtec">Poraba energije na geografskem območju 0715 (del grofijskega sveta Umeå, vasi in redko poseljena območja)</dct:title>
+        <dct:description xml:lang="es-t-sv-t0-mtec">Datos anonimizados de consumo de Umeå Energi por área clave de código en el municipio de Umeå. Estos datos no deben ser vistos como valores de consumo exactos y completos, sino más bien como una estimación calificada del consumo para ver tendencias e indicaciones.Los ficheros de datos solo contendrán valores para propiedades en el municipio de Umeå donde Umeå Energi es el propietario de la red y la información no se considera inadecuada para su distribución. Normalmente actualizado una vez al mes con nuevos valores. Preguntas sobre estos datos de consumo se refieren a matdata.datalager@umeaenergi.se</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+        <dct:description xml:lang="pt-t-sv-t0-mtec">Dados de consumo anónimos de Umeå Energi por área de código-chave no município de Umeå. Estes dados não devem ser vistos como valores de consumo exatos e completos, mas mais como uma estimativa qualificada do consumo, a fim de ver tendências e indicações.Os ficheiros de dados conterão apenas valores para as propriedades do município de Umeå, onde Umeå Energi é o proprietário da rede e as informações não são consideradas inadequadas para a distribuição. Normalmente atualizado uma vez por mês com novos valores.Perguntas sobre esses dados de consumo são encaminhadas para matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="sk-t-sv-t0-mtec">Anonymizované údaje o spotrebe z Umeå Energi za oblasť s kódom kľúča v obci Umeå. Tieto údaje by sa nemali považovať za presné a úplné hodnoty spotreby, ale skôr za kvalifikovaný odhad spotreby s cieľom vidieť trendy a indikácie. Údajové súbory budú obsahovať len hodnoty nehnuteľností v obci Umeå, kde je Umeå Energi vlastníkom siete a informácie sa nepovažujú za nevhodné na distribúciu.
+Zvyčajne aktualizované raz mesačne o nové hodnoty. Otázky týkajúce sa týchto údajov o spotrebe sú uvedené na matdata.datalager@umeaenergi.se</dct:description>
+        <dct:description xml:lang="lv-t-sv-t0-mtec">Anonimizēti patēriņa dati no Umeå Energi pa galvenajiem kodu apgabaliem Ūmeo pašvaldībā. Šie dati nav jāuztver kā precīzas un pilnīgas patēriņa vērtības, bet gan vairāk kā kvalificēta patēriņa aplēse, lai redzētu tendences un norādes.Datu datnēs būs tikai vērtības īpašumiem Ūmeo pašvaldībā, kur Umeå Energi ir tīkla īpašnieks, un informācija netiek uzskatīta par nepiemērotu izplatīšanai. Parasti atjaunina reizi mēnesī ar jaunām vērtībām. Jautājumi par šiem patēriņa datiem ir minēti matdata.datalager@umeaenergi.se</dct:description>
+        <dct:title xml:lang="lt-t-sv-t0-mtec">Energijos suvartojimas geografinėje vietovėje 0715 (Umeo grafystės tarybos dalis, kaimai ir retai apgyvendintos vietovės)</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:description xml:lang="cs-t-sv-t0-mtec">Anonymizované údaje o spotřebě z Umeå Energi podle oblasti kódu klíče v obci Umeå. Tyto údaje by neměly být považovány za přesné a úplné hodnoty spotřeby, ale spíše za kvalifikovaný odhad spotřeby, aby bylo možné vidět trendy a indikace.Datové soubory budou obsahovat pouze hodnoty nemovitostí v obci Umeå, kde je Umeå Energi vlastníkem sítě a informace se nepovažují za nevhodné pro distribuci. Obvykle se každý měsíc aktualizuje o nové hodnoty.Otázky týkající se těchto údajů o spotřebě jsou uvedeny na matdata.datalager@umeaenergi.se</dct:description>
+      </j.0:ServedByDataService>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T13:39:41Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

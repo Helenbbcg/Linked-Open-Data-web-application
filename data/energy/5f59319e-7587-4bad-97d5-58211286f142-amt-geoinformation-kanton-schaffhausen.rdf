@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:juerg.sturzenegger@sh.ch"/>
+  </rdf:Description>
+  <rdf:Description>
+    <vcard:fn>juerg.sturzenegger@sh.ch</vcard:fn>
+  </rdf:Description>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/5f59319e-7587-4bad-97d5-58211286f142-amt-geoinformation-kanton-schaffhausen">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/5f59319e-7587-4bad-97d5-58211286f142-amt-geoinformation-kanton-schaffhausen">
+        <dct:title xml:lang="es-t-de-t0-mtec">Energía Utilización del calor del agua subterránea Cantón de Schaffhausen</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Energi Grundvandsvarmeudnyttelse Canton Schaffhausen</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Energia Użytkowanie ciepła wód gruntowych Kanton Schaffhausen</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Energi Grundvattenvärmeanvändning Kantonen Schaffhausen</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Het onderwerp „grondwaterwarmtegebruik” geeft de geschatte locatie van de goedgekeurde grondwateronttrekkingen voor warmtedoeleinden aan. Het extra kenmerk „Aantal liters/minuut” geeft de hoeveelheid water aan die maximaal mag worden gepompt. De datapunten worden voortdurend bijgewerkt. Het onderwerp „grondwaterwarmtegebruik” geeft de geschatte locatie van de goedgekeurde grondwateronttrekkingen voor warmtedoeleinden aan.
+Het extra kenmerk „Aantal liters/minuut” geeft de hoeveelheid water aan die maximaal mag worden gepompt.
+De datapunten worden voortdurend bijgewerkt.</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Emnet "Grænsevandsvarmeudnyttelse" angiver den omtrentlige placering af de godkendte grundvandsindvindinger til varmeformål. Den ekstra attribut "Antal liter/minut" angiver den mængde vand, der maksimalt må pumpes. Datapunkterne opdateres løbende.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fa80d363-67f6-4628-a016-3d8ffa51b917">
+            <dct:format>WMS</dct:format>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://wms.geo.sh.ch/wms?SERVICE=WMS&amp;REQUEST=GetCapabilities"/>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/d34c71b0-39ae-4c99-8242-194274e959d0/resource/29b76b00-9a5d-4e01-80c8-c28a968c2bf3</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-29T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-29T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A „felszín alatti vizek hőhasznosítása” témakör a jóváhagyott felszín alatti víz hőkivételének hozzávetőleges helyét jelöli. A „liter/perc” kiegészítő attribútum a maximálisan szivattyúzható víz mennyiségét jelzi. Az adatpontok folyamatosan frissülnek.</dct:description>
+        <dct:description xml:lang="de">Das Thema "Grundwasserwärmenutzung" zeigt den ungefähren Standort der bewilligten Grundwasserentnahmen zu Wärmezwecken an. Das Zusatzattribut "Anzahl Liter/Minute" gibt die konzessionierte Wassermenge an, die maximal gefördert werden darf. Die Datenpunkte werden laufend aktualisiert.</dct:description>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dct:description xml:lang="es-t-de-t0-mtec">El tema «utilización del calor del agua subterránea» indica la ubicación aproximada de las abstracciones de agua subterránea aprobadas para fines de calor. El atributo adicional «Número de litros/minuto» indica la cantidad de agua que se permite bombear en un máximo. Los puntos de datos se actualizan constantemente.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Energetické využití tepla podzemní vody kanton Schaffhausen</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://map.geo.sh.ch">
+            <rdfs:label>https://map.geo.sh.ch</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Tema „Utilizarea căldurii de apă subterană” indică amplasarea aproximativă a captărilor de apă subterană aprobate în scopuri termice. Atributul suplimentar „Număr de litri/minut” indică cantitatea de apă care poate fi pompată la maximum. Punctele de date sunt actualizate în mod constant.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="el-t-de-t0-mtec">Ενέργεια Υπογείων υδάτων χρήση θερμότητας καντόνι Schaffhausen</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Energia Utilização do calor das águas subterrâneas Cantão de Schaffhausen</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Energie Utilizarea căldurii în apele subterane Cantonul Schaffhausen</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2019-10-29T00:00:00</dct:issued>
+        <dct:description xml:lang="it-t-de-t0-mtec">Il tema "Utilizzo del calore delle acque sotterranee" indica la posizione approssimativa delle estrazioni di acque sotterranee approvate a fini termici. L'attributo aggiuntivo "Numero di litri/minuto" indica la quantità di acqua che può essere pompata al massimo. I dati vengono costantemente aggiornati.</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Is-suġġett “użu tas-sħana tal-ilma ta’ taħt l-art” jindika l-post approssimattiv tal-astrazzjonijiet approvati tal-ilma ta’ taħt l-art għal skopijiet ta’ sħana. L-attribut addizzjonali “Għadd ta’ litri/minuta” jindika l-ammont ta’ ilma li huwa permess li jiġi ppumpjat sa massimu.
+Il-punti tad-data jiġu aġġornati kontinwament.</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Léiríonn an topaic “úsáid teasa screamhuisce” an suíomh thart ar na hastarraingtí screamhuisce ceadaithe chun críocha teasa. Léiríonn an tréith bhreise “Líon na lítir/nóiméad” an méid uisce a cheadaítear a phumpáil ag uasmhéid. Déantar na pointí sonraí a nuashonrú i gcónaí.</dct:description>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Energetické využitie podzemnej vody kantón Schaffhausen</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Aihe ”pohjaveden lämmön hyödyntäminen” ilmaisee hyväksyttyjen pohjavedenottojen likimääräisen sijainnin lämpöä varten. Lisäominaisuus ”Litraa/minuutti” osoittaa, kuinka paljon vettä pumpataan enintään. Datapisteitä päivitetään jatkuvasti.</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Tēma “gruntsūdens siltuma izmantošana” norāda apstiprināto gruntsūdeņu ieguves aptuveno atrašanās vietu siltuma vajadzībām. Papildu atribūts “litru skaits minūtē” norāda ūdens daudzumu, ko atļauts sūknēt maksimāli. Datu punkti tiek pastāvīgi atjaunināti. Tēma “gruntsūdens siltuma izmantošana” norāda apstiprināto gruntsūdeņu ieguves aptuveno atrašanās vietu siltuma vajadzībām.
+Papildu atribūts “litru skaits minūtē” norāda ūdens daudzumu, ko atļauts sūknēt maksimāli.
+Datu punkti tiek pastāvīgi atjaunināti.</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Energia Utilizzo del calore delle acque sotterranee Cantone di Sciaffusa</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2019-10-29T00:00:00</dct:modified>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Ämnet ”grundvattenvärmeutnyttjande” anger ungefärlig placering av godkända grundvattenuttag för värmeändamål. Tilläggsattributet ”Antal liter/minut” anger den mängd vatten som får pumpas högst.
+Datapunkterna uppdateras ständigt.</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Poraba toplote podtalnice Canton of Schaffhausen</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Енергийно използване на топлината от подпочвените води кантон Шафхаузен</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dcat:keyword xml:lang="it">energie</dcat:keyword>
+        <dcat:keyword xml:lang="de">energie</dcat:keyword>
+        <dcat:keyword xml:lang="en">energie</dcat:keyword>
+        <dcat:keyword xml:lang="fr">energie</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Energetska potrošnja podzemnih voda kanton Schaffhausen</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Téma „využití tepla podzemní vody“ označuje přibližné umístění schválených odběrů podzemních vod pro tepelné účely. Doplňkový atribut „Počet litrů za minutu“ udává maximální množství vody, která může být čerpana. Datové body jsou neustále aktualizovány.</dct:description>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Énergie Utilisation de la chaleur des eaux souterraines canton de Schaffhausen</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Темата „Използване на топлинна енергия от подпочвените води“ показва приблизителното местоположение на одобрените водочерпене на подземни води за топлинни цели. Допълнителният атрибут „Брой литра/минута“ показва максималното количество вода, което може да се изпомпва. Точките с данни се актуализират постоянно.</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Fuinneamh Screamhuisce úsáid teasa Canton de Schaffhausen</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Energie Grondwaterwarmtegebruik Kanton Schaffhausen</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Teema „Põhjaveesoojuse kasutamine“ näitab heakskiidetud põhjavee võtmise ligikaudset asukohta soojuse eesmärgil. Lisaatribuut „Ltide arv minutis“ näitab vee kogust, mida on lubatud pumbata maksimaalselt. Andmepunkte uuendatakse pidevalt.</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">The topic “groundwater heat utilisation” indicates the approximate location of the approved groundwater abstractions for heat purposes. The additional attribute “Number of litres/minute” indicates the amount of water that is allowed to be pumped at a maximum. The data points are constantly updated.</dct:description>
+        <dcat:keyword xml:lang="fr">erdsonde</dcat:keyword>
+        <dcat:keyword xml:lang="en">erdsonde</dcat:keyword>
+        <dcat:keyword xml:lang="it">erdsonde</dcat:keyword>
+        <dcat:keyword xml:lang="de">erdsonde</dcat:keyword>
+        <dcat:keyword xml:lang="fr">grundwasserwarmenutzung</dcat:keyword>
+        <dcat:keyword xml:lang="en">grundwasserwarmenutzung</dcat:keyword>
+        <dcat:keyword xml:lang="de">grundwasserwarmenutzung</dcat:keyword>
+        <dcat:keyword xml:lang="it">grundwasserwarmenutzung</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Energy Groundwater heat utilisation Canton of Schaffhausen</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Téma „využitie podzemnej vody“ označuje približnú polohu schválených odberov podzemnej vody na tepelné účely. Dodatočný atribút „Počet litrov za minútu“ označuje množstvo vody, ktoré sa môže čerpať maximálne. Dátové body sa neustále aktualizujú.</dct:description>
+        <dct:spatial>Schaffhausen</dct:spatial>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Energia Talajvíz hőhasznosítás Schaffhausen kanton</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Tema „izraba toplote podzemne vode“ označuje približno lokacijo odobrenih odvzemov podzemne vode za namene ogrevanja. Dodatni atribut „Število litrov/minuto“ označuje količino vode, ki jo je dovoljeno črpati največ. Podatkovne točke se nenehno posodabljajo.</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Energia Pohjaveden lämmön hyödyntäminen Schaffhausenin kantoni</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:identifier>5f59319e-7587-4bad-97d5-58211286f142@amt-geoinformation-kanton-schaffhausen</dct:identifier>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Utilizzazzjoni tas-sħana tal-ilma ta’ taħt l-art Canton ta’ Schaffhausen</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Тема «Використання тепла підземних вод» вказує на приблизне розташування затверджених абстракцій підземних вод для теплових цілей. Додатковий атрибут «Кількість літрів/хвилина» вказує на кількість води, яку дозволено перекачувати по максимуму. Точки даних постійно оновлюються. Тема «Використання тепла підземних вод» вказує на приблизне розташування затверджених абстракцій підземних вод для теплових цілей.
+Додатковий атрибут «Кількість літрів/хвилина» вказує на кількість води, яку дозволено перекачувати по максимуму.
+Точки даних постійно оновлюються.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Tema „iskorištavanje topline podzemnih voda” označava približnu lokaciju odobrenih zahvaćanja podzemnih voda u toplinske svrhe. Dodatni atribut „Broj litara u minuti” označava količinu vode koja se smije pumpati najviše. Podatkovne točke se stalno ažuriraju.</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Energia Maastikusoojuse kasutamine Schaffhauseni kantonis</dct:title>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Baudepartement/Tiefbau-Schaffhausen/Abteilung-Gew-sser-und-Materialabbau-403883-DE.html">
+            <foaf:name>Tiefbau Schaffhausen Gewässer und Materialabbau</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/5f59319e-7587-4bad-97d5-58211286f142">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="el-t-de-t0-mtec">Το θέμα «Χρησιμοποίηση θερμότητας υπόγειων υδάτων» υποδηλώνει την κατά προσέγγιση θέση των εγκεκριμένων αντλήσεων υπόγειων υδάτων για θερμικούς σκοπούς. Το πρόσθετο χαρακτηριστικό «Αριθμός λίτρων/λεπτό» δηλώνει την ποσότητα νερού που επιτρέπεται να αντληθεί στο μέγιστο.
+Τα σημεία δεδομένων ενημερώνονται συνεχώς.</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Temat „użytkowanie ciepła wód gruntowych” wskazuje przybliżoną lokalizację zatwierdzonych poborów wód podziemnych do celów cieplnych. Dodatkowy atrybut „Liczba litrów/minutę” oznacza ilość wody, która może być pompowana maksymalnie. Punkty danych są stale aktualizowane.</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Enerģija Gruntsūdens siltuma izmantošana Schaffhausen kantonā</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Energija Požeminio vandens šilumos panaudojimas Schaffhausen kantonas</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:title xml:lang="de">Energie Grundwasserwärmenutzung Kanton Schaffhausen</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Використання тепла наземної води кантон Шаффгаузен</dct:title>
+        <dct:description xml:lang="pt-t-de-t0-mtec">O tópico «utilização do calor das águas subterrâneas» indica a localização aproximada das captações de águas subterrâneas aprovadas para fins térmicos. O atributo adicional «Número de litros/minuto» indica a quantidade de água que pode ser bombeada no máximo. Os pontos de dados são constantemente atualizados.</dct:description>
+        <dcat:landingPage rdf:resource="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/5f59319e-7587-4bad-97d5-58211286f142"/>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Le thème «utilisation de la chaleur des eaux souterraines» indique l’emplacement approximatif des prélèvements d’eau souterraines autorisés à des fins thermiques. L’attribut supplémentaire «Nombre de litres/minute» indique la quantité d’eau concédée qui peut être transportée au maximum. Les points de données sont constamment mis à jour.</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Tema „požeminio vandens šilumos panaudojimas“ nurodo apytikslę patvirtintų požeminio vandens gavybos šilumos tikslais vietą. Papildomas atributas „L³ per minutę skaičius“ nurodo vandens kiekį, kurį leidžiama pumpuoti ne daugiau kaip. Duomenų taškai nuolat atnaujinami.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7796f502-5a63-4023-8dbd-e1f23d3b6bb3">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-29T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://wfs.geo.sh.ch/wfs?SERVICE=WFS&amp;REQUEST=GetCapabilities"/>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/d34c71b0-39ae-4c99-8242-194274e959d0/resource/31e49282-31ae-440e-b67c-20e413555d55</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-29T00:00:00</dct:issued>
+            <dct:format>WFS</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/5f59319e-7587-4bad-97d5-58211286f142-amt-geoinformation-kanton-schaffhausen"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-16T20:05:09Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T20:08:56Z</edp:transIssued>
+    <dct:identifier>5f59319e-7587-4bad-97d5-58211286f142@amt-geoinformation-kanton-schaffhausen</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>e4049f93bbe1d1cff2eb0d3993c58c4</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:27:44Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T19:38:15Z</edp:transReceived>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+  <vcard:Organization/>
+</rdf:RDF>

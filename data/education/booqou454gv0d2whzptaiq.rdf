@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/booqou454gv0d2whzptaiq">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/booqou454gv0d2whzptaiq">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ac829238-7cad-4a64-8939-820690309857">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="de">Dienstleistungsumsatz - jährliche Daten</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="fr">Chiffre d'affaires dans les services - données annuelles</dct:title>
+            <dct:title xml:lang="en">Turnover in services - annual data</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sts_setu_a.tsv.gz"/>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:identifier>http://data.europa.eu/88u/distribution/3a8c2730-68f8-478b-95ab-2fe634e15ff5</dct:identifier>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="et-t-en-t0-mtec">Käive teenustes – aastaandmed</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Оборот у сфері послуг - річні дані</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Obroty w sektorze usług – dane roczne</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Prihodki od prodaje storitev – letni podatki</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Κύκλος εργασιών στον τομέα των υπηρεσιών — ετήσια στοιχεία</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Omsättning inom tjänster – årsdata</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Omsætning inden for tjenesteydelser — årlige data</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/sts_esms.sdmx.zip">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/booqou454gv0d2whzptaiq"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/sts_esms.sdmx.zip</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Palvelujen liikevaihto – vuositiedot</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Volumen de negocios en servicios — datos anuales</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Obrat ve službách – roční údaje</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Obrat v službách – ročné údaje</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Cifra de afaceri în servicii – date anuale</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Fatturat fis-servizzi — data annwali</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Paslaugų apyvarta – metiniai duomenys</dct:description>
+        <dct:description xml:lang="fr">Chiffre d'affaires dans les services - données annuelles</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Láimhdeachas i seirbhísí — sonraí bliantúla</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Κύκλος εργασιών στον τομέα των υπηρεσιών — ετήσια στοιχεία</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Оборот в услугите — годишни данни</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Paslaugų apyvarta – metiniai duomenys</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Obrat v službách – ročné údaje</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a0261392-fde7-49f8-a6bc-901edfdcd171">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Dienstleistungsumsatz - jährliche Daten</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sts_setu_a.sdmx.zip"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="fr">Chiffre d'affaires dans les services - données annuelles</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Turnover in services - annual data</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ce52e22c-0065-428d-945a-2a178a115e61</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/00da2053-4d40-4fb2-983b-4557445695b3">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1994-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Оборот у сфері послуг - річні дані</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-23</dct:modified>
+        <dct:description xml:lang="it-t-en-t0-mtec">Fatturato dei servizi — dati annuali</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Promet u uslugama – godišnji podaci</dct:title>
+        <dct:title xml:lang="fr">Chiffre d'affaires dans les services - données annuelles</dct:title>
+        <dct:identifier>sts_setu_a</dct:identifier>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Volume de negócios em serviços — dados anuais</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Оборот в услугите — годишни данни</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Cifra de afaceri în servicii – date anuale</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Szolgáltatások árbevétele – éves adatok</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Obroty w sektorze usług – dane roczne</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Szolgáltatások árbevétele – éves adatok</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Omsætning inden for tjenesteydelser — årlige data</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5909"/>
+        <dct:title xml:lang="en">Turnover in services - annual data</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Apgrozījums pakalpojumu jomā — gada dati</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Volumen de negocios en servicios — datos anuales</dct:description>
+        <dct:title xml:lang="de">Dienstleistungsumsatz - jährliche Daten</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Käive teenustes – aastaandmed</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Volume de negócios em serviços — dados anuais</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Omzet in diensten — jaargegevens</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Omsättning inom tjänster – årsdata</dct:title>
+        <dct:description xml:lang="de">Dienstleistungsumsatz - jährliche Daten</dct:description>
+        <dct:description xml:lang="en">Turnover in services - annual data</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Omzet in diensten — jaargegevens</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Obrat ve službách – roční údaje</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/eafbf62c-1675-4723-bb7a-85cb18f19ad9">
+            <dct:identifier>http://data.europa.eu/88u/distribution/6ece0fde-ef71-4911-aefc-13ae0a18a94c</dct:identifier>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sts_setu_a.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="fr">Chiffre d'affaires dans les services - données annuelles</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">Turnover in services - annual data</dct:title>
+            <dct:title xml:lang="de">Dienstleistungsumsatz - jährliche Daten</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Prihodki od prodaje storitev – letni podatki</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Fatturat fis-servizzi — data annwali</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Palvelujen liikevaihto – vuositiedot</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Fatturato dei servizi — dati annuali</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4470"/>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/6e723c69-2ca4-48f0-9827-51f752592a44">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/300d6433-b81a-41b1-834d-899924680bf0">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/sts_setu_a">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/sts_setu_a</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/booqou454gv0d2whzptaiq"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/sts_setu_a</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/sts_esms.htm">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/booqou454gv0d2whzptaiq"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/sts_esms.htm</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Láimhdeachas i seirbhísí — sonraí bliantúla</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/BOOqou454GV0D2WHZPTaIQ</dct:identifier>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/sts_setu_a"/>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Promet u uslugama – godišnji podaci</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Apgrozījums pakalpojumu jomā — gada dati</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>cdbb66b40f2c03522caea73124ca9afd</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T18:02:55Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:00:49Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/booqou454gv0d2whzptaiq"/>
+    <dct:identifier>BOOqou454GV0D2WHZPTaIQ</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T18:02:55Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/dg-near-assistance-to-morocco">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T21:16:12Z</edp:transReceived>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:09:49Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/dg-near-assistance-to-morocco"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>dg-near-assistance-to-morocco</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>c4343421827ef46389defbe00f9afb1d</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/dg-near-assistance-to-morocco">
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tiedot Marokossa Euroopan naapuruusvälineestä ja eurooppalaisesta naapuruuden ja kumppanuuden välineestä rahoitetuista hankkeista. On huomattava, että kansainvälisen kehitys- ja yhteistyöpääosaston kansainvälisen kehityksen ja yhteistyön pääosasto hallinnoi Marokolle vuosina 2010–2014 myönnettyä rahoitusapua.</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Informace o projektech financovaných v Maroku prostřednictvím evropského nástroje sousedství a evropského nástroje sousedství a partnerství. Vezměte prosím na vědomí, že finanční pomoc Maroku v letech 2010 až 2014 řešilo GŘ DEVCO – Generální ředitelství pro mezinárodní rozvoj a spolupráci. Informace o projektech financovaných v Maroku prostřednictvím evropského nástroje sousedství a evropského nástroje sousedství a partnerství.
+Vezměte prosím na vědomí, že finanční pomoc Maroku v letech 2010 až 2014 řešilo GŘ DEVCO – Generální ředitelství pro mezinárodní rozvoj a spolupráci.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/MAR"/>
+        </dct:spatial>
+        <dct:title xml:lang="sl-t-en-t0-mtec">GD NEAR – Pomoč Maroku</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/c_4d5b6dbd"/>
+        <dct:title xml:lang="de-t-en-t0-mtec">GD NEAR – Hilfe für Marokko</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Naapuruuspolitiikan ja laajentumisneuvottelujen pääosasto – tuki Marokolle</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat projektów finansowanych w Maroku w ramach Europejskiego Instrumentu Sąsiedztwa oraz Europejskiego Instrumentu Sąsiedztwa i Partnerstwa. Proszę zauważyć, że pomoc finansowa dla Maroka w latach 2010-2014 była obsługiwana przez DG DEVCO – Dyrekcję Generalną ds. Rozwoju i Współpracy Międzynarodowej.</dct:description>
+        <dct:description xml:lang="de-t-en-t0-mtec">Informationen über Projekte, die in Marokko über das Europäische Nachbarschaftsinstrument und das Europäische Nachbarschafts- und Partnerschaftsinstrument finanziert werden. Bitte beachten Sie, dass die finanzielle Unterstützung Marokkos von 2010 bis 2014 von der GD DEVCO – Generaldirektion Internationale Entwicklung und Zusammenarbeit – geleistet wurde.</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Tájékoztatás a Marokkóban az Európai Szomszédsági Támogatási Eszközből és az Európai Szomszédsági és Partnerségi Támogatási Eszközből finanszírozott projektekről. Felhívjuk figyelmét, hogy a Marokkónak 2010 és 2014 között nyújtott pénzügyi támogatást a Fejlesztési és Együttműködési Főigazgatóság (DG DEVCO) kezelte.</dct:description>
+        <dct:title xml:lang="fr-t-en-t0-mtec">DG NEAR — Assistance au Maroc</dct:title>
+        <dcat:keyword xml:lang="en">southern neighbourhood</dcat:keyword>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie projektus, finansuojamus Maroke pagal Europos kaimynystės priemonę ir Europos kaimynystės ir partnerystės priemonę. Atkreipkite dėmesį į tai, kad 2010–2014 m. finansinę pagalbą Marokui teikė Tarptautinio vystymosi ir bendradarbiavimo generalinis direktoratas (DEVCO GD).</dct:description>
+        <dct:alternative xml:lang="en"> European Commission - Near Activity File - Morocco </dct:alternative>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:title xml:lang="en">DG NEAR - Assistance to Morocco</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre projetos financiados em Marrocos através do Instrumento Europeu de Vizinhança e do Instrumento Europeu de Vizinhança e Parceria. Chama-se a atenção para o facto de a assistência financeira a Marrocos de 2010 a 2014 ter sido tratada pela DG DEVCO — Direção-Geral do Desenvolvimento Internacional e da Cooperação Internacional.</dct:description>
+        <dct:identifier>ec-near-ma</dct:identifier>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Information om projekt som finansieras i Marocko genom det europeiska grannskapsinstrumentet och genom det europeiska grannskaps- och partnerskapsinstrumentet. Observera att det ekonomiska stödet till Marocko mellan 2010 och 2014 hanterades av GD Internationellt samarbete och utveckling – generaldirektoratet för internationell utveckling och samarbete.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5780"/>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/NEAR"/>
+        </dct:publisher>
+        <dct:title xml:lang="sk-t-en-t0-mtec">GR NEAR – Pomoc Maroku</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Naabruspoliitika ja laienemisläbirääkimiste peadirektoraat – abi Marokole</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3481"/>
+        <dct:title xml:lang="ro-t-en-t0-mtec">DG NEAR – Asistență pentru Maroc</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">DG NEAR — Assistenza al Marocco</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">DG NEAR — Bijstand aan Marokko</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">ГД „Политика за съседство и преговори за разширяване“ — Помощ за Мароко</dct:title>
+        <dct:description xml:lang="en">Information on projects financed in Morocco through the European Neighbourhood Instrument  and through the European Neighbourhood and Partnership Instrument. Please note that financial assistance to Morocco from 2010 to 2014 was dealt by DG DEVCO - Directorate Generale for International Development and Cooperation. </dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o projektih, ki se v Maroku financirajo prek evropskega instrumenta sosedstva in evropskega instrumenta sosedstva in partnerstva. Opozoriti je treba, da je finančno pomoč Maroku med letoma 2010 in 2014 obravnaval Generalni direktorat za mednarodni razvoj in sodelovanje GD DEVCO.</dct:description>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:title xml:lang="pt-t-en-t0-mtec">DG NEAR — Assistência a Marrocos</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar proġetti ffinanzjati fil-Marokk permezz tal-Istrument Ewropew ta’ Viċinat u permezz tal-Istrument Ewropew ta’ Viċinat u Sħubija. Jekk jogħġbok innota li l-assistenza finanzjarja lill-Marokk mill-2010 sal-2014 ġiet ittrattata mid-DĠ DEVCO — Direttorat Ġenerali għall-Iżvilupp Internazzjonali u l-Kooperazzjoni.</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">GŘ NEAR – pomoc Maroku</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5860530f-a9c0-49fa-8df0-126341057cb1">
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Изтегляне на файла в близост до дейността — Мароко</dct:title>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_NEAR_C_MA.xml"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Scarica Near Activity File — Marocco</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Prenesite datoteko blizu dejavnosti – Maroko</dct:title>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_NEAR_C_MA.xml"/>
+            <dct:title xml:lang="el-t-en-t0-mtec">Κατεβάστε το αρχείο Κοντά Δραστηριότητα — Μαρόκο</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Baixar Arquivo Perto de Atividade — Marrocos</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Parsisiųsti Netoli veiklos failą – Marokas</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Lae alla kõrvaltegevuse fail – Maroko</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Download Near Aktivita Soubor – Maroko</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Preuzimanje datoteka u blizini aktivnosti – Maroko</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Lejupielādēt tuvu darbības failu — Maroka</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Descargar Near Activity File — Marruecos</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-06-14</dct:modified>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Descărcați fișierul de activitate din apropiere – Maroc</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Íoslódáil Comhad Gníomhaíochta in aice le — Maracó</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Niżżel il-Fajl ta’ Attività Qarib — il-Marokk</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Near Activity File herunterladen – Marokko</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Download Near Activity File — Marokko</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Télécharger Fichier d’activité proche — Maroc</dct:title>
+            <dct:title xml:lang="en">Download Near Activity File - Morocco</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Pobierz plik aktywności w pobliżu – Maroko</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Stiahnite si súbor v blízkosti činnosti – Maroko</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/xml"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="da-t-en-t0-mtec">Hent Aktivitetsfil i nærheden — Marokko</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Lataa lähellä toimintotiedostoa – Marokko</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Hämta nära aktivitetsfil – Marocko</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/d9491fff-681b-48f2-ac14-5181f35dc5f5</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+            </dct:format>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Letöltés Near Activity fájl – Marokkó</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/c_2e7c1ac5"/>
+        <dct:title xml:lang="sv-t-en-t0-mtec">GD Grannskapspolitik och utvidgningsförhandlingar – Stöd till Marocko</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">DG NEAR – Pomoc dla Maroka</dct:title>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur les projets financés au Maroc par l’intermédiaire de l’instrument européen de voisinage et de l’instrument européen de voisinage et de partenariat. Veuillez noter que l’aide financière au Maroc de 2010 à 2014 a été traitée par la DG DEVCO — Direction générale du développement international et de la coopération.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">DĠ NEAR — Għajnuna lill-Marokk</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">DG NEAR — Asistencia a Marruecos</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teave projektide kohta, mida Marokos rahastatakse Euroopa naabruspoliitika rahastamisvahendist ning Euroopa naabrus- ja partnerlusinstrumendist. Juhime Teie tähelepanu sellele, et Marokole aastatel 2010–2014 antud finantsabiga tegeles rahvusvahelise arengu ja koostöö peadirektoraat.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over projecten die in Marokko worden gefinancierd via het Europees nabuurschapsinstrument en het Europees nabuurschaps- en partnerschapsinstrument. Er zij op gewezen dat de financiële bijstand aan Marokko van 2010 tot 2014 is behandeld door DG DEVCO, directoraat-generaal Internationale Ontwikkeling en Samenwerking. Informatie over projecten die in Marokko worden gefinancierd via het Europees nabuurschapsinstrument en het Europees nabuurschaps- en partnerschapsinstrument.
+Er zij op gewezen dat de financiële bijstand aan Marokko van 2010 tot 2014 is behandeld door DG DEVCO, directoraat-generaal Internationale Ontwikkeling en Samenwerking.</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">DG NEAR – Támogatás Marokkónak</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="da-t-en-t0-mtec">GD NEAR — Bistand til Marokko</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Glavna uprava za susjedsku politiku i pregovore o proširenju – Pomoć Maroku</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Kaimynystės politikos ir plėtros derybų GD – pagalba Marokui</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o projektima financiranima u Maroku putem Europskog instrumenta za susjedstvo i Europskog instrumenta za susjedstvo i partnerstvo. Napominjemo da je financijsku pomoć Maroku od 2010. do 2014. pružala Glavna uprava za međunarodnu suradnju i razvoj – Glavna uprava za međunarodnu suradnju i razvoj.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sui progetti finanziati in Marocco attraverso lo strumento europeo di vicinato e lo strumento europeo di vicinato e partenariato. Si noti che l'assistenza finanziaria al Marocco dal 2010 al 2014 è stata gestita dalla DG DEVCO — Direzione generale per lo sviluppo e la cooperazione internazionale. Informazioni sui progetti finanziati in Marocco attraverso lo strumento europeo di vicinato e lo strumento europeo di vicinato e partenariato.
+Si noti che l'assistenza finanziaria al Marocco dal 2010 al 2014 è stata gestita dalla DG DEVCO — Direzione generale per lo sviluppo e la cooperazione internazionale.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/723c72e0-4c10-4fa5-a667-770ee3bf0311">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://eeas.europa.eu/delegations/morocco/index_fr.htm">
+                <schema:url>http://eeas.europa.eu/delegations/morocco/index_fr.htm</schema:url>
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasEmail rdf:resource="mailto:Delegation-morocco@eeas.europa.eu"/>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+2120537579800">
+                <vcard:hasValue rdf:resource="tel:+2120537579800"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/eda14ddc-5d9b-4e25-bb32-eb16c364d6d2">
+                <vcard:street-address>RIAD BUSINESS CENTER</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Delegation of the European Union to the Kingdom of Morocco</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="el-t-en-t0-mtec">ΓΔ NEAR — Βοήθεια προς το Μαρόκο</dct:title>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        </dct:accrualPeriodicity>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Информация за проекти, финансирани в Мароко чрез Европейския инструмент за съседство и чрез Европейския инструмент за съседство и партньорство. Моля, имайте предвид, че финансовата помощ за Мароко от 2010 г. до 2014 г. беше разгледана от ГД „Международно сътрудничество и развитие„— Генерална дирекция „Международно развитие и сътрудничество“.</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind proiectele finanțate în Maroc prin intermediul Instrumentului european de vecinătate și al Instrumentului european de vecinătate și parteneriat. Vă atragem atenția asupra faptului că asistența financiară acordată Marocului în perioada 2010-2014 a fost gestionată de DG DEVCO – Direcția Generală Dezvoltare și Cooperare Internațională.</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">DG NEAR — Cúnamh do Mharacó</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om projekter, der finansieres i Marokko gennem det europæiske naboskabsinstrument og gennem det europæiske naboskabs- og partnerskabsinstrument. Bemærk, at den finansielle bistand til Marokko fra 2010 til 2014 blev behandlet af GD DEVCO — Generaldirektoratet for International Udvikling og Samarbejde. Oplysninger om projekter, der finansieres i Marokko gennem det europæiske naboskabsinstrument og gennem det europæiske naboskabs- og partnerskabsinstrument.
+Bemærk, at den finansielle bistand til Marokko fra 2010 til 2014 blev behandlet af GD DEVCO — Generaldirektoratet for International Udvikling og Samarbejde.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o projektoch financovaných v Maroku prostredníctvom nástroja európskeho susedstva a nástroja európskeho susedstva a partnerstva. Upozorňujeme, že finančnú pomoc Maroku od roku 2010 do roku 2014 riešilo GR DEVCO – Generálne riaditeľstvo pre medzinárodný rozvoj a spoluprácu.</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">NEAR ĢD — Palīdzība Marokai</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://www.iatiregistry.org/dataset/ec-near-ma">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/dg-near-assistance-to-morocco"/>
+            <schema:url>http://www.iatiregistry.org/dataset/ec-near-ma</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2016-01-29</dct:issued>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1819"/>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par projektiem, kas Marokā finansēti, izmantojot Eiropas kaimiņattiecību instrumentu un Eiropas Kaimiņattiecību un partnerības instrumentu. Lūdzu, ņemiet vērā, ka finansiālo palīdzību Marokai laikposmā no 2010. līdz 2014. gadam sniedza DG DEVCO — Starptautiskās attīstības un sadarbības ģenerāldirektorāts.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/437422"/>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis faoi thionscadail arna maoiniú i Maracó tríd an Ionstraim Eorpach um Chomharsanacht agus tríd an Ionstraim Eorpach um Chomharsanacht agus um Chomhpháirtíocht. Tabhair do d’aire, le do thoil, gur dhéileáil DG DEVCO — Ard-Stiúrthóireacht um Fhorbairt Idirnáisiúnta agus Comhar Idirnáisiúnta le cúnamh airgeadais do Mharacó ó 2010 go 2014. Faisnéis faoi thionscadail arna maoiniú i Maracó tríd an Ionstraim Eorpach um Chomharsanacht agus tríd an Ionstraim Eorpach um Chomharsanacht agus um Chomhpháirtíocht.
+Tabhair do d’aire, le do thoil, gur dhéileáil DG DEVCO — Ard-Stiúrthóireacht um Fhorbairt Idirnáisiúnta agus Comhar Idirnáisiúnta le cúnamh airgeadais do Mharacó ó 2010 go 2014.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/7932"/>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με έργα που χρηματοδοτούνται στο Μαρόκο μέσω του Ευρωπαϊκού Μηχανισμού Γειτονίας και μέσω του Ευρωπαϊκού Μηχανισμού Γειτονίας και Εταιρικής Σχέσης. Σημειωτέον ότι η χρηματοδοτική συνδρομή προς το Μαρόκο από το 2010 έως το 2014 διεκπεραιώθηκε από τη ΓΔ DEVCO — Γενική Διεύθυνση Διεθνούς Ανάπτυξης και Συνεργασίας.</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Información sobre proyectos financiados en Marruecos a través del Instrumento Europeo de Vecindad y del Instrumento Europeo de Vecindad y Asociación. Téngase en cuenta que la ayuda financiera a Marruecos de 2010 a 2014 fue gestionada por la DG DEVCO, Dirección General de Desarrollo Internacional y Cooperación.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:09:57Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:46:39Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

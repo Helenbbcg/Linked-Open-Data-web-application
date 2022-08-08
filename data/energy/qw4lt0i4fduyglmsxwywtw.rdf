@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/qw4lt0i4fduyglmsxwywtw">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-18T18:16:59Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>f0eab161806d7e74d7f615e7679eb42</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/qw4lt0i4fduyglmsxwywtw">
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/58b83312-fc23-4a52-8c74-6b731380c056">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/3cb1fcd1-bd3f-453c-8d61-8843ba113585">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e1abc4de-78d7-42ed-9a34-d946f9ab418b">
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/d357092d-efd6-425e-a3cb-88f9164fe093</dct:identifier>
+            <dct:title xml:lang="fr">Consommation désagrégée d'énergie finale dans l'industrie – quantités par activité NACE Rév. 2</dct:title>
+            <dct:title xml:lang="de">Aufgeschlüsselter energetischer Endverbrauch in Industrie – Mengen nach NACE Rev. 2</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_d_indq_n.sdmx.zip"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="en">Disaggregated final energy consumption in industry - quantities by NACE Rev. 2 activity</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qw4lt0i4fduyglmsxwywtw"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qw4lt0i4fduyglmsxwywtw"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        </dcat:theme>
+        <dct:title xml:lang="fr">Consommation désagrégée d'énergie finale dans l'industrie – quantités par activité NACE Rév. 2</dct:title>
+        <dct:identifier>nrg_d_indq_n</dct:identifier>
+        <dct:title xml:lang="en">Disaggregated final energy consumption in industry - quantities by NACE Rev. 2 activity</dct:title>
+        <dct:description xml:lang="fr">Consommation désagrégée d'énergie finale dans l'industrie – quantités par activité NACE Rév. 2</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-18</dct:modified>
+        <dct:description xml:lang="de">Aufgeschlüsselter energetischer Endverbrauch in Industrie – Mengen nach NACE Rev. 2</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_d_indq_n">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_d_indq_n</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_d_indq_n</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qw4lt0i4fduyglmsxwywtw"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9e8b989b-cb98-42eb-9f16-78e75a9060b1">
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="en">Disaggregated final energy consumption in industry - quantities by NACE Rev. 2 activity</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_d_indq_n.tsv.gz"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Consommation désagrégée d'énergie finale dans l'industrie – quantités par activité NACE Rév. 2</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="de">Aufgeschlüsselter energetischer Endverbrauch in Industrie – Mengen nach NACE Rev. 2</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4e249009-63d1-414c-aadb-d61b40f7bce3</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Aufgeschlüsselter energetischer Endverbrauch in Industrie – Mengen nach NACE Rev. 2</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/c0abc766-8cda-4e30-83be-0bb790138f9f">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2017-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_d_indq_n"/>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:identifier>http://data.europa.eu/88u/dataset/Qw4lt0i4fdUyglMsxWYwtw</dct:identifier>
+        <dct:description xml:lang="en">Disaggregated final energy consumption in industry - quantities by NACE Rev. 2 activity</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2341d9ff-8d8b-4573-88c5-42e1a88ce522">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_d_indq_n.tsv.gz&amp;unzip=true"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Consommation désagrégée d'énergie finale dans l'industrie – quantités par activité NACE Rév. 2</dct:title>
+            <dct:title xml:lang="en">Disaggregated final energy consumption in industry - quantities by NACE Rev. 2 activity</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ac0c5e56-e5d0-4f73-b97c-a39ff73ca34a</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Aufgeschlüsselter energetischer Endverbrauch in Industrie – Mengen nach NACE Rev. 2</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:18:40Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:18:40Z</edp:transIssued>
+    <dct:identifier>Qw4lt0i4fdUyglMsxWYwtw</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/qw4lt0i4fduyglmsxwywtw"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

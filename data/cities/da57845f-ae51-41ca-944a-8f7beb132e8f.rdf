@@ -1,0 +1,479 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/da57845f-ae51-41ca-944a-8f7beb132e8f">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-14T23:45:20Z</edp:transIssued>
+    <dct:identifier>da57845f-ae51-41ca-944a-8f7beb132e8f</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>8aca8e3dc0f1edac89b4145a14d7fe21</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-14T23:46:29Z</edp:transReceived>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f">
+        <dcat:keyword>verkehrstechnik</dcat:keyword>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui os locais das unidades de controle de sinal de luz pertencentes à Hanseatic and University City of Rostock, gerenciadas pela Stadtwerke Rostock AG, com informações sobre número, número de nó e designação. Os recursos são geralmente atualizados nos seguintes intervalos: 7 dias</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:title>Lichtsignalanlagen</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a0729daf-cb76-4e03-a55d-28bebeb86e54">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-06-10T14:56:26</dct:issued>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >70458</dcat:byteSize>
+            <dct:identifier>https://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f/resource/81c0068a-e2b1-405a-8f8c-43e962df6a75</dct:identifier>
+            <dct:title>Lichtsignalanlagen</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >20c2379ede432fe45c3c520d14fbc895f685444f9a5a58fddcd04330e35eede6</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.xlsx"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T03:37:15</dct:modified>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.xlsx"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter placeringen af de lyssignalkontrolenheder, der ejes af Hansestaden og University City of Rostock, og som forvaltes af Stadtwerke Rostock AG, med oplysninger om nummer, nodenummer og betegnelse. Ressourcerne opdateres normalt med følgende intervaller: 7 dage</dct:description>
+        <dcat:keyword>straßenverkehrstechnik</dcat:keyword>
+        <dcat:keyword>verkehr</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/00767ee7-610b-4c5c-81f1-a2aba2083ced">
+            <foaf:name>Stadtwerke Rostock AG</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:identifier>da57845f-ae51-41ca-944a-8f7beb132e8f</dct:identifier>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jinkludi l-postijiet tal-unitajiet ta’ kontroll tas-sinjali tad-dawl li huma proprjetà tal-Hanseatic u l-Belt tal-Università ta’ Rostock, ġestiti minn Stadtwerke Rostock AG, b’informazzjoni dwar in-numru, in-numru tan-nodu u d-deżinjazzjoni. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 7 ijiem</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje lokacije jedinica za kontrolu svjetlosnog signala u vlasništvu Hanseatic i University City of Rostock, kojima upravlja Stadtwerke Rostock AG, s informacijama o broju, broju čvora i oznaci. Resursi se obično ažuriraju u sljedećim intervalima: 7 dana</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje umístění řídicích jednotek světelného signálu, které vlastní Hanseatic a University City of Rostock, spravované společností Stadtwerke Rostock AG, s informacemi o čísle, čísle uzlu a označení. Zdroje se obvykle aktualizují v následujících intervalech: 7 dní</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear leis an tacar sonraí seo suíomhanna na n-aonad rialaithe comharthaí éadroma atá faoi úinéireacht Hanseatic agus University City of Rostock, atá á bhainistiú ag Stadtwerke Rostock AG, le faisnéis maidir le líon, uimhir nód agus ainmniú. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 7 lá</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7c7d9b64-a36a-453e-bc94-f3d16c261bc3">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f/resource/c841a58f-6fb3-427e-965c-dd4691bd3b11</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-06-10T14:56:26</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/lichtsignalanlagen/wms"/>
+            <dct:title>Lichtsignalanlagen</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T03:37:15</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä tietokokonaisuus sisältää Stadtwerke Rostock AG:n hallinnoimien Rostockin Hanseaticin ja University City of Rostockin omistamien valosignaalien ohjausyksiköiden sijainnit sekä tiedot numerosta, solmun numerosta ja nimeämisestä. Resursseja päivitetään yleensä seuraavin väliajoin:
+7 päivää</dct:description>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0ef4744e-833d-47c7-9d83-b75519a5de98">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T03:37:15</dct:modified>
+            <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >358372</dcat:byteSize>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.json"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.json"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-06-10T14:56:26</dct:issued>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >b59995ad7eeb61116ffd18cebe003c5989b542c8332c9c997d9bec36a8dde27d</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+            <dct:title>Lichtsignalanlagen</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f/resource/5e002aea-3517-4412-8686-f5ff213e2869</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje lokacije enot za nadzor svetlobnih signalov v lasti Hanseatic in University City of Rostock, ki ga upravlja Stadtwerke Rostock AG, z informacijami o številu, številki vozlišča in oznaki. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 7 dni</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa umiestnenie jednotiek riadenia svetelného signálu vo vlastníctve Hanseatic a University City of Rostock, ktoré spravuje Stadtwerke Rostock AG, s informáciami o čísle, čísle uzla a označení. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 7 dní</dct:description>
+        <dcat:keyword>straßenverkehr</dcat:keyword>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει τις θέσεις των μονάδων ελέγχου ελαφρού σήματος που ανήκουν στο Hanseatic και το University City of Rostock, το οποίο διαχειρίζεται η Stadtwerke Rostock AG, με πληροφορίες σχετικά με τον αριθμό, τον αριθμό κόμβου και τον χαρακτηρισμό. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 7 ημέρες</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de locaties van de lichtsignaalbesturingseenheden die eigendom zijn van de Hanzestad Rostock, beheerd door Stadtwerke Rostock AG, met informatie over nummer, knoopnummer en benaming. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 7 dagen</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+        <dct:accessRights>public</dct:accessRights>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва местоположението на устройствата за управление на светлинния сигнал, притежавани от Hanseatic и University City of Rostock, управлявани от Stadtwerke Rostock AG, с информация за номера, номера на възела и обозначението. Ресурсите обикновено се актуализират на следните интервали: 7 дни</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet tartalmazza a Stadtwerke Rostock AG által kezelt Hanseatic és University City of Rostock tulajdonában lévő fényjel-vezérlő egységek helyét, a számra, a csomópontszámra és a kijelölésre vonatkozó információkkal. Az erőforrásokat általában a következő időközönként frissítik: 7 nap</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2a2b52eb-3218-4116-a20e-6e979f369245">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/lichtsignalanlagen/wfs"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T03:37:15</dct:modified>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-06-26T12:56:39</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f/resource/09a870d9-8cfb-4e38-a5b4-889e70c4dc85</dct:identifier>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+            <dct:title>Lichtsignalanlagen</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zestaw danych zawiera lokalizacje jednostek sterowania sygnałem świetlnym należących do Hanzeatyków i University City of Rostock, zarządzanych przez Stadtwerke Rostock AG, wraz z informacją o numerze, numerze węzła i wyznaczeniu. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 7 dni</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima šviesos signalų valdymo vienetų, priklausančių Hanzos ir universiteto Rostoko mieste, vietas, kurias valdo Stadtwerke Rostock AG, su informacija apie skaičių, mazgo numerį ir pavadinimą. Ištekliai paprastai atnaujinami tokiais intervalais: 7 dienos</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les emplacements des unités de commande d’installations de signalisation lumineuse appartenant à la ville hanséatique et universitaire de Rostock, gérée par Stadtwerke Rostock AG, avec des informations sur le numéro, le numéro de nœud et le nom. Les ressources sont généralement mises à jour à l’intervalle suivant: 7 jours</dct:description>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dcat:keyword>stadtverkehr</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati comprende le posizioni delle unità di controllo del segnale luminoso di proprietà della città anseatica e universitaria di Rostock, gestite da Stadtwerke Rostock AG, con informazioni su numero, numero di nodi e designazione. Le risorse sono solitamente aggiornate ai seguenti intervalli: 7 giorni</dct:description>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Lichtsignalanlagensteuergeräte im Eigentum der Hanse- und Universitätsstadt Rostock, bewirtschaftet durch die Stadtwerke Rostock AG, mit Informationen zu Nummer, Knoten-Nummer und Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 7 Tage</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b1d4a7ea-da55-4fed-812c-d84459be84d9">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+            <dct:title>Lichtsignalanlagen</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T03:37:15</dct:modified>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-06-10T14:56:26</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f/resource/8176e00c-5a6a-44a2-8819-4e169b28a706</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >b047b0f671f00abdeb29a02d6eea18aef1f5415f89dbb28e8c88494c1a6072a5</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.kml"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.kml"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >558827</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This data set includes the locations of the light signal control units owned by the Hanseatic and University City of Rostock, managed by Stadtwerke Rostock AG, with information on number, node number and designation. The resources are usually updated at the following intervals: 7 days</dct:description>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna datauppsättning omfattar placeringen av de ljussignalkontrollenheter som ägs av Hanseatiska och Universitetsstaden Rostock, som förvaltas av Stadtwerke Rostock AG, med information om nummer, nodnummer och beteckning. Resurserna uppdateras vanligtvis med följande intervall: 7 dagar</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:33:57.885483</dct:modified>
+        <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Stadtwerke Rostock AG</foaf:name>
+            <foaf:mbox>kundenzentrum@swrag.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+        <dcat:keyword>verkehrsinfrastruktur</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye la ubicación de las unidades de control de señales luminosas propiedad de la ciudad hanseática y universitaria de Rostock, gestionada por Stadtwerke Rostock AG, con información sobre el número, el número de nodo y la designación. Por lo general, los recursos se actualizan en los siguientes intervalos: 7 días</dct:description>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+        <dcat:keyword>verkehrslenkung</dcat:keyword>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include locațiile unităților de control al semnalului luminos deținute de Hanseatic și University City of Rostock, gestionate de Stadtwerke Rostock AG, cu informații privind numărul, numărul nodului și denumirea. Resursele sunt, de obicei, actualizate la următoarele intervale: 7 zile</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/86f629dc-3bd8-4e7f-9410-d0a5fcbb52f2">
+            <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >47bb822e49220c81e4c94ad7f7b9fcbae4b2e8c1ee172cb27073db9003d9c4cf</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >1187410</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f/resource/83de273d-3173-4789-90b6-0b6c7c861836</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.gml"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T03:37:15</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-06-10T14:56:26</dct:issued>
+            <dct:title>Lichtsignalanlagen</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.gml"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/252a0ac0-5142-4627-b228-95cdd0b75cd0">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Svetlobno-signalni sistemi</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T03:37:15</dct:modified>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sisteme de semnalizare luminoasă</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Sistemi ta’ sinjalar bid-dawl</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Fényjelző rendszerek</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Lyssignalsystemer</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šviesos signalizavimo sistemos</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Sistemas de señalización luminosa</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Systèmes de signalisation lumineuse</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Córais chomharthaíochta solais</dct:title>
+            <dct:title>Lichtsignalanlagen</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.csv"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valgussignaalsüsteemid</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valomerkinantojärjestelmät</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Systemy sygnalizacji świetlnej</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >136497</dcat:byteSize>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Světelné signalizační systémy</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-06-10T14:56:26</dct:issued>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Системи за светлинна сигнализация</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/da57845f-ae51-41ca-944a-8f7beb132e8f/resource/0bdf2f74-3cf4-4db3-8fe9-ecb2c125bb72</dct:identifier>
+            <dct:title xml:lang="el-t-de-t0-mtec">Συστήματα φωτεινής σηματοδότησης</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ljussignalsystem</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/lichtsignalanlagen/lichtsignalanlagen.csv"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Light signalling systems</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Sistemi di segnalazione luminosa</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Sistemas de sinalização luminosa</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sustavi svjetlosne signalizacije</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Systémy svetelnej signalizácie</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Lichtsignaalsystemen</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >902b5d9100e88823d49c98b3ed0de15fa7a9ee6c645b63426eb6e428ca089ee0</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Gaismas signalizācijas sistēmas</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver atrašanās vietas gaismas signāla vadības blokiem pieder Hanseatic un University City of Rostokas, kas pārvalda Stadtwerke Rostock AG, ar informāciju par numuru, mezglu numuru un apzīmējumu. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 7 dienas</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum hõlmab Hanseatici ja Rostocki Ülikooli linnale kuuluvate valgussignaalide juhtimisüksuste asukohti, mida haldab Stadtwerke Rostock AG, koos teabega numbri, sõlmenumbri ja nimetuse kohta. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 7 päeva</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:28Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T14:11:36Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/da57845f-ae51-41ca-944a-8f7beb132e8f"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

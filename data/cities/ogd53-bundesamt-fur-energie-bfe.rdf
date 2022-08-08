@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/ogd53-bundesamt-fur-energie-bfe">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:05:14Z</edp:transReceived>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/ogd53-bundesamt-fur-energie-bfe"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:32Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:06:53Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/ogd53-bundesamt-fur-energie-bfe">
+        <dct:description xml:lang="fi-t-de-t0-mtec">Sähköinen liikkuvuus on keskeinen teknologia kestävämmän liikkuvuuden kannalta, ja se edistää kunnianhimoisten energia- ja ilmastopoliittisten tavoitteiden saavuttamista.
+Sähkökäyttö on tehokasta ja sähkön käyttö mahdollistaa uusiutuvien energialähteiden käytön. ich-tanke-strom.ch osoittaa sähköautojen latauspisteiden saatavuuden reaaliajassa.
+Tällä hetkellä näytetään laajimman latausverkon latausasemat.
+BFE kutsuu mukaan muita kiinnostuneita sähköajoneuvojen julkisten latausasemien tarjoajia.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T00:00:00</dct:modified>
+        <dct:description xml:lang="el-t-de-t0-mtec">Η ηλεκτροκίνηση αποτελεί βασική τεχνολογία για πιο βιώσιμη κινητικότητα και συμβάλλει στην επίτευξη φιλόδοξων στόχων πολιτικής για την ενέργεια και το κλίμα. Οι ηλεκτροκινητήρες είναι αποδοτικοί και η χρήση ηλεκτρικής ενέργειας επιτρέπει τη χρήση ανανεώσιμων πηγών ενέργειας. Το ich-tanke-strom.ch δείχνει τη διαθεσιμότητα σημείων φόρτισης για ηλεκτρικά οχήματα σε πραγματικό χρόνο. Επί του παρόντος, εμφανίζονται οι σταθμοί φόρτισης των μεγαλύτερων δικτύων φόρτισης. Η BFE καλεί και άλλους ενδιαφερόμενους παρόχους δημόσιων σταθμών φόρτισης για ηλεκτρικά οχήματα να συμμετάσχουν.</dct:description>
+        <dct:description xml:lang="it">I veicoli elettrici rappresentano una tecnologia chiave per una mobilità più sostenibile e contribuiscono al raggiungimento di ambiziosi obiettivi di politica energetica e climatica. I motori elettrici sono efficienti e possono essere alimentati con energia elettrica prodotta da fonti rinnovabili. pieno-di-elettricita.ch mostra in tempo reale la disponibilità delle stazioni di ricarica elettriche. Attualmente sono visualizzate le stazioni delle maggiori reti di ricarica. L'UFE invita gli altri operatori di stazioni di ricarica pubbliche per veicoli elettrici a unirsi a questa iniziativa. </dct:description>
+        <dct:language>it</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Töltőállomások elektromos autókhoz</dct:title>
+        <dcat:keyword xml:lang="fr">je-recharge-mon-auto</dcat:keyword>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Elektromobilnost je ključna tehnologija za bolj trajnostno mobilnost in prispeva k doseganju ambicioznih ciljev energetske in podnebne politike.
+Električni pogoni so učinkoviti in uporaba električne energije omogoča uporabo obnovljivih virov energije. ich-tanke-strom.ch prikazuje razpoložljivost polnilnih mest za električna vozila v realnem času.
+Trenutno so prikazane polnilne postaje največjih polnilnih omrežij.
+BFE vabi druge zainteresirane ponudnike javnih polnilnih postaj za električna vozila.</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Elektriautode laadimisjaamad</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/population"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/national-economy"/>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Laadpalen voor elektrische auto’s</dct:title>
+        <dct:description xml:lang="fr">La mobilité électrique constitue une technologie clé pour une mobilité plus durable, contribuant à la réalisation des objectifs ambitieux définis en matière de politique énergétique et climatique. Les moteurs électriques sont efficaces et peuvent fonctionner avec de l’électricité issue des énergies renouvelables. Le site www.je-recharge-mon-auto.ch affiche, en temps réel, la disponibilité de stations de recharge pour véhicules électriques. Les stations des principaux réseaux de recharge s’affichent d’ores et déjà. L’OFEN invite les autres fournisseurs proposant des stations de recharge accessibles au public qui le souhaitent à faire figurer leur emplacement sur ce site.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/tourism"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:title xml:lang="it">Stazioni di ricarica per auto elettriche</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c01b9d24-2c9a-49dd-b84a-4c18b3e6721a">
+            <dct:description xml:lang="fr-t-de-t0-mtec">Pour plus d’informations, voir https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">För mer information, se https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Għal aktar informazzjoni, ara https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/df6ecca9-1097-46ad-aa71-97f3f1a32f51/resource/e33957be-180a-422b-90a5-fbfe9774927a</dct:identifier>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Voor meer informatie, zie https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Faisnéis statach maidir le stáisiúin luchtaithe (EVSEData) — a nuashonraítear go leanúnach</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">For more information, see https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Статична інформація зарядних станцій (EVSEData) - постійно оновлюється</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Įkrovimo stotelių statinė informacija (EVSEData) – nuolat atnaujinama</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Statisk information om laddstationer (EVSEData) – kontinuerligt uppdaterad</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Статична информация за станциите за зареждане (EVSEData) — непрекъснато актуализирана</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Información estática de estaciones de carga (EVSEData) — actualizada continuamente</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Aby uzyskać więcej informacji, zobacz https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Informations statiques des stations de recharge (EVSEData) — mise à jour en continu</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Další informace naleznete na adrese https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Για περισσότερες πληροφορίες, βλ. https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">Static information of charging stations (EVSEData) — continuously updated</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Informacje statyczne stacji ładowania (EVSEData) – stale aktualizowane</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Statiskā informācija par uzlādes stacijām (EVSEData) — pastāvīgi atjaunināta</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">За повече информация вж. https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/oicp/ch.bfe.ladestellen-elektromobilitaet.json"/>
+            <dct:description xml:lang="hu-t-de-t0-mtec">További információkért lásd: https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Viac informácií nájdete na stránke https://github.com/SFOE/DIEMO-Documentation.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Statične informacije o polnilnih postajah (EVSEData) – stalno posodabljanje</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Lai iegūtu papildinformāciju, skatiet https://github.com/SFOE/DIEMO-Documentation.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-09-25T00:00:00</dct:issued>
+            <dct:description xml:lang="et-t-de-t0-mtec">Lisateabe saamiseks vt https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-17T00:00:00</dct:modified>
+            <dct:description xml:lang="es-t-de-t0-mtec">Para obtener más información, consulte https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/oicp/ch.bfe.ladestellen-elektromobilitaet.json"/>
+            <dct:description xml:lang="da-t-de-t0-mtec">For yderligere oplysninger, se https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Informazzjoni statika tal-istazzjonijiet tal-iċċarġjar (EVSEData) — aġġornata kontinwament</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Laadimisjaamade staatiline teave (EVSEData) – pidevalt ajakohastatav</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A töltőállomások statikus információi (EVSEData) – folyamatosan frissítve</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Informații statice ale stațiilor de încărcare (EVSEData) – actualizate continuu</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Pentru mai multe informații, consultați https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Statické informácie o nabíjacích staniciach (EVSEData) – priebežne aktualizované</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="it-t-de-t0-mtec">Per ulteriori informazioni, vedere https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Statische informatie van laadpalen (EVSEData) — continu bijgewerkt</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Latausasemien staattiset tiedot (EVSEData) – päivitetään jatkuvasti</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Statiske oplysninger om ladestationer (EVSEData) — løbende opdateret</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Informações estáticas das estações de carregamento (EVSEData) — continuamente atualizadas</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Daugiau informacijos rasite https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Lisätietoja on osoitteessa https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="de">Statische Informationen der Ladestationen (EVSEData) - kontinuierlich aktualisiert</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Chun tuilleadh eolais a fháil, féach https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Для отримання додаткової інформації див. статтю https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Statické informace o nabíjecích stanicích (EVSEData) – průběžně aktualizovány</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Statičke informacije o postajama za punjenje (EVSEData) – stalno ažuriranje</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Στατικές πληροφορίες σταθμών φόρτισης (EVSEData) — συνεχώς ενημερωμένες</dct:title>
+            <dct:format>JSON</dct:format>
+            <dct:description xml:lang="de">Für weitere Informationen siehe https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Za više informacija vidjeti https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Za več informacij glej https://github.com/SFOE/DIEMO-Documentation.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Para mais informações, consulte https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="it-t-de-t0-mtec">Informazioni statiche delle stazioni di ricarica (EVSEData) — costantemente aggiornate</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Elektromobilių įkrovimo stotelės</dct:title>
+        <dct:identifier>ogd53@bundesamt-fur-energie-bfe</dct:identifier>
+        <dct:description xml:lang="es-t-de-t0-mtec">La electromovilidad es una tecnología clave para una movilidad más sostenible y contribuye al logro de ambiciosos objetivos de política energética y climática. Los accionamientos eléctricos son eficientes y el uso de electricidad permite el uso de energías renovables. ich-tanke-strom.ch muestra la disponibilidad de puntos de carga para vehículos eléctricos en tiempo real. Actualmente, se muestran las estaciones de carga de las redes de carga más grandes. El BFE invita a otros proveedores interesados de estaciones de carga públicas para vehículos eléctricos a unirse.</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Elektromobilitāte ir galvenā tehnoloģija ilgtspējīgākai mobilitātei un palīdz sasniegt vērienīgus enerģētikas un klimata politikas mērķus. Elektriskā piedziņa ir efektīva, un elektroenerģijas izmantošana ļauj izmantot atjaunojamos energoresursus. ich-tanke-strom.ch parāda elektrotransportlīdzekļu uzlādes punktu pieejamību reālajā laikā. Pašlaik tiek rādītas lielāko uzlādes tīklu uzlādes stacijas. BFE aicina pievienoties citiem ieinteresētajiem elektrotransportlīdzekļu publisko uzlādes staciju nodrošinātājiem.</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Електромобільність є ключовою технологією для більш стійкої мобільності і сприяє досягненню амбітних цілей енергетичної та кліматичної політики.
+Електричні приводи ефективні, а використання електроенергії дозволяє використовувати поновлювані джерела енергії. ich-tanke-strom.ch показує наявність точок зарядки для електромобілів в режимі реального часу.
+В даний час відображаються зарядні станції найбільших зарядних мереж.
+BFE запрошує інших зацікавлених постачальників громадських зарядних станцій для електромобілів приєднатися.</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Stacje ładowania samochodów elektrycznych</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Elektromobilitet er en nøgleteknologi til mere bæredygtig mobilitet og bidrager til at nå ambitiøse energi- og klimapolitiske mål. Elektriske drev er effektive, og brugen af elektricitet gør det muligt at bruge vedvarende energi. ich-tanke-strom.ch viser tilgængeligheden af ladestandere til elektriske køretøjer i realtid. I øjeblikket vises ladestationerne i de største opladningsnet. BFE opfordrer andre interesserede udbydere af offentlige ladestationer til elektriske køretøjer til at tilslutte sig.</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Nabíjacie stanice pre elektromobily</dct:title>
+        <dcat:keyword xml:lang="de">ich-tanke-strom</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Stazzjonijiet tal-iċċarġjar għall-karozzi elettriċi</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Elektromobilność jest kluczową technologią dla bardziej zrównoważonej mobilności i przyczynia się do osiągnięcia ambitnych celów polityki energetycznej i klimatycznej. Napędy elektryczne są wydajne, a wykorzystanie energii elektrycznej pozwala na wykorzystanie energii odnawialnej. ich-tanke-strom.ch pokazuje dostępność punktów ładowania pojazdów elektrycznych w czasie rzeczywistym. Obecnie wyświetlane są stacje ładowania największych sieci ładowania. BFE zaprasza do przyłączenia się innych zainteresowanych dostawców publicznych stacji ładowania pojazdów elektrycznych.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Σταθμοί φόρτισης ηλεκτρικών αυτοκινήτων</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Stații de încărcare pentru mașini electrice</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Polnilne postaje za električne avtomobile</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Зарядні станції для електромобілів</dct:title>
+        <dcat:keyword xml:lang="it">pieno-di-elettricita</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.ich-tanke-strom.ch"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Elektromobilitet är en viktig teknik för mer hållbar rörlighet och bidrar till att ambitiösa energi- och klimatpolitiska mål uppnås.
+Elektriska drivenheter är effektiva och användningen av el möjliggör användning av förnybar energi. ich-tanke-strom.ch visar tillgången på laddningsstationer för elfordon i realtid.
+För närvarande visas laddstationerna i de största laddningsnäten.
+BFE inbjuder andra intresserade leverantörer av offentliga laddstationer för elfordon att ansluta sig.</dct:description>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/CONT"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Dobíjecí stanice pro elektromobily</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Elektromobilumas yra pagrindinė tvaresnio judumo technologija, padedanti siekti plataus užmojo energetikos ir klimato politikos tikslų. Elektros pavaros yra efektyvios, o elektros energijos naudojimas leidžia naudoti atsinaujinančią energiją. ich-tanke-strom.ch rodo, kad elektromobilių įkrovimo punktai yra prieinami realiuoju laiku. Šiuo metu rodomos didžiausių įkrovimo tinklų įkrovimo stotelės. BFE kviečia prisijungti kitus suinteresuotus viešųjų elektra varomų transporto priemonių įkrovimo stotelių teikėjus.</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Електромобилността е ключова технология за по-устойчива мобилност и допринася за постигането на амбициозните цели на политиката в областта на енергетиката и климата. Електрическите задвижвания са ефективни и използването на електроенергия позволява използването на възобновяеми енергийни източници. ich-tanke-strom.ch показва наличието на зарядни точки за електрически превозни средства в реално време. В момента се показват станциите за зареждане на най-големите зарядни мрежи. BFE кани други заинтересовани доставчици на обществени зарядни станции за електрически превозни средства да се присъединят.</dct:description>
+        <dct:title xml:lang="en">Charging points for electric cars</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Elektromobilita je kľúčovou technológiou udržateľnejšej mobility a prispieva k dosiahnutiu ambicióznych cieľov politiky v oblasti energetiky a klímy.
+Elektrické pohony sú efektívne a používanie elektrickej energie umožňuje využívanie obnoviteľných energií. ich-tanke-strom.ch ukazuje dostupnosť nabíjacích staníc pre elektrické vozidlá v reálnom čase.
+V súčasnosti sa zobrazujú nabíjacie stanice najväčších nabíjacích sietí.
+BFE vyzýva ďalších zainteresovaných poskytovateľov verejných nabíjacích staníc pre elektrické vozidlá, aby sa pripojili.</dct:description>
+        <dct:description xml:lang="de">Die Elektromobilität ist eine Schlüsseltechnologie für eine nachhaltigere Mobilität und trägt zur Erreichung ambitionierter energie- und klimapolitischer Ziele bei. Elektroantriebe sind effizient und der Einsatz von Strom erlaubt die Nutzung erneuerbarer Energien. ich-tanke-strom.ch zeigt die Verfügbarkeit von Ladestellen für Elektrofahrzeuge in Echtzeit an. Aktuell werden die Ladestationen der grössten Ladenetzwerke angezeigt. Das BFE lädt weitere interessierte Anbietende von öffentlichen Ladestationen für Elektrofahrzeuge ein, sich anzuschliessen.</dct:description>
+        <dct:description xml:lang="en">Electric mobility is a key technology for more sustainable mobility and is one way of achieving ambitious energy and climate policy goals. Electric engines are efficient, and using electricity means that renewable energies can also be used. recharge-my-car.ch shows where charging points for electric vehicles are available in real time. Currently the website displays the charging points offered by the largest charging networks. The SFOE invites other providers of public charging stations for electric vehicles to participate.</dct:description>
+        <dct:language>en</dct:language>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Estações de carregamento para carros elétricos</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Elektromobilnost je ključna tehnologija za održiviju mobilnost i doprinosi postizanju ambicioznih ciljeva energetske i klimatske politike. Električni pogoni su učinkoviti, a korištenje električne energije omogućuje korištenje obnovljivih izvora energije. ich-tanke-strom.ch pokazuje dostupnost mjesta za punjenje električnih vozila u stvarnom vremenu. Trenutačno su prikazane stanice za punjenje najvećih mreža za punjenje. BFE poziva druge zainteresirane pružatelje javnih punionica za električna vozila da se pridruže.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="en">recharge-my-car</dcat:keyword>
+        <dct:title xml:lang="de">Ladestationen für Elektroautos</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/bundesamt-fur-energie-bfe">
+            <foaf:name>Bundesamt für Energie &amp; Betreibende von Ladeinfrastruktur</foaf:name>
+            <foaf:name>Bundesamt für Energie BFE</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="et-t-de-t0-mtec">Elektromobiilsus on säästvama liikuvuse võtmetehnoloogia ning aitab saavutada ambitsioonikaid energia- ja kliimapoliitika eesmärke.
+Elektriajamid on tõhusad ja elektri kasutamine võimaldab kasutada taastuvenergiat. ich-tanke-strom.ch näitab elektrisõidukite laadimispunktide kättesaadavust reaalajas.
+Praegu kuvatakse suurimate laadimisvõrkude laadimisjaamad.
+BFE kutsub teisi huvitatud elektrisõidukite laadimisjaamade pakkujaid ühinema.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/statistical-basis"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Ladestationer til elbiler</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c790f99e-77c0-45fa-93cf-917000dbe0c7">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Para mais informações, consulte https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/status/oicp/ch.bfe.ladestellen-elektromobilitaet.json"/>
+            <dct:description xml:lang="et-t-de-t0-mtec">Lisateabe saamiseks vt https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Chun tuilleadh eolais a fháil, féach https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/status/oicp/ch.bfe.ladestellen-elektromobilitaet.json"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Tillgänglighetsinformation för laddstationer (EVSEStatus) – kontinuerligt uppdaterad</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="da-t-de-t0-mtec">Oplysninger om tilgængelighed af ladestationer (EVSEStatus) — løbende opdateret</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Informacje o dostępności stacji ładowania (EVSEStatus) – stale aktualizowane</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Faisnéis maidir le hinfhaighteacht na stáisiún luchtaithe (EVSEStatus) — a nuashonraítear go leanúnach</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πληροφορίες διαθεσιμότητας σταθμών φόρτισης (EVSEStatus) — συνεχώς ενημερωμένες</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Информация за наличността на зарядни станции (EVSEStatus) — непрекъснато актуализирана</dct:title>
+            <dct:title xml:lang="de">Verfügbarkeits-Informationen der Ladestationen (EVSEStatus) - kontinuierlich aktualisiert</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">További információkért lásd: https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Daugiau informacijos rasite https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Töltőállomások rendelkezésre állása (EVSEStatus) – folyamatosan frissítve</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Para obtener más información, consulte https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:format>JSON</dct:format>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Viac informácií nájdete na stránke https://github.com/SFOE/DIEMO-Documentation.</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">För mer information, se https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Informācija par uzlādes staciju pieejamību (EVSEStatus) — pastāvīgi atjaunināta</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Availability information of charging stations (EVSEStatus) — continuously updated</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Za više informacija vidjeti https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Informácie o dostupnosti nabíjacích staníc (EVSEStatus) – priebežne aktualizované</dct:title>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="en-t-de-t0-mtec">For more information, see https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Informații privind disponibilitatea stațiilor de încărcare (EVSEStatus) – actualizate în permanență</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">За повече информация вж. https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">Per ulteriori informazioni, vedere https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Pentru mai multe informații, consultați https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Voor meer informatie, zie https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Għal aktar informazzjoni, ara https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:00:00</dct:modified>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Latausasemien (EVSEStatus) saatavuustiedot – jatkuvasti päivitettävät</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">For yderligere oplysninger, se https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Lai iegūtu papildinformāciju, skatiet https://github.com/SFOE/DIEMO-Documentation.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Informacije o dostupnosti stanica za punjenje (EVSEStatus) – stalno ažuriranje</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Informace o dostupnosti nabíjecích stanic (EVSEStatus) – průběžně aktualizovány</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teave laadimisjaamade kättesaadavuse kohta (EVSEStatus) – pidevalt ajakohastatav</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Aby uzyskać więcej informacji, zobacz https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Įkrovimo stotelių (EVSEStatus) prieinamumo informacija – nuolat atnaujinama</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Disponibilidade de estações de carregamento (EVSEStatus) — atualizado continuamente</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Pour plus d’informations, voir https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Informations sur la disponibilité des bornes de recharge (EVSEStatus) — mise à jour en continu</dct:title>
+            <dct:description xml:lang="de">Für weitere Informationen siehe https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Za več informacij glej https://github.com/SFOE/DIEMO-Documentation.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Для отримання додаткової інформації див. статтю https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Informacije o razpoložljivosti polnilnih postaj (EVSEStatus) – stalno posodabljanje</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Další informace naleznete na adrese https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Informazioni sulla disponibilità delle stazioni di ricarica (EVSEStatus) — costantemente aggiornato</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Informazzjoni dwar id-disponibbiltà tal-istazzjonijiet tal-iċċarġjar (EVSEStatus) — aġġornata kontinwament</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-09-25T00:00:00</dct:issued>
+            <dct:description xml:lang="el-t-de-t0-mtec">Για περισσότερες πληροφορίες, βλ. https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Información de disponibilidad de estaciones de carga (EVSEStatus) — actualizada continuamente</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Beschikbaarheidsinformatie van laadpalen (EVSEStatus) — continu bijgewerkt</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Lisätietoja on osoitteessa https://github.com/SFOE/DIEMO-Documentation</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/df6ecca9-1097-46ad-aa71-97f3f1a32f51/resource/4d467a51-0bc9-48ce-aa2a-3d3bcaa7e7e9</dct:identifier>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Інформація про доступність зарядних станцій (EVSEStatus) - постійно оновлюється</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Elektromobiliteit is een belangrijke technologie voor duurzamere mobiliteit en draagt bij aan de verwezenlijking van ambitieuze energie- en klimaatdoelstellingen. Elektrische aandrijvingen zijn efficiënt en het gebruik van elektriciteit maakt het gebruik van hernieuwbare energie mogelijk. ich-tanke-strom.ch toont de beschikbaarheid van oplaadpunten voor elektrische voertuigen in real time. Momenteel worden de laadpalen van de grootste laadnetwerken weergegeven. De BFE nodigt andere geïnteresseerde aanbieders van openbare laadpalen voor elektrische voertuigen uit om mee te doen.</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Estaciones de carga para coches eléctricos</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Bundesamt für Energie</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:ogd@bfe.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="pt-t-de-t0-mtec">A eletromobilidade é uma tecnologia fundamental para uma mobilidade mais sustentável e contribui para a consecução de objetivos ambiciosos em matéria de política energética e climática. Os acionamentos elétricos são eficientes e o uso de eletricidade permite o uso de energias renováveis. ich-tanke-strom.ch mostra a disponibilidade de pontos de carregamento para veículos elétricos em tempo real. Atualmente, as estações de carregamento das maiores redes de carregamento são exibidas. O BFE convida outros fornecedores interessados de estações públicas de recarga para veículos elétricos a se juntarem.</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Elektromobilita je klíčovou technologií pro udržitelnější mobilitu a přispívá k dosažení ambiciózních cílů politiky v oblasti energetiky a klimatu. Elektrické pohony jsou účinné a využívání elektřiny umožňuje využití energie z obnovitelných zdrojů. ich-tanke-strom.ch ukazuje dostupnost dobíjecích stanic pro elektrická vozidla v reálném čase. V současné době jsou zobrazeny nabíjecí stanice největších nabíjecích sítí. BFE vyzývá ostatní zainteresované poskytovatele veřejných dobíjecích stanic pro elektrická vozidla, aby se připojili.</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Az elektromobilitás a fenntarthatóbb mobilitás kulcsfontosságú technológiája, és hozzájárul az ambiciózus energia- és éghajlat-politikai célok eléréséhez.
+Az elektromos hajtások hatékonyak, és a villamos energia használata lehetővé teszi a megújuló energiák használatát. ich-tanke-strom.ch mutatja, hogy az elektromos járművek töltőállomásai valós időben rendelkezésre állnak.
+Jelenleg a legnagyobb töltőhálózatok töltőállomásai jelennek meg.
+A BFE az elektromos járművek nyilvános töltőállomásainak más érdekelt szolgáltatóit is meghívja a csatlakozásra.</dct:description>
+        <dct:language>fr</dct:language>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Stanice za punjenje električnih automobila</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Sähköautojen latausasemat</dct:title>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Is teicneolaíocht lárnach í an leictrea-shoghluaisteacht le haghaidh soghluaisteacht níos inbhuanaithe agus rannchuidíonn sí le spriocanna uaillmhianacha beartais fuinnimh agus aeráide a bhaint amach. Tá tiomántáin leictreacha éifeachtach agus ceadaíonn úsáid leictreachais fuinnimh in-athnuaite a úsáid. Léiríonn ich-tanke-strom.ch infhaighteacht pointí luchtaithe d’fheithiclí leictreacha i bhfíor-am. Faoi láthair, taispeántar stáisiúin luchtaithe na líonraí luchtaithe is mó. Tugann an BFE cuireadh do sholáthraithe eile a bhfuil suim acu i stáisiúin luchtaithe phoiblí d’fheithiclí leictreacha páirt a ghlacadh ann.</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Laddstationer för elbilar</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/industry"/>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Stáisiúin luchtaithe do ghluaisteáin leictreacha</dct:title>
+        <dct:title xml:lang="fr">Stations de recharge pour voitures électriques</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Electromobilitatea este o tehnologie esențială pentru o mobilitate mai durabilă și contribuie la realizarea obiectivelor ambițioase ale politicii în domeniul energiei și al climei. Motoarele electrice sunt eficiente, iar utilizarea energiei electrice permite utilizarea energiilor regenerabile. ich-tanke-strom.ch arată disponibilitatea punctelor de încărcare pentru vehiculele electrice în timp real. În prezent, sunt afișate stațiile de încărcare ale celor mai mari rețele de încărcare. BFE invită alți furnizori interesați de stații publice de încărcare pentru vehiculele electrice să se alăture.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2019-09-25T00:00:00</dct:issued>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/construction"/>
+        <dct:description xml:lang="mt-t-de-t0-mtec">L-elettromobbiltà hija teknoloġija ewlenija għal mobbiltà aktar sostenibbli u tikkontribwixxi għall-kisba ta’ għanijiet ambizzjużi ta’ politika dwar l-enerġija u l-klima.
+Id-drives elettriċi huma effiċjenti u l-użu tal-elettriku jippermetti l-użu ta’ enerġiji rinnovabbli. Il-ich-tanke-strom.ch juri d-disponibbiltà ta’ punti tal-iċċarġjar għall-vetturi elettriċi f’ħin reali.
+Bħalissa, qed jintwerew l-istazzjonijiet tal-iċċarġjar tal-akbar netwerks tal-iċċarġjar.
+Il-BFE jistieden lil fornituri interessati oħra ta’ stazzjonijiet tal-iċċarġjar pubbliċi għall-vetturi elettriċi biex jissieħbu.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Зарядни станции за електрически автомобили</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Elektromobiļu uzlādes stacijas</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dct:relation>
+          <rdf:Description rdf:about="https://github.com/SFOE/DIEMO-Documentation">
+            <rdfs:label>Technical documentation</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:relation>
+          <rdf:Description rdf:about="https://github.com/SFOE/DIEMO-Documentation/blob/master/How_to_query_DIEMO.md">
+            <rdfs:label>API How-to and examples</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:23:46Z</dct:issued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>ae5dc40bae04074374ec63051d185b5</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>ogd53@bundesamt-fur-energie-bfe</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

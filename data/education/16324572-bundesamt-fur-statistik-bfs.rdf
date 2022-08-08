@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/16324572-bundesamt-fur-statistik-bfs">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>a882258ffb90bf733747689ccfdf9aca</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/16324572-bundesamt-fur-statistik-bfs"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>16324572@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:37:37Z</edp:transReceived>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/16324572-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="fr">diplomes-degre-secondaire-ii-et-formation-professionnelle-superieure</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-des-titres-delivres</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:10:36.667126</dct:modified>
+        <dct:title xml:lang="da-t-de-t0-mtec">Udvalgte uddannelsesindikatorer</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="it">rilevazione-campionaria</dcat:keyword>
+        <dcat:keyword xml:lang="fr">exploitation-de-registres</dcat:keyword>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-sulle-forze-di-lavoro-in-svizzera</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a4bedf9d-831a-4582-ae97-f81a1071f748">
+            <dct:title xml:lang="nl-t-de-t0-mtec">Geselecteerde educatieve indicatoren</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kiválasztott oktatási mutatók</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Odabrani obrazovni pokazatelji</dct:title>
+            <dct:identifier>16324579-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Indicadores educativos seleccionados</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Избрани образователни показатели</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Indicateurs d’éducation sélectionnés</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-06T00:00:00</dct:issued>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="de">Ausgewählte Bildungsindikatoren</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Вибрані освітні показники</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izbrani izobraževalni kazalniki</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Selected educational indicators</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valitud haridusnäitajad</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vybrané vzdělávací ukazatele</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Utvalda utbildningsindikatorer</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Atlasītie izglītības rādītāji</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pasirinkti švietimo rodikliai</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Indikaturi edukattivi magħżula</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Indicatori educaționali selectați</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wybrane wskaźniki edukacyjne</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vybrané vzdelávacie ukazovatele</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Επιλεγμένοι εκπαιδευτικοί δείκτες</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Indicatori educativi selezionati</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Indicadores educacionais selecionados</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Udvalgte uddannelsesindikatorer</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táscairí oideachais roghnaithe</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valitut koulutusindikaattorit</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.01.00.02"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">statistique-de-la-population-et-des-menages</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="fr">enquete-suisse-sur-la-population-active</dcat:keyword>
+        <dcat:keyword xml:lang="fr">enquete--par-sondage</dcat:keyword>
+        <dcat:keyword xml:lang="en">swiss-adult-education-survey</dcat:keyword>
+        <dcat:keyword xml:lang="de">statistik-der-abschlusse-und-diplome</dcat:keyword>
+        <dcat:keyword xml:lang="en">learners-pupils-and-students-schooling-and-vocationalprofessional-education-and-training</dcat:keyword>
+        <dcat:keyword xml:lang="fr">eleves-et-etudiants-formation-scolaire-et-professionnelle</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildungsabschlusse-sekundarstufe-ii-und-hohere-berufsbildung</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izbrani izobraževalni kazalniki</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.01.00.02"/>
+        <dcat:keyword xml:lang="it">statistica-di-titoli-e-diplomi</dcat:keyword>
+        <dcat:keyword xml:lang="it">microcensimento-formazione-di-base-e-formazione-continua</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Избрани образователни показатели</dct:title>
+        <dcat:keyword xml:lang="it">analisi-basata-sui-registri</dcat:keyword>
+        <dcat:keyword xml:lang="it">titoli-rilasciati-grado-secondario-ii-e-formazione-professionale-superiore</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Kiválasztott oktatási mutatók</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-de-letat-annuel-de-la-population-1981-2010</dcat:keyword>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Vybrané vzdelávacie ukazovatele</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wybrane wskaźniki edukacyjne</dct:title>
+        <dcat:keyword xml:lang="fr">etudiants-et-examens-finals-des-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="it">statistica-della-popolazione-e-delle-economie-domestiche</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Valitud haridusnäitajad</dct:title>
+        <dcat:keyword xml:lang="de">mikrozensus-aus--und-weiterbildung</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Indicadores educacionais selecionados</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Valitut koulutusindikaattorit</dct:title>
+        <dcat:keyword xml:lang="fr">depenses-publiques-deducation</dcat:keyword>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:keyword xml:lang="de">offentliche-bildungsausgaben</dcat:keyword>
+        <dct:title xml:lang="fr">Quelques indicateurs de la formation</dct:title>
+        <dcat:keyword xml:lang="it">statistica-dello-stato-annuale-della-popolazione-1981-2010</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Táscairí oideachais roghnaithe</dct:title>
+        <dcat:keyword xml:lang="en">population-and-households-statistics</dcat:keyword>
+        <dct:identifier>16324572@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="en">students-and-degrees-of-higher-education-institutions</dcat:keyword>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:keyword xml:lang="de">lernende-schulerinnen-und-studierende-schul--und-berufsbildung</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Vybrané vzdělávací ukazatele</dct:title>
+        <dcat:keyword xml:lang="de">registerauswertung</dcat:keyword>
+        <dct:title xml:lang="de">Ausgewählte Bildungsindikatoren</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Utvalda utbildningsindikatorer</dct:title>
+        <dcat:keyword xml:lang="de">schweizerische-arbeitskrafteerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Indicadores educativos seleccionados</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Επιλεγμένοι εκπαιδευτικοί δείκτες</dct:title>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dcat:keyword xml:lang="de">stichprobenerhebung</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Atlasītie izglītības rādītāji</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Odabrani obrazovni pokazatelji</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-04-06T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/17989f08-72fa-45a0-ba47-2cf2153cd9f5">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kiválasztott oktatási mutatók</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/16324579/master"/>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="es-t-de-t0-mtec">Indicadores educativos seleccionados</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Indicadores educacionais selecionados</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Indicatori educaționali selectați</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pasirinkti švietimo rodikliai</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Valitud haridusnäitajad</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:identifier>16324579-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">Selected educational indicators</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-06T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táscairí oideachais roghnaithe</dct:title>
+            <dct:title xml:lang="de">Ausgewählte Bildungsindikatoren</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/16324579/master"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Indicatori educativi selezionati</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Valitut koulutusindikaattorit</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Atlasītie izglītības rādītāji</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wybrane wskaźniki edukacyjne</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Избрани образователни показатели</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Indikaturi edukattivi magħżula</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Вибрані освітні показники</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Geselecteerde educatieve indicatoren</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-16T00:00:00</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">Udvalgte uddannelsesindikatorer</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Indicateurs d’éducation sélectionnés</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vybrané vzdělávací ukazatele</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vybrané vzdelávacie ukazovatele</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Επιλεγμένοι εκπαιδευτικοί δείκτες</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Utvalda utbildningsindikatorer</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izbrani izobraževalni kazalniki</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Odabrani obrazovni pokazatelji</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Вибрані освітні показники</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/77c10558-eee9-4fe1-858a-460d6de789c7">
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Daži apmācības rādītāji</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Niektóre wskaźniki szkoleń</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Enkele indicatoren van de opleiding</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Alcuni indicatori di formazione</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Nekateri kazalniki usposabljanja</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Xi indikaturi ta’ taħriġ</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Деякі показники навчання</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Některé ukazatele školení</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Some indicators of training</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Mõned koolituse näitajad</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Einige Indikatoren für die Ausbildung</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Nogle indikatorer for uddannelse</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A képzés egyes mutatói</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Kai kurie mokymo rodikliai</dct:title>
+            <dct:title xml:lang="fr">Quelques indicateurs de la formation</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.01.00.02"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-06T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Roinnt táscairí oiliúna</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Niektoré ukazovatele odbornej prípravy</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Neki pokazatelji osposobljavanja</dct:title>
+            <dct:identifier>16324576-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Joitakin koulutuksen indikaattoreita</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Algunos indicadores de formación</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Alguns indicadores de formação</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Unii indicatori de formare</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Някои показатели за обучение</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Några indikatorer på utbildning</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Μερικοί δείκτες κατάρτισης</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Indikaturi edukattivi magħżula</dct:title>
+        <dcat:keyword xml:lang="de">statistik-des-jahrlichen-bevolkerungsstandes-1981-2010</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Selected educational indicators</dct:title>
+        <dcat:keyword xml:lang="en">statistics-of-qualifications-and-diplomas</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Geselecteerde educatieve indicatoren</dct:title>
+        <dcat:keyword xml:lang="en">annual-population-statistics-1981-2010</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d444a45e-33f6-4100-b456-67f8678efc23">
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/16324576/master"/>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Niektoré ukazovatele odbornej prípravy</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Daži apmācības rādītāji</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Alguns indicadores de formação</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Mõned koolituse näitajad</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Roinnt táscairí oiliúna</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A képzés egyes mutatói</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Някои показатели за обучение</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Alcuni indicatori di formazione</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Algunos indicadores de formación</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Några indikatorer på utbildning</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Enkele indicatoren van de opleiding</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Unii indicatori de formare</dct:title>
+            <dct:title xml:lang="fr">Quelques indicateurs de la formation</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Деякі показники навчання</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Μερικοί δείκτες κατάρτισης</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-06T00:00:00</dct:issued>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Einige Indikatoren für die Ausbildung</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Niektóre wskaźniki szkoleń</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Xi indikaturi ta’ taħriġ</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Neki pokazatelji osposobljavanja</dct:title>
+            <dct:identifier>16324576-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-16T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/16324576/master"/>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Joitakin koulutuksen indikaattoreita</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Nogle indikatorer for uddannelse</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Nekateri kazalniki usposabljanja</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Některé ukazatele školení</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Kai kurie mokymo rodikliai</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Some indicators of training</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">swiss-labour-force-survey</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Pasirinkti švietimo rodikliai</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Indicatori educaționali selectați</dct:title>
+        <dcat:keyword xml:lang="de">statistik-der-bevolkerung-und-der-haushalte</dcat:keyword>
+        <dcat:keyword xml:lang="fr">microrecensement-formation-de-base-et-formation-continue</dcat:keyword>
+        <dcat:keyword xml:lang="en">diploma-upper-secondary-level-and-advanced-professional-education-and-training</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:keyword xml:lang="en">public-education-expenditure</dcat:keyword>
+        <dcat:keyword xml:lang="it">studenti-ed-esami-delle-scuole-universitarie</dcat:keyword>
+        <dcat:keyword xml:lang="en">sample-surveys</dcat:keyword>
+        <dcat:keyword xml:lang="it">la-spesa-pubblica-per-listruzione</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Indicatori educativi selezionati</dct:title>
+        <dcat:keyword xml:lang="en">register-based-surveys</dcat:keyword>
+        <dcat:keyword xml:lang="it">allievi-e-studenti-formazione-scolastica-e-professionale</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="de">studierende-und-abschlusse-an-hochschulen</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:16Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

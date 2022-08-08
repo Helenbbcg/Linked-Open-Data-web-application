@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18304528-bundesamt-fur-statistik-bfs">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18304528-bundesamt-fur-statistik-bfs"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:20:44Z</edp:transReceived>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18304528-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="de">hochschulfinanzen</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0f1b9ca8-2458-47f0-bb42-d133bfb59f51">
+            <dct:identifier>18304529-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Veiklos pajamos iš švietimo kolegijų pagal pristatymą, lėšų teikėją ir universitetą</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Rörelseintäkter för utbildningshögskolor enligt leverans, fondleverantör och universitet</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Receitas operacionais de faculdades educacionais de acordo com entrega, provedor de fundos e universidade</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Oppilaitosten toimintatulot toimituksen, rahoittajan ja yliopiston mukaan</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Id-dħul operattiv tal-kulleġġi edukattivi skont il-kunsinna, il-fornitur tal-fond u l-università</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Venituri din exploatare ale colegiilor de învățământ în funcție de livrare, furnizor de fonduri și universitate</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Provozní příjmy vzdělávacích vysokých škol podle dodání, poskytovatele finančních prostředků a vysokých škol</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Оперативни приходи на образователните колежи по доставка, фонд-доставчик и университет</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Izglītības koledžu darbības ieņēmumi atbilstoši piegādei, līdzekļu sniedzējam un universitātei</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Bedrijfsinkomsten van onderwijscolleges volgens levering, fondsaanbieder en universiteit</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Hariduskõrgkoolide tegevustulud vastavalt õppetööle, fondipakkujale ja ülikoolile</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Betriebsprodukte der pädagogischen Hochschulen nach Leistung, Geldgeber und Hochschule</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Operating revenues of educational colleges according to delivery, fund-provider and university</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Ioncam oibriúcháin na gcoláistí oideachais de réir seachadadh, soláthraí ciste agus ollscoil</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Prihodki iz poslovanja izobraževalnih šol glede na dostavo, ponudnika sredstev in univerzo</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Oktatási főiskolák működési bevételei a szállítás, az alapszolgáltató és az egyetem szerint</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Ingresos operativos de los colegios educativos según la entrega, el proveedor de fondos y la universidad</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Λειτουργικά έσοδα εκπαιδευτικών κολεγίων σύμφωνα με την παράδοση, τον πάροχο κεφαλαίων και το πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Operativni prihodi obrazovnih škola prema isporuci, davatelju sredstava i sveučilištu</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1506030300_261"/>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Driftsindtægter for uddannelsesinstitutioner i henhold til levering, fondsudbyder og universitet</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Przychody operacyjne kolegiów edukacyjnych zgodnie z dostawą, dostawcą funduszy i uczelnią</dct:title>
+            <dct:title xml:lang="fr">Produits d'exploitation des hautes écoles pédagogiques selon la prestation, le pourvoyeur de fonds et la haute école</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Ricavi operativi di istituti scolastici in base all'erogazione, ai fornitori di fondi e all'università</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Prevádzkové príjmy vzdelávacích vysokých škôl podľa dodávky, poskytovateľa finančných prostriedkov a univerzity</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Операційні доходи навчальних коледжів згідно з доставкою, фондом-постачальником та університетом</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tegevustulu pedagoogilistest ülikoolidest vastavalt tulemuslikkusele, doonorile ja ülikoolile</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="de">Betriebserlöse der pädagogischen Hochschulen nach Leistung, Geldgeber und Hochschule</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/47b65fbd-334a-4d80-95b7-0a4fe68024f2">
+            <dct:title xml:lang="uk-t-de-t0-mtec">Операційний дохід від педагогічних університетів за результатами діяльності, донором та університетом</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Operating income from pedagogical universities according to performance, donor and university</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="es-t-de-t0-mtec">Ingresos operativos de las universidades pedagógicas según rendimiento, donante y universidad</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pedagogisten yliopistojen toiminnan tuotot suorituksen, lahjoittajan ja yliopiston mukaan</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Provozní příjmy z pedagogických univerzit podle výkonu, dárce a univerzity</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Λειτουργικά έσοδα από παιδαγωγικά πανεπιστήμια ανάλογα με τις επιδόσεις, τον δωρητή και το πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="de">Betriebserlöse der pädagogischen Hochschulen nach Leistung, Geldgeber und Hochschule</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Dochód operacyjny z uniwersytetów pedagogicznych w zależności od wyników, darczyńców i uniwersytetów</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tegevustulu pedagoogilistest ülikoolidest vastavalt tulemuslikkusele, doonorile ja ülikoolile</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Rendimento operacional de universidades pedagógicas de acordo com desempenho, doador e universidade</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Operativni prihodi pedagoških sveučilišta prema uspješnosti, donatoru i sveučilištu</dct:title>
+            <dct:identifier>link-18304535-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Darbības ienākumi no pedagoģiskajām universitātēm atbilstoši sniegumam, līdzekļu devējam un augstskolai</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Ioncam oibriúcháin ó ollscoileanna oideolaíocha de réir feidhmíochta, bronntóra agus ollscoile</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bedrijfsinkomsten van pedagogische universiteiten volgens prestaties, donor en universiteit</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Recettes d’exploitation des établissements d’enseignement supérieur par niveau de performance, bailleur de fonds et établissement d’enseignement supérieur</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Dħul operattiv minn universitajiet pedagoġiċi skont il-prestazzjoni, id-donatur u l-università</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Prevádzkové príjmy z pedagogických univerzít podľa výkonu, darcu a univerzity</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prihodki iz poslovanja pedagoških univerz glede na uspešnost, donatorje in univerzo</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Pedagógiai egyetemek működési jövedelme teljesítmény, adományozó és egyetem szerint</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Оперативни приходи от педагогически университети според резултатите, дарителите и университетите</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1506030300_261/px-x-1506030300_261/px-x-1506030300_261.px"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Veiklos pajamos iš pedagoginių universitetų pagal veiklos rezultatus, donorą ir universitetą</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Rörelseintäkter från pedagogiska universitet efter prestation, givare och universitet</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Reddito operativo delle università pedagogiche in base alle prestazioni, al donatore e all'università</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Venituri operaționale din universități pedagogice în funcție de performanță, donator și universitate</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Driftsindtægter fra pædagogiske universiteter efter præstation, donor og universitet</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Rörelseintäkter från pedagogiska universitet efter prestation, givare och universitet</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Driftsindtægter fra pædagogiske universiteter efter præstation, donor og universitet</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c6f92f83-8f52-4c28-ada3-7af80e5a3f65">
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Veiklos pajamos iš pedagoginių universitetų pagal veiklos rezultatus, donorą ir universitetą</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Pedagógiai egyetemek működési jövedelme teljesítmény, adományozó és egyetem szerint</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Reddito operativo delle università pedagogiche in base alle prestazioni, al donatore e all'università</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Операційний дохід від педагогічних університетів за результатами діяльності, донором та університетом</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Dħul operattiv minn universitajiet pedagoġiċi skont il-prestazzjoni, id-donatur u l-università</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Λειτουργικά έσοδα από παιδαγωγικά πανεπιστήμια ανάλογα με τις επιδόσεις, τον δωρητή και το πανεπιστήμιο</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1506030300_261"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Provozní příjmy z pedagogických univerzit podle výkonu, dárce a univerzity</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prihodki iz poslovanja pedagoških univerz glede na uspešnost, donatorje in univerzo</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Operating income from pedagogical universities according to performance, donor and university</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Darbības ienākumi no pedagoģiskajām universitātēm atbilstoši sniegumam, līdzekļu devējam un augstskolai</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Recettes d’exploitation des établissements d’enseignement supérieur par niveau de performance, bailleur de fonds et établissement d’enseignement supérieur</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bedrijfsinkomsten van pedagogische universiteiten volgens prestaties, donor en universiteit</dct:title>
+            <dct:identifier>18304529-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Ingresos operativos de las universidades pedagógicas según rendimiento, donante y universidad</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Dochód operacyjny z uniwersytetów pedagogicznych w zależności od wyników, darczyńców i uniwersytetów</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Operativni prihodi pedagoških sveučilišta prema uspješnosti, donatoru i sveučilištu</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Driftsindtægter fra pædagogiske universiteter efter præstation, donor og universitet</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Venituri operaționale din universități pedagogice în funcție de performanță, donator și universitate</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Ioncam oibriúcháin ó ollscoileanna oideolaíocha de réir feidhmíochta, bronntóra agus ollscoile</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Prevádzkové príjmy z pedagogických univerzít podľa výkonu, darcu a univerzity</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Rörelseintäkter från pedagogiska universitet efter prestation, givare och universitet</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Оперативни приходи от педагогически университети според резултатите, дарителите и университетите</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tegevustulu pedagoogilistest ülikoolidest vastavalt tulemuslikkusele, doonorile ja ülikoolile</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Rendimento operacional de universidades pedagógicas de acordo com desempenho, doador e universidade</dct:title>
+            <dct:title xml:lang="de">Betriebserlöse der pädagogischen Hochschulen nach Leistung, Geldgeber und Hochschule</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pedagogisten yliopistojen toiminnan tuotot suorituksen, lahjoittajan ja yliopiston mukaan</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Operativni prihodi pedagoških sveučilišta prema uspješnosti, donatoru i sveučilištu</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Операційний дохід від педагогічних університетів за результатами діяльності, донором та університетом</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Dochód operacyjny z uniwersytetów pedagogicznych w zależności od wyników, darczyńców i uniwersytetów</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Venituri operaționale din universități pedagogice în funcție de performanță, donator și universitate</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:09:01.373728</dct:modified>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Veiklos pajamos iš pedagoginių universitetų pagal veiklos rezultatus, donorą ir universitetą</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Operating income from pedagogical universities according to performance, donor and university</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Pedagógiai egyetemek működési jövedelme teljesítmény, adományozó és egyetem szerint</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Ioncam oibriúcháin ó ollscoileanna oideolaíocha de réir feidhmíochta, bronntóra agus ollscoile</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bf32b70d-7bdc-43f3-a078-2cc19b6f977d">
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:identifier>link-18304533-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1506030300_261/px-x-1506030300_261.px"/>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">finances-des-hautes-ecoles</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Оперативни приходи от педагогически университети според резултатите, дарителите и университетите</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Ingresos operativos de las universidades pedagógicas según rendimiento, donante y universidad</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Dħul operattiv minn universitajiet pedagoġiċi skont il-prestazzjoni, id-donatur u l-università</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/683bb73c-5d4c-46bc-bb0d-230bf2dbfcf9">
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:identifier>link-18304533-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1506030300_261/px-x-1506030300_261.px"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="it-t-de-t0-mtec">Reddito operativo delle università pedagogiche in base alle prestazioni, al donatore e all'università</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Prihodki iz poslovanja pedagoških univerz glede na uspešnost, donatorje in univerzo</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Rendimento operacional de universidades pedagógicas de acordo com desempenho, doador e universidade</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-08-30T00:00:00</dct:issued>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bedrijfsinkomsten van pedagogische universiteiten volgens prestaties, donor en universiteit</dct:title>
+        <dct:identifier>18304528@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Provozní příjmy z pedagogických univerzit podle výkonu, dárce a univerzity</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Darbības ienākumi no pedagoģiskajām universitātēm atbilstoši sniegumam, līdzekļu devējam un augstskolai</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Λειτουργικά έσοδα από παιδαγωγικά πανεπιστήμια ανάλογα με τις επιδόσεις, τον δωρητή και το πανεπιστήμιο</dct:title>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Prevádzkové príjmy z pedagogických univerzít podľa výkonu, darcu a univerzity</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="it">finanziare-le-universita</dcat:keyword>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="fr">Produits d'exploitation des hautes écoles pédagogiques selon la prestation, le pourvoyeur de fonds et la haute école</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6af17d32-e8ad-48c2-b364-934487abc84b">
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Oppilaitosten toimintatulot toimituksen, rahoittajan ja yliopiston mukaan</dct:title>
+            <dct:identifier>link-18304535-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Veiklos pajamos iš švietimo kolegijų pagal pristatymą, lėšų teikėją ir universitetą</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Driftsindtægter for uddannelsesinstitutioner i henhold til levering, fondsudbyder og universitet</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Przychody operacyjne kolegiów edukacyjnych zgodnie z dostawą, dostawcą funduszy i uczelnią</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Receitas operacionais de faculdades educacionais de acordo com entrega, provedor de fundos e universidade</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Ingresos operativos de los colegios educativos según la entrega, el proveedor de fondos y la universidad</dct:title>
+            <dct:title xml:lang="fr">Produits d'exploitation des hautes écoles pédagogiques selon la prestation, le pourvoyeur de fonds et la haute école</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Оперативни приходи на образователните колежи по доставка, фонд-доставчик и университет</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Операційні доходи навчальних коледжів згідно з доставкою, фондом-постачальником та університетом</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Operating revenues of educational colleges according to delivery, fund-provider and university</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Λειτουργικά έσοδα εκπαιδευτικών κολεγίων σύμφωνα με την παράδοση, τον πάροχο κεφαλαίων και το πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Bedrijfsinkomsten van onderwijscolleges volgens levering, fondsaanbieder en universiteit</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Oktatási főiskolák működési bevételei a szállítás, az alapszolgáltató és az egyetem szerint</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Ioncam oibriúcháin na gcoláistí oideachais de réir seachadadh, soláthraí ciste agus ollscoil</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Provozní příjmy vzdělávacích vysokých škol podle dodání, poskytovatele finančních prostředků a vysokých škol</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-30T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Prihodki iz poslovanja izobraževalnih šol glede na dostavo, ponudnika sredstev in univerzo</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Prevádzkové príjmy vzdelávacích vysokých škôl podľa dodávky, poskytovateľa finančných prostriedkov a univerzity</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1506030300_261/px-x-1506030300_261/px-x-1506030300_261.px"/>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Id-dħul operattiv tal-kulleġġi edukattivi skont il-kunsinna, il-fornitur tal-fond u l-università</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Betriebsprodukte der pädagogischen Hochschulen nach Leistung, Geldgeber und Hochschule</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Rörelseintäkter för utbildningshögskolor enligt leverans, fondleverantör och universitet</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Ricavi operativi di istituti scolastici in base all'erogazione, ai fornitori di fondi e all'università</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Operativni prihodi obrazovnih škola prema isporuci, davatelju sredstava i sveučilištu</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Hariduskõrgkoolide tegevustulud vastavalt õppetööle, fondipakkujale ja ülikoolile</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Izglītības koledžu darbības ieņēmumi atbilstoši piegādei, līdzekļu sniedzējam un universitātei</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Venituri din exploatare ale colegiilor de învățământ în funcție de livrare, furnizor de fonduri și universitate</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword xml:lang="en">finance-of-the-universities</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Pedagogisten yliopistojen toiminnan tuotot suorituksen, lahjoittajan ja yliopiston mukaan</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:16Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:20Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>c9cf4dbee9cdd6e3ffc7a68b7b5a1d67</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>18304528@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:16Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

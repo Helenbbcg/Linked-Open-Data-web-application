@@ -1,0 +1,416 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/19704309-bundesamt-fur-statistik-bfs">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/19704309-bundesamt-fur-statistik-bfs"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:12Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>287eb8c39ecef4339da995e4917f348c</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:17:15Z</edp:transReceived>
+    <dct:identifier>19704309@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:12Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:21Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/19704309-bundesamt-fur-statistik-bfs">
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os números anuais dos equipamentos dos domicílios com tecnologia da informação e comunicação (TIC) por tipo de produto, número de produtos, renda familiar mensal, status educacional da pessoa de referência e saudações domiciliares, desde 1998.
+As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">ИКТ оборудване на домакинствата</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tat-tagħmir tal-unitajiet domestiċi bit-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) skont it-tip ta’ prodott, l-għadd ta’ prodotti, l-introjtu ta’ kull xahar tal-unità domestika, l-istatus edukattiv tal-persuna ta’ referenza u l-awguri tal-unitajiet domestiċi, mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Informační a komunikační technologie domácností</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the equipment of households with information and communication technology (ICT) by product type, number of products, monthly household income, educational status of the reference person and household greetings, since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+        <dcat:keyword xml:lang="en">sample-surveys</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f1a4d75a-0021-480c-bc7c-5d47823665a6">
+            <dct:identifier>19704311-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an trealaimh atá ag teaghlaigh le teicneolaíocht faisnéise agus cumarsáide (TFC) de réir chineál an táirge, líon na dtáirgí, ioncam teaghlaigh míosúil, stádas oideachais an duine tagartha agus beannachtaí teaghlaigh, ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:title xml:lang="fr">Equipement TIC des ménages</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questo insieme di dati presenta le cifre annuali delle attrezzature delle famiglie con tecnologie dell'informazione e della comunicazione (TIC) per tipo di prodotto, numero di prodotti, reddito familiare mensile, stato educativo della persona di riferimento e saluti familiari, dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice. Questo insieme di dati presenta le cifre annuali delle attrezzature delle famiglie con tecnologie dell'informazione e della comunicazione (TIC) per tipo di prodotto, numero di prodotti, reddito familiare mensile, stato educativo della persona di riferimento e saluti familiari, dal 1998.
+Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-seadmed</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Sprzęt teleinformatyczny gospodarstw domowych</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for udstyr i husholdninger med informations- og kommunikationsteknologi (IKT) efter produkttype, antal produkter, månedlig husstandsindkomst, referencepersonens uddannelsesmæssige status og huslykønskninger siden 1998. Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget. Dette datasæt viser de årlige tal for udstyr i husholdninger med informations- og kommunikationsteknologi (IKT) efter produkttype, antal produkter, månedlig husstandsindkomst, referencepersonens uddannelsesmæssige status og huslykønskninger siden 1998.
+Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Ausstattung der Haushalte mit Informations- und Kommunikationstechnik (IKT) nach Produktart, Anzahl Produkte, monatliches Haushaltseinkommen, Bildungsstand der Referenzperson und Haushaltsgrüsse, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje brojke opreme kućanstava s informacijskom i komunikacijskom tehnologijom (IKT) prema vrsti proizvoda, broju proizvoda, mjesečnom dohotku kućanstva, obrazovnom statusu referentne osobe i pozdravima kućanstva, od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniset laitteet</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Apparecchiature TIC delle famiglie</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Informacijska i komunikacijska oprema kućanstava</dct:title>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels de l'équipement des ménages en technologies de l'information et de la communication (TIC) selon le type de bien, le nombre de biens, la classe de revenu, le niveau de formation de la personne de référence et la taille du ménage, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ИКТ оборудване на домакинствата</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року. Опис змінних у файлі CSV доступний у додатку. У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року.
+Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utrustning</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Informační a komunikační technologie domácností</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset bevat de jaarlijkse cijfers van de apparatuur van huishoudens met informatie- en communicatietechnologie (ICT) per productsoort, aantal producten, maandelijks inkomen van huishoudens, onderwijsstatus van de referentiepersoon en huishoudelijke groeten, sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage. Deze dataset bevat de jaarlijkse cijfers van de apparatuur van huishoudens met informatie- en communicatietechnologie (ICT) per productsoort, aantal producten, maandelijks inkomen van huishoudens, onderwijsstatus van de referentiepersoon en huishoudelijke groeten, sinds 1998.
+De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale echipamentelor gospodăriilor cu tehnologia informației și comunicațiilor (TIC) în funcție de tipul de produs, numărul de produse, venitul lunar al gospodăriei, statutul educațional al persoanei de referință și salutările gospodărești, din 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în anexă. Acest set de date prezintă cifrele anuale ale echipamentelor gospodăriilor cu tehnologia informației și comunicațiilor (TIC) în funcție de tipul de produs, numărul de produse, venitul lunar al gospodăriei, statutul educațional al persoanei de referință și salutările gospodărești, din 1998.
+Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:title xml:lang="de">IKT-Ausstattung der Haushalte</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Háztartások IKT-berendezései</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξοπλισμός ΤΠΕ των νοικοκυριών</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os números anuais dos equipamentos dos domicílios com tecnologia da informação e comunicação (TIC) por tipo de produto, número de produtos, renda familiar mensal, status educacional da pessoa de referência e saudações domiciliares, desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice. Este conjunto de dados apresenta os números anuais dos equipamentos dos domicílios com tecnologia da informação e comunicação (TIC) por tipo de produto, número de produtos, renda familiar mensal, status educacional da pessoa de referência e saudações domiciliares, desde 1998.
+As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie dati par mājsaimniecību aprīkojumu ar informācijas un komunikācijas tehnoloģijām (IKT) pēc produktu veida, produktu skaita, mājsaimniecības mēneša ienākumiem, atsauces personas izglītības statusa un mājsaimniecības apsveikumiem kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā. Šajā datu kopā ir atspoguļoti ikgadējie dati par mājsaimniecību aprīkojumu ar informācijas un komunikācijas tehnoloģijām (IKT) pēc produktu veida, produktu skaita, mājsaimniecības mēneša ienākumiem, atsauces personas izglītības statusa un mājsaimniecības apsveikumiem kopš 1998. gada.
+Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-обладнання домогосподарств</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за оборудването на домакинствата с информационни и комуникационни технологии (ИКТ) по вид продукт, брой продукти, месечен доход на домакинството, образователен статус на референтното лице и домакински поздрави от 1998 г. насам. Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT equipment of households</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Equipamento de TIC dos agregados familiares</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-03T00:00:00</dct:modified>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the equipment of households with information and communication technology (ICT) by product type, number of products, monthly household income, educational status of the reference person and household greetings, since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Echipamente TIC ale gospodăriilor</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o opremi gospodinjstev z informacijsko in komunikacijsko tehnologijo (IKT) po vrsti izdelka, številu izdelkov, mesečnem dohodku gospodinjstva, izobraževalnem statusu referenčne osebe in pozdravih gospodinjstev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Oprema za IKT gospodinjstev</dct:title>
+            <dct:language>de</dct:language>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="es-t-de-t0-mtec">Equipo de TIC de los hogares</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del equipamiento de los hogares con tecnología de la información y la comunicación (TIC) por tipo de producto, número de productos, ingresos mensuales del hogar, situación educativa de la persona de referencia y saludos del hogar, desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT įranga</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704311/master"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Trealamh TFC teaghlach</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību IKT iekārtas</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse info- ja kommunikatsioonitehnoloogiaga (IKT) kodumajapidamiste seadmete aastaandmed tooteliikide, toodete arvu, leibkonna igakuise sissetuleku, võrdlusisiku haridusalase staatuse ja kodumajapidamiste tervituste kaupa alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-apparatuur van huishoudens</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία του εξοπλισμού των νοικοκυριών με τεχνολογία πληροφοριών και επικοινωνιών (ΤΠΕ) ανά τύπο προϊόντος, αριθμό προϊόντων, μηνιαίο εισόδημα νοικοκυριού, εκπαιδευτικό καθεστώς του προσώπου αναφοράς και χαιρετισμούς νοικοκυριού, από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα. Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία του εξοπλισμού των νοικοκυριών με τεχνολογία πληροφοριών και επικοινωνιών (ΤΠΕ) ανά τύπο προϊόντος, αριθμό προϊόντων, μηνιαίο εισόδημα νοικοκυριού, εκπαιδευτικό καθεστώς του προσώπου αναφοράς και χαιρετισμούς νοικοκυριού, από το 1998.
+Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tagħmir tal-ICT tal-unitajiet domestiċi</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udstyr</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704311/master"/>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä aineistossa esitetään tieto- ja viestintätekniikkaa käyttävien kotitalouksien laitteiden vuosiluvut tuotetyypeittäin, tuotteiden lukumäärän, kotitalouksien kuukausitulojen, viitehenkilön koulutustilanteen ja kotitalouksien tervehdysten mukaan vuodesta 1998 lähtien. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor představuje roční údaje o vybavení domácností s informačními a komunikačními technologiemi (IKT) podle typu výrobku, počtu produktů, měsíčního příjmu domácnosti, vzdělání referenční osoby a pozdravů domácnosti od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące wyposażenia gospodarstw domowych w technologie informacyjno-komunikacyjne (ICT) według rodzaju produktu, liczby produktów, miesięcznego dochodu gospodarstwa domowego, statusu edukacyjnego osoby referencyjnej i pozdrowień gospodarstwa domowego, od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku. Ten zbiór danych przedstawia roczne dane dotyczące wyposażenia gospodarstw domowych w technologie informacyjno-komunikacyjne (ICT) według rodzaju produktu, liczby produktów, miesięcznego dochodu gospodarstwa domowego, statusu edukacyjnego osoby referencyjnej i pozdrowień gospodarstwa domowego, od 1998 r.
+Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Detta dataset visar de årliga siffrorna för utrustning i hushåll med informations- och kommunikationsteknik (IKT) per produkttyp, antal produkter, månadsinkomst för hushåll, referenspersonens utbildningsstatus och hushållshälsningar, sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan. Detta dataset visar de årliga siffrorna för utrustning i hushåll med informations- och kommunikationsteknik (IKT) per produkttyp, antal produkter, månadsinkomst för hushåll, referenspersonens utbildningsstatus och hushållshälsningar, sedan 1998.
+Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tat-tagħmir tal-unitajiet domestiċi bit-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) skont it-tip ta’ prodott, l-għadd ta’ prodotti, l-introjtu ta’ kull xahar tal-unità domestika, l-istatus edukattiv tal-persuna ta’ referenza u l-awguri tal-unitajiet domestiċi, mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi. Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tat-tagħmir tal-unitajiet domestiċi bit-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) skont it-tip ta’ prodott, l-għadd ta’ prodotti, l-introjtu ta’ kull xahar tal-unità domestika, l-istatus edukattiv tal-persuna ta’ referenza u l-awguri tal-unitajiet domestiċi, mill-1998.
+Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o zariadeniach domácností s informačnými a komunikačnými technológiami (IKT) podľa typu výrobku, počtu výrobkov, mesačného príjmu domácností, vzdelávacieho statusu referenčnej osoby a pozdravov domácnosti od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v prílohe. V tomto súbore údajov sa uvádzajú ročné údaje o zariadeniach domácností s informačnými a komunikačnými technológiami (IKT) podľa typu výrobku, počtu výrobkov, mesačného príjmu domácností, vzdelávacieho statusu referenčnej osoby a pozdravov domácnosti od roku 1998.
+Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami nuo 1998 m. namų ūkių informacinių ir ryšių technologijų (IRT) įrangos metiniai duomenys pagal produktų tipą, produktų skaičių, mėnesines namų ūkio pajamas, referencinio asmens išsilavinimo statusą ir namų ūkio sveikinimus. Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiával (IKT) rendelkező háztartások berendezéseinek éves adatait mutatja be terméktípus, termékszám, havi háztartási jövedelem, referenciaszemély oktatási státusza és háztartási üdvözletek szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за оборудването на домакинствата с информационни и комуникационни технологии (ИКТ) по вид продукт, брой продукти, месечен доход на домакинството, образователен статус на референтното лице и домакински поздрави от 1998 г. насам. Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:09:16.089580</dct:modified>
+        <dct:description xml:lang="uk-t-de-t0-mtec">У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року.
+Опис змінних у файлі CSV доступний у додатку.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f775c05a-ddf4-4ffe-8d9e-e9b8306db158">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Sprzęt teleinformatyczny gospodarstw domowych</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä aineistossa esitetään tieto- ja viestintätekniikkaa käyttävien kotitalouksien laitteiden vuosiluvut tuotetyypeittäin, tuotteiden lukumäärän, kotitalouksien kuukausitulojen, viitehenkilön koulutustilanteen ja kotitalouksien tervehdysten mukaan vuodesta 1998 lähtien. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniset laitteet</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за оборудването на домакинствата с информационни и комуникационни технологии (ИКТ) по вид продукт, брой продукти, месечен доход на домакинството, образователен статус на референтното лице и домакински поздрави от 1998 г. насам.
+Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données présente les chiffres annuels de l’équipement des ménages en technologies de l’information et de la communication (TIC) par type de produit, nombre de produits, revenu mensuel des ménages, niveau d’éducation de la personne de référence et accueil du ménage depuis 1998. Les descriptions des variables dans le fichier CSV sont disponibles en annexe.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT įranga</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-seadmed</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Equipo de TIC de los hogares</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje brojke opreme kućanstava s informacijskom i komunikacijskom tehnologijom (IKT) prema vrsti proizvoda, broju proizvoda, mjesečnom dohotku kućanstva, obrazovnom statusu referentne osobe i pozdravima kućanstva, od 1998.
+Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Equipamento de TIC dos agregados familiares</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an trealaimh atá ag teaghlaigh le teicneolaíocht faisnéise agus cumarsáide (TFC) de réir chineál an táirge, líon na dtáirgí, ioncam teaghlaigh míosúil, stádas oideachais an duine tagartha agus beannachtaí teaghlaigh, ó 1998 i leith.
+Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utrustning</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udstyr</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Detta dataset visar de årliga siffrorna för utrustning i hushåll med informations- och kommunikationsteknik (IKT) per produkttyp, antal produkter, månadsinkomst för hushåll, referenspersonens utbildningsstatus och hushållshälsningar, sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року. Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-ind-30103_eq"/>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o opremi gospodinjstev z informacijsko in komunikacijsko tehnologijo (IKT) po vrsti izdelka, številu izdelkov, mesečnem dohodku gospodinjstva, izobraževalnem statusu referenčne osebe in pozdravih gospodinjstev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del equipamiento de los hogares con tecnología de la información y la comunicación (TIC) por tipo de producto, número de productos, ingresos mensuales del hogar, situación educativa de la persona de referencia y saludos del hogar, desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o zariadeniach domácností s informačnými a komunikačnými technológiami (IKT) podľa typu výrobku, počtu výrobkov, mesačného príjmu domácností, vzdelávacieho statusu referenčnej osoby a pozdravov domácnosti od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor představuje roční údaje o vybavení domácností s informačními a komunikačními technologiemi (IKT) podle typu výrobku, počtu produktů, měsíčního příjmu domácnosti, vzdělání referenční osoby a pozdravů domácnosti od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Apparecchiature TIC delle famiglie</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Echipamente TIC ale gospodăriilor</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse info- ja kommunikatsioonitehnoloogiaga (IKT) kodumajapidamiste seadmete aastaandmed tooteliikide, toodete arvu, leibkonna igakuise sissetuleku, võrdlusisiku haridusalase staatuse ja kodumajapidamiste tervituste kaupa alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ИКТ оборудване на домакинствата</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące wyposażenia gospodarstw domowych w technologie informacyjno-komunikacyjne (ICT) według rodzaju produktu, liczby produktów, miesięcznego dochodu gospodarstwa domowego, statusu edukacyjnego osoby referencyjnej i pozdrowień gospodarstwa domowego, od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questo insieme di dati presenta le cifre annuali delle attrezzature delle famiglie con tecnologie dell'informazione e della comunicazione (TIC) per tipo di prodotto, numero di prodotti, reddito familiare mensile, stato educativo della persona di riferimento e saluti familiari, dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:identifier>19704311-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-обладнання домогосподарств</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξοπλισμός ΤΠΕ των νοικοκυριών</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-apparatuur van huishoudens</dct:title>
+            <dct:title xml:lang="de">IKT-Ausstattung der Haushalte</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiával (IKT) rendelkező háztartások berendezéseinek éves adatait mutatja be terméktípus, termékszám, havi háztartási jövedelem, referenciaszemély oktatási státusza és háztartási üdvözletek szerint 1998 óta.
+A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os números anuais dos equipamentos dos domicílios com tecnologia da informação e comunicação (TIC) por tipo de produto, número de produtos, renda familiar mensal, status educacional da pessoa de referência e saudações domiciliares, desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Háztartások IKT-berendezései</dct:title>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Ausstattung der Haushalte mit Informations- und Kommunikationstechnik (IKT) nach Produktart, Anzahl Produkte, monatliches Haushaltseinkommen, Bildungsstand der Referenzperson und Haushaltsgrüsse, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Informační a komunikační technologie domácností</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset bevat de jaarlijkse cijfers van de apparatuur van huishoudens met informatie- en communicatietechnologie (ICT) per productsoort, aantal producten, maandelijks inkomen van huishoudens, onderwijsstatus van de referentiepersoon en huishoudelijke groeten, sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie dati par mājsaimniecību aprīkojumu ar informācijas un komunikācijas tehnoloģijām (IKT) pēc produktu veida, produktu skaita, mājsaimniecības mēneša ienākumiem, atsauces personas izglītības statusa un mājsaimniecības apsveikumiem kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Équipement des ménages dans le domaine des TIC</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Trealamh TFC teaghlach</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale echipamentelor gospodăriilor cu tehnologia informației și comunicațiilor (TIC) în funcție de tipul de produs, numărul de produse, venitul lunar al gospodăriei, statutul educațional al persoanei de referință și salutările gospodărești, din 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία του εξοπλισμού των νοικοκυριών με τεχνολογία πληροφοριών και επικοινωνιών (ΤΠΕ) ανά τύπο προϊόντος, αριθμό προϊόντων, μηνιαίο εισόδημα νοικοκυριού, εκπαιδευτικό καθεστώς του προσώπου αναφοράς και χαιρετισμούς νοικοκυριού, από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami nuo 1998 m. namų ūkių informacinių ir ryšių technologijų (IRT) įrangos metiniai duomenys pagal produktų tipą, produktų skaičių, mėnesines namų ūkio pajamas, referencinio asmens išsilavinimo statusą ir namų ūkio sveikinimus.
+Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību IKT iekārtas</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the equipment of households with information and communication technology (ICT) by product type, number of products, monthly household income, educational status of the reference person and household greetings, since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT equipment of households</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for udstyr i husholdninger med informations- og kommunikationsteknologi (IKT) efter produkttype, antal produkter, månedlig husstandsindkomst, referencepersonens uddannelsesmæssige status og huslykønskninger siden 1998.
+Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tagħmir tal-ICT tal-unitajiet domestiċi</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Informacijska i komunikacijska oprema kućanstava</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tat-tagħmir tal-unitajiet domestiċi bit-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) skont it-tip ta’ prodott, l-għadd ta’ prodotti, l-introjtu ta’ kull xahar tal-unità domestika, l-istatus edukattiv tal-persuna ta’ referenza u l-awguri tal-unitajiet domestiċi, mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Oprema za IKT gospodinjstev</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje brojke opreme kućanstava s informacijskom i komunikacijskom tehnologijom (IKT) prema vrsti proizvoda, broju proizvoda, mjesečnom dohotku kućanstva, obrazovnom statusu referentne osobe i pozdravima kućanstva, od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/497b844b-b8ba-4d90-af47-61933f83fcdc">
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Tagħmir tal-ICT għall-unitajiet domestiċi</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">IKT-udstyr til husholdninger</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Háztartási IKT-berendezések</dct:title>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Dan is-sett ta’ data jippreżenta d-data annwali dwar it-tagħmir tal-unitajiet domestiċi fit-teknoloġiji tal-informazzjoni u l-komunikazzjoni (ICT) skont it-tip ta’ proprjetà, l-għadd ta’ oġġetti, il-klassi tal-introjtu, il-livell ta’ taħriġ tal-persuna ta’ referenza u d-daqs tal-unità domestika, mill-1998. Deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-Appendiċi.</dct:description>
+            <dct:identifier>19704311-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels de l'équipement des ménages en technologies de l'information et de la communication (TIC) selon le type de bien, le nombre de biens, la classe de revenu, le niveau de formation de la personne de référence et la taille du ménage, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">ІКТ-обладнання для домогосподарств</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Oprema IKT za gospodinjstva</dct:title>
+            <dct:description xml:lang="en-t-fr-t0-mtec">This dataset presents the annual data on the equipment of households in information and communication technologies (ICT) by type of property, number of goods, income class, level of training of the reference person and size of household, since 1998. Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+            <dct:title xml:lang="de-t-fr-t0-mtec">IKT-Ausrüstung für Privathaushalte</dct:title>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Este conjunto de dados apresenta os dados anuais sobre os equipamentos dos domicílios em tecnologias da informação e comunicação (TIC) por tipo de propriedade, número de haveres, classe de renda, nível de treinamento da pessoa de referência e porte do domicílio, desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no Apêndice.</dct:description>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Dette datasæt viser de årlige data om husholdningernes udstyr inden for informations- og kommunikationsteknologi (IKT) efter ejendomstype, antal varer, indkomstklasse, referencepersonens uddannelsesniveau og husstandens størrelse siden 1998. Beskrivelser af variablerne i CSV-filen findes i tillægget.</dct:description>
+            <dct:title xml:lang="en-t-fr-t0-mtec">ICT equipment for households</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">IKT iekārtas mājsaimniecībām</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">IKT oprema za kućanstva</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">ИКТ оборудване за домакинствата</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Echipamente TIC pentru gospodării</dct:title>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Šajā datu kopā atspoguļo gada datus par mājsaimniecību aprīkojumu informācijas un komunikācijas tehnoloģijās (IKT) pēc īpašuma veida, preču skaita, ienākumu klases, atsauces personas apmācības līmeņa un mājsaimniecības lieluma kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami papildinājumā.</dct:description>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Namų ūkiams skirta IRT įranga</dct:title>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o opremi kućanstava u informacijskim i komunikacijskim tehnologijama (IKT) prema vrsti imovine, broju robe, razredu dohotka, razini osposobljavanja referentne osobe i veličini kućanstva, od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Sprzęt ICT dla gospodarstw domowych</dct:title>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">Даний набір даних представляє річні дані про обладнання домогосподарств в інформаційно-комунікаційних технологіях (ІКТ) за видами майна, кількістю товарів, класом доходу, рівнем підготовки референта і розміром домогосподарства, починаючи з 1998 року. Опис змінних у файлі CSV доступний у Додатку.</dct:description>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">ICT-apparatuur voor huishoudens</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Apparecchiature ICT per le famiglie</dct:title>
+            <dct:description xml:lang="et-t-fr-t0-mtec">Selles andmekogumis esitatakse iga-aastased andmed kodumajapidamiste info- ja kommunikatsioonitehnoloogia (IKT) seadmete kohta vara liigi, kaupade arvu, sissetulekuklassi, võrdlusisiku koolituse taseme ja leibkonna suuruse kaupa alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud liites.</dct:description>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Trealamh TFC do theaghlaigh</dct:title>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Ez az adatkészlet a háztartások információs és kommunikációs technológiák (IKT) berendezéseire vonatkozó éves adatokat mutatja be az ingatlan típusa, az áruk száma, a jövedelmi osztály, a referenciaszemély képzettségi szintje és a háztartás mérete szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Equipo de TIC para los hogares</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kodumajapidamiste info- ja kommunikatsioonitehnoloogia seadmed</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="it-t-fr-t0-mtec">Questa serie di dati presenta i dati annuali sulle attrezzature delle famiglie nelle tecnologie dell'informazione e della comunicazione (TIC) per tipo di proprietà, numero di beni, classe di reddito, livello di formazione della persona di riferimento e dimensione della famiglia, dal 1998. Le descrizioni delle variabili presenti nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:description xml:lang="es-t-fr-t0-mtec">Este conjunto de datos presenta los datos anuales sobre el equipamiento de los hogares en tecnologías de la información y la comunicación (TIC) por tipo de propiedad, número de bienes, clase de ingresos, nivel de formación de la persona de referencia y tamaño del hogar, desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/ts-x-ind-30103_eq"/>
+            <dct:title xml:lang="fr">Equipement TIC des ménages</dct:title>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące wyposażenia gospodarstw domowych w technologie informacyjno-komunikacyjne (ICT) według rodzaju nieruchomości, liczby towarów, klasy dochodów, poziomu wykształcenia osoby referencyjnej i wielkości gospodarstwa domowego, od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Equipamento de TIC para agregados familiares</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zařízení IKT pro domácnosti</dct:title>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">Tento súbor údajov predstavuje ročné údaje o zariadeniach domácností v informačných a komunikačných technológiách (IKT) podľa typu majetku, počtu tovarov, príjmovej triedy, úrovne odbornej prípravy referenčnej osoby a veľkosti domácnosti od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v dodatku.</dct:description>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">Acest set de date prezintă datele anuale privind echipamentele gospodăriilor populației în domeniul tehnologiilor informației și comunicațiilor (TIC) în funcție de tipul de proprietate, numărul de bunuri, clasa de venituri, nivelul de formare a persoanei de referință și dimensiunea gospodăriei, din 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în apendice.</dct:description>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o opremi gospodinjstev na področju informacijskih in komunikacijskih tehnologij (IKT) po vrsti premoženja, številu blaga, dohodkovnem razredu, stopnji usposabljanja referenčne osebe in velikosti gospodinjstva od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v Dodatku.</dct:description>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">IKT-utrustning för hushåll</dct:title>
+            <dct:description xml:lang="de-t-fr-t0-mtec">In diesem Datensatz werden die jährlichen Daten über die Ausstattung der privaten Haushalte in der Informations- und Kommunikationstechnologie (IKT) nach Art der Immobilie, Anzahl der Güter, Einkommensklasse, Bildungsniveau der Bezugsperson und Haushaltsgröße seit 1998 dargestellt. Beschreibungen der Variablen der CSV-Datei finden Sie im Anhang.</dct:description>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Šiame duomenų rinkinyje pateikiami nuo 1998 m. metiniai duomenys apie namų ūkių įrangą informacinių ir ryšių technologijų (IRT) srityje pagal turto rūšį, prekių skaičių, pajamų klasę, referencinio asmens mokymo lygį ir namų ūkio dydį. CSV rinkmenos kintamųjų aprašymai pateikiami priedėlyje.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tieto- ja viestintätekniikan laitteet kotitalouksille</dct:title>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια στοιχεία σχετικά με τον εξοπλισμό των νοικοκυριών στις τεχνολογίες πληροφοριών και επικοινωνιών (ΤΠΕ) ανά είδος ιδιοκτησίας, αριθμό αγαθών, εισοδηματική κατηγορία, επίπεδο κατάρτισης του προσώπου αναφοράς και μέγεθος του νοικοκυριού, από το 1998.
+Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">Tento datový soubor představuje roční údaje o vybavení domácností v informačních a komunikačních technologiích (IKT) podle druhu majetku, počtu zboží, příjmové třídy, úrovně vzdělání referenční osoby a velikosti domácnosti od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Deze dataset bevat de jaarlijkse gegevens over de uitrusting van huishoudens in informatie- en communicatietechnologieën (ICT) per soort onroerend goed, aantal goederen, inkomensklasse, opleidingsniveau van de referentiepersoon en grootte van het huishouden, sinds 1998. Beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">I detta dataset presenteras de årliga uppgifterna om hushållens utrustning inom informations- och kommunikationsteknik (IKT) efter typ av egendom, antal varor, inkomstklass, referenspersonens utbildningsnivå och hushållets storlek, sedan 1998. Beskrivningar av variablerna i CSV-filen finns i tillägget.</dct:description>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Tässä tietokokonaisuudessa esitetään vuotuiset tiedot kotitalouksien tieto- ja viestintätekniikan laitteista kiinteistötyypeittäin, tavaroiden lukumäärän, tuloluokan, viitehenkilön koulutustason ja kotitalouden koon mukaan vuodesta 1998 alkaen. CSV-tiedoston muuttujien kuvaukset ovat saatavilla liitteessä.</dct:description>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">Cuirtear i láthair sa tacar sonraí seo na sonraí bliantúla maidir le trealamh teaghlach i dteicneolaíochtaí faisnéise agus cumarsáide (TFC) de réir an chineáil maoine, líon na n-earraí, aicme ioncaim, leibhéal oiliúna an duine tagartha agus méid an teaghlaigh, ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san Aguisín.</dct:description>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">Този набор от данни представя годишните данни за оборудването на домакинствата в областта на информационните и комуникационните технологии (ИКТ) по вид имот, брой стоки, клас доходи, ниво на обучение на референтното лице и размер на домакинството от 1998 г. насам. Описанията на променливите в CSV файла са налични в допълнението.</dct:description>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Εξοπλισμός ΤΠΕ για νοικοκυριά</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία του εξοπλισμού των νοικοκυριών με τεχνολογία πληροφοριών και επικοινωνιών (ΤΠΕ) ανά τύπο προϊόντος, αριθμό προϊόντων, μηνιαίο εισόδημα νοικοκυριού, εκπαιδευτικό καθεστώς του προσώπου αναφοράς και χαιρετισμούς νοικοκυριού, από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utrustning</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-обладнання домогосподарств</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniset laitteet</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-seadmed</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Equipamento de TIC dos agregados familiares</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="it">rilevazione-campionaria</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor představuje roční údaje o vybavení domácností s informačními a komunikačními technologiemi (IKT) podle typu výrobku, počtu produktů, měsíčního příjmu domácnosti, vzdělání referenční osoby a pozdravů domácnosti od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o zariadeniach domácností s informačnými a komunikačnými technológiami (IKT) podľa typu výrobku, počtu výrobkov, mesačného príjmu domácností, vzdelávacieho statusu referenčnej osoby a pozdravov domácnosti od roku 1998.
+Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību IKT iekārtas</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiával (IKT) rendelkező háztartások berendezéseinek éves adatait mutatja be terméktípus, termékszám, havi háztartási jövedelem, referenciaszemély oktatási státusza és háztartási üdvözletek szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Sprzęt teleinformatyczny gospodarstw domowych</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset bevat de jaarlijkse cijfers van de apparatuur van huishoudens met informatie- en communicatietechnologie (ICT) per productsoort, aantal producten, maandelijks inkomen van huishoudens, onderwijsstatus van de referentiepersoon en huishoudelijke groeten, sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+        <dcat:keyword xml:lang="it">cultura-media-societa-dellinformazione-sport</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels de l'équipement des ménages en technologies de l'information et de la communication (TIC) selon le type de bien, le nombre de biens, la classe de revenu, le niveau de formation de la personne de référence et la taille du ménage, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo insieme di dati presenta le cifre annuali delle attrezzature delle famiglie con tecnologie dell'informazione e della comunicazione (TIC) per tipo di prodotto, numero di prodotti, reddito familiare mensile, stato educativo della persona di riferimento e saluti familiari, dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Oprema za IKT gospodinjstev</dct:title>
+        <dcat:keyword xml:lang="de">kultur-medien-informationsgesellschaft-sport</dcat:keyword>
+        <dcat:keyword xml:lang="de">haushaltsbudgeterhebung</dcat:keyword>
+        <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o opremi gospodinjstev z informacijsko in komunikacijsko tehnologijo (IKT) po vrsti izdelka, številu izdelkov, mesečnem dohodku gospodinjstva, izobraževalnem statusu referenčne osebe in pozdravih gospodinjstev od leta 1998.
+Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Tagħmir tal-ICT tal-unitajiet domestiċi</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Trealamh TFC teaghlach</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="en">household-budget-survey</dcat:keyword>
+        <dcat:keyword xml:lang="de">stichprobenerhebung</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dcat:keyword xml:lang="it">indagine-sul-budget-delle-economie-domestiche</dcat:keyword>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an trealaimh atá ag teaghlaigh le teicneolaíocht faisnéise agus cumarsáide (TFC) de réir chineál an táirge, líon na dtáirgí, ioncam teaghlaigh míosúil, stádas oideachais an duine tagartha agus beannachtaí teaghlaigh, ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Echipamente TIC ale gospodăriilor</dct:title>
+        <dct:title xml:lang="de">IKT-Ausstattung der Haushalte</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące wyposażenia gospodarstw domowych w technologie informacyjno-komunikacyjne (ICT) według rodzaju produktu, liczby produktów, miesięcznego dochodu gospodarstwa domowego, statusu edukacyjnego osoby referencyjnej i pozdrowień gospodarstwa domowego, od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tässä aineistossa esitetään tieto- ja viestintätekniikkaa käyttävien kotitalouksien laitteiden vuosiluvut tuotetyypeittäin, tuotteiden lukumäärän, kotitalouksien kuukausitulojen, viitehenkilön koulutustilanteen ja kotitalouksien tervehdysten mukaan vuodesta 1998 lähtien. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+        <dct:title xml:lang="fr">Equipement TIC des ménages</dct:title>
+        <dcat:keyword xml:lang="fr">enquete--par-sondage</dcat:keyword>
+        <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse info- ja kommunikatsioonitehnoloogiaga (IKT) kodumajapidamiste seadmete aastaandmed tooteliikide, toodete arvu, leibkonna igakuise sissetuleku, võrdlusisiku haridusalase staatuse ja kodumajapidamiste tervituste kaupa alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/91586d78-431c-4e99-b7e0-03dc7818bd18">
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utrustning</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami nuo 1998 m. namų ūkių informacinių ir ryšių technologijų (IRT) įrangos metiniai duomenys pagal produktų tipą, produktų skaičių, mėnesines namų ūkio pajamas, referencinio asmens išsilavinimo statusą ir namų ūkio sveikinimus. Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the equipment of households with information and communication technology (ICT) by product type, number of products, monthly household income, educational status of the reference person and household greetings, since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del equipamiento de los hogares con tecnología de la información y la comunicación (TIC) por tipo de producto, número de productos, ingresos mensuales del hogar, situación educativa de la persona de referencia y saludos del hogar, desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Trealamh TFC teaghlach</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie dati par mājsaimniecību aprīkojumu ar informācijas un komunikācijas tehnoloģijām (IKT) pēc produktu veida, produktu skaita, mājsaimniecības mēneša ienākumiem, atsauces personas izglītības statusa un mājsaimniecības apsveikumiem kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā. Šajā datu kopā ir atspoguļoti ikgadējie dati par mājsaimniecību aprīkojumu ar informācijas un komunikācijas tehnoloģijām (IKT) pēc produktu veida, produktu skaita, mājsaimniecības mēneša ienākumiem, atsauces personas izglītības statusa un mājsaimniecības apsveikumiem kopš 1998. gada.
+Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tat-tagħmir tal-unitajiet domestiċi bit-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) skont it-tip ta’ prodott, l-għadd ta’ prodotti, l-introjtu ta’ kull xahar tal-unità domestika, l-istatus edukattiv tal-persuna ta’ referenza u l-awguri tal-unitajiet domestiċi, mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi. Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tat-tagħmir tal-unitajiet domestiċi bit-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) skont it-tip ta’ prodott, l-għadd ta’ prodotti, l-introjtu ta’ kull xahar tal-unità domestika, l-istatus edukattiv tal-persuna ta’ referenza u l-awguri tal-unitajiet domestiċi, mill-1998.
+Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ИКТ оборудване на домакинствата</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä aineistossa esitetään tieto- ja viestintätekniikkaa käyttävien kotitalouksien laitteiden vuosiluvut tuotetyypeittäin, tuotteiden lukumäärän, kotitalouksien kuukausitulojen, viitehenkilön koulutustilanteen ja kotitalouksien tervehdysten mukaan vuodesta 1998 lähtien. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-seadmed</dct:title>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset bevat de jaarlijkse cijfers van de apparatuur van huishoudens met informatie- en communicatietechnologie (ICT) per productsoort, aantal producten, maandelijks inkomen van huishoudens, onderwijsstatus van de referentiepersoon en huishoudelijke groeten, sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage. Deze dataset bevat de jaarlijkse cijfers van de apparatuur van huishoudens met informatie- en communicatietechnologie (ICT) per productsoort, aantal producten, maandelijks inkomen van huishoudens, onderwijsstatus van de referentiepersoon en huishoudelijke groeten, sinds 1998.
+De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Detta dataset visar de årliga siffrorna för utrustning i hushåll med informations- och kommunikationsteknik (IKT) per produkttyp, antal produkter, månadsinkomst för hushåll, referenspersonens utbildningsstatus och hushållshälsningar, sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan. Detta dataset visar de årliga siffrorna för utrustning i hushåll med informations- och kommunikationsteknik (IKT) per produkttyp, antal produkter, månadsinkomst för hushåll, referenspersonens utbildningsstatus och hushållshälsningar, sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Equipo de TIC de los hogares</dct:title>
+            <dct:title xml:lang="de">IKT-Ausstattung der Haushalte</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an trealaimh atá ag teaghlaigh le teicneolaíocht faisnéise agus cumarsáide (TFC) de réir chineál an táirge, líon na dtáirgí, ioncam teaghlaigh míosúil, stádas oideachais an duine tagartha agus beannachtaí teaghlaigh, ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:identifier>19704311-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o zariadeniach domácností s informačnými a komunikačnými technológiami (IKT) podľa typu výrobku, počtu výrobkov, mesačného príjmu domácností, vzdelávacieho statusu referenčnej osoby a pozdravov domácnosti od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v prílohe. V tomto súbore údajov sa uvádzajú ročné údaje o zariadeniach domácností s informačnými a komunikačnými technológiami (IKT) podľa typu výrobku, počtu výrobkov, mesačného príjmu domácností, vzdelávacieho statusu referenčnej osoby a pozdravov domácnosti od roku 1998.
+Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704311/appendix"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Equipamento de TIC dos agregados familiares</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року. Опис змінних у файлі CSV доступний у додатку. У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року. Опис змінних у файлі CSV доступний у додатку. У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року. Опис змінних у файлі CSV доступний у додатку. У цьому наборі даних представлені річні показники обладнання домогосподарств з інформаційно-комунікаційними технологіями (ІКТ) за видами продукції, кількістю продуктів, щомісячними доходами домогосподарств, освітнім статусом довідкової особи та побутовими привітаннями, починаючи з 1998 року.
+Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udstyr</dct:title>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Ausstattung der Haushalte mit Informations- und Kommunikationstechnik (IKT) nach Produktart, Anzahl Produkte, monatliches Haushaltseinkommen, Bildungsstand der Referenzperson und Haushaltsgrüsse, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje brojke opreme kućanstava s informacijskom i komunikacijskom tehnologijom (IKT) prema vrsti proizvoda, broju proizvoda, mjesečnom dohotku kućanstva, obrazovnom statusu referentne osobe i pozdravima kućanstva, od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questo insieme di dati presenta le cifre annuali delle attrezzature delle famiglie con tecnologie dell'informazione e della comunicazione (TIC) per tipo di prodotto, numero di prodotti, reddito familiare mensile, stato educativo della persona di riferimento e saluti familiari, dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Echipamente TIC ale gospodăriilor</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os números anuais dos equipamentos dos domicílios com tecnologia da informação e comunicação (TIC) por tipo de produto, número de produtos, renda familiar mensal, status educacional da pessoa de referência e saudações domiciliares, desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice. Este conjunto de dados apresenta os números anuais dos equipamentos dos domicílios com tecnologia da informação e comunicação (TIC) por tipo de produto, número de produtos, renda familiar mensal, status educacional da pessoa de referência e saudações domiciliares, desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT įranga</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Oprema za IKT gospodinjstev</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for udstyr i husholdninger med informations- og kommunikationsteknologi (IKT) efter produkttype, antal produkter, månedlig husstandsindkomst, referencepersonens uddannelsesmæssige status og huslykønskninger siden 1998. Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dct:format>ODS</dct:format>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniset laitteet</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o opremi gospodinjstev z informacijsko in komunikacijsko tehnologijo (IKT) po vrsti izdelka, številu izdelkov, mesečnem dohodku gospodinjstva, izobraževalnem statusu referenčne osebe in pozdravih gospodinjstev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku. V tem naboru podatkov so predstavljeni letni podatki o opremi gospodinjstev z informacijsko in komunikacijsko tehnologijo (IKT) po vrsti izdelka, številu izdelkov, mesečnem dohodku gospodinjstva, izobraževalnem statusu referenčne osebe in pozdravih gospodinjstev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξοπλισμός ΤΠΕ των νοικοκυριών</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse info- ja kommunikatsioonitehnoloogiaga (IKT) kodumajapidamiste seadmete aastaandmed tooteliikide, toodete arvu, leibkonna igakuise sissetuleku, võrdlusisiku haridusalase staatuse ja kodumajapidamiste tervituste kaupa alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Informacijska i komunikacijska oprema kućanstava</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-обладнання домогосподарств</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704311/appendix"/>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące wyposażenia gospodarstw domowych w technologie informacyjno-komunikacyjne (ICT) według rodzaju produktu, liczby produktów, miesięcznego dochodu gospodarstwa domowego, statusu edukacyjnego osoby referencyjnej i pozdrowień gospodarstwa domowego, od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku. Ten zbiór danych przedstawia roczne dane dotyczące wyposażenia gospodarstw domowych w technologie informacyjno-komunikacyjne (ICT) według rodzaju produktu, liczby produktów, miesięcznego dochodu gospodarstwa domowego, statusu edukacyjnego osoby referencyjnej i pozdrowień gospodarstwa domowego, od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:title xml:lang="fr">Equipement TIC des ménages</dct:title>
+            <dcat:mediaType>application/vnd.oasis.opendocument.spreadsheet</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Informační a komunikační technologie domácností</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-apparatuur van huishoudens</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία του εξοπλισμού των νοικοκυριών με τεχνολογία πληροφοριών και επικοινωνιών (ΤΠΕ) ανά τύπο προϊόντος, αριθμό προϊόντων, μηνιαίο εισόδημα νοικοκυριού, εκπαιδευτικό καθεστώς του προσώπου αναφοράς και χαιρετισμούς νοικοκυριού, από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiával (IKT) rendelkező háztartások berendezéseinek éves adatait mutatja be terméktípus, termékszám, havi háztartási jövedelem, referenciaszemély oktatási státusza és háztartási üdvözletek szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Háztartások IKT-berendezései</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Sprzęt teleinformatyczny gospodarstw domowych</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tagħmir tal-ICT tal-unitajiet domestiċi</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за оборудването на домакинствата с информационни и комуникационни технологии (ИКТ) по вид продукт, брой продукти, месечен доход на домакинството, образователен статус на референтното лице и домакински поздрави от 1998 г. насам. Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels de l'équipement des ménages en technologies de l'information et de la communication (TIC) selon le type de bien, le nombre de biens, la classe de revenu, le niveau de formation de la personne de référence et la taille du ménage, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale echipamentelor gospodăriilor cu tehnologia informației și comunicațiilor (TIC) în funcție de tipul de produs, numărul de produse, venitul lunar al gospodăriei, statutul educațional al persoanei de referință și salutările gospodărești, din 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību IKT iekārtas</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-03T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">Apparecchiature TIC delle famiglie</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor představuje roční údaje o vybavení domácností s informačními a komunikačními technologiemi (IKT) podle typu výrobku, počtu produktů, měsíčního příjmu domácnosti, vzdělání referenční osoby a pozdravů domácnosti od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT equipment of households</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-de-t0-mtec">Equipo de TIC de los hogares</dct:title>
+        <dcat:keyword xml:lang="en">culture-media-information-society-sports</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="fr">culture-medias-societe-de-linformation-sport</dcat:keyword>
+        <dcat:keyword xml:lang="fr">enquete-sur-le-budget-des-menages</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Informacijska i komunikacijska oprema kućanstava</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-07-06T00:00:00</dct:issued>
+        <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udstyr</dct:title>
+        <dct:identifier>19704309@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale echipamentelor gospodăriilor cu tehnologia informației și comunicațiilor (TIC) în funcție de tipul de produs, numărul de produse, venitul lunar al gospodăriei, statutul educațional al persoanei de referință și salutările gospodărești, din 1998.
+Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del equipamiento de los hogares con tecnología de la información y la comunicación (TIC) por tipo de producto, número de productos, ingresos mensuales del hogar, situación educativa de la persona de referencia y saludos del hogar, desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Detta dataset visar de årliga siffrorna för utrustning i hushåll med informations- och kommunikationsteknik (IKT) per produkttyp, antal produkter, månadsinkomst för hushåll, referenspersonens utbildningsstatus och hushållshälsningar, sedan 1998.
+Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εξοπλισμός ΤΠΕ των νοικοκυριών</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">ICT-apparatuur van huishoudens</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">ICT equipment of households</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-ind-30103_eq"/>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for udstyr i husholdninger med informations- og kommunikationsteknologi (IKT) efter produkttype, antal produkter, månedlig husstandsindkomst, referencepersonens uddannelsesmæssige status og huslykønskninger siden 1998. Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+        <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Ausstattung der Haushalte mit Informations- und Kommunikationstechnik (IKT) nach Produktart, Anzahl Produkte, monatliches Haushaltseinkommen, Bildungsstand der Referenzperson und Haushaltsgrüsse, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami nuo 1998 m. namų ūkių informacinių ir ryšių technologijų (IRT) įrangos metiniai duomenys pagal produktų tipą, produktų skaičių, mėnesines namų ūkio pajamas, referencinio asmens išsilavinimo statusą ir namų ūkio sveikinimus. Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT įranga</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie dati par mājsaimniecību aprīkojumu ar informācijas un komunikācijas tehnoloģijām (IKT) pēc produktu veida, produktu skaita, mājsaimniecības mēneša ienākumiem, atsauces personas izglītības statusa un mājsaimniecības apsveikumiem kopš 1998. gada.
+Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Háztartások IKT-berendezései</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Apparecchiature TIC delle famiglie</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

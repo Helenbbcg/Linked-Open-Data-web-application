@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/dg-near-pre-accession-assistance-to-bosnia-herzegovina">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:13:34Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T17:12:35Z</edp:transReceived>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>5ef24a52f710ad7b5fff4a65fd1cc407</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>dg-near-pre-accession-assistance-to-bosnia-herzegovina</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/dg-near-pre-accession-assistance-to-bosnia-herzegovina"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/dg-near-pre-accession-assistance-to-bosnia-herzegovina">
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5469"/>
+        <dct:title xml:lang="de-t-en-t0-mtec">GD NEAR – Heranführungshilfe für Bosnien und Herzegowina</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Naabruspoliitika ja laienemisläbirääkimiste peadirektoraat – Ühinemiseelne abi Bosniale ja Hertsegoviinale</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dcat:keyword xml:lang="en">IPA</dcat:keyword>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat programów finansowanych w ramach Instrumentu Pomocy Przedakcesyjnej (IPA i IPA II) w Bośni i Hercegowinie od 2010 r.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2016-02-08</dct:modified>
+        <dct:title xml:lang="lv-t-en-t0-mtec">NEAR ĢD — Pirmspievienošanās palīdzība Bosnijai un Hercegovinai</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis faoi chláir arna maoiniú tríd an Ionstraim um Chúnamh Réamhaontachais (IPA agus IPA II) sa Bhoisnia agus sa Heirseagaivéin ó 2010 i leith.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">DG NEAR – Pomoc przedakcesyjna dla Bośni i Hercegowiny</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Naapuruuspolitiikan ja laajentumisneuvottelujen pääosasto – Liittymistä valmisteleva tuki Bosnia ja Hertsegovinalle</dct:title>
+        <dct:title xml:lang="fr-t-en-t0-mtec">DG NEAR — Aide de préadhésion à la Bosnie-Herzégovine</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/6710"/>
+        <dct:title xml:lang="en">DG NEAR - Pre-accession assistance to Bosnia &amp; Herzegovina</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://www.iatiregistry.org/dataset/ec-near-ba">
+            <schema:url>https://www.iatiregistry.org/dataset/ec-near-ba</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/dg-near-pre-accession-assistance-to-bosnia-herzegovina"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dcat:keyword xml:lang="en">Instrument for Pre-accession Assistance</dcat:keyword>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tiedot liittymistä valmistelevasta tukivälineestä (IPA ja IPA II) Bosnia ja Hertsegovinassa vuodesta 2010 alkaen rahoitetuista ohjelmista.</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om programmer, der har været finansieret gennem instrumentet til førtiltrædelsesbistand (IPA og IPA II) i Bosnien-Hercegovina siden 2010.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre os programas financiados pelo Instrumento de Assistência de Pré-Adesão (IPA e IPA II) na Bósnia-Herzegovina desde 2010.</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teave ühinemiseelse abi rahastamisvahendi (IPA ja IPA II) kaudu Bosnias ja Hertsegoviinas alates 2010. aastast rahastatud programmide kohta.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/c65c20af-1411-4315-b481-01707ad2a5da">
+            <vcard:hasEmail rdf:resource="mailto:delegation-bih@eeas.europa.eu"/>
+            <vcard:organisation-name>Delegation of the European Union to Bosnia and Herzegovina</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://europa.ba/">
+                <schema:url>http://europa.ba/</schema:url>
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+387033254700">
+                <vcard:hasValue rdf:resource="tel:+387033254700"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/50159621-99c6-450e-b535-d8d06bf185e4">
+                <vcard:street-address>Skenderija 3a, 71000, Sarajevo</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:identifier>ec-near-ba</dct:identifier>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BIH"/>
+        </dct:spatial>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:title xml:lang="mt-t-en-t0-mtec">DĠ NEAR — Għajnuna ta’ qabel l-adeżjoni lill-Bożnija-Ħerzegovina</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par programmām, ko Bosnijā un Hercegovinā kopš 2010. gada finansē no Pirmspievienošanās palīdzības instrumenta (IPA un IPA II).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2a8e219b-0ed7-427d-b170-1f40029510c1">
+            <dct:title xml:lang="sl-t-en-t0-mtec">Prenesite datoteko blizu dejavnosti – Bosna in Hercegovina</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis faoi chláir arna maoiniú tríd an Ionstraim um Chúnamh Réamhaontachais (IPA agus IPA II) sa Bhoisnia agus sa Heirseagaivéin ó 2010 i leith.</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">Informationen über die seit 2010 im Rahmen des Instruments für Heranführungshilfe (IPA und IPA II) in Bosnien und Herzegowina finanzierten Programme.</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/xml"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre os programas financiados pelo Instrumento de Assistência de Pré-Adesão (IPA e IPA II) na Bósnia-Herzegovina desde 2010.</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind programele finanțate prin Instrumentul de asistență pentru preaderare (IPA și IPA II) în Bosnia și Herțegovina începând din 2010.</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Lataa lähellä toimintotiedostoa – Bosnia-Herzegovina</dct:title>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_NEAR_C_BA.xml"/>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over programma’s die sinds 2010 via het instrument voor pretoetredingssteun (IPA en IPA II) in Bosnië en Herzegovina worden gefinancierd.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">Información sobre los programas financiados a través del Instrumento de Ayuda Preadhesión (IPA e IAP II) en Bosnia y Herzegovina desde 2010.</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie programas, finansuojamas pagal Pasirengimo narystei pagalbos priemonę (PNPP ir PNPP II) Bosnijoje ir Hercegovinoje nuo 2010 m.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sui programmi finanziati dallo strumento di assistenza preadesione (IPA e IPA II) in Bosnia-Erzegovina dal 2010.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Stiahnuť súbor v blízkosti činnosti – Bosna-Herzegovina</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Télécharger Fichier d’activité proche — Bosnia-Herzegovina</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με τα προγράμματα που χρηματοδοτούνται μέσω του Μηχανισμού Προενταξιακής Βοήθειας (ΜΠΒ και ΜΠΒ ΙΙ) στη Βοσνία-Ερζεγοβίνη από το 2010.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Download Near Activity File — Bosnië-Herzegovina</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o programih, financiranih iz instrumenta za predpristopno pomoč (IPA in IPA II) v Bosni in Hercegovini od leta 2010.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Descărcați fișierul de activitate din apropiere – Bosnia-Herțegovina</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar programmi ffinanzjati permezz tal-Istrument għall-Assistenza ta’ Qabel l-Adeżjoni (IPA u IPA II) fil-Bosnja-Ħerzegovina mill-2010.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/b9ca7640-0122-490e-b815-a3924b962dae</dct:identifier>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat programów finansowanych w ramach Instrumentu Pomocy Przedakcesyjnej (IPA i IPA II) w Bośni i Hercegowinie od 2010 r.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Informace o programech financovaných z nástroje předvstupní pomoci (NPP a NPP II) v Bosně a Hercegovině od roku 2010.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Information om program som finansierats genom instrumentet för stöd inför anslutningen (IPA och IPA II) i Bosnien och Hercegovina sedan 2010.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Íoslódáil comhad gníomhaíochta in aice láimhe — Bhoisnia-Heirseagaivéin</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Letöltés Near Activity fájl – Bosznia-Hercegovina</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Parsisiųsti Netoli veiklos failą – Bosnija-Hercegovina</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Lejupielādēt blakus darbības failu — Bosnija-Hercegovina</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Preuzimanje datoteka u blizini aktivnosti – Bosna i Hercegovina</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Hämta nära aktivitetsfil – Bosnien-Hercegovina</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Baixar Arquivo Perto de Atividade — Bósnia-Herzegovina</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Hent I nærheden af Aktivitetsfil — Bosnien-Hercegovina</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Scarica il file di attività vicino — Bosnia-Erzegovina</dct:title>
+            <dct:title xml:lang="en">Download Near Activity File - Bosnia-Herzegovina </dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o programima koji se financiraju iz Instrumenta pretpristupne pomoći (IPA i IPA II) u Bosni i Hercegovini od 2010.</dct:description>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_NEAR_C_BA.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-10-31T11:42:18.550276+02:00</dct:issued>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par programmām, ko Bosnijā un Hercegovinā kopš 2010. gada finansē no Pirmspievienošanās palīdzības instrumenta (IPA un IPA II).</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Near Activity File herunterladen – Bosnien-Herzegowina</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Download Near Activity File – Bosna-Herzegovina</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Pobierz plik aktywności w pobliżu – Bośnia-Hercegowina</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur les programmes financés par l’instrument d’aide de préadhésion (IAP et IAP II) en Bosnie-Herzégovine depuis 2010.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Descargar archivo de actividad — Bosnia-Herzegovina</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om programmer, der har været finansieret gennem instrumentet til førtiltrædelsesbistand (IPA og IPA II) i Bosnien-Hercegovina siden 2010.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tiedot liittymistä valmistelevasta tukivälineestä (IPA ja IPA II) Bosnia ja Hertsegovinassa vuodesta 2010 alkaen rahoitetuista ohjelmista.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o programoch financovaných prostredníctvom nástroja predvstupovej pomoci (IPA a IPA II) v Bosne a Hercegovine od roku 2010.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Tájékoztatás az Előcsatlakozási Támogatási Eszközből (IPA és IPA II) finanszírozott programokról Bosznia-Hercegovinában 2010 óta.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Информация за програмите, финансирани чрез Инструмента за предприсъединителна помощ (ИПП и ИПП II) в Босна и Херцеговина от 2010 г. насам.</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Niżżel il-Fajl ta’ Attività Qarib — il-Bosnja-Ħerzegovina</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Lae alla kõrvaltegevusfail – Bosnia-Hertsegoviina</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Teave ühinemiseelse abi rahastamisvahendi (IPA ja IPA II) kaudu Bosnias ja Hertsegoviinas alates 2010. aastast rahastatud programmide kohta.</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+            </dct:format>
+            <dct:description xml:lang="en">Information on programmes financed through the Instrument for Pre-accession Assistance (IPA and IPA II) in Bosnia and Herzegovina since 2010.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Κατεβάστε το αρχείο Κοντά Δραστηριότητα — Βοσνία-Ερζεγοβίνη</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Изтегляне на файла в близост до дейността — Босна и Херцеговина</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="nl-t-en-t0-mtec">DG NEAR — Pretoetredingssteun aan Bosnië en Herzegovina</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over programma’s die sinds 2010 via het instrument voor pretoetredingssteun (IPA en IPA II) in Bosnië en Herzegovina worden gefinancierd.</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">GD NEAR — Førtiltrædelsesbistand til Bosnien-Hercegovina</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">DG NEAR – Pasirengimo narystei pagalba Bosnijai ir Hercegovinai</dct:title>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        </dct:accrualPeriodicity>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur les programmes financés par l’instrument d’aide de préadhésion (IAP et IAP II) en Bosnie-Herzégovine depuis 2010.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">GR NEAR – Predvstupová pomoc Bosne a Hercegovine</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o programih, financiranih iz instrumenta za predpristopno pomoč (IPA in IPA II) v Bosni in Hercegovini od leta 2010.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dct:description xml:lang="es-t-en-t0-mtec">Información sobre los programas financiados a través del Instrumento de Ayuda Preadhesión (IPA e IAP II) en Bosnia y Herzegovina desde 2010.</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">GŘ NEAR – Předvstupní pomoc Bosně a Hercegovině</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Glavna uprava za susjedsku politiku i pregovore o proširenju – Pretpristupna pomoć Bosni i Hercegovini</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Информация за програмите, финансирани чрез Инструмента за предприсъединителна помощ (ИПП и ИПП II) в Босна и Херцеговина от 2010 г. насам.</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">DG NEAR — Assistenza preadesione alla Bosnia-Erzegovina</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">ΓΔ NEAR — Προενταξιακή βοήθεια προς τη Βοσνία-Ερζεγοβίνη</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Informace o programech financovaných z nástroje předvstupní pomoci (NPP a NPP II) v Bosně a Hercegovině od roku 2010.</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o programima koji se financiraju iz Instrumenta pretpristupne pomoći (IPA i IPA II) u Bosni i Hercegovini od 2010.</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">DG NEAR – Asistență de preaderare pentru Bosnia și Herțegovina</dct:title>
+        <dct:description xml:lang="de-t-en-t0-mtec">Informationen über die seit 2010 im Rahmen des Instruments für Heranführungshilfe (IPA und IPA II) in Bosnien und Herzegowina finanzierten Programme.</dct:description>
+        <dcat:keyword xml:lang="en">IPA II</dcat:keyword>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Information om program som finansierats genom instrumentet för stöd inför anslutningen (IPA och IPA II) i Bosnien och Hercegovina sedan 2010.</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">DG NEAR — Ayuda de preadhesión a Bosnia y Herzegovina</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Tájékoztatás az Előcsatlakozási Támogatási Eszközből (IPA és IPA II) finanszírozott programokról Bosznia-Hercegovinában 2010 óta.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4057"/>
+        <dct:title xml:lang="bg-t-en-t0-mtec">ГД „Политика за съседство и преговори за разширяване“ — Предприсъединителна помощ за Босна и Херцеговина</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">GD NEAR – Predpristopna pomoč Bosni in Hercegovini</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/NEAR"/>
+        </dct:publisher>
+        <dct:title xml:lang="hu-t-en-t0-mtec">DG NEAR – Előcsatlakozási támogatás Bosznia-Hercegovinának</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie programas, finansuojamas pagal Pasirengimo narystei pagalbos priemonę (PNPP ir PNPP II) Bosnijoje ir Hercegovinoje nuo 2010 m.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sui programmi finanziati dallo strumento di assistenza preadesione (IPA e IPA II) in Bosnia-Erzegovina dal 2010.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o programoch financovaných prostredníctvom nástroja predvstupovej pomoci (IPA a IPA II) v Bosne a Hercegovine od roku 2010.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/12"/>
+        <dct:title xml:lang="ga-t-en-t0-mtec">DG NEAR — Cúnamh réamhaontachais don Bhoisnia agus don Heirseagaivéin</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4690"/>
+        <dct:title xml:lang="pt-t-en-t0-mtec">DG NEAR — Assistência de pré-adesão à Bósnia e Herzegovina</dct:title>
+        <dct:description xml:lang="en">Information on programmes financed through the Instrument for Pre-accession Assistance (IPA and IPA II) in Bosnia and Herzegovina since 2010.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/7132"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-07-27</dct:issued>
+        <dct:alternative xml:lang="en">European Commission - Near Activity File - Bosnia-Herzegovina </dct:alternative>
+        <dct:title xml:lang="sv-t-en-t0-mtec">GD Grannskapspolitik och utvidgningsförhandlingar – Stöd inför anslutningen till Bosnien och Hercegovina</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar programmi ffinanzjati permezz tal-Istrument għall-Assistenza ta’ Qabel l-Adeżjoni (IPA u IPA II) fil-Bosnja-Ħerzegovina mill-2010.</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind programele finanțate prin Instrumentul de asistență pentru preaderare (IPA și IPA II) în Bosnia și Herțegovina începând din 2010.</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με τα προγράμματα που χρηματοδοτούνται μέσω του Μηχανισμού Προενταξιακής Βοήθειας (ΜΠΒ και ΜΠΒ ΙΙ) στη Βοσνία-Ερζεγοβίνη από το 2010.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:13:20Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:50:26Z</dct:issued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

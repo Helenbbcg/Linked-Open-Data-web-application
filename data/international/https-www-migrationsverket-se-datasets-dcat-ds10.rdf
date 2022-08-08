@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-www-migrationsverket-se-datasets-dcat-ds10">
+    <dct:identifier>https://www.migrationsverket.se/datasets/dcat#ds10</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T04:32:21Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-www-migrationsverket-se-datasets-dcat-ds10"/>
+    <edp:originalLanguage>sv</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/https-www-migrationsverket-se-datasets-dcat-ds10">
+        <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/Annual"/>
+        <dct:description>Beviljade uppehållstillstånd till nära anhöriga (familjeanknytning) efter medborgarskap 1986–2014</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://www.migrationsverket.se/datasets/dcat_foaf#migrationsverket">
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+            <foaf:homepage rdf:resource="http://www.migrationsverket.se"/>
+            <foaf:mbox rdf:resource="mailto:migrationsverket@migrationsverket.se"/>
+            <foaf:name>Migrationsverket</foaf:name>
+          </foaf:Agent>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9af8abed-01d6-49da-8caf-fb360d5be97c">
+            <dct:title xml:lang="sv">Excel</dct:title>
+            <dct:identifier>https://www.migrationsverket.se/datasets/dcat#distribution12</dct:identifier>
+            <dct:description xml:lang="sv">Nedladdningsbar excelfil</dct:description>
+            <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dct:format>application/vnd.ms-excel</dct:format>
+            <dcat:accessURL rdf:resource="https://www.migrationsverket.se/oppna-data/beviljade-uppehallstillstand-till-nara-anhoriga-1986-2014"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-11-01</dct:issued>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="sv">Beviljade uppehållstillstånd till nära anhöriga 1986-2014</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-11-01</dct:modified>
+        <dcat:keyword>Tillstånd, Uppehållstillstånd, Anhöriga, Familjeanknytning</dcat:keyword>
+        <dcat:contactPoint rdf:resource="https://www.migrationsverket.se/datasets/dcat#migrationsverket"/>
+        <dcat:keyword>Migrationsverket</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.migrationsverket.se/psidata"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T04:32:21Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>63eda8e0c8d9b88b00cf182c328421fc</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T13:40:56Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

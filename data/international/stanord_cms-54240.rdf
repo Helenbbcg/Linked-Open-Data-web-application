@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-54240">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>StaNord_CMS:54240</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>9761f123f67169eb9c5ef6b0b1a758c6</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-54240">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ef119e8c-b32e-4409-a405-69452dfd542b">
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjoni tal-Land Schleswig-Holstein Jannar sa Diċembru 2011</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairiú an Land Schleswig-Holstein Eanáir go Nollaig 2011</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj114_S.xls"/>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:54240/resource/a7cb958d-ecee-495b-92da-576bc0b351cb</dct:identifier>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz spolkovej krajiny Šlezvicko-Holštajnsko od januára do decembra 2011</dct:title>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein Januar bis Dezember 2011</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj114_S.xls"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exportul landului Schleswig-Holstein ianuarie-decembrie 2011</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini liidumaa eksport 2011. aasta jaanuarist detsembrini</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Export of the Land Schleswig-Holstein January to December 2011</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas federālās zemes eksports no 2011. gada janvāra līdz decembrim</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av delstaten Schleswig-Holstein januari-december 2011</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein tartomány kivitele 2011. januártól decemberig</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz spolkové země Šlesvicko-Holštýnsko leden až prosinec 2011</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af delstaten Slesvig-Holsten fra januar til december 2011</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazione del Land Schleswig-Holstein da gennaio a dicembre 2011</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт землі Шлезвіг-Гольштейн з січня по грудень 2011 року</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportación del Estado federado de Schleswig-Holstein enero a diciembre de 2011</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγή του ομόσπονδου κράτους Schleswig-Holstein από τον Ιανουάριο έως τον Δεκέμβριο του 2011</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de janvier à décembre 2011</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportação do Land Schleswig-Holstein janeiro a dezembro de 2011</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wywóz kraju związkowego Szlezwik-Holsztyn od stycznia do grudnia 2011 r.</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >91136</dcat:byteSize>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin osavaltion vienti tammi-joulukuussa 2011</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz dežele Schleswig-Holstein januar do decembra 2011</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino žemės eksportas nuo 2011 m. sausio iki gruodžio mėn.</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz savezne zemlje Schleswig-Holstein od siječnja do prosinca 2011.</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-03-04T14:11:17.126097</dct:issued>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на провинция Шлезвиг-Холщайн от януари до декември 2011 г.</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Uitvoer van de deelstaat Sleeswijk-Holstein van januari tot december 2011</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2012-03-08T00:00:00</dct:issued>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjoni tal-Land Schleswig-Holstein Jannar sa Diċembru 2011</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini liidumaa eksport 2011. aasta jaanuarist detsembrini</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Export of the Land Schleswig-Holstein January to December 2011</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">Export of the Land Schleswig-Holstein January to December 2011</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino žemės eksportas nuo 2011 m. sausio iki gruodžio mėn.</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Експорт землі Шлезвіг-Гольштейн з січня по грудень 2011 року</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de janvier à décembre 2011</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+            <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dct:identifier>StaNord_CMS:54240</dct:identifier>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Exportul landului Schleswig-Holstein ianuarie-decembrie 2011</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Exportul landului Schleswig-Holstein ianuarie-decembrie 2011</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein tartomány kivitele 2011. januártól decemberig</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Wywóz kraju związkowego Szlezwik-Holsztyn od stycznia do grudnia 2011 r.</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino žemės eksportas nuo 2011 m. sausio iki gruodžio mėn.</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Esportazzjoni tal-Land Schleswig-Holstein Jannar sa Diċembru 2011</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz spolkovej krajiny Šlezvicko-Holštajnsko od januára do decembra 2011</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-03-04T14:11:17.123554</dct:modified>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        <dcat:keyword>außenhandel</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Uitvoer van de deelstaat Sleeswijk-Holstein van januari tot december 2011</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Exportação do Land Schleswig-Holstein janeiro a dezembro de 2011</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein tartomány kivitele 2011. januártól decemberig</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Eksport af delstaten Slesvig-Holsten fra januar til december 2011</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas federālās zemes eksports no 2011. gada janvāra līdz decembrim</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Esportazione del Land Schleswig-Holstein da gennaio a dicembre 2011</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de janvier à décembre 2011</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wywóz kraju związkowego Szlezwik-Holsztyn od stycznia do grudnia 2011 r.</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Износ на провинция Шлезвиг-Холщайн от януари до декември 2011 г.</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Vývoz spolkovej krajiny Šlezvicko-Holštajnsko od januára do decembra 2011</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Exportação do Land Schleswig-Holstein janeiro a dezembro de 2011</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:info@statistik-nord.de"/>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2011-10-01T00:00:00</schema:startDate>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2011-12-31T00:00:00</schema:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz savezne zemlje Schleswig-Holstein od siječnja do prosinca 2011.</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Exportación del Estado federado de Schleswig-Holstein enero a diciembre de 2011</dct:description>
+        <dct:title>Ausfuhr des Landes Schleswig-Holstein Januar bis Dezember 2011</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini liidumaa eksport 2011. aasta jaanuarist detsembrini</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+        <dcat:keyword>ausfuhr-des-landes-schleswig-holstein</dcat:keyword>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:mbox>info@statistik-nord.de</foaf:mbox>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="es-t-de-t0-mtec">Exportación del Estado federado de Schleswig-Holstein enero a diciembre de 2011</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz spolkové země Šlesvicko-Holštýnsko leden až prosinec 2011</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairiú an Land Schleswig-Holstein Eanáir go Nollaig 2011</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz dežele Schleswig-Holstein januar do decembra 2011</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Εξαγωγή του ομόσπονδου κράτους Schleswig-Holstein από τον Ιανουάριο έως τον Δεκέμβριο του 2011</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin osavaltion vienti tammi-joulukuussa 2011</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Uitvoer van de deelstaat Sleeswijk-Holstein van januari tot december 2011</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Izvoz savezne zemlje Schleswig-Holstein od siječnja do prosinca 2011.</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Izvoz dežele Schleswig-Holstein januar do decembra 2011</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas federālās zemes eksports no 2011. gada janvāra līdz decembrim</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Експорт землі Шлезвіг-Гольштейн з січня по грудень 2011 року</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Eksport af delstaten Slesvig-Holsten fra januar til december 2011</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f5895219-aaa6-4349-bc88-a1616029b718">
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj114_S.pdf"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-03-04T14:11:17.126101</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af delstaten Slesvig-Holsten fra januar til december 2011</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazione del Land Schleswig-Holstein da gennaio a dicembre 2011</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz savezne zemlje Schleswig-Holstein od siječnja do prosinca 2011.</dct:title>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:54240/resource/13a8b54d-7c2c-4e21-8a70-e60a364f220b</dct:identifier>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz spolkovej krajiny Šlezvicko-Holštajnsko od januára do decembra 2011</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairiú an Land Schleswig-Holstein Eanáir go Nollaig 2011</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av delstaten Schleswig-Holstein januari-december 2011</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >47028</dcat:byteSize>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj114_S.pdf"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas federālās zemes eksports no 2011. gada janvāra līdz decembrim</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportação do Land Schleswig-Holstein janeiro a dezembro de 2011</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de janvier à décembre 2011</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz dežele Schleswig-Holstein januar do decembra 2011</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino žemės eksportas nuo 2011 m. sausio iki gruodžio mėn.</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exportul landului Schleswig-Holstein ianuarie-decembrie 2011</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini liidumaa eksport 2011. aasta jaanuarist detsembrini</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin osavaltion vienti tammi-joulukuussa 2011</dct:title>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein Januar bis Dezember 2011</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Export of the Land Schleswig-Holstein January to December 2011</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wywóz kraju związkowego Szlezwik-Holsztyn od stycznia do grudnia 2011 r.</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjoni tal-Land Schleswig-Holstein Jannar sa Diċembru 2011</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz spolkové země Šlesvicko-Holštýnsko leden až prosinec 2011</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на провинция Шлезвиг-Холщайн от януари до декември 2011 г.</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт землі Шлезвіг-Гольштейн з січня по грудень 2011 року</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγή του ομόσπονδου κράτους Schleswig-Holstein από τον Ιανουάριο έως τον Δεκέμβριο του 2011</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein tartomány kivitele 2011. januártól decemberig</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Uitvoer van de deelstaat Sleeswijk-Holstein van januari tot december 2011</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportación del Estado federado de Schleswig-Holstein enero a diciembre de 2011</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Export av delstaten Schleswig-Holstein januari-december 2011</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Onnmhairiú an Land Schleswig-Holstein Eanáir go Nollaig 2011</dct:description>
+        <dct:description>Ausfuhr des Landes Schleswig-Holstein Januar bis Dezember 2011</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin osavaltion vienti tammi-joulukuussa 2011</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Vývoz spolkové země Šlesvicko-Holštýnsko leden až prosinec 2011</dct:description>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Export av delstaten Schleswig-Holstein januari-december 2011</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.schleswig-holstein.de/organization/statistikamt-nord">
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein A.ö.R. (Statistikamt Nord)</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Износ на провинция Шлезвиг-Холщайн от януари до декември 2011 г.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγή του ομόσπονδου κράτους Schleswig-Holstein από τον Ιανουάριο έως τον Δεκέμβριο του 2011</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Esportazione del Land Schleswig-Holstein da gennaio a dicembre 2011</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T23:54:55Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-54240"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-13T14:00:03Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-03-30T23:56:37Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T13:46:00Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18845903-bundesamt-fur-statistik-bfs">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:36:04Z</edp:transReceived>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:21Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:26Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:21Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18845903-bundesamt-fur-statistik-bfs"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>649d2990244cbc902c748c18226048e1</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18845903-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="sk-t-de-t0-mtec">Účet spotreby energie domácností a hospodárstva podľa hospodárskeho sektora</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-09-30T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien ja talouden energiankäyttötili talouden sektoreittain</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A háztartások és a gazdaság energiafelhasználási számlája gazdasági ágazatok szerint</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Kont tal-użu tal-enerġija tal-unitajiet domestiċi u l-ekonomija, skont is-settur ekonomiku</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:keyword xml:lang="fr">espace-et-environnement</dcat:keyword>
+        <dct:title xml:lang="it">Conti dell'energia delle economie domestiche e dell'economia, per settore economico</dct:title>
+        <dcat:keyword xml:lang="it">la-contabilita-ambientale---energia</dcat:keyword>
+        <dct:language>en</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/13cd8809-d1d8-4efd-8028-e7d728d5ee9c">
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-02.04.12.02"/>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Cuntais teaghlaigh agus fuinnimh eacnamaíoch, de réir earnálacha eacnamaíocha</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Household and economic energy accounts, by economic sectors</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Účty domácností a hospodářských energetických účtů podle hospodářských odvětví</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Kotitalouksien ja talouden energiatilit talouden sektoreittain</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Contas das famílias e da energia económica, por setores económicos</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Namų ūkių ir ekonominės energijos sąskaitos pagal ekonomikos sektorius</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Conturile gospodăriilor populației și ale energiei economice, pe sectoare economice</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kodumajapidamiste ja majandusenergia arvepidamine majandussektorite kaupa</dct:title>
+            <dct:identifier>18845923-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Háztartási és gazdasági energiaszámlák gazdasági ágazatok szerint</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Господарські та економічні енергетичні рахунки за секторами економіки</dct:title>
+            <dct:title xml:lang="fr">Comptes de l'énergie des ménages et de l'économie, par secteurs économiques</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Λογαριασμοί οικιακής και οικονομικής ενέργειας, ανά οικονομικό τομέα</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Računi gospodinjstev in ekonomskih energetskih računov po gospodarskih sektorjih</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Rachunki gospodarstw domowych i energii gospodarczej, według sektorów gospodarki</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Mājsaimniecību un ekonomikas enerģijas konti pa ekonomikas sektoriem</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Účty domácností a hospodárskych energetických účtov podľa hospodárskych sektorov</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Energierechnungen der privaten Haushalte und der Wirtschaft nach Wirtschaftssektoren</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Сметки за домакинствата и икономическата енергия по икономически сектори</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Cuentas de los hogares y de la energía económica, por sectores económicos</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Husholdningsregnskaber og økonomiske energiregnskaber efter økonomiske sektorer</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Huishoudelijke en economische energierekeningen, naar economische sectoren</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hushållens och ekonomins energiräkenskaper, efter näringsgren</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Računi kućanstava i gospodarske energije, po gospodarskim sektorima</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Conti delle famiglie e dell'energia economica, per settori economici</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kontijiet domestiċi u ekonomiċi tal-enerġija, skont is-setturi ekonomiċi</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>18845903@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Облік використання енергії домогосподарствами та економікою, за економічними секторами</dct:title>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Contul de consum de energie al gospodăriilor populației și al economiei, pe sectoare economice</dct:title>
+        <dcat:keyword xml:lang="de">umweltgesamtrechnung---energie</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes og økonomiens energiforbrug efter økonomisk sektor</dct:title>
+        <dct:title xml:lang="en">Energy flow accounts by economic player</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Účet spotřeby energie domácností a hospodářství podle hospodářského sektoru</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste ja majanduse energiatarbimise konto majandussektorite kaupa</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Rekening voor het energieverbruik van huishoudens en de economie, per economische sector</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Cuntas úsáide fuinnimh na dteaghlach agus an gheilleagair, de réir earnála eacnamaíche</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Rachunek zużycia energii gospodarstw domowych i gospodarki w podziale na sektory gospodarki</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens och ekonomins energianvändningskonto, efter näringsgren</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fc7e8985-f7de-4e5a-bba0-1e2f72b99870">
+            <dct:title xml:lang="bg-t-it-t0-mtec">Енергийни сметки на вътрешните и икономическите икономики, по икономически сектори</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/je-i-02.04.12.02"/>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Comptes énergétiques des économies nationales et économiques, par secteur économique</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Energetski računi domačih in gospodarskih gospodarstev po gospodarskih sektorjih</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Cuntais fuinnimh ar gheilleagair intíre agus eacnamaíocha, de réir earnála eacnamaíche</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Contas energéticas das economias nacionais e económicas, por setor económico</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Vidaus ir ekonomikos ekonomikos energijos sąskaitos pagal ekonomikos sektorius</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Energiräkenskaper för inhemska och ekonomiska ekonomier, efter näringsgren</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Energierechnungen der heimischen und wirtschaftlichen Volkswirtschaften nach Wirtschaftssektoren</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">A hazai és gazdasági gazdaságok energiaszámlái gazdasági ágazatok szerinti bontásban</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="es-t-it-t0-mtec">Cuentas energéticas de las economías nacionales y económicas, por sector económico</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Koti- ja taloustalouksien energiatilinpito talouden sektoreittain</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Energetski računi domaćih i gospodarskih gospodarstava po gospodarskom sektoru</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">ΕΝΕΡΓΕΙΑΚΟΙ ΛΟΓΑΡΙΑΣΜΟΙ των ΟΙΚΟΝΟΜΙΚΩΝ και ΟΙΚΟΝΟΜΙΚΩΝ ΟΙΚΟΝΟΜΙΩΝ, κατα ΤΟΜΕΑ</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Iekšzemes un ekonomikas ekonomikas enerģijas konti pa ekonomikas sektoriem</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Rachunki energetyczne gospodarek krajowych i gospodarczych w podziale na sektory gospodarki</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Nationale og økonomiske økonomiers energiregnskaber efter økonomisk sektor</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Енергетичні рахунки внутрішньої та економічної економіки за секторами економіки</dct:title>
+            <dct:identifier>18845929-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it">Conti dell'energia delle economie domestiche e dell'economia, per settore economico</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Sisemajanduse ja majanduse energia arvepidamine majandussektorite kaupa</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Kontijiet tal-enerġija tal-ekonomiji domestiċi u ekonomiċi, skont is-settur ekonomiku</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Energetické účty domácich a hospodárskych hospodárstiev podľa hospodárskeho sektora</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Energy accounts of domestic and economic economies, by economic sector</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Conturile energetice ale economiilor interne și economice, pe sectoare economice</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Energierekeningen van de binnenlandse en economische economieën, per economische sector</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Energetické účty domácích a hospodářských ekonomik podle hospodářského sektoru</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/18982cac-852d-4373-a923-67580a2e8349">
+            <dct:title xml:lang="sv-t-en-t0-mtec">Konton för energiflöden per ekonomisk aktör</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845934/master"/>
+            <dct:title xml:lang="en">Energy flow accounts by economic player</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energiestroomrekeningen door economische speler</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Cuentas de flujo de energía por agente económico</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Računi toka energije po gospodarskim subjektima</dct:title>
+            <dct:language>en</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģijas plūsmas konti pēc ekonomikas dalībnieka</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Rachunki przepływów energii według podmiotów gospodarczych</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Kontijiet tal-fluss tal-enerġija skont l-attur ekonomiku</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistrømsregnskaber efter økonomisk aktør</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Λογαριασμοί ροής ενέργειας ανά οικονομικό φορέα</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:identifier>18845934-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiaáramlási számlák gazdasági szereplők szerint</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Cuntais ar shreabhadh fuinnimh ag gníomhaí eacnamaíoch</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Рахунки потоку енергії економічним гравцем</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energieflussrechnungen nach Wirtschaftsakteuren</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845934/master"/>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiavoo arvepidamine majanduses osaleja poolt</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Conti di flusso energetico per operatore economico</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Računi pretoka energije s strani gospodarskega akterja</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Comptes de flux d’énergie par acteur économique</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Сметки за енергийни потоци от икономически участник</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Contas dos fluxos energéticos por interveniente económico</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Účty energetických tokov ekonomických subjektov</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energijos srautų sąskaitos pagal ekonominės veiklos vykdytojus</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Conturile fluxului de energie ale jucătorului economic</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Účty energetických toků podle hospodářských subjektů</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Talouden toimijan energiavirtatilit</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>fr</dct:language>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="fr">comptabilite-environnementale---energie</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību un ekonomikas enerģijas patēriņa konts pa ekonomikas sektoriem</dct:title>
+        <dcat:keyword xml:lang="en">environmental-balance---energy</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-02.04.12.02"/>
+        <dcat:keyword xml:lang="de">raum-und-umwelt</dcat:keyword>
+        <dct:title xml:lang="fr">Comptes de l'énergie des ménages et de l'économie, par secteurs économiques</dct:title>
+        <dcat:keyword xml:lang="it">energia</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių energijos vartojimo sąskaita ir ekonomika pagal ekonomikos sektorių</dct:title>
+        <dcat:keyword xml:lang="en">territory-and-environment</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:06:45.981205</dct:modified>
+        <dct:language>it</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c5de75ee-e54f-446c-b032-6f6c2a8ec210">
+            <dct:title xml:lang="pt-t-en-t0-mtec">Contas dos fluxos energéticos por interveniente económico</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Cuntais ar shreabhadh fuinnimh ag gníomhaí eacnamaíoch</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Conti di flusso energetico per operatore economico</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Λογαριασμοί ροής ενέργειας ανά οικονομικό φορέα</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energijos srautų sąskaitos pagal ekonominės veiklos vykdytojus</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistrømsregnskaber efter økonomisk aktør</dct:title>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiaáramlási számlák gazdasági szereplők szerint</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Сметки за енергийни потоци от икономически участник</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Účty energetických toků podle hospodářských subjektů</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Účty energetických tokov ekonomických subjektov</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Talouden toimijan energiavirtatilit</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Računi toka energije po gospodarskim subjektima</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Cuentas de flujo de energía por agente económico</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Konton för energiflöden per ekonomisk aktör</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģijas plūsmas konti pēc ekonomikas dalībnieka</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Рахунки потоку енергії економічним гравцем</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/en/je-e-02.04.12.02"/>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energieflussrechnungen nach Wirtschaftsakteuren</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiavoo arvepidamine majanduses osaleja poolt</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Kontijiet tal-fluss tal-enerġija skont l-attur ekonomiku</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Rachunki przepływów energii według podmiotów gospodarczych</dct:title>
+            <dct:identifier>18845934-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energiestroomrekeningen door economische speler</dct:title>
+            <dct:title xml:lang="en">Energy flow accounts by economic player</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Comptes de flux d’énergie par acteur économique</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Conturile fluxului de energie ale jucătorului economic</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Računi pretoka energije s strani gospodarskega akterja</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/efb6f43e-910c-4402-ae4a-157fcbe12278">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien ja talouden energiankäyttötili talouden sektoreittain</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Conta de utilização de energia das famílias e da economia, por setor económico</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Conto del consumo energetico delle famiglie e dell'economia, per settore economico</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Účet spotřeby energie domácností a hospodářství podle hospodářského sektoru</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes og økonomiens energiforbrug efter økonomisk sektor</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:identifier>18845909-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A háztartások és a gazdaság energiafelhasználási számlája gazdasági ágazatok szerint</dct:title>
+            <dct:title xml:lang="de">Energieeinsatzkonto der Haushalte und der Wirtschaft, nach Wirtschaftssektoren</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Contul de consum de energie al gospodăriilor populației și al economiei, pe sectoare economice</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių energijos vartojimo sąskaita ir ekonomika pagal ekonomikos sektorių</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845909/master"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Účet spotreby energie domácností a hospodárstva podľa hospodárskeho sektora</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Compte de consommation d’énergie des ménages et de l’économie, par secteur d’activité</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Rachunek zużycia energii gospodarstw domowych i gospodarki w podziale na sektory gospodarki</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste ja majanduse energiatarbimise konto majandussektorite kaupa</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dct:title xml:lang="el-t-de-t0-mtec">Λογαριασμός χρήσης ενέργειας των νοικοκυριών και της οικονομίας, ανά οικονομικό τομέα</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rekening voor het energieverbruik van huishoudens en de economie, per economische sector</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kont tal-użu tal-enerġija tal-unitajiet domestiċi u l-ekonomija, skont is-settur ekonomiku</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Račun potrošnje energije kućanstava i gospodarstva, po gospodarskom sektoru</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Energy use account of households and the economy, by economic sector</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Облік використання енергії домогосподарствами та економікою, за економічними секторами</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-de-t0-mtec">Cuenta de uso de la energía de los hogares y de la economía, por sector económico</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Сметка за потреблението на енергия на домакинствата и икономиката по икономически сектори</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cuntas úsáide fuinnimh na dteaghlach agus an gheilleagair, de réir earnála eacnamaíche</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845909/master"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens och ekonomins energianvändningskonto, efter näringsgren</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Račun porabe energije gospodinjstev in gospodarstva po gospodarskih sektorjih</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību un ekonomikas enerģijas patēriņa konts pa ekonomikas sektoriem</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Energieeinsatzkonto der Haushalte und der Wirtschaft, nach Wirtschaftssektoren</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/04d02e0a-4fa2-4557-bcb5-cef3a7a85da9">
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste ja majanduse energiatarbimise konto majandussektorite kaupa</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Účet spotreby energie domácností a hospodárstva podľa hospodárskeho sektora</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens och ekonomins energianvändningskonto, efter näringsgren</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien ja talouden energiankäyttötili talouden sektoreittain</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Rekening voor het energieverbruik van huishoudens en de economie, per economische sector</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Λογαριασμός χρήσης ενέργειας των νοικοκυριών και της οικονομίας, ανά οικονομικό τομέα</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Účet spotřeby energie domácností a hospodářství podle hospodářského sektoru</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Energy use account of households and the economy, by economic sector</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Contul de consum de energie al gospodăriilor populației și al economiei, pe sectoare economice</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kont tal-użu tal-enerġija tal-unitajiet domestiċi u l-ekonomija, skont is-settur ekonomiku</dct:title>
+            <dct:identifier>18845909-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību un ekonomikas enerģijas patēriņa konts pa ekonomikas sektoriem</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Compte de consommation d’énergie des ménages et de l’économie, par secteur d’activité</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes og økonomiens energiforbrug efter økonomisk sektor</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių energijos vartojimo sąskaita ir ekonomika pagal ekonomikos sektorių</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Račun potrošnje energije kućanstava i gospodarstva, po gospodarskom sektoru</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Račun porabe energije gospodinjstev in gospodarstva po gospodarskih sektorjih</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A háztartások és a gazdaság energiafelhasználási számlája gazdasági ágazatok szerint</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cuntas úsáide fuinnimh na dteaghlach agus an gheilleagair, de réir earnála eacnamaíche</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Conta de utilização de energia das famílias e da economia, por setor económico</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Сметка за потреблението на енергия на домакинствата и икономиката по икономически сектори</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="it-t-de-t0-mtec">Conto del consumo energetico delle famiglie e dell'economia, per settore economico</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-02.04.12.02"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Облік використання енергії домогосподарствами та економікою, за економічними секторами</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Cuenta de uso de la energía de los hogares y de la economía, por sector económico</dct:title>
+            <dct:title xml:lang="de">Energieeinsatzkonto der Haushalte und der Wirtschaft, nach Wirtschaftssektoren</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Rachunek zużycia energii gospodarstw domowych i gospodarki w podziale na sektory gospodarki</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Račun porabe energije gospodinjstev in gospodarstva po gospodarskih sektorjih</dct:title>
+        <dcat:keyword xml:lang="de">energie</dcat:keyword>
+        <dcat:keyword xml:lang="fr">energie</dcat:keyword>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dcat:keyword xml:lang="it">territorio-e-ambiente</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Λογαριασμός χρήσης ενέργειας των νοικοκυριών και της οικονομίας, ανά οικονομικό τομέα</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/80966930-2119-4ada-9840-61afaa68540a">
+            <dct:title xml:lang="hr-t-it-t0-mtec">Energetski računi domaćih i gospodarskih gospodarstava po gospodarskom sektoru</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Koti- ja taloustalouksien energiatilinpito talouden sektoreittain</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">A hazai és gazdasági gazdaságok energiaszámlái gazdasági ágazatok szerinti bontásban</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845929/master"/>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Contas energéticas das economias nacionais e económicas, por setor económico</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Kontijiet tal-enerġija tal-ekonomiji domestiċi u ekonomiċi, skont is-settur ekonomiku</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Cuntais fuinnimh ar gheilleagair intíre agus eacnamaíocha, de réir earnála eacnamaíche</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Comptes énergétiques des économies nationales et économiques, par secteur économique</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Sisemajanduse ja majanduse energia arvepidamine majandussektorite kaupa</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="es-t-it-t0-mtec">Cuentas energéticas de las economías nacionales y económicas, por sector económico</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Енергетичні рахунки внутрішньої та економічної економіки за секторами економіки</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Energetski računi domačih in gospodarskih gospodarstev po gospodarskih sektorjih</dct:title>
+            <dct:identifier>18845929-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de-t-it-t0-mtec">Energierechnungen der heimischen und wirtschaftlichen Volkswirtschaften nach Wirtschaftssektoren</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Nationale og økonomiske økonomiers energiregnskaber efter økonomisk sektor</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Rachunki energetyczne gospodarek krajowych i gospodarczych w podziale na sektory gospodarki</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Energiräkenskaper för inhemska och ekonomiska ekonomier, efter näringsgren</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Energetické účty domácich a hospodárskych hospodárstiev podľa hospodárskeho sektora</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Vidaus ir ekonomikos ekonomikos energijos sąskaitos pagal ekonomikos sektorius</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Energetické účty domácích a hospodářských ekonomik podle hospodářského sektoru</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Conturile energetice ale economiilor interne și economice, pe sectoare economice</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-it-t0-mtec">ΕΝΕΡΓΕΙΑΚΟΙ ΛΟΓΑΡΙΑΣΜΟΙ των ΟΙΚΟΝΟΜΙΚΩΝ και ΟΙΚΟΝΟΜΙΚΩΝ ΟΙΚΟΝΟΜΙΩΝ, κατα ΤΟΜΕΑ</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Iekšzemes un ekonomikas ekonomikas enerģijas konti pa ekonomikas sektoriem</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845929/master"/>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Енергийни сметки на вътрешните и икономическите икономики, по икономически сектори</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Energierekeningen van de binnenlandse en economische economieën, per economische sector</dct:title>
+            <dct:title xml:lang="it">Conti dell'energia delle economie domestiche e dell'economia, per settore economico</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Energy accounts of domestic and economic economies, by economic sector</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/aba48764-ff9a-4fc2-a256-7102976ccde5">
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Cuntais teaghlaigh agus fuinnimh eacnamaíoch, de réir earnálacha eacnamaíocha</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Husholdningsregnskaber og økonomiske energiregnskaber efter økonomiske sektorer</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Háztartási és gazdasági energiaszámlák gazdasági ágazatok szerint</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hushållens och ekonomins energiräkenskaper, efter näringsgren</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Účty domácností a hospodárskych energetických účtov podľa hospodárskych sektorov</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Сметки за домакинствата и икономическата енергия по икономически сектори</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Household and economic energy accounts, by economic sectors</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Mājsaimniecību un ekonomikas enerģijas konti pa ekonomikas sektoriem</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Namų ūkių ir ekonominės energijos sąskaitos pagal ekonomikos sektorius</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Conturile gospodăriilor populației și ale energiei economice, pe sectoare economice</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Računi kućanstava i gospodarske energije, po gospodarskim sektorima</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Účty domácností a hospodářských energetických účtů podle hospodářských odvětví</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kodumajapidamiste ja majandusenergia arvepidamine majandussektorite kaupa</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Λογαριασμοί οικιακής και οικονομικής ενέργειας, ανά οικονομικό τομέα</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Rachunki gospodarstw domowych i energii gospodarczej, według sektorów gospodarki</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845923/master"/>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Kotitalouksien ja talouden energiatilit talouden sektoreittain</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Kontijiet domestiċi u ekonomiċi tal-enerġija, skont is-setturi ekonomiċi</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Računi gospodinjstev in ekonomskih energetskih računov po gospodarskih sektorjih</dct:title>
+            <dct:identifier>18845923-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fr">Comptes de l'énergie des ménages et de l'économie, par secteurs économiques</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Cuentas de los hogares y de la energía económica, por sectores económicos</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Contas das famílias e da energia económica, por setores económicos</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845923/master"/>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Huishoudelijke en economische energierekeningen, naar economische sectoren</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Energierechnungen der privaten Haushalte und der Wirtschaft nach Wirtschaftssektoren</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Господарські та економічні енергетичні рахунки за секторами економіки</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Conti delle famiglie e dell'energia economica, per settori economici</dct:title>
+            <dct:format>XLS</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Račun potrošnje energije kućanstava i gospodarstva, po gospodarskom sektoru</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Conta de utilização de energia das famílias e da economia, por setor económico</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Cuenta de uso de la energía de los hogares y de la economía, por sector económico</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:keyword xml:lang="en">energy</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Сметка за потреблението на енергия на домакинствата и икономиката по икономически сектори</dct:title>
+        <dct:language>de</dct:language>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>18845903@bundesamt-fur-statistik-bfs</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

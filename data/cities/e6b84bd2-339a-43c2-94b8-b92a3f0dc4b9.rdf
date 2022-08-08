@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>a77bc52f503e393df6beb07b98f726e7</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:21Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:38:36Z</edp:transReceived>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:29Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T14:11:39Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9">
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jinkludi l-postijiet tas-swieq tal-kostruzzjoni u tal-ġnien fil-Belt Hanseatic u tal-Università ta’ Rostock b’informazzjoni dwar l-indirizz, it-tip, l-isem, l-operatur, l-aċċessibbiltà, il-ħinijiet tal-ftuħ u d-dettalji ta’ kuntatt. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 365 ġurnata</dct:description>
+        <dcat:keyword>bautechnik</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+        <dcat:keyword>wirtschaft</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de locaties van de bouw- en tuinmarkten in de Hanze- en Universiteitsstad Rostock met informatie over adres, type, naam, exploitant, bereikbaarheid, openingstijden en contactgegevens. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt:
+365 dagen</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+        <dct:title>Bau- und Gartenmärkte</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear sa tacar sonraí seo suíomhanna na margaí tógála agus gairdíní i gCathair Rostock Hanseatic agus Ollscoile, mar aon le heolas faoi sheoladh, cineál, ainm, oibreoir, inrochtaineacht, uaireanta oscailte agus sonraí teagmhála. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 365 lá</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les sites des marchés de la construction et du jardin dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, le type, le nom, l’opérateur, l’accessibilité, les heures d’ouverture et les coordonnées. Les ressources sont généralement mises à jour à l’intervalle suivant: 365 jours</dct:description>
+        <dcat:keyword>handel</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+        <dcat:keyword>handel-und-verbrauch</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e814b5d6-ce0b-43cf-9138-8c0c0678ae48">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+            <dct:title>Bau- und Gartenmärkte</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.xlsx"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9/resource/d1e68dc4-3cc2-4d4e-9f09-cf995071fe73</dct:identifier>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >5548</dcat:byteSize>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >4b3c68372e6f4a8ebe307e17ee39fca0d169d32e4b2642374aedcb55236ae6da</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.xlsx"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-02-13T14:21:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes the locations of the construction and garden markets in the Hanseatic and University City of Rostock with information on address, type, name, operator, accessibility, opening hours and contact details. The resources are usually updated at the following intervals: 365 days</dct:description>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver atrašanās vietas būvniecības un dārzu tirgos Hanzas un University City of Rostoka ar informāciju par adresi, veidu, nosaukumu, operatoru, pieejamību, darba laiku un kontaktinformāciju. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 365 dienas</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje lokalizacje rynków budowlanych i ogrodowych w Hanzeatyce i University City of Rostock z informacjami na temat adresu, rodzaju, nazwy, operatora, dostępności, godzin otwarcia i danych kontaktowych. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 365 dni</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje lokacije građevinskih i vrtnih tržnica u Hanseatic i University City of Rostock s informacijama o adresi, vrsti, imenu, operateru, dostupnosti, radnom vremenu i podacima za kontakt. Resursi se obično ažuriraju u sljedećim intervalima: 365 dana</dct:description>
+        <dcat:keyword>gartenbau</dcat:keyword>
+        <dct:accessRights>public</dct:accessRights>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum sisaldab asukohti ehitus- ja aiaturgudel Hanseatic ja University City of Rostock teavet aadress, tüüp, nimi, operaator, juurdepääsetavus, lahtiolekuajad ja kontaktandmed. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 365 päeva</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima statybos ir sodo turgų vietas Hanzos ir Rostoko universiteto mieste su informacija apie adresą, tipą, pavadinimą, operatorių, prieinamumą, darbo valandas ir kontaktinius duomenis. Ištekliai paprastai atnaujinami tokiais intervalais:
+365 dienos</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+        <dct:identifier>e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9</dct:identifier>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3a76f617-2c5d-4298-8b3b-42ca26ec4cd8">
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-02-13T14:21:00</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:identifier>https://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9/resource/b63abd9d-b31e-4f4f-a172-1469784ff29a</dct:identifier>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/bau_gartenmaerkte/wms"/>
+            <dct:title>Bau- und Gartenmärkte</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει τις τοποθεσίες των αγορών κατασκευών και κήπων στο Hanseatic και University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, τον τύπο, το όνομα, τον χειριστή, την προσβασιμότητα, τις ώρες λειτουργίας και τα στοιχεία επικοινωνίας. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα:
+365 ημέρες</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/04919331-8c2a-4f72-9019-58d3aa231ca4">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9/resource/82d6f895-c1f8-438f-b5ea-22b1d61157f1</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >b3ed18d6224e44f01ccdf93a7fc87b55ff6002492c2958479fb632bafc800f4c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.gml"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >20737</dcat:byteSize>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-02-13T14:21:00</dct:issued>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+            <dct:title>Bau- und Gartenmärkte</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.gml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>ökonomie</dcat:keyword>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter placeringen af bygge- og havemarkederne i Hansestaden og University City of Rostock med oplysninger om adresse, type, navn, operatør, tilgængelighed, åbningstider og kontaktoplysninger. Ressourcerne opdateres normalt med følgende intervaller: 365 dage</dct:description>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje lokacije gradbenih in vrtnih trgov v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, vrsti, imenu, operaterju, dostopnosti, delovnem času in kontaktnih podatkih. Viri se običajno posodabljajo v naslednjih časovnih presledkih:
+365 dni</dct:description>
+        <dcat:keyword>einzelhandel</dcat:keyword>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Bau- und Gartenmärkte in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Art, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage</dct:description>
+        <dcat:keyword>einzelhandelsgeschäft</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3260b16c-7a23-4bdd-a01b-a7d0c31f8cd3">
+            <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+            <dct:title>Bau- und Gartenmärkte</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9/resource/ad495863-cfeb-4ede-9a2d-9e4fd5f5bb31</dct:identifier>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/bau_gartenmaerkte/wfs"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-05-19T15:26:38</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset inkluderar platser för bygg- och trädgårdsmarknaderna i Hanseatic och University City of Rostock med information om adress, typ, namn, operatör, tillgänglighet, öppettider och kontaktuppgifter. Resurserna uppdateras vanligtvis med följande intervall:
+365 dagar</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa umiestnenie stavebných a záhradných trhov v Hanseatic a University City of Rostock s informáciami o adrese, type, názve, operátorovi, prístupnosti, otváracích hodinách a kontaktných údajoch. Zdroje sa zvyčajne aktualizujú v týchto intervaloch:
+365 dní</dct:description>
+        <dcat:keyword>baustoff</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword>garten</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9abe95f8-19eb-4b40-8d47-9ebe96e634f7">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9/resource/b1bc5158-8d53-4ab1-82b3-1ab2eac1590d</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-02-13T14:21:00</dct:issued>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >17427</dcat:byteSize>
+            <dct:title>Bau- und Gartenmärkte</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.kml"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >3f65c4b0e0a1294fcfed97a248de72bd8567e0c8ce0837e2a56a6c563d51c395</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.kml"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include locațiile piețelor de construcții și grădinărit din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, tipul, numele, operatorul, accesibilitatea, programul de funcționare și datele de contact. Resursele sunt, de obicei, actualizate la următoarele intervale: 365 de zile</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a0b678d3-dcb3-4d4e-b083-60aa83287d1a">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >87128493e023bb467ae7d5e37c63cc2d76075ec4b4786d3d55ef4b9d223642f1</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >9857</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-02-13T14:21:00</dct:issued>
+            <dct:identifier>https://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9/resource/4aa92bbf-4fac-4be4-857c-99b76bcfb67a</dct:identifier>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.json"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.json"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+            <dct:title>Bau- und Gartenmärkte</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä aineisto sisältää rakennus- ja puutarhamarkkinoiden sijainnit Hanseaticissa ja Rostockin yliopistossa sekä tiedot osoitteesta, tyypistä, nimestä, operaattorista, saavutettavuudesta, aukioloajoista ja yhteystiedot. Resursseja päivitetään yleensä seuraavin väliajoin:
+365 päivää</dct:description>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва местоположението на строителните и градинските пазари в ханзийския и университетския град Рощок с информация за адрес, вид, име, оператор, достъпност, работно време и данни за контакт. Ресурсите обикновено се актуализират на следните интервали: 365 дни</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:35:11.685083</dct:modified>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye las ubicaciones de los mercados de construcción y jardinería en la Ciudad Hanseática y Universitaria de Rostock con información sobre dirección, tipo, nombre, operador, accesibilidad, horario de apertura y datos de contacto. Por lo general, los recursos se actualizan en los siguientes intervalos:
+365 días</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje umístění stavebních a zahradních trhů v hanzovním a univerzitním městě Rostock s informacemi o adrese, typu, názvu, operátorovi, přístupnosti, otevírací době a kontaktních údajích. Zdroje se obvykle aktualizují v následujících intervalech: 365 dní</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati include le posizioni dei mercati della costruzione e del giardino nella città anseatica e universitaria di Rostock con informazioni su indirizzo, tipo, nome, operatore, accessibilità, orari di apertura e dettagli di contatto. Le risorse sono solitamente aggiornate ai seguenti intervalli: 365 giorni</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui os locais dos mercados de construção e jardim no Hanseatic e University City de Rostock com informações sobre endereço, tipo, nome, operador, acessibilidade, horário de funcionamento e pormenores de contato. Os recursos são geralmente atualizados nos seguintes intervalos:
+365 dias</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/03929b3d-1508-461b-880f-7bc586ca8c3a">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska i vrtna tržnica</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >4827</dcat:byteSize>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeni in vrtni trgi</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Rakennus- ja puutarhamarkkinat</dct:title>
+            <dct:title>Bau- und Gartenmärkte</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trhy v oblasti stavebníctva a záhrady</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Targi budowlane i ogrodnicze</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Statybos ir sodo turgus</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >af4137a9a82d096e6558e81ebd1cdda7568db019ae1c41ea219708437a2157bb</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mercados de construcción y jardinería</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stavební a zahradní trhy</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.csv"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Строителни и градински пазари</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piețe de construcții și grădinărit</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αγορές κατασκευών και κήπων</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mercados de construção e jardim</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Margaí tógála agus gairdíní</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības un dārzu tirgi</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9/resource/2ba09e06-97fd-499e-834b-3f4e34881069</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Is-swieq tal-kostruzzjoni u tal-ġonna</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og havemarkeder</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bouw- en tuinmarkten</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Mercati dell'edilizia e del giardino</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Marchés de la construction et du jardin</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Construction and garden markets</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/bau_gartenmaerkte/bau_gartenmaerkte.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-02-13T14:21:00</dct:issued>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Bygg- och trädgårdsmarknader</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Építőipari és kerti piacok</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet tartalmazza a Hanza és University City of Rostock építési és kerti piacainak helyszíneit, a címre, típusra, névre, üzemeltetőre, hozzáférhetőségre, nyitvatartási időre és elérhetőségre vonatkozó információkkal. Az erőforrásokat általában a következő időközönként frissítik: 365 nap</dct:description>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ehitus- ja aiaturud</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>e6b84bd2-339a-43c2-94b8-b92a3f0dc4b9</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

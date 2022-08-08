@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:schema="http://schema.org/"
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-63024">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-63024"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-63024">
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-06-08T00:00:00</dct:issued>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bouwvergunningen in Hamburg in april 2021</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Byggetilladelser i Hamborg i april 2021</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Licenças de construção em Hamburgo em abril de 2021</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ehitusload Hamburgis 2021. aasta aprillis</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statybos leidimai Hamburge 2021 m. balandžio mėn.</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="it-t-de-t0-mtec">Permessi di costruzione ad Amburgo nell'aprile 2021</dct:title>
+        <dcat:keyword>baugenehmigungen-in-hamburg</dcat:keyword>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        <dct:title>Baugenehmigungen in Hamburg im April 2021</dct:title>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/baugenehmigungen-in-hamburg-im-april-2021"/>
+        <dct:title xml:lang="en-t-de-t0-mtec">Building permits in Hamburg in April 2021</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Ceadanna tógála in Hamburg i mí Aibreáin 2021</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Bygglov i Hamburg i april 2021</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Građevinske dozvole u Hamburgu u travnju 2021.</dct:title>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Permis de construire à Hambourg en avril 2021</dct:title>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Būvatļaujas Hamburgā 2021. gada aprīlī</dct:title>
+        <dct:identifier>StaNord_CMS:63024</dct:identifier>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Разрешителни за строеж в Хамбург през април 2021 г.</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9e22783e-f24a-4a35-8646-470a9233dd54">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS63024/F_II_1_m_04_21_HH.zip"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >136737</dcat:byteSize>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/0f12e07d-14d7-4f79-8fdf-449aeae8dc8e/resource/0939619e-ab70-41af-b657-2df9d5b378e1</dct:identifier>
+            <dct:format>ZIP</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-08T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:34:59.422964</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >5fec4799beb58f29c428feee26d1a528f95ea7593fb833358cfeb5c9d12e0d8a</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Baugenehmigungen in Hamburg im April 2021 (CSV-Version in einer ZIP-Datei)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <adms:identifier>F II 1 - m 4/21 HH</adms:identifier>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Pozwolenia na budowę w Hamburgu w kwietniu 2021 r.</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Οικοδομικές άδειες στο Αμβούργο τον Απρίλιο του 2021</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Permisos de construcción en Hamburgo en abril de 2021</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Rakennusluvat Hampurissa huhtikuussa 2021</dct:title>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-30T00:00:00</schema:endDate>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-01T00:00:00</schema:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/12338095-bea0-4dfd-8da7-742cb0b5fe66">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >119084</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_m_H/F_II_1_m_04_21_HH.xlsx"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-08T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/0f12e07d-14d7-4f79-8fdf-449aeae8dc8e/resource/c3cb5845-9244-4e83-a8a5-37cb6280e455</dct:identifier>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>XLSX</dct:format>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:34:59.422964</dct:modified>
+            <dct:title>Baugenehmigungen in Hamburg im April 2021</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >1ae01726feec9a94db03a32144a2862980f7adce82a6cd8d59e0f28a33d69f9b</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T04:34:59.422964</dct:modified>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Permessi tal-bini f’Hamburg f’April 2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/78f43924-6316-4432-bab5-86e335a38358">
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >395820</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >8c706ac5121b962f777d91475dc5429fa0b603597221b9dd02e56faab5f972c3</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:format>PDF</dct:format>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/0f12e07d-14d7-4f79-8fdf-449aeae8dc8e/resource/e9252350-4ed0-48f9-ab92-181c2e025c2f</dct:identifier>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:34:59.422964</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-08T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_m_H/F_II_1_m_04_21_HH.pdf"/>
+            <dct:title>Baugenehmigungen in Hamburg im April 2021</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stavební povolení v Hamburku v dubnu 2021</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Építési engedélyek Hamburgban 2021 áprilisában</dct:title>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Stavebné povolenie v Hamburgu v apríli 2021</dct:title>
+        <dcat:keyword>baugenehmigungen-und-bautätigkeit</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeno dovoljenje v Hamburgu aprila 2021</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Autorizații de construire în Hamburg în aprilie 2021</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Дозвіл на будівництво в Гамбурзі в квітні 2021 року</dct:title>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <owl:versionInfo>1.0</owl:versionInfo>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-03-07T23:49:13Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:45Z</edp:transIssued>
+    <dct:identifier>StaNord_CMS:63024</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>c3feb4e0e9d123e8c747abcf51a7e42e</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:45Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

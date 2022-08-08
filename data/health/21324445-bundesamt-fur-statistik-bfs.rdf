@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/21324445-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>4e4006fd24ffb2e99614673d0b14bcb9</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:02:46Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:35Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:44Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/21324445-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Sociale medische instellingen:
+Aantal cliënten naar leeftijd en geslacht</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Socialmedicinska institutioner:
+Antal kunder efter ålder och kön</dct:title>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Instituții medicale sociale:
+Numărul de clienți în funcție de vârstă și sex</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Social Medical Institutions: Number of clients by age and gender</dct:title>
+        <dct:title xml:lang="fr">Institutions médico-sociales: nombre de clients selon l'âge et le sexe</dct:title>
+        <dct:title xml:lang="de">Sozialmedizinische Institutionen: Anzahl Klienten nach Alter und Geschlecht</dct:title>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:57:23.010053</dct:modified>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ab887c31-06e6-4f0a-ab9f-b49250af1e87">
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="en-t-de-t0-mtec">Social Medical Institutions: Number of clients by age and gender</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Instituții medicale sociale: Numărul de clienți în funcție de vârstă și sex</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Соціальні медичні заклади: Кількість клієнтів за віком та статтю</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κοινωνικά Ιατρικά Ιδρύματα: Αριθμός πελατών ανά ηλικία και φύλο</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Institiúidí Leighis Sóisialta: Líon na gcliant de réir aoise agus inscne</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Istituzioni mediche sociali: Numero di clienti per età e sesso</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Socialinės medicinos įstaigos: Klientų skaičius pagal amžių ir lytį</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Sosiaalisairaanhoidon laitokset: Asiakkaiden lukumäärä iän ja sukupuolen mukaan</dct:title>
+            <dct:format>HTML</dct:format>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.04.02.02"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sociale medische instellingen: Aantal cliënten naar leeftijd en geslacht</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sociālās medicīnas iestādes: Klientu skaits pēc vecuma un dzimuma</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="da-t-de-t0-mtec">Socialmedicinske institutioner: Antal kunder efter alder og køn</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Institutions de médecine sociale: Nombre de clients par âge et sexe</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Социални медицински институции: Брой клиенти по възраст и пол</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sotsiaalsed meditsiiniasutused: Klientide arv vanuse ja soo järgi</dct:title>
+            <dct:title xml:lang="de">Sozialmedizinische Institutionen: Anzahl Klienten nach Alter und Geschlecht</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sociální zdravotnické instituce: Počet klientů podle věku a pohlaví</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Instituições Médicas Sociais: Número de clientes por idade e sexo</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Szociális egészségügyi intézmények: Ügyfelek száma kor és nem szerint</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Społeczne instytucje medyczne: Liczba klientów według wieku i płci</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Socialmedicinska institutioner: Antal kunder efter ålder och kön</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Sociálne zdravotnícke inštitúcie: Počet klientov podľa veku a pohlavia</dct:title>
+            <dct:identifier>21324450-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zavodi za socialno medicino: Število strank po starosti in spolu</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Instituciones médicas sociales: Número de clientes por edad y sexo</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-28T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Socijalne zdravstvene ustanove: Broj klijenata prema dobi i spolu</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Istituzzjonijiet Mediċi Soċjali: Numru ta’ klijenti skont l-età u s-sess</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Szociális egészségügyi intézmények: Ügyfelek száma kor és nem szerint</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Socijalne zdravstvene ustanove: Broj klijenata prema dobi i spolu</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/188c7dd2-c216-4c62-9a01-568749bd4208">
+            <dct:title xml:lang="fr">Institutions médico-sociales: nombre de clients selon l'âge et le sexe</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Zdravstvene i socijalne ustanove: broj klijenata prema dobi i spolu</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészségügyi és szociális intézmények: ügyfelek száma kor és nem szerint</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Medizinisch-soziale Einrichtungen: Anzahl der Kunden nach Alter und Geschlecht</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21324454/master"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-27T00:00:00</dct:modified>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ιατρικοί και κοινωνικοί θεσμοί: αριθμός πελατών ανά ηλικία και φύλο</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Medicīnas un sociālās iestādes: klientu skaits pēc vecuma un dzimuma</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Medicinske og sociale institutioner: antal kunder efter alder og køn</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Медицински и социални институции: брой клиенти по възраст и пол Медицински и социални институции:
+брой клиенти по възраст и пол</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Instituições médicas e sociais: número de clientes por idade e sexo</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:identifier>21324454-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Zdravstvene in socialne ustanove: število strank po starosti in spolu Zdravstvene in socialne ustanove:
+število strank po starosti in spolu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-28T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Instituciones médicas y sociales: número de clientes por edad y sexo</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Медико-соціальні заклади: кількість клієнтів за віком та статтю</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Meditsiini- ja sotsiaalasutused: klientide arv vanuse ja soo järgi</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Instytucje medyczne i społeczne: liczba klientów według wieku i płci</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Istituzioni mediche e sociali: numero di clienti per età e sesso</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Medical and social institutions: number of clients by age and sex</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Medicinos ir socialinės įstaigos: klientų skaičius pagal amžių ir lytį</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zdravotnícke a sociálne inštitúcie: počet klientov podľa veku a pohlavia</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Medische en sociale instellingen: aantal cliënten naar leeftijd en geslacht Medische en sociale instellingen:
+aantal cliënten naar leeftijd en geslacht</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zdravotnické a sociální instituce: počet klientů podle věku a pohlaví</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Medicinska och sociala institutioner: antal kunder efter ålder och kön</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Institiúidí leighis agus sóisialta: líon na gcliant de réir aoise agus inscne</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Istituzzjonijiet mediċi u soċjali: numru ta’ klijenti skont l-età u s-sess</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Lääketieteelliset ja sosiaaliset instituutiot: asiakkaiden lukumäärä iän ja sukupuolen mukaan Lääketieteelliset ja sosiaaliset instituutiot:
+asiakkaiden lukumäärä iän ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Instituții medicale și sociale: numărul de clienți în funcție de vârstă și sex Instituții medicale și sociale:
+numărul de clienți în funcție de vârstă și sex</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21324454/master"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Социални медицински институции: Брой клиенти по възраст и пол</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Соціальні медичні заклади:
+Кількість клієнтів за віком та статтю</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="da-t-de-t0-mtec">Socialmedicinske institutioner: Antal kunder efter alder og køn</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Socialinės medicinos įstaigos: Klientų skaičius pagal amžių ir lytį</dct:title>
+        <dct:identifier>21324445@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Zavodi za socialno medicino:
+Število strank po starosti in spolu</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-01-28T00:00:00</dct:issued>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.04.02.02"/>
+        <dcat:keyword xml:lang="de">statistik-der-sozialmedizinischen-institutionen</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="fr">statistique-des-institutions-medico-sociales</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Istituzzjonijiet Mediċi Soċjali:
+Numru ta’ klijenti skont l-età u s-sess</dct:title>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dcat:keyword xml:lang="en">statistics-of-the-socio-medical-institutions</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Institiúidí Leighis Sóisialta: Líon na gcliant de réir aoise agus inscne</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Istituzioni mediche sociali: Numero di clienti per età e sesso</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Społeczne instytucje medyczne:
+Liczba klientów według wieku i płci</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1a645850-dd13-4981-aef9-6a2a3c6bb375">
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Instituições médicas e sociais: número de clientes por idade e sexo</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Medical and social institutions: number of clients by age and sex</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Zdravstvene i socijalne ustanove: broj klijenata prema dobi i spolu</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Lääketieteelliset ja sosiaaliset instituutiot: asiakkaiden lukumäärä iän ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Instytucje medyczne i społeczne: liczba klientów według wieku i płci</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészségügyi és szociális intézmények: ügyfelek száma kor és nem szerint</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Medizinisch-soziale Einrichtungen: Anzahl der Kunden nach Alter und Geschlecht</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zdravotnícke a sociálne inštitúcie: počet klientov podľa veku a pohlavia</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Istituzioni mediche e sociali: numero di clienti per età e sesso</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="fr">Institutions médico-sociales: nombre de clients selon l'âge et le sexe</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Медико-соціальні заклади: кількість клієнтів за віком та статтю</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Zdravstvene in socialne ustanove: število strank po starosti in spolu</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-28T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Medicinske og sociale institutioner: antal kunder efter alder og køn</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Медицински и социални институции: брой клиенти по възраст и пол</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Istituzzjonijiet mediċi u soċjali: numru ta’ klijenti skont l-età u s-sess</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Institiúidí leighis agus sóisialta: líon na gcliant de réir aoise agus inscne</dct:title>
+            <dct:identifier>21324454-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Medicīnas un sociālās iestādes: klientu skaits pēc vecuma un dzimuma</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Medicinska och sociala institutioner: antal kunder efter ålder och kön</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Instituciones médicas y sociales: número de clientes por edad y sexo</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Instituții medicale și sociale: numărul de clienți în funcție de vârstă și sex</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ιατρικοί και κοινωνικοί θεσμοί: αριθμός πελατών ανά ηλικία και φύλο</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zdravotnické a sociální instituce: počet klientů podle věku a pohlaví</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Meditsiini- ja sotsiaalasutused: klientide arv vanuse ja soo järgi</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Medische en sociale instellingen: aantal cliënten naar leeftijd en geslacht</dct:title>
+            <dct:format>HTML</dct:format>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.04.02.02"/>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Medicinos ir socialinės įstaigos: klientų skaičius pagal amžių ir lytį</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Sosiaalisairaanhoidon laitokset: Asiakkaiden lukumäärä iän ja sukupuolen mukaan</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/22a3e4c4-560c-459f-b98f-41e80278f564">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Socijalne zdravstvene ustanove: Broj klijenata prema dobi i spolu</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sociale medische instellingen:
+Aantal cliënten naar leeftijd en geslacht</dct:title>
+            <dct:language>de</dct:language>
+            <dct:identifier>21324450-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21324450/master"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κοινωνικά Ιατρικά Ιδρύματα: Αριθμός πελατών ανά ηλικία και φύλο</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Istituzzjonijiet Mediċi Soċjali: Numru ta’ klijenti skont l-età u s-sess</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Szociális egészségügyi intézmények: Ügyfelek száma kor és nem szerint</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Socialmedicinske institutioner: Antal kunder efter alder og køn</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sociální zdravotnické instituce: Počet klientů podle věku a pohlaví</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-28T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-de-t0-mtec">Instituciones médicas sociales: Número de clientes por edad y sexo</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zavodi za socialno medicino: Število strank po starosti in spolu</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Соціальні медичні заклади: Кількість клієнтів за віком та статтю</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Sociálne zdravotnícke inštitúcie: Počet klientov podľa veku a pohlavia</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Social Medical Institutions: Number of clients by age and gender</dct:title>
+            <dct:title xml:lang="de">Sozialmedizinische Institutionen: Anzahl Klienten nach Alter und Geschlecht</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Socialinės medicinos įstaigos:
+Klientų skaičius pagal amžių ir lytį</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Społeczne instytucje medyczne:
+Liczba klientów według wieku i płci</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Sosiaalisairaanhoidon laitokset: Asiakkaiden lukumäärä iän ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Instituții medicale sociale: Numărul de clienți în funcție de vârstă și sex</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Социални медицински институции: Брой клиенти по възраст и пол</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-27T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21324450/master"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Socialmedicinska institutioner: Antal kunder efter ålder och kön</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Instituições Médicas Sociais: Número de clientes por idade e sexo</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Institutions de médecine sociale: Nombre de clients par âge et sexe</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Istituzioni mediche sociali: Numero di clienti per età e sesso</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sociālās medicīnas iestādes: Klientu skaits pēc vecuma un dzimuma</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Institiúidí Leighis Sóisialta:
+Líon na gcliant de réir aoise agus inscne</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sotsiaalsed meditsiiniasutused: Klientide arv vanuse ja soo järgi</dct:title>
+            <dct:format>XLS</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Sociálne zdravotnícke inštitúcie:
+Počet klientov podľa veku a pohlavia</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="it">statistica-degli-istituti-medico-sociali</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Κοινωνικά Ιατρικά Ιδρύματα: Αριθμός πελατών ανά ηλικία και φύλο</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Sociālās medicīnas iestādes:
+Klientu skaits pēc vecuma un dzimuma</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Instituciones médicas sociales: Número de clientes por edad y sexo</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Instituições Médicas Sociais:
+Número de clientes por idade e sexo</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Sotsiaalsed meditsiiniasutused: Klientide arv vanuse ja soo järgi</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Sociální zdravotnické instituce: Počet klientů podle věku a pohlaví</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:35Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>21324445@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/21324445-bundesamt-fur-statistik-bfs"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

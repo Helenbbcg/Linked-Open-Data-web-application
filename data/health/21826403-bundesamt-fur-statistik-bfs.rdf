@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/21826403-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>827f6a8c2f4fc4ea2a17559329010c23</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/21826403-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="en">cause-of-death-and-stillbirth-statistics</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Статистически данни за смъртните случаи от COVID-19 по причини за смърт (BFS) и система за докладване (BAG), по месеци, възрастови групи, пол</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Smrtni slučajevi uzrokovani bolešću COVID-19 zbog statističkih podataka o smrti (BFS) i sustava izvješćivanja (BAG), po mjesecima, dobnim skupinama, spolu</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/23c1f0d9-8bc7-469d-83ff-603b0a08fc8c">
+            <dct:title xml:lang="bg-t-de-t0-mtec">Статистически данни за смъртните случаи от COVID-19 по причини за смърт (BFS) и система за докладване (BAG), по месеци, възрастови групи, пол</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Смерті COVID-19 за статистикою причин смерті (BFS) та системи звітності (BAG), за місяцем, віковими групами, статтю</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">COVID-19 décès selon les statistiques sur les causes de décès (BFS) et le système de déclaration (BAG), par mois, par groupe d’âge, par sexe</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">COVID-19 surmajuhtumid surmapõhjuste statistika (BFS) ja aruandlussüsteemi (BAG), kuu, vanuserühma, soo järgi</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí maidir le básanna COVID-19 (BFS) agus córas tuairiscithe (BAG), de réir míosa, aoisghrúpaí, inscne</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Θάνατοι λόγω της νόσου COVID-19, στατιστικές για την αιτία θανάτου (BFS) και σύστημα αναφοράς (BAG), ανά μήνα, ηλικιακές ομάδες, φύλο</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Smrt zaradi COVID-19 po statističnih podatkih o vzrokih smrti in sistemu poročanja (BAG), po mesecih, starostnih skupinah, spolu</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Dane statystyczne dotyczące zgonów związanych z COVID-19 (BFS) i system sprawozdawczy (BAG), według miesięcy, grup wiekowych, płci</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mortes por causa de mortes por causa de óbitos (BFS) e sistema de comunicação (BAG), por mês, faixas etárias, sexo</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">COVID-19 mirčių pagal mirties priežastį statistika (BFS) ir ataskaitų teikimo sistema (BAG), pagal mėnesį, amžiaus grupes, lytį</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Covid-19-kuolemat kuolinsyytilastojen (BFS) ja raportointijärjestelmän (BAG) mukaan kuukausittain, ikäryhmittäin, sukupuolittain</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Úmrtí na COVID-19 v důsledku statistiky příčin úmrtí (BFS) a systému hlášení (BAG), podle měsíců, věkových skupin, pohlaví</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štatistiky úmrtí spôsobených ochorením COVID-19 (BFS) a systém podávania správ (BAG) podľa mesiaca, vekových skupín, pohlavia</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Statistici privind decesele provocate de COVID-19 în funcție de cauza de deces (BFS) și sistemul de raportare (BAG), în funcție de lună, grupe de vârstă, sexe</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Decessi per COVID-19 per cause di morte statistiche (BFS) e sistema di segnalazione (BAG), per mese, gruppi di età, sesso</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826407/master"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Defunciones por COVID-19 por causas de defunción (BFS) y sistema de notificación (BAG), por mes, grupos de edad, sexo</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">L-istatistika dwar l-imwiet minħabba l-COVID-19 skont il-kawża tal-imwiet (BFS) u s-sistema ta’ rapportar (BAG), skont ix-xahar, il-gruppi tal-età, is-sess</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-17T00:00:00</dct:modified>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Covid-19-död efter dödsorsak (BFS) och rapporteringssystem (BAG), per månad, åldersgrupper, kön</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Covid-19-dødsfald efter dødsårsag (BFS) og rapporteringssystem (BAG), efter måned, aldersgrupper, køn</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Covid19-halálozások a halálozási statisztikák (BFS) és a jelentési rendszer (BAG) szerinti bontásban, hónap, korcsoportok, nem szerint</dct:title>
+            <dct:identifier>21826407-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de">COVID-19 Sterbefälle nach Todesursachenstatistik (BFS) und Meldesystem (BAG), nach Monat, Altersgruppen, Geschlecht</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826407/master"/>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Statistika par Covid-19 nāves cēloņiem (BFS) un ziņošanas sistēma (BAG), pa mēnešiem, vecuma grupām, dzimumiem</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">COVID-19-doden naar doodsoorzaak (BFS) en rapportagesysteem (BAG), per maand, leeftijdsgroepen, geslacht</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Smrtni slučajevi uzrokovani bolešću COVID-19 zbog statističkih podataka o smrti (BFS) i sustava izvješćivanja (BAG), po mjesecima, dobnim skupinama, spolu</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">COVID-19 deaths by cause of death statistics (BFS) and reporting system (BAG), by month, age groups, sex</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">COVID-19 surmajuhtumid surmapõhjuste statistika (BFS) ja aruandlussüsteemi (BAG), kuu, vanuserühma, soo järgi</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Defunciones por COVID-19 por causas de defunción (BFS) y sistema de notificación (BAG), por mes, grupos de edad, sexo</dct:title>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Dane statystyczne dotyczące zgonów związanych z COVID-19 (BFS) i system sprawozdawczy (BAG), według miesięcy, grup wiekowych, płci</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-03-31T00:00:00</dct:issued>
+        <dct:title xml:lang="nl-t-de-t0-mtec">COVID-19-doden naar doodsoorzaak (BFS) en rapportagesysteem (BAG), per maand, leeftijdsgroepen, geslacht</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dcat:keyword xml:lang="fr">statistique-des-causes-de-deces-et-des-mortinaissances</dcat:keyword>
+        <dcat:keyword xml:lang="it">statistica-delle-cause-di-morte-e-di-mortinatalita</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Úmrtí na COVID-19 v důsledku statistiky příčin úmrtí (BFS) a systému hlášení (BAG), podle měsíců, věkových skupin, pohlaví</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">L-istatistika dwar l-imwiet minħabba l-COVID-19 skont il-kawża tal-imwiet (BFS) u s-sistema ta’ rapportar (BAG), skont ix-xahar, il-gruppi tal-età, is-sess</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Covid19-halálozások a halálozási statisztikák (BFS) és a jelentési rendszer (BAG) szerinti bontásban, hónap, korcsoportok, nem szerint</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="el-t-de-t0-mtec">Θάνατοι λόγω της νόσου COVID-19, στατιστικές για την αιτία θανάτου (BFS) και σύστημα αναφοράς (BAG), ανά μήνα, ηλικιακές ομάδες, φύλο</dct:title>
+        <dct:identifier>21826403@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/354122d0-07fe-45d4-a277-edafc22563f3">
+            <dct:title xml:lang="fr-t-de-t0-mtec">COVID-19 décès selon les statistiques sur les causes de décès (BFS) et le système de déclaration (BAG), par mois, par groupe d’âge, par sexe</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Covid-19-dødsfald efter dødsårsag (BFS) og rapporteringssystem (BAG), efter måned, aldersgrupper, køn</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Decessi per COVID-19 per cause di morte statistiche (BFS) e sistema di segnalazione (BAG), per mese, gruppi di età, sesso</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Defunciones por COVID-19 por causas de defunción (BFS) y sistema de notificación (BAG), por mes, grupos de edad, sexo</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Смерті COVID-19 за статистикою причин смерті (BFS) та системи звітності (BAG), за місяцем, віковими групами, статтю</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">COVID-19 mirčių pagal mirties priežastį statistika (BFS) ir ataskaitų teikimo sistema (BAG), pagal mėnesį, amžiaus grupes, lytį</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">COVID-19-doden naar doodsoorzaak (BFS) en rapportagesysteem (BAG), per maand, leeftijdsgroepen, geslacht</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Smrtni slučajevi uzrokovani bolešću COVID-19 zbog statističkih podataka o smrti (BFS) i sustava izvješćivanja (BAG), po mjesecima, dobnim skupinama, spolu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Covid19-halálozások a halálozási statisztikák (BFS) és a jelentési rendszer (BAG) szerinti bontásban, hónap, korcsoportok, nem szerint</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mortes por causa de mortes por causa de óbitos (BFS) e sistema de comunicação (BAG), por mês, faixas etárias, sexo</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">COVID-19 deaths by cause of death statistics (BFS) and reporting system (BAG), by month, age groups, sex</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">COVID-19 surmajuhtumid surmapõhjuste statistika (BFS) ja aruandlussüsteemi (BAG), kuu, vanuserühma, soo järgi</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí maidir le básanna COVID-19 (BFS) agus córas tuairiscithe (BAG), de réir míosa, aoisghrúpaí, inscne</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.17"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Dane statystyczne dotyczące zgonów związanych z COVID-19 (BFS) i system sprawozdawczy (BAG), według miesięcy, grup wiekowych, płci</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Smrt zaradi COVID-19 po statističnih podatkih o vzrokih smrti in sistemu poročanja (BAG), po mesecih, starostnih skupinah, spolu</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Úmrtí na COVID-19 v důsledku statistiky příčin úmrtí (BFS) a systému hlášení (BAG), podle měsíců, věkových skupin, pohlaví</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Statistika par Covid-19 nāves cēloņiem (BFS) un ziņošanas sistēma (BAG), pa mēnešiem, vecuma grupām, dzimumiem</dct:title>
+            <dct:language>de</dct:language>
+            <dct:identifier>21826407-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Статистически данни за смъртните случаи от COVID-19 по причини за смърт (BFS) и система за докладване (BAG), по месеци, възрастови групи, пол</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Covid-19-kuolemat kuolinsyytilastojen (BFS) ja raportointijärjestelmän (BAG) mukaan kuukausittain, ikäryhmittäin, sukupuolittain</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štatistiky úmrtí spôsobených ochorením COVID-19 (BFS) a systém podávania správ (BAG) podľa mesiaca, vekových skupín, pohlavia</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">L-istatistika dwar l-imwiet minħabba l-COVID-19 skont il-kawża tal-imwiet (BFS) u s-sistema ta’ rapportar (BAG), skont ix-xahar, il-gruppi tal-età, is-sess</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Statistici privind decesele provocate de COVID-19 în funcție de cauza de deces (BFS) și sistemul de raportare (BAG), în funcție de lună, grupe de vârstă, sexe</dct:title>
+            <dct:title xml:lang="de">COVID-19 Sterbefälle nach Todesursachenstatistik (BFS) und Meldesystem (BAG), nach Monat, Altersgruppen, Geschlecht</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Θάνατοι λόγω της νόσου COVID-19, στατιστικές για την αιτία θανάτου (BFS) και σύστημα αναφοράς (BAG), ανά μήνα, ηλικιακές ομάδες, φύλο</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Covid-19-död efter dödsorsak (BFS) och rapporteringssystem (BAG), per månad, åldersgrupper, kön</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="de">COVID-19 Sterbefälle nach Todesursachenstatistik (BFS) und Meldesystem (BAG), nach Monat, Altersgruppen, Geschlecht</dct:title>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Covid-19-dødsfald efter dødsårsag (BFS) og rapporteringssystem (BAG), efter måned, aldersgrupper, køn</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a482734d-bafa-43f7-862c-50187cb27211">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Брой на смъртните случаи от COVID-19 по причини за смърт (OFS) и система за докладване (OFSP) на месец, по възрастови групи, по пол</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A Covid19-halálozások száma halálozási statisztikák (OFS) és jelentéstételi rendszer (OFSP) szerint havonta, korcsoport, nem szerint</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Liczba zgonów związanych z COVID-19 według statystyk dotyczących przyczyn zgonu (OFS) i systemu zgłaszania (OFSP) na miesiąc, według grupy wiekowej, według płci</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Število smrti zaradi COVID-19 po statističnih podatkih o vzrokih smrti in sistemu poročanja (OFSP) na mesec, po starostnih skupinah, po spolu</dct:title>
+            <dct:identifier>21826409-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Covid-19-kuolemien määrä kuolinsyytilastojen (OFS) ja raportointijärjestelmän (OFSP) mukaan kuukaudessa ikäryhmittäin, sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Numero di morti per COVID-19 per causa di morte statistiche (OFS) e sistema di segnalazione (OFSP), al mese, per fascia di età, per sesso</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Antal dödsfall efter covid-19 efter dödsorsak (OFS) och rapporteringssystem (OFSP), per månad, efter åldersgrupp, efter kön</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Aantal COVID-19-doden op basis van statistieken over de doodsoorzaak (OFS) en rapportagesysteem (OFSP), per maand, per leeftijdsgroep, naar geslacht</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кількість смертей від COVID-19 за статистикою причин смерті (OFS) та системи звітності (OFSP), на місяць, за віковими групами, за статтю</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.03.04.01.17"/>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Número de mortes por causa de mortes por causa de óbitos (OFS) e sistema de comunicação (OFSP), por mês, por faixa etária, por sexo</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">L-għadd ta’ mwiet tal-COVID-19 skont l-istatistika dwar il-kawża tal-imwiet (OFS) u s-sistema ta’ rapportar (OFSP), kull xahar, skont il-grupp tal-età, skont is-sess</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Líon na mbásanna COVID-19 de réir cúise staitisticí báis (OFS) agus an chórais tuairiscithe (OFSP), in aghaidh na míosa, de réir aoisghrúpa, de réir inscne</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">COVID-19 surmajuhtumite arv surmapõhjuste statistika ja aruandlussüsteemi (OFSP) järgi kuu, vanuserühma, soo järgi</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Number of COVID-19 deaths by cause of death statistics (OFS) and reporting system (OFSP), per month, by age group, by sex</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Αριθμός θανάτων από τη νόσο COVID-19 ανά αιτία θανάτου (OFS) και σύστημα αναφοράς (OFSP), μηνιαίως, ανά ηλικιακή ομάδα, ανά φύλο</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Antal covid-19-dødsfald efter dødsårsag (OFS) og rapporteringssystem (OFSP) pr. måned, efter aldersgruppe, efter køn</dct:title>
+            <dct:title xml:lang="fr">Nombre de décès dus au COVID-19 selon la statistique des causes de décès (OFS) et le système de déclaration (OFSP), par mois, par classe d’âges, selon le sexe</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Número de defunciones por COVID-19 por causas de defunción y sistema de notificación (OFSP), por mes, por grupo de edad, por sexo</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Zahl der durch COVID-19 verursachten Todesfälle gemäß der Statistik der Todesursachen (BFS) und dem Meldesystem (BAG) pro Monat, nach Altersgruppen, nach Geschlecht</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Broj smrtnih slučajeva uzrokovanih bolešću COVID-19 po statističkim podacima o uzrocima smrti (OFS) i sustavu izvješćivanja (OFSP), mjesečno, po dobnoj skupini, prema spolu</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Covid-19 nāves gadījumu skaits pēc nāves cēloņiem (OFS) un ziņošanas sistēma (OFSP) mēnesī, pa vecuma grupām, pēc dzimuma</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Počet úmrtí na COVID-19 podle statistik příčin úmrtí (OFS) a systému hlášení (OFSP) za měsíc, podle věkových skupin, podle pohlaví</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Numărul de decese cauzate de COVID-19 în funcție de cauzele de deces (OFS) și de sistemul de raportare (OFSP), pe lună, pe grupe de vârstă, pe sexe</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Počet úmrtí súvisiacich s ochorením COVID-19 podľa príčin smrti (OFS) a systém podávania správ (OFSP) za mesiac, podľa vekovej skupiny, podľa pohlavia</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Mirčių nuo COVID-19 skaičius pagal mirties priežasties statistiką (OFS) ir ataskaitų teikimo sistemą (OFSP) per mėnesį pagal amžiaus grupes, pagal lytį</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Statistici privind decesele provocate de COVID-19 în funcție de cauza de deces (BFS) și sistemul de raportare (BAG), în funcție de lună, grupe de vârstă, sexe</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí maidir le básanna COVID-19 (BFS) agus córas tuairiscithe (BAG), de réir míosa, aoisghrúpaí, inscne</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Smrt zaradi COVID-19 po statističnih podatkih o vzrokih smrti in sistemu poročanja (BAG), po mesecih, starostnih skupinah, spolu</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">COVID-19 mirčių pagal mirties priežastį statistika (BFS) ir ataskaitų teikimo sistema (BAG), pagal mėnesį, amžiaus grupes, lytį</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.17"/>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Covid-19-kuolemat kuolinsyytilastojen (BFS) ja raportointijärjestelmän (BAG) mukaan kuukausittain, ikäryhmittäin, sukupuolittain</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Смерті COVID-19 за статистикою причин смерті (BFS) та системи звітності (BAG), за місяцем, віковими групами, статтю</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">COVID-19 deaths by cause of death statistics (BFS) and reporting system (BAG), by month, age groups, sex</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Mortes por causa de mortes por causa de óbitos (BFS) e sistema de comunicação (BAG), por mês, faixas etárias, sexo</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Statistika par Covid-19 nāves cēloņiem (BFS) un ziņošanas sistēma (BAG), pa mēnešiem, vecuma grupām, dzimumiem</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Covid-19-död efter dödsorsak (BFS) och rapporteringssystem (BAG), per månad, åldersgrupper, kön</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:49:52.510908</dct:modified>
+        <dcat:keyword xml:lang="de">statistik-der-todesursachen-und-totgeburten</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9649e3d0-f7eb-4d1a-b91c-c9a24a8802f7">
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Líon na mbásanna COVID-19 de réir cúise staitisticí báis (OFS) agus an chórais tuairiscithe (OFSP), in aghaidh na míosa, de réir aoisghrúpa, de réir inscne</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A Covid19-halálozások száma halálozási statisztikák (OFS) és jelentéstételi rendszer (OFSP) szerint havonta, korcsoport, nem szerint</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кількість смертей від COVID-19 за статистикою причин смерті (OFS) та системи звітності (OFSP), на місяць, за віковими групами, за статтю</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Αριθμός θανάτων από τη νόσο COVID-19 ανά αιτία θανάτου (OFS) και σύστημα αναφοράς (OFSP), μηνιαίως, ανά ηλικιακή ομάδα, ανά φύλο</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826409/master"/>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Numărul de decese cauzate de COVID-19 în funcție de cauzele de deces (OFS) și de sistemul de raportare (OFSP), pe lună, pe grupe de vârstă, pe sexe</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-17T00:00:00</dct:modified>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Aantal COVID-19-doden op basis van statistieken over de doodsoorzaak (OFS) en rapportagesysteem (OFSP), per maand, per leeftijdsgroep, naar geslacht</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Número de defunciones por COVID-19 por causas de defunción y sistema de notificación (OFSP), por mes, por grupo de edad, por sexo</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Mirčių nuo COVID-19 skaičius pagal mirties priežasties statistiką (OFS) ir ataskaitų teikimo sistemą (OFSP) per mėnesį pagal amžiaus grupes, pagal lytį</dct:title>
+            <dct:title xml:lang="fr">Nombre de décès dus au COVID-19 selon la statistique des causes de décès (OFS) et le système de déclaration (OFSP), par mois, par classe d’âges, selon le sexe</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Počet úmrtí súvisiacich s ochorením COVID-19 podľa príčin smrti (OFS) a systém podávania správ (OFSP) za mesiac, podľa vekovej skupiny, podľa pohlavia</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Zahl der durch COVID-19 verursachten Todesfälle gemäß der Statistik der Todesursachen (BFS) und dem Meldesystem (BAG) pro Monat, nach Altersgruppen, nach Geschlecht</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Número de mortes por causa de mortes por causa de óbitos (OFS) e sistema de comunicação (OFSP), por mês, por faixa etária, por sexo</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Number of COVID-19 deaths by cause of death statistics (OFS) and reporting system (OFSP), per month, by age group, by sex</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Covid-19 nāves gadījumu skaits pēc nāves cēloņiem (OFS) un ziņošanas sistēma (OFSP) mēnesī, pa vecuma grupām, pēc dzimuma</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="et-t-fr-t0-mtec">COVID-19 surmajuhtumite arv surmapõhjuste statistika ja aruandlussüsteemi (OFSP) järgi kuu, vanuserühma, soo järgi</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Počet úmrtí na COVID-19 podle statistik příčin úmrtí (OFS) a systému hlášení (OFSP) za měsíc, podle věkových skupin, podle pohlaví</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Broj smrtnih slučajeva uzrokovanih bolešću COVID-19 po statističkim podacima o uzrocima smrti (OFS) i sustavu izvješćivanja (OFSP), mjesečno, po dobnoj skupini, prema spolu</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Брой на смъртните случаи от COVID-19 по причини за смърт (OFS) и система за докладване (OFSP) на месец, по възрастови групи, по пол</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Liczba zgonów związanych z COVID-19 według statystyk dotyczących przyczyn zgonu (OFS) i systemu zgłaszania (OFSP) na miesiąc, według grupy wiekowej, według płci</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Antal covid-19-dødsfald efter dødsårsag (OFS) og rapporteringssystem (OFSP) pr. måned, efter aldersgruppe, efter køn</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826409/master"/>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Numero di morti per COVID-19 per causa di morte statistiche (OFS) e sistema di segnalazione (OFSP), al mese, per fascia di età, per sesso</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">L-għadd ta’ mwiet tal-COVID-19 skont l-istatistika dwar il-kawża tal-imwiet (OFS) u s-sistema ta’ rapportar (OFSP), kull xahar, skont il-grupp tal-età, skont is-sess</dct:title>
+            <dct:identifier>21826409-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Covid-19-kuolemien määrä kuolinsyytilastojen (OFS) ja raportointijärjestelmän (OFSP) mukaan kuukaudessa ikäryhmittäin, sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Antal dödsfall efter covid-19 efter dödsorsak (OFS) och rapporteringssystem (OFSP), per månad, efter åldersgrupp, efter kön</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Število smrti zaradi COVID-19 po statističnih podatkih o vzrokih smrti in sistemu poročanja (OFSP) na mesec, po starostnih skupinah, po spolu</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="it-t-de-t0-mtec">Decessi per COVID-19 per cause di morte statistiche (BFS) e sistema di segnalazione (BAG), per mese, gruppi di età, sesso</dct:title>
+        <dct:title xml:lang="fr">Nombre de décès dus au COVID-19 selon la statistique des causes de décès (OFS) et le système de déclaration (OFSP), par mois, par classe d’âges, selon le sexe</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Štatistiky úmrtí spôsobených ochorením COVID-19 (BFS) a systém podávania správ (BAG) podľa mesiaca, vekových skupín, pohlavia</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>21826403@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:56Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/21826403-bundesamt-fur-statistik-bfs"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:40:45Z</edp:transReceived>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

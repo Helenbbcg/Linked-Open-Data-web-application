@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-www-migrationsverket-se-datasets-dcat-ds8">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-www-migrationsverket-se-datasets-dcat-ds8"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/https-www-migrationsverket-se-datasets-dcat-ds8">
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://www.migrationsverket.se/datasets/dcat_foaf#migrationsverket">
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+            <foaf:homepage rdf:resource="http://www.migrationsverket.se"/>
+            <foaf:mbox rdf:resource="mailto:migrationsverket@migrationsverket.se"/>
+            <foaf:name>Migrationsverket</foaf:name>
+          </foaf:Agent>
+        </dct:publisher>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6d68295b-9639-48ef-a7e7-5aef9bd1ebb5">
+            <dcat:accessURL rdf:resource="https://www.migrationsverket.se/oppna-data/beviljade-uppehallstillstand-2009"/>
+            <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dct:format>application/vnd.ms-excel</dct:format>
+            <dct:identifier>https://www.migrationsverket.se/datasets/dcat#distribution10</dct:identifier>
+            <dct:title xml:lang="sv">Excel - 2009-2017</dct:title>
+            <dct:description xml:lang="sv">Nedladdningsbar excelfil (2009-2017)</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-11-01</dct:modified>
+        <dct:accrualPeriodicity rdf:resource="http://purl.org/cld/freq/Annual"/>
+        <dcat:landingPage rdf:resource="https://www.migrationsverket.se/psidata"/>
+        <dct:description>Beviljade uppehållstillstånd 1980–2017</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-11-01</dct:issued>
+        <dcat:contactPoint rdf:resource="https://www.migrationsverket.se/datasets/dcat#migrationsverket"/>
+        <dcat:keyword>Migrationsverket</dcat:keyword>
+        <dcat:keyword>Tillstånd, Uppehållstillstånd</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2e34baa5-5573-4e9c-a319-061afafe574e">
+            <dct:title xml:lang="sv">Excel - 1980-2017</dct:title>
+            <dcat:accessURL rdf:resource="https://www.migrationsverket.se/oppna-data/beviljade-uppehallstillstand-1980"/>
+            <dct:identifier>https://www.migrationsverket.se/datasets/dcat#distribution9</dct:identifier>
+            <dct:description xml:lang="sv">Nedladdningsbar excelfil (1980-2017)</dct:description>
+            <dct:format>application/vnd.ms-excel</dct:format>
+            <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv">Beviljade uppehållstillstånd 1980-2017</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>sv</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>e08e246fdd178c04778c84aafed732ac</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T13:39:48Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T04:31:00Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T04:31:00Z</edp:transIssued>
+    <dct:identifier>https://www.migrationsverket.se/datasets/dcat#ds8</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

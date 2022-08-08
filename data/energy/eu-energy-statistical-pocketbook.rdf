@@ -1,0 +1,1331 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/eu-energy-statistical-pocketbook">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-12T16:01:54Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/eu-energy-statistical-pocketbook"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-12T16:02:11Z</edp:transReceived>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:38:16Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:01:53Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>eu-energy-statistical-pocketbook</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>af0d67a9e7eb7a7c0a82b4e80d8572d2</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/eu-energy-statistical-pocketbook">
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook">
+            <dct:description xml:lang="en">EU energy statistical pocketbooks website</dct:description>
+            <dct:title xml:lang="en">EU energy statistical pocketbooks website</dct:title>
+            <schema:url xml:lang="en">https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/eu-energy-statistical-pocketbook"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <schema:url>https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/756"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GRC"/>
+        </dct:spatial>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/60d3ebf3-5fe3-4b75-8197-158169328712">
+            <vcard:hasEmail rdf:resource="mailto:ener-emos@ec.europa.eu+"/>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://data.europa.eu/88u/dataset/%20http://ec.europa.eu/energy/observatory/statistics/statistics_en.htm">
+                <schema:url> http://ec.europa.eu/energy/observatory/statistics/statistics_en.htm</schema:url>
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>European Commission, DG Energy</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2772"/>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Statistični dokument Evropske unije o energiji</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická kniha Evropské unie</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SWE"/>
+        </dct:spatial>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2715"/>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Статистически наръчник на Европейския съюз в областта на енергетиката</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso estatístico da União Europeia em matéria de energia</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka Európskej únie</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5386"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE. Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.
+   Os dados contidos neste livro de algibeira são extraídos de várias fontes: dos serviços da Comissão Europeia, de organizações internacionais, como a Agência Europeia do Ambiente e a Agência Internacional da Energia, bem como das estimativas da Comissão Europeia quando os dados não estão disponíveis.
+ 
+A publicação divide-se em cinco partes:
+
+
+— Parte 1.Visão geral da energia a nível mundial e da UE.
+ 
+— Parte 2.
+Principais indicadores energéticos, a nível da UE e dos Estados-Membros.
+
+
+— Parte 3.
+Indicadores socioeconómicos na UE.
+
+
+— Parte 4.
+Impacto do setor da energia no ambiente.
+
+
+— Parte 5.
+Perfis dos países — Principais indicadores energéticos.
+
+
+
+
+Os indicadores foram calculados utilizando a metodologia estabelecida pelo
+
+Comissão Europeia — DG Energia.
+Os apêndices incluem um glossário e
+
+notas metodológicas</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LTU"/>
+        </dct:spatial>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.   
+Šioje knygelėje esantys duomenys paimti iš kelių šaltinių:iš Europos Komisijos tarnybų, tarptautinių organizacijų, pvz., Europos aplinkos agentūros ir Tarptautinės energetikos agentūros, taip pat iš Europos Komisijos apskaičiavimų, kai
+ duomenų nėra.
+ 
+Leidinys suskirstytas į penkias dalis:  
+– 1 dalis.
+Energetikos apžvalga pasauliniu ir ES lygmenimis.
+– 2 dalis.
+Pagrindiniai energijos rodikliai ES ir valstybių narių lygmeniu. 
+– 3 dalis.Socialiniai ir ekonominiai rodikliai ES.
+ – 4 dalis.
+Energetikos sektoriaus poveikis aplinkai.  – 5 dalis.
+Šalių profiliai. Pagrindiniai energijos rodikliai.  
+ Rodikliai apskaičiuoti pagal
+
+Europos Komisijos Energetikos GD.
+Priedėliuose pateikiamas žodynėlis ir
+
+metodinės pastabos</dct:description>
+        <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor. 
+
+Die in diesem Taschenbuch enthaltenen Daten stammen aus mehreren Quellen: von den Dienststellen der Europäischen Kommission, von internationalen Organisationen wie der Europäischen Umweltagentur und der Internationalen Energieagentur sowie von Schätzungen der Europäischen Kommission, wenn andere
+Daten sind nicht verfügbar. 
+
+Die Publikation gliedert sich in fünf Teile: 
+
+— Teil 1 Energieübersicht auf globaler und EU-Ebene. 
+— Teil 2 Wichtigste Energieindikatoren auf Ebene der EU und der Mitgliedstaaten. 
+— Teil 3 Sozioökonomische Indikatoren in der EU. 
+
+— Teil 4
+Auswirkungen des Energiesektors auf die Umwelt.
+
+
+— Teil 5
+Länderprofile – Hauptenergieindikatoren.
+
+
+
+
+Die Indikatoren wurden anhand der von der
+
+Europäische Kommission – GD Energie.
+Die Anhänge umfassen ein Glossar und
+
+Anmerkungen zur Methodik</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/HUN"/>
+        </dct:spatial>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.   
+Šajā kabatas grāmatā ietvertie dati ir iegūti no vairākiem avotiem:no Eiropas Komisijas dienestiem, no starptautiskām organizācijām, piemēram, Eiropas Vides aģentūras un Starptautiskās Enerģētikas aģentūras, kā arī no Eiropas Komisijas aplēsēm, ja citas
+ dati nav pieejami.
+ 
+Publikācijai ir piecas daļas:  
+— 1. daļa.
+Enerģētikas pārskats pasaules un ES līmenī.
+ — 2. daļa.
+Galvenie enerģētikas rādītāji ES un dalībvalstu līmenī.
+
+
+— 3. daļa.
+Sociālekonomiskie rādītāji ES.
+
+
+— 4. daļa.
+Enerģētikas nozares ietekme uz vidi.
+
+
+— 5. daļa.
+Valstu profili — galvenie enerģētikas rādītāji.
+
+
+
+
+Rādītāji ir aprēķināti, izmantojot metodiku, ko noteikusi
+
+Eiropas Komisija — Enerģētikas ģenerāldirektorāts.
+Papildinājumi ietver glosāriju un
+
+metodoloģiskas piezīmes</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/70e46c00-5ce9-49dc-ab72-34e6ea602865">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/pdf"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2017</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2017</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso estatístico de energia 2017</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2017</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen. Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh 2017</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2017</dct:title>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2017</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģijas statistikas kabatas grāmata 2017</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2017</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU. Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energetikai statisztikai zsebkönyv 2017</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2017</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder. Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE. Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2017</dct:title>
+            <dcat:accessURL rdf:resource="https://publications.europa.eu/en/publication-detail/-/publication/2e046bd0-b542-11e7-837e-01aa75ed71a1/language-en/format-PDF/source-search"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dcat:downloadURL rdf:resource="https://publications.europa.eu/en/publication-detail/-/publication/2e046bd0-b542-11e7-837e-01aa75ed71a1/language-en/format-PDF/source-search"/>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2017</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2017</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Енергийна статистическа джобна книга 2017</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos statistikos knygelė 2017 m.</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a. To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/7159aed7-499f-4d98-8058-2b3742a20916</dct:identifier>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-11-08T11:27:31.771269+02:00</dct:issued>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2017</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE. Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2017</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Carnet statistique de l’énergie 2017</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2017</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică a energiei 2017</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2017</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            </dct:format>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiastatistika taskuraamat 2017</dct:title>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2017</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FIN"/>
+        </dct:spatial>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat. 
+
+Az ebben a zsebkönyvben található adatok több forrásból származnak: az Európai Bizottság szolgálataitól, nemzetközi szervezetektől, például az Európai Környezetvédelmi Ügynökségtől és a Nemzetközi Energiaügynökségtől, valamint az Európai Bizottság becsléseiből, ha más
+az adatok nem állnak rendelkezésre. 
+
+A kiadvány öt részből áll:  
+
+
+– 1. rész
+Energetikai áttekintés globális és uniós szinten.
+
+
+– 2. rész.
+Fő energiamutatók uniós és tagállami szinten.
+
+
+– 3. rész.
+Társadalmi-gazdasági mutatók az EU-ban.
+
+
+– 4. rész.
+Az energiaágazat környezetre gyakorolt hatása.
+
+
+– 5. rész.
+Országprofilok – Fő energiamutatók.
+
+
+
+
+A mutatókat a következő módszertan alapján számították ki:
+
+Európai Bizottság – Energiaügyi Főigazgatóság.
+A függelékek közé tartozik a glosszárium és
+
+módszertani megjegyzések</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DEU"/>
+        </dct:spatial>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU. Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.
+   Podatki v tej žepni knjižici so zbrani iz več virov: od služb Evropske komisije, mednarodnih organizacij, kot sta Evropska agencija za okolje in Mednarodna agencija za energijo, pa tudi iz ocen Evropske komisije, ko gre za druge podatki niso na voljo.
+ 
+Publikacija je razdeljena na pet delov:
+
+
+— Del 1.Energetski pregled na svetovni ravni in ravni EU.
+ — Del 2.
+Glavni energetski kazalniki na ravni EU in držav članic.
+ — Del 3.Socialno-ekonomski kazalniki v EU.
+  — Del 4.Vpliv energetskega sektorja na okolje.
+  — Del 5.Profili držav – glavni energetski kazalniki.
+ 
+
+
+Kazalniki so bili izračunani z uporabo metodologije, ki jo je določila
+
+Evropska komisija – GD za energetiko.
+Dodatki vključujejo glosar in
+
+metodološke opombe</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.
+   Údaje obsiahnuté v tejto peňaženke sú čerpané z viacerých zdrojov:
+z útvarov Európskej komisie, z medzinárodných organizácií, ako je Európska environmentálna agentúra a Medzinárodná energetická agentúra, ako aj z odhadov Európskej komisie, ak
+
+údaje nie sú k dispozícii.
+
+
+
+
+Publikácia je rozdelená na päť častí:
+
+
+
+
+— Časť 1.
+Prehľad o energetike na celosvetovej úrovni a na úrovni EÚ.
+
+
+— Časť 2.
+Hlavné energetické ukazovatele na úrovni EÚ a členských štátov.
+
+
+— Časť 3.
+Sociálno-ekonomické ukazovatele v EÚ.
+
+
+— Časť 4.
+Vplyv odvetvia energetiky na životné prostredie.
+
+
+— Časť 5.
+Profily krajín – hlavné energetické ukazovatele.
+
+
+
+
+Ukazovatele sa vypočítali pomocou metodiky stanovenej
+
+Európska komisia – GR pre energetiku.
+Prílohy obsahujú glosár a
+
+metodické poznámky</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/EST"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1ef8895c-9560-4d64-8dfa-221164bf3cf3">
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2021</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU.
+Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2021</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2021</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energetikai statisztikai zsebkönyv 2021</dct:title>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2021</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2021</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2021</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen. Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE. Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2021</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2021</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2021</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder. Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh 2021</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Статистически наръчник за енергетиката 2021 г.</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică privind energia 2021</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiastatistika taskuraamat 2021</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Lista tal-istatistika dwar l-enerġija 2021</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2021</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE. Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2021</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/8c3c0fd8-a3c9-4677-a358-f3efcd19562a</dct:identifier>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2021</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique sur l’énergie 2021</dct:title>
+            <dcat:accessURL rdf:resource="https://op.europa.eu/en/publication-detail/-/publication/41488d59-2032-11ec-bd8e-01aa75ed71a1/language-en"/>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso para estatísticas energéticas 2021</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a. To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2021</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2021 m. energetikos statistikos knygelė</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2021.</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακός στατιστικός οδηγός για το 2021</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Ktieb tal-but statistiku tal-Unjoni Ewropea dwar l-enerġija</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/6700"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/747"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1141"/>
+        <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren. 
+
+Dataene i denne lommebog er hentet fra flere kilder: fra Europa-Kommissionens tjenestegrene, fra internationale organisationer som Det Europæiske Miljøagentur og Det Internationale Energiagentur samt fra Europa-Kommissionens skøn, når andre
+data er ikke tilgængelige. 
+
+Publikationen er opdelt i fem dele: 
+
+— Del 1. Energioversigt på globalt plan og EU-plan. 
+2. del. De vigtigste energiindikatorer på EU- og medlemsstatsniveau. 
+— Del 3. Socioøkonomiske indikatorer i EU. 
+— Del 4. Energisektorens indvirkning på miljøet. 
+— Del 5. Landeprofiler — vigtigste energiindikatorer. 
+
+Indikatorerne er beregnet ved hjælp af den metode, der er fastlagt ved
+Europa-Kommissionen — Generaldirektoratet for Energi. Tillæggene indeholder en ordliste og 
+metodologiske bemærkninger</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LVA"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/77d632ad-97cd-4215-b591-48e21fa46a98">
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică a energiei 2013</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2013</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU. Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2013</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen. Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de algibeira estatístico de energia 2013</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/2013_pocketbook.pdf"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/afcf2a24-0ab4-4d06-aef4-4422c54bfce7</dct:identifier>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique sur l’énergie 2013</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staitistiúil fuinnimh 2013</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2013</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2013</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/2013_pocketbook.pdf"/>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a. To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2013</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2013 m. energetikos statistikos knygelė</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2013</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2013</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-12-15T16:48:35.509571+02:00</dct:issued>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiastatistika taskuraamat 2013</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2013</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2013</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiastatisztikai zsebkönyv 2013</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE. Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2013</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2013</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder. Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2013</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2013</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Енергийна статистическа джобна книга 2013</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE. Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2013</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2013</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2013</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Europos Sąjungos energetikos statistikos knygelė</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/POL"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FRA"/>
+        </dct:spatial>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/748"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVK"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3ad86eb4-c7d0-4adb-956a-5a0952e58399">
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2015</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/PocketBook_ENERGY_2015%20PDF%20final.pdf"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2015</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos statistikos knygelė 2015 m.</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2015</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU. Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2015</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2015</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Carnet statistique de l’énergie 2015</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande.
+Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso estatístico de energia 2015</dct:title>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2015</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a. To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/PocketBook_ENERGY_2015%20PDF%20final.pdf"/>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2015</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiastatisztikai zsebkönyv 2015</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2015</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiastatistika taskuraamat 2015</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2015</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/7fbfde38-b340-41e3-9313-87579c2b705c</dct:identifier>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh 2015</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2015</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen. Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2015.</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2015</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE. Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE. Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2015</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2015</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-12-15T16:41:29.417220+02:00</dct:issued>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2015</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder. Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2015</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică energetică 2015</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Енергийна статистическа джобна книга 2015</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-en-t0-mtec">Den Europæiske Unions statistiske lommebog på energiområdet</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/754"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c3e6d67c-bc16-4f51-a23b-de78d4260624">
+            <dct:title xml:lang="et-t-en-t0-mtec">Energia statistiline taskuraamat 2016</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2016</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2016</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică în domeniul energiei 2016</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2016</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4bb2f125-396b-492e-8a81-c7863e52d739</dct:identifier>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos statistikos knygelė 2016 m.</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE.
+Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2016</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2016</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU. Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2016</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique sur l’énergie 2016</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2016</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/pocketbook_energy-2016_web-final_final.pdf"/>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2016</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a. To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2016</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de algibeira estatístico de energia 2016</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Енергийна статистическа джобна книга 2016</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiastatisztikai zsebkönyv 2016</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh 2016</dct:title>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/pocketbook_energy-2016_web-final_final.pdf"/>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2016</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder. Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2016</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-09-14T13:45:24.378537+02:00</dct:issued>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2016</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2016</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE. Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2016</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2016</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen. Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2016</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1352"/>
+        <dct:title xml:lang="el-t-en-t0-mtec">Εγχειρίδιο ενεργειακής στατιστικής της Ευρωπαϊκής Ένωσης</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh an Aontais Eorpaigh</dct:title>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.   
+Les données contenues dans ce carnet proviennent de plusieurs sources:des services de la Commission européenne, d’organisations internationales telles que l’Agence européenne pour l’environnement et l’Agence internationale de l’énergie, ainsi que des estimations de la Commission européenne lorsque d’autres
+ les données ne sont pas disponibles.
+ 
+La publication est divisée en cinq parties:  
+— Partie 1.
+Vue d’ensemble de l’énergie au niveau mondial et au niveau de l’UE.
+— Partie 2.
+Principaux indicateurs énergétiques, au niveau de l’UE et des États membres. 
+— Partie 3.Indicateurs socio-économiques dans l’UE.
+ — Partie 4.
+Impact du secteur de l’énergie sur l’environnement.  — Partie 5.
+Profils par pays — Principaux indicateurs énergétiques.  
+ Les indicateurs ont été calculés à l’aide de la méthodologie établie par le
+
+Commission européenne — DG Énergie.
+Les annexes comprennent un glossaire et
+
+notes méthodologiques</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/MLT"/>
+        </dct:spatial>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4507"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-09-14</dct:issued>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/6043"/>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Euroopan unionin energiatilastollinen taskukirja</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Statistisch zakboek voor energie van de Europese Unie</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5503"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1139"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8bbf567d-ccc4-4d66-95ad-239fe84aba73">
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2018</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2018</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/82e76b59-cd9d-4935-a7a6-caf135a3f728</dct:identifier>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2018</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Енергийна статистическа джобна книга 2018</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2018</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2018</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder.
+Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2018</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2018</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso estatístico de energia 2018</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE.
+Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides.
+See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-11-08T11:27:31.771281+02:00</dct:issued>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dcat:downloadURL rdf:resource="https://publications.europa.eu/en/publication-detail/-/publication/99fc30eb-c06d-11e8-9893-01aa75ed71a1/language-en"/>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique sur l’énergie 2018</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE.
+Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energia statisztikai zsebkönyv 2018</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2018</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh 2018</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE.
+Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen.
+Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos statistikos knygelė 2018 m.</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a.
+To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2018</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2018</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiastatistika taskuraamat 2018</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică energetică 2018</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2018</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs.
+Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU. Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2018</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2018</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE.
+Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+            <dcat:accessURL rdf:resource="https://publications.europa.eu/en/publication-detail/-/publication/99fc30eb-c06d-11e8-9893-01aa75ed71a1/language-en"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2018</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2018</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2018</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä. 
+
+Tämän taskukirjan sisältämät tiedot ovat peräisin useista lähteistä: Euroopan komission yksiköiltä, kansainvälisiltä järjestöiltä, kuten Euroopan ympäristökeskukselta ja Kansainväliseltä energiakeskukselta, sekä Euroopan komission arvioilta, jos
+tietoja ei ole saatavilla. 
+
+Julkaisu jakautuu viiteen osaan: 
+
+— Osa 1 Energiakatsaus maailmanlaajuisesti ja EU:n tasolla. 
+— Osa 2. Tärkeimmät energiaindikaattorit EU:n ja jäsenvaltioiden tasolla. 
+— Osa 3. Sosioekonomiset indikaattorit eu:ssa. 
+— Osa 4. Energia-alan ympäristövaikutukset. 
+Osa 5. Maaprofiilit – tärkeimmät energiaindikaattorit. 
+
+Indikaattorit on laskettu käyttäen
+Euroopan komissio – energian pääosasto. Liitteisiin sisältyy sanasto ja 
+menetelmiä koskevat huomautukset</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny Unii Europejskiej w dziedzinie energii</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BEL"/>
+        </dct:spatial>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.   
+Datele conținute în acest buzunar sunt extrase din mai multe surse:de la serviciile Comisiei Europene, de la organizații internaționale precum Agenția Europeană de Mediu și Agenția Internațională a Energiei, precum și de la estimările Comisiei Europene atunci când altele
+ datele nu sunt disponibile.
+ 
+Publicația este împărțită în cinci părți:  
+— Partea 1.
+Privire de ansamblu asupra energiei la nivel mondial și la nivelul UE.
+— Partea 2.
+Principalii indicatori energetici, la nivelul UE și al statelor membre. 
+— Partea 3.Indicatori socioeconomici în UE.
+ — Partea 4.
+Impactul sectorului energetic asupra mediului.  — Partea 5.
+Profiluri de țară – Principalii indicatori energetici.  
+ Indicatorii au fost calculați utilizând metodologia stabilită de
+
+Comisia Europeană – DG Energie.
+Anexele includ un glosar și
+
+note metodologice</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta. 
+
+Selles taskuraamatus sisalduvad andmed pärinevad mitmest allikast: Euroopa Komisjoni talitustelt, rahvusvahelistelt organisatsioonidelt, nagu Euroopa Keskkonnaagentuur ja Rahvusvaheline Energiaagentuur, ning samuti Euroopa Komisjoni hinnangutelt, kui
+andmed ei ole kättesaadavad. 
+
+Väljaanne koosneb viiest osast: 
+
+–1. osa. Energiaülevaade ülemaailmsel ja ELi tasandil. 
+– 2. osa. Peamised energianäitajad ELi ja liikmesriikide tasandil. 
+– 3. osa. Sotsiaalmajanduslikud näitajad ELis. 
+– 4. osa. Energiasektori mõju keskkonnale. 
+– 5. osa. Riigiprofiilid – peamised energianäitajad. 
+
+Näitajad on arvutatud, kasutades metoodikat, mille on kehtestanud
+Euroopa Komisjon – energeetika peadirektoraat. Lisad sisaldavad sõnastikku ja 
+metoodilised märkused</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ITA"/>
+        </dct:spatial>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Buzunarul statistic al Uniunii Europene în domeniul energiei</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE. Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.
+   Dane zawarte w tym portfelu pochodzą z kilku źródeł: od służb Komisji Europejskiej, organizacji międzynarodowych, takich jak Europejska Agencja Środowiska i Międzynarodowa Agencja Energetyczna, a także z szacunków Komisji Europejskiej, gdy inne dane są niedostępne.
+ 
+Publikacja podzielona jest na pięć części:
+
+
+Część 1.Przegląd sytuacji energetycznej na szczeblu globalnym i unijnym.
+ Część 2.
+Główne wskaźniki energetyczne na szczeblu UE i państw członkowskich.
+ Część 3.Wskaźniki społeczno-gospodarcze w UE.
+  Część 4.Wpływ sektora energetycznego na środowisko.
+  Część 5.Profile krajów – Główne wskaźniki energetyczne.
+ 
+
+
+Wskaźniki zostały obliczone przy użyciu metodyki ustalonej przez
+
+Komisja Europejska – DG ds. Energii.
+Załączniki zawierają glosariusz i
+
+uwagi metodologiczne</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2654"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CYP"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ROU"/>
+        </dct:spatial>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор. 
+
+Данните, съдържащи се в тази джобна книга, са извлечени от няколко източника: от службите на Европейската комисия, от международни организации като Европейската агенция за околната среда и Международната агенция по енергетика, както и от оценките на Европейската комисия, когато
+данните не са налични. 
+
+Публикацията е разделена на пет части: 
+
+— Част 1. Енергиен преглед на световно равнище и на равнище ЕС. 
+— Част 2. Основни енергийни показатели на равнище ЕС и държави членки. 
+— Част 3. Социално-икономически показатели в ЕС. 
+— Част 4. Въздействие на енергийния сектор върху околната среда. 
+— Част 5. Профили на държавите — основни енергийни показатели. 
+
+Показателите са изчислени по методиката, установена от
+Европейска комисия — ГД „Енергетика“. Приложенията включват речник и 
+методологически бележки</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4ff1ebb1-8458-471b-bc33-0d3fd7211218">
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2019</dct:title>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2019</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Denna publikation ger en översikt över den mest relevanta årliga energirelaterade statistiken för Europeiska unionen som helhet och för var och en av dess medlemsstater. Uppgifterna i denna pocketbok hämtas från flera källor: från Europeiska kommissionens avdelningar, från internationella organisationer som Europeiska miljöbyrån och Internationella energiorganet samt från Europeiska kommissionens uppskattningar när andra uppgifter saknas.</dct:description>
+            <dct:description xml:lang="en">This publication provides an overview of the most relevant annual energy-related statistics for the European Union as a whole and for each of its Member States. The data contained in this pocketbook is drawn from several sources: from the European Commission’s services, from international organisations such as the European Environment Agency and the International Energy Agency and also from the European Commission’s estimates when other data is unavailable.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2019</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/e7f944e7-1acc-4641-a02d-559971003f06</dct:identifier>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2019</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">La presente pubblicazione fornisce una panoramica delle statistiche annuali relative all'energia più pertinenti per l'Unione europea nel suo insieme e per ciascuno dei suoi Stati membri. I dati contenuti in questo portafoglio sono tratti da diverse fonti:
+dai servizi della Commissione europea, da organizzazioni internazionali quali l'Agenzia europea dell'ambiente e l'Agenzia internazionale per l'energia, nonché dalle stime della Commissione europea in caso di indisponibilità di altri dati.</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Ta publikacija vsebuje pregled najpomembnejših letnih statističnih podatkov v zvezi z energijo za Evropsko unijo kot celoto in za vsako od njenih držav članic. Podatki v tej žepni knjižici so zbrani iz več virov: od služb Evropske komisije, mednarodnih organizacij, kot sta Evropska agencija za okolje in Mednarodna agencija za energijo, pa tudi iz ocen Evropske komisije, ko drugi podatki niso na voljo.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Táto publikácia poskytuje prehľad najrelevantnejších ročných štatistík týkajúcich sa energetiky pre Európsku úniu ako celok a za každý jej členský štát. Údaje obsiahnuté v tejto peňaženke sú čerpané z viacerých zdrojov: z útvarov Európskej komisie, z medzinárodných organizácií, ako je Európska environmentálna agentúra a Medzinárodná energetická agentúra, ako aj z odhadov Európskej komisie, ak nie sú k dispozícii iné údaje.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2019</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an foilseachán seo forléargas ar na staitisticí bliantúla fuinnimh is ábhartha don Aontas Eorpach ina iomláine agus do gach ceann dá Bhallstáit. Tá na sonraí atá sa leabhar póca seo tarraingthe ó roinnt foinsí: ó sheirbhísí an Choimisiúin Eorpaigh, ó eagraíochtaí idirnáisiúnta amhail an Ghníomhaireacht Eorpach Chomhshaoil agus an Ghníomhaireacht Idirnáisiúnta Fuinnimh agus freisin ó mheastacháin an Choimisiúin Eorpaigh nuair nach bhfuil sonraí eile ar fáil.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2019</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2019</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="de-t-en-t0-mtec">Diese Veröffentlichung gibt einen Überblick über die wichtigsten jährlichen energiebezogenen Statistiken für die Europäische Union als Ganzes und für jeden ihrer Mitgliedstaaten. Die in diesem Taschenbuch enthaltenen Daten stammen aus mehreren Quellen: von den Dienststellen der Europäischen Kommission, von internationalen Organisationen wie der Europäischen Umweltagentur und der Internationalen Energieagentur sowie von Schätzungen der Europäischen Kommission, wenn andere Daten nicht verfügbar sind.</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energia statistiline taskuraamat 2019</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Ez a kiadvány áttekintést nyújt az Európai Unió egészére és minden egyes tagállamára vonatkozó, az energiával kapcsolatos legfontosabb éves statisztikákról. Az ebben a zsebkönyvben található adatok több forrásból származnak: az Európai Bizottság szolgálataitól, nemzetközi szervezetektől, például az Európai Környezetvédelmi Ügynökségtől és a Nemzetközi Energiaügynökségtől, valamint az Európai Bizottság becsléseiből, ha más adatok nem állnak rendelkezésre.</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energia statisztikai zsebkönyv 2019</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tässä julkaisussa esitetään yleiskatsaus merkittävimmistä vuotuisista energiaan liittyvistä tilastoista, jotka koskevat koko Euroopan unionia ja sen jäsenvaltioita. Tämän taskukirjan sisältämät tiedot ovat peräisin useista lähteistä: Euroopan komission yksiköistä, kansainvälisistä järjestöistä, kuten Euroopan ympäristökeskuksesta ja Kansainvälisestä energiakeskuksesta, sekä Euroopan komission arvioista, jos muita tietoja ei ole saatavilla.</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η παρούσα δημοσίευση παρέχει μια επισκόπηση των σημαντικότερων ετήσιων στατιστικών σχετικά με την ενέργεια για την Ευρωπαϊκή Ένωση στο σύνολό της και για καθένα από τα κράτη μέλη της. Τα δεδομένα που περιέχονται σε αυτό το βιβλίο τσέπης προέρχονται από διάφορες πηγές: από τις υπηρεσίες της Ευρωπαϊκής Επιτροπής, από διεθνείς οργανισμούς όπως ο Ευρωπαϊκός Οργανισμός Περιβάλλοντος και ο Διεθνής Οργανισμός Ενέργειας, καθώς και από τις εκτιμήσεις της Ευρωπαϊκής Επιτροπής όταν δεν είναι διαθέσιμα άλλα δεδομένα.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh 2019</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Šajā publikācijā sniegts pārskats par būtiskākajiem ikgadējiem ar enerģētiku saistītiem statistikas datiem par Eiropas Savienību kopumā un par katru tās dalībvalsti. Šajā kabatas grāmatā ietvertie dati ir iegūti no vairākiem avotiem: no Eiropas Komisijas dienestiem, no starptautiskām organizācijām, piemēram, Eiropas Vides aģentūras un Starptautiskās Enerģētikas aģentūras, kā arī no Eiropas Komisijas aplēsēm, kad citi dati nav pieejami.</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <dct:description xml:lang="fr-t-en-t0-mtec">La présente publication donne un aperçu des statistiques annuelles relatives à l’énergie les plus pertinentes pour l’Union européenne dans son ensemble et pour chacun de ses États membres. Les données contenues dans ce carnet proviennent de plusieurs sources: auprès des services de la Commission européenne, d’organisations internationales telles que l’Agence européenne pour l’environnement et l’Agence internationale de l’énergie, ainsi que des estimations de la Commission européenne lorsque d’autres données ne sont pas disponibles.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2019</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2019</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Denne publikation giver et overblik over de mest relevante årlige energirelaterede statistikker for Den Europæiske Union som helhed og for hver af dens medlemsstater. Dataene i denne lommebog er hentet fra flere kilder: fra Europa-Kommissionens tjenestegrene, fra internationale organisationer som Det Europæiske Miljøagentur og Det Internationale Energiagentur samt fra Europa-Kommissionens skøn, når der ikke foreligger andre data.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2019</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2019</dct:title>
+            <dcat:downloadURL rdf:resource="https://publications.europa.eu/en/publication-detail/-/publication/e0544b72-db53-11e9-9c4e-01aa75ed71a1"/>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Deze publicatie geeft een overzicht van de meest relevante jaarlijkse energiegerelateerde statistieken voor de Europese Unie als geheel en voor elk van haar lidstaten. De gegevens in dit zakboek zijn afkomstig uit verschillende bronnen: van de diensten van de Europese Commissie, van internationale organisaties zoals het Europees Milieuagentschap en het Internationaal Energieagentschap en van de ramingen van de Europese Commissie wanneer andere gegevens niet beschikbaar zijn.</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Šiame leidinyje apžvelgiami svarbiausi metiniai su energetika susiję statistiniai duomenys apie visą Europos Sąjungą ir apie kiekvieną jos valstybę narę. Šioje knygelėje esantys duomenys paimti iš kelių šaltinių: iš Europos Komisijos tarnybų, tarptautinių organizacijų, pavyzdžiui, Europos aplinkos agentūros ir Tarptautinės energetikos agentūros, taip pat iš Europos Komisijos apskaičiavimų, kai kitų duomenų nėra.</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique sur l’énergie 2019</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Енергийна статистическа джобна книга 2019</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2019</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos statistikos knygelė 2019 m.</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Din il-pubblikazzjoni tipprovdi ħarsa ġenerali lejn l-aktar statistika annwali rilevanti relatata mal-enerġija għall-Unjoni Ewropea kollha kemm hi u għal kull wieħed mill-Istati Membri tagħha. Id-data li tinsab f’dan il-ktieb tal-but tittieħed minn diversi sorsi: mis-servizzi tal-Kummissjoni Ewropea, minn organizzazzjonijiet internazzjonali bħall-Aġenzija Ewropea għall-Ambjent u l-Aġenzija Internazzjonali tal-Enerġija kif ukoll mill-istimi tal-Kummissjoni Ewropea meta data oħra ma tkunx disponibbli.</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2019</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:description xml:lang="hr-t-en-t0-mtec">U ovoj se publikaciji daje pregled najrelevantnijih godišnjih statističkih podataka o energiji za Europsku uniju u cjelini i za svaku od njezinih država članica. Podaci sadržani u ovoj knjižici temelje se na nekoliko izvora: službe Europske komisije, međunarodne organizacije kao što su Europska agencija za okoliš i Međunarodna agencija za energiju te procjene Europske komisije kada drugi podaci nisu dostupni.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso estatístico de energia 2019</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Niniejsza publikacja zawiera przegląd najistotniejszych rocznych statystyk dotyczących energii dla Unii Europejskiej jako całości i dla każdego z jej państw członkowskich. Dane zawarte w tym portfelu pochodzą z kilku źródeł: od służb Komisji Europejskiej, organizacji międzynarodowych, takich jak Europejska Agencja Środowiska i Międzynarodowa Agencja Energetyczna, a także szacunków Komisji Europejskiej, w przypadku gdy inne dane są niedostępne.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2019</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Käesolevas väljaandes antakse ülevaade kõige asjakohasemast iga-aastasest energiaga seotud statistikast Euroopa Liidu kui terviku ja iga selle liikmesriigi kohta. Selles taskuraamatus sisalduvad andmed pärinevad mitmest allikast: Euroopa Komisjoni talitustelt, rahvusvahelistelt organisatsioonidelt, nagu Euroopa Keskkonnaagentuur ja Rahvusvaheline Energiaagentuur, ning Euroopa Komisjoni hinnangutelt, kui muud andmed ei ole kättesaadavad.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">Esta publicación ofrece una visión general de las estadísticas anuales más relevantes relacionadas con la energía para la Unión Europea en su conjunto y para cada uno de sus Estados miembros. Los datos contenidos en este libro de bolsillo se extraen de varias fuentes: de los servicios de la Comisión Europea, de organizaciones internacionales como la Agencia Europea de Medio Ambiente y la Agencia Internacional de la Energía, así como de las estimaciones de la Comisión Europea cuando no se disponga de otros datos.</dct:description>
+            <dcat:accessURL rdf:resource="https://publications.europa.eu/en/publication-detail/-/publication/e0544b72-db53-11e9-9c4e-01aa75ed71a1"/>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2019</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Această publicație oferă o imagine de ansamblu a celor mai relevante statistici anuale privind energia pentru Uniunea Europeană în ansamblu și pentru fiecare dintre statele sale membre. Datele conținute în acest buzunar sunt extrase din mai multe surse: de la serviciile Comisiei Europene, de la organizații internaționale precum Agenția Europeană de Mediu și Agenția Internațională a Energiei, precum și de la estimările Comisiei Europene atunci când alte date nu sunt disponibile.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2019</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">A presente publicação apresenta uma panorâmica das estatísticas anuais relacionadas com a energia mais relevantes para a União Europeia no seu conjunto e para cada um dos seus Estados-Membros. Os dados contidos neste livro de algibeira são extraídos de várias fontes: dos serviços da Comissão Europeia, de organizações internacionais como a Agência Europeia do Ambiente e da Agência Internacional da Energia, bem como das estimativas da Comissão Europeia quando não existem outros dados disponíveis.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">В настоящата публикация се прави преглед на най-важните годишни статистически данни, свързани с енергетиката, за Европейския съюз като цяло и за всяка от неговите държави членки. Данните, съдържащи се в тази джобна книга, са извлечени от няколко източника: от службите на Европейската комисия, от международни организации като Европейската агенция за околната среда и Международната агенция по енергетика, както и от оценките на Европейската комисия, когато няма други данни.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Tato publikace poskytuje přehled nejdůležitějších ročních statistik týkajících se energetiky pro Evropskou unii jako celek a pro každý z jejích členských států. Údaje obsažené v této kapesní knize jsou čerpány z několika zdrojů: z útvarů Evropské komise, z mezinárodních organizací, jako je Evropská agentura pro životní prostředí a Mezinárodní energetická agentura, a také z odhadů Evropské komise, pokud nejsou k dispozici jiné údaje.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică energetică 2019</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3537"/>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.
+   Id-data li tinsab f’dan il-ktieb tal-but tittieħed minn diversi sorsi: mis-servizzi tal-Kummissjoni Ewropea, minn organizzazzjonijiet internazzjonali bħall-Aġenzija Ewropea għall-Ambjent u l-Aġenzija Internazzjonali tal-Enerġija kif ukoll mill-istimi tal-Kummissjoni Ewropea meta id-data mhijiex disponibbli.
+ 
+Il-pubblikazzjoni hija maqsuma f’ħames partijiet:
+
+
+— Parti 1.Ħarsa ġenerali lejn l-enerġija fil-livelli globali u tal-UE.
+ — It-tieni parti.
+L-indikaturi ewlenin tal-enerġija, fil-livelli tal-UE u tal-Istati Membri.
+ — Parti 3.Indikaturi soċjoekonomiċi fl-UE.
+  — Parti 4.L-impatt tas-settur tal-enerġija fuq l-ambjent.
+  — Parti 5.Profili tal-pajjiżi — Indikaturi ewlenin tal-enerġija.
+ 
+
+
+L-indikaturi ġew ikkalkulati bl-użu tal-metodoloġija stabbilita mill—
+
+Kummissjoni Ewropea — DĠ Enerġija.
+L-appendiċijiet jinkludu glossarju u
+
+noti metodoloġiċi</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía. 
+
+Los datos contenidos en este libro de bolsillo se extraen de varias fuentes: de los servicios de la Comisión Europea, de organizaciones internacionales como la Agencia Europea de Medio Ambiente y la Agencia Internacional de la Energía, así como de las estimaciones de la Comisión Europea cuando
+los datos no están disponibles. 
+
+La publicación se divide en cinco partes: 
+
+Parte 1. Visión general de la energía a escala mundial y de la UE. 
+— Parte 2. Principales indicadores energéticos, a nivel de la UE y de los Estados miembros. 
+— Parte 3. Indicadores socioeconómicos en la UE. 
+— Parte 4. Impacto del sector energético en el medio ambiente. 
+— Parte 5. Perfiles de los países — Principales indicadores energéticos. 
+
+Los indicadores se han calculado utilizando la metodología establecida por el
+Comisión Europea — DG Energía. Los apéndices incluyen un glosario y 
+notas metodológicas</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.
+   I dati contenuti in questo portafoglio sono tratti da diverse fonti: dai servizi della Commissione europea, da organizzazioni internazionali quali l'Agenzia europea dell'ambiente e l'Agenzia internazionale dell'energia, nonché dalle stime della Commissione europea quando i dati non sono disponibili.
+ 
+La pubblicazione è suddivisa in cinque parti:
+
+
+— Parte 1.Panoramica energetica a livello mondiale e dell'UE.
+ — Parte 2.
+Principali indicatori energetici, a livello dell'UE e degli Stati membri.
+ — Parte 3.Indicatori socioeconomici nell'UE.
+  — Parte 4.Impatto del settore energetico sull'ambiente.
+  — Parte 5.Profili nazionali — Principali indicatori energetici.
+ 
+
+
+Gli indicatori sono stati calcolati utilizzando la metodologia stabilita dal
+
+Commissione europea — DG Energia.
+Le appendici includono un glossario e
+
+note metodologiche</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Europeiska unionens energistatistik pocketbok</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ESP"/>
+        </dct:spatial>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/8412"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BGR"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a8d11da8-3d7d-4d14-849a-de90b8b4e036">
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE. Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2012</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2012</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2012</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2012</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder. Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn. Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder.
+Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a. To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky. Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2012</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Buzunarul statistic al energiei 2012</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2012</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä. Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa.
+Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia. Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/2012_energy_figures.pdf"/>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU.
+Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique de l’énergie 2012</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2012</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2012</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-12-15T16:48:35.509603+02:00</dct:issued>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2012</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen. Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector. Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen.
+Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor. Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern. Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de algibeira estatístico de energia 2012</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/2a2b1072-ccfa-4e9d-8e99-b995116ad9c2</dct:identifier>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky. Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ.
+Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Енергийна статистическа джобна книга 2012</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2012</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2012</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2012</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας. Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2012</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie. Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE.
+Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/2012_energy_figures.pdf"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē. Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiastatisztikai zsebkönyv 2012</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2012 m. energetikos statistikos knygelė</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic. Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2012</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2012</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE. Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2012</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staitistiúil fuinnimh 2012</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiastatistika taskuraamat 2012</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1353"/>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder. Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.
+   Uppgifterna i denna pocketbok hämtas från flera källor: från Europeiska kommissionens avdelningar, från internationella organisationer som Europeiska miljöbyrån och Internationella energiorganet samt från Europeiska kommissionens uppskattningar när andra data är inte tillgängliga.
+ 
+Publikationen är indelad i fem delar:
+
+
+— Del 1.Energiöversikt på global nivå och EU-nivå.
+ — Del 2.
+De viktigaste energiindikatorerna på EU- och medlemsstatsnivå.
+ — Del 3.Socioekonomiska indikatorer i EU.
+  — Del 4.Energisektorns inverkan på miljön.
+  — Del 5.Landsprofiler – De viktigaste energiindikatorerna.
+ 
+
+
+Indikatorerna har beräknats med hjälp av den metod som fastställts av
+
+Europeiska kommissionen – GD Energi.
+Bilagorna innehåller en ordlista och
+
+metodanmärkningar</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen. Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.   
+De gegevens in dit zakboek zijn afkomstig uit verschillende bronnen:van de diensten van de Europese Commissie, van internationale organisaties zoals het Europees Milieuagentschap en het Internationaal Energieagentschap en van de ramingen van de Europese Commissie wanneer andere
+ gegevens zijn niet beschikbaar.
+ 
+De publicatie bestaat uit vijf delen:  
+Deel 1.
+Energieoverzicht op mondiaal en EU-niveau.
+Deel 2.
+Belangrijkste energie-indicatoren, op het niveau van de EU en de lidstaten. 
+Deel 3.Sociaal-economische indicatoren in de EU.
+ Deel 4.
+Impact van de energiesector op het milieu.  Deel 5.
+Landenprofielen — Belangrijkste energie-indicatoren.  
+ De indicatoren zijn berekend aan de hand van de methode die is vastgesteld door de
+
+Europese Commissie — DG Energie.
+De bijlagen bevatten een woordenlijst en
+
+methodologische aantekeningen</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky. 
+
+Údaje obsažené v této kapesní knize jsou čerpány z několika zdrojů: z útvarů Evropské komise, z mezinárodních organizací, jako je Evropská agentura pro životní prostředí a Mezinárodní energetická agentura, a také z odhadů Evropské komise, pokud
+data nejsou k dispozici. 
+
+Publikace je rozdělena do pěti částí: 
+
+— Část 1. Energetický přehled na celosvětové úrovni a na úrovni EU. 
+— Část 2. Hlavní energetické ukazatele na úrovni EU a členských států. 
+— Část 3. Socioekonomické ukazatele v EU. 
+— Část 4. Dopad odvětví energetiky na životní prostředí. 
+Část 5. Profily zemí – Hlavní energetické ukazatele. 
+
+Ukazatele byly vypočteny pomocí metodiky stanovené
+Evropská komise – GŘ pro energetiku. Dodatky obsahují glosář a 
+metodické poznámky</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-12-21</dct:modified>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/AUT"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/HRV"/>
+        </dct:spatial>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας. 
+
+Τα δεδομένα που περιέχονται σε αυτό το βιβλίο τσέπης προέρχονται από διάφορες πηγές: από τις υπηρεσίες της Ευρωπαϊκής Επιτροπής, από διεθνείς οργανισμούς όπως ο Ευρωπαϊκός Οργανισμός Περιβάλλοντος και ο Διεθνής Οργανισμός Ενέργειας, καθώς και από τις εκτιμήσεις της Ευρωπαϊκής Επιτροπής όταν άλλες
+τα δεδομένα δεν είναι διαθέσιμα. 
+
+Η δημοσίευση χωρίζεται σε πέντε μέρη: 
+
+— Μέρος 1. Ενεργειακή επισκόπηση σε παγκόσμιο και ενωσιακό επίπεδο. 
+— Μέρος 2. Κύριοι δείκτες ενέργειας, σε επίπεδο ΕΕ και κρατών μελών. 
+— Μέρος 3. Κοινωνικοοικονομικοί δείκτες στην ΕΕ. 
+— Μέρος 4. Επιπτώσεις του ενεργειακού τομέα στο περιβάλλον. 
+— Μέρος 5. Προφίλ χώρας — Κύριοι δείκτες ενέργειας. 
+
+Οι δείκτες έχουν υπολογιστεί με τη μέθοδο που καθορίζεται από την
+Ευρωπαϊκή Επιτροπή — ΓΔ Ενέργειας. Τα προσαρτήματα περιλαμβάνουν γλωσσάριο και 
+μεθοδολογικές σημειώσεις</dct:description>
+        <dct:alternative xml:lang="en">Energy statistical pocketbook </dct:alternative>
+        <foaf:page rdf:resource="https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook"/>
+        <dct:title xml:lang="et-t-en-t0-mtec">Euroopa Liidu energiastatistika taskuraamat</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVN"/>
+        </dct:spatial>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a. To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru. 
+
+Podaci sadržani u ovoj knjižici temelje se na nekoliko izvora: službe Europske komisije, međunarodne organizacije kao što su Europska agencija za okoliš i Međunarodna agencija za energiju, kao i procjene Europske komisije kada su druge
+podaci nisu dostupni. 
+
+Publikacija je podijeljena na pet dijelova: 
+
+— Dio 1. Energetski pregled na globalnoj razini i razini EU-a. 
+— Dio 2. Glavni energetski pokazatelji na razini EU-a i država članica. 
+— Dio 3. Društveno-gospodarski pokazatelji u EU-u. 
+— Dio 4. Utjecaj energetskog sektora na okoliš. 
+— Dio 5. Profili zemalja – glavni energetski pokazatelji. 
+
+Pokazatelji su izračunani primjenom metodologije koju je utvrdio
+Europska komisija – Glavna uprava za energetiku. Dodaci uključuju pojmovnik i 
+metodološke napomene</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DNK"/>
+        </dct:spatial>
+        <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de la Unión Europea sobre energía</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/PRT"/>
+        </dct:spatial>
+        <dct:title xml:lang="de-t-en-t0-mtec">Statistisches Taschenbuch der Europäischen Union für Energie</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/IRL"/>
+        </dct:spatial>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique de l’Union européenne sur l’énergie</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/142"/>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Az Európai Unió energiastatisztikai zsebkönyve</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/477"/>
+        <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.&#xD;
+&#xD;
+The data contained in this pocketbook is drawn from several sources: from the  European  Commission’s services,  from  international  organisations  such  as  the  European  Environment  Agency  and  the International  Energy  Agency and also from the European Commission’s estimates when other &#xD;
+data is unavailable.&#xD;
+&#xD;
+The publication is divided into five parts:&#xD;
+&#xD;
+- Part 1. Energy overview at global and EU levels.&#xD;
+- Part 2. Main energy indicators, at EU and Member States levels.&#xD;
+- Part 3. Socio-economic indicators in the EU.&#xD;
+- Part 4. Impact of the energy sector on the environment.&#xD;
+- Part 5. Country profiles – Main energy indicators.&#xD;
+&#xD;
+Indicators have been calculated using the methodology established by the &#xD;
+European Commission – DG Energy. The appendices include a glossary and &#xD;
+methodological notes</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GBR"/>
+        </dct:spatial>
+        <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico dell'Unione europea sull'energia</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LUX"/>
+        </dct:spatial>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica Europske unije</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CZE"/>
+        </dct:spatial>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ENER"/>
+        </dct:publisher>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/NLD"/>
+        </dct:spatial>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh. 
+
+Tá na sonraí atá sa leabhar póca seo tarraingthe ó roinnt foinsí: ó sheirbhísí an Choimisiúin Eorpaigh, ó eagraíochtaí idirnáisiúnta amhail an Ghníomhaireacht Eorpach Chomhshaoil agus an Ghníomhaireacht Idirnáisiúnta Fuinnimh agus freisin ó mheastacháin an Choimisiúin Eorpaigh nuair atá cinn eile
+níl sonraí ar fáil. 
+
+Tá an foilseachán roinnte ina chúig chuid: 
+
+— Cuid 1. Forléargas ar fhuinneamh ar an leibhéal domhanda agus ar leibhéal an Aontais. 
+— Cuid 2. Na príomhtháscairí fuinnimh, ar leibhéal an Aontais agus ar leibhéal na mBallstát. 
+— Cuid 3. Táscairí socheacnamaíocha san Aontas Eorpach.  
+— Cuid 4.
+Tionchar na hearnála fuinnimh ar an gcomhshaol.
+
+
+— Cuid 5.
+Próifílí tíre — na príomhtháscairí fuinnimh.
+
+
+
+
+Ríomhadh táscairí ag baint úsáide as an modheolaíocht a bhunaigh an
+
+An Coimisiún Eorpach — Ard-Stiúrthóireacht an Fhuinnimh.
+I measc na n-aguisíní tá gluais agus
+
+nótaí modheolaíochta</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Eiropas Savienības enerģētikas statistikas kabatas grāmata</dct:title>
+        <dct:title xml:lang="en">European Union energy statistical pocketbook</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b587d922-6e14-44d2-9f11-50c5374a001e">
+            <dct:description xml:lang="en">The energy in figures statistical pocketbook provides an annual overview of energy related statistics in the EU and in individual EU countries. It includes, amongst other information, data on production, consumption, greenhouse gas emissions, imports, and energy sector employment.</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique sur l’énergie 2014</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka 2014</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η ενέργεια σε αριθμούς στατιστικό βιβλίο τσέπης παρέχει μια ετήσια επισκόπηση των στατιστικών που σχετίζονται με την ενέργεια στην ΕΕ και σε μεμονωμένες χώρες της ΕΕ. Περιλαμβάνει, μεταξύ άλλων, στοιχεία σχετικά με την παραγωγή, την κατανάλωση, τις εκπομπές αερίων του θερμοκηπίου, τις εισαγωγές και την απασχόληση στον τομέα της ενέργειας.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-ktejjeb statistiku dwar l-enerġija f’ċifri jipprovdi ħarsa ġenerali annwali lejn l-istatistika relatata mal-enerġija fl-UE u f’pajjiżi individwali tal-UE. Dan jinkludi, fost informazzjoni oħra, data dwar il-produzzjoni, il-konsum, l-emissjonijiet ta’ gassijiet b’effett ta’ serra, l-importazzjonijiet, u l-impjiegi fis-settur tal-enerġija.</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">Das statistische Taschenbuch „Energie in Zahlen“ gibt einen jährlichen Überblick über energiebezogene Statistiken in der EU und in den einzelnen EU-Ländern.
+Er enthält u. a. Daten über Produktion, Verbrauch, Treibhausgasemissionen, Importe und Beschäftigung im Energiesektor.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Taschenbuch 2014</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Kieszeń statystyczny „Energia w liczbach” zawiera roczny przegląd statystyk dotyczących energii w UE i w poszczególnych krajach UE. Zawiera on między innymi dane dotyczące produkcji, zużycia, emisji gazów cieplarnianych, importu i zatrudnienia w sektorze energetycznym.</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižica z energijo v številkah zagotavlja letni pregled statističnih podatkov v zvezi z energijo v EU in posameznih državah EU. Med drugim vključuje podatke o proizvodnji, porabi, emisijah toplogrednih plinov, uvozu in zaposlovanju v energetskem sektorju.</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetska statistička knjižica 2014</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Statistická příručka v číslech poskytuje roční přehled statistik souvisejících s energetikou v EU a v jednotlivých zemích EU. Zahrnuje mimo jiné údaje o výrobě, spotřebě, emisích skleníkových plynů, dovozu a zaměstnanosti v odvětví energetiky.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso estatístico de energia 2014</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Agenda statistică „Energie în cifre” oferă o imagine de ansamblu anuală a statisticilor legate de energie în UE și în fiecare țară din UE. Acesta include, printre alte informații, date privind producția, consumul, emisiile de gaze cu efect de seră, importurile și ocuparea forței de muncă în sectorul energetic.</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Statistikas grāmatiņā “Enerģija skaitļos” ir sniegts gada pārskats par statistiku, kas saistīta ar enerģētiku ES un atsevišķās ES valstīs. Cita starpā tajā ir iekļauti dati par ražošanu, patēriņu, siltumnīcefekta gāzu emisijām, importu un nodarbinātību enerģētikas nozarē.</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Статистически наръчник за енергетиката 2014 г.</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-12-15T16:41:29.417246+02:00</dct:issued>
+            <dct:title xml:lang="es-t-en-t0-mtec">Libro de bolsillo estadístico de energía 2014</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Le manuel statistique sur l’énergie en chiffres fournit une vue d’ensemble annuelle des statistiques relatives à l’énergie dans l’UE et dans chaque pays de l’UE. Il comprend, entre autres informations, des données sur la production, la consommation, les émissions de gaz à effet de serre, les importations et l’emploi dans le secteur de l’énergie.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastollinen taskukirja 2014</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2014 m. energetikos statistikos knygelė</dct:title>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/2014_pocketbook.pdf"/>
+            <dct:title xml:lang="en">Energy statistical pocketbook 2014</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas kabatas grāmata 2014</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tugann an leabhar póca staitistiúil fuinnimh i bhfigiúirí forléargas bliantúil ar staidreamh a bhaineann le fuinneamh san AE agus i dtíortha aonair an AE. Áirítear ann, i measc faisnéise eile, sonraí maidir le táirgeadh, tomhaltas, astaíochtaí gás ceaptha teasa, allmhairí, agus fostaíocht in earnáil an fhuinnimh.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακό στατιστικό βιβλίο τσέπης 2014</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Статистическият наръчник „Енергия в цифри“ предоставя годишен преглед на свързаните с енергетиката статистически данни в ЕС и в отделните държави от ЕС. Тя включва, наред с друга информация, данни за производството, потреблението, емисиите на парникови газове, вноса и заетостта в енергийния сектор.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetska statistična knjižica 2014</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energistatistik pocketbok 2014</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/0305383c-157a-4807-82e1-d7b68b922f71</dct:identifier>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Den statistiska pocketboken om energi i siffror ger en årlig översikt över energirelaterad statistik i EU och i enskilda EU-länder.
+Den innehåller bland annat uppgifter om produktion, konsumtion, utsläpp av växthusgaser, import och sysselsättning inom energisektorn.</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Statistikos knygelėje „Energetika skaičiais“ pateikiama metinė su energetika susijusios statistikos apžvalga ES ir atskirose ES šalyse. Joje, be kita ko, pateikiami duomenys apie gamybą, vartojimą, išmetamą šiltnamio efektą sukeliančių dujų kiekį, importą ir užimtumą energetikos sektoriuje.</dct:description>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Pocketbook tal-istatistika dwar l-enerġija 2014</dct:title>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/2014_pocketbook.pdf"/>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka 2014</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">El libro de bolsillo estadístico sobre la energía en cifras ofrece una visión general anual de las estadísticas relacionadas con la energía en la UE y en cada país de la UE. Incluye, entre otras informaciones, datos sobre la producción, el consumo, las emisiones de gases de efecto invernadero, las importaciones y el empleo en el sector de la energía.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Štatistická príručka o energii v číslach poskytuje ročný prehľad štatistík súvisiacich s energetikou v EÚ a v jednotlivých krajinách EÚ. Okrem iných informácií obsahuje údaje o výrobe, spotrebe, emisiách skleníkových plynov, dovoze a zamestnanosti v odvetví energetiky.</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Het statistische zakboek „Energy in figures” geeft jaarlijks een overzicht van energiegerelateerde statistieken in de EU en in de afzonderlijke EU-landen.
+Het omvat onder meer gegevens over productie, verbruik, broeikasgasemissies, invoer en werkgelegenheid in de energiesector.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energia számokban szereplő statisztikai zsebkönyve éves áttekintést nyújt az energiával kapcsolatos statisztikákról az EU-ban és az egyes uniós országokban. Többek között tartalmazza a termelésre, a fogyasztásra, az üvegházhatásúgáz-kibocsátásra, az importra és az energiaágazat foglalkoztatására vonatkozó adatokat.</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energistatistisk lommebog 2014</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh 2014</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny energii 2014</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energia statistiline taskuraamat 2014</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">Il portafoglio statistico sull'energia in cifre fornisce una panoramica annuale delle statistiche relative all'energia nell'UE e nei singoli paesi dell'UE. Essa comprende, tra l'altro, dati sulla produzione, il consumo, le emissioni di gas a effetto serra, le importazioni e l'occupazione nel settore dell'energia.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">Den statistiske lommebog om energi i tal giver en årlig oversigt over energirelaterede statistikker i EU og i de enkelte EU-lande. Den omfatter bl.a. data om produktion, forbrug, drivhusgasemissioner, import og beskæftigelse i energisektoren.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Tilastollinen ”Energia in figures” -tilastokirja antaa vuosittain yleiskuvan energiaan liittyvistä tilastoista eu:ssa ja yksittäisissä EU-maissa. Se sisältää muun muassa tietoja tuotannosta, kulutuksesta, kasvihuonekaasupäästöistä, tuonnista ja energia-alan työllisyydestä.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiastatisztikai zsebkönyv 2014</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico sull'energia 2014</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Statistička knjižica o energiji u brojkama pruža godišnji pregled statističkih podataka povezanih s energijom u EU-u i pojedinačnim državama članicama EU-a.
+To uključuje, među ostalim, podatke o proizvodnji, potrošnji, emisijama stakleničkih plinova, uvozu i zapošljavanju u energetskom sektoru.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică în domeniul energiei 2014</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">O livro de bolso estatístico «Energy in figures» fornece uma panorâmica anual das estatísticas relacionadas com a energia na UE e em cada país da UE.
+Inclui, entre outras informações, dados sobre a produção, o consumo, as emissões de gases com efeito de estufa, as importações e o emprego no setor da energia.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">Arvudes esitatud energiaalane taskuraamat annab iga-aastase ülevaate energiaga seotud statistikast ELis ja üksikutes ELi riikides. See sisaldab muu hulgas andmeid tootmise, tarbimise, kasvuhoonegaaside heitkoguste, impordi ja energiasektori tööhõive kohta.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energie statistisch zakboek 2014</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

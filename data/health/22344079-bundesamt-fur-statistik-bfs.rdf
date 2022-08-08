@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/22344079-bundesamt-fur-statistik-bfs">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/22344079-bundesamt-fur-statistik-bfs">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4b89a653-392c-4f34-89a9-c3c27604eb72">
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiuteenuste rahastamine režiimide ja allikate kaupa</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Finansiering af sundhedspleje efter ordning og kilde</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Finanzjament tal-kura tas-saħħa skont ir-reġim u s-sors</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Financiranje zdravstvene skrbi po režimu i izvoru</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1405000000_102/px-x-1405000000_102/px-x-1405000000_102.px"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Maoiniú an chúraim sláinte de réir córais agus foinse</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Finansowanie opieki zdrowotnej według reżimu i źródła</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az egészségügyi ellátás finanszírozása rendszerenként és forrásonként</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes finansēšana pa režīmiem un avotiem</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρηματοδότηση της υγειονομικής περίθαλψης ανά καθεστώς και πηγή</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Finanziamento dell'assistenza sanitaria per regime e fonte</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Фінансування охорони здоров'я за режимом і джерелом</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Finansiering av hälso- och sjukvård efter regim och källa</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Financování zdravotní péče podle režimu a zdroje</dct:title>
+            <dct:identifier>link-22344093-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Financiación de la atención de la salud por régimen y fuente</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Finanțarea asistenței medicale în funcție de regim și sursă</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Financement des soins de santé par régime et par source</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Financiering van de gezondheidszorg per regime en bron</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Financovanie zdravotnej starostlivosti podľa režimu a zdroja</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Financiranje zdravstvenega varstva po režimu in viru</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Financiamento dos cuidados de saúde por regime e fonte</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Funding of health care by regime and source</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Финансиране на здравеопазването по режим и източник</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros finansavimas pagal režimą ir šaltinį</dct:title>
+            <dct:title xml:lang="de">Finanzierung des Gesundheitswesens nach Regime und Quelle</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon rahoitus järjestelmän ja lähteen mukaan</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Finansiering av hälso- och sjukvård efter regim och källa</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ef46850e-9bbd-485a-9087-0c78fbf29f51">
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1405000000_102/px-x-1405000000_102.px"/>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:identifier>link-22344097-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o financovaní zdravotnej starostlivosti podľa režimu financovania a zdroja financovania od roku 1995.</dct:description>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Financiering van de gezondheidszorg per regime en bron</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset bevat de jaarlijkse cijfers van de financiering van de gezondheidszorg volgens de financieringsregeling en de financieringsbron, vanaf 1995.</dct:description>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon rahoitus järjestelmän ja lähteen mukaan</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of health care financing according to funding regime and source of funding, from 1995 onwards.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Финансиране на здравеопазването по режим и източник</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Χρηματοδότηση της υγειονομικής περίθαλψης ανά καθεστώς και πηγή</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Financiamento dos cuidados de saúde por regime e fonte</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6e1159b3-4ebe-4ac9-bc48-5802ce5d8bb7">
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Financování systému zdravotní péče podle režimu a zdroje</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän rahoitus järjestelmän ja lähteen mukaan</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Maoiniú an chórais sláinte de réir réimeas agus foinse</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Finansiering av hälso- och sjukvårdssystemet per regim och källa</dct:title>
+            <dct:description xml:lang="es-t-fr-t0-mtec">Este conjunto de datos presenta las cifras anuales para la financiación del sistema de salud por esquema y fuente de financiación desde 1995.</dct:description>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Financiamento do sistema de saúde por regime e fonte</dct:title>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o financovaní systému zdravotnej starostlivosti podľa schémy a zdroja financovania od roku 1995.</dct:description>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Financovanie systému zdravotnej starostlivosti podľa režimu a zdroja</dct:title>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels du financement du système de santé selon le régime et la source de financement, depuis 1995.</dct:description>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health system funding by regime and source</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1405000000_102"/>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Financiranje zdravstvenog sustava po režimu i izvoru</dct:title>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Este conjunto de dados apresenta os dados anuais relativos ao financiamento do sistema de saúde por regime e fonte de financiamento desde 1995.</dct:description>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos sistemos finansavimas pagal režimą ir šaltinį</dct:title>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Ez az adatkészlet 1995 óta mutatja be az egészségügyi rendszer finanszírozására vonatkozó éves számadatokat rendszerenként és finanszírozási források szerint.</dct:description>
+            <dct:title xml:lang="fr">Financement du système de santé selon le regime et la source</dct:title>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie skaitļi veselības aprūpes sistēmas finansēšanai pēc shēmas un finansējuma avota kopš 1995. gada.</dct:description>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Финансиране на здравната система по режим и източник</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Фінансування системи охорони здоров'я за режимом і джерелом</dct:title>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">Този набор от данни представя годишните данни за финансирането на здравната система по схема и източник на финансиране от 1995 г. насам.</dct:description>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Finanțarea sistemului de sănătate în funcție de regim și sursă</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Financiranje zdravstvenega sistema po režimu in viru</dct:title>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Tässä tietokokonaisuudessa esitetään terveydenhuoltojärjestelmän rahoitusta koskevat vuosiluvut järjestelmittäin ja rahoituslähteittäin vuodesta 1995 lähtien.</dct:description>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Finanziamento del sistema sanitario per regime e fonte</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi rahastamine režiimide ja allikate kaupa</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Az egészségügyi rendszer finanszírozása rendszerenként és forrásonként</dct:title>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">U tom su skupu podataka prikazani godišnji podaci za financiranje zdravstvenog sustava po shemama i izvoru financiranja od 1995.</dct:description>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Šiame duomenų rinkinyje pateikiami nuo 1995 m. sveikatos sistemos finansavimo pagal schemą ir finansavimo šaltinį metiniai duomenys.</dct:description>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Finanzjament tas-sistema tas-saħħa skont ir-reġim u s-sors</dct:title>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Deze gegevensset bevat de jaarlijkse cijfers voor de financiering van het gezondheidszorgstelsel per regeling en financieringsbron sinds 1995.</dct:description>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o financiranju zdravstvenega sistema po shemah in virih financiranja od leta 1995.</dct:description>
+            <dct:identifier>22344089-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące finansowania systemu opieki zdrowotnej w podziale na programy i źródła finansowania od 1995 r.</dct:description>
+            <dct:description xml:lang="de-t-fr-t0-mtec">In diesem Datensatz werden die jährlichen Zahlen zur Finanzierung des Gesundheitssystems nach dem System und der Finanzierungsquelle seit 1995 dargestellt.</dct:description>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">Léiríonn an tacar sonraí seo na figiúirí bliantúla do mhaoiniú an chórais sláinte de réir scéime agus foinse maoinithe ó 1995 i leith.</dct:description>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">I detta dataset presenteras de årliga siffrorna för finansieringen av hälso- och sjukvårdssystemet per system och finansieringskälla sedan 1995.</dct:description>
+            <dct:description xml:lang="it-t-fr-t0-mtec">Questa serie di dati presenta le cifre annuali per il finanziamento del sistema sanitario per regime e fonte di finanziamento dal 1995.</dct:description>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Dette datasæt viser de årlige tal for finansieringen af sundhedssystemet pr. ordning og finansieringskilde siden 1995.</dct:description>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια στοιχεία για τη χρηματοδότηση του συστήματος υγείας ανά σύστημα και πηγή χρηματοδότησης από το 1995.</dct:description>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali għall-finanzjament tas-sistema tas-saħħa skont l-iskema u s-sors ta’ finanzjament mill-1995.</dct:description>
+            <dct:description xml:lang="en-t-fr-t0-mtec">This dataset presents the annual figures for the funding of the health system by scheme and source of funding since 1995.</dct:description>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Financiación del sistema de salud por régimen y fuente</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas finansējums pa režīmiem un avotiem</dct:title>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">Цей набір даних представляє щорічні показники фінансування системи охорони здоров'я за схемою та джерелом фінансування з 1995 року.</dct:description>
+            <dct:description xml:lang="et-t-fr-t0-mtec">Selles andmekogumis esitatakse tervishoiusüsteemi rahastamise aastaandmed kavade ja rahastamisallikate kaupa alates 1995. aastast.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">Tento soubor údajů uvádí roční údaje o financování systému zdravotní péče podle režimu a zdroje financování od roku 1995.</dct:description>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Finansowanie systemu opieki zdrowotnej według systemu i źródła</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Finanzierung des Gesundheitssystems nach Regelung und Quelle</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Χρηματοδότηση του συστήματος υγείας ανά καθεστώς και πηγή</dct:title>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">Acest set de date prezintă cifrele anuale pentru finanțarea sistemului de sănătate în funcție de sistem și sursă de finanțare începând cu 1995.</dct:description>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Finansiering af sundhedssystemet efter ordning og kilde</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Financiering van het gezondheidszorgstelsel per regime en bron</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Finanțarea asistenței medicale în funcție de regim și sursă</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales de financiación de la asistencia sanitaria según el régimen de financiación y la fuente de financiación, a partir de 1995.</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Finanziamento dell'assistenza sanitaria per regime e fonte</dct:title>
+        <dct:title xml:lang="fr">Financement du système de santé selon le regime et la source</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Maoiniú an chúraim sláinte de réir córais agus foinse</dct:title>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Financování zdravotní péče podle režimu a zdroje</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Financiranje zdravstvene skrbi po režimu i izvoru</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące finansowania opieki zdrowotnej według systemu finansowania i źródła finansowania, począwszy od 1995 r.</dct:description>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale finanțării asistenței medicale în conformitate cu regimul de finanțare și sursa de finanțare, începând cu 1995.</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за финансирането на здравеопазването в съответствие с режима на финансиране и източника на финансиране от 1995 г. нататък.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o financiranju zdravstvene zaštite prema režimu financiranja i izvoru financiranja, od 1995. nadalje.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="es-t-de-t0-mtec">Financiación de la atención de la salud por régimen y fuente</dct:title>
+        <dct:identifier>22344079@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta le cifre annuali del finanziamento dell'assistenza sanitaria secondo il regime di finanziamento e la fonte di finanziamento, a partire dal 1995.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Financiranje zdravstvenega varstva po režimu in viru</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Finansiering af sundhedspleje efter ordning og kilde</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti veselības aprūpes finansējuma gada rādītāji saskaņā ar finansēšanas režīmu un finansējuma avotu, sākot no 1995. gada.</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία της χρηματοδότησης της υγειονομικής περίθαλψης σύμφωνα με το καθεστώς χρηματοδότησης και την πηγή χρηματοδότησης, από το 1995 και μετά.</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse tervishoiu rahastamise aastaandmed vastavalt rahastamiskorrale ja rahastamisallikale alates 1995. aastast.</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">Funding of health care by regime and source</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for finansieringen af sundhedsvæsenet i henhold til finansieringsordningen og finansieringskilden fra 1995 og fremefter.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:48:24.776461</dct:modified>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään terveydenhuollon rahoituksen vuosiluvut rahoitusjärjestelmän ja rahoituslähteen mukaan vuodesta 1995 alkaen.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/aad97ced-6659-420a-add3-583f97131f95">
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento soubor údajů představuje roční údaje o financování zdravotní péče podle režimu financování a zdroje financování od roku 1995.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1405000000_102"/>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за финансирането на здравеопазването в съответствие с режима на финансиране и източника на финансиране от 1995 г. нататък.</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Фінансування охорони здоров'я за режимом і джерелом</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale finanțării asistenței medicale în conformitate cu regimul de finanțare și sursa de finanțare, începând cu 1995.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Финансиране на здравеопазването по режим и източник</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti veselības aprūpes finansējuma gada rādītāji saskaņā ar finansēšanas režīmu un finansējuma avotu, sākot no 1995. gada.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Financovanie zdravotnej starostlivosti podľa režimu a zdroja</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon rahoitus järjestelmän ja lähteen mukaan</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o financiranju zdravstvenega varstva v skladu z režimom financiranja in virom financiranja od leta 1995 dalje.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales de financiación de la asistencia sanitaria según el régimen de financiación y la fuente de financiación, a partir de 1995.</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Financiación de la atención de la salud por régimen y fuente</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiuteenuste rahastamine režiimide ja allikate kaupa</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset bevat de jaarlijkse cijfers van de financiering van de gezondheidszorg volgens de financieringsregeling en de financieringsbron, vanaf 1995.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Finanzjament tal-kura tas-saħħa skont ir-reġim u s-sors</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία της χρηματοδότησης της υγειονομικής περίθαλψης σύμφωνα με το καθεστώς χρηματοδότησης και την πηγή χρηματοδότησης, από το 1995 και μετά.</dct:description>
+            <dct:title xml:lang="de">Finanzierung des Gesundheitswesens nach Regime und Quelle</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Funding of health care by regime and source</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tal-finanzjament tal-kura tas-saħħa skont ir-reġim ta’ finanzjament u s-sors ta’ finanzjament, mill-1995’il quddiem.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Finansiering af sundhedspleje efter ordning og kilde</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet 1995-től kezdődően mutatja be az egészségügyi ellátás finanszírozásának éves adatait a finanszírozási rendszer és a finanszírozási források szerint.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes finansēšana pa režīmiem un avotiem</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse tervishoiu rahastamise aastaandmed vastavalt rahastamiskorrale ja rahastamisallikale alates 1995. aastast.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Maoiniú an chúraim sláinte de réir córais agus foinse</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään terveydenhuollon rahoituksen vuosiluvut rahoitusjärjestelmän ja rahoituslähteen mukaan vuodesta 1995 alkaen.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for finansieringen af sundhedsvæsenet i henhold til finansieringsordningen og finansieringskilden fra 1995 og fremefter.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az egészségügyi ellátás finanszírozása rendszerenként és forrásonként</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Financement des soins de santé par régime et par source</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Financiamento dos cuidados de saúde por regime e fonte</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Financiranje zdravstvenega varstva po režimu in viru</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of health care financing according to funding regime and source of funding, from 1995 onwards.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє щорічні показники фінансування охорони здоров'я відповідно до режиму фінансування та джерела фінансування, починаючи з 1995 року.</dct:description>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Finanzierung des Gesundheitswesens nach Finanzierungsregime und Finanzierungsquelle, ab 1995.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Financiering van de gezondheidszorg per regime en bron</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Finansiering av hälso- och sjukvård efter regim och källa</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données présente les chiffres annuels du financement du secteur de la santé par régime de financement et par source de financement, à partir de 1995.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Finanțarea asistenței medicale în funcție de regim și sursă</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros finansavimas pagal režimą ir šaltinį</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">I detta dataset presenteras de årliga siffrorna för finansieringen av hälso- och sjukvården enligt finansieringsordningen och finansieringskällan från 1995 och framåt.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Financování zdravotní péče podle režimu a zdroje</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta le cifre annuali del finanziamento dell'assistenza sanitaria secondo il regime di finanziamento e la fonte di finanziamento, a partire dal 1995.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χρηματοδότηση της υγειονομικής περίθαλψης ανά καθεστώς και πηγή</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o financovaní zdravotnej starostlivosti podľa režimu financovania a zdroja financovania od roku 1995.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o financiranju zdravstvene zaštite prema režimu financiranja i izvoru financiranja, od 1995. nadalje.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os números anuais do financiamento dos cuidados de saúde de acordo com o regime de financiamento e a fonte de financiamento, a partir de 1995.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące finansowania opieki zdrowotnej według systemu finansowania i źródła finansowania, począwszy od 1995 r.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an mhaoinithe cúraim sláinte de réir an chórais mhaoinithe agus na foinse maoinithe, ó 1995 ar aghaidh.</dct:description>
+            <dct:format>HTML</dct:format>
+            <dct:identifier>22344089-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami metiniai sveikatos priežiūros finansavimo nuo 1995 m. duomenys pagal finansavimo tvarką ir finansavimo šaltinį.</dct:description>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="it-t-de-t0-mtec">Finanziamento dell'assistenza sanitaria per regime e fonte</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Finansowanie opieki zdrowotnej według reżimu i źródła</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Financiranje zdravstvene skrbi po režimu i izvoru</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os números anuais do financiamento dos cuidados de saúde de acordo com o regime de financiamento e a fonte de financiamento, a partir de 1995.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bf60381a-ffe4-4ddb-b64e-2a085df7e31a">
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1405000000_102/px-x-1405000000_102.px"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:identifier>link-22344097-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros finansavimas pagal režimą ir šaltinį</dct:title>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Фінансування охорони здоров'я за режимом і джерелом</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Finanzjament tal-kura tas-saħħa skont ir-reġim u s-sors</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Finansowanie opieki zdrowotnej według reżimu i źródła</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">I detta dataset presenteras de årliga siffrorna för finansieringen av hälso- och sjukvården enligt finansieringsordningen och finansieringskällan från 1995 och framåt.</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє щорічні показники фінансування охорони здоров'я відповідно до режиму фінансування та джерела фінансування, починаючи з 1995 року.</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiuteenuste rahastamine režiimide ja allikate kaupa</dct:title>
+        <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Finanzierung des Gesundheitswesens nach Finanzierungsregime und Finanzierungsquelle, ab 1995.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-26T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o financiranju zdravstvenega varstva v skladu z režimom financiranja in virom financiranja od leta 1995 dalje.</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes finansēšana pa režīmiem un avotiem</dct:title>
+        <dcat:keyword xml:lang="de">kosten-und-finanzierung-des-gesundheitswesens</dcat:keyword>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento soubor údajů představuje roční údaje o financování zdravotní péče podle režimu financování a zdroje financování od roku 1995.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="it">costi-e-finanziamento-del-sistema-sanitario</dcat:keyword>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tal-finanzjament tal-kura tas-saħħa skont ir-reġim ta’ finanzjament u s-sors ta’ finanzjament, mill-1995’il quddiem.</dct:description>
+        <dcat:keyword xml:lang="fr">couts-et-financement-du-systeme-de-sante</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet 1995-től kezdődően mutatja be az egészségügyi ellátás finanszírozásának éves adatait a finanszírozási rendszer és a finanszírozási források szerint.</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Az egészségügyi ellátás finanszírozása rendszerenként és forrásonként</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9068e417-3b76-4379-8cae-6b566780bd34">
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos sistemos finansavimas pagal režimą ir šaltinį</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Financiación del sistema de salud por régimen y fuente</dct:title>
+            <dct:title xml:lang="fr">Financement du système de santé selon le regime et la source</dct:title>
+            <dct:identifier>link-22344093-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Financovanie systému zdravotnej starostlivosti podľa režimu a zdroja</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health system funding by regime and source</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Financování systému zdravotní péče podle režimu a zdroje</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Finansiering af sundhedssystemet efter ordning og kilde</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Фінансування системи охорони здоров'я за режимом і джерелом</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Maoiniú an chórais sláinte de réir réimeas agus foinse</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Finanziamento del sistema sanitario per regime e fonte</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Finansowanie systemu opieki zdrowotnej według systemu i źródła</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Finanzierung des Gesundheitssystems nach Regelung und Quelle</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi rahastamine režiimide ja allikate kaupa</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Az egészségügyi rendszer finanszírozása rendszerenként és forrásonként</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Finanzjament tas-sistema tas-saħħa skont ir-reġim u s-sors</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Financiranje zdravstvenega sistema po režimu in viru</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Финансиране на здравната система по режим и източник</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Financiamento do sistema de saúde por regime e fonte</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän rahoitus järjestelmän ja lähteen mukaan</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Finanțarea sistemului de sănătate în funcție de regim și sursă</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Financiering van het gezondheidszorgstelsel per regime en bron</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Financiranje zdravstvenog sustava po režimu i izvoru</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Χρηματοδότηση του συστήματος υγείας ανά καθεστώς και πηγή</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Finansiering av hälso- och sjukvårdssystemet per regim och källa</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1405000000_102/px-x-1405000000_102/px-x-1405000000_102.px"/>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas finansējums pa režīmiem un avotiem</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an mhaoinithe cúraim sláinte de réir an chórais mhaoinithe agus na foinse maoinithe, ó 1995 ar aghaidh.</dct:description>
+        <dct:title xml:lang="de">Finanzierung des Gesundheitswesens nach Regime und Quelle</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="en">statistic-on-the-costs-and-financing-of-the-health-system</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Financovanie zdravotnej starostlivosti podľa režimu a zdroja</dct:title>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami metiniai sveikatos priežiūros finansavimo nuo 1995 m. duomenys pagal finansavimo tvarką ir finansavimo šaltinį.</dct:description>
+        <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels du financement du système de santé selon le régime et la source de financement, depuis 1995.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:56Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/22344079-bundesamt-fur-statistik-bfs"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>7ac043942314c04703c2347130c8cb35</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T12:01:32Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:56Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:02Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>22344079@bundesamt-fur-statistik-bfs</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

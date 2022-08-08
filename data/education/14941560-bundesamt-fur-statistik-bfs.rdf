@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14941560-bundesamt-fur-statistik-bfs">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:23:19Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14941560-bundesamt-fur-statistik-bfs"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:10Z</dct:modified>
+    <dct:identifier>14941560@bundesamt-fur-statistik-bfs</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>7703d6a5021b1625bee0adeec42bc235</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14941560-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="de">forschung-und-entwicklung-fe-in-den-hochschulen</dcat:keyword>
+        <dcat:keyword xml:lang="en">landscape-under-pressure</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Intramuros – stroški raziskav in razvoja v Švici</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1d2c283f-a0ee-4fe4-859b-509b65d50869">
+            <dct:title xml:lang="uk-t-de-t0-mtec">Intramuros- витрати на R &amp;amp; D в Швейцарії</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Intramuros – K+F költségek Svájcban</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Costais Intramuros- T &amp;amp; F san Eilvéis</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941577/master"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Intramuros – stroški raziskav in razvoja v Švici</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941577/master"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Dépenses intramuros de R &amp; D en Suisse</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Intramuros – výdavky na výskum a vývoj vo Švajčiarsku</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Intramuros – Cheltuieli de cercetare și dezvoltare în Elveția</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Intramuros- R &amp;amp; D-uitgaven in Zwitserland</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Intramuros- Despesas de I &amp;amp; D na Suíça</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Intramuros – wydatki na badania i rozwój w Szwajcarii</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Intramuros- T &amp;amp; K-kulut Sveitsissä</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Intramuros – troškovi istraživanja i razvoja u Švicarskoj</dct:title>
+            <dct:identifier>14941577-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Intramuros- MTTP išlaidos Šveicarijoje</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Intramuros- F &amp;amp; U-udgifter i Schweiz</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Intramuros- FoU-utgifter i Schweiz</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Intramuros- Gastos de I+D en Suiza</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="et-t-de-t0-mtec">Intramuros- teadus- ja arendustegevuse kulud Šveitsis</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Spejjeż Intramuros — R &amp;amp; Ż fl-Isvizzera</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Intramuros — Έξοδα Ε &amp;amp; Α στην Ελβετία</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Intramuros — Spese di R &amp;amp; S in Svizzera</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Intramuros- P &amp;amp; A izdevumi Šveicē</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Intramuros – výdaje na výzkum a vývoj ve Švýcarsku</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Intramuros — Разходи за научноизследователска и развойна дейност в Швейцария</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-12T00:00:00</dct:modified>
+            <dct:title xml:lang="de">Intramuros- F+E-Aufwendungen in der Schweiz</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Intramuros- R &amp;amp; D expenses in Switzerland</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Spejjeż Intramuros — R &amp;amp; Ż fl-Isvizzera</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Intramuros — Разходи за научноизследователска и развойна дейност в Швейцария</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="de">forschung-und-entwicklung-fe-beim-bund</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Intramuros- Gastos de I+D en Suiza</dct:title>
+        <dcat:keyword xml:lang="de">registerauswertung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1f656fd5-e578-4e11-bcb4-b7ca0e3328aa">
+            <dct:title xml:lang="de">Intramuros- F+E-Aufwendungen in der Schweiz</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Intramuros- FoU-utgifter i Schweiz</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Intramuros- teadus- ja arendustegevuse kulud Šveitsis</dct:title>
+            <dct:identifier>14941577-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="el-t-de-t0-mtec">Intramuros — Έξοδα Ε &amp;amp; Α στην Ελβετία</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Costais Intramuros- T &amp;amp; F san Eilvéis</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Intramuros – výdaje na výzkum a vývoj ve Švýcarsku</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Intramuros – stroški raziskav in razvoja v Švici</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Intramuros- Gastos de I+D en Suiza</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Intramuros – troškovi istraživanja i razvoja u Švicarskoj</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Dépenses intramuros de R &amp; D en Suisse</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Intramuros – Cheltuieli de cercetare și dezvoltare în Elveția</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Intramuros — Разходи за научноизследователска и развойна дейност в Швейцария</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Intramuros – K+F költségek Svájcban</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Intramuros – výdavky na výskum a vývoj vo Švajčiarsku</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Intramuros — Spese di R &amp;amp; S in Svizzera</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Intramuros- R &amp;amp; D expenses in Switzerland</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Intramuros- MTTP išlaidos Šveicarijoje</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Intramuros- P &amp;amp; A izdevumi Šveicē</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Intramuros- Despesas de I &amp;amp; D na Suíça</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Spejjeż Intramuros — R &amp;amp; Ż fl-Isvizzera</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Intramuros- T &amp;amp; K-kulut Sveitsissä</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.15.02.01.03"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Intramuros- R &amp;amp; D-uitgaven in Zwitserland</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Intramuros- F &amp;amp; U-udgifter i Schweiz</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Intramuros – wydatki na badania i rozwój w Szwajcarii</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Intramuros- витрати на R &amp;amp; D в Швейцарії</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:12:08.888682</dct:modified>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Intramuros- T &amp;amp; K-kulut Sveitsissä</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Intramuros — Spese di R &amp;amp; S in Svizzera</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Intramuros — Έξοδα Ε &amp;amp; Α στην Ελβετία</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Intramuros- FoU-utgifter i Schweiz</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Intramuros- R &amp;amp; D expenses in Switzerland</dct:title>
+        <dcat:keyword xml:lang="en">research-and-development-rd-in-the-universities</dcat:keyword>
+        <dcat:keyword xml:lang="fr">le-paysage-sous-pression</dcat:keyword>
+        <dcat:keyword xml:lang="it">ricerca-e-sviluppo-rs-nelle-imprese-private</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9386758a-14ac-4851-b4cf-701ef4517cb7">
+            <dct:title xml:lang="el-t-fr-t0-mtec">Εσωτερικές δαπάνες για Ε &amp;amp; Α στην Ελβετία</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A kutatással és fejlesztéssel kapcsolatos belső kiadások Svájcban</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Innerbetriebliche FuE-Ausgaben in der Schweiz</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Vnitřní výdaje na výzkum a vývoj ve Švýcarsku</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Notranji izdatki za raziskave in razvoj v Švici</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Vidaus išlaidos moksliniams tyrimams ir technologinei plėtrai Šveicarijoje</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Intramurale udgifter til F &amp;amp; U i Schweiz</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Gastos intramuros de I+D en Suiza</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Nefqa intramurali fuq l-R &amp;amp; D fl-Isvizzera</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Spese intramurali per R &amp;amp; S in Svizzera</dct:title>
+            <dct:identifier>14941570-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Intramurala utgifter för forskning och utveckling i Schweiz</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">T &amp;amp; K-toiminnan sisäiset menot Sveitsissä</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Despesas intramurais em I &amp;amp; D na Suíça</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Iekšējie izdevumi pētniecībai un attīstībai Šveicē</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-12T00:00:00</dct:modified>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Intramural expenditure on R &amp; D in Switzerland</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Вътрешни разходи за научноизследователска и развойна дейност в Швейцария</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Wydatki wewnętrzne na badania i rozwój w Szwajcarii</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Caiteachas inmheánach ar T &amp;amp; D san Eilvéis</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Intramuralni rashodi za istraživanje i razvoj u Švicarskoj</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Cheltuieli intramurale pentru cercetare și dezvoltare în Elveția</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941570/master"/>
+            <dct:title xml:lang="fr">Dépenses intra-muros de R-D en Suisse</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Внутрішні витрати на R &amp;amp; D в Швейцарії</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Vnútorné výdavky na výskum a vývoj vo Švajčiarsku</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ühendusesisesed kulutused teadus- ja arendustegevusele Šveitsis</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Intramurale uitgaven voor O &amp;amp; O in Zwitserland</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14941570/master"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:keyword xml:lang="fr">recherche-et-developpement-r-d-dans-les-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="en">sample-surveys</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Intramuros- P &amp;amp; A izdevumi Šveicē</dct:title>
+        <dct:title xml:lang="fr">Dépenses intra-muros de R-D en Suisse</dct:title>
+        <dcat:keyword xml:lang="fr">recherche-et-developpement-r-d-dans-la-confederation</dcat:keyword>
+        <dcat:keyword xml:lang="en">research-and-development-rd-in-the-business-enterprise-sector</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="de">Intramuros- F+E-Aufwendungen in der Schweiz</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Intramuros – wydatki na badania i rozwój w Szwajcarii</dct:title>
+        <dcat:keyword xml:lang="it">ricerca-e-sviluppo-rs-per-il-governo-federale</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:keyword xml:lang="fr">recherche-et-developpement-r-d-dans-les-entreprises-privees</dcat:keyword>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Intramuros – výdavky na výskum a vývoj vo Švajčiarsku</dct:title>
+        <dcat:keyword xml:lang="it">analisi-basata-sui-registri</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Intramuros- Despesas de I &amp;amp; D na Suíça</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Intramuros – výdaje na výzkum a vývoj ve Švýcarsku</dct:title>
+        <dct:identifier>14941560@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="de">stichprobenerhebung</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.15.02.01.03"/>
+        <dcat:keyword xml:lang="it">paesaggio-sotto-pressione</dcat:keyword>
+        <dcat:keyword xml:lang="it">ricerca-e-sviluppo-rs-nelle-universita</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Intramuros- teadus- ja arendustegevuse kulud Šveitsis</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Costais Intramuros- T &amp;amp; F san Eilvéis</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="fr">enquete--par-sondage</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ff13bc5d-cb22-4e4c-9b63-834e8b02f6b3">
+            <dct:title xml:lang="de-t-fr-t0-mtec">Innerbetriebliche FuE-Ausgaben in der Schweiz</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Gastos intramuros de I+D en Suiza</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Intramural expenditure on R &amp; D in Switzerland</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ühendusesisesed kulutused teadus- ja arendustegevusele Šveitsis</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Intramurale udgifter til F &amp;amp; U i Schweiz</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Intramurala utgifter för forskning och utveckling i Schweiz</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Внутрішні витрати на R &amp;amp; D в Швейцарії</dct:title>
+            <dct:identifier>14941570-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A kutatással és fejlesztéssel kapcsolatos belső kiadások Svájcban</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Wydatki wewnętrzne na badania i rozwój w Szwajcarii</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Iekšējie izdevumi pētniecībai un attīstībai Šveicē</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-07T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Despesas intramurais em I &amp;amp; D na Suíça</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Spese intramurali per R &amp;amp; S in Svizzera</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Caiteachas inmheánach ar T &amp;amp; D san Eilvéis</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Notranji izdatki za raziskave in razvoj v Švici</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Εσωτερικές δαπάνες για Ε &amp;amp; Α στην Ελβετία</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Intramurale uitgaven voor O &amp;amp; O in Zwitserland</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Vidaus išlaidos moksliniams tyrimams ir technologinei plėtrai Šveicarijoje</dct:title>
+            <dct:title xml:lang="fr">Dépenses intra-muros de R-D en Suisse</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Vnútorné výdavky na výskum a vývoj vo Švajčiarsku</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Cheltuieli intramurale pentru cercetare și dezvoltare în Elveția</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">T &amp;amp; K-toiminnan sisäiset menot Sveitsissä</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Intramuralni rashodi za istraživanje i razvoj u Švicarskoj</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Вътрешни разходи за научноизследователска и развойна дейност в Швейцария</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Nefqa intramurali fuq l-R &amp;amp; D fl-Isvizzera</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Vnitřní výdaje na výzkum a vývoj ve Švýcarsku</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.15.02.01.03"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Intramuros – K+F költségek Svájcban</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Intramuros- MTTP išlaidos Šveicarijoje</dct:title>
+        <dcat:keyword xml:lang="fr">exploitation-de-registres</dcat:keyword>
+        <dcat:keyword xml:lang="de">landschaft-unter-druck</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="de">forschung-und-entwicklung-fe-in-der-privatwirtschaft</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Intramuros – Cheltuieli de cercetare și dezvoltare în Elveția</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="it">rilevazione-campionaria</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Intramuros- витрати на R &amp;amp; D в Швейцарії</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Intramuros- R &amp;amp; D-uitgaven in Zwitserland</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Intramuros- F &amp;amp; U-udgifter i Schweiz</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-12-07T00:00:00</dct:issued>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Intramuros – troškovi istraživanja i razvoja u Švicarskoj</dct:title>
+        <dcat:keyword xml:lang="en">research-and-development-rd-at-the-confederation</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="en">register-based-surveys</dcat:keyword>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

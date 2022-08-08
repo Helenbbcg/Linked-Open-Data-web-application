@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/6kuxvzdifhdje2cvamotg">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/6kuxvzdifhdje2cvamotg"/>
+    <dct:identifier>6KUxvZDIFhDje2cvamoTg</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T22:17:40Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:16:04Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>2959bd431144206c063c21631bd8ede4</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T22:17:40Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/6kuxvzdifhdje2cvamotg">
+        <dct:title xml:lang="nl-t-en-t0-mtec">Klanten per type districtsnetwerk en efficiëntie van het netwerk</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Clienti per tipo di rete distrettuale ed efficienza della rete</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Clienți în funcție de tipul rețelei districtuale și de eficiența rețelei</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bf541ea9-25b5-4e89-b3ae-e1d7f42c862d">
+            <dct:title xml:lang="en">Customers by type of district network and efficiency of network</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/40c82946-5a57-42cf-9aa2-f6010e5cdec4</dct:identifier>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="fr">Clients par type de réseau de température urbain et efficacité du réseau</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_dhdc_c.tsv.gz&amp;unzip=true"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="de">Fernwärmenetze - Kunden nach Netztyp und Netzeffizienz</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_dhdc_c">
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_dhdc_c</schema:url>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_dhdc_c</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/6kuxvzdifhdje2cvamotg"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Clientes por tipo de rede distrital e eficiência da rede</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/5341d292-14e3-4c88-996d-0a78b2d4c3fc">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Ügyfelek a kerületi hálózat típusa és a hálózat hatékonysága szerint</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Stranke glede na vrsto omrežja in učinkovitost omrežja</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Klienci według rodzaju sieci powiatowej i efektywności sieci</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Custaiméirí de réir cineál líonra ceantair agus éifeachtúlacht líonra</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_dhdc_c"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fd67a37a-2114-437a-8a52-7f5003710c65">
+            <dct:identifier>http://data.europa.eu/88u/distribution/30a84d6e-0782-4c41-94d5-04954482de15</dct:identifier>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_dhdc_c.tsv.gz"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Customers by type of district network and efficiency of network</dct:title>
+            <dct:title xml:lang="de">Fernwärmenetze - Kunden nach Netztyp und Netzeffizienz</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="fr">Clients par type de réseau de température urbain et efficacité du réseau</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Custaiméirí de réir cineál líonra ceantair agus éifeachtúlacht líonra</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Asiakkaat alueverkon tyypin ja verkon tehokkuuden mukaan</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Klienti pēc rajona tīkla veida un tīkla efektivitātes</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Korisnici prema vrsti mreže okruga i učinkovitosti mreže</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Klienti pēc rajona tīkla veida un tīkla efektivitātes</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/3e67b895-50a8-4df4-ad96-253e4777da05">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/a94ef7fe-185f-4ebb-9205-9c42bc1a7732">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="de">Fernwärmenetze - Kunden nach Netztyp und Netzeffizienz</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Clienți în funcție de tipul rețelei districtuale și de eficiența rețelei</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Kliendid kaugvõrgu tüübi ja võrgu tõhususe järgi</dct:description>
+        <dct:description xml:lang="fr">Clients par type de réseau de température urbain et efficacité du réseau</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Clientes por tipo de red de distrito y eficiencia de la red</dct:title>
+        <dct:title xml:lang="en">Customers by type of district network and efficiency of network</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Klientai pagal rajono tinklo tipą ir tinklo efektyvumą</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Korisnici prema vrsti mreže okruga i učinkovitosti mreže</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Kunder efter typ av distriktsnät och näteffektivitet</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Ügyfelek a kerületi hálózat típusa és a hálózat hatékonysága szerint</dct:description>
+        <dct:identifier>nrg_dhdc_c</dct:identifier>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Kunder efter typ av distriktsnät och näteffektivitet</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Клієнти за типом районної мережі та ефективністю мережі</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Stranke glede na vrsto omrežja in učinkovitost omrežja</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/6KUxvZDIFhDje2cvamoTg</dct:identifier>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Клиенти по вид на районната мрежа и ефективност на мрежата</dct:title>
+        <dct:title xml:lang="de">Fernwärmenetze - Kunden nach Netztyp und Netzeffizienz</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Kliendid kaugvõrgu tüübi ja võrgu tõhususe järgi</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Клиенти по вид на районната мрежа и ефективност на мрежата</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Asiakkaat alueverkon tyypin ja verkon tehokkuuden mukaan</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Klienci według rodzaju sieci powiatowej i efektywności sieci</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Zákazníci podľa typu okresnej siete a efektívnosti siete</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Klijenti skont it-tip ta’ netwerk distrettwali u l-effiċjenza tan-netwerk</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Zákazníci podľa typu okresnej siete a efektívnosti siete</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        </dcat:theme>
+        <dct:title xml:lang="el-t-en-t0-mtec">Πελάτες ανά τύπο δικτύου περιοχής και αποδοτικότητα του δικτύου</dct:title>
+        <dct:description xml:lang="en">Customers by type of district network and efficiency of network</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Klijenti skont it-tip ta’ netwerk distrettwali u l-effiċjenza tan-netwerk</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/6kuxvzdifhdje2cvamotg"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="it-t-en-t0-mtec">Clienti per tipo di rete distrettuale ed efficienza della rete</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Kunder efter type af distriktsnet og neteffektivitet</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Zákazníci podle typu sítě a efektivity sítě</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Zákazníci podle typu sítě a efektivity sítě</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-13</dct:modified>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:title xml:lang="da-t-en-t0-mtec">Kunder efter type af distriktsnet og neteffektivitet</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πελάτες ανά τύπο δικτύου περιοχής και αποδοτικότητα του δικτύου</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Клієнти за типом районної мережі та ефективністю мережі</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Clientes por tipo de rede distrital e eficiência da rede</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Klientai pagal rajono tinklo tipą ir tinklo efektyvumą</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Clientes por tipo de red de distrito y eficiencia de la red</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/6kuxvzdifhdje2cvamotg"/>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b4d48a97-1433-416a-8663-a49cdc632d54">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_dhdc_c.sdmx.zip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Customers by type of district network and efficiency of network</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Fernwärmenetze - Kunden nach Netztyp und Netzeffizienz</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/dd3e941e-b582-4a7f-8b84-6cbec628eaa2</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Clients par type de réseau de température urbain et efficacité du réseau</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Klanten per type districtsnetwerk en efficiëntie van het netwerk</dct:description>
+        <dct:title xml:lang="fr">Clients par type de réseau de température urbain et efficacité du réseau</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

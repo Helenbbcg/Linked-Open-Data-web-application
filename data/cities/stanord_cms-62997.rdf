@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-62997">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-62997">
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/AGRI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a901510a-6e13-435c-a0ef-055864d7db06">
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/44c4fdca-49c0-45cb-ad61-69ccb691454b</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>11. Kapitel: Verkehr (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >331145</dcat:byteSize>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>ZIP</dct:format>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_11.zip"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >68d7367b8b8bdeb246131591d8e3c95b72fc2cf995b5fce431b2107e88f8419c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>hamburg</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/933ce99e-1519-4c8f-90c0-aa1695c19da9">
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_01.zip"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/1afde696-c27d-4979-9d25-d5455f8ed318</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >b3e339c677961a79ae87d2871c4ee598e6f825d556bc2d024e2df9b0991b72f2</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:format>ZIP</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >596244</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:title>1. Kapitel: Bevölkerung, Haushalt und Familie (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/663c3eb4-8d49-4ad9-a4de-79fc4b2a6d99">
+            <dct:title>5. Kapitel: Bauen und Wohnen</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/63afe771-45a8-4850-b605-46689b513b5c</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_05.xlsx"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >5185760437621e8b8bac588b038aafcafa80cef83b9b765d0cbba93eaf14776a</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:format>XLSX</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >156045</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e453e0a2-fd12-4c3b-8201-a7ba459134a4">
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/689ee770-fdee-4570-88aa-a1335f258a48</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>ZIP</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:title>14. Kapitel: Finanzen, Öffentlicher Dienst und Steuern (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >245802</dcat:byteSize>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_14.zip"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >cbf4c4b0f7bc61d3b084d49e9afe229e67710b363ba67c48c776b4a2a54c9e42</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+        <dct:title xml:lang="et-t-de-t0-mtec">Statistikaaastaraamat – Hamburg 2020/2021</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Il-Ktieb Annwali tal-Istatistika — Hamburg 2020/2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6e851978-5350-4677-aa53-17a29ec29fb9">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >61058e802d2112dafcbf47ba050fc5268340a6d591b3a7251ec6222b498d2194</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_06.xlsx"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/a3683e0a-a9cf-4650-a032-3231aa4e0966</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >219542</dcat:byteSize>
+            <dct:title>6. Kapitel: Erwerbstätigkeit und Arbeitslosigkeit</dct:title>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:format>XLSX</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/922d3ea7-a807-4733-a827-13ffd67e194c">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >198154</dcat:byteSize>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:title>15. Kapitel: Öffentliche Sicherheit und Rechtspflege (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/6a7acc52-5ec5-4bdd-a114-a9ae5dea058c</dct:identifier>
+            <dct:format>ZIP</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >306f737493ad63b22a14191cf7229a578b4e72faf5e1d0fa70ce7bb7ec7e5cc6</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_15.zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Anuarul statistic – Hamburg 2020/2021</dct:title>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4b3dcdf2-3d3f-432e-b827-e63fc51a74c1">
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:format>XLSX</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/fa6d9b60-968f-42e5-bc99-4f3ff83da63e</dct:identifier>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_03.xlsx"/>
+            <dct:title>3. Kapitel: Gesundheit</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >214375</dcat:byteSize>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >93bde619550f63e5f0caabc9ba96b366227c91b9a4894ff043b11f1a71b8e8e0</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/84731a0c-d9b3-4131-8276-4286250531f2">
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >443847</dcat:byteSize>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/108826b5-758c-471e-99d4-fbffa4a4eb49</dct:identifier>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >53e4732e12d2a8c763924fa798bcbe3c7ba2270ddfe758ba47179207062d7f31</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>XLSX</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:title>1. Kapitel: Bevölkerung, Haushalt und Familie</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_01.xlsx"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d8462375-a60c-444a-8c30-3a829cc47411">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >33fa1f830fc67872e973153fb719309d0fdc8a96441608f0786ace63450f45bb</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_08.zip"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >243484</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>ZIP</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:title>8. Kapitel: Land- und Forstwirtschaft, Fischerei (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/fdbe64fa-b3ce-47e7-b423-243fabd95765</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7a2a5853-6160-45c3-b34b-713562a88595">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >b636b13b11308bf19856f72aedfa583c50dc6b3d90d17f47d865bc04111b00b8</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:format>XLSX</dct:format>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_04.xlsx"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >189004</dcat:byteSize>
+            <dct:title>4. Kapitel: Öffentliche Sozialleistungen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/a629d19d-a64c-4be5-b464-361387e2ff7a</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Statistikårsbok – Hamburg 2020/2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/51f88ad1-95eb-48c7-b6de-0b46648f6780">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:title>10. Kapitel: Handel, Gastgewerbe, Fremdenverkehr und Dienstleistungen (CSV-Version in einer ZIP-Datei)</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >7a0c527e3c0af5cf4c3262dc5f15a599acd588d3bba288c2f47bd3e531c329a9</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/a79c8250-64fd-4119-b1a6-3f92cb694fc7</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:format>ZIP</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >437229</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_10.zip"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/96b92736-2937-426c-b77a-295fd3f81f4b">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >286500</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:title>6. Kapitel: Erwerbstätigkeit und Arbeitslosigkeit (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/6472ab09-84a2-4b83-9a4f-a6d20f4fd738</dct:identifier>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_06.zip"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:format>ZIP</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >9ae820d4e73f38a773afe8e7f29eef8990529ccb8c8573617947801193c3e9f0</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Statistični letopis – Hamburg 2020/2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4c58e7a1-4567-45a0-817f-7f06d248d17c">
+            <dct:title>8. Kapitel: Land- und Forstwirtschaft, Fischerei</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/d20d90c3-a85a-4a3e-81c8-923ca246dbd6</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:format>XLSX</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >3fb0cfc24341c97ca6297888256dc868c344ce886aa4fe3bc6c02e462172d55b</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_08.xlsx"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >210129</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e225d42b-4662-4931-9db2-b35a0a4cb99c">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >970ad07db2d63f4df30d3d43772f127cb48a784a4f618db82826a84cd723e78f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/10060658-3666-40b3-b25b-54aab8dd6f68</dct:identifier>
+            <dct:title>17. Kapitel: Bodenflächen nach Art der tatsächlichen Nutzung und geografische Angaben</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_17.xlsx"/>
+            <dct:format>XLSX</dct:format>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >113539</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Statistical Yearbook — Hamburg 2020/2021</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Statistická ročenka – Hamburk 2020/2021</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Bliainiris Staidrimh — Hamburg 2020/2021</dct:title>
+        <dct:title>Statistisches Jahrbuch  - Hamburg 2020/2021</dct:title>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6e477778-6f56-48da-9fcf-659826d20af1">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >201037</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_14.xlsx"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>XLSX</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >21595054018d0ee8a2c7d5af04d7035c293ee62919dd189c838b3f067c1b4b17</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>14. Kapitel: Finanzen, Öffentlicher Dienst und Steuern</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/1418ab53-2b0c-4c41-bd16-86e058b5751f</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Annuaire statistique — Hambourg 2020/2021</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2b67e494-6460-4d01-bd50-25b19bb729bf">
+            <dct:format>XLSX</dct:format>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_12.xlsx"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >d94c50a8209853aea2c0cece2478f6db846c14a4961ba62d3cde7e7ba5bdff9d</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >309350</dcat:byteSize>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/e8d0cb33-71ea-4881-9840-9b6d89522c2e</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>12. Kapitel: Gesamtwirtschaft</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="es-t-de-t0-mtec">Anuario estadístico — Hamburgo 2020/2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8055a06e-7eed-4d2d-bc38-301ee4f65903">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >54b8036d5928e59245fdd1c4e939f4e004e6c9463e2c67925d8329e62631a2e0</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/12b1212c-2cf8-48e4-9787-55e54696baa0</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >309625</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:format>ZIP</dct:format>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>16. Kapitel: Wahlen (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_16.zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Rocznik Statystyczny – Hamburg 2020/2021</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0dcb8208-baa1-48a3-bdb0-6f5ef6ec42d3">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:title>13. Kapitel: Energie und Umwelt (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:format>ZIP</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >230899</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_13.zip"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/129cff13-bf24-472c-ab83-5418d1e3a773</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >3c9049529d20f8b2ef551928e769188eb621b5b84192bd18e51594708d83571f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e74a9839-2b0c-415e-86fd-d8b1b6b506cb">
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >2ebac501b738d4b9046b611487d6d937524e710270041526d18576f121b37529</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:format>ZIP</dct:format>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_02.zip"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >434050</dcat:byteSize>
+            <dct:title>2. Kapitel: Bildung und Kultur (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/9c7a9ad5-bcef-4d63-b3cc-305f19f14958</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8ccd5e3b-5f42-4661-917b-b62a27b767fe">
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/3c7d8fa2-079b-435e-8d85-be37d5a8bfde</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >181261</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>XLSX</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >8357ca20e91a35b31e957f87c4c9ea2d644e2d78c49fd4daca9e1dbe3b3f45ba</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_13.xlsx"/>
+            <dct:title>13. Kapitel: Energie und Umwelt</dct:title>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Статистически годишник — Хамбург 2020/2021</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6e87303e-814e-4e9d-9f40-5da2bfbd7d5b">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_Karten.zip"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/179b4cb9-fc13-44dd-bc0e-cf88d8ba767b</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>Karte: Bezirke und Stadtteile (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:format>ZIP</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >460154</dcat:byteSize>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >0b26ecba139c28638698c415ddc8c52702b29cfefb873ca56d20f0a91f53500f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-06-04T00:00:00</dct:issued>
+        <dct:identifier>StaNord_CMS:62997</dct:identifier>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/acbb9f66-71f7-41ee-a3a2-d7fee1d5c29c">
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >328931</dcat:byteSize>
+            <dct:format>XLSX</dct:format>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_02.xlsx"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >70abe0da73eaf8c20d7c746c5ce7a05fcfee177d9681d91f411c0a3132c2b3c5</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:title>2. Kapitel: Bildung und Kultur</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/1db53646-8e04-42c4-a79b-6307e1422a7a</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/85a45937-c572-422d-a6b7-6789d539f301">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >eb9b33bbb8cf033c114b2b107789a624dfd225c12c872e9fe997b6f925487472</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/90a068de-b29c-420f-8381-3f6a941267c1</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title>Karte: Bezirke und Stadtteile</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >437211</dcat:byteSize>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:format>XLSX</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_Karten.xlsx"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Statistisch Jaarboek — Hamburg 2020/2021</dct:title>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Štatistická ročenka – Hamburg 2020/2021</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Στατιστική Επετηρίδα — Αμβούργο 2020/2021</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Statisztikai évkönyv – Hamburg 2020/2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6417194a-8dc9-4d12-9d04-b84dcd90d4f6">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >216974</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/4b46816a-7ad2-45c5-84dd-8d12f12401f9</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >7254f94cff59d595e3851d225b64c41ba752a4541454ba7676be97b402cc4dd8</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:format>XLSX</dct:format>
+            <dct:title>7. Kapitel: Verdienste, Arbeitskosten, Ausstattung und Preise</dct:title>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_07.xlsx"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Статистичний щорічник - Гамбург 2020/2021</dct:title>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T04:36:03.469797</dct:modified>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/statistisches-jahrbuch-hamburg-2020-2021"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/730a5cae-e62f-46c6-8e38-456981af2c35">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >65d32d59f750bbd1500a742b306876fb03950cd1daf4f6d7d0c1741db9f1d21d</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_10.xlsx"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/c24b5711-fd54-407a-8019-a2a3442f4dd1</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>XLSX</dct:format>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:title>10. Kapitel: Handel, Gastgewerbe, Fremdenverkehr und Dienstleistungen</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >381057</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Statistički godišnjak – Hamburg 2020./2021.</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Annuario statistico — Amburgo 2020/2021</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statistinis metraštis – Hamburgas 2020/2021</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tilastollinen vuosikirja – Hampuri 2020/2021</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Anuário Estatístico — Hamburgo 2020/2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/24ee274c-6911-48aa-9af7-635ee8a80ba6">
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_11.xlsx"/>
+            <dct:title>11. Kapitel: Verkehr</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:format>XLSX</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/c56473da-ebee-4550-b8f0-63268700b5fa</dct:identifier>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >1ba83a06b5ecbfe136c74648de5faf6de4059c8bb40c250aebe30f5a35b88efd</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >273404</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/35bdbd68-a3e6-434e-9666-15a95c8f84dd">
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/7af86642-7c10-4b0e-8b95-e7039f76a34e</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_16.xlsx"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >249450</dcat:byteSize>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >a5d9f95be195c20aa1e1a57335d2afe80075563efafc52e7201c3393ef4a5ea0</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:title>16. Kapitel: Wahlen</dct:title>
+            <dct:format>XLSX</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d4aee348-44b9-4ece-a4b9-b0913a4e067b">
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:format>ZIP</dct:format>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/c3a50a5d-bcfa-4354-a7af-63702ff06928</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >21a7cc9717c7c3331d586602ea86beefd2862a003bd913b299656592350f75c4</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_03.zip"/>
+            <dct:title>3. Kapitel: Gesundheit (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >269384</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ec2e7b6f-7d5e-4f4c-9791-ed9b560315da">
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >1d53f6ca63228a7c6530d99c755b009593220b40541192bbc765ca91a928c847</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >490650</dcat:byteSize>
+            <dct:format>XLSX</dct:format>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/4867a54d-7815-4b37-a424-117697d433d4</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_09.xlsx"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:title>9. Kapitel: Produzierendes Gewerbe</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Statistikas gadagrāmata — Hamburga 2020/2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0f2af85c-4ae9-4d76-9f40-ba25d95c0b2f">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >133295</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_17.zip"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:format>ZIP</dct:format>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >4c34ba720b6ab592a83b61be5352d3456eaa8b9292a3752edc37323f484bb9a4</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/1c289bd4-17d2-4f2d-9e0b-02de645f51e9</dct:identifier>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:title>17. Kapitel: Bodenflächen nach Art der tatsächlichen Nutzung und geografische Angaben (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3006655a-d71b-4660-8bb5-a28d27eca376">
+            <dct:title>4. Kapitel: Öffentliche Sozialleistungen (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/131a7d91-a504-450f-a83b-5fa71146fab2</dct:identifier>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_04.zip"/>
+            <dct:format>ZIP</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >254390</dcat:byteSize>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >1c03d53da52a9164f1ab6bdad9e2c50f33506e92552d255344b3e1e0f75985c4</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/95d1f5db-ea25-46be-9310-f8b46e8e9939">
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:title>7. Kapitel: Verdienste, Arbeitskosten, Ausstattung und Preise (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>ZIP</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >ad7e129362eb7c7b4e453c485b5a053aab8b53ccd4caa232b5129e9227137af6</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >262413</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_07.zip"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/b9caa1a8-33c6-44bf-9e2a-dfa6b82223ce</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fc84e83f-69fa-4c5d-ad39-4d02662f0d51">
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_12.zip"/>
+            <dct:title>12. Kapitel: Gesamtwirtschaft (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >436607</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:format>ZIP</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >d134adf7115d50c41089e0e508c6a9bf96e00dbfc9ad08f84c2a411de3bb304c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/10be714a-ae68-4a5c-b35f-c5ac1a60c490</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>jahrbücher</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/64e03c61-1c37-4458-bfa0-ff5bc3762d54">
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/53265179-52a2-4196-adf1-00b63f4a2172</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>ZIP</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:title>5. Kapitel: Bauen und Wohnen (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >9a1cfa775b5eca0e4e4ab34690df36f4d598258911bd01da491a978fa7c3004d</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_05.zip"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >189375</dcat:byteSize>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7e6b3e7f-6dbb-4763-ae13-3221d28be396">
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >152965</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>15. Kapitel: Öffentliche Sicherheit und Rechtspflege</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/0333ff68-196d-4cbe-b0a5-1f0f12befb13</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Jahrb%25C3%25BCcher/Hamburg/JB20HH_15.xlsx"/>
+            <dct:format>XLSX</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >1dff16152a0a5e03a38d08df1dfde7969ea084eee674f060098d086bd7d1a6c7</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/83330356-04a2-41a1-aed3-9f6790a1f08f">
+            <dct:title>9. Kapitel: Produzierendes Gewerbe (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/32ae36c4-22ef-41cf-afb6-279d4d0e6d9c/resource/8311e8a6-cf9b-45e7-bef0-4da1079c795a</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-04T00:00:00</dct:issued>
+            <dct:format>ZIP</dct:format>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >585776</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS62997/JB20HH_09.zip"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >ff2f10f645ef5efcc9d3afd2ab9c6f6643d3def8ec0499d78b454b67c33a746c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:36:03.469797</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Statistisk årbog — Hamburg 2020/2021</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-03-07T23:49:14Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>ec8b38607be7dd0690ed1434c59a6705</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:45Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:45Z</dct:modified>
+    <dct:identifier>StaNord_CMS:62997</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-62997"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18845901-bundesamt-fur-statistik-bfs">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>7d48cecc64c7af4fc84846c4a2b5bd8c</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18845901-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="it">energia</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f4b26d42-6d86-4aa9-a012-7ddf979288dc">
+            <dct:title xml:lang="lv-t-it-t0-mtec">Tabulas par balansēšanas pozīcijām starp Šveices globālo enerģētikas statistiku (GEST) un enerģētikas kontiem (PEFA)</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Táblázatok a svájci globális energiastatisztika (GEST) és az energiaszámlák (PEFA) közötti kiegyenlítő pozíciókról</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Tabele dotyczące pozycji bilansujących między szwajcarską globalną statystyką energetyczną (GEST) a rachunkami energetycznymi (PEFA)</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Tabelid tasakaalustavate positsioonide kohta Šveitsi ülemaailmse energiastatistika (GEST) ja energiakontode (PEFA) vahel</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Tabuľky o vyrovnávacích pozíciách medzi švajčiarskou globálnou energetickou štatistikou (GEST) a energetickými účtami (PEFA)</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Taulukot Sveitsin maailmanlaajuisten energiatilastojen (GEST) ja energiatilinpidon (PEFA) tasapainottamispositioista</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Šveicarijos pasaulinės energetikos statistikos (GEST) ir energijos sąskaitų (PEFA) balansavimo pozicijų lentelės</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Tabeller over balanceringspositioner mellem schweiziske globale energistatistikker (GEST) og energiregnskaber (PEFA)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/je-i-02.04.12.04"/>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Tabeller över balanspositioner mellan Swiss Global Energy Statistics (GEST) och Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Tabelas sobre posições de equilíbrio entre estatísticas globais suíças de energia (GEST) e contas de energia (PEFA)</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Tablas sobre posiciones de balance entre las Estadísticas Mundiales de Energía de Suiza (GEST) y las Cuentas de Energía (PEFA)</dct:title>
+            <dct:identifier>18845924-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Táblaí maidir le seasaimh chomhardaithe idir Staidreamh Domhanda Fuinnimh na hEilvéise (GEST) agus Cuntais Fuinnimh (PEFA)</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Tabele privind pozițiile de echilibrare între statisticile elvețiene în domeniul energiei (GEST) și conturile energetice (PEFA)</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Πίνακες σχετικά με τις θέσεις εξισορρόπησης μεταξύ ελβετικών παγκόσμιων στατιστικών ενέργειας (GEST) και λογαριασμών ενέργειας (PEFA)</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Таблиці балансування позицій між швейцарською глобальною енергетичною статистикою (GEST) та рахунками енергії (PEFA)</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Tabelli dwar il-pożizzjonijiet ta’ bbilanċjar bejn l-Istatistika Globali Żvizzera dwar l-Enerġija (GEST) u l-Kontijiet tal-Enerġija (PEFA)</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Таблици за балансиращите позиции между Швейцарската глобална енергийна статистика (GEST) и Енергийните сметки (PEFA)</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Tabellen zu Bilanzpositionen zwischen Schweizer Global Energy Statistics (GEST) und Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Tablice o uravnoteženju između švicarske globalne energetske statistike (GEST) i računa energije (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Tabellen over balanceringsposities tussen Zwitserse mondiale energiestatistieken (GEST) en energierekeningen (PEFA)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="en-t-it-t0-mtec">Tables on balancing positions between Swiss Global Energy Statistics (GEST) and Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="it">Tabelle sulle posizioni di bilanciamento tra la statistica globale svizzera dell'energia (GEST) e i conti dell'energia (PEFA)</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Tabulky vyrovnávacích pozic mezi švýcarskými globálními energetickými statistikami (GEST) a energetickými účty (PEFA)</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Tableaux sur les positions d’équilibrage entre les statistiques mondiales suisses de l’énergie (GEST) et les comptes de l’énergie (PEFA)</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Tabele o izravnalnih stanjih med švicarsko globalno statistiko energetike (GEST) in energetskimi računi (PEFA)</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Tabulky vyrovnávacích pozic mezi švýcarskými celkovými energetickými statistikami (GEST) a účty fyzických toků energie (PEFA)</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šveicarijos bendros energetikos statistikos (GEST) ir fizinių energijos srautų sąskaitų (PEFA) balansavimo pozicijų lentelės</dct:title>
+        <dct:title xml:lang="en">Tables on the balancing items between the Swiss total energy statistics (GEST) and the energy flow accounts (PEFA)</dct:title>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dct:identifier>18845901@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Tabuľky o vyrovnávacích pozíciách medzi švajčiarskou celkovou energetickou štatistikou (GEST) a účtami fyzických tokov energie (PEFA)</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Tablas sobre posiciones de balance entre las estadísticas suizas de energía total (GEST) y las cuentas de flujo de energía física (PEFA)</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tabelid tasakaalustavate positsioonide kohta Šveitsi energia kogustatistika (GEST) ja füüsilise energiavoo kontode (PEFA) vahel</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d5575335-9622-43e7-8b60-f6acfb715984">
+            <dct:title xml:lang="cs-t-de-t0-mtec">Tabulky vyrovnávacích pozic mezi švýcarskými celkovými energetickými statistikami (GEST) a účty fyzických toků energie (PEFA)</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Tabuľky o vyrovnávacích pozíciách medzi švajčiarskou celkovou energetickou štatistikou (GEST) a účtami fyzických tokov energie (PEFA)</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šveicarijos bendros energetikos statistikos (GEST) ir fizinių energijos srautų sąskaitų (PEFA) balansavimo pozicijų lentelės</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Taulukot Sveitsin kokonaisenergiatilastojen (GEST) ja fyysisten energiavirtatilien (PEFA) välisistä tasapainopositioista</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tabelli dwar il-pożizzjonijiet ta’ bbilanċjar bejn l-Istatistika Żvizzera tal-Enerġija Totali (GEST) u l-kontijiet tal-fluss fiżiku tal-enerġija (PEFA)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tabelid tasakaalustavate positsioonide kohta Šveitsi energia kogustatistika (GEST) ja füüsilise energiavoo kontode (PEFA) vahel</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tablas sobre posiciones de balance entre las estadísticas suizas de energía total (GEST) y las cuentas de flujo de energía física (PEFA)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Tabulas par balansēšanas pozīcijām starp Šveices kopējās enerģijas statistiku (GEST) un fiziskās enerģijas plūsmas kontiem (PEFA)</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Таблиці балансування позицій між Швейцарською Загальною енергетичною статистикою (GEST) та рахунками фізичного потоку енергії (PEFA)</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tabelle sulle posizioni di bilanciamento tra le statistiche energetiche totali svizzere (GEST) e i conti fisici dei flussi energetici (PEFA)</dct:title>
+            <dct:identifier>18845907-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">Tabeller over balanceringspositioner mellem Schweiz' samlede energistatistik (GEST) og de fysiske energistrømsregnskaber (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Tabellen over balanceringsposities tussen de Zwitserse Total Energy Statistics (GEST) en de fysieke energiestroomrekeningen (PEFA)</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Quadros sobre as posições de equilíbrio entre as estatísticas suíças de energia total (GEST) e as contas de fluxo de energia física (PEFA)</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Tablice o uravnoteženju pozicija između švicarske ukupne energetske statistike (GEST) i računa fizičkog toka energije (PEFA)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845907/master"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πίνακες σχετικά με τις θέσεις εξισορρόπησης μεταξύ των ελβετικών συνολικών στατιστικών ενέργειας (GEST) και των λογαριασμών φυσικής ροής ενέργειας (PEFA)</dct:title>
+            <dct:title xml:lang="de">Tabellen zu den Ausgleichspositionen zwischen der Schweizerischen Gesamtenergiestatistik (GEST) und den physischen Energieflusskonten (PEFA)</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Táblázatok a svájci teljes energiastatisztika (GEST) és a fizikai energiaáramlási számlák (PEFA) közötti kiegyenlítő pozíciókról</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Tabele privind pozițiile de echilibrare între statisticile elvețiene privind energia totală (GEST) și conturile privind fluxul fizic de energie (PEFA)</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Tabele dotyczące pozycji bilansujących między szwajcarską statystyką całkowitej energii (GEST) a rachunkami fizycznych przepływów energii (PEFA)</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Таблици за балансиращите позиции между общата енергийна статистика на Швейцария (GEST) и сметките за физическите енергийни потоци (PEFA)</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táblaí maidir le suíomhanna comhardaithe idir Staidreamh Iomlán Fuinnimh na hEilvéise (GEST) agus na cuntais ar shreabhadh fisiciúil fuinnimh (PEFA)</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Tableaux sur les positions d’équilibrage entre les statistiques suisses globales de l’énergie (GEST) et les comptes physiques des flux d’énergie (PEFA)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="en-t-de-t0-mtec">Tables on balancing positions between the Swiss Total Energy Statistics (GEST) and the physical energy flow accounts (PEFA)</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Tabeller över balanspositioner mellan den schweiziska totalenergistatistiken (GEST) och räkenskaperna för fysiskt energiflöde (PEFA)</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845907/master"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Tabele o izravnalnih stanjih med švicarsko skupno statistiko energetike (GEST) in računi fizičnega pretoka energije (PEFA)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c6217a3c-1df9-4417-a2a1-ed0f5ea73332">
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845924/master"/>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Taulukot Sveitsin maailmanlaajuisten energiatilastojen (GEST) ja energiatilinpidon (PEFA) tasapainottamispositioista</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Tabelid tasakaalustavate positsioonide kohta Šveitsi ülemaailmse energiastatistika (GEST) ja energiakontode (PEFA) vahel</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Tabuľky o vyrovnávacích pozíciách medzi švajčiarskou globálnou energetickou štatistikou (GEST) a energetickými účtami (PEFA)</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="de-t-it-t0-mtec">Tabellen zu Bilanzpositionen zwischen Schweizer Global Energy Statistics (GEST) und Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Tabele dotyczące pozycji bilansujących między szwajcarską globalną statystyką energetyczną (GEST) a rachunkami energetycznymi (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Tabellen over balanceringsposities tussen Zwitserse mondiale energiestatistieken (GEST) en energierekeningen (PEFA)</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Tables on balancing positions between Swiss Global Energy Statistics (GEST) and Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Tabulky vyrovnávacích pozic mezi švýcarskými globálními energetickými statistikami (GEST) a energetickými účty (PEFA)</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Tabelli dwar il-pożizzjonijiet ta’ bbilanċjar bejn l-Istatistika Globali Żvizzera dwar l-Enerġija (GEST) u l-Kontijiet tal-Enerġija (PEFA)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Tabulas par balansēšanas pozīcijām starp Šveices globālo enerģētikas statistiku (GEST) un enerģētikas kontiem (PEFA)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845924/master"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="it">Tabelle sulle posizioni di bilanciamento tra la statistica globale svizzera dell'energia (GEST) e i conti dell'energia (PEFA)</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Tabeller over balanceringspositioner mellem schweiziske globale energistatistikker (GEST) og energiregnskaber (PEFA)</dct:title>
+            <dct:identifier>18845924-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Tableaux sur les positions d’équilibrage entre les statistiques mondiales suisses de l’énergie (GEST) et les comptes de l’énergie (PEFA)</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Tablas sobre posiciones de balance entre las Estadísticas Mundiales de Energía de Suiza (GEST) y las Cuentas de Energía (PEFA)</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Tabele o izravnalnih stanjih med švicarsko globalno statistiko energetike (GEST) in energetskimi računi (PEFA)</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Таблиці балансування позицій між швейцарською глобальною енергетичною статистикою (GEST) та рахунками енергії (PEFA)</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Таблици за балансиращите позиции между Швейцарската глобална енергийна статистика (GEST) и Енергийните сметки (PEFA)</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Tabelas sobre posições de equilíbrio entre estatísticas globais suíças de energia (GEST) e contas de energia (PEFA)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Táblaí maidir le seasaimh chomhardaithe idir Staidreamh Domhanda Fuinnimh na hEilvéise (GEST) agus Cuntais Fuinnimh (PEFA)</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Tabeller över balanspositioner mellan Swiss Global Energy Statistics (GEST) och Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Πίνακες σχετικά με τις θέσεις εξισορρόπησης μεταξύ ελβετικών παγκόσμιων στατιστικών ενέργειας (GEST) και λογαριασμών ενέργειας (PEFA)</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Tabele privind pozițiile de echilibrare între statisticile elvețiene în domeniul energiei (GEST) și conturile energetice (PEFA)</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Táblázatok a svájci globális energiastatisztika (GEST) és az energiaszámlák (PEFA) közötti kiegyenlítő pozíciókról</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Šveicarijos pasaulinės energetikos statistikos (GEST) ir energijos sąskaitų (PEFA) balansavimo pozicijų lentelės</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Tablice o uravnoteženju između švicarske globalne energetske statistike (GEST) i računa energije (PEFA)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Tabulas par balansēšanas pozīcijām starp Šveices kopējās enerģijas statistiku (GEST) un fiziskās enerģijas plūsmas kontiem (PEFA)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2abca55b-ea1c-4fab-a2fa-66d4229d51e5">
+            <dct:title xml:lang="et-t-en-t0-mtec">Tabelid tasakaalustavate kirjete kohta Šveitsi energia kogustatistika (GEST) ja energiavoogude kontode (PEFA) vahel</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Таблици за балансиращите позиции между общата енергийна статистика на Швейцария (GEST) и сметките за енергийните потоци (PEFA)</dct:title>
+            <dct:language>en</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="it-t-en-t0-mtec">Tabelle sulle voci di bilanciamento tra le statistiche energetiche totali svizzere (GEST) e i conti dei flussi energetici (PEFA)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Πίνακες σχετικά με τα εξισωτικά μεγέθη μεταξύ των ελβετικών συνολικών στατιστικών ενέργειας (GEST) και των λογαριασμών ροής ενέργειας (PEFA)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Tabeller över balansposter mellan den schweiziska totalenergistatistiken (GEST) och energiflödesräkenskaperna (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Tabellen over de balanceringsposten tussen de Zwitserse totale energiestatistieken (GEST) en de energiestroomrekeningen (PEFA)</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Tablice za izravnavajuće stavke između švicarske ukupne energetske statistike (GEST) i računa energetskog toka (PEFA)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Tabelli dwar il-partiti saldatorji bejn l-istatistika Żvizzera dwar l-enerġija totali (GEST) u l-kontijiet tal-fluss tal-enerġija (PEFA)</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Tableaux des postes d’équilibrage entre les statistiques suisses de l’énergie totale (GEST) et les comptes des flux d’énergie (PEFA)</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Tabele dotyczące pozycji bilansujących między szwajcarską statystyką całkowitej energii (GEST) a rachunkami przepływów energii (PEFA)</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Tabulas par balansposteņiem starp Šveices kopējo enerģētikas statistiku (GEST) un enerģijas plūsmas kontiem (PEFA)</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Tabellen zu den Bilanzposten zwischen der Schweizer Gesamtenergiestatistik (GEST) und den Energieflussrechnungen (PEFA)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A svájci teljes energiastatisztika (GEST) és az energiaáramlási számlák (PEFA) közötti egyenlegező tételekre vonatkozó táblázatok</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:identifier>18845930-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Šveicarijos bendros energetikos statistikos (GEST) ir energijos srautų sąskaitų (PEFA) balansavimo straipsnių lentelės</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Таблиці балансування між швейцарською загальною енергетичною статистикою (GEST) та рахунками потоку енергії (PEFA)</dct:title>
+            <dct:title xml:lang="en">Tables on the balancing items between the Swiss total energy statistics (GEST) and the energy flow accounts (PEFA)</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Tabele o izravnalnih postavkah med švicarsko skupno statistiko energetike (GEST) in računi pretoka energije (PEFA)</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Tabeller over balanceposter mellem den schweiziske samlede energistatistik (GEST) og energistrømsregnskabet (PEFA)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/en/je-e-02.04.12.04"/>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Taulukot Sveitsin kokonaisenergiatilastojen (GEST) ja energiavirtatilien (PEFA) välisen tasapainoerän välillä</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Tabulky vyrovnávacích položek mezi švýcarskými účty celkové energetické statistiky (GEST) a účty energetických toků (PEFA)</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Tabele privind soldurile contabile dintre statisticile elvețiene privind energia totală (GEST) și conturile privind fluxul de energie (PEFA)</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Tabuľky o bilančných položkách medzi švajčiarskou celkovou energetickou štatistikou (GEST) a účtami tokov energie (PEFA)</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Quadros sobre os elementos de equilíbrio entre as estatísticas suíças da energia total (GEST) e as contas de fluxo de energia (PEFA)</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Tablas sobre las partidas de balance entre las estadísticas suizas de energía total (GEST) y las cuentas de flujo de energía (PEFA)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Táblaí maidir leis na hítimí comhardaithe idir staidreamh iomlán na hEilvéise maidir le fuinneamh (GEST) agus na cuntais ar shreabhadh fuinnimh (PEFA)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">energie</dcat:keyword>
+        <dcat:keyword xml:lang="de">energie</dcat:keyword>
+        <dcat:keyword xml:lang="fr">comptabilite-environnementale---energie</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:title xml:lang="fr">Tableaux de passage entre la statistique globale suisse de l'énergie (GEST) et les comptes de l'énergie (PEFA)</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Tabele o izravnalnih stanjih med švicarsko skupno statistiko energetike (GEST) in računi fizičnega pretoka energije (PEFA)</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Táblaí maidir le suíomhanna comhardaithe idir Staidreamh Iomlán Fuinnimh na hEilvéise (GEST) agus na cuntais ar shreabhadh fisiciúil fuinnimh (PEFA)</dct:title>
+        <dcat:keyword xml:lang="en">energy</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Táblázatok a svájci teljes energiastatisztika (GEST) és a fizikai energiaáramlási számlák (PEFA) közötti kiegyenlítő pozíciókról</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:keyword xml:lang="it">territorio-e-ambiente</dcat:keyword>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dct:language>it</dct:language>
+        <dcat:keyword xml:lang="de">raum-und-umwelt</dcat:keyword>
+        <dcat:keyword xml:lang="de">schweizerische-gesamtenergiestatistik</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-02.04.12.04"/>
+        <dct:title xml:lang="el-t-de-t0-mtec">Πίνακες σχετικά με τις θέσεις εξισορρόπησης μεταξύ των ελβετικών συνολικών στατιστικών ενέργειας (GEST) και των λογαριασμών φυσικής ροής ενέργειας (PEFA)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/16ba5d48-a0d8-42d3-b46d-18e3c17a21f6">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Prechodné tabuľky medzi švajčiarskou globálnou energetickou štatistikou (GEST) a energetickými účtami (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Overgangstabellen tussen de Zwitserse mondiale energiestatistieken (GEST) en de energierekeningen (PEFA)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-02.04.12.04"/>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pārejas tabulas starp Šveices globālo enerģētikas statistiku (GEST) un enerģētikas kontiem (PEFA)</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Tabele przejściowe między Szwajcarską Globalną Statystyką Energetyczną (GEST) a Rachunkami Energetycznymi (PEFA)</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Prijelazne tablice između švicarske globalne energetske statistike (GEST) i računa energije (PEFA)</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Sveitsin globaalien energiatilastojen (GEST) ja energiatilinpidon (PEFA) väliset siirtymätaulukot</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Tabelas de transição entre as estatísticas globais suíças de energia (GEST) e as contas de energia (PEFA)</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Üleminekutabelid Šveitsi ülemaailmse energiastatistika (GEST) ja energiakontode (PEFA) vahel</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Преходни таблици между Швейцарската глобална енергийна статистика (GEST) и енергийните сметки (PEFA)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Perėjimo tarp Šveicarijos pasaulinės energetikos statistikos (GEST) ir Energijos sąskaitų (PEFA) lentelės</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Πίνακες μετάβασης μεταξύ των ελβετικών παγκόσμιων στατιστικών ενέργειας (GEST) και των λογαριασμών ενέργειας (PEFA)</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Durchgangstabellen zwischen der Schweizer Gesamtenergiestatistik (GEST) und den Energiekonten (PEFA)</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Táblaí trasdula idir Staidreamh Domhanda Fuinnimh na hEilvéise (GEST) agus Cuntais Fuinnimh (PEFA)</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Transition tables between the Swiss Global Energy Statistics (GEST) and the Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Tabulky přechodu mezi švýcarskými globálními energetickými statistikami (GEST) a energetickými účty (PEFA)</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Таблиця переходу між швейцарською глобальною енергетичною статистикою (GEST) і рахунками енергії (PEFA)</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Tabele de tranziție între statisticile elvețiene privind energia (GEST) și conturile energetice (PEFA)</dct:title>
+            <dct:title xml:lang="fr">Tableaux de passage entre la statistique globale suisse de l'énergie (GEST) et les comptes de l'énergie (PEFA)</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Tabelli ta’ tranżizzjoni bejn l-Istatistika Żvizzera dwar l-Enerġija Globali (GEST) u l-Kontijiet tal-Enerġija (PEFA)</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Tabelle di transizione tra la statistica globale svizzera dell'energia (GEST) e i conti energetici (PEFA)</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Overgangstabeller mellem den schweiziske globale energistatistik (GEST) og Energiregnskabet (PEFA)</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A svájci globális energiastatisztika (GEST) és az energiaszámlák (PEFA) közötti átmeneti táblázatok</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Tablas de transición entre las Estadísticas Mundiales de Energía de Suiza (GEST) y las Cuentas de Energía (PEFA)</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Övergångstabeller mellan den schweiziska globala energistatistiken (GEST) och energiräkenskaperna (PEFA)</dct:title>
+            <dct:identifier>18845915-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Tabele za prehod med švicarsko globalno statistiko energetike (GEST) in energetskimi računi (PEFA)</dct:title>
+            <dct:language>fr</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">umweltgesamtrechnung---energie</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Tabele privind pozițiile de echilibrare între statisticile elvețiene privind energia totală (GEST) și conturile privind fluxul fizic de energie (PEFA)</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-09-30T00:00:00</dct:issued>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Tabellen over balanceringsposities tussen de Zwitserse Total Energy Statistics (GEST) en de fysieke energiestroomrekeningen (PEFA)</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Tabeller over balanceringspositioner mellem Schweiz' samlede energistatistik (GEST) og de fysiske energistrømsregnskaber (PEFA)</dct:title>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Taulukot Sveitsin kokonaisenergiatilastojen (GEST) ja fyysisten energiavirtatilien (PEFA) välisistä tasapainopositioista</dct:title>
+        <dct:language>en</dct:language>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Quadros sobre as posições de equilíbrio entre as estatísticas suíças de energia total (GEST) e as contas de fluxo de energia física (PEFA)</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Tabele dotyczące pozycji bilansujących między szwajcarską statystyką całkowitej energii (GEST) a rachunkami fizycznych przepływów energii (PEFA)</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Таблици за балансиращите позиции между общата енергийна статистика на Швейцария (GEST) и сметките за физическите енергийни потоци (PEFA)</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Таблиці балансування позицій між Швейцарською Загальною енергетичною статистикою (GEST) та рахунками фізичного потоку енергії (PEFA)</dct:title>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b6da9813-5119-42bb-abb7-9567fb8bfebf">
+            <dct:title xml:lang="lv-t-en-t0-mtec">Tabulas par balansposteņiem starp Šveices kopējo enerģētikas statistiku (GEST) un enerģijas plūsmas kontiem (PEFA)</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845930/master"/>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Taulukot Sveitsin kokonaisenergiatilastojen (GEST) ja energiavirtatilien (PEFA) välisen tasapainoerän välillä</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Tabellen zu den Bilanzposten zwischen der Schweizer Gesamtenergiestatistik (GEST) und den Energieflussrechnungen (PEFA)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dct:identifier>18845930-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Таблиці балансування між швейцарською загальною енергетичною статистикою (GEST) та рахунками потоку енергії (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Tabellen over de balanceringsposten tussen de Zwitserse totale energiestatistieken (GEST) en de energiestroomrekeningen (PEFA)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Tabele o izravnalnih postavkah med švicarsko skupno statistiko energetike (GEST) in računi pretoka energije (PEFA)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Таблици за балансиращите позиции между общата енергийна статистика на Швейцария (GEST) и сметките за енергийните потоци (PEFA)</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="da-t-en-t0-mtec">Tabeller over balanceposter mellem den schweiziske samlede energistatistik (GEST) og energistrømsregnskabet (PEFA)</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Quadros sobre os elementos de equilíbrio entre as estatísticas suíças da energia total (GEST) e as contas de fluxo de energia (PEFA)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Tabeller över balansposter mellan den schweiziska totalenergistatistiken (GEST) och energiflödesräkenskaperna (PEFA)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845930/master"/>
+            <dct:title xml:lang="es-t-en-t0-mtec">Tablas sobre las partidas de balance entre las estadísticas suizas de energía total (GEST) y las cuentas de flujo de energía (PEFA)</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Tabulky vyrovnávacích položek mezi švýcarskými účty celkové energetické statistiky (GEST) a účty energetických toků (PEFA)</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Tabelle sulle voci di bilanciamento tra le statistiche energetiche totali svizzere (GEST) e i conti dei flussi energetici (PEFA)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A svájci teljes energiastatisztika (GEST) és az energiaáramlási számlák (PEFA) közötti egyenlegező tételekre vonatkozó táblázatok</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Tableaux des postes d’équilibrage entre les statistiques suisses de l’énergie totale (GEST) et les comptes des flux d’énergie (PEFA)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Šveicarijos bendros energetikos statistikos (GEST) ir energijos srautų sąskaitų (PEFA) balansavimo straipsnių lentelės</dct:title>
+            <dct:title xml:lang="en">Tables on the balancing items between the Swiss total energy statistics (GEST) and the energy flow accounts (PEFA)</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Tabuľky o bilančných položkách medzi švajčiarskou celkovou energetickou štatistikou (GEST) a účtami tokov energie (PEFA)</dct:title>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="el-t-en-t0-mtec">Πίνακες σχετικά με τα εξισωτικά μεγέθη μεταξύ των ελβετικών συνολικών στατιστικών ενέργειας (GEST) και των λογαριασμών ροής ενέργειας (PEFA)</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Tablice za izravnavajuće stavke između švicarske ukupne energetske statistike (GEST) i računa energetskog toka (PEFA)</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Tabelli dwar il-partiti saldatorji bejn l-istatistika Żvizzera dwar l-enerġija totali (GEST) u l-kontijiet tal-fluss tal-enerġija (PEFA)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Táblaí maidir leis na hítimí comhardaithe idir staidreamh iomlán na hEilvéise maidir le fuinneamh (GEST) agus na cuntais ar shreabhadh fuinnimh (PEFA)</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="et-t-en-t0-mtec">Tabelid tasakaalustavate kirjete kohta Šveitsi energia kogustatistika (GEST) ja energiavoogude kontode (PEFA) vahel</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Tabele dotyczące pozycji bilansujących między szwajcarską statystyką całkowitej energii (GEST) a rachunkami przepływów energii (PEFA)</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Tabele privind soldurile contabile dintre statisticile elvețiene privind energia totală (GEST) și conturile privind fluxul de energie (PEFA)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Tabelli dwar il-pożizzjonijiet ta’ bbilanċjar bejn l-Istatistika Żvizzera tal-Enerġija Totali (GEST) u l-kontijiet tal-fluss fiżiku tal-enerġija (PEFA)</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Tabeller över balanspositioner mellan den schweiziska totalenergistatistiken (GEST) och räkenskaperna för fysiskt energiflöde (PEFA)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/28ccce83-9ffb-493d-9739-d5b68e593501">
+            <dct:title xml:lang="el-t-fr-t0-mtec">Πίνακες μετάβασης μεταξύ των ελβετικών παγκόσμιων στατιστικών ενέργειας (GEST) και των λογαριασμών ενέργειας (PEFA)</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Prechodné tabuľky medzi švajčiarskou globálnou energetickou štatistikou (GEST) a energetickými účtami (PEFA)</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Tabelas de transição entre as estatísticas globais suíças de energia (GEST) e as contas de energia (PEFA)</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Perėjimo tarp Šveicarijos pasaulinės energetikos statistikos (GEST) ir Energijos sąskaitų (PEFA) lentelės</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845915/master"/>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Tablas de transición entre las Estadísticas Mundiales de Energía de Suiza (GEST) y las Cuentas de Energía (PEFA)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-22T00:00:00</dct:modified>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Tabele de tranziție între statisticile elvețiene privind energia (GEST) și conturile energetice (PEFA)</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A svájci globális energiastatisztika (GEST) és az energiaszámlák (PEFA) közötti átmeneti táblázatok</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Tabelle di transizione tra la statistica globale svizzera dell'energia (GEST) e i conti energetici (PEFA)</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pārejas tabulas starp Šveices globālo enerģētikas statistiku (GEST) un enerģētikas kontiem (PEFA)</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Üleminekutabelid Šveitsi ülemaailmse energiastatistika (GEST) ja energiakontode (PEFA) vahel</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Táblaí trasdula idir Staidreamh Domhanda Fuinnimh na hEilvéise (GEST) agus Cuntais Fuinnimh (PEFA)</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Sveitsin globaalien energiatilastojen (GEST) ja energiatilinpidon (PEFA) väliset siirtymätaulukot</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Övergångstabeller mellan den schweiziska globala energistatistiken (GEST) och energiräkenskaperna (PEFA)</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Преходни таблици между Швейцарската глобална енергийна статистика (GEST) и енергийните сметки (PEFA)</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Prijelazne tablice između švicarske globalne energetske statistike (GEST) i računa energije (PEFA)</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Tabelli ta’ tranżizzjoni bejn l-Istatistika Żvizzera dwar l-Enerġija Globali (GEST) u l-Kontijiet tal-Enerġija (PEFA)</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Tabulky přechodu mezi švýcarskými globálními energetickými statistikami (GEST) a energetickými účty (PEFA)</dct:title>
+            <dct:identifier>18845915-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Tabele przejściowe między Szwajcarską Globalną Statystyką Energetyczną (GEST) a Rachunkami Energetycznymi (PEFA)</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Transition tables between the Swiss Global Energy Statistics (GEST) and the Energy Accounts (PEFA)</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Tabele za prehod med švicarsko globalno statistiko energetike (GEST) in energetskimi računi (PEFA)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Overgangstabeller mellem den schweiziske globale energistatistik (GEST) og Energiregnskabet (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Overgangstabellen tussen de Zwitserse mondiale energiestatistieken (GEST) en de energierekeningen (PEFA)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18845915/master"/>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Durchgangstabellen zwischen der Schweizer Gesamtenergiestatistik (GEST) und den Energiekonten (PEFA)</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Таблиця переходу між швейцарською глобальною енергетичною статистикою (GEST) і рахунками енергії (PEFA)</dct:title>
+            <dct:title xml:lang="fr">Tableaux de passage entre la statistique globale suisse de l'énergie (GEST) et les comptes de l'énergie (PEFA)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">la-contabilita-ambientale---energia</dcat:keyword>
+        <dcat:keyword xml:lang="en">territory-and-environment</dcat:keyword>
+        <dcat:keyword xml:lang="en">switzerland-overall-energy-statistics</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="it">statistica-svizzera-globale-dellenergia</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:06:27.214565</dct:modified>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="de">Tabellen zu den Ausgleichspositionen zwischen der Schweizerischen Gesamtenergiestatistik (GEST) und den physischen Energieflusskonten (PEFA)</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Tablice o uravnoteženju pozicija između švicarske ukupne energetske statistike (GEST) i računa fizičkog toka energije (PEFA)</dct:title>
+        <dct:title xml:lang="it">Tabelle sulle posizioni di bilanciamento tra la statistica globale svizzera dell'energia (GEST) e i conti dell'energia (PEFA)</dct:title>
+        <dcat:keyword xml:lang="fr">espace-et-environnement</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/abfd9bda-e4b9-499d-8327-68bef084fb90">
+            <dct:title xml:lang="bg-t-de-t0-mtec">Таблици за балансиращите позиции между общата енергийна статистика на Швейцария (GEST) и сметките за физическите енергийни потоци (PEFA)</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tabelid tasakaalustavate positsioonide kohta Šveitsi energia kogustatistika (GEST) ja füüsilise energiavoo kontode (PEFA) vahel</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Táblázatok a svájci teljes energiastatisztika (GEST) és a fizikai energiaáramlási számlák (PEFA) közötti kiegyenlítő pozíciókról</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Tabele o izravnalnih stanjih med švicarsko skupno statistiko energetike (GEST) in računi fizičnega pretoka energije (PEFA)</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Tabele privind pozițiile de echilibrare între statisticile elvețiene privind energia totală (GEST) și conturile privind fluxul fizic de energie (PEFA)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Tabeller över balanspositioner mellan den schweiziska totalenergistatistiken (GEST) och räkenskaperna för fysiskt energiflöde (PEFA)</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Tableaux sur les positions d’équilibrage entre les statistiques suisses globales de l’énergie (GEST) et les comptes physiques des flux d’énergie (PEFA)</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Tabelle sulle posizioni di bilanciamento tra le statistiche energetiche totali svizzere (GEST) e i conti fisici dei flussi energetici (PEFA)</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πίνακες σχετικά με τις θέσεις εξισορρόπησης μεταξύ των ελβετικών συνολικών στατιστικών ενέργειας (GEST) και των λογαριασμών φυσικής ροής ενέργειας (PEFA)</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Tabuľky o vyrovnávacích pozíciách medzi švajčiarskou celkovou energetickou štatistikou (GEST) a účtami fyzických tokov energie (PEFA)</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Tablas sobre posiciones de balance entre las estadísticas suizas de energía total (GEST) y las cuentas de flujo de energía física (PEFA)</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tabelli dwar il-pożizzjonijiet ta’ bbilanċjar bejn l-Istatistika Żvizzera tal-Enerġija Totali (GEST) u l-kontijiet tal-fluss fiżiku tal-enerġija (PEFA)</dct:title>
+            <dct:identifier>18845907-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-02.04.12.04"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Quadros sobre as posições de equilíbrio entre as estatísticas suíças de energia total (GEST) e as contas de fluxo de energia física (PEFA)</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Tabele dotyczące pozycji bilansujących między szwajcarską statystyką całkowitej energii (GEST) a rachunkami fizycznych przepływów energii (PEFA)</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Tablice o uravnoteženju pozicija između švicarske ukupne energetske statistike (GEST) i računa fizičkog toka energije (PEFA)</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Tabellen over balanceringsposities tussen de Zwitserse Total Energy Statistics (GEST) en de fysieke energiestroomrekeningen (PEFA)</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šveicarijos bendros energetikos statistikos (GEST) ir fizinių energijos srautų sąskaitų (PEFA) balansavimo pozicijų lentelės</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Таблиці балансування позицій між Швейцарською Загальною енергетичною статистикою (GEST) та рахунками фізичного потоку енергії (PEFA)</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Tabulas par balansēšanas pozīcijām starp Šveices kopējās enerģijas statistiku (GEST) un fiziskās enerģijas plūsmas kontiem (PEFA)</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Tables on balancing positions between the Swiss Total Energy Statistics (GEST) and the physical energy flow accounts (PEFA)</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Tabulky vyrovnávacích pozic mezi švýcarskými celkovými energetickými statistikami (GEST) a účty fyzických toků energie (PEFA)</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Táblaí maidir le suíomhanna comhardaithe idir Staidreamh Iomlán Fuinnimh na hEilvéise (GEST) agus na cuntais ar shreabhadh fisiciúil fuinnimh (PEFA)</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Tabeller over balanceringspositioner mellem Schweiz' samlede energistatistik (GEST) og de fysiske energistrømsregnskaber (PEFA)</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-30T00:00:00</dct:issued>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Taulukot Sveitsin kokonaisenergiatilastojen (GEST) ja fyysisten energiavirtatilien (PEFA) välisistä tasapainopositioista</dct:title>
+            <dct:title xml:lang="de">Tabellen zu den Ausgleichspositionen zwischen der Schweizerischen Gesamtenergiestatistik (GEST) und den physischen Energieflusskonten (PEFA)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="en">environmental-balance---energy</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-globale-suisse-de-lenergie</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:29Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:20Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:20Z</dct:issued>
+    <dct:identifier>18845901@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:31:39Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18845901-bundesamt-fur-statistik-bfs"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

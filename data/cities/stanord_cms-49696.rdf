@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:schema="http://schema.org/"
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-49696">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:17Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-49696">
+        <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecības darbība Hamburgā 4. gadā. 2004. gada ceturksnis Būvniecības darbība Hamburgā 4. gadā.
+2004. gada ceturksnis</dct:title>
+        <adms:identifier>F II 1, 2 - vj 4/04 H</adms:identifier>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Будівельна діяльність в Гамбурзі 4. Квартал 2004 року Будівельна діяльність в Гамбурзі 4.
+Квартал 2004 року</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Construction activity in Hamburg in 4. Quarter of 2004</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Działalność budowlana w Hamburgu w 4. Kwartał 2004 r. Działalność budowlana w Hamburgu w 4.
+Kwartał 2004 r.</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/083297b2-6538-428d-b4b4-67a1cdc2a130">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title>Hochbautätigkeit in Hamburg im 4. Vierteljahr 2004</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >79102</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_2_vj_H/F_II_1_2_vj044_H.xls"/>
+            <dct:format>XLS</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >0290442f25d3f41b608c5d6244f02d12e736a1e5775ea9b59bbc20c825564df9</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/858b9f3a-5ff1-49c9-8082-5134cd1d4ab1/resource/d0dcf089-0a43-43af-931a-6fbbd6988de5</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T11:32:21.179046</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-de-t0-mtec">Κατασκευαστική δραστηριότητα στο Αμβούργο 4. Τρίμηνο του 2004</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dct:title xml:lang="it-t-de-t0-mtec">Attività di costruzione ad Amburgo in 4.
+Trimestre 2004</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Строителна дейност в Хамбург в 4. Тримесечие на 2004 г.</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Gradbena dejavnost v Hamburgu v 4. Četrtina leta 2004 Gradbena dejavnost v Hamburgu v 4.
+Četrtina leta 2004</dct:title>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bouwactiviteit in Hamburg in 4. Kwartaal 2004 Bouwactiviteit in Hamburg in 4.
+Kwartaal 2004</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Activités de construction de bâtiments à Hambourg dans le 4ème Trimestre 2004</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/97040cc6-77e4-43de-88a1-c19fa442ea7f">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >70690fdb87453cad0510561f2f3d1cf047bf7fda05c9e93bd64302b1896a733e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T11:32:21.179046</dct:modified>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS49696/F_II_1_2_vj044_H.zip"/>
+            <dct:title>Hochbautätigkeit in Hamburg im 4. Vierteljahr 2004 (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/858b9f3a-5ff1-49c9-8082-5134cd1d4ab1/resource/7492b9ba-f34f-40ff-aac1-307f394b5c26</dct:identifier>
+            <dct:format>ZIP</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >92062</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dct:identifier>StaNord_CMS:49696</dct:identifier>
+        <dct:title>Hochbautätigkeit in Hamburg im 4. Vierteljahr 2004</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Rakennustoimintaa Hampurissa 4. Vuoden 2004 neljännes</dct:title>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="es-t-de-t0-mtec">Actividad de construcción en Hamburgo en 4. Trimestre de 2004</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Stavebná činnosť v Hamburgu 4. Štvrťrok 2004 Stavebná činnosť v Hamburgu 4.
+Štvrťrok 2004</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska djelatnost u Hamburgu u 4. Kvartal 2004. godine</dct:title>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/QUARTERLY"/>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Építési tevékenység Hamburgban 4. 2004 negyedéve</dct:title>
+        <dcat:keyword>hochbautätigkeit-in-hamburg</dcat:keyword>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T11:32:21.179046</dct:modified>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2004-10-01T00:00:00</schema:startDate>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2004-12-31T00:00:00</schema:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og anlægsaktivitet i Hamborg i 4. Kvartal 2004</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Atividade de construção em Hamburgo em 4. Trimestre de 2004 Atividade de construção em Hamburgo em 4.
+Trimestre de 2004</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stavební činnost v Hamburku v 4. Čtvrtletí roku 2004</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statybos darbai Hamburge 4. 2004 m. ketvirtis</dct:title>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/06d24148-80da-448c-8ae7-02b4a3b736b7">
+            <dct:title>Hochbautätigkeit in Hamburg im 4. Vierteljahr 2004</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >75074</dcat:byteSize>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >83e2489a8f04ca591e0bb809dadbe50e4661fb5e20de2d3a2dc86eb363733ef7</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/858b9f3a-5ff1-49c9-8082-5134cd1d4ab1/resource/b2ccc499-91e3-42a1-a964-f32e6b6f81be</dct:identifier>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>PDF</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T11:32:21.179046</dct:modified>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_2_vj_H/F_II_1_2_vj044_H.pdf"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Attività ta’ kostruzzjoni f’Hamburg f’4. Tliet xhur ta’ l-2004 Attività ta’ kostruzzjoni f’Hamburg f’4.
+Tliet xhur ta’ l-2004</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Byggverksamhet i Hamburg i 4. Kvartal 2004 Byggverksamhet i Hamburg i 4.
+Kvartal 2004</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ehitustegevus Hamburgis 4. 2004. aasta kvartal</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Gníomhaíocht tógála in Hamburg in 4. Ráithe 2004</dct:title>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/hochbautaetigkeit-in-hamburg-im-4-vierteljahr-2004"/>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dcat:keyword>baugenehmigungen-und-bautätigkeit</dcat:keyword>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Activitatea de construcții în Hamburg în 4. Trimestrul 2004 Activitatea de construcții în Hamburg în 4.
+Trimestrul 2004</dct:title>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>8ab3677c6ffab069108a5fa6b356dc0c</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-49696"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-19T23:49:59Z</dct:issued>
+    <dct:identifier>StaNord_CMS:49696</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:17Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

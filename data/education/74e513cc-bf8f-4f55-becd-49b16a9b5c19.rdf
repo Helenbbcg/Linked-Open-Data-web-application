@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/74e513cc-bf8f-4f55-becd-49b16a9b5c19">
+    <dct:identifier>74e513cc-bf8f-4f55-becd-49b16a9b5c19</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:52Z</dct:modified>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-15T20:25:17Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:27:53Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/74e513cc-bf8f-4f55-becd-49b16a9b5c19"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/74e513cc-bf8f-4f55-becd-49b16a9b5c19">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cf2c11b4-c14d-4ba0-9117-63138cd6ac7d">
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/maps/RosCoCo::roscommon-graveyards-1"/>
+            <dct:title>ArcGIS Hub Dataset</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/74e513cc-bf8f-4f55-becd-49b16a9b5c19/resource/764d29fb-bb53-48b5-b5a9-39ceff726727</dct:identifier>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:format>HTML</dct:format>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-ga-t0-mtec">Cimitire Roscommon</dct:title>
+        <dct:title xml:lang="fi-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="nl-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="bg-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="mt-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="hr-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title>Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="el-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="en-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="sl-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="sv-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="et-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="cs-t-ga-t0-mtec">Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="uk-t-ga-t0-mtec">Роскоммонський цвинтар</dct:title>
+        <dct:title xml:lang="fr-t-ga-t0-mtec">Roscommon Cimetières</dct:title>
+        <dct:title xml:lang="lt-t-ga-t0-mtec">Roscommon kapinės</dct:title>
+        <dct:identifier>74e513cc-bf8f-4f55-becd-49b16a9b5c19</dct:identifier>
+        <dct:language>en</dct:language>
+        <dct:description>&lt;p style='margin-bottom:0.0001pt;'&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77); background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;The County Roscommon Graveyard Survey was carried out in 2005 on behalf of County Roscommon Heritage Forum,&lt;/span&gt;&lt;span style='font-size:12pt;'&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;The aim of the survey was to identify, &lt;span style='border-width:initial !important; border-color:initial !important; display:inline-block !important; text-transform:uppercase !important; background-image:initial !important; background-attachment:initial !important; background-size:initial !important; background-origin:initial !important; background-clip:initial !important; background-position:initial !important; background-repeat:initial !important;'&gt;MAP&lt;/span&gt; and create a database of basic information on every graveyard or burial ground in the county – including those no longer or not currently in use and those not in the care of Roscommon County Council. &lt;/span&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;&lt;b&gt;Dataset Publisher:&lt;/b&gt;&lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt; &lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;Roscommon County Council, &lt;/span&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;&lt;b&gt;Dataset language:&lt;/b&gt;&lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt; English&lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;&lt;span style='border-width:initial !important; border-color:initial !important; display:inline-block !important; text-transform:uppercase !important; background-image:initial !important; background-attachment:initial !important; background-size:initial !important; background-origin:initial !important; background-clip:initial !important; background-position:initial !important; background-repeat:initial !important;'&gt;, &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;&lt;b&gt;Spatial Projection:&lt;/b&gt;&lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt; &lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;Web Mercator, &lt;/span&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;&lt;b&gt;&lt;span style='border-width:initial !important; border-color:initial !important; display:inline-block !important; text-transform:uppercase !important; background-image:initial !important; background-attachment:initial !important; background-size:initial !important; background-origin:initial !important; background-clip:initial !important; background-position:initial !important; background-repeat:initial !important;'&gt;DATE&lt;/span&gt; of Creation&lt;/b&gt;:&lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt; 2005, &lt;/span&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt;&lt;b&gt;Update Frequency:&lt;/b&gt;&lt;/span&gt;&lt;span style='font-size:10.5pt; color:rgb(77, 77, 77);'&gt; ONGOING&lt;span style='text-transform:uppercase;'&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style='margin-bottom:0.0001pt; background-image:initial; background-position:initial; background-size:initial; background-repeat:initial; background-attachment:initial; background-origin:initial; background-clip:initial;'&gt;&lt;span style='font-family:Verdana, sans-serif; font-size:12px;'&gt;Roscommon County Council provides this information with the understanding that it is not guaranteed to be accurate, correct or complete. Roscommon County Council accepts no liability for any loss or damage suffered by those using this data for any purpose.&lt;/span&gt;&lt;/p&gt;</dct:description>
+        <dcat:keyword>Roscommon County Council</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6bae7bcf-e85e-4588-9205-9e1bb2bcc274">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:format>ArcGIS GeoServices REST API</dct:format>
+            <dcat:accessURL rdf:resource="https://services1.arcgis.com/0g8o874l5un2eDgz/arcgis/rest/services/Graveyard_Survey_View/FeatureServer/0"/>
+            <dcat:mediaType>application/json</dcat:mediaType>
+            <dct:title>ArcGIS GeoService</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/74e513cc-bf8f-4f55-becd-49b16a9b5c19/resource/200bb99d-ef55-45cc-957b-5ade0f2645ec</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://data-roscoco.opendata.arcgis.com/maps/RosCoCo::roscommon-graveyards-1"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/roscommon-county-council">
+            <foaf:name>Roscommon County Council</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="pt-t-ga-t0-mtec">Cemitérios Roscommon</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="it-t-ga-t0-mtec">Cimiteri di Roscommon</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-23T14:50:26</dct:modified>
+        <dcat:keyword>dgiarts</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/633f95fa-1b0f-4abc-827a-00de074be143">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/74e513cc-bf8f-4f55-becd-49b16a9b5c19/resource/bbfaef73-fc49-4d30-9aec-1b4f957f2d1e</dct:identifier>
+            <dct:format>KML</dct:format>
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::roscommon-graveyards-1.kml?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:title>KML</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7be237fb-1d0e-49b3-9adc-15eb695ff523">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:identifier>https://data.gov.ie/dataset/74e513cc-bf8f-4f55-becd-49b16a9b5c19/resource/aab57b1b-5d1d-4b6e-bd58-464292339697</dct:identifier>
+            <dct:format>ZIP</dct:format>
+            <dcat:mediaType>application/zip</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::roscommon-graveyards-1.zip?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:title>Shapefile</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-ga-t0-mtec">Hoteller i nærheden af Roscommon Graveyards</dct:title>
+        <dct:title xml:lang="hu-t-ga-t0-mtec">Roscommon Temetők</dct:title>
+        <dcat:keyword>Graveyard</dcat:keyword>
+        <dcat:keyword>Heritage</dcat:keyword>
+        <dct:title xml:lang="lv-t-ga-t0-mtec">Roscommon Kapu pagalmi</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>RoscomCoCoGIS</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:gisoff@roscommoncoco.ie"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="sk-t-ga-t0-mtec">Roscommon Graveyards – reštaurácie v okolí</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-03-23T00:00:00</dct:issued>
+        <dct:title xml:lang="es-t-ga-t0-mtec">Cementerios de Roscommon</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cb3ef41f-8c15-43c6-8ca2-30b42f89c69e">
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:format>CSV</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/74e513cc-bf8f-4f55-becd-49b16a9b5c19/resource/eb525b26-cc6a-4435-a5c8-da30ca012541</dct:identifier>
+            <dct:title>CSV</dct:title>
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::roscommon-graveyards-1.csv?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Survey</dcat:keyword>
+        <dct:title xml:lang="de-t-ga-t0-mtec">Roscommon Friedhof</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bc54d844-5993-4f0a-b908-a8b82a8b40a3">
+            <dct:title>GeoJSON</dct:title>
+            <dcat:accessURL rdf:resource="https://data-roscoco.opendata.arcgis.com/datasets/RosCoCo::roscommon-graveyards-1.geojson?outSR=%7B%22latestWkid%22%3A2157%2C%22wkid%22%3A2157%7D"/>
+            <dct:format>GeoJSON</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/74e513cc-bf8f-4f55-becd-49b16a9b5c19/resource/9e8fd7bc-d211-4e49-b072-e5b48c5b9aef</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>application/vnd.geo+json</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="https://data.gov.ie/Arts"/>
+        <dcat:keyword>Roscommon</dcat:keyword>
+        <dcat:keyword>OpenSpatialIE</dcat:keyword>
+        <dct:title xml:lang="pl-t-ga-t0-mtec">Cmentarz Roscommon</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>d09372d1d1f353dbd9dae54e1e43ca4a</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

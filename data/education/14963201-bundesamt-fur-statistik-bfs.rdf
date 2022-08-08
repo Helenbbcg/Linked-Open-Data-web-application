@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14963201-bundesamt-fur-statistik-bfs">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:07Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14963201-bundesamt-fur-statistik-bfs"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14963201-bundesamt-fur-statistik-bfs">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d37d6f45-b206-4d68-bcea-b505e194c802">
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:identifier>link-14963211-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1509090000_114/px-x-1509090000_114.px"/>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e6025a53-d659-4ed9-8955-7c683a721273">
+            <dct:title xml:lang="en-t-fr-t0-mtec">2020-2029 High School Scenarios — Expected evolution of the number of Swiss university students and first titles by scenario, university type, level, certificate of access and gender</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">2020–2029 High School Scenarios – Förväntad utveckling av antalet schweiziska universitetsstuderande och första titlar efter scenario, universitetstyp, nivå, behörighetsbevis och kön</dct:title>
+            <dct:title xml:lang="fr">Scénarios 2020-2029 pour les hautes écoles - Evolution attendue du nombre d'étudiants et de premiers titres des hautes écoles suisses selon le scénario, le type de haute école, le niveau, le certificat d'accès et le sexe</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">2020-2029 Σενάρια Γυμνασίου — Αναμενόμενη εξέλιξη του αριθμού των Ελβετών φοιτητών και των πρώτων τίτλων ανά σενάριο, τύπο πανεπιστημίου, επίπεδο, πιστοποιητικό πρόσβασης και φύλο</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1509090000_114/px-x-1509090000_114/px-x-1509090000_114.px"/>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Scénáře pro střední školy 2020–2029 – očekávaný vývoj počtu švýcarských vysokoškolských studentů a první tituly podle scénáře, typu univerzity, úrovně, osvědčení o přístupu a pohlaví</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">2020–2029 Keskkooli stsenaariumid – Šveitsi üliõpilaste arvu ja esimeste pealkirjade oodatav areng stsenaariumi, ülikooli tüübi, taseme, juurdepääsutõendi ja soo kaupa</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">2020-2029 Cásanna Ard-Scoile — Forbairt ionchais ar líon na mac léinn ollscoile san Eilvéis agus na chéad teidil de réir cáis, cineál ollscoile, leibhéal, teastas rochtana agus inscne</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">2020—2029 Сценарии на гимназията — Очаквана еволюция на броя на швейцарските студенти и първите титли по сценарий, тип университет, ниво, сертификат за достъп и пол</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Scenariji srednje šole za obdobje 2020–2029 – Pričakovani razvoj števila švicarskih univerzitetnih študentov in prvih nazivov po scenariju, vrsti univerze, stopnji, potrdilu o dostopu in spolu</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">2020–2029 Augstskolu scenāriji — gaidāmā Šveices augstskolu studentu skaita un pirmo nosaukumu attīstība pēc scenārija, augstskolas veida, līmeņa, piekļuves sertifikāta un dzimuma</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Scenariusze szkół średnich 2020-2029 – Oczekiwana ewolucja liczby szwajcarskich studentów uniwersyteckich i pierwszych tytułów według scenariusza, typu uniwersytetu, poziomu, świadectwa dostępu i płci</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">2020-2029 Escenarios de secundaria — Evolución esperada del número de estudiantes universitarios suizos y primeros títulos por escenario, tipo de universidad, nivel, certificado de acceso y género</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">2020-2029 High School Scenarios — Forventet udvikling af antallet af schweiziske universitetsstuderende og første titler efter scenarie, universitetstype, niveau, adgangsbevis og køn</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Szenarien 2020-2029 für Hochschulen – erwartete Entwicklung der Anzahl der Studierenden und ersten Titel der Schweizer Hochschulen nach Szenario, Art der Hochschule, Niveau, Zugangsbescheinigung und Geschlecht</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Scenariji srednjih škola za razdoblje 2020. – 2029. Očekivana promjena broja švicarskih studenata i prvih naslova prema scenariju, vrsti sveučilišta, razini, potvrdi o pristupu i rodu</dct:title>
+            <dct:identifier>link-14963213-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">2020-2029 Scenarii liceale – Evoluția așteptată a numărului de studenți elvețieni și primele titluri pe scenariu, tip universitar, nivel, certificat de acces și gen</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">2020 – 2029 Vysokoškolské scenáre – Očakávaný vývoj počtu švajčiarskych vysokoškolských študentov a prvých titulov podľa scenára, typu univerzity, úrovne, osvedčenia o prístupe a pohlavia</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">2020-2029 Сценарії середньої школи - Очікувана еволюція кількості студентів швейцарських університетів та перших титулів за сценарієм, тип університету, рівень, сертифікат про доступ та стать</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">2020-2029 Cenários do Ensino Médio — Evolução esperada do número de estudantes universitários suíços e primeiros títulos por cenário, tipo de universidade, nível, certificado de acesso e gênero</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">2020-2029 Scenari di scuola superiore — Evoluzione prevista del numero di studenti universitari svizzeri e dei primi titoli per scenario, tipo di università, livello, certificato di accesso e genere</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">2020–2029 m. vidurinės mokyklos scenarijai. Numatoma Šveicarijos universitetų studentų skaičiaus ir pirmųjų titulų raida pagal scenarijų, universiteto tipą, lygį, prieigos pažymėjimą ir lytį</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">2020–2029 Xenarji tal-Iskola Għolja — L-evoluzzjoni mistennija tal-għadd ta’ studenti universitarji Żvizzeri u l-ewwel titoli skont ix-xenarju, it-tip ta’ università, il-livell, iċ-ċertifikat ta’ aċċess u l-ġeneru</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">2020-2029 High School Scenarios — Verwachte evolutie van het aantal Zwitserse universitaire studenten en eerste titels per scenario, universitair type, niveau, certificaat van toegang en geslacht</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">2020–2029 Lukioskenaariot – Sveitsin yliopisto-opiskelijoiden ja ensimmäisten nimikkeiden odotettu kehitys skenaarion, yliopiston tyypin, tason, pääsytodistuksen ja sukupuolen mukaan</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">2020–2029 Középiskolai forgatókönyvek – A svájci egyetemi hallgatók számának várható alakulása és az első címek forgatókönyv, egyetemi típus, szint, hozzáférési bizonyítvány és nem szerint</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen skenaariot 2020–2029 – Sveitsin yliopistojen opiskelijoiden ja perustutkintojen odotettu kehitys skenaarion, yliopistotyypin, tason, pääsykortin ja sukupuolen mukaan</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Scenario’s 2020-2029 voor universiteiten — Verwachte ontwikkeling van het aantal studenten en initiële kwalificaties van Zwitserse universiteiten per scenario, universitair type, niveau, toelatingskaart en geslacht</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Scenari 2020-2029 per le università — Sviluppo atteso del numero di studenti e delle qualifiche iniziali delle università svizzere per scenario, tipo di università, livello, tessera di ammissione e genere</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Stsenaariumid 2020–2029 ülikoolidele – Šveitsi ülikoolide üliõpilaste arvu ja esmase kvalifikatsiooni oodatav areng stsenaariumi, ülikooli tüübi, taseme, vastuvõtukaardi ja soo kaupa</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Xenarji 2020–2029 għall-universitajiet — Żvilupp mistenni tal-għadd ta’ studenti u kwalifiki inizjali tal-universitajiet Żvizzeri skont ix-xenarju, it-tip ta’ università, il-livell, il-karta ta’ ammissjoni u l-ġeneru</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Scenarier 2020–2029 för universitet – Förväntad utveckling av antalet studerande och grundläggande kvalifikationer för schweiziska universitet efter scenario, typ av universitet, nivå, antagningskort och kön</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Σενάρια 2020-2029 για τα πανεπιστήμια — Αναμενόμενη ανάπτυξη του αριθμού των φοιτητών και των αρχικών προσόντων των ελβετικών πανεπιστημίων ανά σενάριο, τύπο πανεπιστημίου, επίπεδο, κάρτα εισόδου και φύλο</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Scenarii 2020-2029 pentru universități – Dezvoltarea așteptată a numărului de studenți și a calificărilor inițiale ale universităților elvețiene pe scenarii, tip universitar, nivel, permis de admitere și gen</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e1bb434c-5e5d-482b-80ed-5087f95c5d16">
+            <dct:identifier>14963205-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">2020–2029 Xenarji tal-Iskola Għolja — L-evoluzzjoni mistennija tal-għadd ta’ studenti universitarji Żvizzeri u l-ewwel titoli skont ix-xenarju, it-tip ta’ università, il-livell, iċ-ċertifikat ta’ aċċess u l-ġeneru</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">2020–2029 Keskkooli stsenaariumid – Šveitsi üliõpilaste arvu ja esimeste pealkirjade oodatav areng stsenaariumi, ülikooli tüübi, taseme, juurdepääsutõendi ja soo kaupa</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">2020-2029 Cásanna Ard-Scoile — Forbairt ionchais ar líon na mac léinn ollscoile san Eilvéis agus na chéad teidil de réir cáis, cineál ollscoile, leibhéal, teastas rochtana agus inscne</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">2020—2029 Сценарии на гимназията — Очаквана еволюция на броя на швейцарските студенти и първите титли по сценарий, тип университет, ниво, сертификат за достъп и пол</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1509090000_114"/>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">2020–2029 Augstskolu scenāriji — gaidāmā Šveices augstskolu studentu skaita un pirmo nosaukumu attīstība pēc scenārija, augstskolas veida, līmeņa, piekļuves sertifikāta un dzimuma</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">2020–2029 m. vidurinės mokyklos scenarijai. Numatoma Šveicarijos universitetų studentų skaičiaus ir pirmųjų titulų raida pagal scenarijų, universiteto tipą, lygį, prieigos pažymėjimą ir lytį</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">2020–2029 High School Scenarios – Förväntad utveckling av antalet schweiziska universitetsstuderande och första titlar efter scenario, universitetstyp, nivå, behörighetsbevis och kön</dct:title>
+            <dct:title xml:lang="fr">Scénarios 2020-2029 pour les hautes écoles - Evolution attendue du nombre d'étudiants et de premiers titres des hautes écoles suisses selon le scénario, le type de haute école, le niveau, le certificat d'accès et le sexe</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">2020-2029 High School Scenarios — Expected evolution of the number of Swiss university students and first titles by scenario, university type, level, certificate of access and gender</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Scenariji srednjih škola za razdoblje 2020. – 2029. Očekivana promjena broja švicarskih studenata i prvih naslova prema scenariju, vrsti sveučilišta, razini, potvrdi o pristupu i rodu</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">2020–2029 Középiskolai forgatókönyvek – A svájci egyetemi hallgatók számának várható alakulása és az első címek forgatókönyv, egyetemi típus, szint, hozzáférési bizonyítvány és nem szerint</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Scenariusze szkół średnich 2020-2029 – Oczekiwana ewolucja liczby szwajcarskich studentów uniwersyteckich i pierwszych tytułów według scenariusza, typu uniwersytetu, poziomu, świadectwa dostępu i płci</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">2020-2029 Сценарії середньої школи - Очікувана еволюція кількості студентів швейцарських університетів та перших титулів за сценарієм, тип університету, рівень, сертифікат про доступ та стать</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">2020-2029 Escenarios de secundaria — Evolución esperada del número de estudiantes universitarios suizos y primeros títulos por escenario, tipo de universidad, nivel, certificado de acceso y género</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Scénáře pro střední školy 2020–2029 – očekávaný vývoj počtu švýcarských vysokoškolských studentů a první tituly podle scénáře, typu univerzity, úrovně, osvědčení o přístupu a pohlaví</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Szenarien 2020-2029 für Hochschulen – erwartete Entwicklung der Anzahl der Studierenden und ersten Titel der Schweizer Hochschulen nach Szenario, Art der Hochschule, Niveau, Zugangsbescheinigung und Geschlecht</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">2020-2029 High School Scenarios — Verwachte evolutie van het aantal Zwitserse universitaire studenten en eerste titels per scenario, universitair type, niveau, certificaat van toegang en geslacht</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">2020-2029 Σενάρια Γυμνασίου — Αναμενόμενη εξέλιξη του αριθμού των Ελβετών φοιτητών και των πρώτων τίτλων ανά σενάριο, τύπο πανεπιστημίου, επίπεδο, πιστοποιητικό πρόσβασης και φύλο</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">2020-2029 High School Scenarios — Forventet udvikling af antallet af schweiziske universitetsstuderende og første titler efter scenarie, universitetstype, niveau, adgangsbevis og køn</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">2020 – 2029 Vysokoškolské scenáre – Očakávaný vývoj počtu švajčiarskych vysokoškolských študentov a prvých titulov podľa scenára, typu univerzity, úrovne, osvedčenia o prístupe a pohlavia</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">2020-2029 Scenarii liceale – Evoluția așteptată a numărului de studenți elvețieni și primele titluri pe scenariu, tip universitar, nivel, certificat de acces și gen</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">2020–2029 Lukioskenaariot – Sveitsin yliopisto-opiskelijoiden ja ensimmäisten nimikkeiden odotettu kehitys skenaarion, yliopiston tyypin, tason, pääsytodistuksen ja sukupuolen mukaan</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Scenariji srednje šole za obdobje 2020–2029 – Pričakovani razvoj števila švicarskih univerzitetnih študentov in prvih nazivov po scenariju, vrsti univerze, stopnji, potrdilu o dostopu in spolu</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">2020-2029 Cenários do Ensino Médio — Evolução esperada do número de estudantes universitários suíços e primeiros títulos por cenário, tipo de universidade, nível, certificado de acesso e gênero</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">2020-2029 Scenari di scuola superiore — Evoluzione prevista del numero di studenti universitari svizzeri e dei primi titoli per scenario, tipo di università, livello, certificato di accesso e genere</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="en">education-prospects</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">2020–2029 m. universitetų scenarijai. Numatoma Šveicarijos universitetų studentų skaičiaus ir pradinės kvalifikacijos raida pagal scenarijų, universiteto tipą, lygį, priėmimo kortelę ir lytį</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Scenariji 2020–2029 za univerze – Pričakovan razvoj števila študentov in začetnih kvalifikacij švicarskih univerz po scenariju, vrsti univerze, stopnji, vstopni izkaznici in spolu</dct:title>
+        <dct:title xml:lang="de">Szenarien 2020-2029 für die Hochschulen - Erwartete Entwicklung der Zahl der Studierenden und der Erstabschlüsse der schweizerischen Hochschulen nach Szenario, Hochschultyp, Niveau, Zulassungsausweis und Geschlecht</dct:title>
+        <dct:identifier>14963201@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Cenários 2020-2029 para universidades — Desenvolvimento esperado do número de estudantes e qualificações iniciais das universidades suíças por cenário, tipo de universidade, nível, cartão de admissão e gênero</dct:title>
+        <dcat:keyword xml:lang="fr">scenarios</dcat:keyword>
+        <dcat:keyword xml:lang="en">scenarios</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildungsperspektiven</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Сценарии 2020—2029 г. за университетите — Очаквано развитие на броя на студентите и първоначалните квалификации на швейцарските университети по сценарий, тип университет, ниво, приемна карта и пол</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Forgatókönyvek a 2020–2029-es időszakra az egyetemek számára – A svájci egyetemek hallgatói számának és alapképesítéseinek várható alakulása forgatókönyv, egyetemi típus, szint, belépőkártya és nem szerint</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Scenarier 2020-2029 for universiteter — Forventet udvikling af antallet af studerende og grundlæggende kvalifikationer for schweiziske universiteter efter scenarie, universitetstype, niveau, adgangskort og køn</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Scenariji 2020. – 2029. za sveučilišta – očekivani razvoj broja studenata i početnih kvalifikacija švicarskih sveučilišta prema scenariju, vrsti sveučilišta, razini, prijemnoj iskaznici i spolu</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Scénáře pro univerzity na období 2020–2029 – očekávaný vývoj počtu studentů a počáteční kvalifikace švýcarských univerzit podle scénáře, typu univerzity, úrovně, přijímacího průkazu a pohlaví</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Cásanna 2020-2029 d’ollscoileanna — Forbairt ionchasach líon na mac léinn agus na gcáilíochtaí tosaigh in ollscoileanna na hEilvéise de réir cáis, cineáil ollscoile, leibhéil, cárta iontrála agus inscne</dct:title>
+        <dcat:keyword xml:lang="de">szenarien</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Escenarios 2020-2029 para universidades — Desarrollo previsto del número de estudiantes y cualificaciones iniciales de las universidades suizas por escenario, tipo de universidad, nivel, tarjeta de admisión y género</dct:title>
+        <dcat:keyword xml:lang="it">scenari</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:12:18.512086</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/afa1aeb4-2ef2-4c51-9e8b-06148bed5efb">
+            <dct:title xml:lang="el-t-de-t0-mtec">Σενάρια 2020-2029 για τα πανεπιστήμια — Αναμενόμενη ανάπτυξη του αριθμού των φοιτητών και των αρχικών προσόντων των ελβετικών πανεπιστημίων ανά σενάριο, τύπο πανεπιστημίου, επίπεδο, κάρτα εισόδου και φύλο</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">2020–2029 m. universitetų scenarijai. Numatoma Šveicarijos universitetų studentų skaičiaus ir pradinės kvalifikacijos raida pagal scenarijų, universiteto tipą, lygį, priėmimo kortelę ir lytį</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Forgatókönyvek a 2020–2029-es időszakra az egyetemek számára – A svájci egyetemek hallgatói számának és alapképesítéseinek várható alakulása forgatókönyv, egyetemi típus, szint, belépőkártya és nem szerint</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Escenarios 2020-2029 para universidades — Desarrollo previsto del número de estudiantes y cualificaciones iniciales de las universidades suizas por escenario, tipo de universidad, nivel, tarjeta de admisión y género</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1509090000_114"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Scénarios 2020-2029 pour les établissements d’enseignement supérieur — Evolution attendue du nombre d’étudiants et des premiers diplômes des universités suisses par scénario, type d’établissement, niveau, carte d’admission et sexe</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Scenarii 2020-2029 pentru universități – Dezvoltarea așteptată a numărului de studenți și a calificărilor inițiale ale universităților elvețiene pe scenarii, tip universitar, nivel, permis de admitere și gen</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Scenarier 2020-2029 for universiteter — Forventet udvikling af antallet af studerende og grundlæggende kvalifikationer for schweiziske universiteter efter scenarie, universitetstype, niveau, adgangskort og køn</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Scenariusze na lata 2020–2029 dla uniwersytetów – Oczekiwany rozwój liczby studentów i wstępnych kwalifikacji szwajcarskich uczelni według scenariusza, rodzaju uczelni, poziomu, karty wstępu i płci</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Xenarji 2020–2029 għall-universitajiet — Żvilupp mistenni tal-għadd ta’ studenti u kwalifiki inizjali tal-universitajiet Żvizzeri skont ix-xenarju, it-tip ta’ università, il-livell, il-karta ta’ ammissjoni u l-ġeneru</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cásanna 2020-2029 d’ollscoileanna — Forbairt ionchasach líon na mac léinn agus na gcáilíochtaí tosaigh in ollscoileanna na hEilvéise de réir cáis, cineáil ollscoile, leibhéil, cárta iontrála agus inscne</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Scenari 2020-2029 per le università — Sviluppo atteso del numero di studenti e delle qualifiche iniziali delle università svizzere per scenario, tipo di università, livello, tessera di ammissione e genere</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Scenáre 2020 – 2029 pre univerzity – Očakávaný vývoj počtu študentov a počiatočných kvalifikácií švajčiarskych univerzít podľa scenára, univerzitného typu, úrovne, prijímacieho preukazu a pohlavia</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Stsenaariumid 2020–2029 ülikoolidele – Šveitsi ülikoolide üliõpilaste arvu ja esmase kvalifikatsiooni oodatav areng stsenaariumi, ülikooli tüübi, taseme, vastuvõtukaardi ja soo kaupa</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Scenarier 2020–2029 för universitet – Förväntad utveckling av antalet studerande och grundläggande kvalifikationer för schweiziska universitet efter scenario, typ av universitet, nivå, antagningskort och kön</dct:title>
+            <dct:title xml:lang="de">Szenarien 2020-2029 für die Hochschulen - Erwartete Entwicklung der Zahl der Studierenden und der Erstabschlüsse der schweizerischen Hochschulen nach Szenario, Hochschultyp, Niveau, Zulassungsausweis und Geschlecht</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Scenariji 2020. – 2029. za sveučilišta – očekivani razvoj broja studenata i početnih kvalifikacija švicarskih sveučilišta prema scenariju, vrsti sveučilišta, razini, prijemnoj iskaznici i spolu</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">2020.–2029. gada scenāriji universitātēm — Šveices universitāšu studentu skaita un sākotnējās kvalifikācijas paredzamā attīstība pēc scenārijiem, universitātes veida, līmeņa, uzņemšanas kartes un dzimuma</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Сценарии 2020—2029 г. за университетите — Очаквано развитие на броя на студентите и първоначалните квалификации на швейцарските университети по сценарий, тип университет, ниво, приемна карта и пол</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scenarios 2020-2029 for universities — Expected development of the number of students and initial qualifications of Swiss universities by scenario, university type, level, admission card and gender</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Scénáře pro univerzity na období 2020–2029 – očekávaný vývoj počtu studentů a počáteční kvalifikace švýcarských univerzit podle scénáře, typu univerzity, úrovně, přijímacího průkazu a pohlaví</dct:title>
+            <dct:identifier>14963205-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Cenários 2020-2029 para universidades — Desenvolvimento esperado do número de estudantes e qualificações iniciais das universidades suíças por cenário, tipo de universidade, nível, cartão de admissão e gênero</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Сценарії 2020-2029 для університетів - Очікується розвиток кількості студентів та початкових кваліфікацій швейцарських університетів за сценарієм, типом університету, рівнем, вступною карткою та статтю</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Scenariji 2020–2029 za univerze – Pričakovan razvoj števila študentov in začetnih kvalifikacij švicarskih univerz po scenariju, vrsti univerze, stopnji, vstopni izkaznici in spolu</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen skenaariot 2020–2029 – Sveitsin yliopistojen opiskelijoiden ja perustutkintojen odotettu kehitys skenaarion, yliopistotyypin, tason, pääsykortin ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Scenario’s 2020-2029 voor universiteiten — Verwachte ontwikkeling van het aantal studenten en initiële kwalificaties van Zwitserse universiteiten per scenario, universitair type, niveau, toelatingskaart en geslacht</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr">Scénarios 2020-2029 pour les hautes écoles - Evolution attendue du nombre d'étudiants et de premiers titres des hautes écoles suisses selon le scénario, le type de haute école, le niveau, le certificat d'accès et le sexe</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/76df28ee-a0d0-478a-abae-5ab5dba6803e">
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scenarios 2020-2029 for universities — Expected development of the number of students and initial qualifications of Swiss universities by scenario, university type, level, admission card and gender</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Scenarii 2020-2029 pentru universități – Dezvoltarea așteptată a numărului de studenți și a calificărilor inițiale ale universităților elvețiene pe scenarii, tip universitar, nivel, permis de admitere și gen</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Scenariji 2020. – 2029. za sveučilišta – očekivani razvoj broja studenata i početnih kvalifikacija švicarskih sveučilišta prema scenariju, vrsti sveučilišta, razini, prijemnoj iskaznici i spolu</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Σενάρια 2020-2029 για τα πανεπιστήμια — Αναμενόμενη ανάπτυξη του αριθμού των φοιτητών και των αρχικών προσόντων των ελβετικών πανεπιστημίων ανά σενάριο, τύπο πανεπιστημίου, επίπεδο, κάρτα εισόδου και φύλο</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen skenaariot 2020–2029 – Sveitsin yliopistojen opiskelijoiden ja perustutkintojen odotettu kehitys skenaarion, yliopistotyypin, tason, pääsykortin ja sukupuolen mukaan</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1509090000_114/px-x-1509090000_114/px-x-1509090000_114.px"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Scenarier 2020-2029 for universiteter — Forventet udvikling af antallet af studerende og grundlæggende kvalifikationer for schweiziske universiteter efter scenarie, universitetstype, niveau, adgangskort og køn</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Forgatókönyvek a 2020–2029-es időszakra az egyetemek számára – A svájci egyetemek hallgatói számának és alapképesítéseinek várható alakulása forgatókönyv, egyetemi típus, szint, belépőkártya és nem szerint</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Escenarios 2020-2029 para universidades — Desarrollo previsto del número de estudiantes y cualificaciones iniciales de las universidades suizas por escenario, tipo de universidad, nivel, tarjeta de admisión y género</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Scenario’s 2020-2029 voor universiteiten — Verwachte ontwikkeling van het aantal studenten en initiële kwalificaties van Zwitserse universiteiten per scenario, universitair type, niveau, toelatingskaart en geslacht</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">2020–2029 m. universitetų scenarijai. Numatoma Šveicarijos universitetų studentų skaičiaus ir pradinės kvalifikacijos raida pagal scenarijų, universiteto tipą, lygį, priėmimo kortelę ir lytį</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Scenáre 2020 – 2029 pre univerzity – Očakávaný vývoj počtu študentov a počiatočných kvalifikácií švajčiarskych univerzít podľa scenára, univerzitného typu, úrovne, prijímacieho preukazu a pohlavia</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="et-t-de-t0-mtec">Stsenaariumid 2020–2029 ülikoolidele – Šveitsi ülikoolide üliõpilaste arvu ja esmase kvalifikatsiooni oodatav areng stsenaariumi, ülikooli tüübi, taseme, vastuvõtukaardi ja soo kaupa</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Scenariji 2020–2029 za univerze – Pričakovan razvoj števila študentov in začetnih kvalifikacij švicarskih univerz po scenariju, vrsti univerze, stopnji, vstopni izkaznici in spolu</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">2020.–2029. gada scenāriji universitātēm — Šveices universitāšu studentu skaita un sākotnējās kvalifikācijas paredzamā attīstība pēc scenārijiem, universitātes veida, līmeņa, uzņemšanas kartes un dzimuma</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="de">Szenarien 2020-2029 für die Hochschulen - Erwartete Entwicklung der Zahl der Studierenden und der Erstabschlüsse der schweizerischen Hochschulen nach Szenario, Hochschultyp, Niveau, Zulassungsausweis und Geschlecht</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Scenariusze na lata 2020–2029 dla uniwersytetów – Oczekiwany rozwój liczby studentów i wstępnych kwalifikacji szwajcarskich uczelni według scenariusza, rodzaju uczelni, poziomu, karty wstępu i płci</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Scénáře pro univerzity na období 2020–2029 – očekávaný vývoj počtu studentů a počáteční kvalifikace švýcarských univerzit podle scénáře, typu univerzity, úrovně, přijímacího průkazu a pohlaví</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Сценарии 2020—2029 г. за университетите — Очаквано развитие на броя на студентите и първоначалните квалификации на швейцарските университети по сценарий, тип университет, ниво, приемна карта и пол</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Xenarji 2020–2029 għall-universitajiet — Żvilupp mistenni tal-għadd ta’ studenti u kwalifiki inizjali tal-universitajiet Żvizzeri skont ix-xenarju, it-tip ta’ università, il-livell, il-karta ta’ ammissjoni u l-ġeneru</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Scénarios 2020-2029 pour les établissements d’enseignement supérieur — Evolution attendue du nombre d’étudiants et des premiers diplômes des universités suisses par scénario, type d’établissement, niveau, carte d’admission et sexe</dct:title>
+            <dct:identifier>link-14963213-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Сценарії 2020-2029 для університетів - Очікується розвиток кількості студентів та початкових кваліфікацій швейцарських університетів за сценарієм, типом університету, рівнем, вступною карткою та статтю</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Scenari 2020-2029 per le università — Sviluppo atteso del numero di studenti e delle qualifiche iniziali delle università svizzere per scenario, tipo di università, livello, tessera di ammissione e genere</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cásanna 2020-2029 d’ollscoileanna — Forbairt ionchasach líon na mac léinn agus na gcáilíochtaí tosaigh in ollscoileanna na hEilvéise de réir cáis, cineáil ollscoile, leibhéil, cárta iontrála agus inscne</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Scenarier 2020–2029 för universitet – Förväntad utveckling av antalet studerande och grundläggande kvalifikationer för schweiziska universitet efter scenario, typ av universitet, nivå, antagningskort och kön</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Cenários 2020-2029 para universidades — Desenvolvimento esperado do número de estudantes e qualificações iniciais das universidades suíças por cenário, tipo de universidade, nível, cartão de admissão e gênero</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-de-t0-mtec">2020.–2029. gada scenāriji universitātēm — Šveices universitāšu studentu skaita un sākotnējās kvalifikācijas paredzamā attīstība pēc scenārijiem, universitātes veida, līmeņa, uzņemšanas kartes un dzimuma</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a22704ec-aa19-4403-9251-2ae534a7a781">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:identifier>link-14963211-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1509090000_114/px-x-1509090000_114.px"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Scenariusze na lata 2020–2029 dla uniwersytetów – Oczekiwany rozwój liczby studentów i wstępnych kwalifikacji szwajcarskich uczelni według scenariusza, rodzaju uczelni, poziomu, karty wstępu i płci</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Сценарії 2020-2029 для університетів - Очікується розвиток кількості студентів та початкових кваліфікацій швейцарських університетів за сценарієм, типом університету, рівнем, вступною карткою та статтю</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="en-t-de-t0-mtec">Scenarios 2020-2029 for universities — Expected development of the number of students and initial qualifications of Swiss universities by scenario, university type, level, admission card and gender</dct:title>
+        <dcat:keyword xml:lang="it">prospettive-per-la-formazione</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Scenáre 2020 – 2029 pre univerzity – Očakávaný vývoj počtu študentov a počiatočných kvalifikácií švajčiarskych univerzít podľa scenára, univerzitného typu, úrovne, prijímacieho preukazu a pohlavia</dct:title>
+        <dcat:keyword xml:lang="fr">perspectives-de-la-formation</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-11-23T00:00:00</dct:issued>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>14963201@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:36:03Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>d60ced499aa005bf898eb88270abe6d4</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

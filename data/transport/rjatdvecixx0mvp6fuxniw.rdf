@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/rjatdvecixx0mvp6fuxniw">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:05:35Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>f48181f1b2d63fe36ea2c429fe72e18b</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/rjatdvecixx0mvp6fuxniw">
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/e92ce8bf-a7b6-49e1-a510-5ecec1d27c37">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/0c237021-9289-4bd7-b459-5a6b330b1e81">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses, by seat capacity</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Nowe rejestracje autokarów, autobusów i trolejbusów, według pojemności siedzeń</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d8abc2b7-aec2-4633-883b-4462d707141f">
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses, by seat capacity</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqr_bussea.tsv.gz&amp;unzip=true"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="de">Erstzulassungen von Omnibussen und Oberleitungsomnibussen, nach Sitzplätzen</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par nombre de places assises</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:identifier>http://data.europa.eu/88u/distribution/07ded998-e578-4427-9bbe-87de88012107</dct:identifier>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/16678c7d-be71-4ded-925c-47dc50204977">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1989-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Nové registrácie autokarov, autobusov a trolejbusov podľa počtu miest na sedenie</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Нові реєстрації автобусів, автобусів та тролейбусів, за місткістю місць</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Autóbuszok, autóbuszok és trolibuszok új regisztrációja üléskapacitás szerint</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Nuevas matriculaciones de autocares, autobuses y trolebuses, por capacidad de asiento</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Uued autobusside, busside ja trollibusside registreerimised istekohtade arvu järgi</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Moottorivaunujen, linja-autojen ja johdinautojen uudet rekisteröinnit istuinkapasiteetin mukaan</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Naujų variklinių tolimojo susisiekimo autobusų, autobusų ir troleibusų registravimas pagal sėdimų vietų skaičių</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Nové registrácie autokarov, autobusov a trolejbusov podľa počtu miest na sedenie</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Noi înmatriculări de autocare, autobuze și troleibuze, în funcție de capacitatea locurilor</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/RJaTdvEcIxx0mvp6fuXNIw</dct:identifier>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="el-t-en-t0-mtec">Νέες ταξινομήσεις μηχανοκίνητων πούλμαν, λεωφορείων και τρόλεϊ, ανά θέση</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Nuove immatricolazioni di autocarri, autobus e filobus, per capacità di sedile</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="de">Erstzulassungen von Omnibussen und Oberleitungsomnibussen, nach Sitzplätzen</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Reġistrazzjonijiet ġodda ta’ kowċis bil-mutur, karozzi tal-linja u karrozzi tal-linja, skont il-kapaċità tas-sits</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Nove registracije motornih avtobusov, avtobusov in trolejbusov, po številu sedežev</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Uued autobusside, busside ja trollibusside registreerimised istekohtade arvu järgi</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Nuevas matriculaciones de autocares, autobuses y trolebuses, por capacidad de asiento</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Nove registracije motornih autobusa, autobusa i trolejbusa, prema broju sjedala</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/119f55f0-2c69-4718-82d2-0fc8d7bd1768">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqr_bussea.tsv.gz"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses, by seat capacity</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/b8a7f1b8-7474-4565-829e-3899b832eff0</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Erstzulassungen von Omnibussen und Oberleitungsomnibussen, nach Sitzplätzen</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par nombre de places assises</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e11afe09-1149-4161-8f52-520d1caeffa4">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par nombre de places assises</dct:title>
+            <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses, by seat capacity</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Erstzulassungen von Omnibussen und Oberleitungsomnibussen, nach Sitzplätzen</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/0c414ece-05ea-454f-8084-0e03ac90383a</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqr_bussea.sdmx.zip"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Reġistrazzjonijiet ġodda ta’ kowċis bil-mutur, karozzi tal-linja u karrozzi tal-linja, skont il-kapaċità tas-sits</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Nye registreringer af personvogne, busser og trolleybusser efter sædekapacitet</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Novas matrículas de autocarros, autocarros e tróleis, por capacidade do banco</dct:title>
+        <dct:description xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par nombre de places assises</dct:description>
+        <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par nombre de places assises</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/rjatdvecixx0mvp6fuxniw"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Nová registrace motorových autokarů, autobusů a trolejbusů, podle objemu sedadel</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Νέες ταξινομήσεις μηχανοκίνητων πούλμαν, λεωφορείων και τρόλεϊ, ανά θέση</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Nieuwe inschrijvingen van touringcars, bussen en trolleybussen, naar zitplaatscapaciteit</dct:title>
+        <dct:description xml:lang="de">Erstzulassungen von Omnibussen und Oberleitungsomnibussen, nach Sitzplätzen</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Jaunas reģistrācijas ar autobusiem, autobusiem un trolejbusiem pēc sēdvietas</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-12</dct:modified>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/rjatdvecixx0mvp6fuxniw"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:identifier>road_eqr_bussea</dct:identifier>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Nove registracije motornih avtobusov, avtobusov in trolejbusov, po številu sedežev</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Nuove immatricolazioni di autocarri, autobus e filobus, per capacità di sedile</dct:description>
+        <dct:description xml:lang="en">New registrations of motor coaches, buses and trolley buses, by seat capacity</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Nya registreringar av personvagnar, bussar och trådbussar, efter säteskapacitet</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Clárú nua de chóistí mótair, busanna agus busanna tralaí, de réir suíocháin</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_bussea">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/rjatdvecixx0mvp6fuxniw"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_bussea</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_bussea</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Noi înmatriculări de autocare, autobuze și troleibuze, în funcție de capacitatea locurilor</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Нови регистрации на автобуси, автобуси и тролейбуси, по места</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Нови регистрации на автобуси, автобуси и тролейбуси, по места</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Nya registreringar av personvagnar, bussar och trådbussar, efter säteskapacitet</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_bussea"/>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Jaunas reģistrācijas ar autobusiem, autobusiem un trolejbusiem pēc sēdvietas</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Nowe rejestracje autokarów, autobusów i trolejbusów, według pojemności siedzeń</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Нові реєстрації автобусів, автобусів та тролейбусів, за місткістю місць</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Clárú nua de chóistí mótair, busanna agus busanna tralaí, de réir suíocháin</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Autóbuszok, autóbuszok és trolibuszok új regisztrációja üléskapacitás szerint</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Nová registrace motorových autokarů, autobusů a trolejbusů, podle objemu sedadel</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Nove registracije motornih autobusa, autobusa i trolejbusa, prema broju sjedala</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Nye registreringer af personvogne, busser og trolleybusser efter sædekapacitet</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Novas matrículas de autocarros, autocarros e tróleis, por capacidade do banco</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Nieuwe inschrijvingen van touringcars, bussen en trolleybussen, naar zitplaatscapaciteit</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Naujų variklinių tolimojo susisiekimo autobusų, autobusų ir troleibusų registravimas pagal sėdimų vietų skaičių</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Moottorivaunujen, linja-autojen ja johdinautojen uudet rekisteröinnit istuinkapasiteetin mukaan</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/rjatdvecixx0mvp6fuxniw"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>RJaTdvEcIxx0mvp6fuXNIw</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:05:35Z</edp:transIssued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:03:25Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

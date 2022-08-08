@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/europeaid-iati-africa-regional">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T18:04:34Z</edp:transReceived>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/europeaid-iati-africa-regional">
+        <dct:title xml:lang="el-t-en-t0-mtec">Ευρωπαϊκή Επιτροπή — ΓΔ INTPA — αναπτυξιακή βοήθεια στην Αφρική (περιφερειακή)</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie paramą vystymuisi, finansuojamą iš ES biudžeto Afrikoje (regioninėje). Tarptautinės partnerystės generalinis direktoratas yra atsakingas už ES tarptautinės partnerystės ir vystymosi politikos formavimą, siekiant galutinio tikslo – mažinti skurdą, užtikrinti darnų vystymąsi ir skatinti demokratiją, žmogaus teises ir teisinę valstybę visame pasaulyje. Jos pagrindinis tikslas – įgyvendinti didžiąją dalį Europos Komisijos išorės pagalbos, pasitelkiant tokias priemones kaip Kaimynystės, vystomojo ir tarptautinio bendradarbiavimo priemonė (KVTBP).
+Ši gyvybiškai svarbi užduotis reikalauja, kad INTPA GD atvirai ir atskaitingai įgyvendintų ES paramos vystymuisi biudžetą.
+Dėl šios priežasties nuo 2011 m. ji skelbia savo duomenis Tarptautinės pagalbos skaidrumo iniciatyvos (IATI) registre.</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Informace o rozvojové pomoci financované z rozpočtu EU v Africe (regionální). Generální ředitelství pro mezinárodní partnerství odpovídá za formulování mezinárodní politiky partnerství a rozvoje EU s konečným cílem snížit chudobu, zajistit udržitelný rozvoj a podporovat demokracii, lidská práva a právní stát po celém světě. Jeho hlavním účelem je provádět většinu vnější pomoci Evropské komise prostřednictvím nástrojů, jako je nástroj pro sousedství a rozvojovou a mezinárodní spolupráci (NDICI). Tento zásadní úkol vyžaduje, aby GŘ INTPA plnilo rozpočet EU na rozvojovou pomoc otevřeným a odpovědným způsobem. Z tohoto důvodu zveřejňuje své údaje v registru Mezinárodní iniciativy pro transparentnost pomoci (IATI) od roku 2011. Informace o rozvojové pomoci financované z rozpočtu EU v Africe (regionální).
+Generální ředitelství pro mezinárodní partnerství odpovídá za formulování mezinárodní politiky partnerství a rozvoje EU s konečným cílem snížit chudobu, zajistit udržitelný rozvoj a podporovat demokracii, lidská práva a právní stát po celém světě.
+Jeho hlavním účelem je provádět většinu vnější pomoci Evropské komise prostřednictvím nástrojů, jako je nástroj pro sousedství a rozvojovou a mezinárodní spolupráci (NDICI).
+Tento zásadní úkol vyžaduje, aby GŘ INTPA plnilo rozpočet EU na rozvojovou pomoc otevřeným a odpovědným způsobem.
+Z tohoto důvodu zveřejňuje své údaje v registru Mezinárodní iniciativy pro transparentnost pomoci (IATI) od roku 2011.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7f71546d-6a6c-483b-a3e9-5dc016994716">
+            <dct:title xml:lang="it-t-en-t0-mtec">Commissione europea — File di attività della DG INTPA IATI — Africa (regionale)</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Europa-Kommissionen — GD INTPA IATI Aktivitetsfil — Afrika (regionalt)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">An Coimisiún Eorpach — Comhad Gníomhaíochta IATI AS INTPA — An Afraic (réigiúnach)</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/xml"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Europska komisija – dosje o aktivnostima Glavne uprave INTPA IATI – Afrika (regionalna)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Europese Commissie — DG INTPA IATI Activiteitsdossier — Afrika (regionaal)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Europos Komisija – INTPA GD IATI veiklos byla – Afrika (regioninė)</dct:title>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_INTPA_C_298.xml"/>
+            <dct:title xml:lang="en">European Commission - DG INTPA IATI Activity File - Africa (regional)</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Euroopa Komisjon – DG INTPA IATI tegevustoimik – Aafrika (piirkondlik)</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Euroopan komissio – INTPA-pääosaston IATI-toiminta-asiakirja – Afrikka (alueellinen)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/1ae4210e-eebb-4030-9ed0-127d49717a9e</dct:identifier>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Evropská komise – soubor činností GŘ INTPA IATI – Afrika (regionální)</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Komisja Europejska – akta działalności DG INTPA IATI – Afryka (regionalne)</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Európska komisia – spis o činnosti GR INTPA IATI – Afrika (regionálna)</dct:title>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Commission européenne — Dossier d’activité de la DG INTPA IATI — Afrique (régional)</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Kummissjoni Ewropea — Fajl ta’ Attività tad-DĠ INTPA IATI — Afrika (reġjonali)</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Evropska komisija – GD INTPA IATI dokument o dejavnostih – Afrika (regionalna)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Europeiska kommissionen – GD INTPA IATI:s verksamhetsfil – Afrika (regionalt)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-10-26T08:41:50.946915+02:00</dct:issued>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ευρωπαϊκή Επιτροπή — φάκελος δραστηριοτήτων της ΓΔ INTPA IATI — Αφρική (περιφερειακός)</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Comissão Europeia — dossiê de atividades da DG INTPA IATI — África (regional)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Европейска комисия — ГД INTPA „Инициатива за иновации и иновации“ — Африка (регионална)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XML"/>
+            </dct:format>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Eiropas Komisija — INTPA ĢD IATI darbības dokuments — Āfrika (reģionālā)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Európai Bizottság – DG INTPA IATI tevékenységi fájl – Afrika (regionális)</dct:title>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_INTPA_C_298.xml"/>
+            <dct:title xml:lang="es-t-en-t0-mtec">Comisión Europea — Archivo de actividades IATI de la DG INTPA — África (regional)</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Europäische Kommission – GD INTPA IATI Tätigkeitsdatei – Afrika (regional)</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Comisia Europeană – dosarul de activitate IATI al DG INTPA – Africa (regional)</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">Development assistance</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/5b878bb7-57ba-4e02-a559-e0a59845b371"/>
+        </dcat:contactPoint>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Europska komisija – DG INTPA – razvojna pomoć Africi (regionalna)</dct:title>
+        <dcat:keyword xml:lang="en">2007-2013</dcat:keyword>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Europese Commissie — DG INTPA — Ontwikkelingshulp aan Afrika (regionaal)</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o razvojnoj pomoći koja se financira iz proračuna EU-a u Africi (regionalnoj). Glavna uprava za međunarodna partnerstva odgovorna je za oblikovanje međunarodnog partnerstva i razvojne politike EU-a s krajnjim ciljem smanjenja siromaštva, osiguravanja održivog razvoja i promicanja demokracije, ljudskih prava i vladavine prava diljem svijeta. Njegova je glavna svrha provedba većine vanjske pomoći Europske komisije s pomoću instrumenata kao što je Instrument za susjedstvo, razvoj i međunarodnu suradnju (NDICI).
+Ta ključna zadaća zahtijeva da Glavna uprava INTPA na otvoren i odgovoran način osigura proračun EU-a za razvojnu pomoć.
+Stoga od 2011. objavljuje svoje podatke u registru Inicijative za transparentnost međunarodne pomoći (IATI).</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-10-26</dct:modified>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/862"/>
+        <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sull'assistenza allo sviluppo finanziata dal bilancio dell'UE in Africa (regionale). La direzione generale dei Partenariati internazionali è responsabile della formulazione del partenariato internazionale e della politica di sviluppo dell'UE, con l'obiettivo ultimo di ridurre la povertà, garantire lo sviluppo sostenibile e promuovere la democrazia, i diritti umani e lo Stato di diritto in tutto il mondo. Il suo obiettivo principale è quello di attuare la maggior parte dell'assistenza esterna della Commissione europea, attraverso strumenti quali lo strumento di vicinato, cooperazione allo sviluppo e cooperazione internazionale (NDICI). Questo compito fondamentale richiede alla DG INTPA di fornire il bilancio dell'UE per l'assistenza allo sviluppo in modo aperto e responsabile.
+Per questo motivo pubblica i propri dati nel registro dell'iniziativa per la trasparenza degli aiuti internazionali (IATI) dal 2011.</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis maidir le cúnamh forbartha a mhaoinítear trí bhuiséad an Aontais san Afraic (réigiúnach). Tá Ard-Stiúrthóireacht na gComhpháirtíochtaí Idirnáisiúnta freagrach as beartas comhpháirtíochta agus forbartha idirnáisiúnta an Aontais a cheapadh, agus é mar sprioc dheiridh aici an bhochtaineacht a laghdú, forbairt inbhuanaithe a áirithiú, agus an daonlathas, cearta an duine agus an smacht reachta a chur chun cinn ar fud an domhain. Is é is príomhchuspóir dó an chuid is mó de chúnamh seachtrach an Choimisiúin Eorpaigh a chur chun feidhme, trí ionstraimí amhail an Ionstraim um Chomharsanacht, Forbairt agus Comhar Idirnáisiúnta (NDICI). Leis an gcúram ríthábhachtach sin, ceanglaítear ar AS INTPA buiséad cúnaimh forbartha an Aontais a chur i gcrích ar bhealach oscailte cuntasach. Ar an gcúis sin, foilsíonn sé a chuid sonraí i gClárlann an Tionscnaimh Trédhearcachta um Chabhair Idirnáisiúnta (IATI) ó 2011 i leith. Faisnéis maidir le cúnamh forbartha a mhaoinítear trí bhuiséad an Aontais san Afraic (réigiúnach).
+Tá Ard-Stiúrthóireacht na gComhpháirtíochtaí Idirnáisiúnta freagrach as beartas comhpháirtíochta agus forbartha idirnáisiúnta an Aontais a cheapadh, agus é mar sprioc dheiridh aici an bhochtaineacht a laghdú, forbairt inbhuanaithe a áirithiú, agus an daonlathas, cearta an duine agus an smacht reachta a chur chun cinn ar fud an domhain.
+Is é is príomhchuspóir dó an chuid is mó de chúnamh seachtrach an Choimisiúin Eorpaigh a chur chun feidhme, trí ionstraimí amhail an Ionstraim um Chomharsanacht, Forbairt agus Comhar Idirnáisiúnta (NDICI).
+Leis an gcúram ríthábhachtach sin, ceanglaítear ar AS INTPA buiséad cúnaimh forbartha an Aontais a chur i gcrích ar bhealach oscailte cuntasach.
+Ar an gcúis sin, foilsíonn sé a chuid sonraí i gClárlann an Tionscnaimh Trédhearcachta um Chabhair Idirnáisiúnta (IATI) ó 2011 i leith.</dct:description>
+        <dcat:keyword xml:lang="en">Africa</dcat:keyword>
+        <dct:description xml:lang="es-t-en-t0-mtec">Información sobre la ayuda al desarrollo financiada con cargo al presupuesto de la UE en África (regional). La Dirección General de Asociaciones Internacionales es responsable de formular la política internacional de asociación y desarrollo de la UE, con el objetivo final de reducir la pobreza, garantizar el desarrollo sostenible y promover la democracia, los derechos humanos y el Estado de Derecho en todo el mundo. Su principal objetivo es ejecutar la mayor parte de la ayuda exterior de la Comisión Europea, a través de instrumentos como el Instrumento de Vecindad, Desarrollo y Cooperación Internacional (IVDCI).
+Esta tarea vital requiere que la DG INTPA presente el presupuesto de ayuda al desarrollo de la UE de manera abierta y responsable.
+Por este motivo, publica sus datos en el Registro de la Iniciativa Internacional para la Transparencia de la Ayuda (IATI) desde 2011.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Информация за помощта за развитие, финансирана от бюджета на ЕС в Африка (регионална). Генерална дирекция „Международни партньорства“ отговаря за формулирането на политиката на ЕС за международно партньорство и развитие, като крайната цел е намаляване на бедността, осигуряване на устойчиво развитие и насърчаване на демокрацията, правата на човека и принципите на правовата държава по света. Основната му цел е да се приложи по-голямата част от външната помощ на Европейската комисия чрез инструменти като Инструмента за съседство, сътрудничество за развитие и международно сътрудничество (ИСРМС). Тази жизненоважна задача изисква ГД INTPA да предоставя бюджета на ЕС за помощ за развитие по открит и отговорен начин. Поради тази причина от 2011 г. насам тя публикува своите данни в регистъра на Международната инициатива за прозрачност на помощта (IATI). Информация за помощта за развитие, финансирана от бюджета на ЕС в Африка (регионална).
+Генерална дирекция „Международни партньорства“ отговаря за формулирането на политиката на ЕС за международно партньорство и развитие, като крайната цел е намаляване на бедността, осигуряване на устойчиво развитие и насърчаване на демокрацията, правата на човека и принципите на правовата държава по света.
+Основната му цел е да се приложи по-голямата част от външната помощ на Европейската комисия чрез инструменти като Инструмента за съседство, сътрудничество за развитие и международно сътрудничество (ИСРМС).
+Тази жизненоважна задача изисква ГД INTPA да предоставя бюджета на ЕС за помощ за развитие по открит и отговорен начин.
+Поради тази причина от 2011 г. насам тя публикува своите данни в регистъра на Международната инициатива за прозрачност на помощта (IATI).</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με την αναπτυξιακή βοήθεια που χρηματοδοτείται από τον προϋπολογισμό της ΕΕ στην Αφρική (περιφερειακή). Η Γενική Διεύθυνση Διεθνών Εταιρικών Σχέσεων είναι αρμόδια για τη διαμόρφωση της διεθνούς εταιρικής σχέσης και της αναπτυξιακής πολιτικής της ΕΕ, με απώτερο στόχο τη μείωση της φτώχειας, τη διασφάλιση της βιώσιμης ανάπτυξης και την προώθηση της δημοκρατίας, των ανθρωπίνων δικαιωμάτων και του κράτους δικαίου σε ολόκληρο τον κόσμο. Κύριος σκοπός της είναι η υλοποίηση του μεγαλύτερου μέρους της εξωτερικής βοήθειας της Ευρωπαϊκής Επιτροπής, μέσω μηχανισμών όπως ο Μηχανισμός Γειτονίας, Ανάπτυξης και Διεθνούς Συνεργασίας (ΜΓΑΔΣ). Αυτό το ζωτικό καθήκον απαιτεί από τη ΓΔ INTPA να παρέχει τον προϋπολογισμό αναπτυξιακής βοήθειας της ΕΕ με ανοικτό και υπεύθυνο τρόπο. Για τον λόγο αυτό, δημοσιεύει τα δεδομένα της στο μητρώο της Πρωτοβουλίας για τη Διαφάνεια της Διεθνούς Βοήθειας (IATI) από το 2011.</dct:description>
+        <dct:language>
+          <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/ENG"/>
+        </dct:language>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur l’aide au développement financée par le budget de l’UE en Afrique (régionale). La direction générale des partenariats internationaux est chargée d’élaborer la politique internationale de partenariat et de développement de l’UE, dont l’objectif ultime est de réduire la pauvreté, de garantir le développement durable et de promouvoir la démocratie, les droits de l’homme et l’état de droit dans le monde entier. Son objectif principal est de mettre en œuvre la majeure partie de l’aide extérieure de la Commission européenne, au moyen d’instruments tels que l’instrument de voisinage, de coopération au développement et de coopération internationale (IVCDCI). Cette tâche essentielle exige de la DG INTPA qu’elle fournisse le budget de l’aide au développement de l’UE d’une manière ouverte et responsable. C’est pourquoi elle publie ses données dans le registre de l’Initiative internationale pour la transparence de l’aide (IATI) depuis 2011. Informations sur l’aide au développement financée par le budget de l’UE en Afrique (régionale).
+La direction générale des partenariats internationaux est chargée d’élaborer la politique internationale de partenariat et de développement de l’UE, dont l’objectif ultime est de réduire la pauvreté, de garantir le développement durable et de promouvoir la démocratie, les droits de l’homme et l’état de droit dans le monde entier.
+Son objectif principal est de mettre en œuvre la majeure partie de l’aide extérieure de la Commission européenne, au moyen d’instruments tels que l’instrument de voisinage, de coopération au développement et de coopération internationale (IVCDCI).
+Cette tâche essentielle exige de la DG INTPA qu’elle fournisse le budget de l’aide au développement de l’UE d’une manière ouverte et responsable.
+C’est pourquoi elle publie ses données dans le registre de l’Initiative internationale pour la transparence de l’aide (IATI) depuis 2011.</dct:description>
+        <dcat:keyword xml:lang="en">regional</dcat:keyword>
+        <dct:title xml:lang="it-t-en-t0-mtec">Commissione europea — DG INTPA — Assistenza allo sviluppo in Africa (regionale)</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">Europäische Kommission – GD INTPA – Entwicklungshilfe für Afrika (regional)</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Europos Komisija – INTPA GD – Vystymosi pagalba Afrikai (regioninė)</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/INTPA"/>
+        </dct:publisher>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Komisja Europejska – DG INTPA – pomoc rozwojowa dla Afryki (regionalna)</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dcat:keyword xml:lang="en">Country strategy</dcat:keyword>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par attīstības palīdzību, ko finansē no ES budžeta Āfrikā (reģionāla). Starptautisko partnerību ģenerāldirektorāts ir atbildīgs par ES starptautiskās partnerības un attīstības politikas formulēšanu, kuras galīgais mērķis ir samazināt nabadzību, nodrošināt ilgtspējīgu attīstību un veicināt demokrātiju, cilvēktiesības un tiesiskumu visā pasaulē. Tās galvenais mērķis ir īstenot lielāko daļu Eiropas Komisijas ārējās palīdzības, izmantojot tādus instrumentus kā Kaimiņattiecību, attīstības sadarbības un starptautiskās sadarbības instruments (NDICI).
+Šim būtiskajam uzdevumam INTPA ĢD ir jānodrošina ES attīstības palīdzības budžets atklātā un atbildīgā veidā.
+Šā iemesla dēļ kopš 2011. gada tā publicē savus datus Starptautiskās palīdzības pārredzamības iniciatīvas (IATI) reģistrā.</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o razvojni pomoči, ki se financira iz proračuna EU v Afriki (regionalna). Generalni direktorat za mednarodna partnerstva je odgovoren za oblikovanje mednarodne partnerske in razvojne politike EU, katere končni cilj je zmanjšati revščino, zagotoviti trajnostni razvoj ter spodbujati demokracijo, človekove pravice in pravno državo po vsem svetu. Njegov glavni namen je izvajanje večine zunanje pomoči Evropske komisije prek instrumentov, kot so instrument za sosedstvo ter razvojno in mednarodno sodelovanje (NDICI).
+Ta ključna naloga zahteva, da GD INTPA proračun EU za razvojno pomoč zagotovi na odprt in odgovoren način.
+Zato od leta 2011 objavlja svoje podatke v registru mednarodne pobude za preglednost pomoči (IATI).</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2014-10-29</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Information om utvecklingsbistånd som finansieras genom EU:s budget i Afrika (regionalt). Generaldirektoratet för internationella partnerskap ansvarar för utformningen av EU:s internationella partnerskaps- och utvecklingspolitik, med det slutliga målet att minska fattigdomen, säkerställa hållbar utveckling och främja demokrati, mänskliga rättigheter och rättsstatsprincipen i hela världen. Huvudsyftet är att genomföra merparten av Europeiska kommissionens externa bistånd genom instrument som instrumentet för grannskapspolitik, utvecklingssamarbete och internationellt samarbete (NDICI). Denna viktiga uppgift kräver att GD INTPA tillhandahåller EU:s budget för utvecklingsbistånd på ett öppet och ansvarsfullt sätt.
+Kommissionen offentliggör därför sina uppgifter i IATI-registret (International Aid Transparency Initiative) sedan 2011.</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Európai Bizottság – DG INTPA – Afrikának nyújtott fejlesztési támogatás (regionális)</dct:title>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        </dct:accrualPeriodicity>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Európska komisia – GR INTPA – Rozvojová pomoc Afrike (regionálna)</dct:title>
+        <dcat:keyword xml:lang="en">DG Development and Cooperation</dcat:keyword>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Il-Kummissjoni Ewropea — DĠ INTPA — Għajnuna għall-iżvilupp lill-Afrika (reġjonali)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Evropská komise – GŘ INTPA – rozvojová pomoc Africe (regionální)</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tietoa EU:n talousarviosta Afrikassa (alueellinen) rahoitetusta kehitysavusta. Kansainvälisten kumppanuuksien pääosaston tehtävänä on laatia EU:n kansainvälinen kumppanuus- ja kehitysyhteistyöpolitiikka, jonka perimmäisenä tavoitteena on köyhyyden vähentäminen, kestävän kehityksen varmistaminen sekä demokratian, ihmisoikeuksien ja oikeusvaltion edistäminen kaikkialla maailmassa. Sen päätarkoituksena on panna täytäntöön suurin osa Euroopan komission ulkoisesta avusta esimerkiksi naapuruus-, kehitys- ja kansainvälisen yhteistyön välineen (NDICI) avulla.
+Tämä elintärkeä tehtävä edellyttää, että INTPA-pääosasto toteuttaa EU:n kehitysapubudjetit avoimesti ja vastuullisesti.
+Tästä syystä se on julkaissut tietojaan kansainvälisen avun avoimuusaloitteen (IATI) rekisterissä vuodesta 2011.</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Европейска комисия — ГД INTPA — Помощ за развитие на Африка (регионална)</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Evropska komisija – GD INTPA – razvojna pomoč Afriki (regionalna)</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teave ELi eelarvest rahastatava arenguabi kohta Aafrikas (piirkondlik). Rahvusvahelise partnerluse peadirektoraat vastutab ELi rahvusvahelise partnerluse ja arengupoliitika kujundamise eest, mille lõppeesmärk on vähendada vaesust, tagada säästev areng ning edendada demokraatiat, inimõigusi ja õigusriiki kogu maailmas. Selle peamine eesmärk on rakendada suurem osa Euroopa Komisjoni välisabist selliste vahendite kaudu nagu naabruspoliitika, arengu- ja rahvusvahelise koostöö rahastamisvahend (NDICI). See oluline ülesanne nõuab, et DG INTPA täidaks ELi arenguabi eelarvet avatult ja vastutustundlikult. Sel põhjusel avaldab komisjon alates 2011. aastast oma andmed rahvusvahelise abi läbipaistvuse algatuse (IATI) registris. Teave ELi eelarvest rahastatava arenguabi kohta Aafrikas (piirkondlik).
+Rahvusvahelise partnerluse peadirektoraat vastutab ELi rahvusvahelise partnerluse ja arengupoliitika kujundamise eest, mille lõppeesmärk on vähendada vaesust, tagada säästev areng ning edendada demokraatiat, inimõigusi ja õigusriiki kogu maailmas.
+Selle peamine eesmärk on rakendada suurem osa Euroopa Komisjoni välisabist selliste vahendite kaudu nagu naabruspoliitika, arengu- ja rahvusvahelise koostöö rahastamisvahend (NDICI).
+See oluline ülesanne nõuab, et DG INTPA täidaks ELi arenguabi eelarvet avatult ja vastutustundlikult.
+Sel põhjusel avaldab komisjon alates 2011. aastast oma andmed rahvusvahelise abi läbipaistvuse algatuse (IATI) registris.</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Europeiska kommissionen – GD INTPA – utvecklingsbistånd till Afrika (regionalt)</dct:title>
+        <dct:title xml:lang="en">European Commission - DG INTPA - development assistance to Africa (regional)</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3074"/>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat pomocy rozwojowej finansowanej z budżetu UE w Afryce (regionalnej). Dyrekcja Generalna ds. Partnerstw Międzynarodowych jest odpowiedzialna za formułowanie międzynarodowego partnerstwa i polityki rozwojowej UE, której ostatecznym celem jest ograniczenie ubóstwa, zapewnienie zrównoważonego rozwoju oraz promowanie demokracji, praw człowieka i praworządności na całym świecie. Jego głównym celem jest wdrożenie większości pomocy zewnętrznej Komisji Europejskiej za pośrednictwem instrumentów takich jak Instrument Sąsiedztwa oraz Współpracy Międzynarodowej i Rozwojowej (ISWMR).
+To kluczowe zadanie wymaga od DG INTPA, aby w otwarty i odpowiedzialny sposób realizowała budżet UE na pomoc rozwojową.
+Z tego powodu Komisja publikuje swoje dane w rejestrze Międzynarodowej Inicjatywy na rzecz Przejrzystości Pomocy (IATI) od 2011 r.</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Comisión Europea — DG INTPA — Ayuda al desarrollo para África (regional)</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Euroopan komissio – INTPA-pääosasto – kehitysapu Afrikalle (alueellinen)</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">An Coimisiún Eorpach — AS INTPA — cúnamh forbartha don Afraic (réigiúnach)</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Europa-Kommissionen — GD INTPA — udviklingsbistand til Afrika (regionalt)</dct:title>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Commission européenne — DG INTPA — Aide au développement en faveur de l’Afrique (régionale)</dct:title>
+        <dct:description xml:lang="de-t-en-t0-mtec">Informationen über Entwicklungshilfe, die aus dem EU-Haushalt in Afrika (regional) finanziert wird. Die Generaldirektion Internationale Partnerschaften ist zuständig für die Formulierung der internationalen Partnerschafts- und Entwicklungspolitik der EU mit dem Ziel, Armut zu verringern, eine nachhaltige Entwicklung zu gewährleisten und Demokratie, Menschenrechte und Rechtsstaatlichkeit weltweit zu fördern. Ihr Hauptzweck besteht darin, den Großteil der Außenhilfe der Europäischen Kommission durch Instrumente wie das Instrument für Nachbarschaft, Entwicklungszusammenarbeit und internationale Zusammenarbeit (NDICI) umzusetzen. Aufgrund dieser wichtigen Aufgabe muss die GD INTPA den EU-Haushalt für Entwicklungshilfe auf offene und rechenschaftspflichtige Weise bereitstellen. Aus diesem Grund veröffentlicht sie ihre Daten seit 2011 im Register der International Aid Transparency Initiative (IATI).</dct:description>
+        <dcat:keyword xml:lang="en">EuropeAid</dcat:keyword>
+        <dct:description xml:lang="en">Information on development assistance financed through the EU budget in Africa (regional). The Directorate-General for International Partnerships is responsible for formulating the EU’s international partnership and development policy, with the ultimate goal to reduce poverty, ensure sustainable development, and promote democracy, human rights, and the rule of law across the world. Its main purpose is to implement most of the European Commission’s external assistance, through instruments such as the the Neighborhood, Development and International Cooperation Instrument (NDICI). This vital task requires DG INTPA to deliver the EU’s development assistance budget in an open and accountable fashion. For this reason, it publishes its data in the International Aid Transparency Initiative (IATI) Registry since 2011.</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Tájékoztatás az afrikai (regionális) uniós költségvetésből finanszírozott fejlesztési támogatásról. A Nemzetközi Partnerségi Főigazgatóság feladata az EU nemzetközi partnerségi és fejlesztési politikájának kialakítása, amelynek végső célja a szegénység csökkentése, a fenntartható fejlődés biztosítása, valamint a demokrácia, az emberi jogok és a jogállamiság előmozdítása világszerte. Fő célja, hogy az Európai Bizottság külső segítségnyújtásának nagy részét olyan eszközökön keresztül valósítsa meg, mint a Szomszédsági, Fejlesztési és Nemzetközi Együttműködési Eszköz (NDICI). Ehhez a létfontosságú feladathoz a DG INTPA-nak nyílt és elszámoltatható módon kell biztosítania az uniós fejlesztési támogatási költségvetést. Ezért 2011 óta közzéteszi adatait a nemzetközi segélyátláthatósági kezdeményezés (IATI) nyilvántartásában. Tájékoztatás az afrikai (regionális) uniós költségvetésből finanszírozott fejlesztési támogatásról.
+A Nemzetközi Partnerségi Főigazgatóság feladata az EU nemzetközi partnerségi és fejlesztési politikájának kialakítása, amelynek végső célja a szegénység csökkentése, a fenntartható fejlődés biztosítása, valamint a demokrácia, az emberi jogok és a jogállamiság előmozdítása világszerte.
+Fő célja, hogy az Európai Bizottság külső segítségnyújtásának nagy részét olyan eszközökön keresztül valósítsa meg, mint a Szomszédsági, Fejlesztési és Nemzetközi Együttműködési Eszköz (NDICI).
+Ehhez a létfontosságú feladathoz a DG INTPA-nak nyílt és elszámoltatható módon kell biztosítania az uniós fejlesztési támogatási költségvetést.
+Ezért 2011 óta közzéteszi adatait a nemzetközi segélyátláthatósági kezdeményezés (IATI) nyilvántartásában.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3b88f05b-04ab-4c6a-b4d9-995a2e687f8f">
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Previzualizare a dosarului de activitate al DG INTPA IATI – Africa (regional)</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Euroopa Komisjoni rahvusvahelise kaubanduse peadirektoraadi IATI tegevusdokument – Aafrika (piirkondlik)</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Pregled dosjea o aktivnostima Europske komisije DG INTPA IATI – Afrika (regionalna)</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Zapowiedź Komisji Europejskiej – akta działalności DG INTPA IATI – Afryka (regionalne)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Предварителен преглед на досието за дейността на Европейската комисия — ГД INTPA IATI — Африка (регионално)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Förhandsvisning av Europeiska kommissionen – GD INTPA IATI:s verksamhetsfil – Afrika (regionalt)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-10-26T08:41:50.946906+02:00</dct:issued>
+            <dct:title xml:lang="es-t-en-t0-mtec">Vista previa de la Comisión Europea — DG INTPA IATI — Africa (regional)</dct:title>
+            <dcat:downloadURL rdf:resource="http://preview.iatistandard.org/index.php?url=https%3A//ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_INTPA_C_298.xml"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Az Európai Bizottság INTPA Főigazgatósága IATI tevékenységi aktájának előnézete – Afrika (regionális)</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Forhåndsvisning af Europa-Kommissionen — GD INTPA IATI Aktivitetsfil — Afrika (regionalt)</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Aperçu du dossier d’activité de la DG INTPA IATI de la Commission européenne — Afrique (régional)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Réamhamharc ar an gCoimisiún Eorpach — Comhad Gníomhaíochta IATI AS INTPA — An Afraic (réigiúnach)</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Eiropas Komisijas priekšskatījums — INTPA ĢD IATI darbības dokuments — Āfrika (reģionālā)</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Pré-visualização do dossiê de atividades da Comissão Europeia — DG INTPA IATI — África (regional)</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Europos Komisijos peržiūra. INTPA GD IATI veiklos byla – Afrika (regioninė)</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Prehľad Európskej komisie – spis o činnosti GR INTPA IATI – Afrika (regionálna)</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Náhled na Evropskou komisi – Soubor o činnosti GŘ INTPA IATI – Afrika (regionální)</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Vorschau der Europäischen Kommission – GD INTPA IATI-Tätigkeitsdatei – Afrika (regional)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Προεπισκόπηση της Ευρωπαϊκής Επιτροπής — φάκελος δραστηριοτήτων της ΓΔ INTPA IATI — Αφρική (περιφερειακή)</dct:title>
+            <dcat:accessURL rdf:resource="http://preview.iatistandard.org/index.php?url=https%3A//ec.europa.eu/international-partnerships/assets/iati/XI-IATI-EC_INTPA_C_298.xml"/>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Euroopan komission INTPA-pääosaston IATI-toiminta-asiakirja – Afrikka (alueellinen)</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Previżjoni tal-Kummissjoni Ewropea — Fajl ta’ Attività ta’ DĠ INTPA IATI — Afrika (reġjonali)</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Predogled Evropske komisije – dokument o dejavnostih GD INTPA IATI – Afrika (regionalna)</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Anteprima della Commissione europea — File di attività della DG INTPA IATI — Africa (regionale)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c82f7be1-f119-4a80-acda-285e4f4de3ef</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="en">Preview of European Commission - DG INTPA IATI Activity File - Africa (regional)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Voorbeeld van het activiteitendossier van de Europese Commissie — DG INTPA IATI — Afrika (regionaal)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="et-t-en-t0-mtec">Euroopa Komisjon – INTPA peadirektoraat – arenguabi Aafrikale (piirkondlik)</dct:title>
+        <dcat:keyword xml:lang="en">Development Cooperation Instrument</dcat:keyword>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Eiropas Komisija — INTPA ĢD — Attīstības palīdzība Āfrikai (reģionāla)</dct:title>
+        <dcat:keyword xml:lang="en">Humanitarian assistance</dcat:keyword>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Comisia Europeană – DG INTPA – asistența pentru dezvoltare acordată Africii (regională)</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/IEPD"/>
+        </dct:type>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind asistența pentru dezvoltare finanțată din bugetul UE în Africa (regională). Direcția Generală Parteneriate Internaționale este responsabilă de formularea parteneriatului internațional și a politicii de dezvoltare a UE, cu scopul final de a reduce sărăcia, de a asigura dezvoltarea durabilă și de a promova democrația, drepturile omului și statul de drept în întreaga lume. Scopul său principal este de a pune în aplicare cea mai mare parte a asistenței externe a Comisiei Europene, prin intermediul unor instrumente precum Instrumentul de vecinătate, cooperare pentru dezvoltare și cooperare internațională (IVCDCI).
+Această sarcină vitală necesită ca DG INTPA să furnizeze bugetul UE destinat asistenței pentru dezvoltare într-un mod deschis și responsabil.
+Din acest motiv, Comisia publică datele sale în Registrul Inițiativei internaționale privind transparența ajutoarelor (IATI) începând din 2011.</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar l-għajnuna għall-iżvilupp iffinanzjata permezz tal-baġit tal-UE fl-Afrika (reġjonali). Id-Direttorat Ġenerali għas-Sħubijiet Internazzjonali huwa responsabbli għall-formulazzjoni tas-sħubija internazzjonali u l-politika tal-iżvilupp tal-UE, bl-għan aħħari li jitnaqqas il-faqar, jiġi żgurat l-iżvilupp sostenibbli, u jiġu promossi d-demokrazija, id-drittijiet tal-bniedem, u l-istat tad-dritt madwar id-dinja. L-għan ewlieni tagħha huwa li timplimenta l-parti l-kbira tal-assistenza esterna tal-Kummissjoni Ewropea, permezz ta’ strumenti bħall-Istrument ta’ Viċinat, ta’ Kooperazzjoni għall-Iżvilupp u ta’ Kooperazzjoni Internazzjonali (NDICI).
+Dan il-kompitu vitali jeħtieġ li d-DĠ INTPA jagħti l-baġit tal-UE għall-assistenza għall-iżvilupp b’mod miftuħ u responsabbli.
+Għal din ir-raġuni, hija tippubblika d-data tagħha fir-Reġistru tal-Inizjattiva Internazzjonali għat-Trasparenza tal-Għajnuna (IATI) mill-2011.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over uit de EU-begroting gefinancierde ontwikkelingshulp in Afrika (regionaal). Het directoraat-generaal Internationale Partnerschappen is verantwoordelijk voor het formuleren van het internationale partnerschaps- en ontwikkelingsbeleid van de EU, met als uiteindelijke doel armoede terug te dringen, duurzame ontwikkeling te waarborgen en democratie, mensenrechten en de rechtsstaat overal ter wereld te bevorderen. Het belangrijkste doel is het grootste deel van de externe bijstand van de Europese Commissie ten uitvoer te leggen door middel van instrumenten zoals het instrument voor nabuurschap, ontwikkeling en internationale samenwerking (NDICI). Deze essentiële taak vereist dat DG INTPA de EU-begroting voor ontwikkelingshulp op een open en verantwoordelijke manier uitvoert. Daarom publiceert zij haar gegevens sinds 2011 in het register van het International Aid Transparency Initiative (IATI). Informatie over uit de EU-begroting gefinancierde ontwikkelingshulp in Afrika (regionaal).
+Het directoraat-generaal Internationale Partnerschappen is verantwoordelijk voor het formuleren van het internationale partnerschaps- en ontwikkelingsbeleid van de EU, met als uiteindelijke doel armoede terug te dringen, duurzame ontwikkeling te waarborgen en democratie, mensenrechten en de rechtsstaat overal ter wereld te bevorderen.
+Het belangrijkste doel is het grootste deel van de externe bijstand van de Europese Commissie ten uitvoer te leggen door middel van instrumenten zoals het instrument voor nabuurschap, ontwikkeling en internationale samenwerking (NDICI).
+Deze essentiële taak vereist dat DG INTPA de EU-begroting voor ontwikkelingshulp op een open en verantwoordelijke manier uitvoert.
+Daarom publiceert zij haar gegevens sinds 2011 in het register van het International Aid Transparency Initiative (IATI).</dct:description>
+        <dcat:keyword xml:lang="en">Areas of cooperation</dcat:keyword>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4055"/>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o rozvojovej pomoci financovanej z rozpočtu EÚ v Afrike (regionálna). Generálne riaditeľstvo pre medzinárodné partnerstvá je zodpovedné za formulovanie medzinárodného partnerstva a rozvojovej politiky EÚ s konečným cieľom znížiť chudobu, zabezpečiť trvalo udržateľný rozvoj a podporovať demokraciu, ľudské práva a právny štát na celom svete. Jeho hlavným účelom je vykonávať väčšinu vonkajšej pomoci Európskej komisie prostredníctvom nástrojov, ako je Nástroj susedstva a rozvojovej a medzinárodnej spolupráce (NDICI). Táto kľúčová úloha si vyžaduje, aby GR INTPA plnilo rozpočet EÚ na rozvojovú pomoc otvoreným a zodpovedným spôsobom.
+Z tohto dôvodu uverejňuje svoje údaje v registri Iniciatívy za transparentnosť medzinárodnej pomoci (IATI) od roku 2011.</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://www.iatiregistry.org/dataset/ec-intpa-298">
+            <schema:url>http://www.iatiregistry.org/dataset/ec-intpa-298</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/europeaid-iati-africa-regional"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre a ajuda ao desenvolvimento financiada pelo orçamento da UE em África (regional). A Direção-Geral das Parcerias Internacionais é responsável pela formulação da política de parceria internacional e de desenvolvimento da UE, com o objetivo último de reduzir a pobreza, assegurar o desenvolvimento sustentável e promover a democracia, os direitos humanos e o Estado de direito em todo o mundo. O seu principal objetivo é executar a maior parte da ajuda externa da Comissão Europeia, através de instrumentos como o Instrumento de Vizinhança, Desenvolvimento e Cooperação Internacional (IVCDCI). Esta tarefa essencial exige que a DG INTPA forneça o orçamento da UE para a ajuda ao desenvolvimento de forma aberta e responsável.
+Por este motivo, publica os seus dados no Registo da Iniciativa Internacional para a Transparência da Ajuda (IATI) desde 2011.</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Comissão Europeia — DG INTPA — Ajuda ao desenvolvimento a África (regional)</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om udviklingsbistand, der finansieres over EU-budgettet i Afrika (regionalt). Generaldirektoratet for Internationale Partnerskaber er ansvarligt for udformningen af EU's internationale partnerskabs- og udviklingspolitik med det endelige mål at reducere fattigdom, sikre bæredygtig udvikling og fremme demokrati, menneskerettigheder og retsstatsprincippet i hele verden. Hovedformålet er at gennemføre størstedelen af Europa-Kommissionens eksterne bistand gennem instrumenter såsom instrumentet for naboskab, udviklingssamarbejde og internationalt samarbejde (NDICI). Denne afgørende opgave kræver, at GD INTPA gennemfører EU's budget for udviklingsbistand på en åben og ansvarlig måde. Derfor har den siden 2011 offentliggjort sine data i International Aid Transparency Initiative (IATI) Registry.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3077"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:12:33Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:49:35Z</dct:issued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>europeaid-iati-africa-regional</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>ec2265de0c1d15de58329ceb54c261b3</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/europeaid-iati-africa-regional"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:12:47Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

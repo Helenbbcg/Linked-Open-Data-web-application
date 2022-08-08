@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/d69124e8-414a-4611-887a-bbd24b2cfe44-stadt-zurich">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/d69124e8-414a-4611-887a-bbd24b2cfe44-stadt-zurich"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:07:19Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:07:08Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:00Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:10:07Z</edp:transReceived>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>d69124e8-414a-4611-887a-bbd24b2cfe44@stadt-zurich</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>85c8bc1bb06dbd67d74cbeb407167fe7</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/d69124e8-414a-4611-887a-bbd24b2cfe44-stadt-zurich">
+        <dct:title xml:lang="et-t-de-t0-mtec">Kaugküte: Primaarenergia kogutegur Kaugküte:
+Primaarenergia kogutegur</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Factorul de energie primară total pe an în MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Ciepłownictwo miejskie: Współczynnik energii pierwotnej ogółem Ciepłownictwo miejskie:
+Współczynnik energii pierwotnej ogółem</dct:title>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Facteur d’énergie primaire total par an en MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Daljinsko ogrevanje: Skupni faktor primarne energije Daljinsko ogrevanje:
+Skupni faktor primarne energije</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Totale primaire energiefactor per jaar in MJ-eq/MJ</dct:description>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Celkový faktor primární energie za rok v MJ-eq/MJ</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Bendras pirminės energijos koeficientas per metus MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Távfűtés: Összes primerenergia-tényező</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">Total primary energy factor per year in MJ-eq/MJ</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3debbb1f-762f-4674-ad82-eae5e5648537">
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sl-t-de-t0-mtec">fw_primaerenergetski faktor.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">fw_primaerenergifaktor.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">fw_primaerenergifaktor.csv</dct:title>
+            <dct:title xml:lang="de">fw_primaerenergiefaktor.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">fw_primaerenergiefactor.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">fw_primaerenergie faktor.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/erz_fw_primaerenergiefaktor/download/fw_primaerenergiefaktor.csv"/>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/erz_fw_primaerenergiefaktor/download/fw_primaerenergiefaktor.csv"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >109</dcat:byteSize>
+            <dct:title xml:lang="it-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="pt-t-de-t0-mtec">fw_primaerenergy fator.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">fattur ta’ enerġija fw_primaer.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="ga-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">fw_primaerenergy factor.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="fr-t-de-t0-mtec">fw_primaer facteur d’énergie.csv</dct:title>
+            <dct:identifier>f1863099-9d91-4c72-9c4e-892678c49005</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-11T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">fw_primaerenergijos faktorius.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">fw_primaerenergia faktor.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">fw_primaerenergia faktor.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">fw_primaerenergia tegur.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="ro-t-de-t0-mtec">fw_primaerfactorenergie.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Fernwärme: Primärenergiefaktor total</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Kopējais primārās enerģijas faktors gadā MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Încălzire centralizată: Factorul de energie primară total Încălzire centralizată:
+Factorul de energie primară total</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Összes primerenergia-tényező évente (MJ-eq/MJ)</dct:description>
+        <dcat:keyword xml:lang="de">faktor</dcat:keyword>
+        <dct:description xml:lang="et-t-de-t0-mtec">Primaarenergia kogutegur aastas (MJ-eq/MJ)</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Factor total de energía primaria por año en MJ-eq/MJ</dct:description>
+        <dcat:landingPage rdf:resource="https://ckan-ogdzh.clients.liip.ch/dataset/erz_fw_primaerenergiefaktor"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-12-31T00:00:00</dct:issued>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@zuerich.ch"/>
+            <vcard:fn>Open Data Zürich</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="el-t-de-t0-mtec">Τηλεθέρμανση: Συνολικός συντελεστής πρωτογενούς ενέργειας Τηλεθέρμανση:
+Συνολικός συντελεστής πρωτογενούς ενέργειας</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Centralizuotas šildymas: Bendras pirminės energijos koeficientas Centralizuotas šildymas:
+Bendras pirminės energijos koeficientas</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">An príomhfhachtóir fuinnimh iomlán in aghaidh na bliana in MJ-eq/MJ</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Współczynnik energii pierwotnej ogółem rocznie w MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">District heating: Total primary energy factor</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Fjernvarme: Samlet primær energifaktor Fjernvarme:
+Samlet primær energifaktor</dct:title>
+        <dcat:keyword xml:lang="de">primarenergie</dcat:keyword>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Общ коефициент на първична енергия за година в MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Centralizirano grijanje: Ukupni faktor primarne energije</dct:title>
+        <dct:description xml:lang="de">Totaler Primärenergiefaktor pro Jahr in MJ-eq/MJ</dct:description>
+        <dct:description xml:lang="it-t-de-t0-mtec">Fattore di energia primaria totale all'anno in MJ-eq/MJ</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Primäärienergian kokonaiskerroin vuodessa (MJ-eq/MJ)</dct:description>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Централізоване теплопостачання: Загальний коефіцієнт первинної енергії Централізоване теплопостачання:
+Загальний коефіцієнт первинної енергії</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Total primärenergifaktor per år i MJ-ekv/MJ</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Celkový faktor primárnej energie za rok v MJ-eq/MJ</dct:description>
+        <dcat:keyword xml:lang="de">primarenergiefaktor</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Aquecimento urbano: Fator de energia primária total Aquecimento urbano:
+Fator de energia primária total</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Tisħin distrettwali: Fattur totali tal-enerġija primarja Tisħin distrettwali:
+Fattur totali tal-enerġija primarja</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Il-fattur totali tal-enerġija primarja fis-sena f’MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Téamh ceantair: An príomhfhachtóir fuinnimh iomlán</dct:title>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Fator de energia primária total por ano em MJ-eq/MJ</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Συνολικός συντελεστής πρωτογενούς ενέργειας ανά έτος σε MJ-eq/MJ</dct:description>
+        <dct:identifier>d69124e8-414a-4611-887a-bbd24b2cfe44@stadt-zurich</dct:identifier>
+        <dct:title xml:lang="it-t-de-t0-mtec">Teleriscaldamento: Fattore energetico primario totale</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ukupni faktor primarne energije godišnje u MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kaukolämpö: Primäärienergian kokonaiskerroin</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Skupni faktor primarne energije na leto v MJ-eq/MJ</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Загальний коефіцієнт первинної енергії на рік в MJ-екві/MJ</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/stadt-zurich">
+            <foaf:name>Fernwärme, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>GIS-Zentrum, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Öffentlichkeitsarbeit, Departementssekretariat PRD, Präsidialdepartement</foaf:name>
+            <foaf:name>Stadtreinigung, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Grundlagen + Strategien, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Infrastruktur, Schulamt, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>GIS, Wasserversorgung, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Stadtentwicklung, Präsidialdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, GWZ/BVS</foaf:name>
+            <foaf:name>Stab, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Raumentwicklung &amp; Architektur, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Freiraumplanung 2, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Datenmanagement, Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Energiebeauftragte, Departementssekretariat DIB, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Entsorgungslogistik, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Musikschule Konservatorium Zürich, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Stadtkanzlei, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Kompetenzzentren, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Kataster, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Beschäftigtenstatistik, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Baubewilligungen Abteilung 2, Amt für Baubewilligungen, Hochbaudepartement</foaf:name>
+            <foaf:name>A, ewz, Elektrizitätswerk der Stadt Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Entwässerung, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Park- und Grünanlagen, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Recht+Qualität, Dienstabteilung Verkehr, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Bestattungs- und Friedhofamt, Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Newsroom, Verkehrsbetriebe, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Landwirtschaft, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Fachbereich Labor, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Baugeschichtliches Archiv, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Fachbereich Lärmschutz, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Klärwerk Werdhölzli, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Informatik Kirchgemeinde, Informatik Kirchgemeinden, Verband der stadtzürcherischen evangelisch-reformierten Kirchgemeinden</foaf:name>
+            <foaf:name>Dokumentationsstelle Bauprojekte, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Sektion Bevölkerung, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Kommunikation, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Steueramt, Finanzdepartement</foaf:name>
+            <foaf:name>Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Schulpflege (ZSP), Stadt Zürich</foaf:name>
+            <foaf:name>Programmleitung BIM/GIS, Verkehrsbetriebe, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Kontraktmanagement, Zentrale Verwaltung, Sozialdepartement</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="de">fernwarme</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-20T00:00:00</dct:modified>
+        <dct:description xml:lang="da-t-de-t0-mtec">Samlet primærenergifaktor pr. år i MJ-eq/MJ</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Fjärrvärme: Total primärenergifaktor Fjärrvärme:
+Total primärenergifaktor</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Diaľkové vykurovanie: Faktor celkovej primárnej energie Diaľkové vykurovanie:
+Faktor celkovej primárnej energie</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Dálkové vytápění: Celkový primární energetický faktor</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Calefacción urbana: Factor total de energía primaria</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Stadsverwarming: Totale primaire energiefactor Stadsverwarming:
+Totale primaire energiefactor</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Централно отопление: Общ коефициент на първична енергия</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Centralizētā siltumapgāde: Kopējais primārās enerģijas faktors Centralizētā siltumapgāde:
+Kopējais primārās enerģijas faktors</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Chauffage urbain: Facteur d’énergie primaire total Chauffage urbain:
+Facteur d’énergie primaire total</dct:title>
+        <dct:language>de</dct:language>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

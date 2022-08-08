@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/99f01b8c-cd03-46f5-b473-4e33a84dbd7c-stadt-zurich">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:11:46Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:07:09Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/99f01b8c-cd03-46f5-b473-4e33a84dbd7c-stadt-zurich">
+        <dct:title xml:lang="ro-t-de-t0-mtec">Încălzire centralizată: Performanță anuală subscrisă</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Diaľkové vykurovanie: Ročný predplatený výkon</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Kopējā jauda, kas parakstīta MW gadā saskaņā ar siltumapgādes līgumiem</dct:description>
+        <dct:description xml:lang="it-t-de-t0-mtec">Capacità totale sottoscritta in MW all'anno conformemente ai contratti di fornitura di calore</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Tisħin distrettwali: Prestazzjoni annwali sottoskritta</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Total kapacitet som tecknats i MW per år i enlighet med värmeförsörjningsavtalen</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dcat:landingPage rdf:resource="https://ckan-ogdzh.clients.liip.ch/dataset/erz_fw_abonnierte_leistung"/>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A hőellátási szerződéseknek megfelelően MW-ban jegyzett teljes kapacitás</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Samlet kapacitet i MW pr. år i overensstemmelse med varmeforsyningskontrakterne</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Teleriscaldamento: Performance annuale sottoscritta</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Stadsverwarming: Jaarlijkse geabonneerde prestatie</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Il-kapaċità totali sottoskritta f’MW kull sena skont il-kuntratti tal-provvista tas-sħana</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Общ записан капацитет в MW годишно в съответствие с договорите за доставка на топлинна енергия</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ukupni prijavljeni kapacitet u MW godišnje u skladu s ugovorima o opskrbi toplinskom energijom</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Τηλεθέρμανση: Ετήσια συνδρομητική απόδοση</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Celková kapacita upísaná v MW za rok v súlade so zmluvami o dodávke tepla</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Ciepłownictwo miejskie: Roczne wyniki subskrybowane</dct:title>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-12-31T00:00:00</dct:issued>
+        <dct:title xml:lang="es-t-de-t0-mtec">Calefacción urbana: Rendimiento anual suscrito</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Capacidad total suscrita en MW por año de acuerdo con los contratos de suministro de calor</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Centralizētā siltumapgāde: Ikgadējais parakstītais sniegums</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Fjernvarme: Årlig tilmeldt præstation</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Vastavalt soojustarnelepingutele märgitud koguvõimsus megavattides aastas</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Total de la puissance souscrite au titre des contrats de fourniture de chaleur en MW par an</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Bendras pagal šilumos tiekimo sutartis pasirašytas pajėgumas MW per metus</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Aquecimento urbano: Desempenho anual subscrito</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Dálkové vytápění: Roční předplacené výkony</dct:title>
+        <dct:title xml:lang="de">Fernwärme: Jährlich abonnierte Leistung</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@zuerich.ch"/>
+            <vcard:fn>Open Data Zürich</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="en-t-de-t0-mtec">Total capacity subscribed in MW per year in accordance with the heat supply contracts</dct:description>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Daljinsko ogrevanje: Letna naročena uspešnost</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Συνολική ισχύς εγγεγραμμένη σε MW ετησίως σύμφωνα με τις συμβάσεις προμήθειας θερμότητας</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Skupna naročena zmogljivost v MW na leto v skladu s pogodbami o dobavi toplote</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/stadt-zurich">
+            <foaf:name>Fernwärme, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>GIS-Zentrum, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Öffentlichkeitsarbeit, Departementssekretariat PRD, Präsidialdepartement</foaf:name>
+            <foaf:name>Stadtreinigung, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Grundlagen + Strategien, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Infrastruktur, Schulamt, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>GIS, Wasserversorgung, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Stadtentwicklung, Präsidialdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, GWZ/BVS</foaf:name>
+            <foaf:name>Stab, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Raumentwicklung &amp; Architektur, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Freiraumplanung 2, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Datenmanagement, Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Energiebeauftragte, Departementssekretariat DIB, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Entsorgungslogistik, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Musikschule Konservatorium Zürich, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Stadtkanzlei, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Kompetenzzentren, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Kataster, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Beschäftigtenstatistik, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Baubewilligungen Abteilung 2, Amt für Baubewilligungen, Hochbaudepartement</foaf:name>
+            <foaf:name>A, ewz, Elektrizitätswerk der Stadt Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Entwässerung, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Park- und Grünanlagen, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Recht+Qualität, Dienstabteilung Verkehr, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Bestattungs- und Friedhofamt, Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Newsroom, Verkehrsbetriebe, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Landwirtschaft, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Fachbereich Labor, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Baugeschichtliches Archiv, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Fachbereich Lärmschutz, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Klärwerk Werdhölzli, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Informatik Kirchgemeinde, Informatik Kirchgemeinden, Verband der stadtzürcherischen evangelisch-reformierten Kirchgemeinden</foaf:name>
+            <foaf:name>Dokumentationsstelle Bauprojekte, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Sektion Bevölkerung, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Kommunikation, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Steueramt, Finanzdepartement</foaf:name>
+            <foaf:name>Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Schulpflege (ZSP), Stadt Zürich</foaf:name>
+            <foaf:name>Programmleitung BIM/GIS, Verkehrsbetriebe, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Kontraktmanagement, Zentrale Verwaltung, Sozialdepartement</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Kokonaiskapasiteetti, joka on merkitty megawatteina vuodessa lämmöntoimitussopimusten mukaisesti</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Централно отопление: Годишни записани резултати</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/98a3d791-e37e-4423-b8c3-7f45b46277bd">
+            <dct:title xml:lang="mt-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="en-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">fw_shuibscríofa_ performance.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="de">fw_abonnierte_leistung.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/erz_fw_abonnierte_leistung/download/fw_abonnierte_leistung.csv"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">fw_subscribed_ Performance.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >88</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/erz_fw_abonnierte_leistung/download/fw_abonnierte_leistung.csv"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">fw_Abonnete_Power.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lt-t-de-t0-mtec">fw_subscription_ performance.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-11T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">fw_subscribed_ performance.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="hr-t-de-t0-mtec">fw_subscribed_ performance.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">fw_subscribed_ performance.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">fw_subscribed_ performance.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">fw_subscribed_ performance.csv</dct:title>
+            <dct:identifier>d7afcdd7-9306-4e1d-80c3-1200cb7c27ea</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">fw_subscribed_performance.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="de">Summe der gemäss den Wärmelieferungsverträgen abonnierten Leistung in MW pro Jahr</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">An acmhainn iomlán suibscríofa in MW in aghaidh na bliana i gcomhréir leis na conarthaí soláthair teasa</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Fjärrvärme: Årlig prenumerationsprestation</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Centralizirano grijanje: Godišnja pretplaćena izvedba</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kaukolämpö: Vuosittaiset merkityt suoritukset</dct:title>
+        <dct:identifier>99f01b8c-cd03-46f5-b473-4e33a84dbd7c@stadt-zurich</dct:identifier>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Capacidade total subscrita em MW por ano em conformidade com os contratos de fornecimento de calor</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Celková kapacita upsané v MW za rok v souladu se smlouvami o dodávkách tepla</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Centralizuotas šildymas: Metinis prenumeruojamas veiklos rezultatas</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Централізоване теплопостачання: Щорічний підписний виступ</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kaugküte: Iga-aastane tellitud tulemus</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Téamh ceantair: Feidhmíocht bhliantúil suibscríofa</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Totale capaciteit in MW per jaar volgens de warmteleveringscontracten</dct:description>
+        <dcat:keyword xml:lang="de">fernwarme-leistung</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Távfűtés: Éves előfizetett teljesítmény</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-20T00:00:00</dct:modified>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Загальна потужність, підписана в МВт на рік відповідно до договорів теплопостачання</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Całkowita moc subskrybowana w MW rocznie zgodnie z umowami na dostawy ciepła</dct:description>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Capacitatea totală subscrisă în MW pe an în conformitate cu contractele de furnizare de energie termică</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">District heating: Annual subscribed performance</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Chauffage urbain: Abonnement annuel à la performance</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>99f01b8c-cd03-46f5-b473-4e33a84dbd7c@stadt-zurich</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>66f62d23cdef9c9a861ac42cd6891520</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:07:19Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/99f01b8c-cd03-46f5-b473-4e33a84dbd7c-stadt-zurich"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:00Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

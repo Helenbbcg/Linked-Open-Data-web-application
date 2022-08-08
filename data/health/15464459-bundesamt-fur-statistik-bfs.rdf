@@ -1,0 +1,568 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/15464459-bundesamt-fur-statistik-bfs">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/15464459-bundesamt-fur-statistik-bfs">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6ae54536-b2bb-4c5e-acda-81db362f9bf6">
+            <dct:identifier>15464462-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">Health — Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Sláinte — staitisticí póca 2020</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervis – Pocket statistics 2020</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselība — Kabatas statistika 2020. gadā</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464462/master"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464462/master"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gezondheid — Pocketstatistieken 2020</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hälsa – Fickstatistik 2020</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zdraví – Kapesní statistiky 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Здравеопазване — Джобна статистика за 2020 г.</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="de">Gesundheit - Taschenstatistik 2020</dct:title>
+            <dct:language>de</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-02T00:00:00</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikata. 2020 m. kišeninė statistika</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tervis – Pocket statistics 2020</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3892649c-591d-4618-89c0-13cfcb707023">
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464463/master"/>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:identifier>15464463-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervis – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselība — Pocket Statistics 2020</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zdraví – Kapesní statistika 2020</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464463/master"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dct:title xml:lang="fr">Santé - Statistique de poche 2020</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Здравеопазване — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Gezondheid — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Sláinte — Staitisticí Póca 2020</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Gesundheit – Taschenstatistik 2020</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hälsa – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-02T00:00:00</dct:modified>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikata. 2020 m. kišenės statistika</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Sláinte — staitisticí póca 2020</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Hälsa – Fickstatistik 2020</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Здравеопазване — Джобна статистика за 2020 г.</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="fr">Santé - Statistique de poche 2020</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/83761af6-f2f8-4e35-ac51-85e7254ef165">
+            <dct:title xml:lang="de-t-fr-t0-mtec">Gesundheit – Taschenstatistik 2020</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>fr</dct:language>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="fr">Santé - Statistique de poche 2020</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Sláinte — Staitisticí Póca 2020</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hälsa – Pocket Statistics 2020</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Здравеопазване — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervis – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zdraví – Kapesní statistika 2020</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Gezondheid — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikata. 2020 m. kišenės statistika</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464463/appendix"/>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:identifier>15464463-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464463/appendix"/>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselība — Pocket Statistics 2020</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-29T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8aca8274-f676-4919-95a3-ba2fc90b76fb">
+            <dct:title xml:lang="hu-t-it-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Tervis – Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Veselība — Kabatas statistika 2020. gadā</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Здравеопазване — Джобна статистика за 2020 г.</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Health — Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Sláinte — staitisticí póca 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="it">Salute - Statistica tascabile 2020</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Zdraví – Kapesní statistiky 2020</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Gezondheid — Pocketstatistieken 2020</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Gesundheit – Taschenstatistik 2020</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Sveikata. 2020 m. kišeninė statistika</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Hälsa – Fickstatistik 2020</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:identifier>15464460-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/1542-2000"/>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Veselība — Kabatas statistika 2020. gadā</dct:title>
+        <dcat:keyword xml:lang="it">pubblicazione</dcat:keyword>
+        <dct:identifier>15464459@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1e47d2c7-e01b-4d25-93f4-ef30295ebcfe">
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervis – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:identifier>15464463-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zdraví – Kapesní statistika 2020</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/1541-2000"/>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikata. 2020 m. kišenės statistika</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Sláinte — Staitisticí Póca 2020</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Здравеопазване — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hälsa – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Gezondheid — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Gesundheit – Taschenstatistik 2020</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselība — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="fr">Santé - Statistique de poche 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:11:52.718442</dct:modified>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/24468047-71f7-4d7e-8a1c-c3538c9b7fe1">
+            <dct:language>en</dct:language>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-en-t0-mtec">Tervis – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Gezondheid — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Veselība — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Hälsa – Pocket Statistics 2020</dct:title>
+            <dct:identifier>15464461-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/en/1543-2000"/>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Sveikata. 2020 m. kišenės statistika</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Sláinte — Staitisticí Póca 2020</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:title xml:lang="en">Health - Pocket Statistics 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Gesundheit – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Zdraví – Kapesní statistika 2020</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Здравеопазване — Pocket Statistics 2020</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-02-12T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Sveikata. 2020 m. kišeninė statistika</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/59ad8802-2ca1-4e2b-93cf-09dad9d1de41">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-02T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464461/master"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Здравеопазване — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Zdraví – Kapesní statistika 2020</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Gesundheit – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:identifier>15464461-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464461/master"/>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Sveikata. 2020 m. kišenės statistika</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Tervis – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Veselība — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:language>en</dct:language>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Gezondheid — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:title xml:lang="en">Health - Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Sláinte — Staitisticí Póca 2020</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Hälsa – Pocket Statistics 2020</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2aa2c2ad-f063-4ef9-8ba9-e36a57d1b9a7">
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Hälsa – Pocket Statistics 2020</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464461/appendix"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464461/appendix"/>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Sláinte — Staitisticí Póca 2020</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Tervis – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="en">Health - Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Sveikata. 2020 m. kišenės statistika</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-29T00:00:00</dct:modified>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it-t-en-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Gezondheid — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Здравеопазване — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Zdraví – Kapesní statistika 2020</dct:title>
+            <dct:identifier>15464461-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Gesundheit – Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Veselība — Pocket Statistics 2020</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>it</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/df83b798-51c3-4889-8185-05ff2b5ade1e">
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Hälsa – Fickstatistik 2020</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Tervis – Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Gesundheit – Taschenstatistik 2020</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464460/appendix"/>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464460/appendix"/>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Gezondheid — Pocketstatistieken 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Health — Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="it">Salute - Statistica tascabile 2020</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:identifier>15464460-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Zdraví – Kapesní statistiky 2020</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Sláinte — staitisticí póca 2020</dct:title>
+            <dct:language>it</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-29T00:00:00</dct:modified>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Veselība — Kabatas statistika 2020. gadā</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Здравеопазване — Джобна статистика за 2020 г.</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Sveikata. 2020 m. kišeninė statistika</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">publication</dcat:keyword>
+        <dcat:keyword xml:lang="fr">publication</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:title xml:lang="it">Salute - Statistica tascabile 2020</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+        <dct:language>en</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5aa8c029-858e-4777-8060-691b1223c3a2">
+            <dct:title xml:lang="cs-t-it-t0-mtec">Zdraví – Kapesní statistiky 2020</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Gesundheit – Taschenstatistik 2020</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464460/master"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-02T00:00:00</dct:modified>
+            <dct:title xml:lang="it">Salute - Statistica tascabile 2020</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Здравеопазване — Джобна статистика за 2020 г.</dct:title>
+            <dct:identifier>15464460-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464460/master"/>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Hälsa – Fickstatistik 2020</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Veselība — Kabatas statistika 2020. gadā</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Sveikata. 2020 m. kišeninė statistika</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Sláinte — staitisticí póca 2020</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Gezondheid — Pocketstatistieken 2020</dct:title>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="en-t-it-t0-mtec">Health — Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="et-t-it-t0-mtec">Tervis – Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/eec9cf95-ddc1-49ab-9a70-79a756eac3fd">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselība — Kabatas statistika 2020. gadā</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464462/appendix"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Health — Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:format>XLS</dct:format>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15464462/appendix"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervis – Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zdraví – Kapesní statistiky 2020</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Sláinte — staitisticí póca 2020</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:identifier>15464462-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de">Gesundheit - Taschenstatistik 2020</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hälsa – Fickstatistik 2020</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gezondheid — Pocketstatistieken 2020</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikata. 2020 m. kišeninė statistika</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-29T00:00:00</dct:modified>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Здравеопазване — Джобна статистика за 2020 г.</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Gesundheit - Taschenstatistik 2020</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b506fba3-a241-4760-bb35-ec17df712608">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Zdrowie – statystyki kieszonkowe 2020</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zdraví – Kapesní statistiky 2020</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egészség – Zsebstatisztika 2020</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Zdravstvo – Džepni statistički podaci za 2020.</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Health — Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sundhed — Lommestatistik 2020</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zdravje – Pocket statistika 2020</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Santé — Statistiques de poche 2020</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveys – Taskutilastot 2020</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">Υγεία — Στατιστικές τσέπης 2020</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervis – Pocket statistics 2020</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Salute — Statistiche tascabili 2020</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hälsa – Fickstatistik 2020</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Saħħa — Statistika tal-but 2020</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikata. 2020 m. kišeninė statistika</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Здравеопазване — Джобна статистика за 2020 г.</dct:title>
+            <dct:identifier>15464462-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Sănătate – Statistici de buzunar pentru 2020</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Sláinte — staitisticí póca 2020</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/1540-2000"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-02-12T00:00:00</dct:issued>
+            <dct:title xml:lang="de">Gesundheit - Taschenstatistik 2020</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Saúde — Estatísticas de algibeira 2020</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselība — Kabatas statistika 2020. gadā</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gezondheid — Pocketstatistieken 2020</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salud — Estadísticas de bolsillo 2020</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/1540-2000"/>
+        <rdfs:seeAlso>21244123@bundesamt-fur-statistik-bfs</rdfs:seeAlso>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Gezondheid — Pocketstatistieken 2020</dct:title>
+        <dct:title xml:lang="en">Health - Pocket Statistics 2020</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Zdravie – Vreckové štatistiky 2020</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Zdraví – Kapesní statistiky 2020</dct:title>
+        <dcat:keyword xml:lang="de">publikation</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Здоров'я - Кишенькова статистика 2020</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:11Z</dct:modified>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:47:31Z</edp:transReceived>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>39b7e9a392bb2bd370d262e9db839c95</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>15464459@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/15464459-bundesamt-fur-statistik-bfs"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:59Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:59Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

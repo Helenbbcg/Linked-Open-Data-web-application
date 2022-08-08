@@ -1,0 +1,415 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14963283-bundesamt-fur-statistik-bfs">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:10Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>b8592d2baaa7aabae7dc79e55ed134fd</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14963283-bundesamt-fur-statistik-bfs"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:23:16Z</edp:transReceived>
+    <dct:identifier>14963283@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:54Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14963283-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/84c4c6eb-3b6c-4b78-a0c3-4c22182e6409">
+            <dct:title xml:lang="hu-t-it-t0-mtec">Az Egyetemi Iskolák statisztikája 2019</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Estadísticas de Escuelas Universitarias 2019</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Statistik der Universitätsschulen 2019</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Statistika univerzitetnih šol 2019</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Yliopistokoulujen tilastot 2019</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Статистика на университетските училища 2019</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">2019 m. universitetinių mokyklų statistika</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963284/master"/>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Statistik över universiteten 2019</dct:title>
+            <dct:format>PDF</dct:format>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Statystyki szkół wyższych 2019</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Štatistika univerzitných škôl 2019</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Statistika par universitātes skolām 2019</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Statistika tal-Iskejjel Universitarji 2019</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Statistika sveučilišnih škola 2019</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Staitisticí na Scoileanna Ollscoile 2019</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Statistiky univerzitních škol 2019</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-19T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-it-t0-mtec">Στατιστικές Πανεπιστημιακών Σχολών 2019</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963284/master"/>
+            <dct:title xml:lang="it">Statistica delle scuole universitarie 2019</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Statistiques des écoles universitaires 2019</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Ülikoolikoolide statistika 2019</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Statistik over universiteternes skoler 2019</dct:title>
+            <dct:identifier>14963284-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Статистика університетських шкіл 2019</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Estatísticas das Escolas Universitárias 2019</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Statistici ale Școlilor Universitare 2019</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Statistieken van University Schools 2019</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Statistics of University Schools 2019</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Университетска статистика 2019</dct:title>
+        <dct:language>it</dct:language>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Statistici Universitare 2019</dct:title>
+        <dcat:keyword xml:lang="de">bildungsabschlusse-der-hochschulen</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Högskolans statistik 2019</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi statisztika 2019</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fc1e3339-635b-4535-a822-48a652cd4424">
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Statistik över universiteten 2019</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Statistika sveučilišta 2019</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Statistics of universities 2019</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">ΣΤΑΤΙΣΤΙΚΕΣ ΠΑΝΕΠΙΣΤΗΜΙΩΝ 2019</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estadísticas de universidades 2019</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Statistika univerz 2019</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">2019 m. universitetų statistika</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Statistiky vysokých škol 2019</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estatísticas das universidades 2019</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Статистика університетів 2019</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Статистика на университетите 2019</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Yliopistojen tilastot 2019</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963286/master"/>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikoolide statistika 2019</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štatistika univerzít 2019</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egyetemek statisztikája 2019</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Statystyki uniwersytetów 2019</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-19T00:00:00</dct:modified>
+            <dct:identifier>14963286-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Augstskolu statistika 2019</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Statistici ale universităților 2019</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Statistika tal-universitajiet 2019</dct:title>
+            <dct:title xml:lang="fr">Statistique des hautes écoles 2019</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Staitisticí na n-ollscoileanna 2019</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Statistik over universiteterne 2019</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Hochschulstatistik 2019</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Statistieken van universiteiten 2019</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963286/master"/>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Statistiche delle università 2019</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bf4a3aee-1497-4e0c-8aa3-ffc3b21d36c1">
+            <dct:identifier>14963285-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-en-t0-mtec">Estadísticas de las instituciones de educación superior 2019</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Statistici ale instituțiilor de învățământ superior 2019</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Augstākās izglītības iestāžu statistika 2019</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it-t-en-t0-mtec">Statistiche degli istituti di istruzione superiore 2019</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Статистика на висшите учебни заведения за 2019 г.</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Statistik över högskolor 2019</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Statistiques des établissements d’enseignement supérieur 2019</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Statystyki instytucji szkolnictwa wyższego 2019</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Estatísticas das instituições de ensino superior 2019</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963285/master"/>
+            <dct:title xml:lang="et-t-en-t0-mtec">Kõrgharidusasutuste statistika 2019</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Statistik over videregående uddannelsesinstitutioner 2019</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Statistieken van instellingen voor hoger onderwijs 2019</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-19T00:00:00</dct:modified>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Staitisticí na n-institiúidí ardoideachais 2019</dct:title>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Korkeakoulujen tilastot 2019</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Statistika visokih učilišta 2019.</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Štatistika inštitúcií vysokoškolského vzdelávania 2019</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Статистика закладів вищої освіти 2019</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Statistiky vysokoškolských institucí za rok 2019</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Στατιστικά στοιχεία των ιδρυμάτων τριτοβάθμιας εκπαίδευσης 2019</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2019 m. aukštojo mokslo institucijų statistika</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Statistika visokošolskih zavodov za leto 2019</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Felsőoktatási intézmények statisztikái 2019</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Statistik der Hochschulen 2019</dct:title>
+            <dct:title xml:lang="en">Statistics of higher education institutions 2019</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Statistika ta’ istituzzjonijiet ta’ edukazzjoni għolja 2019</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963285/master"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">educational-degrees-of-higher-education-institutions</dcat:keyword>
+        <dcat:keyword xml:lang="fr">publication</dcat:keyword>
+        <dcat:keyword xml:lang="en">publication</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Sveučilišna statistika 2019</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dfa5e5c3-abc7-41eb-8b0b-e4d38b6571ce">
+            <dct:title xml:lang="hr-t-it-t0-mtec">Statistika sveučilišnih škola 2019</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Statistika tal-Iskejjel Universitarji 2019</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Statistik der Universitätsschulen 2019</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Statistika par universitātes skolām 2019</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Statistik over universiteternes skoler 2019</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Staitisticí na Scoileanna Ollscoile 2019</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Statistiques des écoles universitaires 2019</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Statistics of University Schools 2019</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Statistik över universiteten 2019</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Statistici ale Școlilor Universitare 2019</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Στατιστικές Πανεπιστημιακών Σχολών 2019</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/1801-1900"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Statistiky univerzitních škol 2019</dct:title>
+            <dct:identifier>14963284-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Статистика університетських шкіл 2019</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Štatistika univerzitných škôl 2019</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Ülikoolikoolide statistika 2019</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">2019 m. universitetinių mokyklų statistika</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Yliopistokoulujen tilastot 2019</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Статистика на университетските училища 2019</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Az Egyetemi Iskolák statisztikája 2019</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Estadísticas de Escuelas Universitarias 2019</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Statistika univerzitetnih šol 2019</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Statistieken van University Schools 2019</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Statystyki szkół wyższych 2019</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Estatísticas das Escolas Universitárias 2019</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="it">Statistica delle scuole universitarie 2019</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">diplomes-des-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="fr">Statistique des hautes écoles 2019</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Augstskolu statistika 2019</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Univerzitní statistika 2019</dct:title>
+        <dct:language>de</dct:language>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:11:32.973103</dct:modified>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Statystyki uniwersyteckie 2019</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Univerzitná štatistika 2019</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Univerzitetna statistika 2019</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/da0213d4-0646-4938-9a34-87fca64a52e9">
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estatísticas da Universidade 2019</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Statistika Universitarja 2019</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Augstskolu statistika 2019</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sveučilišna statistika 2019</dct:title>
+            <dct:title xml:lang="de">Hochschulstatistik 2019</dct:title>
+            <dct:identifier>14963287-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi statisztika 2019</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πανεπιστημιακές στατιστικές 2019</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Statystyki uniwersyteckie 2019</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Университетска статистика 2019</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ülikooli statistika 2019</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Univerzitná štatistika 2019</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963287/master"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Університетська статистика 2019</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Statistiche universitarie 2019</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistotilastot 2019</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Högskolans statistik 2019</dct:title>
+            <dct:format>PDF</dct:format>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="da-t-de-t0-mtec">Universitetsstatistik 2019</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estadísticas universitarias 2019</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Univerzitetna statistika 2019</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Univerzitní statistika 2019</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">University Statistics 2019</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Statistiques de l’enseignement supérieur 2019</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Statistici Universitare 2019</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Universiteto statistika 2019</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Universiteit Statistieken 2019</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14963287/master"/>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí Ollscoile 2019</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-19T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/69ef7b55-5a2c-4aae-8aef-97581137c7ca">
+            <dct:title xml:lang="sk-t-en-t0-mtec">Štatistika inštitúcií vysokoškolského vzdelávania 2019</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Estatísticas das instituições de ensino superior 2019</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Statystyki instytucji szkolnictwa wyższego 2019</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Στατιστικά στοιχεία των ιδρυμάτων τριτοβάθμιας εκπαίδευσης 2019</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Статистика закладів вищої освіти 2019</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Statistika ta’ istituzzjonijiet ta’ edukazzjoni għolja 2019</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Statistik över högskolor 2019</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2019 m. aukštojo mokslo institucijų statistika</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Statistiky vysokoškolských institucí za rok 2019</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Kõrgharidusasutuste statistika 2019</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Statistika visokošolskih zavodov za leto 2019</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Estadísticas de las instituciones de educación superior 2019</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Statistik over videregående uddannelsesinstitutioner 2019</dct:title>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Statistieken van instellingen voor hoger onderwijs 2019</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Staitisticí na n-institiúidí ardoideachais 2019</dct:title>
+            <dct:format>HTML</dct:format>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/en/1802-1900"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Felsőoktatási intézmények statisztikái 2019</dct:title>
+            <dct:title xml:lang="en">Statistics of higher education institutions 2019</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Statistiques des établissements d’enseignement supérieur 2019</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Statistik der Hochschulen 2019</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Statistika visokih učilišta 2019.</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Korkeakoulujen tilastot 2019</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Statistici ale instituțiilor de învățământ superior 2019</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Statistiche degli istituti di istruzione superiore 2019</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Augstākās izglītības iestāžu statistika 2019</dct:title>
+            <dct:identifier>14963285-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Статистика на висшите учебни заведения за 2019 г.</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Університетська статистика 2019</dct:title>
+        <dct:title xml:lang="de">Hochschulstatistik 2019</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Πανεπιστημιακές στατιστικές 2019</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:language>en</dct:language>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="es-t-de-t0-mtec">Estadísticas universitarias 2019</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="it">Statistica delle scuole universitarie 2019</dct:title>
+        <dct:identifier>14963283@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="en">Statistics of higher education institutions 2019</dct:title>
+        <dcat:keyword xml:lang="de">publikation</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cc06123c-26b2-46f2-b561-770417188ed8">
+            <dct:title xml:lang="es-t-de-t0-mtec">Estadísticas universitarias 2019</dct:title>
+            <dct:identifier>14963287-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Univerzitetna statistika 2019</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">University Statistics 2019</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πανεπιστημιακές στατιστικές 2019</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi statisztika 2019</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Universitetsstatistik 2019</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ülikooli statistika 2019</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Statistiques de l’enseignement supérieur 2019</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Universiteto statistika 2019</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Университетска статистика 2019</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estatísticas da Universidade 2019</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sveučilišna statistika 2019</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Statystyki uniwersyteckie 2019</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Augstskolu statistika 2019</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Statistika Universitarja 2019</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistotilastot 2019</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Univerzitní statistika 2019</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/1799-1900"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Univerzitná štatistika 2019</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Högskolans statistik 2019</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Statistiche universitarie 2019</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Statistici Universitare 2019</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí Ollscoile 2019</dct:title>
+            <dct:title xml:lang="de">Hochschulstatistik 2019</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Університетська статистика 2019</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Universiteit Statistieken 2019</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/1799-1900"/>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ülikooli statistika 2019</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f9128101-fdc4-4b43-8977-6e24b3444f3d">
+            <dct:title xml:lang="it-t-fr-t0-mtec">Statistiche delle università 2019</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Hochschulstatistik 2019</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">ΣΤΑΤΙΣΤΙΚΕΣ ΠΑΝΕΠΙΣΤΗΜΙΩΝ 2019</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Statystyki uniwersytetów 2019</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Yliopistojen tilastot 2019</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Статистика на университетите 2019</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">2019 m. universitetų statistika</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Statistik över universiteten 2019</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Augstskolu statistika 2019</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Statistika univerz 2019</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štatistika univerzít 2019</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/1800-1900"/>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Статистика університетів 2019</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Staitisticí na n-ollscoileanna 2019</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Statistika sveučilišta 2019</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estadísticas de universidades 2019</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Statistika tal-universitajiet 2019</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estatísticas das universidades 2019</dct:title>
+            <dct:title xml:lang="fr">Statistique des hautes écoles 2019</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Statistici ale universităților 2019</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egyetemek statisztikája 2019</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Statistik over universiteterne 2019</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Statistieken van universiteiten 2019</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Statistiky vysokých škol 2019</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-03-23T00:00:00</dct:issued>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Statistics of universities 2019</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikoolide statistika 2019</dct:title>
+            <dct:identifier>14963286-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistotilastot 2019</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Universiteto statistika 2019</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Statistika Universitarja 2019</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-03-23T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="it">titoli-rilasciati-di-universita</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Estatísticas da Universidade 2019</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Universiteit Statistieken 2019</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Staitisticí Ollscoile 2019</dct:title>
+        <dcat:keyword xml:lang="it">pubblicazione</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Universitetsstatistik 2019</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,475 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/6e48cf86-e713-4c31-969c-6045609f24be">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>ece9e44f7d481933c68714326827408b</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/6e48cf86-e713-4c31-969c-6045609f24be">
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset innehåller adress, operatör, tillgänglighet och tomtider för postlådorna i Hanseatic och University City of Rostock. Resurserna uppdateras vanligtvis med följande intervall: 365 dagar</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0f495408-5c25-4ac8-b248-acdb0b3aa6f3">
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/postbriefkaesten/wms"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be/resource/c03eaeab-2315-4721-adfa-f8b2c44188c4</dct:identifier>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+            <dct:title>Postbriefkästen</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-03-13T08:49:56</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:keyword>infrastruktur</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor obsahuje umístění poštovních schránek v hanzovním a univerzitním městě Rostock s informacemi o adrese, obsluze, dostupnosti a prázdných časech. Zdroje se obvykle aktualizují v následujících intervalech: 365 dní</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/54b61542-941b-4d76-bb89-f79d01420a12">
+            <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.gml"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >242341</dcat:byteSize>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.gml"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-03-13T08:49:56</dct:issued>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >de84a092b32d46b2cfd574b90a6b96853aa064dec60fe0c60ac0bb76ec505398</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+            <dct:title>Postbriefkästen</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be/resource/af72f0c9-bdf1-4a58-89d3-24d35850c900</dct:identifier>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dfb632cc-b0aa-491a-9de4-506d15a7a606">
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+            <dct:title>Postbriefkästen</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be/resource/78cefeba-8924-4ef7-9761-3e8d847890f4</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-03-19T15:17:03</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/postbriefkaesten/wfs"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jinkludi l-postijiet tal-kaxxi postali fil-Belt Anseatika u tal-Università ta’ Rostock b’informazzjoni dwar l-indirizz, l-operatur, l-aċċessibbiltà u l-ħinijiet vojta. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 365 ġurnata</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/aebe79c4-c6be-4454-88d3-5f7397f3da91">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >ba8a0157c6ea2c36dfece74a82c23d292d80b5698cb63ad6c7ccec9c079424a2</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.json"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+            <dct:title>Postbriefkästen</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.json"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be/resource/d822cfb8-b849-46b7-8135-005685980074</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-03-13T08:49:56</dct:issued>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >108747</dcat:byteSize>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title>Postbriefkästen</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4f05450d-0916-42ed-8306-7c6de4ff8014">
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.xlsx"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >581c4b662cc50c557489e964db71df7dff346be65c86c093977868c7817bad80</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+            <dct:title>Postbriefkästen</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be/resource/c9132059-6355-4b81-8b16-064b36801fd4</dct:identifier>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-03-13T08:49:56</dct:issued>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >17133</dcat:byteSize>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.xlsx"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati include le posizioni delle caselle di posta nella città anseatica e universitaria di Rostock con informazioni su indirizzo, operatore, accessibilità e orari vuoti. Le risorse sono solitamente aggiornate ai seguenti intervalli: 365 giorni</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje lokacije nabiralnikov v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, operaterju, dostopnosti in praznih časih. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 365 dni</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter placeringen af postkasserne i Hansestaden og University City of Rostock med oplysninger om adresse, operatør, tilgængelighed og tomme tidspunkter. Ressourcerne opdateres normalt med følgende intervaller: 365 dage</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver Hanzas un Rostokas Universitātes pastkastīšu atrašanās vietas ar informāciju par adresi, operatoru, pieejamību un tukšiem laikiem. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 365 dienas</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui os locais das caixas de correio na Cidade Hanseática e Universitária de Rostock com informações sobre endereço, operador, acessibilidade e horários vazios. Os recursos são geralmente atualizados nos seguintes intervalos: 365 dias</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye la ubicación de los buzones en el Hanseático y University City de Rostock con información sobre dirección, operador, accesibilidad y tiempos vacíos. Por lo general, los recursos se actualizan en los siguientes intervalos: 365 días</dct:description>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include locațiile cutiilor poștale din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, operatorul, accesibilitatea și orele goale. Resursele sunt, de obicei, actualizate la următoarele intervale: 365 de zile</dct:description>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:36:10.796123</dct:modified>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes the locations of the mailboxes in the Hanseatic and University City of Rostock with information on address, operator, accessibility and empty times. The resources are usually updated at the following intervals: 365 days</dct:description>
+        <dct:accessRights>public</dct:accessRights>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва местоположението на пощенските кутии в ханзейския и университетския град Рощок с информация за адреса, оператора, достъпността и празните часове. Ресурсите обикновено се актуализират на следните интервали: 365 дни</dct:description>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Postbriefkästen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Betreiber, Barrierefreiheit und Leerungszeiten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les emplacements des boîtes aux lettres dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, l’opérateur, l’accessibilité et les temps de vacance. Les ressources sont généralement mises à jour à l’intervalle suivant: 365 jours</dct:description>
+        <dct:identifier>6e48cf86-e713-4c31-969c-6045609f24be</dct:identifier>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych zawiera lokalizacje skrzynek pocztowych w Hanzeatyce i University City of Rostock z informacjami na temat adresu, operatora, dostępności i pustych czasów. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 365 dni</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει τις θέσεις των γραμματοκιβωτίων στο Hanseatic και University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, τον χειριστή, την προσβασιμότητα και τους χρόνους κενού. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 365 ημέρες</dct:description>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear sa tacar sonraí seo suíomhanna na mboscaí poist i gCathair Rostock Hanseatic agus Ollscoil na hÉireann le heolas faoi sheoladh, oibreoir, inrochtaineacht agus amanna folmha. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 365 lá</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de locaties van de mailboxen in de Hanze- en Universiteitsstad Rostock met informatie over adres, operator, bereikbaarheid en lege tijden. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 365 dagen</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje lokacije poštanskih sandučića u Hanseatic i University City of Rostock s informacijama o adresi, operateru, dostupnosti i praznim vremenima. Resursi se obično ažuriraju u sljedećim intervalima: 365 dana</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4f8792b7-bf6c-4a13-baf9-5432d1fe9552">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-03-13T08:49:56</dct:issued>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >aa3f29f24741e4a1d085a9ea283fcd830dc8192cf11bfa71d4d7547b851e29d0</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.csv"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.csv"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title>Postbriefkästen</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >44449</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be/resource/fc1b6be1-c1aa-474c-984a-f7b80dce2025</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c31660d2-bafe-44c7-b3ff-125692f422c8">
+            <dct:title xml:lang="cs-t-de-t0-mtec">Poštovní schránky</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Căsuțe poștale</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-03-13T08:49:56</dct:issued>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Boscaí poist</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title>Postbriefkästen</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >180670</dcat:byteSize>
+            <dct:title xml:lang="et-t-de-t0-mtec">Postkastid</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Poštanski sandučići</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.kml"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Postafiókok</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/postbriefkaesten/postbriefkaesten.kml"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пощенски кутии</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >0e7d052da67ee24f36e927c102a5959ee3fc8bd2ecf73557d5a7fe02be3c355f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταχυδρομικές θυρίδες</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Brievenbussen</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Boîtes postales</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kaxxi postali</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Mailboxes</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6e48cf86-e713-4c31-969c-6045609f24be/resource/edd64907-7a4a-48e3-ba10-70828cc9937e</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Brevlådor</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Buzones de correo</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Caixas de correio</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pašto dėžutės</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Skrzynki pocztowe</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Postkasser</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Postilaatikot</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä datajoukko sisältää sijainnit postilaatikoiden Hanseatic ja University City of Rostock tiedot osoitteesta, operaattori, saavutettavuus ja tyhjät ajat. Resursseja päivitetään yleensä seuraavin väliajoin: 365 päivää</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet magában foglalja a postafiókok helyét a Hanseaticában és a University City of Rostockban, a címre, az üzemeltetőre, a hozzáférhetőségre és az üres helyekre vonatkozó információkkal. Az erőforrásokat általában a következő időközönként frissítik: 365 nap</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Poštni nabiralniki</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Caselle di posta elettronica</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dcat:keyword>transport</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Pastkastes</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum sisaldab postkastide asukohti Hanseatic ja University City of Rostock teabega aadressi, operaatori, juurdepääsetavuse ja tühjade aegade kohta. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 365 päeva</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa umiestnenie poštových schránok v Hanseatic a University City of Rostock s informáciami o adrese, operátorovi, prístupnosti a prázdnych časoch. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 365 dní</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima pašto dėžučių vietas Hanzos ir Rostoko universiteto mieste su informacija apie adresą, operatorių, prieinamumą ir tuščią laiką. Ištekliai paprastai atnaujinami tokiais intervalais: 365 dienos</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Poštové schránky</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T14:11:39Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/6e48cf86-e713-4c31-969c-6045609f24be"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:43:07Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:16Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:33Z</dct:modified>
+    <dct:identifier>6e48cf86-e713-4c31-969c-6045609f24be</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

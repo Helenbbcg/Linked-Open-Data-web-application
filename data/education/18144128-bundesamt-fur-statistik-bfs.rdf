@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18144128-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:20Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18144128-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="et-t-de-t0-mtec">Pedagoogiliste ülikoolide töötajad töötajate kategooriate, soo ja ülikoolide kaupa – isikud</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="fr">personnel-des-hautes-ecoles</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2a1b1e8b-685c-4bfe-8a25-d0a291fd262d">
+            <dct:title xml:lang="lv-t-de-t0-mtec">Specializāciju grupēšana un izmaiņas skolu struktūrās kopš 2005. gada</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Gruparea specializărilor și schimbărilor în structurile școlare din 2005</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Gruppering av inriktningar och förändringar i skolstrukturer sedan 2005</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Raggruppamento di specializzazioni e cambiamenti nelle strutture scolastiche dal 2005</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Agrupación de especializaciones y cambios en las estructuras escolares desde 2005</dct:title>
+            <dct:title xml:lang="de">Gruppierung der Fachrichtungen und Änderungen der Schulstrukturen seit 2005</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Specializacijų grupavimas ir pokyčiai mokyklų struktūrose nuo 2005 m.</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Speisialtóireachtaí agus athruithe i struchtúir scoile a ghrúpáil ó 2005 i leith</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Erialade rühmitamine ja muutused koolistruktuurides alates 2005. aastast</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Gruppering af specialiseringer og ændringer i skolestrukturer siden 2005</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ομαδοποίηση ειδικοτήτων και αλλαγών στις σχολικές δομές από το 2005</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Regroupement des disciplines et modifications des structures scolaires depuis 2005</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Grupiranje specijalizacija i promjena u školskim strukturama od 2005.</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zoskupenie špecializácií a zmien v školských štruktúrach od roku 2005</dct:title>
+            <dct:identifier>link-18144153-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="en-t-de-t0-mtec">Grouping of specialisations and changes in school structures since 2005</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/do-d-15.05.02-def-02"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Raggruppament ta’ speċjalizzazzjonijiet u bidliet fl-istrutturi tal-iskejjel mill-2005</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Групиране на специализации и промени в училищните структури от 2005 г. насам</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Groepering van specialisaties en veranderingen in schoolstructuren sinds 2005</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Seskupování specializací a změn ve školních strukturách od roku 2005</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Erikoisalojen ryhmittely ja koulurakenteiden muutokset vuodesta 2005</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Združevanje specializacij in sprememb v šolskih strukturah od leta 2005</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A szakirányok csoportosítása és az iskolai struktúrák változásai 2005 óta</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Agrupamento de especializações e mudanças nas estruturas escolares desde 2005</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Grupowanie specjalizacji i zmian w strukturach szkolnych od 2005 r.</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Групування спеціалізацій та змін у шкільних структурах з 2005 року</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c3938620-01de-40f4-bc2b-cf6c60b0b36e">
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal de los colegios de enseñanza por categoría de personal, género y universidad — en personas</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Oktatási kollégiumok személyzete személyzeti, nemi és egyetemi kategóriák szerint – személyekben</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personalul colegiilor de învățământ pe categorii de personal, sex și universitate – în persoane</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal dos colégios de ensino por categoria de pessoal, sexo e universidade — em pessoas</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal tal-kulleġġi edukattivi skont il-kategorija tal-persunal, is-sess u l-università — f’persuni</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Pracownicy szkół wyższych według kategorii personelu, płci i uniwersytetu – w osobach</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1504040300_156"/>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje obrazovnih škola prema kategoriji osoblja, rodu i sveučilištu – u osobama</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Персонал на образователни колежи по категория персонал, пол и университет — в лица</dct:title>
+            <dct:title xml:lang="fr">Personnel des hautes écoles pédagogiques selon la catégorie de personnel, le sexe et la haute école - en personnes</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Hariduskõrgkoolide töötajad töötajate kategooriate, soo ja ülikoolide kaupa – isikud</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Personal vid utbildningshögskolor efter personalkategori, kön och universitet – personer</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:identifier>18144139-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό εκπαιδευτικών κολεγίων ανά κατηγορία προσωπικού, φύλο και πανεπιστήμιο — σε άτομα</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Izglītības koledžu personāls pēc personāla kategorijas, dzimuma un universitātes — personām</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci vzdelávacích vysokých škôl podľa kategórie zamestnancov, rodu a univerzít – v osobách</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale dei collegi scolastici per categoria di personale, genere e università — in persone</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Uddannelseskollegiers personale efter personalekategori, køn og universitet — i personer</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Staff of educational colleges by category of staff, gender and university — in persons</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Колектив навчальних закладів за категоріями персоналу, статі та університету - в осіб</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Pädagogisches Hochschulpersonal nach Personalkategorie, Geschlecht und Hochschule – in Personen</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Švietimo kolegijų darbuotojai pagal darbuotojų kategorijas, lytį ir universitetą – asmenys</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Personeel van onderwijscolleges per personeelscategorie, geslacht en universiteit — in personen</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje izobraževalnih šol po kategorijah osebja, spolu in univerzi – osebno</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zaměstnanci vysokých škol podle kategorie zaměstnanců, pohlaví a vysokých škol – v osobách</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Oppilaitosten henkilöstö henkilöstöryhmittäin, sukupuoliryhmittäin ja yliopistoittain – henkilöittäin</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann na gcoláistí oideachais de réir catagóir foirne, inscne agus ollscoile — i ndaoine</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Personel uczelni pedagogicznych według kategorii pracowników, płci i uczelni – w osobach</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Персонал на педагогическите университети по категория персонал, пол и университет — в лица</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/162f1145-5fd1-4c69-835d-ef9d24847bfa">
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Comhdhlúthú brainsí staidéir agus athruithe i struchtúir scoile ó 2005 i leith</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Konsolidazzjoni ta ‘fergħat ta’ studju u bidliet fl-istrutturi tal-iskejjel mill-2005</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Konsolidacja gałęzi studiów i zmian w strukturach szkolnych od 2005 r.</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ενοποίηση κλάδων σπουδών και αλλαγές στις σχολικές δομές από το 2005</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Opintoalojen konsolidointi ja koulurakenteiden muutokset vuodesta 2005</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Konsolidering av studiegrenar och förändringar i skolstrukturer sedan 2005</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Консолідація галузей навчання та зміни в шкільних структурах з 2005 року</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Konsolidácia študijných odborov a zmien v školských štruktúrach od roku 2005</dct:title>
+            <dct:identifier>link-18144153-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Konsolidering af uddannelsesgrene og ændringer i skolestrukturerne siden 2005</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Consolidamento dei rami di studio e cambiamenti nelle strutture scolastiche dal 2005</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Consolidarea ramurilor de studiu și schimbări în structurile școlare începând cu 2005</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/do-f-15.05.02-def-02"/>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Konsolidacija študijskih vej in spremembe v šolskih strukturah od leta 2005</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Konsolidacija grana studija i promjene u školskim strukturama od 2005. godine</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fr">Regroupement des branches d'études et changements dans les structures des écoles depuis 2005</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Studiju nozaru konsolidācija un izmaiņas skolu struktūrās kopš 2005. gada</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Õppeharude konsolideerimine ja muutused koolistruktuurides alates 2005. aastast</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A tanulmányi ágak konszolidációja és az iskolai struktúrák változásai 2005 óta</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Консолидиране на клоновете на обучение и промени в училищните структури от 2005 г. насам</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Consolidação de ramos de estudo e mudanças nas estruturas escolares desde 2005</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Konsolidace studijních oborů a změny ve školních strukturách od roku 2005</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Consolidation of branches of study and changes in school structures since 2005</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Zusammenfassung der Studienzweige und Veränderungen in den Schulstrukturen seit 2005</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Consolidatie van studierichtingen en veranderingen in schoolstructuren sinds 2005</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Consolidación de ramas de estudio y cambios en las estructuras escolares desde 2005</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Studijų šakų konsolidavimas ir mokyklų struktūrų pokyčiai nuo 2005 m.</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Personeel van pedagogische universiteiten per personeelscategorie, geslacht en universiteit — in personen</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/05dae08b-c950-4408-81bb-23127e59b040">
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:identifier>link-18144149-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1504040300_156/px-x-1504040300_156.px"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:format>SERVICE</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Pedagoginių universitetų darbuotojai pagal personalo kategoriją, lytį ir universitetą – asmenys</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci pedagogických univerzít podľa kategórie zamestnancov, rodu a univerzity – v osobách</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Pedagoģisko universitāšu personāls pēc personāla kategorijas, dzimuma un universitātes — personām</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:09:00.608148</dct:modified>
+        <dct:title xml:lang="en-t-de-t0-mtec">Staff of pedagogical universities by category of staff, gender and university — in persons</dct:title>
+        <dct:title xml:lang="de">Personal der Pädagogischen Hochschulen nach Personalkategorie, Geschlecht und Hochschule - in Personen</dct:title>
+        <dct:identifier>18144128@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-08-27T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="it">personale-universitario</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci pedagogických univerzit podle kategorií zaměstnanců, pohlaví a vysokých škol – v osobách</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό παιδαγωγικών πανεπιστημίων ανά κατηγορία προσωπικού, φύλο και πανεπιστήμιο — σε άτομα</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a906d778-1fff-4f2b-a47d-7818a9ccd75a">
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1504040300_156/px-x-1504040300_156.px"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:identifier>link-18144149-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades pedagógicas por categoría de personal, género y universidad — en personas</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/df6eeb60-d45c-46dc-9c87-bad2e692f3f2">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал на педагогическите университети по категория персонал, пол и университет — в лица</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Personale ved pædagogiske universiteter efter personalekategori, køn og universitet — i personer</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Personal vid pedagogiska universitet efter personalkategori, kön och universitet – personer</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό παιδαγωγικών πανεπιστημίων ανά κατηγορία προσωπικού, φύλο και πανεπιστήμιο — σε άτομα</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje pedagoških sveučilišta prema kategoriji osoblja, rodu i sveučilištu – u osobama</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1504040300_156/px-x-1504040300_156/px-x-1504040300_156.px"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Personel uczelni pedagogicznych według kategorii pracowników, płci i uczelni – w osobach</dct:title>
+            <dct:title xml:lang="de">Personal der Pädagogischen Hochschulen nach Personalkategorie, Geschlecht und Hochschule - in Personen</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Foireann na n-ollscoileanna oideolaíocha de réir catagóir foirne, inscne agus ollscoile — i ndaoine</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal ta’ universitajiet pedagoġiċi skont il-kategorija tal-persunal, is-sess u l-università — fil-persuni</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal al universităților pedagogice pe categorii de personal, sex și universitate – în persoane</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pedagoginių universitetų darbuotojai pagal personalo kategoriją, lytį ir universitetą – asmenys</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники педагогічних вузів за категоріями персоналу, статі та університету - в осіб</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pedagoģisko universitāšu personāls pēc personāla kategorijas, dzimuma un universitātes — personām</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci pedagogických univerzít podľa kategórie zamestnancov, rodu a univerzity – v osobách</dct:title>
+            <dct:identifier>link-18144145-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje pedagoških univerz po kategorijah osebja, spolu in univerzi – osebno</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Personeel van pedagogische universiteiten per personeelscategorie, geslacht en universiteit — in personen</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pedagogisten yliopistojen henkilöstö henkilöstöluokittain, sukupuoliryhmittäin ja yliopistoittain – henkilöittäin</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Staff of pedagogical universities by category of staff, gender and university — in persons</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Pedagoogiliste ülikoolide töötajad töötajate kategooriate, soo ja ülikoolide kaupa – isikud</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal das universidades pedagógicas por categoria de pessoal, sexo e universidade — em pessoas</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades pedagógicas por categoría de personal, género y universidad — en personas</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel des établissements d’enseignement supérieur par catégorie de personnel, sexe et établissement d’enseignement supérieur — en personnes</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci pedagogických univerzit podle kategorií zaměstnanců, pohlaví a vysokých škol – v osobách</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A pedagógiai egyetemek személyzete a személyzet, a nemek és az egyetemek kategóriája szerint – személyekben</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale di università pedagogiche per categoria di personale, genere e università — in persone</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A pedagógiai egyetemek személyzete a személyzet, a nemek és az egyetemek kategóriája szerint – személyekben</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje pedagoških sveučilišta prema kategoriji osoblja, rodu i sveučilištu – u osobama</dct:title>
+        <dcat:keyword xml:lang="en">university-staff</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Personale di università pedagogiche per categoria di personale, genere e università — in persone</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Personal al universităților pedagogice pe categorii de personal, sex și universitate – în persoane</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="fr">Personnel des hautes écoles pédagogiques selon la catégorie de personnel, le sexe et la haute école - en personnes</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal das universidades pedagógicas por categoria de pessoal, sexo e universidade — em pessoas</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Persunal ta’ universitajiet pedagoġiċi skont il-kategorija tal-persunal, is-sess u l-università — fil-persuni</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Personale ved pædagogiske universiteter efter personalekategori, køn og universitet — i personer</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d9a86f30-de8d-4225-8d8c-265c1be23d80">
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel des établissements d’enseignement supérieur par catégorie de personnel, sexe et établissement d’enseignement supérieur — en personnes</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal ta’ universitajiet pedagoġiċi skont il-kategorija tal-persunal, is-sess u l-università — fil-persuni</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Personeel van pedagogische universiteiten per personeelscategorie, geslacht en universiteit — in personen</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал на педагогическите университети по категория персонал, пол и университет — в лица</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje pedagoških univerz po kategorijah osebja, spolu in univerzi – osebno</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale di università pedagogiche per categoria di personale, genere e università — in persone</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal al universităților pedagogice pe categorii de personal, sex și universitate – în persoane</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A pedagógiai egyetemek személyzete a személyzet, a nemek és az egyetemek kategóriája szerint – személyekben</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Personal vid pedagogiska universitet efter personalkategori, kön och universitet – personer</dct:title>
+            <dct:title xml:lang="de">Personal der Pädagogischen Hochschulen nach Personalkategorie, Geschlecht und Hochschule - in Personen</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades pedagógicas por categoría de personal, género y universidad — en personas</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal das universidades pedagógicas por categoria de pessoal, sexo e universidade — em pessoas</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Pedagoogiliste ülikoolide töötajad töötajate kategooriate, soo ja ülikoolide kaupa – isikud</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό παιδαγωγικών πανεπιστημίων ανά κατηγορία προσωπικού, φύλο και πανεπιστήμιο — σε άτομα</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pedagoģisko universitāšu personāls pēc personāla kategorijas, dzimuma un universitātes — personām</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje pedagoških sveučilišta prema kategoriji osoblja, rodu i sveučilištu – u osobama</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники педагогічних вузів за категоріями персоналу, статі та університету - в осіб</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Staff of pedagogical universities by category of staff, gender and university — in persons</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Personale ved pædagogiske universiteter efter personalekategori, køn og universitet — i personer</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1504040300_156"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci pedagogických univerzít podľa kategórie zamestnancov, rodu a univerzity – v osobách</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Foireann na n-ollscoileanna oideolaíocha de réir catagóir foirne, inscne agus ollscoile — i ndaoine</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pedagogisten yliopistojen henkilöstö henkilöstöluokittain, sukupuoliryhmittäin ja yliopistoittain – henkilöittäin</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci pedagogických univerzit podle kategorií zaměstnanců, pohlaví a vysokých škol – v osobách</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Personel uczelni pedagogicznych według kategorii pracowników, płci i uczelni – w osobach</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Pedagoginių universitetų darbuotojai pagal personalo kategoriją, lytį ir universitetą – asmenys</dct:title>
+            <dct:identifier>18144139-de@bundesamt-fur-statistik-bfs</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Osebje pedagoških univerz po kategorijah osebja, spolu in univerzi – osebno</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Personal vid pedagogiska universitet efter personalkategori, kön och universitet – personer</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Foireann na n-ollscoileanna oideolaíocha de réir catagóir foirne, inscne agus ollscoile — i ndaoine</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Pedagogisten yliopistojen henkilöstö henkilöstöluokittain, sukupuoliryhmittäin ja yliopistoittain – henkilöittäin</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники педагогічних вузів за категоріями персоналу, статі та університету - в осіб</dct:title>
+        <dcat:keyword xml:lang="de">hochschulpersonal</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0d8299bc-ec8d-4c0a-b7e9-fb957ce17d51">
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Oktatási kollégiumok személyzete személyzeti, nemi és egyetemi kategóriák szerint – személyekben</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Персонал на образователни колежи по категория персонал, пол и университет — в лица</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zaměstnanci vysokých škol podle kategorie zaměstnanců, pohlaví a vysokých škol – v osobách</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:identifier>link-18144145-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Oppilaitosten henkilöstö henkilöstöryhmittäin, sukupuoliryhmittäin ja yliopistoittain – henkilöittäin</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal dos colégios de ensino por categoria de pessoal, sexo e universidade — em pessoas</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal tal-kulleġġi edukattivi skont il-kategorija tal-persunal, is-sess u l-università — f’persuni</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Hariduskõrgkoolide töötajad töötajate kategooriate, soo ja ülikoolide kaupa – isikud</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Uddannelseskollegiers personale efter personalekategori, køn og universitet — i personer</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1504040300_156/px-x-1504040300_156/px-x-1504040300_156.px"/>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Staff of educational colleges by category of staff, gender and university — in persons</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personalul colegiilor de învățământ pe categorii de personal, sex și universitate – în persoane</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Personeel van onderwijscolleges per personeelscategorie, geslacht en universiteit — in personen</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Pracownicy szkół wyższych według kategorii personelu, płci i uniwersytetu – w osobach</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale dei collegi scolastici per categoria di personale, genere e università — in persone</dct:title>
+            <dct:title xml:lang="fr">Personnel des hautes écoles pédagogiques selon la catégorie de personnel, le sexe et la haute école - en personnes</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann na gcoláistí oideachais de réir catagóir foirne, inscne agus ollscoile — i ndaoine</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje izobraževalnih šol po kategorijah osebja, spolu in univerzi – osebno</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Personal vid utbildningshögskolor efter personalkategori, kön och universitet – personer</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal de los colegios de enseñanza por categoría de personal, género y universidad — en personas</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Pädagogisches Hochschulpersonal nach Personalkategorie, Geschlecht und Hochschule – in Personen</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Švietimo kolegijų darbuotojai pagal darbuotojų kategorijas, lytį ir universitetą – asmenys</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Izglītības koledžu personāls pēc personāla kategorijas, dzimuma un universitātes — personām</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje obrazovnih škola prema kategoriji osoblja, rodu i sveučilištu – u osobama</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό εκπαιδευτικών κολεγίων ανά κατηγορία προσωπικού, φύλο και πανεπιστήμιο — σε άτομα</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci vzdelávacích vysokých škôl podľa kategórie zamestnancov, rodu a univerzít – v osobách</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Колектив навчальних закладів за категоріями персоналу, статі та університету - в осіб</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:14:32Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:12Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:12Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>1b61030ec1643f3fa22c55e2d8b1e5b2</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>18144128@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18144128-bundesamt-fur-statistik-bfs"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

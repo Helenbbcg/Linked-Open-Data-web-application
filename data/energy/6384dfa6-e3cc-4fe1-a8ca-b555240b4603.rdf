@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/6384dfa6-e3cc-4fe1-a8ca-b555240b4603">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/6384dfa6-e3cc-4fe1-a8ca-b555240b4603"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-03-03T20:25:04Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-15T20:25:06Z</dct:modified>
+    <dct:identifier>6384dfa6-e3cc-4fe1-a8ca-b555240b4603</dct:identifier>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>8f1342bfc2126ca142c97c6dfe8095e0</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/6384dfa6-e3cc-4fe1-a8ca-b555240b4603">
+        <dcat:keyword>Heating and Other Gasoil</dcat:keyword>
+        <dct:identifier>6384dfa6-e3cc-4fe1-a8ca-b555240b4603</dct:identifier>
+        <dct:description xml:lang="ro-t-ga-t0-mtec">Livrări interioare brute observate (GID) de cinci produse petroliere în terajoules (TJ) de energie.Energia exprimată în putere calorifică netă (VNC) constatată utilizând factorii de conversie publicați ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+Anexa C la Regulamentul (UE) 2022/132 al Comisiei privind statisticile în domeniul energiei ([link](http://data.europa.eu/eli/reg/2022/132/oj)) descrie livrările brute de interior observate (GID) pentru:  _„Livrarea observată de produse petroliere finite din surse primare (de exemplu, rafinării, instalații de amestecare etc.) pe piața internă.”_
+
+Ultimul termen „piață interioară” înseamnă Irlanda (ex. Irlanda de Nord), în aceste statistici energetice.
+
+ __Produse din ulei__
+
+În general, produsele _Heating and Other Gasoil_ și _Non-jet Fuel Kerosene_ sunt utilizate pentru comercializare
+
+și încălzirea locuințelor (cu un anumit consum suplimentar în transportul maritim și feroviar).
+_Combustibil Jet
+
+Produsele Kerosene_ deservesc aviația, în timp ce _Motor Petrol_ și _Road Diesel_ produsele servesc transportului rutier.
+AIE detaliază produsele petroliere la ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:title xml:lang="it-t-ga-t0-mtec">Consegne mensili di prodotti petroliferi in Irlanda</dct:title>
+        <dct:description xml:lang="fi-t-ga-t0-mtec">Viiden öljytuotteen havainnoidut bruttotoimitukset energiaterajouleina (TJ).Energia ilmaistuna nettolämpöarvoina (NCV) julkaistujen muuntokertoimien avulla ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+Energiatilastoista annetun komission asetuksen (EU) 2022/132 ([link](http://data.europa.eu/eli/reg/2022/132/oj)) liitteessä C kuvataan havainnoidut maa-alueiden bruttotoimitukset (GID) seuraavien osalta:  —”Ensisijaisista lähteistä (esim. jalostamot, sekoituslaitokset jne.) peräisin olevien valmiiden öljytuotteiden todetut toimitukset sisämaan markkinoille.”
+
+Jälkimmäinen termi ”sisämarkkinat” tarkoittaa näissä energiatilastoissa Irlantia (esim. Pohjois-Irlantia).
+
+ __Öljytuotteet__
+
+Yleisesti ottaen _Lämmitys- ja muut Gasoil_- ja _Ei-jet Fuel Kerosene_ -tuotteita käytetään kaupallisiin tarkoituksiin
+
+ja kotitalouksien lämmitys (jotakin lisäkulutusta meri- ja rautatieliikenteessä).
+_Jet-polttoaine
+
+Kerosene_ tuotteet palvelevat ilmailua, kun taas _Motor Petrol_ ja _Road Diesel_ tuotteet palvelevat maantieliikennettä.
+IEA:n tiedot öljytuotteista osoitteessa ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dcat:keyword>Road Diesel</dcat:keyword>
+        <dcat:keyword>Other Kerosene</dcat:keyword>
+        <dct:description xml:lang="en-t-ga-t0-mtec">Observed Gross Inland Deliveries (GID) of five oil products in terajoules (TJ) of energy. Energy expressed in net calorific values (NCV) found using published conversion factors ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). Annex C of Commission Regulation (EU) 2022/132 on energy statistics ([link](http://data.europa.eu/eli/reg/2022/132/oj)) describes Observed Gross Inland Deliveries (GID) for:
+
+_“The observed delivery of finished petroleum products from primary sources (e.g. refineries, blending plants etc.) to the inland market.”_
+
+The latter term “inland market” means Ireland (ex. Northern Ireland), in these energy statistics. 
+
+__Oil products__
+In general, the _Heating and Other Gasoil_ and _Non-jet Fuel Kerosene_ products are used for commercial
+and domestic heating (with some additional consumption by marine and rail transport). _Jet Fuel
+Kerosene_ products serve aviation, while _Motor Petrol_ and _Road Diesel_ products serve road transport. IEA details oil products at ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:description xml:lang="da-t-ga-t0-mtec">Observerede bruttoindlandsleverancer (GID) af fem olieprodukter i terajoules (TJ) energi. Energi udtrykt i nedre brændværdi (NCV) fundet ved hjælp af offentliggjorte omregningsfaktorer ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). I bilag C til Kommissionens forordning (EU) 2022/132 om energistatistik ([link](http://data.europa.eu/eli/reg/2022/132/oj)) beskrives observerede indenlandske bruttoleverancer (GID) for:
+
+_"Den observerede levering af færdige olieprodukter fra primære kilder (f.eks. raffinaderier, blandingsanlæg osv.) til indlandsmarkedet."_
+
+Sidstnævnte udtryk "indlandsmarked" betyder Irland (f.eks. Nordirland) i disse energistatistikker. 
+
+__Olieprodukter__
+Generelt anvendes produkterne _Heating and Other Gasoil_ og _Non-jet Fuel Kerosene_ til kommercielle formål
+og boligopvarmning (med et vist ekstra forbrug inden for sø- og jernbanetransport). _Jet brændstof
+Kerosene_ produkter betjener luftfart, mens _Motor Petrol_ og _Road Diesel_ produkter tjener vejtransport. IEA indeholder nærmere oplysninger om olieprodukter på ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:title xml:lang="fi-t-ga-t0-mtec">Öljytuotteiden kuukausitoimitukset Irlantiin</dct:title>
+        <dct:description xml:lang="mt-t-ga-t0-mtec">Konsenji Grossi Interni osservati (GID) ta’ ħames prodotti taż-żejt fit-terajoules (TJ) tal-enerġija. Enerġija espressa f’valuri kalorifiċi netti (NCV) misjuba bl-użu ta’ fatturi ta’ konverżjoni ppubblikati ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). L-Anness C tar-Regolament tal-Kummissjoni (UE) 2022/132 dwar l-istatistika dwar l-enerġija ([link](http://data.europa.eu/eli/reg/2022/132/oj)) jiddeskrivi t-Twassijiet Inlandiżi Gross Osservati (GID) għal:
+
+_“Il-konsenja osservata ta’ prodotti taż-żejt mhux raffinat lesti minn sorsi primarji (eż. raffineriji, impjanti ta’ taħlit eċċ.) lis-suq intern.”_
+
+It-terminu tal-aħħar “suq intern” ifisser l-Irlanda (eż. l-Irlanda ta’ Fuq), f’din l-istatistika dwar l-enerġija. 
+
+__Prodotti taż-żejt___
+B’mod ġenerali, il-prodotti _Heating and Other Gasoil_ u _Non-jet Fuel Kerosene_ jintużaw għal prodotti kummerċjali
+u t-tisħin domestiku (b’xi konsum addizzjonali mit-trasport bil-baħar u bil-ferrovija). _Jet fuel
+Il-prodotti Kerosene_ iservu l-avjazzjoni, filwaqt li l-prodotti _Motor Petrol_ u _Road Diesel_ iservu t-trasport bit-triq. L-IEA tagħti dettalji dwar il-prodotti taż-żejt fi ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dcat:keyword>Energy Statistics</dcat:keyword>
+        <dct:title xml:lang="en-t-ga-t0-mtec">Oil-product Monthly Deliveries to Ireland</dct:title>
+        <dct:title xml:lang="fr-t-ga-t0-mtec">Livraisons mensuelles de produits pétroliers vers l’Irlande</dct:title>
+        <dct:description xml:lang="hr-t-ga-t0-mtec">Uočene bruto kopnene isporuke (GID) od pet naftnih proizvoda u teradžulima (TJ) energije. Energija izražena u neto kalorijskim vrijednostima (NCV) pronađena primjenom objavljenih faktora konverzije ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). U Prilogu C Uredbi Komisije (EU) 2022/132 o energetskoj statistici ([link](http://data.europa.eu/eli/reg/2022/132/oj)) opisuju se promatrane bruto isporuke za unutarnju plovidbu (GID) za:
+
+_„Uočena isporuka gotovih naftnih derivata iz primarnih izvora (npr. rafinerije, postrojenja za miješanje itd.) na unutarnje tržište.”_
+
+Potonji pojam „unutarnje tržište” znači Irska (npr. Sjeverna Irska) u tim energetskim statistikama. 
+
+__Proizvodi ulja__
+Općenito, _Grijanje i ostali benzin_ i _Non-jet Fuel Kerosene_ proizvodi se koriste za komercijalne
+i grijanje u kućanstvu (uz dodatnu potrošnju u pomorskom i željezničkom prometu). _Jet gorivo
+Kerosene_ proizvodi služe zrakoplovstvu, dok _Motor Petrol_ i _Road Diesel_ proizvodi služe cestovnom prijevozu. IEA pojedinosti o naftnim proizvodima na ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:title xml:lang="hr-t-ga-t0-mtec">Mjesečne isporuke naftnih proizvoda u Irskoj</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-15T14:29:34</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ff6060a3-e797-40e4-97df-480515dcb388">
+            <dct:title xml:lang="sl-t-ga-t0-mtec">2021 mesečni izdelki iz naftnih derivatov</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">Entregas mensuales de productos petrolíferos 2021</dct:title>
+            <dcat:accessURL rdf:resource="https://seaiopendata.blob.core.windows.net/oil/OilProducts_monthlyDeliveries_2021.csv"/>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">2021 produkt naftowy miesięcznie Dostawy</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/6384dfa6-e3cc-4fe1-a8ca-b555240b4603/resource/5c07cf63-1fa6-4efe-8354-f1aedd97cf62</dct:identifier>
+            <dct:title xml:lang="it-t-ga-t0-mtec">Consegne mensili 2021 di prodotti petroliferi</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="de-t-ga-t0-mtec">Ölprodukt monatliche Lieferungen 2021</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">Mesačné dodávky ropných produktov 2021</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">2021 Öljytuote kuukausittain Toimitukset</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">Livrări lunare privind produsele petroliere din 2021</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">2021 naftatoodete igakuised tarned</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">2021 olie-product maandelijkse leveringen</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">Livraisons mensuelles de produits pétroliers 2021</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">Μηνιαίες παραδόσεις πετρελαίου-προϊόντος 2021</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">2021 oljeprodukt månadsleveranser</dct:title>
+            <dct:title>2021 oil-product monthly deliveries</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">Månedlige leverancer af olieprodukter 2021</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">2021 m. naftos produktų mėnesio pristatymas</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">2021. mjesečna isporuka naftnih proizvoda</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">Entregas mensais de produtos petrolíferos 2021</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">Rok 2021 měsíční dodávky ropných produktů</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">Месечни доставки на петролни продукти за 2021 г.</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">2021. évi olajtermék-havi szállítások</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">2021 oil-product monthly Deliveries</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">2021. gada naftas produktu ikmēneša piegādes</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">Kunsinni ta’ kull xahar dwar il-prodotti taż-żejt 2021</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-03-03T00:00:00</dct:issued>
+        <dcat:landingPage rdf:resource="https://www.seai.ie/data-and-insights/seai-statistics/monthly-energy-data/oil/"/>
+        <dct:description xml:lang="es-t-ga-t0-mtec">Entregas interiores brutas observadas (GID) de cinco productos petrolíferos en terajoules (TJ) de energía.Energía expresada en valores caloríficos netos (NCV) encontrada utilizando factores de conversión publicados ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+En el anexo C del Reglamento (UE) 2022/132 de la Comisión, relativo a las estadísticas energéticas ([link](http://data.europa.eu/eli/reg/2022/132/oj)), se describen las entregas interiores brutas observadas (IDG) para:  _«La entrega observada de productos derivados del petróleo acabados procedentes de fuentes primarias (por ejemplo, refinerías, plantas de mezcla, etc.) al mercado interior.»_
+
+Por «mercado interior» se entiende Irlanda (por ejemplo, Irlanda del Norte), en estas estadísticas energéticas.
+
+ __Productos de aceite__
+
+En general, los productos _Heating and Other Gasoil_ y _Non-jet Fuel Kerosene_ se utilizan para uso comercial
+
+y calefacción doméstica (con cierto consumo adicional en el transporte marítimo y ferroviario).
+_Combustible de recogida
+
+Los productos Kerosene_ sirven a la aviación, mientras que los productos _Motor Petrol_ y _Road Diesel_ sirven para el transporte por carretera.
+La AIE detalla los productos petrolíferos en [enlace](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:description xml:lang="cs-t-ga-t0-mtec">Pozorované hrubé vnitrozemské dodávky pěti ropných produktů v terajoulech (TJ) energie.Energie vyjádřená výhřevností (NCV) zjištěná pomocí zveřejněných konverzních faktorů ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+Příloha C nařízení Komise (EU) 2022/132 o energetické statistice ([link](http://data.europa.eu/eli/reg/2022/132/oj)) popisuje pozorované hrubé vnitrozemské dodávky (GID) pro:  „Pozorované dodávky hotových ropných produktů z primárních zdrojů (např. rafinérií, mísících zařízení atd.) na vnitrozemský trh.“_
+
+Posledně uvedeným termínem „vnitrozemský trh“ se v těchto energetických statistikách rozumí Irsko (např. Severní Irsko).
+
+ __Olejové výrobky__
+
+Obecně platí, že produkty _Heating and Other Gasoil_ a _Non-jet Fuel Kerosene_ se používají pro komerční účely
+
+a vytápění domácností (s určitou dodatečnou spotřebou v námořní a železniční dopravě).
+_Jet palivo
+
+Kerosene_ produkty slouží letecké dopravě, zatímco _Motor Petrol_ a _Road Diesel_ produkty slouží silniční dopravě.
+IEA podrobné informace o ropných produktech na adrese ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/sustainable-energy-authority-of-ireland">
+            <foaf:name>Sustainable Energy Authority of Ireland</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="de-t-ga-t0-mtec">Beobachtete Bruttoinlandlieferungen (GID) von fünf Ölprodukten in Terajoule (TJ) von Energie. Energie, ausgedrückt in Nettoheizwerten (NCV), gefunden unter Verwendung veröffentlichter Umrechnungsfaktoren ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). Anhang C der Verordnung (EU) 2022/132 der Kommission über die Energiestatistik ([link](http://data.europa.eu/eli/reg/2022/132/oj)) beschreibt die beobachteten Bruttoinlandslieferungen (GID) für:
+
+_„Die beobachtete Lieferung von fertigen Erdölerzeugnissen aus Primärquellen (z. B. Raffinerien, Mischanlagen usw.) auf den Inlandsmarkt.“_
+
+Letzterer Begriff „Inlandmarkt“ bedeutet Irland (z. B. Nordirland), in diesen Energiestatistiken. 
+
+
+__Ölprodukte__
+
+Im Allgemeinen werden die Produkte _Heizung und Sonstiges Gasöl_ und _Non-Jet Fuel Kerosene_ für den gewerblichen Gebrauch verwendet.
+
+und Hausheizung (mit einem gewissen zusätzlichen Verbrauch im Schiffs- und Schienenverkehr).
+_Jet Kraftstoff
+
+Kerosene_ Produkte dienen der Luftfahrt, während _Motor Petrol_ und _Road Diesel_ Produkte den Straßenverkehr bedienen.
+Die IEA informiert über Ölprodukte unter [link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf).</dct:description>
+        <dct:title xml:lang="da-t-ga-t0-mtec">Månedlige leverancer af olieprodukter til Irland</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3317eb92-c9dc-4b8a-b64d-7d61e8d37c36">
+            <dct:title xml:lang="de-t-ga-t0-mtec">2019 Öl-Produkt monatliche Lieferungen</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">2019 m. naftos produktų mėnesio pristatymas</dct:title>
+            <dct:title>2019 oil-product monthly deliveries</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">2019 naftas produktu ikmēneša piegādes</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://seaiopendata.blob.core.windows.net/oil/OilProducts_monthlyDeliveries_2019.csv"/>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">Kunsinni ta’ kull xahar dwar il-prodotti taż-żejt 2019</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">2019 μηνιαίες παραδόσεις πετρελαίου-προϊόντος</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">Livrări lunare de produse petroliere 2019</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">2019 olie-product maandelijkse leveringen</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">Consegne mensili 2019 di prodotti petroliferi</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">2019. mjesečna isporuka naftnih proizvoda</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">Entregas mensais de produtos petrolíferos 2019</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">Livraisons mensuelles de produits pétroliers 2019</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">Entregas mensuales de productos petrolíferos 2019</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">2019 olieprodukt månedlige leverancer</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/6384dfa6-e3cc-4fe1-a8ca-b555240b4603/resource/1055f280-4a58-4810-b580-8750c1aa9a98</dct:identifier>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">2019 mesečni izdelki naftnega produkta</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">2019. évi olajtermék-havi szállítások</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">2019 ropný produkt měsíční dodávky</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">2019 mesačné dodávky ropných produktov</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">Vuoden 2019 öljytuotetoimitukset kuukausittain</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">2019 масло-продукт месечни доставки</dct:title>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">2019 oljeprodukt månadsleveranser</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">2019 oil-product monthly Deliveries</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">2019 naftatoote igakuised tarned</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">2019 miesięczny produkt naftowy Dostawy</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="et-t-ga-t0-mtec">Vaadeldud viiest naftatootest sisemaist brutotarnet (GID) energiateradžaulides.Energia alumistes kütteväärtustes (NCV), mis leitakse avaldatud teisendustegurite abil ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+Energiastatistikat käsitleva komisjoni määruse (EL) 2022/132 ([link](http://data.europa.eu/eli/reg/2022/132/oj)) C lisas kirjeldatakse jälgitavaid sisemaiseid tarneid:  _„Põhiallikatest (nt rafineerimistehased, segamistehased jne) pärit naftatoodete täheldatud tarned siseveeturule.“_
+
+Viimati nimetatud mõiste „siseturg“ tähendab kõnealuses energiastatistikas Iirimaad (endine Põhja-Iirimaa).
+
+ __Õlitooted__
+
+Üldiselt kasutatakse kaubanduslikel eesmärkidel _kütte- ja muud gaasiõli_ ja _Mittereaktiivkütuse Kerosene_ tooteid
+
+ning kodumajapidamiste kütmine (teatud täiendav tarbimine mere- ja raudteetranspordis).
+_Jet kütus
+
+Kerosene_ tooted teenindavad lennundust, samal ajal kui _Motor Petrol_ ja _Road Diesel_ tooted teenindavad maanteetranspordi.
+IEA kirjeldab naftatooteid aadressil ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:description xml:lang="sv-t-ga-t0-mtec">Observerade bruttoleveranser till inre vattenvägar (GID) av fem oljeprodukter i terajoule (TJ) av energi.Energi uttryckt i effektiva värmevärden (NCV) som hittas med hjälp av offentliggjorda omvandlingsfaktorer ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+I bilaga C till kommissionens förordning (EU) 2022/132 om energistatistik ([link](http://data.europa.eu/eli/reg/2022/132/oj)) beskrivs Observed Gross Inland Deliveries (GID) för:  Observerade leveranser av färdiga petroleumprodukter från primära källor (t.ex. raffinaderier, blandningsanläggningar osv.) till den inre marknaden.”_
+
+Med den sistnämnda termen ”inlandsmarknad” avses Irland (t.ex. Nordirland) i denna energistatistik.
+
+ __Oljeprodukter__
+
+I allmänhet används produkterna _Heating and Other Gasoil_ och _Non-jet Fuel Kerosene_ för kommersiella ändamål
+
+och uppvärmning av bostäder (med viss extra förbrukning inom sjö- och järnvägstransporter).
+_Jet bränsle
+
+Kerosene_ produkter betjänar luftfarten, medan _Motor Petrol_ och _Road Diesel_ produkter används för vägtransporter.
+IEA beskriver oljeprodukter på [link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:title xml:lang="sl-t-ga-t0-mtec">Olje-izdelek Mesečna dostava na Irsko</dct:title>
+        <dct:description xml:lang="bg-t-ga-t0-mtec">Наблюдавани брутни вътрешни доставки (GID) на пет петролни продукта в тераджаули (TJ) на енергия. Енергия, изразена в долната топлина на изгаряне (NCV), получена при използване на публикувани коефициенти на преобразуване ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). В приложение В към Регламент (ЕС) 2022/132 на Комисията относно статистиката за енергийния сектор ([link](http://data.europa.eu/eli/reg/2022/132/oj)) се описват наблюдаваните брутни вътрешни доставки (GID) за:
+
+Наблюдаваната доставка на крайни нефтопродукти от първични източници (напр. рафинерии, предприятия за смесване и т.н.) на вътрешния пазар."_
+
+Последният термин „вътрешен пазар“ означава Ирландия (напр. Северна Ирландия) в тези енергийни статистически данни. 
+
+__Нефтени продукти__
+Като цяло продуктите на _Heating and Other Gasoil_ и _Non-jet Fuel Kerosene_ се използват за търговски цели
+и битово отопление (с известно допълнително потребление от морския и железопътния транспорт). Гориво на Джет
+Продуктите на Kerosene_ служат на авиацията, докато _Motor Petrol_ и _Road Diesel_ продукти обслужват автомобилния транспорт. МАЕ представя подробно петролните продукти на адрес ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fea0b06e-b8ae-4539-b905-1a16d75ab247">
+            <dct:title xml:lang="fr-t-ga-t0-mtec">Livraisons mensuelles de produits pétroliers 2018</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">2018 olajtermék havi szállítások</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">2018 naftas produktu ikmēneša piegādes</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">Öl-Produkt monatliche Lieferungen 2018</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">2018 olie-product maandelijkse Leveringen</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">2018 μηνιαίες παραδόσεις πετρελαίου-προϊόντος</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">Il-kunsinni ta’ kull xahar tal-prodotti taż-żejt tal-2018</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">2018 olieprodukt månedlige leverancer</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">2018 oil-product monthly Deliveries</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">2018 петрол-продукт месечни доставки</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">Entregas mensuales de productos petrolíferos de 2018</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">2018 olje-izdelek mesečne dobave</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">2018 livrări lunare produse petroliere</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">2018 mjesečna isporuka naftnih proizvoda</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">2018 Öljytuote kuukausittain Toimitukset</dct:title>
+            <dcat:accessURL rdf:resource="https://seaiopendata.blob.core.windows.net/oil/OilProducts_monthlyDeliveries_2018.csv"/>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">2018 m. naftos produktų mėnesio pristatymas</dct:title>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">2018 oljeprodukt månadsleveranser</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">Consegne mensili 2018 di prodotti petroliferi</dct:title>
+            <dct:title>2018 oil-product monthly deliveries</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">Entregas mensais de produtos petrolíferos 2018</dct:title>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">2018 miesięczny produkt naftowy Dostawy</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">2018 ropný produkt měsíční dodávky</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">2018 mesačné dodávky ropných produktov</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title xml:lang="et-t-ga-t0-mtec">2018 naftatoote igakuised tarned</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/6384dfa6-e3cc-4fe1-a8ca-b555240b4603/resource/1723bec3-8fe5-4e3e-a7db-79b0904108e7</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accrualPeriodicity>Annual</dct:accrualPeriodicity>
+        <dct:title xml:lang="es-t-ga-t0-mtec">Entregas mensuales de productos petrolíferos a Irlanda</dct:title>
+        <dct:description xml:lang="sk-t-ga-t0-mtec">Pozorované hrubé dodávky (GID) piatich ropných produktov v terajouloch (TJ) energie.Energia vyjadrená v čistých výhrevných hodnotách (NCV) zistených použitím uverejnených konverzných faktorov [[link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)].
+V prílohe C k nariadeniu Komisie (EÚ) 2022/132 o energetickej štatistike [[link](http://data.europa.eu/eli/reg/2022/132/oj)] sú opísané pozorované hrubé dodávky vnútrozemských vodných ciest (GID) pre:  „Zistená dodávka hotových ropných výrobkov z primárnych zdrojov (napr. rafinérie, zariadenia na miešanie atď.) na vnútrozemský trh.“_
+
+Pojem „vnútrozemský trh“ označuje Írsko (napr. Severné Írsko) v týchto energetických štatistikách.
+
+ __Oilové produkty__
+
+Vo všeobecnosti sa výrobky _Heating and other Gasoil_ a _Non-jet Fuel Kerosene_ používajú na komerčné účely
+
+a vykurovanie domácností (s určitou dodatočnou spotrebou v námornej a železničnej doprave).
+_Jet palivo
+
+Produkty Kerosene_ slúžia letectvu, zatiaľ čo _Motor Petrol_ a _Road Diesel_ produkty slúžia cestnej doprave.
+IEA podrobne opisuje ropné produkty na [odkaz](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ce8fe7fa-94ce-4e7d-945e-16b498fe9321">
+            <dct:title xml:lang="pl-t-ga-t0-mtec">2020 miesięczny produkt naftowy Dostawy</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/6384dfa6-e3cc-4fe1-a8ca-b555240b4603/resource/cf2a3f39-5248-4840-9b53-0c27b8613b14</dct:identifier>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="et-t-ga-t0-mtec">2020 naftatoote igakuised tarned</dct:title>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">2020 oljeprodukt månadsleveranser</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">Livrări lunare de produse petroliere 2020</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">Livraisons mensuelles de produits pétroliers 2020</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">Entregas mensuales de productos petrolíferos 2020</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">2020 oil-product monthly Deliveries</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">2020. évi olajtermék-havi szállítások</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">Consegne mensili 2020 dei prodotti petroliferi</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">2020 Ölprodukt monatliche Lieferungen</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">2020 г. Месечни доставки на петролни продукти</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">2020. gada naftas produktu ikmēneša piegādes</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">2020 ropný produkt měsíčně Dodávky</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">Kunsinni ta’ kull xahar dwar il-prodotti taż-żejt għall-2020</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title>2020 oil-product monthly deliveries</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">Leveringer af olieprodukter pr. måned 2020</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">Mesačné dodávky ropných produktov do roku 2020</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">Maandelijkse leveringen van olie-producten 2020</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">Entregas mensais de produtos petrolíferos 2020</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">Mjesečna isporuka naftnih proizvoda 2020.</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">2020 mesečni izdelki iz naftnih derivatov</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title xml:lang="el-t-ga-t0-mtec">Μηνιαίες παραδόσεις πετρελαίου-προϊόντος 2020</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">2020 Öljytuote kuukausittain Toimitukset</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">2020 m. naftos produktų mėnesio pristatymas</dct:title>
+            <dcat:accessURL rdf:resource="https://seaiopendata.blob.core.windows.net/oil/OilProducts_monthlyDeliveries_2020.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Non-jet Kerosene</dcat:keyword>
+        <dct:title xml:lang="mt-t-ga-t0-mtec">Prodotti taż-żejt Ħaż-Xahar lejn l-Irlanda</dct:title>
+        <dct:description xml:lang="el-t-ga-t0-mtec">Παρατηρούμενες ακαθάριστες παραδόσεις εσωτερικής ναυσιπλοΐας (GID) πέντε πετρελαιοειδών σε terajoules (TJ) ενέργειας.Ενέργεια εκφραζόμενη σε κατώτερη θερμογόνο δύναμη (NCV) που διαπιστώθηκε με τη χρήση δημοσιευμένων συντελεστών μετατροπής [[link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)].
+Το παράρτημα Γ του κανονισμού (ΕΕ) 2022/132 της Επιτροπής για τις στατιστικές ενέργειας ([link](http://data.europa.eu/eli/reg/2022/132/oj)) περιγράφει τις παρατηρούμενες ακαθάριστες παραδόσεις εσωτερικής ναυσιπλοΐας (GID) για:  Η παρατηρούμενη παράδοση τελικών προϊόντων πετρελαίου από πρωτογενείς πηγές (π.χ. διυλιστήρια, μονάδες ανάμειξης κ.λπ.) στην εσωτερική αγορά."_
+
+Ο τελευταίος όρος «εσωτερική αγορά» σημαίνει την Ιρλανδία (πρώην Βόρεια Ιρλανδία), στις εν λόγω στατιστικές ενέργειας.
+
+ __Ελαιουργικά προϊόντα__
+
+Γενικά, τα προϊόντα _Heating and Other Gasoil_ και _Non-jet Fuel Kerosene_ χρησιμοποιούνται για εμπορικούς σκοπούς
+
+και οικιακή θέρμανση (με κάποια πρόσθετη κατανάλωση από θαλάσσιες και σιδηροδρομικές μεταφορές).
+_Καύσιμα αεριωθούμενων
+
+Τα προϊόντα Kerosene_ εξυπηρετούν την αεροπορία, ενώ _Motor Petrol_ και _Road Diesel_ προϊόντα εξυπηρετούν οδικές μεταφορές.
+Ο ΔΟΕ παρουσιάζει αναλυτικά τα προϊόντα πετρελαίου στη διεύθυνση [[link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)].</dct:description>
+        <dct:title xml:lang="ro-t-ga-t0-mtec">Livrări lunare de produse petroliere în Irlanda</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:title xml:lang="pl-t-ga-t0-mtec">Miesięczna dostawa produktów naftowych do Irlandii</dct:title>
+        <dcat:keyword>Monthly Oil-product deliveries</dcat:keyword>
+        <dct:temporal rdf:parseType="Resource">
+          <rdfs:label>2018, 2019, 2020, 2021</rdfs:label>
+        </dct:temporal>
+        <dct:title xml:lang="cs-t-ga-t0-mtec">Ropné produkty Měsíční dodávky do Irska</dct:title>
+        <dct:description xml:lang="hu-t-ga-t0-mtec">Öt olajtermék megfigyelt bruttó belvízi szállítása (GID) terajoule-ban (TJ)A közzétett átváltási tényezőkkel ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)) mért nettó fűtőértékben (NCV) kifejezett energia.
+Az energiastatisztikáról szóló (EU) 2022/132 bizottsági rendelet C. melléklete ([link](http://data.europa.eu/eli/reg/2022/132/oj)) ismerteti a megfigyelt bruttó belvízi szállításokat (GID):  _„Az elsődleges forrásokból (pl. finomítók, keverőüzemek stb.) származó kőolaj késztermékek megfigyelt szállítása a belföldi piacra.”_
+
+Az utóbbi „belföldi piac” kifejezés Írországot (korábban Észak-Írországot) jelenti ezekben az energiastatisztikákban.
+
+ __Olajtermékek ___
+
+Általánosságban elmondható, hogy a _Fűtés és egyéb gázolaj_ és a _nem-jet üzemanyag Kerosene_ termékeket kereskedelmi célokra használják
+
+valamint a háztartási fűtés (a tengeri és vasúti közlekedés további fogyasztásával).
+_Jet üzemanyag
+
+A Kerosene_ termékek a légi közlekedést szolgálják, míg a _Motor Petrol_ és _Road Diesel_ termékek a közúti közlekedést szolgálják.
+Az IEA részletezi az olajtermékeket ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:title xml:lang="de-t-ga-t0-mtec">Ölprodukt Monatliche Lieferungen nach Irland</dct:title>
+        <dct:title xml:lang="el-t-ga-t0-mtec">Μηνιαίες παραδόσεις πετρελαιοειδών στην Ιρλανδία</dct:title>
+        <dct:description xml:lang="lv-t-ga-t0-mtec">Novērotās bruto iekšzemes piegādes (GID) no pieciem naftas produktiem teradžoulos (TJ) enerģijas. Enerģija, kas izteikta zemākajā siltumietilpībā (NCV), izmantojot publicētos pārrēķina koeficientus ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). Komisijas Regulas (ES) 2022/132 par enerģētikas statistiku ([link](http://data.europa.eu/eli/reg/2022/132/oj)) C pielikumā ir aprakstītas novērotās bruto iekšzemes piegādes (GID) attiecībā uz:
+
+Novērotā gatavo naftas produktu piegāde no primārajiem avotiem (piemēram, pārstrādes rūpnīcām, sajaukšanas rūpnīcām utt.) iekšzemes tirgū."_
+
+Pēdējais termins “iekšzemes tirgus” šajā enerģētikas statistikā nozīmē Īriju (piemēram, Ziemeļīriju). 
+
+__Oil produkti__
+Kopumā _Heating un citi Gasoil_ un _Non-jet Degvielas petroleja_ produkti tiek izmantoti komerciāliem
+un mājas apkure (ar nelielu papildu patēriņu, ko veic jūras un dzelzceļa transports). _Jet degviela
+Kerosene_ produkti kalpo aviācijai, bet _Motor Benzīns_ un _Road Diesel_ produkti kalpo autotransportam. IEA sniedz informāciju par naftas produktiem ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:description xml:lang="sl-t-ga-t0-mtec">Ugotovljena bruto dobava na kopnem (GID) petih naftnih derivatov v terajoulih (TJ) energije.Energija, izražena v neto kaloričnih vrednostih (NCV), ugotovljena z uporabo objavljenih pretvorbenih faktorjev ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+Priloga C k Uredbi Komisije (EU) 2022/132 o statistiki energetike ([link](http://data.europa.eu/eli/reg/2022/132/oj)) opisuje opažene bruto celinske dobave (GID) za:  _„Opazovana dobava končnih naftnih derivatov iz primarnih virov (npr. rafinerij, obratov za mešanje itd.) na notranji trg.“_
+
+Slednji izraz „celinski trg“ v tej statistiki energetike pomeni Irsko (nekdanja Severna Irska).
+
+ __Oil izdelki__
+
+Na splošno se izdelki _Ogrevanje in drugo plinsko olje_ in _Non-jet Fuel Kerosene_ uporabljajo za komercialne namene
+
+in ogrevanje gospodinjstev (z nekaj dodatne porabe v pomorskem in železniškem prometu).
+_Jet gorivo
+
+Kerosene_ izdelki služijo letalstvu, medtem ko _Motor Petrol_ in _Cestna Diesel_ izdelki služijo cestnemu prometu.
+IEA podrobno opisuje naftne derivate na ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:title xml:lang="lt-t-ga-t0-mtec">Naftos produktas kas mėnesį pristatomas į Airiją</dct:title>
+        <dcat:theme rdf:resource="https://data.gov.ie/Energy"/>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Energy Policy Statistics Support Unit</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:epssu@seai.ie"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/de31a3a0-4971-42c8-89c7-b7df586fdaf9">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>text/turtle</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://seaiopendata.blob.core.windows.net/oil/Oil-products-2021-RDF-Turtle-Stream.ttl"/>
+            <dct:title>2021 oil-product monthly deliveries (as Linked Data)</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/6384dfa6-e3cc-4fe1-a8ca-b555240b4603/resource/08c8ea15-da54-4a37-9623-280c01560c85</dct:identifier>
+            <dct:format>TTL</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pl-t-ga-t0-mtec">Zaobserwowane dostawy śródlądowe brutto (GID) pięciu produktów naftowych w teradżulu (TJ) energii. Energia wyrażona w wartościach opałowych (NCV) znalezionych przy użyciu opublikowanych współczynników konwersji ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). W załączniku C do rozporządzenia Komisji (UE) 2022/132 w sprawie statystyki energii ([link](http://data.europa.eu/eli/reg/2022/132/oj)) opisano obserwowane dostawy śródlądowe brutto (GID) w odniesieniu do:
+
+_„Obserwowane dostawy gotowych produktów ropopochodnych ze źródeł pierwotnych (np. rafinerii, zakładów mieszania itp.) na rynek śródlądowy.”_
+
+Ten ostatni termin „rynek śródlądowy” oznacza Irlandię (np. Irlandię Północną) w tych statystykach dotyczących energii. 
+
+__Produkty naftowe__
+Ogólnie rzecz biorąc, produkty _Heating and Other Gasoil_ i _Non-jet Fuel Kerosene_ są używane w celach komercyjnych
+oraz ogrzewanie domowe (z pewnym dodatkowym zużyciem w transporcie morskim i kolejowym). _Paliwo odrzutowe
+Kerosene_ produkty służą lotnictwie, podczas gdy _Motor Petrol_ i _Road Diesel_ produkty służą do transportu drogowego. Informacje na temat produktów ropopochodnych MAE znajdują się pod adresem [link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:language>en</dct:language>
+        <dct:description xml:lang="lt-t-ga-t0-mtec">Stebėti penkių naftos produktų bendrieji vidaus pristatymai energijos teradžauliais (TJ).Energija, išreikšta apatiniu šilumingumu (NCV), nustatyta naudojant paskelbtus perskaičiavimo koeficientus ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+Komisijos reglamento (ES) 2022/132 dėl energetikos statistikos ([link](http://data.europa.eu/eli/reg/2022/132/oj)) C priede aprašyti stebimi bendrieji vidaus pristatymai (BID):  _„Stebėtas gatavų naftos produktų pristatymas iš pirminių šaltinių (pvz., naftos perdirbimo gamyklų, maišymo įrenginių ir t. t.) į vidaus rinką.“
+
+Pastarasis terminas „vidaus rinka“ reiškia Airiją (buvusią Šiaurės Airiją) šioje energetikos statistikoje.
+
+ __Naftos produktai__
+
+Apskritai _Šildymo ir kiti gazoliai _ ir _ Nereaktyvinis kuras Kerosene_ produktai naudojami komerciniams tikslams
+
+ir namų šildymui (su tam tikru papildomu suvartojimu jūrų ir geležinkelių transporto sektoriuje).
+_Jet kuras
+
+Kerosene_ produktai skirti aviacijai, o _Motorinis Benzinas_ ir _Road Diesel_ produktai skirti kelių transportui.
+TEA išsamiai aprašo naftos produktus ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:description xml:lang="pt-t-ga-t0-mtec">Foram observadas entregas internas brutas (GID) de cinco produtos petrolíferos em terajoules (TJ) de energia.Energia expressa em valores caloríficos inferiores (VNC) encontrados utilizando fatores de conversão publicados [[link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)).
+O anexo C do Regulamento (UE) 2022/132 da Comissão relativo às estatísticas da energia ([link](http://data.europa.eu/eli/reg/2022/132/oj)) descreve as entregas interiores brutas observáveis (GID) para:  _«A entrega observada de produtos petrolíferos acabados a partir de fontes primárias (por exemplo, refinarias, instalações de mistura, etc.) ao mercado interno.»_
+
+O último termo «mercado interior» significa a Irlanda (por exemplo, a Irlanda do Norte), nestas estatísticas da energia.
+
+ __Produtos petrolíferos__
+
+Em geral, os produtos _Heating and Other Gasoil_ e _Non-jet Fuel Kerosene_ são utilizados para fins comerciais
+
+e aquecimento doméstico (com algum consumo adicional pelo transporte marítimo e ferroviário).
+_Combustível de jate
+
+Kerosene_ produtos servem aviação, enquanto _Motor Petrol_ e _Road Diesel_ produtos servem o transporte rodoviário.
+A AIE detalha os produtos petrolíferos em [link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:spatial>
+          <dct:Location>
+            <skos:prefLabel>Ireland (ex Northern Ireland)</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="hu-t-ga-t0-mtec">Olajtermék-havi szállítások Írországba</dct:title>
+        <dct:description xml:lang="nl-t-ga-t0-mtec">Waargenomen bruto binnenlandse leveringen (GID) van vijf olieproducten in terajoules (TJ) van energie. Energie uitgedrukt in calorische onderwaarden (NCV) gevonden met behulp van gepubliceerde omrekeningsfactoren ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). Bijlage C bij Verordening (EU) 2022/132 van de Commissie betreffende energiestatistieken ([link](http://data.europa.eu/eli/reg/2022/132/oj)) beschrijft waargenomen bruto binnenlandse leveringen (GID) voor:
+
+De waargenomen levering van afgewerkte aardolieproducten uit primaire bronnen (bv. raffinaderijen, menginstallaties, enz.) aan de binnenlandse markt.”
+
+De laatste term „binnenlandse markt” betekent Ierland (ex. Noord-Ierland), in deze energiestatistieken. 
+
+__Olieproducten__
+In het algemeen worden de producten van _Heating and Other Gasoil_ en _Non-jet Fuel Kerosene_ gebruikt voor commerciële doeleinden
+en huishoudelijke verwarming (met enige extra verbruik door zee- en spoorvervoer). Brandstof _Jet
+Kerosene_ producten dienen de luchtvaart, terwijl _Motor Petrol_ en _Road Diesel_ producten voor het wegvervoer. IEA geeft informatie over olieproducten op ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dcat:keyword>Oil Products</dcat:keyword>
+        <dct:description xml:lang="it-t-ga-t0-mtec">Consegne interne lorde osservate (GID) di cinque prodotti petroliferi in terajoules (TJ) di energia. Energia espressa in potere calorifico netto (NCV) rilevata utilizzando i fattori di conversione pubblicati [[link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)]. L'allegato C del regolamento (UE) 2022/132 della Commissione relativo alle statistiche dell'energia [[link](http://data.europa.eu/eli/reg/2022/132/oj)] descrive le consegne interne lorde osservate (GID) per:
+
+"La consegna osservata di prodotti petroliferi finiti da fonti primarie (ad esempio raffinerie, impianti di miscelazione ecc.) al mercato interno."_
+
+Quest'ultimo termine "mercato interno" indica l'Irlanda (ex Irlanda del Nord) in queste statistiche dell'energia. 
+
+__Prodotti petroliferi__
+In generale, i prodotti _Heating and Other Gasoil_ e _Non-jet Fuel Kerosene_ sono utilizzati per scopi commerciali
+e riscaldamento domestico (con alcuni consumi aggiuntivi per il trasporto marittimo e ferroviario). _Jet carburante
+I prodotti Kerosene_ servono l'aviazione, mentre i prodotti _Motor Petrol_ e _Road Diesel_ servono il trasporto su strada. L'AIE descrive i prodotti petroliferi all'indirizzo [[link] (https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dct:title xml:lang="lv-t-ga-t0-mtec">Naftas produktu ikmēneša piegādes Īrijai</dct:title>
+        <dct:title xml:lang="bg-t-ga-t0-mtec">Петролен продукт Месечни доставки до Ирландия</dct:title>
+        <dct:title xml:lang="et-t-ga-t0-mtec">Naftasaaduste igakuised tarned Iirimaale</dct:title>
+        <dct:title xml:lang="sv-t-ga-t0-mtec">Oljeprodukt Månatliga leveranser till Irland</dct:title>
+        <dct:title xml:lang="pt-t-ga-t0-mtec">Entregas mensais de produtos petrolíferos para a Irlanda</dct:title>
+        <dcat:keyword>Petrol</dcat:keyword>
+        <dct:title xml:lang="sk-t-ga-t0-mtec">Mesačné dodávky ropných produktov do Írska</dct:title>
+        <dct:description xml:lang="fr-t-ga-t0-mtec">Expéditions intérieures brutes (GID) de cinq produits pétroliers en térajoules (TJ) d’énergie. Énergie exprimée en valeurs calorifiques nettes (NCV) trouvées à l’aide de facteurs de conversion publiés ([link](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/)). L’annexe C du règlement (UE) 2022/132 de la Commission relatif aux statistiques de l’énergie ([link] (http://data.europa.eu/eli/reg/2022/132/oj)) décrit les livraisons intérieures brutes observées (GID) pour:
+
+_«La livraison observée de produits pétroliers finis à partir de sources primaires (par exemple, raffineries, usines de mélange, etc.) vers le marché intérieur.»
+
+Dans ces statistiques de l’énergie, on entend par «marché intérieur» l’Irlande (ex. l’Irlande du Nord). 
+
+__Produits pétroliers__
+En général, les produits _Heating and Other Gasoil_ et _Non-jet Fuel Kerosene_ sont utilisés pour le commerce
+et le chauffage domestique (avec une certaine consommation supplémentaire par le transport maritime et ferroviaire). _Carburant Jet
+Les produits Kerosene_ servent l’aviation, tandis que les produits _Motor Petrol_ et _Road Diesel_ servent le transport routier. L’AIE détaille les produits pétroliers au ([link](https://iea.blob.core.windows.net/assets/39c58277-709c-41f5-88ee-1643903aaf19/Oil_Questionnaire_Instructions.pdf)).</dct:description>
+        <dcat:keyword>Motor gasoline</dcat:keyword>
+        <dct:title xml:lang="nl-t-ga-t0-mtec">Olie-product Maandelijkse leveringen aan Ierland</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-15T20:25:06Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

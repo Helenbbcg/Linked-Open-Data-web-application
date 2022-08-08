@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/txzag0ihohbjiwziaz881a">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:10:53Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>a8c7f37a0cef1913491a14a1832846ae</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/txzag0ihohbjiwziaz881a"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:12:50Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:12:50Z</dct:modified>
+    <dct:identifier>TxZAG0ihoHBJIWZIaz881A</dct:identifier>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/txzag0ihohbjiwziaz881a">
+        <dct:description xml:lang="fi-t-en-t0-mtec">Vähittäiskauppa – kuukausittaiset tiedot – kasvuvauhti (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Mazumtirdzniecība — mēneša dati — pieauguma temps (NACE 2. red.)</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Comerțul cu amănuntul – date lunare – rate de creștere (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Kiskereskedelem – havi adatok – növekedési ráták (NACE Rev. 2)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2c8e8d33-7243-46ad-8da4-ca72a024b22e">
+            <dct:identifier>http://data.europa.eu/88u/distribution/3d5a1437-6db8-4f91-aa7d-f7d45e6b4c82</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="en">Retail trade - monthly data - growth rates (NACE Rev. 2)</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Commerce de détail - données mensuelles - taux de croissance (NACE Rév. 2)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrr_m.tsv.gz"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Wachstumsraten (NACE Rev. 2)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Trádáil mhiondíola — sonraí míosúla — rátaí fáis (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Detaljhandel – månadsuppgifter – tillväxttakt (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Jaekaubandus – kuuandmed – kasvumäärad (NACE Rev. 2)</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/f4a83514-a5b3-448a-be29-4419e7422e65">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2022-05-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1991-02-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Comércio a retalho — dados mensais — taxas de crescimento (NACE Rev. 2)</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/66264ca4-39a3-4731-94ca-1f4d18d2f666">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Wachstumsraten (NACE Rev. 2)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="fr">Commerce de détail - données mensuelles - taux de croissance (NACE Rév. 2)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/577fa32a-59d4-4635-8098-60340e42764d</dct:identifier>
+            <dct:title xml:lang="en">Retail trade - monthly data - growth rates (NACE Rev. 2)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrr_m.tsv.gz&amp;unzip=true"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-en-t0-mtec">Λιανικό εμπόριο — μηνιαία στοιχεία — ρυθμοί ανάπτυξης (NACE αναθ. 2)</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Comercio al por menor — datos mensuales — tasas de crecimiento (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Роздрібна торгівля - щомісячні дані - темпи зростання (NACE Rev. 2)</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/txzag0ihohbjiwziaz881a"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Trgovina na drobno – mesečni podatki – stopnje rasti (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Maloobchod – měsíční údaje – tempo růstu (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Handel detaliczny – dane miesięczne – stopy wzrostu (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Detailhandel — maandelijkse gegevens — groeipercentages (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Detailhandel — månedlige data — vækstrater (NACE rev. 2)</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Handel detaliczny – dane miesięczne – stopy wzrostu (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="fr">Commerce de détail - données mensuelles - taux de croissance (NACE Rév. 2)</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Trádáil mhiondíola — sonraí míosúla — rátaí fáis (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Maloobchod – mesačné údaje – miery rastu (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Роздрібна торгівля - щомісячні дані - темпи зростання (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="en">Retail trade - monthly data - growth rates (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Kummerċ bl-imnut — data ta’ kull xahar — rati ta’ tkabbir (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="de">Einzelhandel - monatliche Daten - Wachstumsraten (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="fr">Commerce de détail - données mensuelles - taux de croissance (NACE Rév. 2)</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Vähittäiskauppa – kuukausittaiset tiedot – kasvuvauhti (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Comércio a retalho — dados mensais — taxas de crescimento (NACE Rev. 2)</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrr_m">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrr_m</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrr_m</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/txzag0ihohbjiwziaz881a"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/cce3ac04-c47b-4ca5-9e9c-d73db0aab7ad">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/2098fa8b-a6f0-45fe-9366-e76d4574dc14">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="da-t-en-t0-mtec">Detailhandel — månedlige data — vækstrater (NACE rev. 2)</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Kummerċ bl-imnut — data ta’ kull xahar — rati ta’ tkabbir (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Maloobchod – měsíční údaje – tempo růstu (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Mažmeninė prekyba. Mėnesiniai duomenys – augimo tempai (NACE 2 red.)</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Търговия на дребно — месечни данни — темпове на растеж (NACE Rev. 2)</dct:description>
+        <dct:identifier>ei_isrr_m</dct:identifier>
+        <dct:title xml:lang="es-t-en-t0-mtec">Comercio al por menor — datos mensuales — tasas de crecimiento (NACE Rev. 2)</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Trgovina na malo – mjesečni podaci – stope rasta (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Mažmeninė prekyba. Mėnesiniai duomenys – augimo tempai (NACE 2 red.)</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Trgovina na malo – mjesečni podaci – stope rasta (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Mazumtirdzniecība — mēneša dati — pieauguma temps (NACE 2. red.)</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Kiskereskedelem – havi adatok – növekedési ráták (NACE Rev. 2)</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-22</dct:modified>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:title xml:lang="en">Retail trade - monthly data - growth rates (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Λιανικό εμπόριο — μηνιαία στοιχεία — ρυθμοί ανάπτυξης (NACE αναθ. 2)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Wachstumsraten (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Commercio al dettaglio — dati mensili — tassi di crescita (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Jaekaubandus – kuuandmed – kasvumäärad (NACE Rev. 2)</dct:title>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrr_m"/>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Detailhandel — maandelijkse gegevens — groeipercentages (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Commercio al dettaglio — dati mensili — tassi di crescita (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Търговия на дребно — месечни данни — темпове на растеж (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Detaljhandel – månadsuppgifter – tillväxttakt (NACE Rev. 2)</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/TxZAG0ihoHBJIWZIaz881A</dct:identifier>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Trgovina na drobno – mesečni podatki – stopnje rasti (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Comerțul cu amănuntul – date lunare – rate de creștere (NACE Rev. 2)</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_is_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_is_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/txzag0ihohbjiwziaz881a"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Maloobchod – mesačné údaje – miery rastu (NACE Rev. 2)</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f67867fd-7c64-4efa-8247-fbc5d49c8745">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">Retail trade - monthly data - growth rates (NACE Rev. 2)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrr_m.sdmx.zip"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/e246cd0b-6841-4547-a6c1-e90f6eaaedc7</dct:identifier>
+            <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Wachstumsraten (NACE Rev. 2)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="fr">Commerce de détail - données mensuelles - taux de croissance (NACE Rév. 2)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

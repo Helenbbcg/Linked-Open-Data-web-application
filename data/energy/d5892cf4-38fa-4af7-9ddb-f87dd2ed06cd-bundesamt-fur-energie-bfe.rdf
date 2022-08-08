@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <vcard:Organization/>
+  <rdf:Description>
+    <vcard:fn>geoinformation@bfe.admin.ch</vcard:fn>
+  </rdf:Description>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/d5892cf4-38fa-4af7-9ddb-f87dd2ed06cd-bundesamt-fur-energie-bfe">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/d5892cf4-38fa-4af7-9ddb-f87dd2ed06cd-bundesamt-fur-energie-bfe"/>
+    <dct:identifier>d5892cf4-38fa-4af7-9ddb-f87dd2ed06cd@bundesamt-fur-energie-bfe</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:27:28Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:05:13Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>d66ba243ca35a2844c526a08adb9a4ec</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:06:49Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/d5892cf4-38fa-4af7-9ddb-f87dd2ed06cd-bundesamt-fur-energie-bfe">
+        <dct:title xml:lang="sv-t-de-t0-mtec">Vind Atlas Sverige: Årsgenomsnitt för modellerad vindhastighet och vindriktning på 75 m höjd över marken</dct:title>
+        <dct:title xml:lang="de">Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 75 m Höhe über Grund</dct:title>
+        <dct:title xml:lang="en">Wind Atlas of Switzerland: Annual average of the modelled wind speed and direction at a height of 75 metres above the ground</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">De Zwitserse windatlas beschrijft de windomstandigheden op vijf hoogten boven de grond: 50, 75, 100, 125 en 150 m. De gegevens zijn gebaseerd op een Zwitsers-brede modellering met een horizontale roosterbreedte van 100 m. De kaart toont de gemodelleerde jaarlijkse gemiddelde waarde van de windsnelheid voor elk roosterpunt. De verdeling van windsnelheden in windsnelheidsklassen kan worden benaderd met Weibull-parameters A (schaalparameters) en k (vormparameters).
+Van de Weibull-parameters kan niet rechtstreeks worden afgesloten tot het gemiddelde van de windsnelheid, aangezien het een benadering van een windverdeling betreft en deze voor elke locatie niet voldoende kan worden gereproduceerd.
+De windroos toont de relatieve frequentie van de gemodelleerde windrichtingen.
+De gemiddelde windsnelheden en bijbehorende vrouwelijke parameters worden per sector weergegeven.
+Voor de berekening van windsnelheden en windrichtingen zijn langetermijnmetingen opgenomen in het modelleringsproces.
+Aangezien de meetpunten zich niet overal in een geschikte dichtheid in heel Zwitserland bevinden en onnauwkeurigheden optreden bij de modellering van windstromingen in complex terrein, zijn de resultaten beladen met onzekerheden.
+De omvang van de onzekerheden in de Jura-boog is tot ± 0,5 m/s, in het middenland tot ± 0,7 m/s, in de prealps tot ± 0,5 m/s en in de Alpen tot ± 1,3 m/s. Voor de kaarten vanaf 100 m boven de grond zijn er duidelijk minder metingen beschikbaar voor modellering.
+Dit leidt tot grotere onzekerheid in de resultaten.
+De gegevens moeten worden opgevat als een ruwe beoordeling van de windomstandigheden.
+Als u geïnteresseerd bent in een siteontwikkeling, is een meting op locatie essentieel.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dct:language>en</dct:language>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Swiss Wind Atlas kuvaa tuulen olosuhteita viidellä korkeudella maanpinnan yläpuolella: 50, 75, 100, 125 ja 150 m. Tiedot perustuvat Sveitsin laajuiseen mallintamiseen, jonka vaakasuora ristikkoleveys on 100 m. Kartassa esitetään tuulen nopeuden mallinnettu vuotuinen keskiarvo kullekin ristikkopisteelle. Tuulen nopeuksien jakautumista tuulen nopeusluokissa voidaan arvioida Weibull-parametreilla A (asteikkoparametrit) ja k (muotoparametrit). Weibullin parametreja ei voida sulkea suoraan tuulen nopeuden keskiarvoon, koska se on likimääräinen tuulen jakautumiseen, eikä sitä voida toistaa riittävästi kunkin sijainnin osalta. Tuuliruusu näyttää mallinnettujen tuulisuuntien suhteellisen taajuuden. Keskimääräiset tuulenopeudet ja niihin liittyvät naiselliset parametrit esitetään sektorikohtaisesti. Tuulen nopeuden ja tuulen suunnan laskemista varten mallinnusprosessiin on sisällytetty pitkän aikavälin mittaukset. Koska mittauspisteet eivät ole kaikkialla sopivassa tiheydessä kaikkialla Sveitsissä ja tuulivirtojen mallintamisessa tapahtuu epätarkkuuksia monimutkaisessa maastossa, tulokset ovat täynnä epävarmuutta. Epävarmuustekijöiden suuruus Jura-kaaressa on enintään ± 0,5 m/s, keskiosassa ± 0,7 m/s, esialpeilla ± 0,5 m/s ja Alpeilla jopa ± 1,3 m/s. Karttoja 100 metrin korkeudelta maanpinnasta on huomattavasti vähemmän mittauksia saatavilla mallintamista varten. Tämä johtaa suurempaan epävarmuuteen tuloksissa. Tiedot on ymmärrettävä tuuliolosuhteiden karkeaksi arvioinniksi. Jos olet kiinnostunut sivuston kehittämisestä, mittaus paikan päällä on välttämätöntä.</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Vēja atlants Šveice: Gada vidējais modelētais vēja ātrums un vēja virziens 75 m augstumā virs zemes</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Déanann Atlas Gaoithe na hEilvéise cur síos ar choinníollacha na gaoithe ag cúig airde os cionn na talún: 50, 75, 100, 125 agus 150 m. Tá na sonraí bunaithe ar shamhaltú ar fud na hEilvéise le leithead cothrománach laitíse 100 m. Taispeánann an léarscáil meánluach múnlaithe bliantúil luas na gaoithe do gach pointe laitíse. Is féidir dáileadh luasanna gaoithe i ranganna luas na gaoithe a neasú le paraiméadair Weibull A (paraiméadair scála) agus k (paraiméadair cruth). Ní féidir paraiméadair Weibull a dhúnadh go díreach do mheán treoluas na gaoithe, ós rud é gur neastachán é do dháileadh gaoithe agus ní féidir é seo a atáirgeadh go leordhóthanach do gach suíomh. Taispeánann an ghaoth ardaigh minicíocht choibhneasta na dtreoracha gaoithe múnlaithe. Taispeántar na meánluasanna gaoithe agus na paraiméadair bhaininscneacha ghaolmhara in aghaidh na hearnála. Chun luasanna gaoithe agus treonna gaoithe a ríomh, ionchorpraíodh tomhais fhadtéarmacha sa phróiseas samhaltaithe. Ós rud é nach bhfuil na pointí tomhais i ngach áit i ndlús iomchuí ar fud na hEilvéise agus go dtarlaíonn míchruinnis i samhaltú sruthanna gaoithe i dtír-raon casta, tá na torthaí fraught le neamhchinnteachtaí. Tá méid na héiginnteachta in áirse Jura suas le ± 0.5 m/s, sa lárthír suas le ± 0.7 m/s, sna réamhshocruithe suas le ± 0.5 m/s agus sna hAlpa suas le ± 1.3 m/s. Maidir leis na léarscáileanna ó 100 m os cionn na talún, tá níos lú tomhais ar fáil lena samhaltú. Is é an toradh a bhíonn air sin go mbíonn níos mó neamhchinnteachta sna torthaí. Tuigfear gurb ionann na sonraí agus measúnú garbh ar dhálaí na gaoithe. Má tá suim agat i bhforbairt suímh, tá tomhas ar an suíomh riachtanach.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Větrný atlas Švýcarsko: Roční průměr modelované rychlosti větru a směru větru ve výšce 75 m nad zemí</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Atlas do vento Suíça: Média anual de velocidade do vento modelada e direção do vento a 75 m de altitude acima do solo</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Vind Atlas Schweiz: Årligt gennemsnit af modelleret vindhastighed og vindretning i 75 m højde over jorden</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Švajčiarsky veterný atlas opisuje veterné podmienky v piatich nadmorských výškach nad zemou: 50, 75, 100, 125 a 150 m. Údaje sú založené na švajčiarskom modelovaní s horizontálnou šírkou mriežky 100 m. Mapa zobrazuje modelovanú priemernú ročnú hodnotu rýchlosti vetra pre každý bod mriežky. Rozloženie rýchlosti vetra v triedach rýchlosti vetra možno približovať parametrom Weibull A (parametre mierky) a k (parametre tvaru). Z parametrov Weibull nemožno priamo uzavrieť priemer rýchlosti vetra, pretože ide o približovanie k rozloženiu vetra, ktoré nemožno dostatočne reprodukovať pre každé miesto. Veterná ruža ukazuje relatívnu frekvenciu modelovaných smerov vetra. Priemerná rýchlosť vetra a súvisiace ženské parametre sú uvedené v jednotlivých odvetviach. Na výpočet rýchlosti vetra a smerov vetra boli do procesu modelovania začlenené dlhodobé merania. Keďže meracie body nie sú všade vo vhodnej hustote v celom Švajčiarsku a nepresnosti sa vyskytujú pri modelovaní veterných prúdov v komplexnom teréne, výsledky sú plné neistôt. Rozsah neistôt v oblúku Jura je až ± 0,5 m/s, v strednej krajine až ± 0,7 m/s, v prealpách do ± 0,5 m/s a v Alpách až do ± 1,3 m/s. Pre mapy od 100 m nad zemou je k dispozícii výrazne menej meraní na modelovanie. To vedie k väčšej neistote vo výsledkoch. Údaje sa majú chápať ako hrubé posúdenie podmienok vetra. Ak máte záujem o vývoj lokality, meranie na mieste je nevyhnutné.</dct:description>
+        <dcat:keyword xml:lang="en">renewable-energy-source</dcat:keyword>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Den schweiziska vindatlasen beskriver vindförhållandena på fem höjder över marken: 50, 75, 100, 125 och 150 m. Datan baseras på en schweizisk bred modellering med en horisontell gitterbredd på 100 m. Kartan visar det modellerade årliga medelvärdet för vindhastigheten för varje gitterpunkt. Fördelningen av vindhastigheter i vindhastighetsklasser kan approximeras med Weibull-parametrarna A (skala parametrar) och k (formparametrar). Från Weibull parametrarna kan inte direkt stängas till medelvärdet av vindhastigheten, eftersom det är en approximation till en vindfördelning och detta inte kan reproduceras tillräckligt för varje plats. Vindrosen visar den relativa frekvensen av de modellerade vindriktningarna. De genomsnittliga vindhastigheterna och tillhörande feminina parametrar visas per sektor. För beräkning av vindhastigheter och vindriktningar har långsiktiga mätningar införlivats i modelleringsprocessen. Eftersom mätpunkterna inte är överallt i en lämplig densitet i hela Schweiz och felaktigheter uppstår vid modellering av vindströmmar i komplex terräng, är resultaten fyllda med osäkerheter. Storleken på osäkerheterna i Jurabågen är upp till ± 0,5 m/s, i mellersta landet upp till ± 0,7 m/s, i föralperna upp till ± 0,5 m/s och i Alperna i upp till ± 1,3 m/s. För kartor från 100 m över mark finns det markant färre mätningar tillgängliga för modellering.
+Detta leder till ökad osäkerhet i resultaten.
+Uppgifterna ska förstås som en grov bedömning av vindförhållandena.
+Om du är intresserad av en webbplatsutveckling är en mätning på plats nödvändig.</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šveices vēja atlantā ir aprakstīti vēja apstākļi piecos augstumos virs zemes: 50, 75, 100, 125 un 150 m. Dati balstās uz Šveices mēroga modelēšanu ar horizontālu režģa platumu 100 m. Karte parāda modelēto vēja ātruma gada vidējo vērtību katram režģa punktam. Vēja ātruma sadalījumu vēja ātruma klasēs var tuvināt ar Weibull parametriem A (mēroga parametri) un k (formas parametri). No Weibull parametriem nevar tieši aizvērt vēja ātruma vidējo rādītāju, jo tas ir tuvinājums vēja sadalījumam un to nevar pietiekami atveidot katrā vietā. Vēja roze parāda modelēto vēja virzienu relatīvo biežumu. Vidējais vēja ātrums un ar to saistītie sievišķīgie parametri ir norādīti pa sektoriem. Lai aprēķinātu vēja ātrumus un vēja virzienus, modelēšanas procesā ir iekļauti ilgtermiņa mērījumi. Tā kā mērīšanas punkti nav visur atbilstošā blīvumā visā Šveicē un neprecizitātes rodas, modelējot vēja straumes sarežģītā reljefā, rezultāti ir pilns ar neskaidrībām. Nenoteiktības lielums Jura arkā ir līdz ± 0,5 m/s, vidējā valstī līdz ± 0,7 m/s, prealps ar ātrumu līdz ± 0,5 m/s un Alpos ar ātrumu līdz ± 1,3 m/s. kartēm no 100 m virs zemes ir ievērojami mazāk mērījumu modelēšanai. Tas rada lielāku nenoteiktību attiecībā uz rezultātiem. Dati jāsaprot kā aptuvens vēja apstākļu novērtējums. Ja jūs interesē vietnes izstrāde, ir būtiski veikt mērījumus uz vietas.</dct:description>
+        <dct:title xml:lang="it">Atlante eolico svizzero: velocità media annua e direzione media annua del vento a un'altezza di 75 m sopra il livello del terreno secondo modellizzazione</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">L-Atlas Żvizzeru tar-Riħ jiddeskrivi l-kundizzjonijiet tar-riħ f’ħames altitudnijiet’il fuq mill-art: 50, 75, 100, 125 u 150 m. Id-data hija bbażata fuq mudellar madwar l-Iżvizzera b’wisa’ orizzontali tal-kannizzata ta’ 100 m. Il-mappa turi l-valur medju annwali mudellat tal-veloċità tar-riħ għal kull punt kannizzata.
+Id-distribuzzjoni tal-veloċitajiet tar-riħ fil-klassijiet tal-veloċità tar-riħ tista’ tiġi approssimata bil-parametri A ta’ Weibull (parametri ta’ skala) u k (parametri tal-forma).
+Mill-parametri Weibull ma jistgħux jingħalqu direttament għall-medja tal-veloċità tar-riħ, peress li hija approssimazzjoni għal distribuzzjoni tar-riħ u dan ma jistax jiġi riprodott b’mod suffiċjenti għal kull post.
+Il-ward tar-riħ juri l-frekwenza relattiva tad-direzzjonijiet tar-riħ immudellati.
+Il-veloċitajiet medji tar-riħ u l-parametri femminili assoċjati jintwerew għal kull settur.
+Għall-kalkolu tal-veloċitajiet tar-riħ u d-direzzjonijiet tar-riħ, il-kejl fit-tul ġie inkorporat fil-proċess tal-immudellar.
+Peress li l-punti tal-kejl mhumiex kullimkien f’densità xierqa fl-Isvizzera kollha u jseħħu ineżattezzi fl-immudellar tal-kurrenti tar-riħ f’art kumplessa, ir-riżultati huma mimlija inċertezzi.
+Id-daqs tal-inċertezzi fl-arkata ta’ Jura huwa sa ± 0.5 m/s, fil-pajjiż tan-nofs sa ± 0.7 m/s, fil-prealps sa ± 0.5 m/s u fl-Alpi sa ± 1.3 m/s. Għall-mapep minn 100 m’il fuq mill-art hemm ferm inqas kejl disponibbli għall-immudellar.
+Dan jirriżulta f’aktar inċertezza fir-riżultati.
+Id-data għandha tinftiehem bħala valutazzjoni approssimattiva tal-kundizzjonijiet tar-riħ.
+Jekk inti interessat fl-iżvilupp tas-sit, kejl fuq is-sit huwa essenzjali.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Švicarski atlas vjetra opisuje uvjete vjetra na pet visina iznad tla: 50, 75, 100, 125 i 150 m. Podaci se temelje na švicarskom modeliranju vodoravne rešetke širine 100 m. Karta prikazuje modeliranu godišnju srednju vrijednost brzine vjetra za svaku točku rešetke. Raspodjela brzina vjetra u razredima brzine vjetra može se približno odrediti s Weibull parametrima A (parametri razmjera) i k (parametri oblika). Iz Weibullovih parametara ne može se izravno zatvoriti srednja vrijednost brzine vjetra jer je riječ o približnoj raspodjeli vjetra i to se ne može dovoljno reproducirati za svaku lokaciju. Rast vjetra pokazuje relativnu frekvenciju modeliranih smjerova vjetra. Prosječne brzine vjetra i povezani ženski parametri prikazani su po sektoru. Za izračun brzine vjetra i smjera vjetra u proces modeliranja uključena su dugoročna mjerenja. Budući da mjerne točke nisu svugdje u odgovarajućoj gustoći u cijeloj Švicarskoj, a netočnosti se javljaju u modeliranju struja vjetra na složenom terenu, rezultati su prepuni nesigurnosti. Veličina nesigurnosti u luku Jura iznosi do ± 0,5 m/s, u srednjoj zemlji do ± 0,7 m/s, u prealpsima do ± 0,5 m/s i u Alpama do ± 1,3 m/s. Za karte od 100 m iznad tla dostupno je znatno manje mjerenja za modeliranje. To dovodi do veće nesigurnosti u rezultatima. Podatke treba shvatiti kao grubu procjenu uvjeta vjetra. Ako ste zainteresirani za razvoj web mjesta, mjerenje na licu mjesta je neophodno.</dct:description>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Atlas vjetra Švicarska: Godišnja srednja vrijednost modelirane brzine vjetra i smjera vjetra na 75 m nadmorske visine</dct:title>
+        <dcat:keyword xml:lang="de">erneuerbare-energiequelle</dcat:keyword>
+        <dct:description xml:lang="et-t-de-t0-mtec">Šveitsi tuuleatlas kirjeldab tuuletingimusi viiel kõrgusel maapinnast: 50, 75, 100, 125 ja 150 m. Andmed põhinevad Šveitsi hõlmaval modelleerimisel, mille horisontaalne võre laius on 100 m. Kaardil on näidatud tuule kiiruse modelleeritud aasta keskmine väärtus iga võrepunkti kohta. Tuulekiiruste jaotust tuule kiirusklassides saab ligikaudselt võrrelda Weibulli parameetritega A (skaala parameetrid) ja k (kujuparameetrid). Weibulli parameetreid ei saa otse sulgeda tuule kiiruse keskmisele, kuna see on ligikaudne tuulejaotusele ja seda ei saa iga asukoha jaoks piisavalt paljundada. Tuul tõusis näitab modelleeritud tuule suundade suhtelist sagedust. Keskmised tuulekiirused ja nendega seotud naiselikud parameetrid on esitatud sektorite kaupa. Tuule kiiruse ja tuulesuuna arvutamiseks on modelleerimisprotsessi kaasatud pikaajalised mõõtmised. Kuna mõõtepunktid ei ole kõikjal sobiva tihedusega kogu Šveitsis ja tuulevoolu modelleerimisel keerulisel maastikul esineb ebatäpsusi, on tulemused täis ebakindlust. Jura kaare mõõtemääramatuse suurus on kuni ± 0,5 m/s, keskmises riigis kiirusega kuni ± 0,7 m/s, prealpides kuni ± 0,5 m/s ja Alpides kuni ± 1,3 m/s. Maast 100 m kõrgusel asuvate kaartide puhul on modelleerimiseks saadaval märgatavalt vähem mõõtmisi. See toob kaasa suurema ebakindluse tulemustes. Andmeid tuleb käsitada tuuletingimuste ligikaudse hindamisena. Kui olete huvitatud saidi arendamisest, on oluline kohapeal mõõtmine.</dct:description>
+        <dcat:keyword xml:lang="fr">ifdg-linfrastructure-federale-de-donnees-geographiques</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:language>it</dct:language>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Vetrni atlas Švica: Letno povprečje vzorčene hitrosti vetra in smeri vetra na 75 m nadmorske višine nad tlemi</dct:title>
+        <dct:description xml:lang="de">Der Windatlas Schweiz beschreibt die Windverhältnisse auf fünf Höhen über Grund: 50, 75, 100, 125 und 150 m. Die Daten basieren auf einer schweizweiten Modellierung mit einer horizontalen Gitterweite von 100 m. In der Karte ist für jeden Gitterpunkt der modellierte Jahresmittelwert der Windgeschwindigkeit dargestellt. Die Verteilung der Windgeschwindigkeiten in Windgeschwindigkeitsklassen kann mit den Weibullparametern A (Skalenparameter) und k (Formparameter) angenähert werden. Aus den Weibullparametern kann nicht direkt auf den Mittelwert der Windgeschwindigkeit geschlossen werden, da es sich um eine Annäherung an eine Windverteilung handelt und diese nicht für jeden Standort ausreichend wiedergegeben werden kann. Die Windrose zeigt die relative Häufigkeit der modellierten Windrichtungen. Pro Sektor sind die gemittelten Windgeschwindigkeiten und zugehörigen Weibullparameter ersichtlich. Für die Berechnung der Windgeschwindigkeiten und Windrichtungen sind langjährige Messungen in die Modellierung eingeflossen. Da die Messpunkte schweizweit nicht überall in einer angemessenen Dichte vorhanden sind und Ungenauigkeiten bei der Modellierung von Windströmungen im komplexen Gelände auftreten, sind die Resultate mit Unsicherheiten behaftet. Die Grössenordnung der Unsicherheiten liegen im Jurabogen bei bis zu +/- 0.5m/s, im Mittelland bei bis zu +/- 0.7m/s, in den Voralpen bei bis zu +/- 0.5m/s und in den Alpen bei bis zu +/- 1.3m/s. Für die Karten ab 100m Höhe über Grund stehen markant weniger Messungen für die Modellierung zu Verfügung. Dies resultiert in einer höheren Unsicherheit der Ergebnisse. Die Angaben sind als grobe Einschätzung der Windverhältnisse zu verstehen. Bei Interesse an einer Standortentwicklung ist eine Messung vor Ort unumgänglich.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Вятър Атлас Швейцария: Средногодишна средна скорост на вятъра и посока на вятъра на 75 m над земната повърхност</dct:title>
+        <dcat:keyword xml:lang="en">fsdi-federal-spatial-data-infrastructure</dcat:keyword>
+        <dct:description xml:lang="da-t-de-t0-mtec">Det schweiziske Wind Atlas beskriver vindforholdene i fem højder over jorden: 50, 75, 100, 125 og 150 m. Dataene er baseret på en schweizisk modellering med en vandret gitterbredde på 100 m. Kortet viser den modellerede årlige gennemsnitsværdi af vindhastigheden for hvert gitterpunkt. Fordelingen af vindhastigheder i vindhastighedsklasser kan tilnærmes med Weibull-parametrene A (skalaparametre) og k (formparametre). Fra Weibull parametrene kan ikke direkte lukkes til middelværdien af vindhastigheden, da det er en tilnærmelse til en vindfordeling, og dette kan ikke i tilstrækkelig grad reproduceres for hver placering. Vinden rose viser den relative frekvens af de modellerede vind retninger. De gennemsnitlige vindhastigheder og tilhørende feminin parametre vises pr. sektor. Til beregning af vindhastigheder og vindretninger er langsigtede målinger blevet indarbejdet i modelleringsprocessen. Da målepunkterne ikke er alle steder i en passende tæthed i hele Schweiz, og unøjagtigheder forekommer i modellering af vindstrømme i komplekst terræn, er resultaterne fyldt med usikkerhed. Størrelsen af usikkerheden i Jura buen er op til ± 0,5 m/s, i mellemlandet ved op til ± 0,7 m/s, i præalperne ved op til ± 0,5 m/s og i Alperne ved op til ± 1,3 m/s. For kortene fra 100 m over jorden er der markant færre målinger til rådighed til modellering. Dette resulterer i større usikkerhed i resultaterne. Dataene skal forstås som en grov vurdering af vindforholdene. Hvis du er interesseret i et websted udvikling, en måling på stedet er afgørende.</dct:description>
+        <dct:identifier>d5892cf4-38fa-4af7-9ddb-f87dd2ed06cd@bundesamt-fur-energie-bfe</dct:identifier>
+        <dct:description xml:lang="es-t-de-t0-mtec">El Atlas de viento suizo describe las condiciones del viento a cinco altitudes sobre el suelo: 50, 75, 100, 125 y 150 m. Los datos se basan en un modelado suizo con un ancho horizontal de 100 m. El mapa muestra el valor medio anual modelado de la velocidad del viento para cada punto de red. La distribución de las velocidades del viento en las clases de velocidad del viento se puede aproximar con los parámetros de Weibull A (parámetros de escala) y k (parámetros de forma). Desde los parámetros de Weibull no se puede cerrar directamente a la media de la velocidad del viento, ya que es una aproximación a una distribución del viento y esto no puede ser suficientemente reproducido para cada ubicación. La rosa del viento muestra la frecuencia relativa de las direcciones del viento modeladas. Las velocidades medias del viento y los parámetros femeninos asociados se muestran por sector. Para el cálculo de las velocidades del viento y las direcciones del viento, se han incorporado mediciones a largo plazo en el proceso de modelado. Dado que los puntos de medición no están en todas partes en una densidad adecuada en toda Suiza y las imprecisiones ocurren en el modelado de corrientes de viento en terrenos complejos, los resultados están llenos de incertidumbres. La magnitud de las incertidumbres en el arco del Jura es de hasta ± 0,5 m/s, en el país medio de hasta ± 0,7 m/s, en los prealpes de hasta ± 0,5 m/s y en los Alpes en hasta ± 1,3 m/s. Para los mapas a partir de 100 m sobre el suelo hay notablemente menos mediciones disponibles para la modelización. Esto da lugar a una mayor incertidumbre en los resultados. Los datos deben entenderse como una evaluación aproximada de las condiciones del viento. Si está interesado en el desarrollo de un sitio, una medición en el sitio es esencial.</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Швейцарський вітряний атлас описує умови вітру на п'яти висотах над землею: 50, 75, 100, 125 і 150 м. Розподіл швидкостей вітру в класах швидкості вітру може бути наближений з параметрами Вейбулла А (масштабні параметри) і k (параметри форми). Від параметрів Вейбулла не можуть бути безпосередньо закриті до середнього швидкості вітру, оскільки це наближення до розподілу вітру, і це не може бути достатньо відтворено для кожного місця. Роза вітру показує відносну частоту моделюваних напрямків вітру. Середні швидкості вітру і пов'язані з ними жіночі параметри показані в кожному секторі. Для розрахунку швидкості вітру і напрямів вітру в процесі моделювання були включені довгострокові вимірювання. Оскільки вимірювальні точки не скрізь знаходяться у відповідній щільності по всій Швейцарії і неточності виникають при моделюванні вітрових течій на складній місцевості, результати чреваті невизначеністю. Величина невизначеності в арці Юра становить до ±0,5 м/с, в середній країні при температурі до ±0,7 м/с, в преальпах до ±0,5 м/с і в Альпах до ± 1,3 м/с.
+Це призводить до більшої невизначеності в результатах.
+Дані слід розуміти як приблизну оцінку стану вітру.
+Якщо ви зацікавлені в розробці сайту, вимірювання на сайті має важливе значення.</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation.html">
+            <foaf:name>Bundesamt für Energie</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Atlas wiatrowy Szwajcaria: Średnia roczna dla modelowanej prędkości wiatru i kierunku wiatru na wysokości 75 m nad ziemią</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfe.admin.ch/windgeschwindigkeit"/>
+        <dct:description xml:lang="it">L'atlante eolico svizzero descrive le condizioni di vento a cinque diverse altezze sopra il livello del terreno: 50 m, 75 m, 100 m, 125 m e 150 m. I dati si basano su una modellizzazione dell'intero territorio nazionale che utilizza una griglia con punti di ampiezza orizzontale pari a 100 m. Sulla carta viene riportato per ogni punto della griglia il valore medio annuo della velocità del vento calcolato attraverso la modellizzazione. La distribuzione delle velocità del vento secondo differenti classi può essere stabilita con approssimazione attraverso i parametri A (parametro di scala) e k (parametro di forma) della distribuzione di Weibull. Tali parametri non permettono di calcolare direttamente il valore medio della velocità del vento bensì solo un'approssimazione della distribuzione del vento, la quale non può essere rappresentata in modo sufficiente per ogni luogo. La rosa dei venti mostra la frequenza relativa delle direzioni del vento ricavate sulla base della modellizzazione. Per ogni settore sono visibili le velocità medie e i corrispondenti parametri di Weibull. Per la modellizzazione alla base del calcolo delle velocità e delle direzioni dei venti ci si è serviti delle misurazioni di diversi anni. Poiché la densità dei punti di misurazione presenti sul territorio svizzero non è sempre adeguata e in alcune zone caratterizzate da condizioni complesse la modellizzazione delle correnti dei venti presenta imprecisioni, i risultati sono affetti da incertezza. L'incertezza non supera l'ordine del +/- 0,5m/s sul Giura, +/- 0,7m/s nell'Altipiano, +/- 0,5m/s sulle Prealpi e +/- 1,3m/s sulle Alpi. Per le carte relative ad altezze che partono dai 100 m sopra il livello del terreno si dispone di un numero notevolmente inferiore di misurazioni necessarie alla modellizzazione, il che determina un maggiore grado di incertezza dei risultati. I valori forniti sono da ritenersi una stima approssimativa delle condizioni di vento, pertanto qualora vi sia l'interesse a sviluppare un progetto in una determinata ubicazione non si può prescindere da misurazioni in loco.</dct:description>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5eefc6fc-6b02-42a9-8f15-c2fd0957927c">
+            <dct:language>de</dct:language>
+            <dcat:mediaType>Geopackage (ogc)</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-23T00:00:00</dct:modified>
+            <dct:description xml:lang="lv-t-de-t0-mtec">GeoPackage Sistēmas Prasības</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Геопакет геопакетів</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Геопакет геопакетів</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.gpkg.zip"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="de">Geopackage</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">GeoPackage – Videó letöltés mp3-ban</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/99c04ed1-7d31-4e59-bb4e-95fc9a03cf43/resource/291e8bd1-ad55-4eb9-843a-9914a0f15922</dct:identifier>
+            <dct:title xml:lang="lv-t-de-t0-mtec">GeoPackage Sistēmas Prasības</dct:title>
+            <dct:format>GPKG</dct:format>
+            <dct:title xml:lang="hr-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ippakkjar ta ‘GeoPackage</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-02-25T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.gpkg.zip"/>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Ippakkjar ta ‘GeoPackage</dct:description>
+            <dct:title xml:lang="de">Geopackage</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">GeoPackage – Videó letöltés mp3-ban</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="pt-t-de-t0-mtec">O Atlas do Vento suíço descreve as condições do vento a cinco altitudes acima do solo: 50, 75, 100, 125 e 150 m. Os dados são ganzas em uma modelagem suíça com uma largura de rede horizontal de 100 m. O mapa mostra o valor médio anual modelado da velocidade do vento para cada ponto de rede. A distribuição das velocidades do vento nas classes de velocidade do vento pode ser aproximada com parâmetros de Weibull A (parâmetros de escala) e k (parâmetros de forma). A partir dos parâmetros de Weibull não pode ser diretamente fechado para a média da velocidade do vento, uma vez que é uma aproximação a uma distribuição do vento e isso não pode ser suficientemente reproduzido para cada local. A rosa do vento mostra a frequência relativa das direções modeladas do vento. As velocidades médias do vento e os parâmetros femininos associados são mostrados por setor. Para o cálculo da velocidade do vento e das direções do vento, medições a longo prazo foram incorporadas ao processo de modelagem. Como os pontos de medição não estão em toda parte em uma densidade adequada em toda a Suíça e ocorrem imprecisões na modelagem das correntes de vento em terrenos complexos, os resultados são repletos de incertezas. A magnitude das incertezas no arco de Jura é de até ±0,5 m/s, no país médio a até ±0,7 m/s, nos pré-alps até ±0,5 m/s e nos Alpes a ±1,3 m/s. Para os mapas de 100 m acima do solo, há nitidamente menos medições disponíveis para modelagem. Isso resulta em maior incerteza nos resultados. Os dados devem ser entendidos como uma avaliação aproximada das condições do vento. Se você está interessado em um desenvolvimento de site, uma medição no local é essencial.</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Швейцарският вятърен атлас описва условията на вятъра на пет височини над земята: 50, 75, 100, 125 и 150 м. Данните се основават на общошвейцарско моделиране с хоризонтална решетка ширина 100 м. Картата показва моделираната годишна средна стойност на скоростта на вятъра за всяка точка на решетка. Разпределението на скоростта на вятъра в класовете на скоростта на вятъра може да бъде приблизително с параметрите на Weibull A (мащабни параметри) и k (формални параметри). От Weibull параметрите не могат да бъдат директно затворени до средната стойност на скоростта на вятъра, тъй като това е приближение до разпределението на вятъра и това не може да бъде възпроизведено в достатъчна степен за всяко място. Розата на вятъра показва относителната честота на моделираните посоки на вятъра. Средните скорости на вятъра и свързаните с тях женски параметри са показани по сектори. За изчисляване на скоростта на вятъра и посоките на вятъра в процеса на моделиране са включени дългосрочни измервания. Тъй като точките на измерване не са навсякъде в подходяща плътност в цяла Швейцария и се появяват неточности в моделирането на ветровите течения в сложен терен, резултатите са изпълнени с несигурност.
+Размерът на неопределеността в дъгата на Юра е до ± 0,5 m/s, в средната страна до ± 0,7 m/s, в преалпите до ± 0,5 m/s и в Алпите — до ± 1,3 m/s. За картите от 100 m над земята има значително по-малко измервания за моделиране.
+Това води до по-голяма несигурност в резултатите.
+Данните трябва да се разбират като груба оценка на условията на вятъра.
+Ако се интересувате от разработка на сайт, измерването на обекта е от съществено значение.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dcat:keyword xml:lang="it">ifdg-infrastruttura-federale-dei-dati-geografici</dcat:keyword>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Atlasul vânturilor elvețiene descrie condițiile vântului la cinci altitudini deasupra solului: 50, 75, 100, 125 și 150 m. Datele se bazează pe o modelare la nivel elvețian cu o lățime a rețelei orizontale de 100 m. Harta arată valoarea medie anuală modelată a vitezei vântului pentru fiecare punct de rețea. Distribuția vitezelor vântului în clasele de viteză a vântului poate fi aproximată cu parametrii Weibull A (parametri de scară) și k (parametri de formă). Din parametrii Weibull nu se poate închide direct la media vitezei vântului, deoarece este o aproximare a distribuției vântului și aceasta nu poate fi reprodusă suficient pentru fiecare locație. Trandafirul vântului arată frecvența relativă a direcțiilor de vânt modelate. Vitezele medii ale vântului și parametrii feminini asociați sunt prezentați pe sector. Pentru calcularea vitezelor vântului și a direcțiilor vântului, măsurătorile pe termen lung au fost încorporate în procesul de modelare. Deoarece punctele de măsurare nu sunt peste tot într-o densitate adecvată în întreaga Elveție și apar inexactități în modelarea curenților de vânt în teren complex, rezultatele sunt pline de incertitudini. Magnitudinea incertitudinilor din arcada Jura este de până la ± 0,5 m/s, în țara de mijloc până la ± 0,7 m/s, în prealps de până la ± 0,5 m/s și în Alpi la ± 1,3 m/s. Pentru hărțile de la 100 m deasupra solului există semnificativ mai puține măsurători disponibile pentru modelare.
+Acest lucru duce la o incertitudine mai mare în ceea ce privește rezultatele.
+Datele trebuie înțelese ca o evaluare aproximativă a condițiilor vântului.
+Dacă sunteți interesat de dezvoltarea unui site, o măsurare pe site este esențială.</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Atlasul Vântului Elveția: Media anuală a vitezei vântului modelate și a direcției vântului la 75 m altitudine deasupra solului</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/d5892cf4-38fa-4af7-9ddb-f87dd2ed06cd">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Wind Atlas Zwitserland: Jaarlijks gemiddelde van gemodelleerde windsnelheid en windrichting op 75 m hoogte boven de grond</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2019-10-23T00:00:00</dct:modified>
+        <dcat:keyword xml:lang="en">wind-power</dcat:keyword>
+        <dcat:keyword xml:lang="de">bgdi-bundesgeodaten-infrastruktur</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7e5f4864-cd8f-4761-a68b-cf3b8eac87dd">
+            <dct:description xml:lang="sk-t-de-t0-mtec">SLOVENČINA</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-02-25T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">МІЖНАРОДНИЙ МІЖНАРОДН</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">INTERLIS INFORMĀCIJA</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">I NÆRHEDEN AF INTERLIS</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">I NÆRHEDEN AF INTERLIS</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/99c04ed1-7d31-4e59-bb4e-95fc9a03cf43/resource/adaa62c9-0348-4e4f-a591-d0f0059c0e3a</dct:identifier>
+            <dct:description xml:lang="fr-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">AZ INTERLIS</dct:description>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.xtf.zip"/>
+            <dct:description xml:lang="uk-t-de-t0-mtec">МІЖНАРОДНИЙ МІЖНАРОДН</dct:description>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.xtf.zip"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">SLOVENČINA</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="de">Interlis</dct:title>
+            <dct:description xml:lang="de">Interlis</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">AZ INTERLIS</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-23T00:00:00</dct:modified>
+            <dct:format>INTERLIS</dct:format>
+            <dcat:mediaType>INTERLIS</dcat:mediaType>
+            <dct:title xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">INTERLIS INFORMĀCIJA</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tuuli Atlas Sveitsi:
+Tuulen nopeuden ja tuulen suunnan vuotuinen keskiarvo 75 metrin korkeudessa maanpinnasta</dct:title>
+        <dcat:keyword xml:lang="de">windenergie</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Vėjo atlasas Šveicarija: Modeliuojamo vėjo greičio ir vėjo krypties 75 m aukštyje virš žemės metinis vidurkis</dct:title>
+        <dcat:keyword xml:lang="it">fonte-di-energia-rinnovabile</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Gaoth Atlas An Eilvéis: Meán bliantúil luas na gaoithe samhaltaithe agus treo na gaoithe ag airde 75 m os cionn na talún</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Вітряний атлас Швейцарія: Середньорічне середнє моделювання швидкості вітру та напрямку вітру на висоті 75 м над землею</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dct:description xml:lang="el-t-de-t0-mtec">Ο Swiss Wind Atlas περιγράφει τις συνθήκες ανέμου σε πέντε υψόμετρα πάνω από το έδαφος: 50, 75, 100, 125 και 150 m. Τα δεδομένα βασίζονται σε ελβετική μοντελοποίηση με οριζόντιο πλάτος πλέγματος 100 m. Ο χάρτης δείχνει τη μοντελοποιημένη ετήσια μέση τιμή της ταχύτητας του ανέμου για κάθε σημείο πλέγματος. Η κατανομή των ταχυτήτων ανέμου στις κατηγορίες ταχύτητας ανέμου μπορεί να προσεγγιστεί με τις παραμέτρους Weibull Α (παράμετροι κλίμακας) και k (παράμετροι σχήματος). Από τις παραμέτρους Weibull δεν μπορεί να είναι άμεσα κλειστό στη μέση ταχύτητα του ανέμου, δεδομένου ότι είναι μια προσέγγιση σε μια κατανομή του ανέμου και αυτό δεν μπορεί να αναπαραχθεί επαρκώς για κάθε θέση. Το τριαντάφυλλο του ανέμου δείχνει τη σχετική συχνότητα των μοντελοποιημένων κατευθύνσεων του ανέμου. Οι μέσες ταχύτητες ανέμου και οι σχετικές θηλυκές παράμετροι εμφανίζονται ανά τομέα. Για τον υπολογισμό των ταχυτήτων του ανέμου και των κατευθύνσεων του ανέμου, οι μακροπρόθεσμες μετρήσεις έχουν ενσωματωθεί στη διαδικασία μοντελοποίησης. Δεδομένου ότι τα σημεία μέτρησης δεν είναι παντού σε κατάλληλη πυκνότητα σε όλη την Ελβετία και υπάρχουν ανακρίβειες στη μοντελοποίηση των ρευμάτων ανέμου σε σύνθετο έδαφος, τα αποτελέσματα είναι γεμάτα με αβεβαιότητες.
+Το μέγεθος των αβεβαιοτήτων στην καμάρα του Jura είναι έως ± 0,5 m/s, στη μέση χώρα σε ύψος έως ± 0,7 m/s, στις προάλπες σε ύψος έως ± 0,5 m/s και στις Άλπεις σε ύψος έως ± 1,3 m/s. Για τους χάρτες από 100 m πάνω από το έδαφος υπάρχουν σημαντικά λιγότερες μετρήσεις για μοντελοποίηση.
+Αυτό οδηγεί σε μεγαλύτερη αβεβαιότητα στα αποτελέσματα.
+Τα δεδομένα πρέπει να νοούνται ως μια πρόχειρη εκτίμηση των συνθηκών του ανέμου.
+Εάν ενδιαφέρεστε για μια ανάπτυξη τοποθεσίας, μια μέτρηση στο χώρο είναι απαραίτητη.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Wind Atlas Švajčiarsko: Ročný priemer modelovanej rýchlosti vetra a smer vetra v nadmorskej výške 75 m nad zemou</dct:title>
+        <dcat:keyword xml:lang="it">energia-eolica</dcat:keyword>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A svájci szélatlasz leírja a szélviszonyokat öt tengerszint feletti magasságban: 50, 75, 100, 125 és 150 m. Az adatok egy 100 m vízszintes rácsszélességű svájci szintű modellezésen alapulnak. A térkép az egyes rácspontok szélsebességének modellezett éves átlagértékét mutatja. A szélsebesség-osztályokban a szélsebességek eloszlása a Weibull A (méretparaméterek) és k (alakparaméterek) paraméterekkel közelíthető meg. A Weibull paramétereket nem lehet közvetlenül lezárni a szélsebesség középértékéhez, mivel közelítő a széleloszláshoz, és ez nem reprodukálható megfelelően minden egyes helyen.
+A szélrózsa a modellezett szélirányok relatív gyakoriságát mutatja.
+Az átlagos szélsebességek és a hozzájuk tartozó női paraméterek szektoronként jelennek meg.
+A szélsebességek és szélirányok kiszámításához hosszú távú méréseket építettek be a modellezési folyamatba.
+Mivel a mérési pontok nem mindenhol megfelelő sűrűségben vannak Svájcban, és pontatlanságok fordulnak elő a széláramok modellezésében összetett terepen, az eredmények tele vannak bizonytalanságokkal.
+A Jura ívben a bizonytalanságok nagysága legfeljebb ± 0,5 m/s, a középső országban ± 0,7 m/s-ig, a prealps-ban ± 0,5 m/s-ig, az Alpokban pedig ± 1,3 m/s-ig. A föld feletti 100 m/s-os térképek esetében jelentősen kevesebb mérés áll rendelkezésre a modellezéshez.
+Ez nagyobb bizonytalanságot eredményez az eredményekben.
+Az adatokat a szélviszonyok durva értékeléseként kell értelmezni.
+Ha érdeklődik a webhely fejlesztése iránt, elengedhetetlen a helyszíni mérés.</dct:description>
+        <dcat:keyword xml:lang="fr">energie-eolienne</dcat:keyword>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Szwajcarski Atlas Wiatru opisuje warunki wiatru na pięciu wysokościach nad ziemią: 50, 75, 100, 125 i 150 m. Dane opierają się na modelowaniu szwajcarskim o szerokości poziomej kraty 100 m. Mapa pokazuje modelowaną średnią roczną wartość prędkości wiatru dla każdego punktu kratowego. Rozkład prędkości wiatru w klasach prędkości wiatru można przybliżyć parametrami Weibull A (parametry skali) i k (parametry kształtu). Od parametrów Weibull nie można bezpośrednio zamknąć do średniej prędkości wiatru, ponieważ jest to przybliżenie do rozkładu wiatru i nie może być wystarczająco odtworzone dla każdego miejsca. Róża wiatrowa pokazuje względną częstotliwość modelowanych kierunków wiatru. Średnie prędkości wiatru i związane z nimi parametry kobiece są pokazywane w poszczególnych sektorach. W celu obliczenia prędkości wiatru i kierunków wiatru w procesie modelowania włączono pomiary długoterminowe. Ponieważ punkty pomiarowe nie są wszędzie w odpowiedniej gęstości w całej Szwajcarii, a nieścisłości występują w modelowaniu prądów wiatrowych w złożonym terenie, wyniki są obarczone niepewnością.
+Wielkość niepewności w łuku Jury wynosi do ±0,5 m/s, w środkowym kraju do ±0,7 m/s, w prealpach do ±0,5 m/s i w Alpach do ±1,3 m/s. W przypadku map od 100 m nad ziemią jest znacznie mniej pomiarów dostępnych do modelowania.
+Prowadzi to do większej niepewności wyników.
+Dane te należy rozumieć jako przybliżoną ocenę warunków wiatru.
+Jeśli jesteś zainteresowany rozwojem witryny, pomiar na miejscu jest niezbędny.</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šveicarijos vėjo atlasas apibūdina vėjo sąlygas penkiuose aukščiuose virš žemės: 50, 75, 100, 125 ir 150 m. Duomenys grindžiami Šveicarijos masto modeliavimu, kurio horizontali grotelės plotis yra 100 m. Žemėlapyje parodyta sumodeliuota vidutinė metinė vėjo greičio vertė kiekviename ažūriniame taške. Vėjo greičio pasiskirstymas pagal vėjo greičio klases gali būti apytikslis su Weibull parametrais A (skalės parametrai) ir k (formos parametrai). Iš Weibull parametrų negalima tiesiogiai uždaryti vėjo greičio vidurkio, nes jis yra apytikslis vėjo pasiskirstymo rodiklis ir jo negalima pakankamai atkurti kiekvienai vietai. Vėjo rožė rodo santykinį modeliavimo vėjo krypčių dažnį. Vidutinis vėjo greitis ir susiję moteriški parametrai pateikiami pagal sektorius. Apskaičiuojant vėjo greitį ir vėjo kryptis, į modeliavimo procesą įtraukti ilgalaikiai matavimai. Kadangi matavimo taškai ne visur yra tinkamo tankio visoje Šveicarijoje ir atsiranda netikslumų modeliuojant vėjo sroves sudėtingoje vietovėje, rezultatai kupinas neaiškumų. Jūra arkos neapibrėžtys yra iki ± 0,5 m/s, vidurinėje šalyje – iki ± 0,7 m/s, prealpuose – iki ± 0,5 m/s, Alpėse – iki ± 1,3 m/s. Žemėlapiuose, esančiuose nuo 100 m virš žemės paviršiaus, galima gerokai mažiau matavimų modeliavimui. Tai lemia didesnį rezultatų neapibrėžtumą. Duomenys turi būti suprantami kaip apytikslis vėjo sąlygų vertinimas. Jei jus domina svetainės kūrimas, matavimas svetainėje yra būtinas.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e0f3ac33-efd0-4c6a-b908-9996b24ed65b">
+            <dct:description xml:lang="pl-t-de-t0-mtec">Portal specjalistyczny – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="it">Geoportale tematico - map.geo.admin.ch</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Hartă (Previzualizare) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Mapa (Preview) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Specialportal – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Карта (Преглед) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="it">Map (Preview) Geoportale tematico - map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="de">Map (Preview) Fachportal - map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Mapa (Podgląd) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Specialistų portalas – map.geo.admin.ch</dct:description>
+            <dct:language>it</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-02-25T00:00:00</dct:issued>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/99c04ed1-7d31-4e59-bb4e-95fc9a03cf43/resource/be33f627-6216-4d31-aa6f-7d5da9f71bc9</dct:identifier>
+            <dct:title xml:lang="fr">Map (Preview) Géoportail thématique - map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Karta (förhandsgranska) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="en">Thematic geoportal - map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kartta (esikatselu) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Mappa (Preview) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="de">Fachportal - map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Portal speċjalizzat — map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Mapa (Zobraziť) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Karte (Priekšskatījums) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kaart (Voorbeeld) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Strokovni portal – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Ειδική πύλη — map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mapa (Réamhamharc) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Tairseach speisialaithe — léarscáil.geo.admin.ch</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Portal especializado — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Specialist portal — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Specialist portal — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Portal especializado — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Speciális portál – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Специализиран портал — map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Spetsialisti portaal – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kaart (eelvaade) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zemljevid (predogled) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kort (Preview) Fachportal — kort.geo.admin.ch</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Žemėlapis (Preview) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Спеціалізований портал - map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="en">Map (Preview) Thematic geoportal - map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Térkép (előzetes) Fachportal – map.geo.admin.ch</dct:title>
+            <dcat:accessURL rdf:resource="https://map.geo.admin.ch/?topic=energie&amp;lang=de&amp;layers=ch.bfe.windenergie-geschwindigkeit_h75"/>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Asiantuntijaportaali – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Карта (Попередній перегляд) Fachportal - map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Odborný portál – map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Odborný portál – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Karta (Pregled) Fachportal – map.geo.admin.ch</dct:title>
+            <dct:language>en</dct:language>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Speciālistu portāls — map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χάρτης (Προεπισκόπηση) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Specijalistički portal – map.geo.admin.ch</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-23T00:00:00</dct:modified>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Portalul specialiștilor – map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mapa (Preview) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mapa (Preview) Fachportal — map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="fr">Géoportail thématique - map.geo.admin.ch</dct:description>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Švýcarský větrný atlas popisuje větrné podmínky v pěti nadmořských výškách nad zemí: 50, 75, 100, 125 a 150 m. Data jsou založena na švýcarském modelování s vodorovnou šířkou mřížky 100 m. Mapa zobrazuje modelovanou průměrnou hodnotu rychlosti větru pro každý bod mřížky. Rozložení rychlosti větru ve třídách rychlosti větru lze aproximovat s parametry Weibull A (parametry stupnice) a k (parametry tvaru). Z parametrů Weibull nelze přímo uzavřít střední rychlost větru, protože se jedná o přiblížení k rozložení větru, a to nelze dostatečně reprodukovat pro každé místo. Větrná růže ukazuje relativní frekvenci modelovaných směrů větru. Průměrná rychlost větru a související ženské parametry jsou uvedeny v jednotlivých sektorech. Pro výpočet rychlosti větru a směru větru byla do procesu modelování začleněna dlouhodobá měření. Vzhledem k tomu, že měřicí body nejsou všude ve vhodné hustotě po celém Švýcarsku a nepřesnosti se vyskytují v modelování větrných proudů v komplexním terénu, výsledky jsou plné nejistot.
+Velikost nejistot v oblouku Jury je až ±0,5 m/s, ve střední zemi až ±0,7 m/s, v prealpech až ±0,5 m/s a v Alpách až ±3,3 m/s. Pro mapy od 100 m nad zemí je pro modelování k dispozici výrazně méně měření.
+To vede k vyšší nejistotě ve výsledcích.
+Údaje je třeba chápat jako hrubé posouzení větrných podmínek.
+Pokud máte zájem o vývoj lokality, měření na místě je nezbytné.</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Szélatlasz Svájc: A modellezett szélsebesség és szélirány éves átlaga 75 m tengerszint feletti magasságban</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Atlas tar-Riħ fl-Iżvizzera:
+Il-medja annwali tal-veloċità tar-riħ immudellata u tad-direzzjoni tar-riħ f’altitudni ta’ 75 m’il fuq mill-art</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Švicarski atlas vetra opisuje vetrovne razmere na petih nadmorskih višinah nad tlemi: 50, 75, 100, 125 in 150 m. Podatki temeljijo na švicarskem modeliranju s horizontalno širino mreže 100 m. Zemljevid prikazuje modelirano letno povprečno vrednost hitrosti vetra za vsako točko rešetke. Porazdelitev hitrosti vetra v razredih hitrosti vetra je mogoče približevati Weibullovima parametroma A (parametri lestvice) in k (parametri oblike). Iz Weibullovih parametrov ni mogoče neposredno zapreti na srednjo hitrost vetra, saj je približek razporeditvi vetra in ga ni mogoče dovolj reproducirati za vsako lokacijo. Vetrna vrtnica prikazuje relativno frekvenco vzorčenih smeri vetra. Povprečne hitrosti vetra in z njimi povezani ženski parametri so prikazani po sektorjih. Za izračun hitrosti vetra in smeri vetra so bile v proces modeliranja vključene dolgoročne meritve. Ker merilne točke niso povsod v ustrezni gostoti po vsej Švici in se pojavljajo netočnosti pri modeliranju vetrnih tokov na kompleksnem terenu, so rezultati preobremenjeni z negotovostjo. Obseg negotovosti v loku Jura je do ±0,5 m/s, v srednji državi do ±0,7 m/s, v predalpih do ±0,5 m/s in v Alpah do ±1,3 m/s. Za zemljevide s 100 m nad tlemi je na voljo občutno manj meritev za modeliranje. Posledica tega je večja negotovost v rezultatih.
+Podatke je treba razumeti kot grobo oceno vetrovnih razmer.
+Če vas zanima razvoj spletnega mesta, je merjenje na spletnem mestu bistvenega pomena.</dct:description>
+        <dct:title xml:lang="fr">Atlas des vents de la Suisse: moyenne annuelle modélisée de la vitesse et de la direction du vent à 50 m du sol</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Wind Atlas Ελβετία: Ετήσιος μέσος όρος της μοντελοποιημένης ταχύτητας ανέμου και της κατεύθυνσης του ανέμου σε υψόμετρο 75 m πάνω από το έδαφος</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/89e0d3e6-bc99-4350-99d4-25a223f3c61e">
+            <dct:title xml:lang="sv-t-de-t0-mtec">Filgeodatabase</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Base de données de fichiers</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Filgeodatabase</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Banco de dados do Filegeo</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Id-database ta’ Filegeo</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-23T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">Informazioni su Filegeodatabase</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Filegeoduomenų bazė</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Bază de date Filegeo</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="de">Filegeodatabase</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Bunachar sonraí comhaid</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Filegeodatabase</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Filegeoduomenų bazė</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">I nærheden af Filegeodatabase</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:title xml:lang="de">Filegeodatabase</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Base de données de fichiers</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Filegeodatabase</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Filegeodatu bāze</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">База даних Filegeodata</dct:title>
+            <dct:format>GDB</dct:format>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Databáze Filegeodatabase</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Βάση δεδομένων Filegeodata</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Bestandgeodatabase</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">I nærheden af Filegeodatabase</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Banco de dados do Filegeo</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-02-25T00:00:00</dct:issued>
+            <dct:description xml:lang="it-t-de-t0-mtec">Informazioni su Filegeodatabase</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Βάση δεδομένων Filegeodata</dct:title>
+            <dct:language>de</dct:language>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/99c04ed1-7d31-4e59-bb4e-95fc9a03cf43/resource/aeeb69ed-5856-4872-8695-8028a8ee48ea</dct:identifier>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Bestandgeodatabase</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">База даних Filegeodata</dct:description>
+            <dcat:mediaType>ESRI File Geodatabase</dcat:mediaType>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baza danych Filegeodata</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Baza danych Filegeodata</dct:description>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.fgdb.zip"/>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Id-database ta’ Filegeo</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bunachar sonraí comhaid</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Bază de date Filegeo</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Filegeodatu bāze</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Databáze Filegeodatabase</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.fgdb.zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b6fe26dc-f913-460b-b62c-e7c2ba9eaa8f">
+            <dct:description xml:lang="pl-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="de">GeoTIFF</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.tif.zip"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="de">GeoTIFF</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">GeoTIFF</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-de-t0-mtec">ΓΕΩΡΓΙΑ</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Створення GeoTIFF</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Etichetă: GeoTIFF</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">ΓΕΩΡΓΙΑ</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-02-25T00:00:00</dct:issued>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Guia de viagem de GeoTIFF</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Informazioni su GeoTIFF</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Створення GeoTIFF</dct:description>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75/windenergie-geschwindigkeit_h75_2056.tif.zip"/>
+            <dct:format>GeoTIFF</dct:format>
+            <dcat:mediaType>GeoTIFF</dcat:mediaType>
+            <dct:language>de</dct:language>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/99c04ed1-7d31-4e59-bb4e-95fc9a03cf43/resource/dce0236f-4c75-4ce6-948d-6d188092ed36</dct:identifier>
+            <dct:description xml:lang="it-t-de-t0-mtec">Informazioni su GeoTIFF</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-23T00:00:00</dct:modified>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Guia de viagem de GeoTIFF</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Etichetă: GeoTIFF</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">GeoTIFF</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">GeoTIFF</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">source-denergie-renouvelable</dcat:keyword>
+        <dct:description xml:lang="fr">L'Atlas des vents de la Suisse décrit les conditions de vent à cinq hauteurs au-dessus du niveau du sol (50, 75, 100, 125 et 150 m). Les données se fondent sur une modélisation au niveau national avec un maillage horizontal de 100 m.Sur la carte, la moyenne annuelle modélisée de la vitesse du vent est représentée pour chaque maille. La distribution des vitesses du vent en différentes catégories peut être approximée grâce aux paramètres de Weibull A (paramètre d'échelle) et k (paramètre de forme). La valeur moyenne de la vitesse du vent ne peut pas être déduite directement des paramètres de Weibull, car il s'agit d'une approximation d'une distribution du vent et qu'elle ne peut pas être reproduite de manière suffisante pour chaque site. La rose des vents illustre la fréquence relative des directions modélisées du vent. Les vitesses du vent calculées et les paramètres de Weibull qui s'y rapportent sont indiqués par secteur. Pour calculer la vitesse et la direction du vent, on intègre à la modélisation les données de mesure sur plusieurs années. Comme les stations de mesure ne sont pas réparties avec la même densité sur tout le territoire et que des inexactitudes apparaissent lors de la modélisation de la circulation du vent sur des reliefs complexes, les résultats ne sont pas entièrement fiables. L'incertitude varie de ± 0,5 m/s dans l'Arc jurassien, de ± 0,7 m/s sur le Plateau, de ± 0,5 m/s dans les Préalpes et de ± 1,3 m/s dans les Alpes. Les mesures disponibles pour la modélisation sont nettement moins nombreuses pour les cartes d'une hauteur de 100 m ou plus au-dessus du niveau du sol, ce qui engendre des résultats encore plus incertains. Les indications représentent une estimation grossière des conditions de vent. En cas d'intérêt pour développer un site, il est indispensable d'effectuer des mesures sur place.</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Atlas de viento Suiza: Media anual de velocidad y dirección del viento modeladas a 75 m de altitud sobre el suelo</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ac299449-7f0b-46c3-9117-2058c38d30a1">
+            <dct:title xml:lang="de">ch.bfe.windenergie-geschwindigkeit_h75</dct:title>
+            <dct:title xml:lang="fr">ch.bfe.windenergie-geschwindigkeit_h75</dct:title>
+            <dct:title xml:lang="en">ch.bfe.windenergie-geschwindigkeit_h75</dct:title>
+            <dct:title xml:lang="it">ch.bfe.windenergie-geschwindigkeit_h75</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Servicii de hărți web WMS</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Web Kaart Diensten WMS</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Služby webovej mapy WMS</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Služby webových map WMS</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ch.bfe.windenergia sebesség_h75</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">WEB Map Υπηρεσίες WMS</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ch.bfe.windenergy speed_h75</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ch.bfe.windenergy speed_h75</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ch.bfe.windenergy speed_h75</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ch.bfe.windenergy speed_h75</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ch.bfe.windenergy speed_h75</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">ch.bfe.windenergy speed_h75</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ch.bfe.windenergy speed_h75</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Послуги веб-карти WMS</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Serviços de Mapa Web WMS</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="et-t-de-t0-mtec">Veebikaardi teenused WMS</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Tīmekļa kartes pakalpojumi WMS</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ch.bfe.wind energy speed_h75</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">CH.bfe.windenergi speed_h75</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Уеб картови услуги WMS</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">ch.bfe.windenergia kiirus_h75</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ch.bfe.vindenergihastighet_h75</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">CH.bfe.windenergy speed_h75</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ch.bfe.windenergijska hitrost_h75</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Webbkarta Tjänster WMS</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Usługi map internetowych WMS</dct:description>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ch.bfe.prędkość wiatru_h75</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Servizzi web Mappa WMS</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="de">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="it">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="fr">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="en">Web Map Services WMS</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ch.bfe.windenergie snelheid_h75</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Web Map Usluge WMS</dct:description>
+            <dct:language>en</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-10-23T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-02-25T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ch.bfe.windenergetska brzina_h75</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Web Térkép Szolgáltatások WMS</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ch.bfe.viteza energiei vântului_h75</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/99c04ed1-7d31-4e59-bb4e-95fc9a03cf43/resource/d138ceaf-cdd5-4a15-8db4-2ca2ca44e26f</dct:identifier>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ch.bfe.windenerģijas ātrums_h75</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ch.bfe.windenergijos greitis_h75</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Servicios de Mapa Web WMS</dct:description>
+            <dct:format>WMS</dct:format>
+            <dct:description xml:lang="lt-t-de-t0-mtec">WEB Žemėlapis Paslaugos WMS</dct:description>
+            <dcat:accessURL rdf:resource="http://wms.geo.admin.ch/?SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetCapabilities&amp;lang=de"/>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Web Karttapalvelut WMS</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ch.bfe.rychlost větru_h75</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Seirbhísí Léarscáileanna Gréasáin WMS</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Storitve spletnega zemljevida WMS</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="en">The Wind Atlas of Switzerland describes the wind conditions at five different heights above the ground: 50, 75, 100, 125 and 150 metres. The data are based on a nation-wide modelling system with a horizontal grid width of 100 metres. The modelled average annual wind speed is depicted in the atlas at each grid point. The classification of wind speeds into categories can be approximated with the aid of Weibull parameters A (scale parameter) and k (shape parameter). It is not possible to directly derive the average wind speed from the Weibull parameters because the result is only an approximation to wind distribution and this cannot be adequately reflected for each location. The wind rose shows the relative frequency of the modelled wind directions. The averaged wind speeds and corresponding Weibull parameters are visible for each sector. The calculation of wind speeds and directions is based on long-term measurements that have been incorporated into the models. Because the measurement points are not available everywhere throughout the country at a suitable density, and inaccuracies can occur in the modelling of wind flows in complex terrain, the results are subject to uncertainties. These range from +/- 0.5 metres per second in the Jura range, +/- 0.7 metres per second in the central plain and +/- 0.5 metres per second in the pre-Alps, to +/- 1.3 metres per second in the Alps. For maps at heights of more than 100 metres above the ground, significantly fewer measurements are available for modelling purposes, and this leads to increased uncertainties in the results. The data have to be regarded as rough estimates of the wind conditions. To assess the wind conditions at a specific location, measurement on site is therefore essential.</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tuuleatlas Šveits: Modelleeritud tuule kiiruse ja tuulesuuna aasta keskmine kõrgus maapinnast 75 m kõrgusel</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2016-02-25T00:00:00</dct:issued>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:05:13Z</edp:transReceived>
+  </dcat:CatalogRecord>
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:geoinformation@bfe.admin.ch"/>
+  </rdf:Description>
+</rdf:RDF>

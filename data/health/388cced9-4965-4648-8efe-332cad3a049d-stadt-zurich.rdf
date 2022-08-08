@@ -1,0 +1,942 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/388cced9-4965-4648-8efe-332cad3a049d-stadt-zurich">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>a6dd51408d1c00b28614caad6fca12b7</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:07:15Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:17:25Z</edp:transReceived>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/388cced9-4965-4648-8efe-332cad3a049d-stadt-zurich"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>388cced9-4965-4648-8efe-332cad3a049d@stadt-zurich</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:07:24Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/388cced9-4965-4648-8efe-332cad3a049d-stadt-zurich">
+        <dct:title xml:lang="pt-t-de-t0-mtec">Dados da contagem de tráfego de Stampfenbachstrasse por modelo de veículo, desde 2007</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@zuerich.ch"/>
+            <vcard:fn>Open Data Zürich</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9f3e092a-b06b-43c7-b163-0d8b50b1c885">
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/uzg_ogd_metadaten.json"/>
+            <dcat:mediaType>application/json</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dct:format>JSON</dct:format>
+            <dct:identifier>e3215266-8e32-4ec1-b600-5858847e5a33</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="ro-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >17988</dcat:byteSize>
+            <dct:title xml:lang="lt-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/uzg_ogd_metadaten.json"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="de">uzg_ogd_metadaten.json</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="uk-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ug_ogd_metadaten.json</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye cifras de tráfico en Stampfenbachstrasse ** desde 2007 hasta la última hora actual**, divididas en archivos anuales. La medición se realiza utilizando detectores de radar. Se mide la longitud del vehículo que pasa. Debido a su longitud, el vehículo se asigna a una de 3 clases (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = camión). El punto de conteo se encuentra en la altura de la Escuela Vocacional de Retail Zurich justo al lado del aparcamiento Unterstrasse.  
+Durante los trabajos de construcción de Stampfenbachstrasse en 2018 y 2019, no se registraron cifras de tráfico.</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje dane o ruchu na Stampfenbachstrasse ** od 2007 r. do ostatniej bieżącej godziny**, podzielone na pliki roczne. Pomiar odbywa się za pomocą detektorów radarowych. Mierzona jest długość przejeżdżającego pojazdu. Ze względu na swoją długość pojazd jest przypisany do jednej z 3 klas (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = ciężarówka). Punkt liczenia znajduje się na wysokości Vocational School of Retail Zurich tuż obok parkingu Unterstrasse.  
+Podczas prac budowlanych na Stampfenbachstrasse w 2018 i 2019 r. nie odnotowano danych dotyczących ruchu drogowego.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/21e17503-f7d3-4642-9ea1-c27bde83d11b">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2015.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2015.csv"/>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2015.csv"/>
+            <dct:identifier>ac0f4901-5ca6-4180-bd79-dbb4799291a4</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5857025</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:format>CSV</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">verkehr</dcat:keyword>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Detta dataset innehåller trafiksiffror på Stampfenbachstrasse **från 2007 till den senaste aktuella timmen**, uppdelade i årliga filer. Mätningen sker med hjälp av radardetektorer. Längden på det passerande fordonet mäts. På grund av sin längd tilldelas fordonet en av tre klasser (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = lastbil).
+Räkningspunkten ligger på höjden av Vocational School of Retail Zürich intill parkeringen Unterstrasse.
+
+
+Under byggarbetet på Stampfenbachstrasse 2018 och 2019 registrerades inga trafiksiffror.</dct:description>
+        <dcat:landingPage rdf:resource="https://ckan-ogdzh.clients.liip.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse"/>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje údaje o provozu na Stampfenbachstrasse ** od roku 2007 do poslední aktuální hodiny**, rozdělené do ročních souborů. Měření probíhá pomocí radarových detektorů. Měří se délka projíždějícího vozidla. Vzhledem ke své délce je vozidlo zařazeno do jedné ze tří tříd (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = nákladní vozidlo).
+Bod počítání se nachází ve výšce odborné školy maloobchod v Curychu, hned vedle parkoviště Unterstrasse.
+
+
+Během stavebních prací na Stampfenbachstrasse v letech 2018 a 2019 nebyly zaznamenány údaje o dopravě.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5a7aa21c-e652-4698-9643-bea82b773b33">
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2013.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2013.csv"/>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5858768</dcat:byteSize>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:identifier>e2352302-3ca9-4744-9c91-0c713d1dd0a7</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2013.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">zeitreihe</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Dopravní údaje na Stampfenbachstrasse podle typu vozidla, od roku 2007</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва данни за трафика в Stampfenbachstrasse ** от 2007 г. до последния текущ час**, разделени на годишни файлове. Измерването се извършва с помощта на радарни детектори. Измерва се дължината на преминаващото превозно средство. Поради дължината си превозното средство се определя в един от 3 класа (0—2,7 m = 2R, 2,7—7 m = PW, 7—25 m = камион).
+Точката на броене се намира в разгара на Професионалната школа по търговия на дребно Цюрих точно до паркинга Unterstrasse.
+
+
+По време на строителните работи по Stampfenbachstrasse през 2018 г. и 2019 г. не бяха отчетени данни за трафика.</dct:description>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="de">miv</dcat:keyword>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta podatkovni niz vključuje podatke o prometu v Stampfenbachstrasse ** od leta 2007 do zadnje trenutne ure**, razdeljene na letne datoteke. Merjenje poteka z uporabo radarskih detektorjev.
+Izmeri se dolžina vozila, ki vozi mimo.
+Zaradi svoje dolžine je vozilo dodeljeno enemu od treh razredov (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = tovornjak).
+Števna točka se nahaja na višini poklicne šole v Zürichu tik ob parkirišču Unterstrasse.
+
+
+Med gradbenimi deli na Stampfenbachstrasse v letih 2018 in 2019 podatki o prometu niso bili zabeleženi.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Данни за трафика на Stampfenbachstrasse по тип превозно средство, от 2007 г. насам</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset bevat verkeerscijfers aan de Stampfenbachstrasse **van 2007 tot het laatste huidige uur**, verdeeld in jaarlijkse bestanden. De meting vindt plaats met behulp van radardetectoren. De lengte van het passerende voertuig wordt gemeten. Door zijn lengte wordt het voertuig toegewezen aan een van de drie klassen (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = vrachtwagen).
+Het telpunt bevindt zich op het hoogtepunt van de Vocational School of Retail Zurich direct naast de parkeergarage Unterstrasse.
+
+
+Tijdens de bouwwerkzaamheden aan de Stampfenbachstrasse in 2018 en 2019 werden verkeerscijfers niet geregistreerd.</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Údaje o premávke na Stampfenbachstrasse podľa typu vozidla, od roku 2007</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Liiklusarvestusandmed Stampfenbachstrasse kohta sõidukitüüpide kaupa alates 2007. aastast</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear sa tacar sonraí seo figiúirí tráchta ag Stampfenbachstrasse ** ó 2007 go dtí an uair dheireanach reatha**, roinnte i gcomhaid bhliantúla. Déantar an tomhas ag baint úsáide as brathadóirí radair. Déantar fad na feithicle atá ag dul thar a tomhas a thomhas. Mar gheall ar a fad, sanntar an fheithicil do cheann amháin de 3 aicme (0-2.7 m = 2R, 2.7-7 m = PW, 7-25 m = trucail).
+Tá an pointe comhaireamh suite ag airde Gairmscoil Miondíola Zurich in aice leis an gcarrchlós Unterstrasse.
+
+
+Le linn na hoibre tógála ar Stampfenbachstrasse in 2018 agus 2019, níor taifeadadh figiúirí tráchta.</dct:description>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/CONT"/>
+        <dct:title xml:lang="el-t-de-t0-mtec">Δεδομένα καταμέτρησης κυκλοφορίας στο Stampfenbachstrasse ανά τύπο οχήματος, από το 2007</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/75252a71-6a51-4a98-87d9-9a19569c3991">
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2014.csv"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2014.csv"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:identifier>2d581289-d55f-4d2f-8a5e-d98409bc24cb</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5858973</dcat:byteSize>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2014.csv</dct:title>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Traffic count data on Stampfenbachstrasse by vehicle type, since 2007</dct:title>
+        <dct:title xml:lang="de">Verkehrszähldaten an der Stampfenbachstrasse nach Fahrzeugtypen, seit 2007</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a4e3eb5f-1b12-44da-9650-18879c8fe7a5">
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2011.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:language>de</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:identifier>8fc783d3-f334-4850-8aab-f7ed73023b56</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5861505</dcat:byteSize>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2011.csv"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2011.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2011.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include cifrele de trafic la Stampfenbachstrasse **din 2007 până în ultima oră curentă**, împărțite în fișiere anuale. Măsurarea are loc cu ajutorul detectoarelor radar. Se măsoară lungimea vehiculului care trece. Datorită lungimii sale, vehiculul este încadrat într-una din cele 3 clase (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = camion).
+Punctul de numărare este situat la înălțimea Școlii Profesionale de Retail Zurich, chiar lângă parcarea Unterstrasse.
+
+
+În timpul lucrărilor de construcție a Stampfenbachstrasse în 2018 și 2019, cifrele privind traficul nu au fost înregistrate.</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes traffic figures at Stampfenbachstrasse **from 2007 to the last current hour**, divided into annual files. The measurement takes place using radar detectors. The length of the passing vehicle is measured. Due to its length, the vehicle is assigned to one of 3 classes (0-2.7 m = 2R, 2.7-7 m = PW, 7-25 m = truck). The counting point is located at the height of the Vocational School of Retail Zurich right next to the Unterstrasse car park.  
+During the construction work on Stampfenbachstrasse in 2018 and 2019, traffic figures were not recorded.</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A Stampfenbachstrasse forgalmi adatai járműtípusonként, 2007 óta</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6556d770-5bc1-4b1b-a844-5d860af0f43d">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >80136</dcat:byteSize>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2021.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2021.csv"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2021.csv"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2021.csv</dct:title>
+            <dct:identifier>bb79f5b8-b85e-4a7b-b9c1-bd484a31ac59</dct:identifier>
+            <dct:format>CSV</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-06T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει στοιχεία κυκλοφορίας στο Stampfenbachstrasse ** από το 2007 έως την τελευταία τρέχουσα ώρα**, χωρισμένα σε ετήσια αρχεία. Η μέτρηση πραγματοποιείται με τη χρήση ανιχνευτών ραντάρ. Μετράται το μήκος του διερχόμενου οχήματος. Λόγω του μήκους του, το όχημα κατατάσσεται σε μία από τις 3 κλάσεις (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = φορτηγό).
+Το σημείο καταμέτρησης βρίσκεται στο ύψος της Επαγγελματικής Σχολής Λιανικής Ζυρίχης ακριβώς δίπλα στον χώρο στάθμευσης αυτοκινήτων Unterstrasse.
+
+
+Κατά τη διάρκεια των κατασκευαστικών εργασιών στο Stampfenbachstrasse το 2018 και το 2019, δεν καταγράφηκαν στοιχεία για την κυκλοφορία.</dct:description>
+        <dct:identifier>388cced9-4965-4648-8efe-332cad3a049d@stadt-zurich</dct:identifier>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Eismo duomenys apie Stampfenbachstrasse pagal transporto priemonės tipą nuo 2007 m.</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter trafiktal på Stampfenbachstrasse **fra 2007 til sidste time**, opdelt i årlige filer. Målingen sker ved hjælp af radardetektorer. Længden af det forbipasserende køretøj måles. På grund af sin længde er køretøjet tildelt en af 3 klasser (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = lastbil). Optællingspunktet ligger på højden af erhvervsskolen i Retail Zürich lige ved siden af parkeringspladsen Unterstrasse.  
+Under anlægsarbejdet på Stampfenbachstrasse i 2018 og 2019 blev der ikke registreret trafiktal.</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Satiksmes uzskaites dati Stampfenbachstrasse pēc transportlīdzekļa veida, kopš 2007. gada</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Id-data dwar l-għadd tat-traffiku fuq Stampfenbachstrasse skont it-tip ta’ vettura, mill-2007 ‘l hawn</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b1e753c3-5453-4e5c-bdc5-dc589357fef3">
+            <dct:language>de</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-01T00:00:00</dct:issued>
+            <dct:identifier>3cb92ee8-d469-459e-bf62-815b96723598</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2022.csv"/>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2022.csv"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >16070</dcat:byteSize>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2022.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Podaci o broju prometa na Stampfenbachstrasseu po tipu vozila, od 2007.</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati include dati sul traffico a Stampfenbachstrasse ** dal 2007 all'ultima ora corrente**, suddivisi in file annuali. La misurazione avviene tramite rivelatori radar. La lunghezza del veicolo passante è misurata. A causa della sua lunghezza, il veicolo è assegnato a una delle 3 classi (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = camion). Il punto di conteggio si trova all'altezza della Scuola Professionale di Zurigo proprio accanto al parcheggio Unterstrasse.  
+Durante i lavori di costruzione di Stampfenbachstrasse nel 2018 e nel 2019, i dati relativi al traffico non sono stati registrati.</dct:description>
+        <dcat:keyword xml:lang="de">fahrzeugtypen</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1d168bb0-db6b-480f-96f2-a3c3221ede6d">
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:identifier>c5f29b04-4f11-40c1-a2e7-4778b84806f7</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5856462</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2017.csv"/>
+            <dct:format>CSV</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:language>de</dct:language>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2017.csv"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2017.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-de-t0-mtec">Datos del número de tráfico en Stampfenbachstrasse por tipo de vehículo, desde 2007</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov obsahuje údaje o premávke na Stampfenbachstrasse ** od roku 2007 do poslednej aktuálnej hodiny**, rozdelené do ročných súborov. Meranie prebieha pomocou radarových detektorov. Meria sa dĺžka prechádzajúceho vozidla. Vzhľadom na svoju dĺžku je vozidlo zaradené do jednej z troch tried (0 – 2,7 m = 2R, 2,7 – 7 m = PW, 7 – 25 m = nákladné vozidlo).
+Bod počítania sa nachádza vo výške Odbornej školy maloobchodu v Zürichu hneď vedľa parkoviska Unterstrasse.
+
+
+Počas stavebných prác na Stampfenbachstrasse v rokoch 2018 a 2019 neboli zaznamenané údaje o doprave.</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Aantal verkeersgegevens op Stampfenbachstrasse per voertuigtype, sinds 2007</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних включає дані трафіку в Stampfenbachstrasse ** з 2007 року до останньої поточної години**, розділені на річні файли. Вимірювання відбувається за допомогою радар-детекторів. Вимірюється довжина попутного транспортного засобу. Завдяки своїй довжині транспортний засіб присвоюється одному з 3-х класів (0-2,7 м = 2R, 2,7-7 м = PW, 7-25 м = вантажівка).
+Точка підрахунку знаходиться на висоті професійної школи роздрібної торгівлі Цюріха прямо поруч з парковкою Unterstrasse.
+
+
+Під час будівельних робіт на Стампфенбахштрассе в 2018 і 2019 роках показники дорожнього руху не були зафіксовані.</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Podatki o štetju prometa za Stampfenbachstrasse po tipu vozila, od leta 2007</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a7d876f2-4930-499a-bf35-ffa6126672a5">
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2016.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:language>de</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5871887</dcat:byteSize>
+            <dct:identifier>538d8080-f4e1-46ba-9a04-14600e146392</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2016.csv"/>
+            <dct:format>CSV</dct:format>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2016.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Дані трафіку по Stampfenbachstrasse за типом транспортного засобу, з 2007 року</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Trafikuppgifter på Stampfenbachstrasse efter fordonstyp, sedan 2007</dct:title>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les chiffres du trafic sur la Stampfenbachstrasse **depuis 2007 jusqu’à la dernière heure actuelle**, divisé en fichiers annuels. La mesure est effectuée à l’aide de détecteurs radar. La longueur du véhicule passant est mesurée. En raison de sa longueur, le véhicule est affecté à l’une des trois catégories (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = camion). Le compteur est situé à la hauteur de l’école professionnelle de commerce de détail de Zurich, juste à côté du parking Unterstrasse.  
+Au cours des travaux de construction de la Stampfenbachstrasse en 2018 et 2019, les chiffres du trafic n’ont pas été enregistrés.</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Dane dotyczące liczby ruchu na Stampfenbachstrasse według typu pojazdu, od 2007 r.</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Sonraí comhaireamh tráchta ar Stampfenbachstrasse de réir cineál feithicle, ó 2007 i leith</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver satiksmes datus Stampfenbachstrasse** no 2007. gada līdz pēdējai pašreizējai stundai**, kas sadalīti gada datnēs. Mērīšana notiek, izmantojot radara detektorus. Mēra garāmbraukšanas transportlīdzekļa garumu. Tā garuma dēļ transportlīdzeklis ir iedalīts vienā no 3 klasēm (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = kravas automašīna). Skaitīšanas punkts atrodas Cīrihes Mazumtirdzniecības skolas augstumā tieši blakus Unterstrasse autostāvvietai.  
+Stampfenbachstrasse būvniecības darbu laikā 2018. un 2019. gadā satiksmes rādītāji netika reģistrēti.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9543d519-05d4-4484-9d93-99b0c27fbb1f">
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2007.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:format>CSV</dct:format>
+            <dct:identifier>1a321ead-0eae-44fe-b32d-a31021bfe506</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2007.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >1718982</dcat:byteSize>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2007.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2007.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4edee409-120d-443d-b54a-3bc3eb2fc3db">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:identifier>84f3cb1a-3514-4051-9c7c-5d03ec830282</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5858208</dcat:byteSize>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2010.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2010.csv"/>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2010.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ff4f7a0b-45c2-4047-8fef-b80776cbd100">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:identifier>47941f2f-3cf8-4916-bdb5-58f111a2e6a3</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5876893</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2012.csv"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:format>CSV</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2012.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2012.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2012.csv</dct:title>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/78fcddfb-218b-4f6f-a644-fb8a0dc476da">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2019.csv"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2019.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >2314945</dcat:byteSize>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:language>de</dct:language>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:identifier>f486fc29-2f8c-4509-9f46-e1a8ec1f532c</dct:identifier>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2019.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">echtzeit</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c7aa4d28-35cb-4a59-bfb7-db6fc7c9c6b3">
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5857785</dcat:byteSize>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2009.csv"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2009.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:identifier>fc04c2a7-343a-4c32-8d60-0143b4580ebb</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2009.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2009.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Données de comptage du trafic à la Stampfenbachstrasse par type de véhicule, depuis 2007</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T02:14:31.841560</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/519ed20f-5dcf-4316-a250-f118575c4ebc">
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2008.csv"/>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2008.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5876026</dcat:byteSize>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:identifier>a14318ba-3b57-432a-a540-af67a6ffccb4</dct:identifier>
+            <dct:format>CSV</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2008.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">mobilitaet</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Dati di conteggio del traffico su Stampfenbachstrasse per tipo di veicolo, dal 2007</dct:title>
+        <dct:description xml:lang="de">
+Dieses Dataset umfasst die Verkehrszahlen an der Stampfenbachstrasse **seit 2007 bis zur letzten aktuellen Stunde**, aufgeteilt in Jahresdateien. Die Messung findet mittels Radardetektoren statt. Es wird die Länge des vorbeifahrenden Fahrzeugs gemessen. Aufgrund der Länge wird das Fahrzeug einer von 3 Klassen (0-2.7m = 2R, 2.7-7m = PW, 7-25m = LKW) zugeteilt. Die Zählstelle befindet sich auf der Höhe der Berufsschule für Detailhandel Zürich direkt neben dem Parkhaus Unterstrasse. 
+Während den Bauarbeiten an der Stampfenbachstrasse in den Jahren 2018 und 2019 sind die Verkehrszahlen nicht erfasst worden.
+</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">Trafiktællingsdata på Stampfenbachstrasse efter køretøjstype, siden 2007</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8f08e3de-491b-40ec-a3f8-46c0501c0575">
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2018.csv"/>
+            <dct:identifier>42d56700-10d1-43e3-b6c8-778772e29237</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">ugz_ogd_traffic_h1_2018.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >375479</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2018.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>de</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6f645384-ab8e-4951-b59a-d8e68ecb2952">
+            <dct:language>de</dct:language>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:format>CSV</dct:format>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2020.csv"/>
+            <dct:identifier>1094b7ae-d320-4109-b232-322ca974dd9c</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >4712768</dcat:byteSize>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2020.csv"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_traffic_h1_2020.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Date privind numărul de trafic pe Stampfenbachstrasse în funcție de tipul de vehicul, din 2007</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui números de tráfego em Stampfenbachstrasse ** de 2007 até a última hora atual**, divididos em arquivos anuais. A medição ocorre usando detetores de radar. O comprimento do veículo que passa é medido. Devido ao seu comprimento, o veículo é atribuído a uma das 3 classes (0-2,7 m = 2R, 2,7-7 m = PW, 7-25 m = camião). O ponto de contagem está localizado no auge da Escola Profissional de Varejo de Zurique, ao lado do parque de parque Unterstrasse.  
+Durante os trabalhos de construção na Stampfenbachstrasse em 2018 e 2019, os números de tráfego não foram registrados.</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet tartalmazza a Stampfenbachstrasse ** forgalmi adatait 2007 és az utolsó óra között**, éves aktákra bontva. A mérés radarérzékelőkkel történik. Az áthaladó jármű hosszát meg kell mérni. Hossza miatt a járművet három osztály valamelyikébe sorolják (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = teherautó).
+A számláló pont a zürichi Szakiskola magasságában található, közvetlenül az Unterstrasse parkoló mellett.
+
+
+A Stampfenbachstrasse 2018-as és 2019-es építési munkálatai során a forgalmi adatokat nem rögzítették.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jinkludi ċifri tat-traffiku fi Stampfenbachstrasse **mill-2007 sal-aħħar siegħa attwali**, maqsuma f’fajls annwali. Il-kejl isir bl-użu ta’ ditekters tar-radar. Jitkejjel it-tul tal-vettura li tkun għaddejja. Minħabba t-tul tagħha, il-vettura tiġi assenjata f’waħda minn 3 klassijiet (0–2.7 m = 2R, 2.7–7 m = PW, 7–25 m = trakk). Il-punt tal-għadd jinsab fl-għoli tal-Iskola Vokazzjonali ta ‘Zurich bl-imnut dritt ħdejn il-parkeġġ tal-karozzi Unterstrasse.  
+Matul ix-xogħol ta’ kostruzzjoni fuq Stampfenbachstrasse fl-2018 u fl-2019, iċ-ċifri tat-traffiku ma ġewx irreġistrati.</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Stampfenbachstrassea koskevat liikennetiedot ajoneuvotyypeittäin vuodesta 2007 alkaen</dct:title>
+        <dcat:keyword xml:lang="de">sachdaten</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/stadt-zurich">
+            <foaf:name>Musikschule Konservatorium Zürich, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Stadtarchiv Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Tiefbauamt, Abteilung Verkehr + Stadtraum, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Bundesamt für Statistik</foaf:name>
+            <foaf:name>Baugeschichtliches Archiv, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Schutz und  Rettung, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Sozialstatistik / Evaluation, Soziale Dienste, Sozialdepartement</foaf:name>
+            <foaf:name>Stadtentwicklung, Präsidialdepartement</foaf:name>
+            <foaf:name>Steueramt, Finanzdepartement</foaf:name>
+            <foaf:name>Sektion Gesundheit, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Messung Luftqualität, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Fachbereich 2000-Watt-Gesellschaft, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Amt für Zusatzleistungen, Sozialdepartement</foaf:name>
+            <foaf:name>Wasserschutzpolizei, Stadtpolizei, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Verkehrsbetriebe Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Dienstabteilung Verkehr, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Elektrizitätswerk der Stadt Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Bundesamt für Statistik (BFS)</foaf:name>
+            <foaf:name>Stadtkanzlei, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Finanzverwaltung, Finanzdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Abteilung Mobilität + Verkehr, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima eismo duomenis Stampfenbachstrasse ** nuo 2007 m. iki paskutinės einamosios valandos**, suskirstytus į metines rinkmenas. Matavimas atliekamas naudojant radaro detektorius. Matuojamas pravažiuojančios transporto priemonės ilgis. Dėl savo ilgio transporto priemonė priskiriama vienai iš 3 klasių (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = sunkvežimis).
+Skaičiavimo vieta yra Ciuricho mažmeninės prekybos profesinės mokyklos aukštyje šalia Unterstrasse automobilių stovėjimo aikštelės.
+
+
+2018 ir 2019 m. Stampfenbachstrasse statybos darbų metu eismo duomenys nebuvo užregistruoti.</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum sisaldab liiklusandmeid Stampfenbachstrasse’is ** alates 2007. aastast kuni viimase tunnini**, mis on jagatud iga-aastasteks failideks. Mõõtmine toimub radari detektorite abil. Mõõdetakse mööduva sõiduki pikkust. Pikkuse tõttu kuulub sõiduk ühte kolmest klassist (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = veoauto). Loenduspunkt asub Zürichi kutsekooli kõrgusel Unterstrasse parkla kõrval. 
+
+Stampfenbachstrasse ehitustööde käigus 2018. ja 2019. aastal liiklusandmeid ei registreeritud.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje podatke o prometu u Stampfenbachstrasseu ** od 2007. do posljednjeg tekućeg sata**, podijeljene u godišnje datoteke. Mjerenje se odvija pomoću radarskih detektora. Mjeri se duljina vozila koje prolazi. Zbog svoje duljine, vozilo je dodijeljeno jednom od 3 razreda (0 – 2,7 m = 2R, 2,7 – 7 m = PW, 7 – 25 m = kamion).
+Točka brojanja nalazi se na vrhuncu strukovne škole maloprodaje u Zürichu tik do parkirališta Unterstrasse.
+
+
+Tijekom građevinskih radova na Stampfenbachstrasseu 2018. i 2019. nisu zabilježeni podaci o prometu.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-10-21T00:00:00</dct:issued>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä tietoaineisto sisältää Stampfenbachstrassen **liikenneluvut vuodesta 2007 viimeiseen tuntiin**, jaettuna vuosittaisiin tiedostoihin. Mittaus tapahtuu tutkanilmaisimilla. Ohikulkevan ajoneuvon pituus mitataan. Pituuden vuoksi ajoneuvo luokitellaan yhteen kolmesta luokasta (0–2,7 m = 2R, 2,7–7 m = PW, 7–25 m = kuorma-auto).
+Laskentapiste sijaitsee Zürichin ammattikoulun korkeudella aivan Unterstrassen pysäköintialueen vieressä.
+
+
+Stampfenbachstrassen rakennustöiden aikana vuosina 2018 ja 2019 liikennelukuja ei kirjattu.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:02Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

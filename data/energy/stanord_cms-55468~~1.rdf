@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-55468~~1">
+    <dct:spatial>
+      <dct:Location>
+        <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+      </dct:Location>
+    </dct:spatial>
+    <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/investitionen-fuer-umweltschutz-im-produzierenden-gewerbe-in-hamburg-2010"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2014-09-26T00:00:00</dct:issued>
+    <dcat:contactPoint>
+      <vcard:Organization>
+        <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+      </vcard:Organization>
+    </dcat:contactPoint>
+    <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+    <dct:title>Investitionen für Umweltschutz im Produzierenden Gewerbe in Hamburg 2010</dct:title>
+    <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+    <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-21T08:21:07.888329</dct:modified>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/14ca3e50-5870-42f9-93d8-85daef6addc1">
+        <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/verkehr_umwelt_und_energie/Q_III_1_j_H/Q_III_1_j10_HH.xlsx"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dct:format>XLSX</dct:format>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >152884</dcat:byteSize>
+        <dct:title>Investitionen für Umweltschutz im Produzierenden Gewerbe in Hamburg 2010</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T08:21:07.888329</dct:modified>
+        <spdx:checksum>
+          <spdx:Checksum>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+            >442b52fcd1444719c3fdc80cce37b9cdf5b86dd906c8f762054b72e91bca60d4</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dct:identifier>http://suche.transparenz.hamburg.de/dataset/2aec3b82-edef-4953-a7ac-cb9c89a52289/resource/05cddd15-c73f-42be-aa8c-bb9e5b5658f5</dct:identifier>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a980cbc3-bce5-4d35-bbe9-6f76b6c7e94d">
+        <dct:format>ZIP</dct:format>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+        <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS55468/Q_III_1_j10_HH.zip"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T08:21:07.888329</dct:modified>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:title>Investitionen für Umweltschutz im Produzierenden Gewerbe in Hamburg 2010 (CSV-Version in einer ZIP-Datei)</dct:title>
+        <spdx:checksum>
+          <spdx:Checksum>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+            >6e508b7f1bef9ea244f138075d375fd8f9cfcfcb9ebad5e3b0d23f0d2fa5d0c4</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >171975</dcat:byteSize>
+        <dct:identifier>http://suche.transparenz.hamburg.de/dataset/2aec3b82-edef-4953-a7ac-cb9c89a52289/resource/ccf178c8-e647-47fe-8a91-cb0f5385c798</dct:identifier>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+    <dct:publisher>
+      <foaf:Organization>
+        <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+      </foaf:Organization>
+    </dct:publisher>
+    <dct:creator>
+      <foaf:Organization>
+        <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+      </foaf:Organization>
+    </dct:creator>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+    <dcat:keyword>investitionen-für-umweltschutz-im-produzierenden-gewerbe-in-hamburg</dcat:keyword>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/AGRI"/>
+    <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+    <dcatapde:originator>
+      <foaf:Organization>
+        <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+      </foaf:Organization>
+    </dcatapde:originator>
+    <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3d11c442-fd64-444c-9710-3927ecbb758d">
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dct:identifier>http://suche.transparenz.hamburg.de/dataset/2aec3b82-edef-4953-a7ac-cb9c89a52289/resource/481cab65-d3f9-4370-b222-8a4af7ece083</dct:identifier>
+        <spdx:checksum>
+          <spdx:Checksum>
+            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+            >f77b0fd4860e2d55438979c70b41bd195b5048dc73507a8f02e9ee4bed3fbf2a</spdx:checksumValue>
+          </spdx:Checksum>
+        </spdx:checksum>
+        <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+        >497877</dcat:byteSize>
+        <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/verkehr_umwelt_und_energie/Q_III_1_j_H/Q_III_1_j10_HH.pdf"/>
+        <dct:title>Investitionen für Umweltschutz im Produzierenden Gewerbe in Hamburg 2010</dct:title>
+        <dct:format>PDF</dct:format>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T08:21:07.888329</dct:modified>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <owl:versionInfo>1.0</owl:versionInfo>
+    <dcatapde:maintainer>
+      <foaf:Organization>
+        <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+      </foaf:Organization>
+    </dcatapde:maintainer>
+    <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+    <dct:identifier>StaNord_CMS:55468</dct:identifier>
+    <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+    <dcat:keyword>industrie</dcat:keyword>
+    <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+    <adms:identifier>Q III 1 - j/10 H</adms:identifier>
+    <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+    <dcat:keyword>umwelt</dcat:keyword>
+  </dcat:Dataset>
+  <rdf:Description rdf:about="http://data.europa.eu/88u/record/stanord_cms-55468~~1">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T23:48:03Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T23:48:03Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-55468~~1"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>374708985ca7f9e2749a17b3107742ed</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </rdf:Description>
+</rdf:RDF>

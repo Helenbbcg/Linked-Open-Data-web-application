@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/4a2743d2-e23c-44b6-b906-7a0b67991790-stadt-zurich">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:03Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>122aff4aabc61792fe0e7db429e0f424</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>4a2743d2-e23c-44b6-b906-7a0b67991790@stadt-zurich</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/4a2743d2-e23c-44b6-b906-7a0b67991790-stadt-zurich">
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/work"/>
+        <dct:title xml:lang="et-t-de-t0-mtec">Statistilised uudised, 1924–2001</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Statistične novice, 1924–2001</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/tourism"/>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tilastouutiset, 1924–2001</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Statisztikai hírek, 1924–2001</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Statistikas ziņas ir Cīrihes Statistikas pilsētas ikgadējs atsevišķu rakstu krājums par dažādiem tematiem, ko katru gadu no 1924. līdz 2001. gadam publicē. Datu kopa satur visus statistikas ziņojumus, kas sadalīti atsevišķos rakstos PDF formātā.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/social-security"/>
+        <dcat:keyword xml:lang="de">publikation</dcat:keyword>
+        <dct:description xml:lang="pt-t-de-t0-mtec">O Statistical News é uma coleção anual de artigos individuais sobre vários tópicos por Statistics City of Zurich, publicado anualmente de 1924 a 2001. O conjunto de dados contém todas as mensagens estatísticas divididas em artigos individuais como PDF.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Štatistické správy, 1924 – 2001</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Statistikauudised on Zürichi Statistikalinna iga-aastane artiklite kogumik erinevatel teemadel, mis avaldatakse igal aastal 1924–2001. Andmekogum sisaldab kõiki statistilisi sõnumeid, mis on jagatud üksikuteks artikliteks PDF-vormingus.</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Noticias estadísticas, 1924-2001</dct:title>
+        <dcat:keyword xml:lang="de">kreise</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Notizie statistiche, 1924-2001</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Statistical News je každoroční sbírka jednotlivých článků o různých tématech Statistiky města Curychu, která je vydávána každoročně od roku 1924 do roku 2001.
+Datový soubor obsahuje všechny statistické zprávy rozdělené do jednotlivých článků jako PDF.</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Statistisch nieuws, 1924-2001</dct:title>
+        <dct:title xml:lang="de">Statistische Nachrichten, 1924-2001</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Statistična novica je letna zbirka posameznih člankov o različnih temah, ki jih objavlja Mesto Zürich, vsako leto med letoma 1924 in 2001.
+Nabor podatkov vsebuje vsa statistična sporočila, razdeljena na posamezne članke kot PDF.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Statistička vijest godišnja je zbirka pojedinačnih članaka o raznim temama Statistika Grada Züricha, koja se svake godine objavljuje od 1924. do 2001. godine.
+Skup podataka sadrži sve statističke poruke podijeljene u pojedinačne članke kao PDF.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statistikos naujienos, 1924–2001</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/stadt-zurich">
+            <foaf:name>Statistik Stadt Zürich, GWZ</foaf:name>
+            <foaf:name>Schutz und  Rettung, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Bundesamt für Statistik</foaf:name>
+            <foaf:name>Programmleitung BIM/GIS, Verkehrsbetriebe, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Baugeschichtliches Archiv, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Kontraktmanagement, Zentrale Verwaltung, Sozialdepartement</foaf:name>
+            <foaf:name>Strukturerhebung, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Bestattungs- und Friedhofamt, Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Sozialstatistik / Evaluation, Soziale Dienste, Sozialdepartement</foaf:name>
+            <foaf:name>Grundlagen + Strategien, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, GWZ/BVS</foaf:name>
+            <foaf:name>Stadtentwicklung, Präsidialdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Gebäude- und Wohnungsregister</foaf:name>
+            <foaf:name>Steueramt, Finanzdepartement</foaf:name>
+            <foaf:name>Sektion Gesundheit, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Raumentwicklung &amp; Architektur, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Fachbereich 2000-Watt-Gesellschaft, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Amt für Zusatzleistungen, Sozialdepartement</foaf:name>
+            <foaf:name>Beschäftigtenstatistik, Bundesamt für Statistik</foaf:name>
+            <foaf:name>A, ewz, Elektrizitätswerk der Stadt Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Schutz und Rettung, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Kataster, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Kommunikation, Grün Stadt Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Strukturerhebung</foaf:name>
+            <foaf:name>Stadtkanzlei, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Sektion Bevölkerung, Bundesamt für Statistik</foaf:name>
+            <foaf:name>GIS-Zentrum, Geomatik + Vermessung, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Fernwärme, Entsorgung + Recycling Zürich, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Stadtentwicklung und Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="el-t-de-t0-mtec">Στατιστικά νέα, 1924-2001</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Statistiknyheterna är en årlig samling av enskilda artiklar om olika ämnen av Statistikstaden Zürich, som publiceras årligen mellan 1924 och 2001.
+Datasetet innehåller alla statistiska meddelanden indelade i de enskilda artiklarna som PDF.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Statistical News este o colecție anuală de articole individuale pe diverse teme ale orașului Zürich, publicate anual între 1924 și 2001.
+Setul de date conține toate mesajele statistice împărțite în articole individuale sub formă de PDF.</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">The Statistical News is een jaarlijkse verzameling van individuele artikelen over verschillende onderwerpen door Statistiek Stad Zürich, jaarlijks gepubliceerd van 1924 tot 2001.
+De dataset bevat alle statistische berichten die in de afzonderlijke artikelen als PDF zijn verdeeld.</dct:description>
+        <dcat:keyword xml:lang="de">pdf</dcat:keyword>
+        <dct:description xml:lang="it-t-de-t0-mtec">La Statistical News è una raccolta annuale di singoli articoli su vari argomenti di Statistics City di Zurigo, pubblicati annualmente dal 1924 al 2001.
+Il set di dati contiene tutti i messaggi statistici suddivisi nei singoli articoli come PDF.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/politics"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/national-economy"/>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tilastouutiset on vuosittainen kokoelma yksittäisiä artikkeleita eri aiheista, jonka on julkaissut Zürichin tilastokaupunki, joka julkaistaan vuosittain vuosina 1924–2001.
+Aineisto sisältää kaikki tilastoviestit, jotka on jaettu yksittäisiin artikkeleihin PDF:nä.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/public-order"/>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Aħbarijiet ta’ l-istatistika, 1924–2001</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/crime"/>
+        <dcat:keyword xml:lang="de">quartiere</dcat:keyword>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Statistical News je každoročná zbierka jednotlivých článkov na rôzne témy Štatistické mesto Zürich, vydávaná každoročne v rokoch 1924 až 2001.
+Súbor údajov obsahuje všetky štatistické správy rozdelené do jednotlivých článkov vo formáte PDF.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@zuerich.ch"/>
+            <vcard:fn>Open Data Zürich</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Notícias estatísticas, 1924-2001</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Statistiske nyheder, 1924-2001</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/286f3174-0182-47a3-b9fd-657adc312395">
+            <dct:title xml:lang="es-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="en-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">prd_sz_statistische_mess.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/prd_ssz_statistische_nachrichten/download/prd_ssz_statistische_nachrichten.csv"/>
+            <dct:title xml:lang="de">prd_ssz_statistische_nachrichten.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">prd_ssz_statistique_nouvelles.csv</dct:title>
+            <dct:identifier>303136b3-3fc5-4ef5-8627-635e81c9bac6</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/prd_ssz_statistische_nachrichten/download/prd_ssz_statistische_nachrichten.csv"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="sl-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >272838</dcat:byteSize>
+            <dct:title xml:lang="it-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="hu-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-01-22T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">prd_ssz_statistische_mess.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">sachdaten</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T02:15:39.978254</dct:modified>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/population"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Statističke vijesti, 1924. – 2001.</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Nouvelles statistiques, 1924-2001</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Is éard atá sa Nuacht Staitistiúil bailiúchán bliantúil d’ailt ar leith ar thopaicí éagsúla ag Cathair Staitisticí Zurich, a fhoilsítear go bliantúil ó 1924 go 2001.
+Tá gach teachtaireacht staitistiúil roinnte sna hailt aonair mar PDF sa tacar sonraí.</dct:description>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A Statisztikai Hírek Zürich Statisztikai Városának különböző témákról szóló, évente 1924-től 2001-ig kiadott cikkei.
+Az adatkészlet tartalmazza az egyes cikkekre bontott összes statisztikai üzenetet PDF formátumban.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Статистичні новини, 1924-2001</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Nuacht Staitistiúil, 1924-2001</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Statistikos naujienos yra kasmetinis Ciuricho miesto statistikos straipsnių rinkinys įvairiomis temomis, kasmet skelbiamas 1924–2001 metais. Duomenų rinkinyje pateikiami visi statistiniai pranešimai, suskirstyti į atskirus straipsnius PDF formatu.</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Statistical News er en årlig samling af individuelle artikler om forskellige emner af Statistics City of Zurich, udgivet hvert år fra 1924 til 2001.
+Datasættet indeholder alle statistiske meddelelser opdelt i de enkelte artikler som PDF.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/finances"/>
+        <dcat:landingPage rdf:resource="https://ckan-ogdzh.clients.liip.ch/dataset/prd_ssz_statistische_nachrichten"/>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Statistikas ziņas, 1924–2001</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Știri statistice, 1924-2001</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Η Στατιστική Νέα είναι μια ετήσια συλλογή μεμονωμένων άρθρων για διάφορα θέματα της Στατιστικής Πόλης της Ζυρίχης, που δημοσιεύονται ετησίως από το 1924 έως το 2001. Το σύνολο δεδομένων περιέχει όλα τα στατιστικά μηνύματα που χωρίζονται σε μεμονωμένα άρθρα ως PDF.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Statistické zprávy, 1924–2001</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">The Statistical News es una colección anual de artículos individuales sobre diversos temas por Statistics City of Zurich, publicado anualmente desde 1924 hasta 2001.
+El conjunto de datos contiene todos los mensajes estadísticos divididos en los artículos individuales como PDF.</dct:description>
+        <dcat:keyword xml:lang="de">historisch</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/JUST"/>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Les Statistiques sont une collection annuelle d’articles sur différents thèmes de la ville de Zurich, publiée de 1924 à 2001. L’ensemble de données contient tous les messages statistiques divisés en différents articles au format PDF.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:description xml:lang="de">
+Die Statistische Nachrichten ist eine von 1924 bis 2001 jährlich erschienene Sammlung von einzelnen Aufsätzen zu verschiedensten Themen von Statistik Stadt Zürich. Der Datensatz enthält alle Statistische Nachrichten aufgeteilt in die einzelnen Aufsätze als PDF.
+</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Статистическите новини е годишен сборник от отделни статии по различни теми от Статистическия град Цюрих, който се публикува ежегодно от 1924 до 2001 г. Наборът от данни съдържа всички статистически съобщения, разделени на отделни статии като PDF.</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">L-Aħbarijiet Statistiċi huma ġabra annwali ta’ artikli individwali dwar diversi suġġetti mill-Belt tal-Istatistika ta’ Zurich, ippubblikati kull sena mill-1924 sal-2001.
+Is-sett ta’ data fih il-messaġġi statistiċi kollha maqsuma fl-artikoli individwali bħala PDF.</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Informacje statystyczne to coroczny zbiór poszczególnych artykułów na różne tematy, opublikowanych corocznie w latach 1924-2001 przez Statistics City of Zurich. Zestaw danych zawiera wszystkie wiadomości statystyczne podzielone na poszczególne artykuły jako PDF.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:title xml:lang="en-t-de-t0-mtec">Statistical news, 1924-2001</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Статистически новини, 1924—2001</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-01-21T00:00:00</dct:issued>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/prices"/>
+        <dct:identifier>4a2743d2-e23c-44b6-b906-7a0b67991790@stadt-zurich</dct:identifier>
+        <dct:description xml:lang="en-t-de-t0-mtec">The Statistical News is an annual collection of individual articles on various topics by Statistics City of Zurich, published annually from 1924 to 2001. The dataset contains all statistical messages divided into the individual articles as PDF.</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Statistiknyheter, 1924–2001</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">The Statistical News - щорічний збірник окремих статей на різні теми Статистики міста Цюріха, який публікується щорічно з 1924 по 2001 рік.
+Набір даних містить всі статистичні повідомлення, розділені на окремі статті як PDF.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/administration"/>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wiadomości statystyczne, 1924-2001</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/construction"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:51Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:07:08Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:08:41Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/4a2743d2-e23c-44b6-b906-7a0b67991790-stadt-zurich"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

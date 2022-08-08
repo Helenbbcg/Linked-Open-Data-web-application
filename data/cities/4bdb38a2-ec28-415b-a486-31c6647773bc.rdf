@@ -1,0 +1,658 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/4bdb38a2-ec28-415b-a486-31c6647773bc">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T14:11:35Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/4bdb38a2-ec28-415b-a486-31c6647773bc"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:15Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>4bdb38a2-ec28-415b-a486-31c6647773bc</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>34ab40d82917ad84ac47d191765c87ab</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc">
+        <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+        <dcat:keyword>stadtplanung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/834e2c81-d017-4bd0-a8f5-8c97ad0805c9">
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.shp.zip"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/9137113a-f096-4673-a795-60cc1837c6c6</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.shp.zip"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T12:45:21</dct:issued>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >458dcd2db38376ea0ae4a80385f73e8d30d7898f84b4164c1943e8fc1abb9607</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.shp"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >117546</dcat:byteSize>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dcat:keyword>freizeit</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:35:55.024110</dct:modified>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset inkluderar de små trädgårdarna i Hanseatic och University City of Rostock med information om beteckning. Resurserna uppdateras vanligtvis med följande intervall: 3 dagar</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/35f375aa-3860-4e6c-bc84-e8a09801f7de">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/kleingartenanlagen/wfs"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-05-05T09:49:48</dct:issued>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/0c0c405e-9b1b-4338-8c30-4c1b06fa61a9</dct:identifier>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b0c3b12f-49c3-4c95-b57d-9dc00733db2b">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.gml"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >1166cf8e8f12480446f54e1cd5e4bb6484e09ce187a688c70a579e7e3abe8695</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >451792</dcat:byteSize>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.gml"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/62904ec8-3fb9-4b2e-a72c-b0b4922e6669</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T12:45:21</dct:issued>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title>Kleingartenanlagen</dct:title>
+        <dcat:keyword>planung</dcat:keyword>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje malé zahradní zařízení v hanzovním a univerzitním městě Rostock s informacemi o označení. Zdroje se obvykle aktualizují v následujících intervalech: 3 dny</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+        <dcat:keyword>freizeitbereich</dcat:keyword>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les petits jardins situés dans la ville hanséatique et universitaire de Rostock, avec des informations sur le nom. Les ressources sont généralement mises à jour à l’intervalle suivant: 3 jours</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear sa tacar sonraí seo na háiseanna beaga gairdíní i gCathair Rostock Hanseatic agus Ollscoil le faisnéis faoin ainmniú. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 3 lá</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7ac3d77b-83ec-4dc1-8945-327238d6c8eb">
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/5d10f41d-7f9d-4c07-85cc-3fe82bf9a761</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.kml"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >199af564d2272d3f0b0a7cae680c7ce41adaa67ba8c8adfe56bdb4513695f152</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >386102</dcat:byteSize>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T12:45:21</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.kml"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fa4ba4fb-4a91-4702-ba7e-3decfde07d00">
+            <dct:description xml:lang="it-t-de-t0-mtec">Questi dati includono i piccoli giardini della città anseatica e universitaria di Rostock con informazioni sulla designazione.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Tieto údaje zahŕňajú malé záhradné zariadenia v Hanseatic a University City of Rostock s informáciami o označení.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Need andmed hõlmavad väike aiahooned Hanseatic ja University City of Rostock teavet nimetus.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Aceste date includ mici facilități de grădinărit din Hanseatic și University City din Rostock, cu informații privind desemnarea.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ti podaci uključuju male vrtne objekte u hanzeatskom i Sveučilišnom gradu Rostocku s informacijama o označavanju.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T14:10:08</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ezek az adatok magukban foglalják a Hanza és a University City of Rostock kis kerti létesítményeit, a kijelölésre vonatkozó információkkal.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Dessa uppgifter inkluderar de små trädgårdarna i Hanseatic och University City of Rostock med information om utseende.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Näihin tietoihin kuuluvat Rostockin Hanseaticin ja University Cityn pienet puutarhatilat, joissa on tietoa nimeämisestä.</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šie duomenys apima mažų sodo įrenginių Hanzos ir universiteto Rostoko miesto su informacija apie pavadinimą.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tyto údaje zahrnují malé zahradní zařízení v hanzovním a univerzitním městě Rostock s informacemi o označení.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/4c150416-c6dc-4702-9493-6847341fe8f5</dct:identifier>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/am-communitygardens/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Disse data omfatter de små havefaciliteter i Hansestaden og University City of Rostock med oplysninger om udpegelse.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">These data include the small garden facilities in the Hanseatic and University City of Rostock with information on designation.</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dct:description>Diese Daten umfassen die Kleingartenanlagen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Bezeichnung.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тези данни включват малките градински съоръжения в ханзийския и университетския град Рощок с информация за определянето.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Estos datos incluyen las pequeñas instalaciones de jardín en el Hanseático y la ciudad universitaria de Rostock con información sobre la designación.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šie dati ietver nelielas dārza iekārtas Hanzas un Rostokas Universitātes pilsētā ar informāciju par apzīmējumu.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Dane te obejmują małe obiekty ogrodowe w Hanseatic i University City of Rostock z informacjami na temat wyznaczenia.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear ar na sonraí seo na háiseanna beaga gairdín i gCathair Hanseatic agus Ollscoil Rostock le faisnéis maidir le hainmniú.</dct:description>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din id-data tinkludi l-faċilitajiet żgħar tal-ġonna fil-Belt Hanseatika u tal-Università ta’ Rostock b’informazzjoni dwar id-deżinjazzjoni.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevens omvatten de kleine tuinfaciliteiten in de Hanzestad en de Universiteitsstad Rostock met informatie over de aanwijzing.</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Τα δεδομένα αυτά περιλαμβάνουν τις μικρές εγκαταστάσεις κήπου στο Hanseatic και University City του Rostock με πληροφορίες σχετικά με την ονομασία.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Ces données comprennent les petits jardins situés dans la ville hanséatique et universitaire de Rostock, avec des informations sur le nom.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Estes dados incluem as pequenas instalações de jardim na cidade hanseática e universitária de Rostock com informações sobre a designação.</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ti podatki vključujejo majhne vrtne objekte v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o določitvi.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter de små havefaciliteter i Hansestaden og University City of Rostock med oplysninger om udpegelse. Ressourcerne opdateres normalt med følgende intervaller: 3 dage</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6c37b31f-bce7-45c6-bb2c-b8645cbf6712">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >7b2a9c2b73969bfb72242b3868b5a7196ff0db37bbee40b66d8d31c75ed26aec</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.xlsx"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/04065f36-c892-450e-9c1d-5c76a1e0cf64</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >10191</dcat:byteSize>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T12:45:21</dct:issued>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.xlsx"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tähän tietokokonaisuuteen sisältyvät Rostockin Hanseaticin ja University Cityn pienet puutarhatilat, joissa on tietoa nimeämisestä. Resursseja päivitetään yleensä seuraavin väliajoin: 3 päivää Tähän tietokokonaisuuteen sisältyvät Rostockin Hanseaticin ja University Cityn pienet puutarhatilat, joissa on tietoa nimeämisestä. Resursseja päivitetään yleensä seuraavin väliajoin: 3 päivää Tähän tietokokonaisuuteen sisältyvät Rostockin Hanseaticin ja University Cityn pienet puutarhatilat, joissa on tietoa nimeämisestä. Resursseja päivitetään yleensä seuraavin väliajoin: 3 päivää</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de kleine tuinfaciliteiten in de Hanzestad en Universiteitsstad Rostock met informatie over de aanwijzing. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 3 dagen</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima mažus sodo įrenginius Hanzos ir Rostoko universiteto mieste su informacija apie paskyrimą. Ištekliai paprastai atnaujinami tokiais intervalais: 3 dienos</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui as pequenas instalações de jardim na cidade hanseática e universitária de Rostock com informações sobre a designação. Os recursos são geralmente atualizados nos seguintes intervalos: 3 dias</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+        <dct:accessRights>public</dct:accessRights>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje majhne vrtne objekte v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o določitvi. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 3 dni</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6a7f2848-9811-49c4-aa60-9292ddc41fab">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T12:45:21</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/kleingartenanlagen/wms"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/fe1d547a-f147-4ab5-8176-a6aad9f742f5</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati include le piccole strutture da giardino nella città anseatica e universitaria di Rostock con informazioni sulla designazione. Le risorse sono solitamente aggiornate ai seguenti intervalli: 3 giorni</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει τις μικρές εγκαταστάσεις κήπου στο Hanseatic και University City του Rostock με πληροφορίες σχετικά με την ονομασία. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 3 ημέρες</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa malé záhradné zariadenia v Hanseatic a University City of Rostock s informáciami o označení. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 3 dni</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet magában foglalja a Hanza és a University City of Rostock kis kerti létesítményeit, a kijelöléssel kapcsolatos információkkal. Az erőforrásokat általában a következő időközönként frissítik: 3 nap</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6102166a-c11c-444d-bfb4-46b5a3e5cb39">
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din il-mappa tinkludi l-faċilitajiet żgħar tal-ġnien fil-Belt Hanseatic u Università ta ‘Rostock.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tato mapa zahrnuje malé zahradní zařízení v hanzovním a univerzitním městě Rostock.</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa mappa include i piccoli giardini della città anseatica e universitaria di Rostock.</dct:description>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/am-communitygardens/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze kaart bevat de kleine tuinfaciliteiten in de Hanzestad en de Universiteitsstad Rostock.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette kort omfatter de små havefaciliteter i Hansestaden og University City of Rostock.</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Denna karta innehåller de små trädgårdsfaciliteterna i Hanseatic och University City of Rostock.</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/f1b24399-653b-4525-8b20-4418c073cff7</dct:identifier>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T14:10:08</dct:issued>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cette carte comprend les petits jardins dans la ville hanséatique et universitaire de Rostock.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear ar an léarscáil seo na háiseanna gairdín beag i Hanseatic agus Ollscoil Chathair Rostock.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este mapa inclui as pequenas instalações de jardim na cidade hanseática e universitária de Rostock.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Karta uključuje male vrtne objekte u hanzeatskom i Sveučilišnom gradu Rostocku.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Mapa obejmuje małe obiekty ogrodowe w Hanzeatyce i University City of Rostock.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">See kaart sisaldab väike aiahooned Hanseatic ja University City of Rostock.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Această hartă include mici facilități de grădină din Hanseatic și University City din Rostock.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτός ο χάρτης περιλαμβάνει τις μικρές εγκαταστάσεις κήπου στο Hanseatic και University City του Rostock.</dct:description>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Táto mapa zahŕňa malé záhradné zariadenia v Hanseatic a University City Rostock.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тази карта включва малките градински съоръжения в ханзейския и университетския град Рощок.</dct:description>
+            <dct:description>Diese Karte umfasst die Kleingartenanlagen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā kartē iekļautas nelielas dārza iekārtas Hanzas un Rostokas Universitātes pilsētā.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este mapa incluye las pequeñas instalaciones ajardinadas de la ciudad hanseática y de la Universidad de Rostock.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tämä kartta sisältää pienet puutarhatilat Hanseatic ja University City of Rostock.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame žemėlapyje yra nedideli sodo įrenginiai Hanzos ir Rostoko universiteto mieste.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ta zemljevid vključuje majhne vrtne objekte v Hanseatic in University City Rostock.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez a térkép tartalmazza a kis kerti létesítmények a Hanseatic és University City of Rostock.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This map includes the small garden facilities in the Hanseatic and University City of Rostock.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+        <dcat:keyword>garten</dcat:keyword>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва малките градински съоръжения в Hanseatic и University City of Rostock с информация за предназначението. Ресурсите обикновено се актуализират на следните интервали: 3 дни</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b81b509f-0ca4-41e3-9326-5a71fb128560">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.csv"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >314173</dcat:byteSize>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T12:45:21</dct:issued>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >a8b50475e0d5fa5fc8f0828dab8f975bdd957d859a2a6387f3d06a6a5d747cc6</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/714570e2-9767-46e0-aa1c-e708e22847e3</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.csv"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje małe obiekty ogrodowe w Hanzeatyce i University City of Rostock z informacjami o wyznaczeniu. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 3 dni</dct:description>
+        <dct:description>Dieser Datensatz umfasst die Kleingartenanlagen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Bezeichnung. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 3 Tage</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes the small garden facilities in the Hanseatic and University City of Rostock with information on designation. The resources are usually updated at the following intervals: 3 days</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje male vrtne objekte u Hanseatic i University City of Rostock s informacijama o označavanju. Resursi se obično ažuriraju u sljedećim intervalima: 3 dana</dct:description>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include mici facilități de grădinărit din Hanseatic și University City din Rostock, cu informații privind desemnarea. Resursele sunt, de obicei, actualizate la următoarele intervale: 3 zile Acest set de date include mici facilități de grădinărit din Hanseatic și University City din Rostock, cu informații privind desemnarea. Resursele sunt, de obicei, actualizate la următoarele intervale: 3 zile Acest set de date include mici facilități de grădinărit din Hanseatic și University City din Rostock, cu informații privind desemnarea. Resursele sunt, de obicei, actualizate la următoarele intervale: 3 zile</dct:description>
+        <dct:identifier>4bdb38a2-ec28-415b-a486-31c6647773bc</dct:identifier>
+        <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword>freizeitnutzung</dcat:keyword>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jinkludi l-faċilitajiet żgħar tal-ġonna fil-Belt Hanseatika u tal-Università ta’ Rostock b’informazzjoni dwar id-deżinjazzjoni. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 3 ijiem</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver nelielas dārza iekārtas Hanzas un Rostokas Universitātes pilsētā ar informāciju par apzīmējumu. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 3 dienas</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye las pequeñas instalaciones de jardín en la ciudad hanseática y universitaria de Rostock con información sobre la designación. Por lo general, los recursos se actualizan en los siguientes intervalos:
+3 días</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/34e2aa40-8c9c-4e17-8cd7-297ffe5ed893">
+            <dct:title xml:lang="ro-t-de-t0-mtec">Mici facilități de grădinărit</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Nelielas dārza telpas</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Små trädgårdsmöjligheter</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Small garden facilities</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Małe obiekty ogrodowe</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.json"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Mali vrtni sadržaji</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piccoli impianti da giardino</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kleine tuinfaciliteiten</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >6561dbba61c520f1e548566a6244f0850df0cacdff9e955ff79e63d911444dd1</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Malé záhradné zariadenia</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="et-t-de-t0-mtec">Väikesed aiahooned</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Malé zahrádky</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:24:38</dct:modified>
+            <dct:title>Kleingartenanlagen</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >277974</dcat:byteSize>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Faċilitajiet żgħar għall-ġonna</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pequeñas instalaciones ajardinadas</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Majhni vrtni objekti</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bláthanna cumhra: aon cumhráin</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pienet puutarhatilat</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Små havefaciliteter</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T12:45:21</dct:issued>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/kleingartenanlagen/kleingartenanlagen.json"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Maži sodo įrenginiai</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pequenas instalações de jardim</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μικρές εγκαταστάσεις κήπου</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Kis kerti létesítmények</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Jardins de petite taille</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/4bdb38a2-ec28-415b-a486-31c6647773bc/resource/c5e62ed2-f580-4938-a063-24848dcedbc9</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Малки градински съоръжения</dct:title>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Amt für Stadtgrün, Naturschutz und Friedhofswesen</foaf:name>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum sisaldab väike aiarajatisi Hanseatic ja University City of Rostock teavet nimetus. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 3 päeva</dct:description>
+        <dcat:keyword>gartenbau</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:32Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:44:18Z</edp:transReceived>
+  </dcat:CatalogRecord>
+</rdf:RDF>

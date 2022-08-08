@@ -1,0 +1,585 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/36e3596b-71d4-4bcb-bf03-040e662b5136">
+    <dct:identifier>36e3596b-71d4-4bcb-bf03-040e662b5136</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/36e3596b-71d4-4bcb-bf03-040e662b5136"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>949b6ab9bd7c2a76634f2ceba1082826</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-11-13T23:47:38Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:43:30Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:16Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:33Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3d75d325-380d-4ae5-be39-d3f2c3a7d751">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/5a4681cf-0e45-4cb0-830e-6b6f08f81278</dct:identifier>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-01T09:13:11</dct:issued>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/strassen/wms"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title>Straßen</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει δρόμους στο Hanseatic και University City του Rostock με το κλειδί του δρόμου και το όνομα του δρόμου. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα:
+3 ημέρες</dct:description>
+        <dct:description>Dieser Datensatz umfasst die mit einem Straßenschlüssel und einem Straßennamen versehenen Straßen in der Hanse- und Universitätsstadt Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 3 Tage</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter veje i Hansestaden og University City of Rostock med en gadenøgle og et gadenavn. Ressourcerne opdateres normalt med følgende intervaller: 3 dage</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les rues de la ville hanséatique et universitaire de Rostock, munies d’une clé de rue et d’un nom de rue. Les ressources sont généralement mises à jour à l’intervalle suivant: 3 jours</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje drogi w Hanzeatyce i University City of Rostock z kluczem ulicznym i nazwą ulicy. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu:
+3 dni</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/71820502-4f28-4fcc-8795-9330694e95bf">
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >4a611ddcacdf3926d1af492f76ea6a5046a1c10cac9e60cf8c2d1ee35aea927b</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >412178</dcat:byteSize>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.shp.zip"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/f2a889fa-fe0e-48bf-932d-7da5c7483425</dct:identifier>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <dct:title>Straßen</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.shp.zip"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T15:16:48</dct:issued>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.shp"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:keyword>öffentlicher-verkehr</dcat:keyword>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje silnice v hanzovním a univerzitním městě Rostock s pouličním klíčem a názvem ulice. Zdroje se obvykle aktualizují v následujících intervalech:
+3 dny</dct:description>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset inkluderar vägar i Hanseatic och University City of Rostock med en gatunyckel och ett gatunamn. Resurserna uppdateras vanligtvis med följande intervall:
+3 dagar</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:34:36.629625</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4f007058-118e-4bbd-ad02-a70750832769">
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >d2d90752cc2629d11bf780f6b10db0559182659cb80fe0d17a1938af96220f65</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T15:16:48</dct:issued>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.kml"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/da191212-093a-4134-aef8-9d1d741f6a79</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >2205087</dcat:byteSize>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.kml"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dct:title>Straßen</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver ceļus Hanzas un Rostokas Universitātes pilsētā ar ielu atslēgu un ielas nosaukumu. Resursi parasti tiek atjaunināti ar šādiem intervāliem:
+3 dienas</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+        <dcat:keyword>öffentliche-straße</dcat:keyword>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje ceste v Hanseaticskem in univerzitetnem mestu Rostock z uličnim ključem in imenom ulice. Viri se običajno posodabljajo v naslednjih časovnih presledkih:
+3 dni</dct:description>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa cesty v hanzovom a univerzitnom meste Rostock s pouličným kľúčom a názvom ulice. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 3 dni</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/505bda71-f710-4a0a-83bb-be443b07b6a7">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.json"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/8b169335-2a80-477c-9542-8e85bf8f5687</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >47414cecbb8f5ad309707af938a6ae2cac1551c463b52c7189bd8bbba6a45c7d</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >1389796</dcat:byteSize>
+            <dct:title>Straßen</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.json"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T15:16:48</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>straßenverkehr</dcat:keyword>
+        <dcat:keyword>stadtverkehr</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat wegen in de Hanzestad en Universiteitsstad Rostock met een straatsleutel en een straatnaam. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 3 dagen</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear leis an tacar sonraí seo bóithre i Hanseatic agus i gCathair na hOllscoile, Rostock, a bhfuil eochair sráide agus ainm sráide orthu. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas:
+3 lá</dct:description>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati include le strade della città anseatica e universitaria di Rostock con una chiave di strada e un nome di strada. Le risorse sono solitamente aggiornate ai seguenti intervalli: 3 giorni</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва пътища в Hanseatic и University City of Rostock с уличен ключ и име на улица. Ресурсите обикновено се актуализират на следните интервали:
+3 дни</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes roads in the Hanseatic and University City of Rostock with a street key and a street name. The resources are usually updated at the following intervals: 3 days</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/93061000-99ca-49d2-bb2f-f87520ca99f2">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/299c8ca9-1244-42a9-8766-d1139f30675d</dct:identifier>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:title>Straßen</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/strassen/wfs"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-10T08:58:52</dct:issued>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+        <dcat:keyword>verkehrsinfrastruktur</dcat:keyword>
+        <dcat:keyword>straße</dcat:keyword>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye carreteras en la Ciudad Hanseática y Universitaria de Rostock con una llave de calle y un nombre de calle. Por lo general, los recursos se actualizan en los siguientes intervalos:
+3 días</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta ‘data jinkludi toroq fil-Hanseatic u Università Belt ta’ Rostock ma ‘ċavetta triq u isem tat-triq. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin:
+3 ijiem</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+        <dct:accessRights>public</dct:accessRights>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/782843ca-1824-436a-9067-f61b56b4bbf5">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RSS"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-09-07T10:37:53</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/xml"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title>Straßen</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/758b79e2-805a-4409-9d3b-da02ea90821a</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/rss/strassen"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+        <dcat:keyword>verkehr</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/75f8762b-a3b7-498c-9940-2b6c285ceaed">
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >b5c56a9d31a7715ab5c326f31029ca7dfae00412b4034eaa7dacb2c1ec020882</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T15:16:48</dct:issued>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.xlsx"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <dct:title>Straßen</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.xlsx"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/1aeda500-19ea-47ad-b4fa-d04caa0a5123</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >89219</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/45980bf9-cb61-422f-8c68-36d41b2df9be">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >e920b6752b0d31071210e0f5544d931e9222ad35433a036478f55feccdfbe0a7</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.gml"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >2799107</dcat:byteSize>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T15:16:48</dct:issued>
+            <dct:title>Straßen</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/c03e26aa-6ec5-4d21-a7d0-eb75b0a95c56</dct:identifier>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.gml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje ceste u hanzeatskom i Sveučilišnom gradu Rostocku s uličnim ključem i imenom ulice. Resursi se obično ažuriraju u sljedećim intervalima:
+3 dana</dct:description>
+        <dcat:keyword>straßennetz</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include drumuri din Hanseatic și University City of Rostock cu o cheie de stradă și un nume de stradă. Resursele sunt, de obicei, actualizate la următoarele intervale:
+3 zile</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+        <dct:title>Straßen</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui estradas na cidade hanseática e universitária de Rostock com uma chave de rua e um nome de rua. Os recursos são geralmente atualizados nos seguintes intervalos:
+3 dias</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä aineisto sisältää tiet Hanseatic ja University City of Rostock katuavain ja katunimi. Resursseja päivitetään yleensä seuraavin väliajoin:
+3 päivää</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum hõlmab teede Hanseatic ja University City of Rostock koos tänava võti ja tänava nimi. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 3 päeva</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet magában foglalja az utakat a Hanza és University City of Rostock egy utcai kulcs és egy utcanév. Az erőforrásokat általában a következő időközönként frissítik: 3 nap</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima kelius Hanzos ir universiteto Rostoko mieste su gatvės raktu ir gatvės pavadinimu. Ištekliai paprastai atnaujinami tokiais intervalais: 3 dienos</dct:description>
+        <dct:identifier>36e3596b-71d4-4bcb-bf03-040e662b5136</dct:identifier>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a9437d88-5d86-4767-8098-c838eb646516">
+            <dct:title xml:lang="lv-t-de-t0-mtec">Ceļi</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/36e3596b-71d4-4bcb-bf03-040e662b5136/resource/6e214721-f6e0-476f-9f74-0378c928a3f4</dct:identifier>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Les routes</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Vägar</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Toroq</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οδοί</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Silnice</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estradas</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Utak</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Carreteras</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Bóithre</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Strade</dct:title>
+            <dct:title>Straßen</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.csv"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Ceste</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Пътища</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Drogi</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Roads</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >f63efee80838c35b4dc111fd290ed0fc2c2722d02f2b5e60aad4fd3206bba712</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="da-t-de-t0-mtec">Veje</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >1217680</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T15:16:48</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Keliai</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiet</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Cesty</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/strassen/strassen.csv"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Wegen</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Teed</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:53:09</dct:modified>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Drumuri</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

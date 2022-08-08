@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/bmewknbsjcbywsfidrsajg">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:02:26Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/bmewknbsjcbywsfidrsajg"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T10:04:46Z</edp:transIssued>
+    <dct:identifier>BmEWknBsJcbYwsfIdrsaJg</dct:identifier>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>f75537f86e4c4073a1de7d90f7b25ed7</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T10:04:46Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/bmewknbsjcbywsfidrsajg">
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/tour_occ_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/tour_occ_esms.htm</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/bmewknbsjcbywsfidrsajg"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Iljieli mqattgħin fi stabbilimenti ta’ akkomodazzjoni turistika skont iż-żona kostali u mhux kostali (mill-2012’il quddiem)</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5909"/>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Tūristu izmitināšanas uzņēmumos pavadītās naktis piekrastes un piekrastē (sākot no 2012. gada)</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Prenocovanie v ubytovacích zariadeniach cestovného ruchu podľa pobrežných a nepobrežných oblastí (od roku 2012)</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Нощувки в обекти за туристическо настаняване в крайбрежни и некрайбрежни райони (от 2012 г. нататък)</dct:description>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by coastal and non-coastal area (from 2012 onwards)</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-07</dct:modified>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Overnachtingen in toeristische accommodaties per kust- en niet-kustgebied (vanaf 2012)</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Noclegi spędzone w turystycznych obiektach noclegowych w strefie przybrzeżnej i pozamorskiej (od 2012 r.)</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Noćenja u turističkim smještajnim objektima po priobalnom i nekombalnom području (od 2012. nadalje)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Pernottamenti in strutture ricettive turistiche per zone costiere e non costiere (dal 2012 in poi)</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Ööbimised majutusettevõtetes ranniku- ja mitterannikualade kaupa (alates 2012. aastast)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Yöpymiset majoitusliikkeissä rannikkoalueiden ja muiden alueiden mukaan (vuodesta 2012 alkaen)</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Noites passadas em estabelecimentos de alojamento turístico por zona costeira e não costeira (a partir de 2012)</dct:description>
+        <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben für Touristen am Meer und nicht am Meer (ab 2012)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Noci strávené v ubytovacích zařízeních cestovního ruchu podle pobřežních a nepobřežních oblastí (od roku 2012)</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Prenočitve v turističnih nastanitvenih obratih po obalnih in neobalnih območjih (od leta 2012)</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Noches en establecimientos de alojamiento turístico por zona costera y no costera (a partir de 2012)</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Overnatninger på turistindlogeringsvirksomheder efter kystområde og ikkekystområde (fra 2012 og fremefter)</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Ночівлі, проведені в туристичних закладах прибережної та неприбережної території (з 2012 року)</dct:description>
+        <dct:description xml:lang="en">Nights spent at tourist accommodation establishments by coastal and non-coastal area (from 2012 onwards)</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/82aad380-1a0a-4b88-8f10-d5747ac60cc3">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2012-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Tūristu izmitināšanas uzņēmumos pavadītās naktis piekrastes un piekrastē (sākot no 2012. gada)</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Oícheanta caite i mbunachais chóiríochta turasóireachta i limistéar cósta agus i limistéar nach ceantar cósta é (ó 2012 ar aghaidh)</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Noches en establecimientos de alojamiento turístico por zona costera y no costera (a partir de 2012)</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Prenočitve v turističnih nastanitvenih obratih po obalnih in neobalnih območjih (od leta 2012)</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Oícheanta caite i mbunachais chóiríochta turasóireachta i limistéar cósta agus i limistéar nach ceantar cósta é (ó 2012 ar aghaidh)</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Övernattningar i inkvarteringsanläggningar för turister efter kustområde och icke-kustområde (från 2012 och framåt)</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Διανυκτερεύσεις σε τουριστικά καταλύματα ανά παράκτια και μη παράκτια περιοχή (από το 2012 και μετά)</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Noci strávené v ubytovacích zařízeních cestovního ruchu podle pobřežních a nepobřežních oblastí (od roku 2012)</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4470"/>
+        <dct:description xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par zones côtières et non côtières (à partir de 2012)</dct:description>
+        <dct:identifier>tour_occ_ninatc</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a7bb651e-c9bc-4483-99b6-60f93f2f2279">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by coastal and non-coastal area (from 2012 onwards)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben für Touristen am Meer und nicht am Meer (ab 2012)</dct:title>
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/50828948-f908-4229-8467-24d3106274ba</dct:identifier>
+            <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par zones côtières et non côtières (à partir de 2012)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_occ_ninatc.sdmx.zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Overnachtingen in toeristische accommodaties per kust- en niet-kustgebied (vanaf 2012)</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/9daffa37-aff9-4d10-bcfd-f6404cf04c69">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/f1d31c42-b52a-4a69-99c1-f66ab8de9144">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="it-t-en-t0-mtec">Pernottamenti in strutture ricettive turistiche per zone costiere e non costiere (dal 2012 in poi)</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A turisztikai szálláshelyeken töltött éjszakák part menti és nem part menti területeken (2012-tól kezdődően)</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Nopți petrecute în unități de cazare turistică în funcție de zonele costiere și necostiere (începând cu 2012)</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Prenocovanie v ubytovacích zariadeniach cestovného ruchu podľa pobrežných a nepobrežných oblastí (od roku 2012)</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Ööbimised majutusettevõtetes ranniku- ja mitterannikualade kaupa (alates 2012. aastast)</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Yöpymiset majoitusliikkeissä rannikkoalueiden ja muiden alueiden mukaan (vuodesta 2012 alkaen)</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/BmEWknBsJcbYwsfIdrsaJg</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cb0b9fe4-2940-42c0-96fd-4c16490fc707">
+            <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par zones côtières et non côtières (à partir de 2012)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_occ_ninatc.tsv.gz&amp;unzip=true"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben für Touristen am Meer und nicht am Meer (ab 2012)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/29078433-4a92-471e-9163-a7a700ced8e6</dct:identifier>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by coastal and non-coastal area (from 2012 onwards)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tour_occ_esms.sdmx.zip">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/bmewknbsjcbywsfidrsajg"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tour_occ_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tour_occ_ninatc">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/bmewknbsjcbywsfidrsajg"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tour_occ_ninatc</schema:url>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tour_occ_ninatc</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Nopți petrecute în unități de cazare turistică în funcție de zonele costiere și necostiere (începând cu 2012)</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A turisztikai szálláshelyeken töltött éjszakák part menti és nem part menti területeken (2012-tól kezdődően)</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Övernattningar i inkvarteringsanläggningar för turister efter kustområde och icke-kustområde (från 2012 och framåt)</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Noites passadas em estabelecimentos de alojamento turístico por zona costeira e não costeira (a partir de 2012)</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Nakvynės, praleistos turistų apgyvendinimo įstaigose pagal pakrančių ir ne pakrančių zonas (nuo 2012 m.)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/34074daf-bc8c-4774-a70f-033bf21ed907">
+            <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by coastal and non-coastal area (from 2012 onwards)</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/f5b94ea9-8ce3-4320-bb18-93467c423bf3</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben für Touristen am Meer und nicht am Meer (ab 2012)</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par zones côtières et non côtières (à partir de 2012)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tour_occ_ninatc.tsv.gz"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-en-t0-mtec">Overnatninger på turistindlogeringsvirksomheder efter kystområde og ikkekystområde (fra 2012 og fremefter)</dct:title>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tour_occ_ninatc"/>
+        <dct:description xml:lang="de">Übernachtungen in Beherbergungsbetrieben für Touristen am Meer und nicht am Meer (ab 2012)</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Noclegi spędzone w turystycznych obiektach noclegowych w strefie przybrzeżnej i pozamorskiej (od 2012 r.)</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Ночівлі, проведені в туристичних закладах прибережної та неприбережної території (з 2012 року)</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Noćenja u turističkim smještajnim objektima po priobalnom i nekombalnom području (od 2012. nadalje)</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Нощувки в обекти за туристическо настаняване в крайбрежни и некрайбрежни райони (от 2012 г. нататък)</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Iljieli mqattgħin fi stabbilimenti ta’ akkomodazzjoni turistika skont iż-żona kostali u mhux kostali (mill-2012’il quddiem)</dct:description>
+        <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par zones côtières et non côtières (à partir de 2012)</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Διανυκτερεύσεις σε τουριστικά καταλύματα ανά παράκτια και μη παράκτια περιοχή (από το 2012 και μετά)</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Nakvynės, praleistos turistų apgyvendinimo įstaigose pagal pakrančių ir ne pakrančių zonas (nuo 2012 m.)</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/y3r8takuz1pwvt5g2a6a">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>dd329410562617848938602006487906</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T22:08:20Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:06:34Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/y3r8takuz1pwvt5g2a6a"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/y3r8takuz1pwvt5g2a6a">
+        <dct:title xml:lang="ga-t-en-t0-mtec">Trácht ar bhóithre ar chríoch náisiúnta agus eachtrach de réir cineáil agus aoise na feithicle (milliún Vkm)</dct:title>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:description xml:lang="fr">Circulation routière sur le territoire national et étranger par type et par âge du véhicule (millions de vkm)</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Cestni promet na nacionalnem in tujem ozemlju glede na vrsto in starost vozila (v milijonih Vkm)</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tieliikenne kansallisella ja ulkomaisella alueella ajoneuvotyypin ja iän mukaan (miljoonaa Vkm)</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Cestovni promet na državnom i stranom području prema vrsti i starosti vozila (u milijunima Vkm)</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Silniční doprava na vnitrostátním a cizím území podle typu a stáří vozidla (v milionech Vkm)</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Közúti forgalom belföldi és külföldi területen járműtípus és életkor szerint (millió Vkm)</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Vejtrafik på nationalt og udenlandsk område efter køretøjets type og alder (mio. Vkm)</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Cestná doprava na vnútroštátnom a cudzom území podľa typu a veku vozidla (v miliónoch Vkm)</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Kelių eismas nacionalinėje ir užsienio teritorijoje pagal transporto priemonės tipą ir amžių (mln. Vkm)</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Движение по пътищата на национална и чуждестранна територия по вид и възраст на превозното средство (милиона Vkm)</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="et-t-en-t0-mtec">Maanteeliiklus riigi ja välisriigi territooriumil sõiduki tüübi ja vanuse järgi (miljon Vkm)</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Traficul rutier pe teritoriul național și străin în funcție de tipul și vechimea vehiculului (milioane Vkm)</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-12</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/37277e62-4008-4872-847b-f07fef7aecb0">
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="en">Road traffic on national and foreign territory by type and age of vehicle (million Vkm)</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_tf_vehage.sdmx.zip"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="fr">Circulation routière sur le territoire national et étranger par type et par âge du véhicule (millions de vkm)</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/417578ee-2cad-4812-80c6-a6d59ec4caf5</dct:identifier>
+            <dct:title xml:lang="de">Straßenverkehr im In- und Ausland nach Fahrzeugtyp und -alter (Mio. Fzkm)</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Tieliikenne kansallisella ja ulkomaisella alueella ajoneuvotyypin ja iän mukaan (miljoonaa Vkm)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/ef6bd811-be4a-4e40-a87c-431552e054b8">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/4c85037f-8f31-4674-ac41-996cab45d8f7">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/road_tf_esms.htm">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/y3r8takuz1pwvt5g2a6a"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/road_tf_esms.htm</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Движение по пътищата на национална и чуждестранна територия по вид и възраст на превозното средство (милиона Vkm)</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Ruch drogowy na terytorium krajowym i zagranicznym według typu i wieku pojazdu (mln Vkm)</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/road_tf_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/road_tf_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/y3r8takuz1pwvt5g2a6a"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="de">Straßenverkehr im In- und Ausland nach Fahrzeugtyp und -alter (Mio. Fzkm)</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Traffiku fit-toroq f’territorju nazzjonali u barrani skont it-tip u l-età tal-vettura (miljuni ta’ Vkm)</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Οδική κυκλοφορία σε εθνικό και αλλοδαπό έδαφος ανά τύπο και ηλικία οχήματος (εκατομμύρια Vkm)</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Cestovni promet na državnom i stranom području prema vrsti i starosti vozila (u milijunima Vkm)</dct:description>
+        <dct:identifier>road_tf_vehage</dct:identifier>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/road_tf_vehage">
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/road_tf_vehage</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/y3r8takuz1pwvt5g2a6a"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/road_tf_vehage</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Tráfego rodoviário em território nacional e estrangeiro, por tipo e idade do veículo (milhões de Vkm)</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1b79686c-9a55-4992-9492-cc896367c929">
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="fr">Circulation routière sur le territoire national et étranger par type et par âge du véhicule (millions de vkm)</dct:title>
+            <dct:title xml:lang="en">Road traffic on national and foreign territory by type and age of vehicle (million Vkm)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/6b9c165a-2e68-4230-a404-4445b6500bc3</dct:identifier>
+            <dct:title xml:lang="de">Straßenverkehr im In- und Ausland nach Fahrzeugtyp und -alter (Mio. Fzkm)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_tf_vehage.tsv.gz"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="en">Road traffic on national and foreign territory by type and age of vehicle (million Vkm)</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="el-t-en-t0-mtec">Οδική κυκλοφορία σε εθνικό και αλλοδαπό έδαφος ανά τύπο και ηλικία οχήματος (εκατομμύρια Vkm)</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/15b16b84-016e-47d7-adc3-0443b476e266">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2013-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="et-t-en-t0-mtec">Maanteeliiklus riigi ja välisriigi territooriumil sõiduki tüübi ja vanuse järgi (miljon Vkm)</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Ceļu satiksme valsts un ārvalstu teritorijā pēc transportlīdzekļa veida un vecuma (miljonos Vkm)</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Közúti forgalom belföldi és külföldi területen járműtípus és életkor szerint (millió Vkm)</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Дорожній рух на національній та іноземній території за типом та віком транспортного засобу (мільйон Вкм)</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="de">Straßenverkehr im In- und Ausland nach Fahrzeugtyp und -alter (Mio. Fzkm)</dct:title>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/road_tf_vehage"/>
+        <dct:description xml:lang="es-t-en-t0-mtec">Tráfico por carretera en territorio nacional y extranjero por tipo y edad del vehículo (millones de Vkm)</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Traficul rutier pe teritoriul național și străin în funcție de tipul și vechimea vehiculului (milioane Vkm)</dct:description>
+        <dct:title xml:lang="fr">Circulation routière sur le territoire national et étranger par type et par âge du véhicule (millions de vkm)</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Cestná doprava na vnútroštátnom a cudzom území podľa typu a veku vozidla (v miliónoch Vkm)</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Wegverkeer op nationaal en buitenlands grondgebied naar type en leeftijd van het voertuig (miljoen Vkm)</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Kelių eismas nacionalinėje ir užsienio teritorijoje pagal transporto priemonės tipą ir amžių (mln. Vkm)</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Tráfico por carretera en territorio nacional y extranjero por tipo y edad del vehículo (millones de Vkm)</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Ceļu satiksme valsts un ārvalstu teritorijā pēc transportlīdzekļa veida un vecuma (miljonos Vkm)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Silniční doprava na vnitrostátním a cizím území podle typu a stáří vozidla (v milionech Vkm)</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Vägtrafik på nationellt och utländskt territorium efter fordonets typ och ålder (miljoner Vkm)</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Traffiku fit-toroq f’territorju nazzjonali u barrani skont it-tip u l-età tal-vettura (miljuni ta’ Vkm)</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Vejtrafik på nationalt og udenlandsk område efter køretøjets type og alder (mio. Vkm)</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Cestni promet na nacionalnem in tujem ozemlju glede na vrsto in starost vozila (v milijonih Vkm)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7e683ab0-7213-4713-b695-e6c37747b7ef">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_tf_vehage.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Circulation routière sur le territoire national et étranger par type et par âge du véhicule (millions de vkm)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Straßenverkehr im In- und Ausland nach Fahrzeugtyp und -alter (Mio. Fzkm)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Road traffic on national and foreign territory by type and age of vehicle (million Vkm)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/121141d5-c584-4269-ae94-103de4166f1c</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Trácht ar bhóithre ar chríoch náisiúnta agus eachtrach de réir cineáil agus aoise na feithicle (milliún Vkm)</dct:description>
+        <dct:title xml:lang="en">Road traffic on national and foreign territory by type and age of vehicle (million Vkm)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Traffico stradale su territorio nazionale ed estero per tipo ed età del veicolo (milioni di Vkm)</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Tráfego rodoviário em território nacional e estrangeiro, por tipo e idade do veículo (milhões de Vkm)</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Ruch drogowy na terytorium krajowym i zagranicznym według typu i wieku pojazdu (mln Vkm)</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/Y3r8taKUz1pwvt5G2a6A</dct:identifier>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Vägtrafik på nationellt och utländskt territorium efter fordonets typ och ålder (miljoner Vkm)</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Wegverkeer op nationaal en buitenlands grondgebied naar type en leeftijd van het voertuig (miljoen Vkm)</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Traffico stradale su territorio nazionale ed estero per tipo ed età del veicolo (milioni di Vkm)</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Дорожній рух на національній та іноземній території за типом та віком транспортного засобу (мільйон Вкм)</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T22:08:20Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>Y3r8taKUz1pwvt5G2a6A</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

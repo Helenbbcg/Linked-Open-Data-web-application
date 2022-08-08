@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18344606-bundesamt-fur-statistik-bfs">
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:13:15Z</edp:transReceived>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:11Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>826296c48ab5a49687252b9fe23e20a5</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>18344606@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:20Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:11Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18344606-bundesamt-fur-statistik-bfs"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18344606-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci vysokých škol podle vysokých škol a fakulty</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Foireann ag ollscoileanna ollscoile de réir ollscoile agus dáimhe</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό σε πανεπιστήμια ανά πανεπιστήμιο και σχολή</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="fr">Personnel des hautes écoles universitaires selon la haute école et le domaine d'enseignement</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Personalas universitetuose pagal universitetus ir fakultetus</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Personeel aan universitaire universiteiten per universiteit en faculteit</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Persunal fl-universitajiet universitarji mill-università u l-fakultà</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi egyetemek személyzete egyetemenként és karonként</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0d1e4e46-d6b4-4c97-989f-26ccacec5988">
+            <dct:title xml:lang="fr">Personnel des hautes écoles universitaires selon la haute école et le domaine d'enseignement</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Augstskolu koledžu personāls atbilstoši universitātei un izglītības jomai</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό πανεπιστημιακών κολεγίων σύμφωνα με το πανεπιστήμιο και τον τομέα της εκπαίδευσης</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egyetemi kollégiumok személyzete az egyetem és az oktatási terület szerint</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Hochschulpersonal nach Hochschule und Lehrbereich</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci vysokých škôl podľa univerzity a oblasti vzdelávania</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Universitetų kolegijų darbuotojai pagal universitetą ir švietimo sritį</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Korkeakoulujen henkilöstö yliopiston ja koulutusalan mukaan</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal de colegios universitarios de acuerdo con la universidad y el campo de la educación</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Personeel van universitaire hogescholen volgens de universiteit en het gebied van het onderwijs</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje sveučilišnih koledža prema sveučilištu i području obrazovanja</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann na gcoláistí ollscoile de réir na hollscoile agus réimse an oideachais</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Personel uczelni wyższych wg uczelni i dziedziny edukacji</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Personale på universitetskollegier i henhold til universitetet og uddannelsesområdet</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zaměstnanci vysokých škol podle univerzity a oboru vzdělávání</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Співробітники університетських коледжів за даними університету та галузі освіти</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18344610/master"/>
+            <dct:identifier>18344610-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal das faculdades universitárias de acordo com a universidade e o campo da educação</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Персонал на университетски колежи според университета и областта на образованието</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale dei collegi universitari secondo l'università e il campo dell'istruzione</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal ta ‘kulleġġi universitarji skont l-università u l-qasam tal-edukazzjoni</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Staff of university colleges according to the university and the field of education</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Personal vid högskolor enligt universitetet och utbildningsområdet</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18344610/master"/>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikooli kolledžite personal vastavalt ülikoolile ja haridusvaldkonnale</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje univerzitetnih šol glede na univerzo in področje izobraževanja</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personalul colegiilor universitare în funcție de universitate și de domeniul educației</dct:title>
+            <dct:format>XLS</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d8b7c0b7-cbda-4870-9724-6251b0dbf2da">
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Personel uczelni wyższych wg uczelni i dziedziny edukacji</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Hochschulpersonal nach Hochschule und Lehrbereich</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Augstskolu koledžu personāls atbilstoši universitātei un izglītības jomai</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci vysokých škôl podľa univerzity a oblasti vzdelávania</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.04.04.01.01"/>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό πανεπιστημιακών κολεγίων σύμφωνα με το πανεπιστήμιο και τον τομέα της εκπαίδευσης</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Personal vid högskolor enligt universitetet och utbildningsområdet</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje univerzitetnih šol glede na univerzo in področje izobraževanja</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Personeel van universitaire hogescholen volgens de universiteit en het gebied van het onderwijs</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal ta ‘kulleġġi universitarji skont l-università u l-qasam tal-edukazzjoni</dct:title>
+            <dct:identifier>18344610-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Korkeakoulujen henkilöstö yliopiston ja koulutusalan mukaan</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fr">Personnel des hautes écoles universitaires selon la haute école et le domaine d'enseignement</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zaměstnanci vysokých škol podle univerzity a oboru vzdělávání</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal de colegios universitarios de acuerdo con la universidad y el campo de la educación</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal das faculdades universitárias de acordo com a universidade e o campo da educação</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personalul colegiilor universitare în funcție de universitate și de domeniul educației</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Staff of university colleges according to the university and the field of education</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann na gcoláistí ollscoile de réir na hollscoile agus réimse an oideachais</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Personale på universitetskollegier i henhold til universitetet og uddannelsesområdet</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje sveučilišnih koledža prema sveučilištu i području obrazovanja</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Universitetų kolegijų darbuotojai pagal universitetą ir švietimo sritį</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Співробітники університетських коледжів за даними університету та галузі освіти</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Персонал на университетски колежи според университета и областта на образованието</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikooli kolledžite personal vastavalt ülikoolile ja haridusvaldkonnale</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale dei collegi universitari secondo l'università e il campo dell'istruzione</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egyetemi kollégiumok személyzete az egyetem és az oktatási terület szerint</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje na sveučilišnim sveučilištima po sveučilištu i fakultetu</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Staff at university universities by university and faculty</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci na univerzitných univerzitách podľa univerzity a fakulty</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/432e78b9-002d-45b5-a72f-e6f329289219">
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal la universitățile universitare după universitate și facultate</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ülikooliülikoolide töötajad ülikooli ja õppejõudude kaupa</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal em universidades universitárias por universidade e faculdade</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники університетських університетів за університетами та викладачами</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci na univerzitných univerzitách podľa univerzity a fakulty</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje na univerzitetnih univerzah na univerzah in fakultetah</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Augstskolu augstskolu personāls pēc universitātes un fakultātes</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale presso università universitarie per università e docenti</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.04.04.01.01"/>
+            <dct:identifier>18344609-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Personal vid universitet efter universitet och fakultet</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci vysokých škol podle vysokých škol a fakulty</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen henkilöstö yliopistoittain ja tiedekunnittain</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pracownicy uniwersytetów według uniwersytetów i wydziałów</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό σε πανεπιστήμια ανά πανεπιστήμιο και σχολή</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi egyetemek személyzete egyetemenként és karonként</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje na sveučilišnim sveučilištima po sveučilištu i fakultetu</dct:title>
+            <dct:title xml:lang="de">Personal an universitären Hochschulen nach Hochschule und Fachbereich</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал в университетски университети от университети и преподаватели</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Foireann ag ollscoileanna ollscoile de réir ollscoile agus dáimhe</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel universitaire par établissement d’enseignement supérieur et par domaine d’études</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades universitarias por universidad y facultad</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal fl-universitajiet universitarji mill-università u l-fakultà</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="da-t-de-t0-mtec">Personale på universitetsuniversiteter efter universitet og fakultet</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Personalas universitetuose pagal universitetus ir fakultetus</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Staff at university universities by university and faculty</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Personeel aan universitaire universiteiten per universiteit en faculteit</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-08-27T00:00:00</dct:issued>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Osebje na univerzitetnih univerzah na univerzah in fakultetah</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Персонал в университетски университети от университети и преподаватели</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Pracownicy uniwersytetów według uniwersytetów i wydziałów</dct:title>
+        <dct:identifier>18344606@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:08:39.474588</dct:modified>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="de">Personal an universitären Hochschulen nach Hochschule und Fachbereich</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades universitarias por universidad y facultad</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.04.04.01.01"/>
+        <dcat:keyword xml:lang="it">personale-universitario</dcat:keyword>
+        <dcat:keyword xml:lang="de">hochschulpersonal</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники університетських університетів за університетами та викладачами</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal em universidades universitárias por universidade e faculdade</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3ce9b299-e875-49ce-9e13-2402c69c6247">
+            <dct:title xml:lang="lv-t-de-t0-mtec">Augstskolu augstskolu personāls pēc universitātes un fakultātes</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18344609/master"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal em universidades universitárias por universidade e faculdade</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Foireann ag ollscoileanna ollscoile de réir ollscoile agus dáimhe</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades universitarias por universidad y facultad</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники університетських університетів за університетами та викладачами</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Personale på universitetsuniversiteter efter universitet og fakultet</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal fl-universitajiet universitarji mill-università u l-fakultà</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen henkilöstö yliopistoittain ja tiedekunnittain</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Personalas universitetuose pagal universitetus ir fakultetus</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci na univerzitných univerzitách podľa univerzity a fakulty</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Personal vid universitet efter universitet och fakultet</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-27T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ülikooliülikoolide töötajad ülikooli ja õppejõudude kaupa</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale presso università universitarie per università e docenti</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel universitaire par établissement d’enseignement supérieur et par domaine d’études</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал в университетски университети от университети и преподаватели</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="de">Personal an universitären Hochschulen nach Hochschule und Fachbereich</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18344609/master"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:modified>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pracownicy uniwersytetów według uniwersytetów i wydziałów</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi egyetemek személyzete egyetemenként és karonként</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Personeel aan universitaire universiteiten per universiteit en faculteit</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci vysokých škol podle vysokých škol a fakulty</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό σε πανεπιστήμια ανά πανεπιστήμιο και σχολή</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Staff at university universities by university and faculty</dct:title>
+            <dct:identifier>18344609-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje na univerzitetnih univerzah na univerzah in fakultetah</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje na sveučilišnim sveučilištima po sveučilištu i fakultetu</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal la universitățile universitare după universitate și facultate</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="da-t-de-t0-mtec">Personale på universitetsuniversiteter efter universitet og fakultet</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="en">university-staff</dcat:keyword>
+        <dct:title xml:lang="it-t-de-t0-mtec">Personale presso università universitarie per università e docenti</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Personal vid universitet efter universitet och fakultet</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen henkilöstö yliopistoittain ja tiedekunnittain</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Personal la universitățile universitare după universitate și facultate</dct:title>
+        <dcat:keyword xml:lang="fr">personnel-des-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ülikooliülikoolide töötajad ülikooli ja õppejõudude kaupa</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Augstskolu augstskolu personāls pēc universitātes un fakultātes</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

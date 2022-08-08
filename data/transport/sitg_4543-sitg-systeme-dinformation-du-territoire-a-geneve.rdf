@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <vcard:Organization/>
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:bassem.haddad@etat.ge.ch"/>
+  </rdf:Description>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/sitg_4543-sitg-systeme-dinformation-du-territoire-a-geneve">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:26Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T12:45:47Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:26Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:08:12Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/sitg_4543-sitg-systeme-dinformation-du-territoire-a-geneve">
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:description xml:lang="el-t-de-t0-mtec">Περιμετρικά των οδών NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routees et propriété de l’OFROU sont appelé UH-PERI (διατήρηση περιμέτρου) ou διαδρομές d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Περιμετρικά των οδών NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routees et propriété de l’OFROU sont appelé UH-PERI (διατήρηση περιμέτρου) ou διαδρομές d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmčtre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (išlaikantis perimetrą) ou route d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genčve. Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmčtre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (išlaikantis perimetrą) ou route d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genčve.</dct:description>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-12-13T00:00:00</dct:issued>
+        <dct:title xml:lang="fi-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN JA PROPRIETE CONFEDERATION</dct:title>
+        <dct:identifier>SITG_4543@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (bevarande omkrets) ou rutter d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (bevarande omkrets) ou rutter d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/88663656-9bac-4a8f-bcb3-dc72611e3a66">
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stáhněte si</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Завантажити</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Descargar</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Les Données vektoraalne sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf erand, les formaate suivant sont proposés: Kujund (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Le Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) agus coinníollacha générales d’utilization (.pdf). Eisceacht Sauf, formáidí les suivant sont proposés:
+Cruth (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Les Données wektorowy sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Wyjątek sauf, les format suivant sont proposés: Kształt (ESRI) – Geodatabase-Plik (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Letöltés</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Les Données vektorial sont Disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les uvjeti générales d’utilisation (.pdf). Iznimka sauf, les formati suivant sont proposés: Oblik (ESRI) – Geopodatkovna baza podataka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Parsisiųsti</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/4f7689e5-054e-404e-b6af-965ae3aaee0f/resource/9c6b2465-e426-442e-8b92-85fc23981ec2</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="en">Download</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="it">Download</dct:title>
+            <dct:title xml:lang="fr">Download</dct:title>
+            <dct:title xml:lang="de">Download</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Descărcați</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Baixar o site</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Preuzimanje datoteka</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepție sauf, les formate suivant sont proposés: Formă (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf uitzondering, les formats suivant sont proposés: Vorm (ESRI) — Geodatabase-Bestand (ESRI) — GML — KML — CSV</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2017-12-13T00:00:00</dct:issued>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf išimtis, les formats suivant sont proposés: Forma (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilization (.pdf). Undtagelse fra sauf, les formater suivant sont proposés: Form (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изтегляне</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ladda ner</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Niżżel</dct:title>
+            <dct:description xml:lang="en">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="it">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="de">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="fr">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Le Données vektoros sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf kivétel, les formátumok suivant sont proposés: Alak (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Laadi alla</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Les Données vektorski sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les pogoji générales d’utilisation (.pdf). Izjema sauf, les formati suivant sont proposéji:
+Oblika (ESRI) – geopodatkovna zbirka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf izņēmums, les formāti suivant sont proposés: Forma (ESRI) — Ģeodatu bāze-File (ESRI) — GML — KML — CSV</dct:description>
+            <dcat:accessURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/4543"/>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Les Données vctorial sont disponibles sous forme de fichiers.zip, včetně la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf výjimka, les formáty suivant sont proposés: Tvar (ESRI) – Geodatabázový soubor (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Les Données vektortorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Výnimka sauf, les formats suivant sont proposés: Tvar (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepción de sauf, les formatos suivant sont proposés: Forma (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Lataa</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Εξαίρεση Sauf, les formats suivant sont proposés: Σχήμα (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dcat:downloadURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/4543"/>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Les Données vektoriella sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Sauf undantag, les format suivant sont proposés:
+Form (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Íoslódáil</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-25T00:00:00</dct:modified>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pobierz</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prenesi</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf) Sauf-poikkeus, les formaatit suivant sont proposés: Muoto (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Les Données векторен Sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) инси que les conditions générales d’utilization (.pdf). Sauf изключение, les formats suivant Sont предложения: Форма (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les умов générales d'utilisation (.pdf). SAUF виняток, les формати suivant sont пропозиції: Форма (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, inklużi la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Eċċezzjoni Sauf, formati les suivant sont proposés:
+Forma (ESRI) — Ġeodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κατεβάστε</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Les Données vetorial sont disponibles sous forme de fichiers.zip, incluindont la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Exceção de sauf, les formatos suivant sont proposés: Shape (ESRI) — Geodatabase-Arquivo (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lejupielādēt Lejupielādēt</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stiahnuť</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/4543"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE KONFEDERÁCIA</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (поддържащ периметър) ou маршрути d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:language>fr</dct:language>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dct:description xml:lang="hu-t-de-t0-mtec">További részletek A ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (fenntartási kerület) ou route d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. További részletek A ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (fenntartási kerület) ou route d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:description xml:lang="it">PERIMETRE D'ENTRETIEN DES ROUTES NATIONALES ET PROPRIETE DE LA CONFEDERATION Les parcelles des axes routiers faisant partie du périmètre d'entretien des routes nationales et propriété de l'OFROU sont appelé UH-PERI (Unterhaltsperimeter) ou routes d'entretien. Elle sont administrées par la Confédération et /ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="en">PERIMETRE D'ENTRETIEN DES ROUTES NATIONALES ET PROPRIETE DE LA CONFEDERATION Les parcelles des axes routiers faisant partie du périmètre d'entretien des routes nationales et propriété de l'OFROU sont appelé UH-PERI (Unterhaltsperimeter) ou routes d'entretien. Elle sont administrées par la Confédération et /ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="de">PERIMETRE D'ENTRETIEN DES ROUTES NATIONALES ET PROPRIETE DE LA CONFEDERATION Les parcelles des axes routiers faisant partie du périmètre d'entretien des routes nationales et propriété de l'OFROU sont appelé UH-PERI (Unterhaltsperimeter) ou routes d'entretien. Elle sont administrées par la Confédération et /ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="fr">PERIMETRE D'ENTRETIEN DES ROUTES NATIONALES ET PROPRIETE DE LA CONFEDERATION Les parcelles des axes routiers faisant partie du périmètre d'entretien des routes nationales et propriété de l'OFROU sont appelé UH-PERI (Unterhaltsperimeter) ou routes d'entretien. Elle sont administrées par la Confédération et /ou par délégation au canton de Genève.</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Perimetru D’ENTRES TAR-ROUTES ET NAZZJONALI Propriete DE LA CONFEDERATION Les Parcelles des assets routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (li jżommu l-perimetru) ou rotot d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/SITG_4543">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Периметр ДОСЛІДЖЕННЯ ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d'entretien des nationales et propriété de l'OFROU sont appelé UH-PERI (зберігання периметра) ou route d'entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Периметр ДОСЛІДЖЕННЯ ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d'entretien des nationales et propriété de l'OFROU sont appelé UH-PERI (зберігання периметра) ou route d'entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/sitg-systeme-dinformation-du-territoire-a-geneve">
+            <foaf:name>Service de la promotion économique</foaf:name>
+            <foaf:name>Office cantonal de l'agriculture et de la nature</foaf:name>
+            <foaf:name>Office du patrimoine et des sites</foaf:name>
+            <foaf:name>Direction générale de la santé</foaf:name>
+            <foaf:name>Direction de l'information du territoire</foaf:name>
+            <foaf:name>Office cantonal de la culture et du sport</foaf:name>
+            <foaf:name>Office cantonal de l'énergie</foaf:name>
+            <foaf:name>Conservatoire et Jardin botaniques de la Ville de Genève</foaf:name>
+            <foaf:name>Fondation pour les terrains industriels de Genève (FTI)</foaf:name>
+            <foaf:name>Direction générale de l'enseignement secondaire II</foaf:name>
+            <foaf:name>Service de l'inventaire des monuments d'art et d'histoire</foaf:name>
+            <foaf:name>Direction générale de l'Office Médico-Pédagogique</foaf:name>
+            <foaf:name>Haute école spécialisée HES-SO Genève</foaf:name>
+            <foaf:name>Office cantonal des transports</foaf:name>
+            <foaf:name>Service de géologie, sols et déchets</foaf:name>
+            <foaf:name>Office cantonal du génie civil</foaf:name>
+            <foaf:name>Office des autorisations de construire</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des assen routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (handhaving perimeter) ou routes d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE KONFEDERACE</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (ylläpitävä kehä) ou routes d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.etat.ge.ch/geoportail/pro/?portalresources=DGC_OFROU_UHPERI">
+            <rdfs:label>"Lien vers le géoportail SITG pour prévisualisation de la donnée"</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (udržovací obvod) ou route d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (udržovací obvod) ou route d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">PERÍMETRO D’ENTRETIEN RN E CONFEDERAÇÃO PROPRIETE</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (utrzymanie obwodu) ou routes d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (zachovanie obvodu) ou trasy d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (održavanje perimetra) ou rute d’entretien. Elle Sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (održavanje perimetra) ou rute d’entretien.
+Elle Sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">PERIMETER D'ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Perimetre D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (uztur perimetra) ou route d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:title xml:lang="ro-t-de-t0-mtec">PERIMETRU D’ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE KONFEDERACJA</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE CONFEDERATIE</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE KONFEDERACIJA</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">ПЕРИМЕТР D'ENTRETIEN RN ET PROPRIETE КОНФЕДЕРАЦІЯ</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">ПЕРИМЕТЪР D’ENTRETIEN RN ET PROPRIETE КОНФЕДЕРАЦИЯ</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:title xml:lang="es-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE CONFEDERACIÓN</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://ge.ch/sitgags1/rest/services/VECTOR/SITG_OPENDATA_01/MapServer/">
+            <rdfs:label>Les services sont exposés au travers de l'API REST d'ArcGIS Server. Interfaces supportées : REST - SOAP - WMS - WFS</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="et-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN ET PROPRIETE KONFÖDERATSIOON</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">D’ENTRES of the ROUTAL ET Propriete DE LA CONFEDERATION Les Parcelles des aiseanna routiers faisant partie du périmètre d’entretien des nationales et propriété de l’OFROU sont appelé UH-PERI (a choimeád ar bun imlíne) ou bealaí d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. D’ENTRES of the ROUTAL ET Propriete DE LA CONFEDERATION Les Parcelles des aiseanna routiers faisant partie du périmètre d’entretien des nationales et propriété de l’OFROU sont appelé UH-PERI (a choimeád ar bun imlíne) ou bealaí d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Perímetro D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (manutenção de perímetro) ou rotas de Entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perímetro D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (manutenção de perímetro) ou rotas de Entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Perimetrul D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routees et propriété de l’OFROU sont appelé UH-PERI (menținerea perimetrului) ou route d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimetrul D’ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routees et propriété de l’OFROU sont appelé UH-PERI (menținerea perimetrului) ou route d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Perimetre D’ENTRES ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (ohranjanje oboda) ou poti d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimetre D’ENTRES ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (ohranjanje oboda) ou poti d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Perimeter D'ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d'entretien des routes nationales et propriété de l'OFROU sont appelé UH-PERI (vedligeholdelse af perimeter) på ruterne d'entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimeter D'ENTRES OF THE ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d'entretien des routes nationales et propriété de l'OFROU sont appelé UH-PERI (vedligeholdelse af perimeter) på ruterne d'entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:title xml:lang="en">PERIMETRE D'ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:title xml:lang="de">PERIMETRE D'ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:title xml:lang="it">PERIMETRE D'ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:title xml:lang="fr">PERIMETRE D'ENTRETIEN RN ET PROPRIETE CONFEDERATION</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Perimetre D’ENTRES OF the ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (säilitades perimeetrit) ou liinid d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimetre D’ENTRES OF the ROUTES NATIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des route nationales et propriété de l’OFROU sont appelé UH-PERI (säilitades perimeetrit) ou liinid d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">PERIMETRE D’ENTRETIEN RN AGUS CÓNAIDHM PROPRIETE</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">PERIMETRU D’ENTRETIEN RN ET PROPRIETE KONFEDERAZZJONI</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Perimetre D’ENTRES DE LAS ROUTES NACIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (perímetro de mantenimiento) ou route d’entretien. Elle sont administrées par la Confédération et/ou par délégation au canton de Genève. Perimetre D’ENTRES DE LAS ROUTES NACIONAL ET Propriete DE LA CONFEDERATION Les Parcelles des axes routiers faisant partie du périmètre d’entretien des routes nationales et propriété de l’OFROU sont appelé UH-PERI (perímetro de mantenimiento) ou route d’entretien.
+Elle sont administrées par la Confédération et/ou par délégation au canton de Genève.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-05-25T00:00:00</dct:modified>
+        <dct:title xml:lang="hu-t-de-t0-mtec">PERIMÉTER D’ENTRETIEN RN ET PROPRIETE KONFÖDERÁCIÓ</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/sitg_4543-sitg-systeme-dinformation-du-territoire-a-geneve"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>849612a7c9579bda051737223917f361</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>SITG_4543@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+  <rdf:Description>
+    <vcard:fn>bassem.haddad@etat.ge.ch</vcard:fn>
+  </rdf:Description>
+</rdf:RDF>

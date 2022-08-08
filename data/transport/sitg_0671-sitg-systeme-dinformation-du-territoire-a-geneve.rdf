@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:yves.philipp@etat.ge.ch"/>
+  </rdf:Description>
+  <vcard:Organization/>
+  <rdf:Description>
+    <vcard:fn>yves.philipp@etat.ge.ch</vcard:fn>
+  </rdf:Description>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/sitg_0671-sitg-systeme-dinformation-du-territoire-a-geneve">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:27Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/sitg_0671-sitg-systeme-dinformation-du-territoire-a-geneve"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/sitg_0671-sitg-systeme-dinformation-du-territoire-a-geneve">
+        <dct:title xml:lang="bg-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET LEVEL I EN LINGERIE DU SOL</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET NÍVEL I EN LINGERIE DU SOL</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Répartition par nivå: Les objets définissant la couverture du sol ”Domaine routier” sont répartis selon leur level par rapport au sol. Häll cela 5 klasser d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2:
+Le deuxième nivå au dessous du sol – cad_domroutier_objets_niv_1:
+La yta au dessous du level du sol – cad_domroutier_objets_niv0:
+La surface au level du sol – cad_domroutier_objets_niv1:
+La surface surélevée – cad_domroutier_objets_niv2:
+Le deuxième level au dessus du sol Typer d’objets:
+L’infrastructure de la couverture du sol ”Domaine routier” est cataloguée en 10 objets distinktioner:
+— Chaussée – chemin – espace de stationnement – îlot – parkering – pistcyklister – plats d’aviation – plats propre pour transports en commun – surface latérale – trottoir Natures de revêtements:
+Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets:
+cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="de">Répartition par niveau : Les objets définissant la couverture du sol « Domaine routier » sont répartis selon leur niveau par rapport au sol. Pour cela 5 classes d'objets, chacune regroupant des éléments de même niveau sont disponibles, à savoir : - cad_domroutier_objets_niv_2 : le deuxième niveau au dessous du sol - cad_domroutier_objets_niv_1 : la surface au dessous du niveau du sol - cad_domroutier_objets_niv0 : la surface au niveau du sol - cad_domroutier_objets_niv1 : la surface surélevée - cad_domroutier_objets_niv2 : le deuxième niveau au dessus du sol Types d'objets : L'infrastructure de la couverture du sol « Domaine routier » est cataloguée en 10 objets distincts : - chaussée - chemin - espace de stationnement - îlot - parking - piste cyclable - place d'aviation - site propre pour transports en commun - surface latérale - trottoir Natures de revêtements : Les natures de revêtement des différents objets sont disponibles en utilisant la classe d'objets : cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="en">Répartition par niveau : Les objets définissant la couverture du sol « Domaine routier » sont répartis selon leur niveau par rapport au sol. Pour cela 5 classes d'objets, chacune regroupant des éléments de même niveau sont disponibles, à savoir : - cad_domroutier_objets_niv_2 : le deuxième niveau au dessous du sol - cad_domroutier_objets_niv_1 : la surface au dessous du niveau du sol - cad_domroutier_objets_niv0 : la surface au niveau du sol - cad_domroutier_objets_niv1 : la surface surélevée - cad_domroutier_objets_niv2 : le deuxième niveau au dessus du sol Types d'objets : L'infrastructure de la couverture du sol « Domaine routier » est cataloguée en 10 objets distincts : - chaussée - chemin - espace de stationnement - îlot - parking - piste cyclable - place d'aviation - site propre pour transports en commun - surface latérale - trottoir Natures de revêtements : Les natures de revêtement des différents objets sont disponibles en utilisant la classe d'objets : cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="fr">Répartition par niveau : Les objets définissant la couverture du sol « Domaine routier » sont répartis selon leur niveau par rapport au sol. Pour cela 5 classes d'objets, chacune regroupant des éléments de même niveau sont disponibles, à savoir : - cad_domroutier_objets_niv_2 : le deuxième niveau au dessous du sol - cad_domroutier_objets_niv_1 : la surface au dessous du niveau du sol - cad_domroutier_objets_niv0 : la surface au niveau du sol - cad_domroutier_objets_niv1 : la surface surélevée - cad_domroutier_objets_niv2 : le deuxième niveau au dessus du sol Types d'objets : L'infrastructure de la couverture du sol « Domaine routier » est cataloguée en 10 objets distincts : - chaussée - chemin - espace de stationnement - îlot - parking - piste cyclable - place d'aviation - site propre pour transports en commun - surface latérale - trottoir Natures de revêtements : Les natures de revêtement des différents objets sont disponibles en utilisant la classe d'objets : cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Répartition par level: Les objets définissant la couverture du sol „Domaine routier” sont répartis selon leur level par rapport au sol. 5 class d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1: La surface au dessous du level du sol – cad_domroutier_objets_niv0: La surface au level du sol – cad_domroutier_objets_niv1: La surface surélevée – cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Teksty Piosenek, Tłumaczenia Piosenek L’infrastructure de la couverture du sol „Domaine routier” est cataloguée en 10 objets differents: — Chaussée – chemin – espace de stationnement – îlot – parking – trate cyclable – place d’aviation – site propre pour transports en commun – surface latérale – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Répartition par level: répartition par level: Les objets définissant la couverture du sol „Domaine routier“ sont répartis selon leur level par rapport au sol. Pour cela 5 class d’objets, chacune regroupant des même level sont disponibles, ą savoir: – cad_domroutier_objets_niv_2: Le deuxičme level au dessous du sol – cad_domroutier_objets_niv_1: La surface au dessous du level du sol – cad_domroutier_objets_niv0: La surface au level du sol – cad_domroutier_objets_niv1: La surface surélevée – cad_domroutier_objets_niv2: Le deuxičme level au dessus du sol Tipas d’objets: L’infrastructure de la couverture du sol „Domaine routier“ est catalogueuée en 10 objets distincts: – Chaussée – chemin – espace de stationnement – îlot – parking – piste cyclable – place d’aviation – site propre pour transports en commun – surface latérale – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilizant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET LEVEL I EN LINGERIE DU SOL</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2007-01-01T00:00:00</dct:issued>
+        <dct:title xml:lang="es-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET LEVEL I EN LINGERIE DU SOL</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Répartition par razina: Les objets définissant la couverture du sol „Domaine routier” sont répartis selon leur razina par rapport au sol. Sipati cela 5 klase d’objets, chacune regroupant des éléments de même level sont Disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième razina au dessous du sol – cad_domroutier_objets_niv_1: La površina au dessous du level du sol – cad_domroutier_objets_niv0: La površina au level du sol – cad_domroutier_objets_niv1: La površina surélevée – cad_domroutier_objets_niv2: Le deuxième razina au dessus du sol Types d’objets: L’infrastructure de la couverture du sol „Domaine routier” est cataloguée en 10 objets razlikuje: — Chaussée – Chemin – Espace de Stationnement – îlot – parking – staza za bicikliranje – mjesto d’aviation – lokacija propre pour transports en commun – površinska latérale – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont Disponibles en utilisant la classe d’objets: Cad_domroutier_revetements</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">HOTELLER I NÆRHEDEN AF COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET LEVEL I EN LINGERI DU SOL</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – TUNNETUIN ESITTÄJÄ ALUSVAATTEET DU SOL</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Répartition par -taso: Les objets définissant la couverture du sol ”Domaine routier” sont répartis selon leur level par rapport au sol. Kaada cela 5 luokat d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1: La surface au dessous du level du sol – cad_domroutier_objets_niv0: La pinta au level du sol – cad_domroutier_objets_niv1: Pinta surélevée – cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Tyypit d’objets: L’infrastructure de la couverture du sol ”Domaine routier” est catalogueuée en 10 objets-erittelyä: — Chaussée – chemin – espace de stationnement – îlot – parking – rinne syclable – place d’aviation – site propre pour transports en commun – surface latérale – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets Näytä tarkat tiedot cad_domroutier_revetements</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET LEVEL I EN PESU DU SOL</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET LEVEL I EN PERILOIE DU SOL</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Ниво на преразпределение: Les objets définissant la couverture du sol „Domaine routier“ sont répartis selon leur level par rapport au sol. Pour cela 5 class d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol — cad_domroutier_objets_niv_1: La surface au dessous du level du sol — cad_domroutier_objets_niv0: La surface au level du sol — cad_domroutier_objets_niv1: La surface surélevée — cad_domroutier_objets_niv2: Le deuxième ниво au dessus du sol Types d’objets: L’infrastructure de la couverture du sol „Domaine routier“ est catalogueuée en 10 objets differents: — Chaussée — chemin — espace de stationnement — îlot — паркинг — писта циклируем — място d’aviation — място propre pour transports en commun — surface latérale — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — CHOMH MAITH LE LEIBHÉAL OBJET MÉ AGUS LINGERIE DU SOL</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Répartition par level: Les objets définissant la couverture du sol “Domaine routier” sont répartis selon leibhéal leur par rapport au sol. Doirt cela 5 ranganna d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Leibhéal deuxième au dessous du sol — cad_domroutier_objets_niv_1: Dromchla au dessous du level du sol — cad_domroutier_objets_niv0: Dromchla au leibhéal du sol — cad_domroutier_objets_niv1: La dromchla surélevée — cad_domroutier_objets_niv2: Le deuxième leibhéal au dessus du sol Cineálacha d’objets: L’infrastructure de la couverture du sol “Domaine routier” an chatalóguée agus 10 objets ar leith: — Chaussée — chemin — espace de stationnement — îlot — páirceáil — piste cyclable — place d’aviation — propre site transports en commun — LATÉRALE dromchla — trottoirs de revêtements: Allah warns a seirbhísigh leis a chuid Word: cad_domroutier_revetements</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.etat.ge.ch/geoportail/pro/?portalresources=CAD_DOMROUTIER_OBJETS_NIV_1">
+            <rdfs:label>"Lien vers le géoportail SITG pour prévisualisation de la donnée"</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="sv-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET NIVÅ I EN UNDERKLÄDER DU SOL</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET LEVEL I EN ΕΣΏΡΟΥΧΑ DU SOL</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER - PAR OBJET РІВЕНЬ I EN БІЛИЗНА DU SOL</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/sitg-systeme-dinformation-du-territoire-a-geneve">
+            <foaf:name>Service de l'air, du bruit et des rayonnements non ionisants</foaf:name>
+            <foaf:name>Service du projet d'agglomération</foaf:name>
+            <foaf:name>Office cantonal de la statistique</foaf:name>
+            <foaf:name>Direction générale du projet Praille-Acacias-Vernets (PAV)</foaf:name>
+            <foaf:name>Office cantonal de l'agriculture et de la nature</foaf:name>
+            <foaf:name>Office du patrimoine et des sites</foaf:name>
+            <foaf:name>Direction générale de la santé</foaf:name>
+            <foaf:name>Direction de l'information du territoire</foaf:name>
+            <foaf:name>Conservatoire et Jardin botaniques de la Ville de Genève</foaf:name>
+            <foaf:name>Office cantonal de l'énergie</foaf:name>
+            <foaf:name>Office cantonal de l'eau</foaf:name>
+            <foaf:name>Direction générale de l'enseignement secondaire II</foaf:name>
+            <foaf:name>Service de l'inventaire des monuments d'art et d'histoire</foaf:name>
+            <foaf:name>Université de Genève</foaf:name>
+            <foaf:name>Direction générale de l'Office Médico-Pédagogique</foaf:name>
+            <foaf:name>Office cantonal des transports</foaf:name>
+            <foaf:name>Service de géologie, sols et déchets</foaf:name>
+            <foaf:name>Direction générale de l'enseignement obligatoire</foaf:name>
+            <foaf:name>Service écoles-médias (SEM)</foaf:name>
+            <foaf:name>Office cantonal du génie civil</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/construction"/>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Repartition par level: Les objets définissant la couverture du sol «Domaine routier» sont répartis selon leur nível par rapport au sol. Pour cela 5 classes d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol — cad_domroutier_objets_niv_1: La surface au dessous du level du sol — cad_domroutier_objets_niv0: La surface au level du sol — cad_domroutier_objets_niv1: La surface surélevée — cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Tipos d’objets: L’infrastructure de la couverture du sol «Domaine routier» est cataloguée en 10 objets distintos: — Chaussée — chemin — espace de stationnement — îlot — parque — pista ciclável — place d’aviation — site propre pour transports en commun — surface latérale — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la class d’objets: cad_domroutier_revetements</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/SITG_0671">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Repartition par level: Les objets définissant la couverture du sol „Domaine routier“ sont répartis selon leur level par rapport au sol. Pour cela 5 class d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2:
+Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1:
+La surface au dessous du level du sol – cad_domroutier_objets_niv0:
+La surface au level du sol – cad_domroutier_objets_niv1:
+La surface surélevée – cad_domroutier_objets_niv2:
+Le deuxième level au dessus du sol Typy d’objets:
+L’infrastructure de la couverture du sol „Domaine routier“ est katalóguée en 10 objets odlišnosti:
+— Chaussée – chemin – espace de stationnement – îlot – parkovanie – cyklovateľné zjazdovky – miesto d’aviation – site propre pour transports en commun – surface latérale – trottoir Natures de revêtements:
+Les natures de REVTEMENT des différents objets sont disponibilitys en utilisant la classe d’objets:
+cad_domroutier_revetements</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="hu-t-de-t0-mtec">HOZZÁSZÓLÁSOK A KÖVETKEZŐHÖZ: COUVERTURE DU SOL DOMAINE ROUTIER – PAR</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Répartition par level: Les objets définissant la couverture du sol „Domaine routier“ synt répartis selon leur level par rapport au sol. Pour cela 5 class d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1: La surface au dessous du level du sol – cad_domroutier_objets_niv0: La surface au level du sol – cad_domroutier_objets_niv1: La surface surélevée – cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Typy d’objets: L’infrastruktura de la couverture du sol „Domaine routier“ est kataloguée en 10 objets differents: — Chaussée – chemin – espace de stationnement – îlot – parkoviště – sjezdovka na kole – místo d’aviation – site propre pour transports en commun – surface latérale – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Répartition par līmenis: Les objets définissant la couverture du sol “Domaine routier” sont répartis selon leur level par rapport au sol. Pour cela 5 class d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième līmenis au dessous du sol — cad_domroutier_objets_niv_1: La surface au dessous du level du sol — cad_domroutier_objets_niv0: La surface au level du sol — cad_domroutier_objets_niv1: La surface surélevée — cad_domroutier_objets_niv2: Le deuxième līmenis au dessus du sol Tipss d’objets: L’infrastructure de la couverture du sol “Domaine routier” est catalogueuée en 10 objets differents: — Chaussée — chemin — espace de stationnement — îlot — autostāvvieta — piste cyclable — place d’aviation — site propre pour transports en commun — surface latérale — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="el-t-de-t0-mtec">Επίπεδο répartition par: Les objets définissant la couverture du sol «Domaine routier» sont répartis selon leur level par rapport au sol. Pour cela 5 classes d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol — cad_domroutier_objets_niv_1: La surface au dessous du level du sol — cad_domroutier_objets_niv0: La surface au level du sol — cad_domroutier_objets_niv1: La surface surélevée — cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Τύποι d’objets: L’infrastructure de la couverture du sol «Domaine routier» est listuée en 10 αντικείμενα διακριτά: — Chaussée — chemin — espace de stationnement — îlot — parking — piste cyclable — place d’aviation — site propre pour transports en commun — surface latérale — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:title xml:lang="it">COUVERTURE DU SOL DOMAINE ROUTIER - PAR OBJET NIVEAU I EN DESSOUS DU SOL</dct:title>
+        <dct:title xml:lang="en">COUVERTURE DU SOL DOMAINE ROUTIER - PAR OBJET NIVEAU I EN DESSOUS DU SOL</dct:title>
+        <dct:title xml:lang="de">COUVERTURE DU SOL DOMAINE ROUTIER - PAR OBJET NIVEAU I EN DESSOUS DU SOL</dct:title>
+        <dct:title xml:lang="fr">COUVERTURE DU SOL DOMAINE ROUTIER - PAR OBJET NIVEAU I EN DESSOUS DU SOL</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET LEVEL I A SPODNÍ PRÁDLO DU SOL</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET LEVEL I EN BIELIZNA DU SOL</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET LEVEL I EN SPODNÁ BIELIZEŇ</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET RAZINA I EN DONGERIE DU SOL</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Répartition par level: Les objets définissant la couverture du sol „Domaine routier“ sont répartis selon leur ravni par rapport au sol. Pour cela 5 razredi d’objets, chacune regroupant des éléments de même ravni sont disponibles, à savoir: — cad_domroutier_objets_niv_2:
+Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1:
+La surface au dessous du level du sol – cad_domroutier_objets_niv0:
+La surface au level du sol – cad_domroutier_objets_niv1:
+La surface surélevée – cad_domroutier_objets_niv2:
+Le deuxième ravni au dessus du sol Tips d’objets:
+L’infrastructure de la couverture du sol „Domaine routier“ est cataloguée en 10 objets loči:
+— Chaussée – chemin – espace de stationnement – îlot – parkiranje – kolesarske proge – kraj d’aviation – mesto propre pour transports en commun – surface latérale – trottoir Natures de revêtements:
+Les Natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets:
+cad_domroutier_revetements</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET NIVEL I EN LENJERIE DU SOL</dct:title>
+        <dcat:landingPage rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/0671"/>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Livell par ta’ répartition: Les objetssant définissant la couverture du sol “Domaine routier” sont répartis selon leur livell par rapport au sol. Ferra cela 5 klassijiet d’objets, chacune regroupant des éléments de même sont disponibles livell, à savoir: — cad_domroutier_objets_niv_2: Le deuxième livell au dessous du sol — cad_domroutier_objets_niv_1: La wiċċ au dessous du level du sol — cad_domroutier_objets_niv0: L wiċċ au livell du sol — cad_domroutier_objets_niv1: La surélevée tal-wiċċ — cad_domroutier_objets_niv2: Le deuxième livell au dessus du sol Tipi d’objets: L’infrastructure de la couverture du sol “Domaine routier” est cataloguée en 10 objets distinti: — Chaussée — chemin — espace de stationnement — îlot — parkeġġ — piste cyclable — post d’aviation — sit propre pour transports en commun — latérale tal-wiċċ — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objetsant: cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Répartitie par niveau: Les objets définissant la couverture du sol „Domaine routier” sont répartis selon leur level par rapport au sol. Pour cela 5 klassen d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième niveau au dessous du sol — cad_domroutier_objets_niv_1: Oppervlakte au dessous du level du sol — cad_domroutier_objets_niv0: Oppervlakte au niveau du sol — cad_domroutier_objets_niv1: La oppervlakte surélevée — cad_domroutier_objets_niv2: Le deuxième niveau au dessus du sol Types d’objets: L’infrastructure de la couverture du sol „Domaine routier” est cataloguée en 10 objets onderscheiden: — Chaussée — chemin — espace de stationnement — îlot — parking — piste cyclable — place d’aviation — site propre pour transports en commun — oppervlakte latérale — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ca77da2b-aa0c-4883-a625-aceabef90bf5">
+            <dct:description xml:lang="el-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Εξαίρεση Sauf, les formats suivant sont proposés: Σχήμα (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изтегляне</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Le Données vektoros sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf kivétel, les formátumok suivant sont proposés: Alak (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilization (.pdf). Undtagelse fra sauf, les formater suivant sont proposés: Form (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Letöltés</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Les Données vetorial sont disponibles sous forme de fichiers.zip, incluindont la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf).
+Exceção de sauf, les formatos suivant sont proposés:
+Shape (ESRI) — Geodatabase-Arquivo (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf) Sauf-poikkeus, les formaatit suivant sont proposés: Muoto (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf išimtis, les formats suivant sont proposés: Forma (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-25T00:00:00</dct:modified>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Lataa</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Les Données vektortorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Výnimka sauf, les formats suivant sont proposés: Tvar (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Parsisiųsti</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Les Données vektoriella sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Sauf undantag, les format suivant sont proposés: Form (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Descărcați</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Les Données wektorowy sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Wyjątek sauf, les format suivant sont proposés:
+Kształt (ESRI) – Geodatabase-Plik (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepción de sauf, les formatos suivant sont proposés: Forma (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Les Données vektorial sont Disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les uvjeti générales d’utilisation (.pdf). Iznimka sauf, les formati suivant sont proposés: Oblik (ESRI) – Geopodatkovna baza podataka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepție sauf, les formate suivant sont proposés: Formă (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lejupielādēt Lejupielādēt</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stáhněte si</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/cff9901e-f6e8-4086-bd73-6a017f56a099/resource/52181dec-9c79-4f9e-acef-23f72c7d07c8</dct:identifier>
+            <dct:language>fr</dct:language>
+            <dcat:downloadURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/0671"/>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf izņēmums, les formāti suivant sont proposés: Forma (ESRI) — Ģeodatu bāze-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Preuzimanje datoteka</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Baixar o site</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Laadi alla</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="it">Download</dct:title>
+            <dct:title xml:lang="fr">Download</dct:title>
+            <dct:title xml:lang="en">Download</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="de">Download</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ladda ner</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf uitzondering, les formats suivant sont proposés: Vorm (ESRI) — Geodatabase-Bestand (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κατεβάστε</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Le Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) agus coinníollacha générales d’utilization (.pdf). Eisceacht Sauf, formáidí les suivant sont proposés: Cruth (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Завантажити</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Les Données vektorski sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les pogoji générales d’utilisation (.pdf). Izjema sauf, les formati suivant sont proposéji: Oblika (ESRI) – geopodatkovna zbirka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Les Données vctorial sont disponibles sous forme de fichiers.zip, včetně la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf výjimka, les formáty suivant sont proposés: Tvar (ESRI) – Geodatabázový soubor (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Descargar</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pobierz</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Íoslódáil</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les умов générales d'utilisation (.pdf). SAUF виняток, les формати suivant sont пропозиції: Форма (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prenesi</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2007-01-01T00:00:00</dct:issued>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Niżżel</dct:title>
+            <dct:description xml:lang="en">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Les Données векторен Sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) инси que les conditions générales d’utilization (.pdf). Sauf изключение, les formats suivant Sont предложения: Форма (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="fr">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="it">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="de">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, inklużi la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Eċċezzjoni Sauf, formati les suivant sont proposés: Forma (ESRI) — Ġeodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dcat:accessURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/0671"/>
+            <dct:description xml:lang="et-t-de-t0-mtec">Les Données vektoraalne sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf erand, les formaate suivant sont proposés: Kujund (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stiahnuť</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Répartition par level: Les objets définissant la couverture du sol "Domaine routier" sont répartis selon leur level par rapport au sol. Налийте cela 5 класів d'objets, chacune regroupant des éléments de même level sont disponibles, à savoir: - cad_domroutier_objets_niv_2:
+Le deuxième level au dessous du sol - cad_domroutier_objets_niv_1:
+La Surface au dessous du level du sol - cad_domroutier_objets_niv0:
+La Surface au level du sol - cad_domroutier_objets_niv1:
+La Surface surélevée - cad_domroutier_objets_niv2:
+Le deuxième level au dessus du sol Типи d'objets:
+L'infrastructure de la couverture du sol "Domaine routier" est cataloguée en 10 об'єктів відрізняється:
+- Chaussée - Chemin - espace de stationnement - îlot - парковка - траса велосипедна - місце д'авіації - майданчик пропре транспорти en commun - поверхню латера - trottoir Natures de revêtements:
+Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d'objets:
+cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Répartition par szint: A(z) „Domaine routier” sont répartis selon level par rapport au sol. Pour cela 5 class d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: – cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1: La surface au dessous du level du sol – cad_domroutier_objets_niv0: La surface au level du sol – cad_domroutier_objets_niv1: La surface surélevée – cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Típusok: L’infrastructure de la couverture du sol „Domaine routier” est cataloguée en 10 objets differents: – Chaussée – chemin – espace de stationnement – îlot – parkolás – pálya ciklikus – hely d’aviation – hely propre pour transports en commun – felszíni latérale – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets:
+cad_domroutier_revetements</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Répartition par level: Les objets définissant la couverture du sol „Domaine routier” sont répartis selon leur level par rapport au sol. Se toarnă cela 5 clase d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1: La surface au dessous du level du sol – cad_domroutier_objets_niv0: La surface au level du sol – cad_domroutier_objets_niv1: La suprafață surélevée – cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Tips d’objets: L’infrastructure de la couverture du sol „Domaine routier” est cataloguée en 10 objets distincts: — Chaussée – chemină – espace de stationnement – lot – parcare – pârtii ciclabile – place d’aviation – site propre pour transports en commun – latérale de suprafață – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Répartition par niveau: Les objets définissant la couverture du sol "Domaine routier" sont répartis selon leur level par rapport au sol. Pour cela 5 class d'objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième niveau au dessous du sol — cad_domroutier_objets_niv_1: La overflade au dessous du level du sol — cad_domroutier_objets_niv0: La overflade au level du sol — cad_domroutier_objets_niv1: La overflade surélevée — cad_domroutier_objets_niv2: Le deuxième niveau au dessus du sol Typer d'objets: L'Infrastructure de la couverture du sol "Domaine routier" est kataloguée en 10 objets distinkter: — Chaussée — chemin — espace de stationnement — îlot — parkering — pistecyclable — place d'aviation — site propre pour transports en commun — overflade latérale — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d'objets: cad_domroutier_revetements</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET LĪMENIS I EN APAKŠVEĻA DU SOL</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-05-25T00:00:00</dct:modified>
+        <dct:title xml:lang="lt-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER – PAR OBJET LYGIS I EN LINGERIE DU SOL</dct:title>
+        <dct:identifier>SITG_0671@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dct:relation>
+          <rdf:Description rdf:about="https://ge.ch/sitgags1/rest/services/VECTOR/SITG_OPENDATA_01/MapServer/">
+            <rdfs:label>Les services sont exposés au travers de l'API REST d'ArcGIS Server. Interfaces supportées : REST - SOAP - WMS - WFS</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="es-t-de-t0-mtec">Nivel par de repartición: Les objets définissant la couverture du sol «Domaine routier» sont répartis selon leur level par rapport au sol. Pour cela 5 clases d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: — cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol — cad_domroutier_objets_niv_1: La superficie au dessous du level du sol — cad_domroutier_objets_niv0: La superficie au level du sol — cad_domroutier_objets_niv1: La superficie surélevée — cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Types d’objets: L’infrastructure de la couverture du sol «Domaine routier» est cataloguée en 10 objetos distintos: — Chaussée — chemin — espace de stationnement — îlot — parking — pista cyclable — place d’aviation — site propre pour transports en commun — superficial latérale — trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Répartition par level: Les objets définissant la couverture du sol „Domaine routier“ sont répartis selon leur level par rapport au sol. Pour cela 5 class d’objets, chacune regroupant des éléments de même level sont disponibles, à savoir: – cad_domroutier_objets_niv_2: Le deuxième level au dessous du sol – cad_domroutier_objets_niv_1: La surface au dessous du level du sol – cad_domroutier_objets_niv0: La surface au level du sol – cad_domroutier_objets_niv1: La pinna surélevée – cad_domroutier_objets_niv2: Le deuxième level au dessus du sol Types d’objets: L’infrastructure de la couverture du sol „Domaine routier“ est cataloguée en 10 objets eristab: – Chaussée – chemin – espace de stationnement – îlot – parkimine – piste tsükliline – koht d’aviation – site propre pour transports en commun – surface latérale – trottoir Natures de revêtements: Les natures de REVTEMENT des différents objets sont disponibles en utilisant la classe d’objets: cad_domroutier_revetements</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">COUVERTURE DU SOL DOMAINE ROUTIER — PAR OBJET LIVELL I EN LINGERIE DU SOL</dct:title>
+        <dct:description xml:lang="it">Répartition par niveau : Les objets définissant la couverture du sol « Domaine routier » sont répartis selon leur niveau par rapport au sol. Pour cela 5 classes d'objets, chacune regroupant des éléments de même niveau sont disponibles, à savoir : - cad_domroutier_objets_niv_2 : le deuxième niveau au dessous du sol - cad_domroutier_objets_niv_1 : la surface au dessous du niveau du sol - cad_domroutier_objets_niv0 : la surface au niveau du sol - cad_domroutier_objets_niv1 : la surface surélevée - cad_domroutier_objets_niv2 : le deuxième niveau au dessus du sol Types d'objets : L'infrastructure de la couverture du sol « Domaine routier » est cataloguée en 10 objets distincts : - chaussée - chemin - espace de stationnement - îlot - parking - piste cyclable - place d'aviation - site propre pour transports en commun - surface latérale - trottoir Natures de revêtements : Les natures de revêtement des différents objets sont disponibles en utilisant la classe d'objets : cad_domroutier_revetements</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>SITG_0671@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>791daac61cea4acc27938bcf1dc6b85a</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T12:47:56Z</edp:transReceived>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:27Z</dct:issued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:08:10Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

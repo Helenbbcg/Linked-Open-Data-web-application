@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/gamqympbv4tyxscrwfgr9q">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>563967b76c8adf95fdf0da865e4495d8</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/gamqympbv4tyxscrwfgr9q">
+        <dct:title xml:lang="da-t-en-t0-mtec">Kreditstrømmen i den private sektor, ikke-konsolideret</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Úverový tok súkromného sektora, nekonsolidovaný</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/11056f8b-b324-43db-b303-f3111add566c">
+            <dct:identifier>http://data.europa.eu/88u/distribution/9cdc9541-2015-4027-bf16-40007e8e81de</dct:identifier>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=tipspc10"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="de">Tabelle</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Table</dct:title>
+            <dct:title xml:lang="fr">Tableau</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Fluxo de crédito do setor privado, não consolidado</dct:title>
+        <dct:title xml:lang="fr">Flux de crédit du secteur privé, non consolidé</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Úvěrový tok soukromého sektoru představuje čistý objem závazků, v nichž během roku vznikly sektory nefinančních korporací, domácností a neziskových institucí sloužících domácnostem (S.11_S.14_S.15). Nástroje, které se berou v úvahu při sestavování toku úvěrů v soukromém sektoru, jsou dluhové cenné papíry (F.3) a úvěry (F.4). Údaje jsou prezentovány v nekonsolidovaném vyjádření, tj. údaje zohledňují transakce v rámci téhož sektoru a jsou vyjádřeny v % HDP a v milionech jednotek národní měny. Definice týkající se odvětví a nástrojů vycházejí z ESA 2010.</dct:description>
+        <dct:description xml:lang="fr">Le flux de crédit du secteur privé correspond aux variations nettes des passifs des secteurs des sociétés non financières, des ménages et des institutions sans but lucratif au service des ménages (S.11_S.14_S.15) contractés durant l'année. Les instruments pris en compte dans le calcul des flux de crédits du secteur privé sont les titres de créance (F.3) et les crédits (F.4). Les données sont présentées en termes non consolidés, c'est-à-dire qu'elles tiennent compte des opérations effectuées entre unités d'un même secteur, et sont exprimées sous forme de pourcentage du PIB et en millions d'unités monétaires nationales. Les concepts utilisés pour la définition des secteurs et des instruments sont conformes au SEC 2010.</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Sreabhadh creidmheasa ón earnáil phríobháideach, neamh-chomhdhlúite</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Tok úvěrů v soukromém sektoru, nekonsolidovaný</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/c3d67536-9042-4e77-831c-f2ebe0e6ede2">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/fa952889-b2ff-41ac-a621-bcabd6af51d3">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="it-t-en-t0-mtec">Il flusso di credito del settore privato rappresenta l'importo netto delle passività in cui i settori S.11_S.14_S.15 hanno sostenuto nel corso dell'anno le società non finanziarie, le famiglie e gli enti no-profit al servizio delle famiglie (S.11_S.14_S.15). Gli strumenti presi in considerazione per compilare i flussi di credito del settore privato sono i titoli di debito (F.3) e i prestiti (F.4). I dati sono presentati in termini non consolidati, ossia i dati tengono conto delle operazioni all'interno dello stesso settore ed espressi in % del PIL e in milioni di unità di valuta nazionale. Le definizioni relative ai settori e agli strumenti si basano sul SEC 2010.</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Privātā sektora kredītu plūsma ir to saistību neto summa, kuras gada laikā radušās nefinanšu sabiedrības, mājsaimniecības un mājsaimniecības apkalpojošās nefinanšu iestādes (S.11_S.14_S.15). Instrumenti, ko ņem vērā, lai apkopotu privātā sektora kredītu plūsmu, ir parāda vērtspapīri (F.3) un aizdevumi (F.4). Dati ir sniegti nekonsolidēti, t. i., datos ņemti vērā darījumi tajā pašā sektorā un izteikti % no IKP un miljonos valsts valūtas vienību. Nozaru un instrumentu definīciju pamatā ir EKS 2010. Privātā sektora kredītu plūsma ir to saistību neto summa, kuras gada laikā radušās nefinanšu sabiedrības, mājsaimniecības un mājsaimniecības apkalpojošās nefinanšu iestādes (S.11_S.14_S.15). Instrumenti, ko ņem vērā, lai apkopotu privātā sektora kredītu plūsmu, ir parāda vērtspapīri (F.3) un aizdevumi (F.4).
+Dati ir sniegti nekonsolidēti, t. i., datos ņemti vērā darījumi tajā pašā sektorā un izteikti % no IKP un miljonos valsts valūtas vienību.
+Nozaru un instrumentu definīciju pamatā ir EKS 2010.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/56"/>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Przepływy kredytowe sektora prywatnego, nieskonsolidowane</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Privačiojo sektoriaus kredito srautas – grynoji įsipareigojimų, kuriuos per metus patyrė namų ūkiams paslaugas teikiančios ne finansų bendrovės, namų ūkiai ir ne pelno institucijos (S.11_S.14_S.15), suma. Priemonės, į kurias atsižvelgiama sudarant privačiojo sektoriaus kredito srautus, yra skolos vertybiniai popieriai (F.3) ir Paskolos (F.4). Duomenys pateikiami nekonsoliduotai, t. y. duomenyse atsižvelgiama į sandorius tame pačiame sektoriuje ir išreiškiami procentais BVP ir milijonais nacionalinės valiutos vienetų. Sektorių ir priemonių apibrėžtys grindžiamos 2010 m. ESS.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Nekonsolidirani kreditni tok privatnog sektora</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Yksityisen sektorin luottovirta, sulauttamaton</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Кредитний потік приватного сектору, неконсолідований</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">El flujo de crédito del sector privado representa el importe neto de los pasivos en los que han incurrido las empresas no financieras, los hogares y las instituciones sin fines de lucro al servicio de los hogares (S.11_S.14_S.15) a lo largo del año. Los instrumentos que se tienen en cuenta para compilar el flujo de crédito del sector privado son los valores de deuda (F.3) y los préstamos (F.4). Los datos se presentan en términos no consolidados, es decir, los datos tienen en cuenta las transacciones dentro del mismo sector y se expresan en % del PIB y en millones de unidades de moneda nacional. Las definiciones relativas a sectores e instrumentos se basan en el SEC 2010. El flujo de crédito del sector privado representa el importe neto de los pasivos en los que han incurrido las empresas no financieras, los hogares y las instituciones sin fines de lucro al servicio de los hogares (S.11_S.14_S.15) a lo largo del año. Los instrumentos que se tienen en cuenta para compilar el flujo de crédito del sector privado son los valores de deuda (F.3) y los préstamos (F.4).
+Los datos se presentan en términos no consolidados, es decir, los datos tienen en cuenta las transacciones dentro del mismo sector y se expresan en % del PIB y en millones de unidades de moneda nacional.
+Las definiciones relativas a sectores e instrumentos se basan en el SEC 2010.</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Fluxul de credite din sectorul privat reprezintă valoarea netă a datoriilor în care s-au suportat sectoarele societăților nefinanciare, gospodăriilor populației și instituțiilor fără scop lucrativ în serviciul gospodăriilor populației (S.11_S.14_S.15) pe parcursul anului. Instrumentele care sunt luate în considerare pentru a compila fluxul de credite din sectorul privat sunt titlurile de creanță (F.3) și împrumuturile (F.4). Datele sunt prezentate în termeni neconsolidați, adică datele iau în considerare tranzacțiile din cadrul aceluiași sector și sunt exprimate în % din PIB și în milioane de unități de monedă națională. Definițiile privind sectoarele și instrumentele se bazează pe SEC 2010. Fluxul de credite din sectorul privat reprezintă valoarea netă a datoriilor în care s-au suportat sectoarele societăților nefinanciare, gospodăriilor populației și instituțiilor fără scop lucrativ în serviciul gospodăriilor populației (S.11_S.14_S.15) pe parcursul anului. Instrumentele care sunt luate în considerare pentru a compila fluxul de credite din sectorul privat sunt titlurile de creanță (F.3) și împrumuturile (F.4).
+Datele sunt prezentate în termeni neconsolidați, adică datele iau în considerare tranzacțiile din cadrul aceluiași sector și sunt exprimate în % din PIB și în milioane de unități de monedă națională.
+Definițiile privind sectoarele și instrumentele se bazează pe SEC 2010.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/803a186b-f3d4-405f-8cd5-19c90b9e8b92">
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c36e00c5-71f3-4841-a87a-19585c4f9bab</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Kreditstrom des privaten Sektors, nicht konsolidiert</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipspc10.tsv.gz&amp;unzip=true"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="en">Private sector credit flow, non-consolidated</dct:title>
+            <dct:title xml:lang="fr">Flux de crédit du secteur privé, non consolidé</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ad86bd4f-62f0-4835-b13e-db1724eb1734">
+            <dct:identifier>http://data.europa.eu/88u/distribution/e561cb66-e600-4e12-ba55-08c76d4901ab</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="de">Kreditstrom des privaten Sektors, nicht konsolidiert</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Flux de crédit du secteur privé, non consolidé</dct:title>
+            <dct:title xml:lang="en">Private sector credit flow, non-consolidated</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipspc10.sdmx.zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7ca8b216-f243-47fe-8600-765b0fc9cb85">
+            <dct:identifier>http://data.europa.eu/88u/distribution/8c571e9e-e118-4adf-a1ce-3d2fa3f71834</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Kreditstrom des privaten Sektors, nicht konsolidiert</dct:title>
+            <dct:title xml:lang="en">Private sector credit flow, non-consolidated</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="fr">Flux de crédit du secteur privé, non consolidé</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipspc10.tsv.gz"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Yksityisen sektorin luottovirta on niiden velkojen nettomäärä, jotka ovat syntyneet vuoden aikana Muut kuin rahoitusyhtiöt, kotitaloudet ja kotitalouksia palvelevat voittoa tavoittelemattomat laitokset (S.11_S.14_S.15). Yksityisen sektorin luottovirtaa laskettaessa huomioon otettavat instrumentit ovat velkapaperit (F.3) ja lainat (F.4). Tiedot esitetään sulauttamattomina, eli tiedoissa otetaan huomioon saman sektorin taloustoimet ja ne ilmaistaan prosentteina suhteessa ja miljoonina kansallisen valuutan yksikköinä. Aloja ja välineitä koskevat määritelmät perustuvat EKT 2010:een.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">De kredietstroom van de particuliere sector vertegenwoordigt het nettobedrag van de verplichtingen waarin de sectoren Niet-financiële vennootschappen, huishoudens en instellingen zonder winstoogmerk ten behoeve van huishoudens (S.11_S.14_S.15) gedurende het jaar hebben opgelopen. De instrumenten waarmee rekening wordt gehouden om de kredietstroom van de particuliere sector samen te stellen, zijn schuldbewijzen (F.3) en leningen (F.4). De gegevens worden gepresenteerd in niet-geconsolideerde termen, d.w.z. gegevens houden rekening met transacties binnen dezelfde sector en uitgedrukt in % van het bbp en in miljoen eenheden van nationale valuta. Definities met betrekking tot sectoren en instrumenten zijn gebaseerd op het ESR 2010. De kredietstroom van de particuliere sector vertegenwoordigt het nettobedrag van de verplichtingen waarin de sectoren Niet-financiële vennootschappen, huishoudens en instellingen zonder winstoogmerk ten behoeve van huishoudens (S.11_S.14_S.15) gedurende het jaar hebben opgelopen. De instrumenten waarmee rekening wordt gehouden om de kredietstroom van de particuliere sector samen te stellen, zijn schuldbewijzen (F.3) en leningen (F.4).
+De gegevens worden gepresenteerd in niet-geconsolideerde termen, d.w.z. gegevens houden rekening met transacties binnen dezelfde sector en uitgedrukt in % van het bbp en in miljoen eenheden van nationale valuta.
+Definities met betrekking tot sectoren en instrumenten zijn gebaseerd op het ESR 2010.</dct:description>
+        <dct:title xml:lang="en">Private sector credit flow, non-consolidated</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Flusso di credito del settore privato, non consolidato</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/c6fdef22-3e8a-432b-bce5-dd5111d65540">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1995-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Kredietstroom van de particuliere sector, niet-geconsolideerd</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Erasektori krediidivoog kujutab endast selliste kohustuste netosummat, milles kodumajapidamisi teenindavad mittefinantsettevõtted, kodumajapidamised ja mittetulundusühingud (S.11_S.14_S.15) on aasta jooksul tekkinud. Erasektori krediidivoo arvutamisel võetakse arvesse võlaväärtpabereid (F.3) ja laene (F.4). Andmed on esitatud konsolideerimata kujul, st andmete puhul võetakse arvesse sama sektori siseseid tehinguid, väljendatuna protsendina SKPst ja miljonites omavääringus väljendatud ühikutes. Sektorite ja instrumentide määratlused põhinevad ESA 2010-l. Erasektori krediidivoog kujutab endast selliste kohustuste netosummat, milles kodumajapidamisi teenindavad mittefinantsettevõtted, kodumajapidamised ja mittetulundusühingud (S.11_S.14_S.15) on aasta jooksul tekkinud. Erasektori krediidivoo arvutamisel võetakse arvesse võlaväärtpabereid (F.3) ja laene (F.4).
+Andmed on esitatud konsolideerimata kujul, st andmete puhul võetakse arvesse sama sektori siseseid tehinguid, väljendatuna protsendina SKPst ja miljonites omavääringus väljendatud ühikutes.
+Sektorite ja instrumentide määratlused põhinevad ESA 2010-l.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3779749b-2e22-45ba-953c-9a51185b1a09">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="fr">Graphique</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="en">Graph</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&amp;plugin=1&amp;language=en&amp;pcode=tipspc10"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/7edeabaf-507d-4639-b901-a2b5f83a1f9c</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-en-t0-mtec">Η πιστωτική ροή του ιδιωτικού τομέα αντιπροσωπεύει το καθαρό ποσό των υποχρεώσεων στις οποίες έχουν πραγματοποιηθεί οι τομείς Μη χρηματοπιστωτικές εταιρείες, νοικοκυριά και μη κερδοσκοπικά ιδρύματα που εξυπηρετούν νοικοκυριά (S.11_S.14_S.15) καθ’ όλη τη διάρκεια του έτους. Τα μέσα που λαμβάνονται υπόψη για την κατάρτιση της πιστωτικής ροής του ιδιωτικού τομέα είναι τα χρεόγραφα (F.3) και τα δάνεια (F.4). Τα στοιχεία παρουσιάζονται σε μη ενοποιημένους όρους, δηλαδή τα στοιχεία λαμβάνουν υπόψη τις συναλλαγές εντός του ίδιου τομέα και εκφράζονται σε % του ΑΕΠ και σε εκατ. μονάδες εθνικού νομίσματος. Οι ορισμοί που αφορούν τομείς και μέσα βασίζονται στο ΕΣΛ 2010.</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Кредитен поток от частния сектор, неконсолидиран</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Przepływy kredytowe sektora prywatnego stanowią kwotę zobowiązań netto, w których sektory przedsiębiorstwa niefinansowe, gospodarstwa domowe i instytucje non-profit obsługujące gospodarstwa domowe (S.11_S.14_S.15) zostały poniesione w ciągu roku. Instrumenty, które są brane pod uwagę w celu skompilowania przepływów kredytowych sektora prywatnego, to dłużne papiery wartościowe (F.3) i pożyczki (F.4). Dane są prezentowane w ujęciu nieskonsolidowanym, tj. dane uwzględniają transakcje w ramach tego samego sektora i wyrażone w % PKB i w milionach jednostek waluty krajowej. Definicje dotyczące sektorów i instrumentów opierają się na ESA 2010.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Úverový tok súkromného sektora predstavuje čistú sumu záväzkov, v ktorých v priebehu roka vznikli sektory Nefinančné korporácie, domácnosti a neziskové inštitúcie slúžiace domácnostiam (S.11_S.14_S.15). Nástroje, ktoré sa zohľadňujú pri zostavovaní úverových tokov súkromného sektora, sú dlhové cenné papiere (F.3) a úvery (F.4). Údaje sa uvádzajú v nekonsolidovanom vyjadrení, t. j. údaje zohľadňujú transakcie v rámci toho istého sektora a sú vyjadrené v % HDP a v miliónoch jednotiek národnej meny. Definície týkajúce sa sektorov a nástrojov sú založené na ESA 2010. Úverový tok súkromného sektora predstavuje čistú sumu záväzkov, v ktorých v priebehu roka vznikli sektory Nefinančné korporácie, domácnosti a neziskové inštitúcie slúžiace domácnostiam (S.11_S.14_S.15). Nástroje, ktoré sa zohľadňujú pri zostavovaní úverových tokov súkromného sektora, sú dlhové cenné papiere (F.3) a úvery (F.4).
+Údaje sa uvádzajú v nekonsolidovanom vyjadrení, t. j. údaje zohľadňujú transakcie v rámci toho istého sektora a sú vyjadrené v % HDP a v miliónoch jednotiek národnej meny.
+Definície týkajúce sa sektorov a nástrojov sú založené na ESA 2010.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Fluss ta’ kreditu tas-settur privat, mhux konsolidat</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Kreditni tok zasebnega sektorja predstavlja neto znesek obveznosti, v katerih so med letom nastali sektorji nefinančne družbe, gospodinjstva in neprofitne institucije, ki opravljajo storitve za gospodinjstva (S.11_S.14_S.15). Instrumenti, ki se upoštevajo pri pripravi kreditnega toka zasebnega sektorja, so dolžniški vrednostni papirji (F.3) in krediti (F.4). Podatki so predstavljeni v nekonsolidiranem smislu, tj. podatki upoštevajo transakcije znotraj istega sektorja in so izraženi v % BDP in v milijonih enot nacionalne valute. Opredelitve v zvezi s sektorji in instrumenti temeljijo na ESR 2010. Kreditni tok zasebnega sektorja predstavlja neto znesek obveznosti, v katerih so med letom nastali sektorji nefinančne družbe, gospodinjstva in neprofitne institucije, ki opravljajo storitve za gospodinjstva (S.11_S.14_S.15). Instrumenti, ki se upoštevajo pri pripravi kreditnega toka zasebnega sektorja, so dolžniški vrednostni papirji (F.3) in krediti (F.4).
+Podatki so predstavljeni v nekonsolidiranem smislu, tj. podatki upoštevajo transakcije znotraj istega sektorja in so izraženi v % BDP in v milijonih enot nacionalne valute.
+Opredelitve v zvezi s sektorji in instrumenti temeljijo na ESR 2010.</dct:description>
+        <dct:title xml:lang="de">Kreditstrom des privaten Sektors, nicht konsolidiert</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Kreditni tok privatnog sektora predstavlja neto iznos obveza u kojima su tijekom godine nastali sektori nefinancijska društva, kućanstva i neprofitne institucije koje služe kućanstvima (S.11_S.14_S.15). Instrumenti koji se uzimaju u obzir pri sastavljanju kreditnog toka privatnog sektora jesu dužnički vrijednosni papiri (F.3) i zajmovi (F.4). Podaci su prikazani u nekonsolidiranom smislu, tj. podaci uzimaju u obzir transakcije unutar istog sektora i izraženi su u % BDP-a i u milijunima jedinica nacionalne valute. Definicije koje se odnose na sektore i instrumente temelje se na ESA-i 2010.</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Kreditni tok zasebnega sektorja, nekonsolidiran</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Privātā sektora kredītu plūsma, nekonsolidēta</dct:title>
+        <dct:description xml:lang="de">Der Kreditstrom des privaten Sektors stellt den Nettobetrag der Verbindlichkeiten dar, die die Sektoren nichtfinanzielle Kapitalgesellschaften, Private Haushalte und Organisationen ohne Erwerbszweck (S.11_S.14_S.15) im Laufe des Jahres eingegangen sind. Die Instrumente, die bei der Zusammenstellung des Kreditstroms des privaten Sektors berücksichtigt werden, sind Schuldverschreibungen (F.3) und Kredite (F.4). Die Daten werden nicht konsolidiert dargestellt (d. h. Transaktionen innerhalb desselben Sektors werden berücksichtigt), und zwar in % des BIP und in Mio. Landeswährung. Die Definitionen der Sektoren und Instrumente stützen sich auf das ESVG 2010.</dct:description>
+        <dct:description xml:lang="en">The private sector credit flow represents the net amount of liabilities in which the sectors Non-Financial corporations, Households and Non-Profit institutions serving households (S.11_S.14_S.15) have incurred along the year. The instruments that are taken into account to compile private sector credit flow are Debt securities (F.3) and Loans (F.4). Data are presented in non-consolidated terms, i.e. data take into account transactions within the same sector and expressed in % of GDP and in Million units of national currency. Definitions regarding sectors and instruments are based on the ESA 2010.</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/GAMQymPBv4TyxSCrWfgR9Q</dct:identifier>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Kreditflöde i den privata sektorn, icke-konsoliderat</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Fluxul de credite din sectorul privat, neconsolidat</dct:title>
+        <dct:identifier>tipspc10</dct:identifier>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A magánszektor hiteláramlása azon kötelezettségek nettó összegét jelenti, amelyekben a háztartásokat segítő nem pénzügyi vállalatok, háztartások és nonprofit intézmények (S.11_S.14_S.15) szektorok merültek fel az év során. A magánszektor hiteláramlásának összeállításához figyelembe vett eszközök a hitelviszonyt megtestesítő értékpapírok (F.3) és a hitelek (F.4). Az adatok nem konszolidált formában kerülnek bemutatásra, azaz az adatok figyelembe veszik az ugyanazon szektoron belüli tranzakciókat, a GDP %-ában és a nemzeti pénznem millió egységében kifejezve.
+Az ágazatokra és eszközökre vonatkozó fogalommeghatározások az ESA 2010-en alapulnak.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Кредитният поток на частния сектор представлява нетната сума на пасивите, в които през годината са възникнали нефинансови предприятия, домакинства и нестопански институции, обслужващи домакинствата (S.11_S.14_S.15). Инструментите, които се вземат предвид при съставянето на кредитния поток на частния сектор, са дългови ценни книжа (F.3) и заеми (F.4). Данните са представени в неконсолидирано изражение, т.е. данните отчитат трансакциите в рамките на същия сектор и се изразяват в % от БВП и в милиони единици национална валута. Определенията по отношение на секторите и инструментите се основават на ЕСС 2010.</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ροή πιστώσεων του ιδιωτικού τομέα, μη ενοποιημένη</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc10">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/gamqympbv4tyxscrwfgr9q"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc10</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc10</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O fluxo de crédito do setor privado representa o montante líquido dos passivos em que os setores Sociedades não financeiras, famílias e instituições sem fins lucrativos ao serviço das famílias (S.11_S.14_S.15) incorreram ao longo do ano. Os instrumentos que são tidos em conta para compilar o fluxo de crédito do setor privado são títulos de dívida (F.3) e empréstimos (F.4). Os dados são apresentados em termos não consolidados, ou seja, os dados têm em conta as transações no mesmo setor e expressas em % do PIB e em milhões de unidades da moeda nacional. As definições relativas a setores e instrumentos baseiam-se no SEC 2010. O fluxo de crédito do setor privado representa o montante líquido dos passivos em que os setores Sociedades não financeiras, famílias e instituições sem fins lucrativos ao serviço das famílias (S.11_S.14_S.15) incorreram ao longo do ano. Os instrumentos que são tidos em conta para compilar o fluxo de crédito do setor privado são títulos de dívida (F.3) e empréstimos (F.4).
+Os dados são apresentados em termos não consolidados, ou seja, os dados têm em conta as transações no mesmo setor e expressas em % do PIB e em milhões de unidades da moeda nacional.
+As definições relativas a setores e instrumentos baseiam-se no SEC 2010.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-21</dct:modified>
+        <dct:title xml:lang="et-t-en-t0-mtec">Konsolideerimata erasektori krediidivoog</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Kreditstrømmen i den private sektor repræsenterer nettoværdien af passiver, hvor sektorerne Ikke-finansielle selskaber, husholdninger og non-profit institutioner rettet mod husholdninger (S.11_S.14_S.15) har pådraget sig hen over året. De instrumenter, der tages i betragtning ved opgørelsen af kreditstrømmen i den private sektor, er gældsbeviser (F.3) og lån (F.4). Dataene præsenteres i ikkekonsoliderede termer, dvs. data tager højde for transaktioner inden for samme sektor og udtrykt i % af BNP og i mio. enheder i national valuta. Definitionerne vedrørende sektorer og instrumenter er baseret på ENS 2010.</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Flujo de crédito del sector privado, no consolidado</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tipspc_esms.sdmx.zip">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tipspc_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/gamqympbv4tyxscrwfgr9q"/>
+          </foaf:Document>
+        </foaf:page>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/tipspc_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/tipspc_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/gamqympbv4tyxscrwfgr9q"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Magánszektorbeli hiteláramlás, nem konszolidált</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Is ionann sreabhadh creidmheasa na hearnála príobháidí agus glanmhéid na ndliteanas inar thabhaigh earnálacha na gcorparáidí neamhairgeadais, na dteaghlach agus na n-institiúidí neamhbhrabúis a fhónann do theaghlaigh (S.11_S.14_S.15) i rith na bliana. Is iad urrúis fiachais (F.3) agus Iasachtaí (F.4) na hionstraimí a chuirtear san áireamh chun sreabhadh creidmheasa na hearnála príobháidí a thiomsú. Cuirtear na sonraí i láthair i dtéarmaí neamh-chomhdhlúite, i.e. cuirtear san áireamh sna sonraí idirbhearta laistigh den earnáil chéanna agus sloinntear iad mar % den OTI agus mar Mhilliún aonad den airgeadra náisiúnta. Tá sainmhínithe maidir le hearnálacha agus ionstraimí bunaithe ar CCE 2010. Is ionann sreabhadh creidmheasa na hearnála príobháidí agus glanmhéid na ndliteanas inar thabhaigh earnálacha na gcorparáidí neamhairgeadais, na dteaghlach agus na n-institiúidí neamhbhrabúis a fhónann do theaghlaigh (S.11_S.14_S.15) i rith na bliana. Is iad urrúis fiachais (F.3) agus Iasachtaí (F.4) na hionstraimí a chuirtear san áireamh chun sreabhadh creidmheasa na hearnála príobháidí a thiomsú.
+Cuirtear na sonraí i láthair i dtéarmaí neamh-chomhdhlúite, i.e. cuirtear san áireamh sna sonraí idirbhearta laistigh den earnáil chéanna agus sloinntear iad mar % den OTI agus mar Mhilliún aonad den airgeadra náisiúnta.
+Tá sainmhínithe maidir le hearnálacha agus ionstraimí bunaithe ar CCE 2010.</dct:description>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc10"/>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Il-fluss ta’ kreditu tas-settur privat jirrappreżenta l-ammont nett ta’ obbligazzjonijiet li fihom is-setturi Korporazzjonijiet Mhux Finanzjarji, Unitajiet Domestiċi u istituzzjonijiet mhux ta’ Qligħ li jservu lill-unitajiet domestiċi (S.11_S.14_S.15) ġarrbu matul is-sena. L-istrumenti li jitqiesu biex jiġi kkompilat il-fluss ta’ kreditu tas-settur privat huma titoli ta’ dejn (F.3) u Self (F.4). Id-data hija ppreżentata f’termini mhux konsolidati, jiġifieri d-data tqis it-tranżazzjonijiet fl-istess settur u espressa f’% tal-PDG u f’Miljuni ta’ unitajiet tal-munita nazzjonali. Id-definizzjonijiet rigward is-setturi u l-istrumenti huma bbażati fuq l-ESA 2010. Il-fluss ta’ kreditu tas-settur privat jirrappreżenta l-ammont nett ta’ obbligazzjonijiet li fihom is-setturi Korporazzjonijiet Mhux Finanzjarji, Unitajiet Domestiċi u istituzzjonijiet mhux ta’ Qligħ li jservu lill-unitajiet domestiċi (S.11_S.14_S.15) ġarrbu matul is-sena. L-istrumenti li jitqiesu biex jiġi kkompilat il-fluss ta’ kreditu tas-settur privat huma titoli ta’ dejn (F.3) u Self (F.4).
+Id-data hija ppreżentata f’termini mhux konsolidati, jiġifieri d-data tqis it-tranżazzjonijiet fl-istess settur u espressa f’% tal-PDG u f’Miljuni ta’ unitajiet tal-munita nazzjonali.
+Id-definizzjonijiet rigward is-setturi u l-istrumenti huma bbażati fuq l-ESA 2010.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7e8127bf-e541-4fbc-9c06-d4b417a8f4e2">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/85221cde-9ed9-4582-b31b-e37e1fd47ecd</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="fr">Carte</dct:title>
+            <dct:title xml:lang="en">Map</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&amp;init=1&amp;plugin=1&amp;language=en&amp;pcode=tipspc10"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Karte</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Кредитний потік приватного сектора являє собою чисту суму зобов'язань, в яких сектори нефінансових корпорацій, домогосподарств і некомерційних установ, що обслуговують домогосподарства (S.11_S.14_S.15), понесли протягом року. Інструментами, які враховуються для складання кредитного потоку приватного сектора, є боргові цінні папери (F.3) і кредити (F.4). Дані представлені в неконсолідованих термінах, тобто дані враховують операції в рамках одного сектора і виражені в % ВВП і в мільйонах одиниць національної валюти. Визначення щодо секторів та інструментів базуються на ЄКА 2010. Кредитний потік приватного сектора являє собою чисту суму зобов'язань, в яких сектори нефінансових корпорацій, домогосподарств і некомерційних установ, що обслуговують домогосподарства (S.11_S.14_S.15), понесли протягом року. Інструментами, які враховуються для складання кредитного потоку приватного сектора, є боргові цінні папери (F.3) і кредити (F.4).
+Дані представлені в неконсолідованих термінах, тобто дані враховують операції в рамках одного сектора і виражені в % ВВП і в мільйонах одиниць національної валюти.
+Визначення щодо секторів та інструментів базуються на ЄКА 2010.</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Den privata sektorns kreditflöde motsvarar nettobeloppet för skulder som sektorerna icke-finansiella företag, hushåll och icke-vinstdrivande institut som betjänar hushållen (S.11_S.14_S.15) har haft under året. De instrument som beaktas vid sammanställningen av kreditflödet i den privata sektorn är skuldebrev (F.3) och lån (F.4). Uppgifterna presenteras i icke-konsoliderade termer, dvs. uppgifter tar hänsyn till transaktioner inom samma sektor och uttryckta i % av BNP och i miljoner enheter i nationell valuta. Definitioner av sektorer och instrument grundar sig på ENS 2010. Den privata sektorns kreditflöde motsvarar nettobeloppet för skulder som sektorerna icke-finansiella företag, hushåll och icke-vinstdrivande institut som betjänar hushållen (S.11_S.14_S.15) har haft under året. De instrument som beaktas vid sammanställningen av kreditflödet i den privata sektorn är skuldebrev (F.3) och lån (F.4).
+Uppgifterna presenteras i icke-konsoliderade termer, dvs. uppgifter tar hänsyn till transaktioner inom samma sektor och uttryckta i % av BNP och i miljoner enheter i nationell valuta.
+Definitioner av sektorer och instrument grundar sig på ENS 2010.</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Nekonsoliduotas privačiojo sektoriaus kredito srautas</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/gamqympbv4tyxscrwfgr9q"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:04:14Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:02:06Z</dct:issued>
+    <dct:identifier>GAMQymPBv4TyxSCrWfgR9Q</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:04:14Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/s4z4ugx7aq2hyedwyp2ena">
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/s4z4ugx7aq2hyedwyp2ena">
+        <dct:title xml:lang="sl-t-en-t0-mtec">Število smrtnih žrtev v cestnem prometu po vrstah cest (vir: GENERALNI DIREKTORAT ZA SELITEV)</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Pokazateljem se mjeri broj smrtnih slučajeva uzrokovanih prometnim nesrećama, uključujući vozače i putnike motornih vozila i ciklusa pedala te pješake. Osobe koje umiru u prometnim nesrećama do 30 dana nakon nastanka nesreće računaju se kao smrtni slučajevi u prometnoj nesreći. Nakon ovih 30 dana, razlog za umiranje može biti proglašen drugačije. Za države članice koje ne primjenjuju tu definiciju primjenjuju se korektivni faktori. Prosječna populacija referentne godine (izračunana kao aritmetička sredina stanovništva na dan 1. siječnja dvije uzastopne godine) upotrebljava se kao nazivnik (na 100 000 osoba).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6d45623d-f55b-4a38-ba54-21532e00f021">
+            <dct:title xml:lang="en">Road traffic deaths, by type of roads (source: DG MOVE)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c379d157-847a-41fb-8c21-decaaad52596</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="de">Straßenverkehrstote nach Straßenart (Quelle: DG MOVE)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sdg_11_40.tsv.gz&amp;unzip=true"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="fr">Décès sur les routes, par type de route (source: DG MOVE)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/607bf052-8b33-49ce-af53-577693617da4">
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/5cad4c0b-2f7f-4383-bc9d-b56f8a600a83</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sdg_11_40.sdmx.zip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="de">Straßenverkehrstote nach Straßenart (Quelle: DG MOVE)</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Décès sur les routes, par type de route (source: DG MOVE)</dct:title>
+            <dct:title xml:lang="en">Road traffic deaths, by type of roads (source: DG MOVE)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:description xml:lang="nl-t-en-t0-mtec">De indicator meet het aantal dodelijke slachtoffers als gevolg van verkeersongevallen, met inbegrip van bestuurders en passagiers van gemotoriseerde voertuigen en pedaalcycli en voetgangers. Personen die overlijden bij verkeersongevallen tot 30 dagen na het voorval van het ongeval worden beschouwd als verkeersdoden. Na deze 30 dagen kan de reden voor overlijden anders worden verklaard. Voor lidstaten die deze definitie niet gebruiken, worden corrigerende factoren toegepast. De gemiddelde populatie van het referentiejaar (berekend als rekenkundig gemiddelde van de populatie op 1 januari van twee opeenvolgende jaren) wordt gebruikt als noemer (per 100 000 personen).</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/9f1a678e-070d-464a-aecf-bbbe3253d490">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/67736ebf-29b5-482e-a971-7d44d82e0a67">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="da-t-en-t0-mtec">Trafikdræbte efter vejtype (kilde: GENERALDIREKTORATETS FLYTNING)</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Muertes por tráfico, por tipo de carretera (fuente: DG DE MUDANZAS)</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Смъртни случаи при пътнотранспортни произшествия по видове пътища (източник: ПРЕМЕСТВАНЕ НА ГД)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:description xml:lang="it-t-en-t0-mtec">L'indicatore misura il numero di decessi causati da incidenti stradali, compresi i conducenti e i passeggeri di veicoli a motore e pedali, nonché i pedoni. Le persone che muoiono in incidenti stradali fino a 30 giorni dopo il verificarsi dell'incidente sono conteggiate come vittime di incidenti stradali. Dopo questi 30 giorni, la ragione della morte potrebbe essere dichiarata in modo diverso. Per gli Stati membri che non utilizzano questa definizione vengono applicati fattori correttivi. La popolazione media dell'anno di riferimento (calcolata come media aritmetica della popolazione al 1º gennaio di due anni consecutivi) è utilizzata come denominatore (per 100 000 persone).</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Indicatorul măsoară numărul de decese cauzate de accidente rutiere, inclusiv șoferii și pasagerii vehiculelor motorizate și ai ciclurilor de pedale, precum și pietonii. Persoanele care mor în accidente rutiere în termen de 30 de zile de la producerea accidentului sunt considerate accidente rutiere mortale. După aceste 30 de zile, motivul morții ar putea fi declarat diferit. Pentru statele membre care nu utilizează această definiție, se aplică factori de corecție. Populația medie a anului de referință (calculată ca media aritmetică a populației la data de 1 ianuarie a doi ani consecutivi) este utilizată ca numitor (la 100 000 de persoane).</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Ukazovateľ meria počet smrteľných nehôd spôsobených dopravnými nehodami vrátane vodičov a cestujúcich motorových vozidiel a pedálových cyklov, ako aj chodcov. Osoby, ktoré zomreli pri dopravných nehodách do 30 dní po výskyte nehody, sa považujú za smrteľné nehody pri dopravných nehodách. Po týchto 30 dňoch môže byť dôvod úmrtia vyhlásený inak.
+V prípade členských štátov, ktoré túto definíciu nepoužívajú, sa uplatňujú nápravné faktory.
+Priemerná populácia v referenčnom roku (vypočítaná ako aritmetický priemer populácie k 1. januáru dvoch po sebe nasledujúcich rokov) sa používa ako menovateľ (na 100 000 osôb).</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Показник вимірює кількість загиблих, викликаних дорожньо-транспортними пригодами, включаючи водіїв і пасажирів моторизованих транспортних засобів і циклів педалей, а також пішоходів. Особи, які загинули в ДТП протягом 30 днів після настання аварії, вважаються смертельними наслідками дорожньо-транспортної пригоди. Після цих 30 днів причина смерті може бути оголошена по-іншому. Для держав-членів, які не використовують це визначення, застосовуються корекційні фактори. Середнє населення референтного року (розраховується як середнє арифметичне населення на 1 січня два роки поспіль) використовується як знаменник (на 100000 чоловік).</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Žuvusiųjų keliuose skaičius pagal kelių tipą (šaltinis: JUDĖJIMO GD)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Incidenti stradali, per tipo di strade (fonte: DG MOVIMENTAZIONE)</dct:title>
+        <dct:title xml:lang="de">Straßenverkehrstote nach Straßenart (Quelle: DG MOVE)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Wskaźnik mierzy liczbę ofiar śmiertelnych spowodowanych wypadkami drogowymi, w tym kierowców i pasażerów pojazdów silnikowych i rowerów rowerowych, a także pieszych. Osoby umierające w wypadkach drogowych do 30 dni po zdarzeniu są zaliczane do ofiar śmiertelnych wypadków drogowych. Po tych 30 dniach przyczyna śmierci może zostać ogłoszona inaczej. W przypadku państw członkowskich, które nie stosują tej definicji, stosuje się współczynniki korygujące. Średnia populacja roku referencyjnego (obliczana jako średnia arytmetyczna populacji na dzień 1 stycznia dwóch kolejnych lat) jest stosowana jako mianownik (na 100 000 osób).</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Úmrtí v silničním provozu podle typu silnic (zdroj: GŘ STĚHOVÁNÍ)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Decese cauzate de traficul rutier, pe tipuri de drumuri (sursa: DG MIȘCARE)</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Úmrtia v cestnej premávke podľa typu ciest (zdroj: GR PRE SŤAHOVANIE)</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_11_40">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_11_40</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/s4z4ugx7aq2hyedwyp2ena"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_11_40</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Смертельні випадки дорожньо-транспортних пригод, за типом доріг (джерело: DG ПЕРЕМІЩЕННЯ)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a5df0d40-6010-4bc8-bc87-91fa1988b3e8">
+            <dct:identifier>http://data.europa.eu/88u/distribution/53a70d00-bdca-4a08-ab04-113e56ff24f7</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Décès sur les routes, par type de route (source: DG MOVE)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="en">Road traffic deaths, by type of roads (source: DG MOVE)</dct:title>
+            <dct:title xml:lang="de">Straßenverkehrstote nach Straßenart (Quelle: DG MOVE)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sdg_11_40.tsv.gz"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/sdg_11_40_esmsip2.htm">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/sdg_11_40_esmsip2.htm</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/s4z4ugx7aq2hyedwyp2ena"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Ar šo rādītāju mēra ceļu satiksmes negadījumos bojāgājušo skaitu, tostarp mehānisko transportlīdzekļu vadītājus un pasažierus un pedāļu velosipēdus, kā arī gājējus. Ceļu satiksmes negadījumos bojā gājušos uzskata par ceļu satiksmes negadījumos bojā gājušo personu skaitu 30 dienu laikā pēc negadījuma. Pēc šīm 30 dienām nāves iemesls var tikt paziņots citādi. Dalībvalstīm, kuras neizmanto šo definīciju, piemēro korekcijas koeficientus. Par saucēju izmanto pārskata gada vidējo iedzīvotāju skaitu (ko aprēķina kā iedzīvotāju skaita vidējo aritmētisko divu secīgu gadu 1. janvārī) (uz 100 000 personām).</dct:description>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_11_40"/>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Rodikliu matuojamas žuvusiųjų keliuose skaičius, įskaitant motorinių transporto priemonių ir pedalų ciklų vairuotojus ir keleivius, taip pat pėsčiuosius. Per eismo įvykius ne vėliau kaip per 30 dienų nuo eismo įvykio žūstantys asmenys laikomi eismo įvykiuose žūstančiais asmenimis. Po šių 30 dienų mirties priežastis gali būti nurodyta kitaip. Šios apibrėžties netaikančioms valstybėms narėms taikomi korekciniai koeficientai. Ataskaitinių metų gyventojų skaičiaus vidurkis (apskaičiuotas kaip gyventojų skaičiaus aritmetinis vidurkis dvejų metų iš eilės sausio 1 d.) naudojamas kaip vardiklis (100 000 asmenų).</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A mutató a közúti balesetek által okozott halálesetek számát méri, beleértve a gépjárművek vezetőit és utasait, a pedálciklusokat, valamint a gyalogosokat. A baleset bekövetkezése után legfeljebb 30 nappal közúti balesetben elhunyt személy közúti balesetnek minősül. Ez után a 30 nap után a halál oka máshogyan deklarálható. Azon tagállamok esetében, amelyek nem használják ezt a fogalommeghatározást, korrekciós tényezőket kell alkalmazni. A referenciaév átlagos népessége (amelyet két egymást követő év január 1-jén a népesség számtani középértékeként számítanak ki) nevezőként szolgál (100 000 főre vetítve).</dct:description>
+        <dct:identifier>sdg_11_40</dct:identifier>
+        <dct:description xml:lang="en">The indicator measures the number of fatalities caused by road accidents, including drivers and passengers of motorised vehicles and pedal cycles as well as pedestrians. Persons dying on road accidents up to 30 days after the occurrence of the accident are counted as road accident fatalities. After these 30 days, the reason for dying might be declared differently. For Member States not using this definition, corrective factors are applied. The average population of the reference year (calculated as the arithmetic mean of the population on 1st January of two consecutive years) is used as denominator (per 100 000 persons).</dct:description>
+        <dct:title xml:lang="en">Road traffic deaths, by type of roads (source: DG MOVE)</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Közúti halálesetek, úttípusok szerinti bontásban (forrás: KÖLTÖZTETÉSI FŐIGAZGATÓSÁG)</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Kazalnik meri število smrtnih žrtev, ki jih povzročijo prometne nesreče, vključno z vozniki in potniki motornih vozil in koles s pedali ter pešci. Osebe, ki umrejo v prometnih nesrečah do 30 dni po nastanku nesreče, se štejejo za smrtne žrtve v prometnih nesrečah. Po teh 30 dneh bi lahko razlog za smrt razglasili drugače. Za države članice, ki te opredelitve ne uporabljajo, se uporabljajo korekcijski faktorji. Povprečna populacija referenčnega leta (izračunana kot aritmetična sredina prebivalstva na dan 1. januarja dveh zaporednih let) se uporablja kot imenovalec (na 100 000 oseb).</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e0d309c3-6631-4c61-9eb8-c87240ec9e65">
+            <dct:title xml:lang="en">Table</dct:title>
+            <dct:title xml:lang="de">Tabelle</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Tableau</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ca994a39-dba4-48c8-af59-4a894e9f092b</dct:identifier>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=sdg_11_40"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Показателят измерва броя на смъртните случаи, причинени от пътнотранспортни произшествия, включително водачи и пътници на моторни превозни средства и велосипеди с педали, както и пешеходци. Лицата, загинали при пътнотранспортни произшествия до 30 дни след настъпването на произшествието, се считат за смъртни случаи при пътнотранспортно произшествие. След тези 30 дни причината за смъртта може да бъде обявена по различен начин. За държавите членки, които не използват това определение, се прилагат коригиращи коефициенти. Средното население за референтната година (изчислено като средноаритметична стойност на населението на 1 януари от две последователни години) се използва като знаменател (на 100 000 души).</dct:description>
+        <dct:title xml:lang="fr">Décès sur les routes, par type de route (source: DG MOVE)</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a2e96f80-f626-4210-bc7d-3b7e7ccc06ee">
+            <dct:identifier>http://data.europa.eu/88u/distribution/c4309f7d-363f-42d5-ba13-076dcca9eb68</dct:identifier>
+            <dct:title xml:lang="en">Map</dct:title>
+            <dct:title xml:lang="de">Karte</dct:title>
+            <dct:title xml:lang="fr">Carte</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&amp;init=1&amp;plugin=1&amp;language=en&amp;pcode=sdg_11_40"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="de">Der Indikator misst die Zahl der Verkehrstoten, einschließlich der Fahrer und Fahrgäste von Kraftfahrzeugen und Fahrrädern sowie der Fußgänger. Personen, die innerhalb 30 Tage nach dem Unfall sterben, werden als Verkehrstote gezählt. Nach diesen 30 Tagen kann der Grund für das Versterben anders angegeben werden. Für Mitgliedstaaten, die diese Definition nicht verwenden, werden Korrekturfaktoren angewandt. Als Nenner wird die durchschnittliche Einwohnerzahl des Bezugsjahres (berechnet als arithmetisches Mittel der Bevölkerung am 1. Januar zweier aufeinander folgender Jahre) verwendet (pro 100 000 Personen).</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">El indicador mide el número de muertes causadas por accidentes de tráfico, incluidos conductores y pasajeros de vehículos motorizados y ciclos de pedaleo, así como peatones. Las personas que mueren en accidentes de tráfico hasta 30 días después de la ocurrencia del accidente se cuentan como muertes por accidentes de tráfico. Después de estos 30 días, la razón de la muerte podría ser declarada de manera diferente. En el caso de los Estados miembros que no utilizan esta definición, se aplican factores correctores. La población media del año de referencia (calculada como media aritmética de la población el 1 de enero de dos años consecutivos) se utiliza como denominador (por 100 000 personas).</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/S4Z4UgX7Aq2HyEdwYP2eNA</dct:identifier>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Smrtni slučajevi u cestovnom prometu, prema vrsti cesta (izvor: GLAVNA UPRAVA ZA PREMJEŠTAJ)</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Näitaja mõõdab liiklusõnnetustest, sealhulgas mootorsõidukite ja pedaalirataste juhtidest ja reisijatest ning jalakäijatest põhjustatud surmajuhtumite arvu. Liiklusõnnetuses hukkunuid loetakse liiklusõnnetuses hukkunuteks kuni 30 päeva jooksul pärast õnnetuse toimumist. Pärast neid 30 päeva võib surma põhjust deklareerida erinevalt. Liikmesriikide puhul, kes seda määratlust ei kasuta, kohaldatakse parandustegureid. Nimetajana kasutatakse vaatlusaasta keskmist rahvaarvu (arvutatud rahvastiku aritmeetilise keskmisena kahe järjestikuse aasta 1. jaanuaril) (100 000 inimese kohta).</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-12</dct:modified>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Ceļu satiksmes negadījumos bojā gājušo skaits pa ceļu veidiem (avots: KUSTĪBAS ĢENERĀLDIREKTORĀTS)</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/sdg_11_40_esmsip2.sdmx.zip">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/s4z4ugx7aq2hyedwyp2ena"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/sdg_11_40_esmsip2.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Dödsfall i trafiken, per vägtyp (källa: GD FLYTT)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1abbe533-e527-4ef9-9ca8-9e9080b987cf">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&amp;plugin=1&amp;language=en&amp;pcode=sdg_11_40"/>
+            <dct:title xml:lang="fr">Graphique</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">Graph</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/9053b118-7157-44aa-8768-6d4dccd68f24</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/bc5ccb8c-a6a1-492f-98fa-e0b1040b820f">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2000-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Tomhaistear leis an táscaire líon na mbásanna arb iad tionóiscí bóthair is cúis leo, lena n-áirítear tiománaithe agus paisinéirí mótarfheithiclí agus rothair cos chomh maith le coisithe. Daoine a fhaigheann bás ar thionóiscí bóthair suas le 30 lá tar éis don timpiste tarlú, áirítear iad mar bhásanna tionóisce bóthair. Tar éis na laethanta 30 seo, d’fhéadfaí an chúis le bás a dhearbhú go difriúil. I gcás na mBallstát nach bhfuil an sainmhíniú sin in úsáid acu, cuirtear fachtóirí ceartaitheacha i bhfeidhm. Úsáidtear meándhaonra na bliana tagartha (arna ríomh mar mheán uimhríochtúil an daonra an 1 Eanáir de dhá bhliain as a chéile) mar ainmneoir (in aghaidh 100 000 duine).</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="fr">L'indicateur mesure le nombre de décès causés par des accidents de la route, y compris les conducteurs et les passagers de véhicules motorisés et de cycles à pédales, ainsi que les piétons. Les personnes décédées jusqu'à 30 jours après la survenance de l'accident sont considérées comme des victimes d’accidents de la route. À l’issue de ces 30 jours, la raison de la mort pourrait être déclarée différemment. Pour les États membres n'utilisant pas cette définition, des facteurs correctifs sont appliqués. La population moyenne de l'année de référence (calculée comme la moyenne arithmétique de la population au 1er janvier de deux années consécutives) est utilisée comme dénominateur (pour 100 000 personnes).</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Ukazatel měří počet úmrtí způsobených silničními nehodami, včetně řidičů a cestujících motorových vozidel a pedálových cyklů, jakož i chodců. Osoby, které zemřely při dopravních nehodách do 30 dnů po vzniku nehody, se započítávají jako smrtelné nehody. Po těchto 30 dnech může být příčina smrti prohlášena jinak. V případě členských států, které tuto definici nepoužívají, se použijí opravné faktory. Průměrný počet obyvatel referenčního roku (vypočítaný jako aritmetický průměr populace k 1. lednu dvou po sobě jdoucích let) se používá jako jmenovatel (na 100 000 osob).</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Verkeersdoden, naar soort wegen (bron: DG VERHUIZING)</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Tieliikennekuolemat tietyypeittäin (lähde: MUUTTOPÄÄOSASTO)</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Mwiet tat-traffiku, skont it-tip ta’ toroq (sors: DĠ JIĊĊAQLAQ)</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Liiklussurmade arv teede liigi järgi (allikas: PEADIREKTORAADI KOLIMINE)</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Ο δείκτης μετρά τον αριθμό των θανάτων που προκαλούνται από τροχαία ατυχήματα, συμπεριλαμβανομένων των οδηγών και των επιβατών μηχανοκίνητων οχημάτων και ποδηλάτων ποδηλάτου, καθώς και των πεζών. Τα άτομα που πεθαίνουν σε τροχαία ατυχήματα έως και 30 ημέρες μετά την επέλευση του ατυχήματος υπολογίζονται ως θάνατοι από τροχαία ατυχήματα. Μετά από αυτές τις 30 ημέρες, ο λόγος του θανάτου μπορεί να δηλωθεί διαφορετικά. Για τα κράτη μέλη που δεν χρησιμοποιούν αυτόν τον ορισμό, εφαρμόζονται διορθωτικοί παράγοντες. Ο μέσος πληθυσμός του έτους αναφοράς (υπολογιζόμενος ως ο αριθμητικός μέσος όρος του πληθυσμού την 1η Ιανουαρίου δύο συνεχόμενων ετών) χρησιμοποιείται ως παρονομαστής (ανά 100 000 άτομα).</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">L-indikatur ikejjel l-għadd ta’ fatalitajiet ikkawżati minn inċidenti fit-toroq, inklużi s-sewwieqa u l-passiġġieri ta’ vetturi bil-mutur u roti tal-pedala kif ukoll persuni bil-mixi. Il-persuni li jmutu f’inċidenti tat-traffiku sa 30 jum wara l-okkorrenza tal-aċċident jitqiesu bħala fatalitajiet ta’ inċidenti tat-traffiku. Wara dawn it-30 jum, ir-raġuni għall-mewt tista’ tiġi ddikjarata b’mod differenti. Għall-Istati Membri li ma jużawx din id-definizzjoni, jiġu applikati fatturi korrettivi. Il-popolazzjoni medja tas-sena ta’ referenza (ikkalkulata bħala l-medja aritmetika tal-popolazzjoni fl-1 ta’ Jannar ta’ sentejn konsekuttivi) tintuża bħala denominatur (għal kull 100 000 persuna).</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Θάνατοι από τροχαία ατυχήματα, ανά τύπο οδικού δικτύου (πηγή: ΓΕΝΙΚΉ ΔΙΕΎΘΥΝΣΗ ΜΕΤΑΚΌΜΙΣΗΣ)</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Mortes na estrada, por tipo de estradas (fonte: DG MOVIMENTO)</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Śmiertelność w ruchu drogowym, według rodzaju dróg (źródło: DYREKCJA GENERALNA DS. PRZESUNIĘĆ</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Indikatorn mäter antalet dödsfall som orsakats av trafikolyckor, inklusive förare och passagerare i motorfordon och pedalcykler samt fotgängare. Personer som dör i trafikolyckor upp till 30 dagar efter olyckan räknas som dödsolyckor i trafiken. Efter dessa 30 dagar kan orsaken till att dö förklaras annorlunda. För medlemsstater som inte använder denna definition tillämpas korrigerande faktorer.
+Referensårets genomsnittliga befolkning (beräknat som befolkningens aritmetiska medelvärde den 1 januari två år i rad) används som nämnare (per 100 000 personer).</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Indikaattori mittaa liikenneonnettomuuksien aiheuttamien kuolonuhrien määrää, mukaan lukien moottoriajoneuvojen ja polkupyörien kuljettajat ja matkustajat sekä jalankulkijat. Liikenneonnettomuuksissa enintään 30 päivän kuluttua onnettomuudesta kuolleet lasketaan liikenneonnettomuuksissa kuolonuhreiksi. Näiden 30 päivän jälkeen kuoleman syy voidaan julistaa eri tavalla. Jäsenvaltioihin, jotka eivät käytä tätä määritelmää, sovelletaan korjauskertoimia. Viitevuoden keskimääräistä perusjoukkoa (laskettuna kahden peräkkäisen vuoden tammikuun 1. päivänä populaation aritmeettisena keskiarvona) käytetään nimittäjänä (100 000:ta henkilöä kohti).</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O indicador mede o número de vítimas mortais causadas por acidentes rodoviários, incluindo condutores e passageiros de veículos motorizados e ciclos de pedal, bem como peões. As pessoas que morrem em acidentes de viação até 30 dias após a ocorrência do acidente são contabilizadas como vítimas mortais por acidente de viação. Após estes 30 dias, a razão para morrer pode ser declarada de forma diferente. Para os Estados-Membros que não utilizam esta definição, aplicam-se fatores de correção. A população média do ano de referência (calculada como a média aritmética da população em 1 de janeiro de dois anos consecutivos) é utilizada como denominador (por 100 000 pessoas).</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Básanna tráchta ar bhóithre, de réir chineál na mbóithre (foinse: ARD-STIÚRTHÓIREACHT NA SOGHLUAISTEACHTA AGUS AN IOMPAIR)</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Indikatoren måler antallet af trafikdræbte som følge af trafikulykker, herunder førere og passagerer i motorkøretøjer og pedalcykler samt fodgængere. Personer, der dør af trafikulykker op til 30 dage efter ulykken, regnes som trafikulykker. Efter disse 30 dage kan årsagen til at dø erklæres anderledes. For medlemsstater, der ikke anvender denne definition, anvendes der korrigerende faktorer. Referenceårets gennemsnitspopulation (beregnet som det aritmetiske gennemsnit af befolkningen pr. 1. januar i to på hinanden følgende år) anvendes som nævner (pr. 100 000 personer).</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:10:49Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>dde2a3640031e740360173ecd1159538</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/s4z4ugx7aq2hyedwyp2ena"/>
+    <dct:identifier>S4Z4UgX7Aq2HyEdwYP2eNA</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:10:49Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:08:58Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-57975">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>2b0a1b6773e97b5b459b837fc3bb2820</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T23:54:58Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>StaNord_CMS:57975</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T13:46:03Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-03-30T23:56:44Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-13T15:16:25Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-57975"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-57975">
+        <dct:description xml:lang="cs-t-de-t0-mtec">Dovoz a vývoz Šlesvicko-Holštýnska 2010</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas 2010. gada imports un eksports</dct:description>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Import och export av Schleswig-Holstein 2010</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Importazzjoni u esportazzjoni ta’ Schleswig-Holstein 2010</dct:title>
+        <dct:description>Ein- und Ausfuhr des Landes Schleswig-Holstein 2010</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/24ee44aa-da46-406e-94e5-9407f9380700">
+            <dct:title xml:lang="da-t-de-t0-mtec">Import og eksport af Slesvig-Holsten 2010</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">In- en uitvoer van Sleeswijk-Holstein 2010</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini import ja eksport 2010</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Import and export of Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Importazzjoni u esportazzjoni ta’ Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Przywóz i wywóz Szlezwika-Holsztynu 2010</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Importazione ed esportazione dello Schleswig-Holstein 2010</dct:title>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:57975/resource/2986b737-e5b8-4be7-b658-4a4ed7b87de1</dct:identifier>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Uvoz in izvoz Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή και εξαγωγή του Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin tuonti ja vienti 2010</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_G_III_3_j_S/G_III_1_GIII_3__j10_S_SB1.pdf"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >59868</dcat:byteSize>
+            <dct:title>Ein- und Ausfuhr des Landes Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas 2010. gada imports un eksports</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_G_III_3_j_S/G_III_1_GIII_3__j10_S_SB1.pdf"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-03-04T14:13:25.083956</dct:issued>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Importul și exportul de Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Uvoz i izvoz Schleswig-Holsteina 2010.</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Importação e exportação de Schleswig-Holstein 2010</dct:title>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino importas ir eksportas 2010 m.</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Import och export av Schleswig-Holstein 2010</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein 2010 importja és exportja</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Внос и износ на Шлезвиг-Холщайн 2010</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Importations et exportations du Land de Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Allmhairiú agus onnmhairiú Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Importación y exportación de Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Dovoz a vývoz Šlezvicka-Holštajnska 2010</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Імпорт та експорт Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Dovoz a vývoz Šlesvicko-Holštýnska 2010</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Przywóz i wywóz Szlezwika-Holsztynu 2010</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Імпорт та експорт Schleswig-Holstein 2010</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Importación y exportación de Schleswig-Holstein 2010</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Dovoz a vývoz Šlezvicka-Holštajnska 2010</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Importazione ed esportazione dello Schleswig-Holstein 2010</dct:title>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Importations et exportations du Land de Schleswig-Holstein 2010</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Import og eksport af Slesvig-Holsten 2010</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Uvoz in izvoz Schleswig-Holstein 2010</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">In- en uitvoer van Sleeswijk-Holstein 2010</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Allmhairiú agus onnmhairiú Schleswig-Holstein 2010</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Dovoz a vývoz Šlesvicko-Holštýnska 2010</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Importul și exportul de Schleswig-Holstein 2010</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas 2010. gada imports un eksports</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Importazzjoni u esportazzjoni ta’ Schleswig-Holstein 2010</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Εισαγωγή και εξαγωγή του Schleswig-Holstein 2010</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Внос и износ на Шлезвиг-Холщайн 2010</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Import og eksport af Slesvig-Holsten 2010</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Import och export av Schleswig-Holstein 2010</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein 2010 importja és exportja</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino importas ir eksportas 2010 m.</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Importazione ed esportazione dello Schleswig-Holstein 2010</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">Import and export of Schleswig-Holstein 2010</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2011-05-05T00:00:00</dct:issued>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Внос и износ на Шлезвиг-Холщайн 2010</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin tuonti ja vienti 2010</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+            <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή και εξαγωγή του Schleswig-Holstein 2010</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Імпорт та експорт Schleswig-Holstein 2010</dct:title>
+        <dcat:keyword>außenhandel</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/17c0ea39-6892-4155-bf13-19381fc07fe7">
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin tuonti ja vienti 2010</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Dovoz a vývoz Šlezvicka-Holštajnska 2010</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Імпорт та експорт Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas 2010. gada imports un eksports</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >201728</dcat:byteSize>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή και εξαγωγή του Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Importations et exportations du Land de Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Przywóz i wywóz Szlezwika-Holsztynu 2010</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini import ja eksport 2010</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Importazzjoni u esportazzjoni ta’ Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino importas ir eksportas 2010 m.</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Import og eksport af Slesvig-Holsten 2010</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Dovoz a vývoz Šlesvicko-Holštýnska 2010</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_G_III_3_j_S/G_III_1_GIII_3__j10_S_SB1.xls"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Allmhairiú agus onnmhairiú Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Importación y exportación de Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Import and export of Schleswig-Holstein 2010</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Внос и износ на Шлезвиг-Холщайн 2010</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Importação e exportação de Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Importazione ed esportazione dello Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Uvoz i izvoz Schleswig-Holsteina 2010.</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Uvoz in izvoz Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein 2010 importja és exportja</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Import och export av Schleswig-Holstein 2010</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_G_III_3_j_S/G_III_1_GIII_3__j10_S_SB1.xls"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Importul și exportul de Schleswig-Holstein 2010</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">In- en uitvoer van Sleeswijk-Holstein 2010</dct:title>
+            <dct:title>Ein- und Ausfuhr des Landes Schleswig-Holstein 2010</dct:title>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:57975/resource/6dd83d70-ac80-4f50-aa9d-9a3fdee47014</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-03-04T14:13:25.083960</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-de-t0-mtec">In- en uitvoer van Sleeswijk-Holstein 2010</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini import ja eksport 2010</dct:description>
+        <dct:title>Ein- und Ausfuhr des Landes Schleswig-Holstein 2010</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino importas ir eksportas 2010 m.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dct:title xml:lang="en-t-de-t0-mtec">Import and export of Schleswig-Holstein 2010</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein 2010 importja és exportja</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Uvoz i izvoz Schleswig-Holsteina 2010.</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Dovoz a vývoz Šlezvicka-Holštajnska 2010</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Allmhairiú agus onnmhairiú Schleswig-Holstein 2010</dct:title>
+        <dcat:keyword>ein--und-ausfuhr-des-landes-schleswig-holstein-nach-ländern</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Uvoz i izvoz Schleswig-Holsteina 2010.</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin tuonti ja vienti 2010</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Importación y exportación de Schleswig-Holstein 2010</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-03-04T14:13:25.080388</dct:modified>
+        <dct:identifier>StaNord_CMS:57975</dct:identifier>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Importação e exportação de Schleswig-Holstein 2010</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Importations et exportations du Land de Schleswig-Holstein 2010</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Uvoz in izvoz Schleswig-Holstein 2010</dct:title>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+            <foaf:mbox>info@statistik-nord.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:info@statistik-nord.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.schleswig-holstein.de/organization/statistikamt-nord">
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein A.ö.R. (Statistikamt Nord)</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Importação e exportação de Schleswig-Holstein 2010</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini import ja eksport 2010</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Importul și exportul de Schleswig-Holstein 2010</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Przywóz i wywóz Szlezwika-Holsztynu 2010</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

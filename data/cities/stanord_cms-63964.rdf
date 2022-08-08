@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:schema="http://schema.org/"
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-63964">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>StaNord_CMS:63964</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-63964"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:38Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>491d306055a0c11260ac67f70e0183ea</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-14T23:46:12Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-63964">
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="el-t-de-t0-mtec">Οικοδομικές άδειες στο Αμβούργο τον Μάρτιο του 2022</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Stavebné povolenie v Hamburgu v marci 2022</dct:title>
+        <dct:title>Baugenehmigungen in Hamburg im März 2022</dct:title>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T04:08:35.747005</dct:modified>
+        <dcat:keyword>baugenehmigungen-und-bautätigkeit</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Građevinske dozvole u Hamburgu u ožujku 2022.</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Autorizații de construire în Hamburg în martie 2022</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Rakennusluvat Hampurissa maaliskuussa 2022</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Bygglov i Hamburg i mars 2022</dct:title>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dct:identifier>StaNord_CMS:63964</dct:identifier>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Permessi tal-bini f’Hamburg f’Marzu 2022</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Építési engedélyek Hamburgban 2022 márciusában</dct:title>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3e7b1542-ac70-4398-bd66-1e61515ac36c">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-12T00:00:00</dct:issued>
+            <dct:title>Baugenehmigungen in Hamburg im März 2022</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_m_H/F_II_1_m_03_22_HH.pdf"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >396263</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:08:35.747005</dct:modified>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>PDF</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >72c1db8552abf156297fe9bd15db337b930290a548b284f9db4997e395b79891</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/13b18af8-1cde-4f6c-960d-0d688fa0c00f/resource/7dc1362c-6cb3-4927-b567-483c76b14c39</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Permis de construire à Hambourg en mars 2022</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Pozwolenia na budowę w Hamburgu w marcu 2022 r.</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Building permits in Hamburg in March 2022</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-01T00:00:00</schema:startDate>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</schema:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stavební povolení v Hamburku v březnu 2022</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Būvatļaujas Hamburgā 2022. gada martā</dct:title>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statybos leidimai Hamburge 2022 m. kovo mėn.</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ehitusload Hamburgis 2022. aasta märtsis</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Дозвіл на будівництво в Гамбурзі в березні 2022 року</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5711d2da-74de-4cae-9376-9b9f12f90d6c">
+            <dct:title>Baugenehmigungen in Hamburg im März 2022 (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/13b18af8-1cde-4f6c-960d-0d688fa0c00f/resource/2d5e286c-d2bb-4b0c-86ee-fa0c0e0ef1fe</dct:identifier>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >bb99a66b28d6638167646e0bea84574fe8a18fd17259e9c08894cd8468edd9d6</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:format>ZIP</dct:format>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-12T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:08:35.747005</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >141405</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS63964/F_II_1_m_03_22_HH.zip"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Licenças de construção em Hamburgo em março 2022</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Permessi di costruzione ad Amburgo nel marzo 2022</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Gradbeno dovoljenje v Hamburgu marca 2022</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Ceadanna tógála in Hamburg i mí an Mhárta 2022</dct:title>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bouwvergunningen in Hamburg in maart 2022</dct:title>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <dct:title xml:lang="da-t-de-t0-mtec">Byggetilladelser i Hamborg i marts 2022</dct:title>
+        <dcat:keyword>baugenehmigungen-in-hamburg</dcat:keyword>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <adms:identifier>F II 1 - m 3/22 HH</adms:identifier>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-05-12T00:00:00</dct:issued>
+        <dct:title xml:lang="es-t-de-t0-mtec">Permisos de construcción en Hamburgo en marzo de 2022</dct:title>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/baugenehmigungen-in-hamburg-im-maerz-2022"/>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9459e99f-2a19-45b4-96fc-b5d59df0e647">
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/F_II_1_m_H/F_II_1_m_03_22_HH.xlsx"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/13b18af8-1cde-4f6c-960d-0d688fa0c00f/resource/46939854-e3fb-4ed8-b497-1d0eebae78b6</dct:identifier>
+            <dct:title>Baugenehmigungen in Hamburg im März 2022</dct:title>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >123842</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-12T00:00:00</dct:issued>
+            <dct:format>XLSX</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T04:08:35.747005</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >e5fd547e5f43b6d10ee984d3ceb92c049569c6b89cf1bccfb29211d98196941e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Разрешителни за строеж в Хамбург през март 2022 г.</dct:title>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:38Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

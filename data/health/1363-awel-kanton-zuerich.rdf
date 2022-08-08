@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/1363-awel-kanton-zuerich">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-08T20:06:44Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>21a52a2f9476e87ec52b1f4136188814</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/1363-awel-kanton-zuerich">
+        <dct:identifier>1363@awel-kanton-zuerich</dct:identifier>
+        <dcat:keyword xml:lang="de">russ</dcat:keyword>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/IRREG"/>
+        <dcat:keyword xml:lang="de">gemeinden</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f0c8bdde-be5b-4668-bbc9-f1144df8cf08">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-07T00:00:00</dct:modified>
+            <dct:language>de</dct:language>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/cfdb115e-2dd9-4813-a834-0fda47a3186b/resource/93e2f0cb-37e9-4408-9cf2-752c953de9c5</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >15982479</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://www.web.statistik.zh.ch/awel/ostluft_emissionsbilanzen/emissionen_gemeinden_ostluft.csv"/>
+            <dct:title xml:lang="de">Luftschadstoffemissionen im Kanton Zürich 2015, 2020 und 2030</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-07T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:description xml:lang="de">Variabeln: 'jahr' = Die Emissionsdaten liegen für die drei Zeitstände 2015, 2020 (Covid-Effekt ist nicht berücksichtigt) und 2030 vor; 'substanz' = Bezeichnung des Luftschadstoffes; 'hauptgruppe' = Zusammenfassung der Hauptemittentengruppen; 'untergruppe' = detailliertere Quellenangabe (z.B. Landschaftspflege, Feuerungen Holz und Kohle, ...); 'gemeinde': Gemeindename; 'emission' = Emissionswert (in Tonnen pro Jahr); 'bfsnr' = BFS-Gemeindenummer gemäss amtlichem Gemeindeverzeichnis der Schweiz; 'kanton' = Kürzel des Kantons (Hinweis: Ein Teil der Emissionen (z.B. Schifffahrt, ...) sind dem Greifensee ('bfsnr': 9040) und dem Zürichsee ('bfsnr': 9051) zugewiesen, 'kanton': "ZH-See"); 'einheit' = Masseinheit der Emissionen, abgekürzt: 't/a'; 'einheit_lang' = Masseinheit der Emissionen, ausgeschrieben: 'Tonnen pro Jahr'.</dct:description>
+            <dcat:downloadURL rdf:resource="https://www.web.statistik.zh.ch/awel/ostluft_emissionsbilanzen/emissionen_gemeinden_ostluft.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.bafu.admin.ch/dam/bafu/de/dokumente/klima/externe-studien-berichte/emissionskataster-schweiz-2015-treibhausgase-und-luftschadstoffe.pdf.download.pdf/Emissionskataster-Treibhausgase_Infras.pdf">
+            <rdfs:label>Emissionskataster Schweiz 2015 - Treibhausgase und Luftschadstoffe (BAFU)</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.stadt-zuerich.ch/gud/de/index/umwelt_energie/luftqualitaet/schadstoffquellen/emissionskataster.html">
+            <rdfs:label>Emissionskataster - Stadt Zürich</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:gian-marco.alt@bd.zh.ch"/>
+            <vcard:fn>Amt für Abfall, Wasser, Energie und Luft des Kantons Zürich, Abteilung Luft, Klima und Strahlung</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.aramis.admin.ch/Default?DocumentID=67471&amp;Load=true">
+            <rdfs:label>Emissionen Schweiz - Aufbereitung von Emissionskatastern für die Luftschadstoffe NOx, PM10 und PM2.5 der Jahre 2015, 2020 und 2030</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="de">schadstoffbelastung</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://stadt.winterthur.ch/gemeinde/verwaltung/sicherheit-und-umwelt/umwelt-und-gesundheitsschutz/koordination-umwelt-energie/umweltbericht">
+            <rdfs:label>Umweltbericht 2021, Winterthur</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.bafu.admin.ch/dam/bafu/de/dokumente/luft/externe-studien-berichte/no2-pm10-pm2-5-immissionen-schweiz-liechtenstein-aktualisierung-des-pollumap-modells-fuer-2015-2020-und-2030.pdf.download.pdf/PolluMap_Technischer-Bericht.pdf">
+            <rdfs:label>NO2-, PM10- und PM2.5-Immissionen Schweiz / Liechtenstein - Aktualisierung des PolluMap-Modells für 2015, 2020 und 2030; technischer Bericht (BAFU)</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="de">ammoniak</dcat:keyword>
+        <dct:title xml:lang="de">Luftschadstoffemissionen im Kanton Zürich</dct:title>
+        <dcat:keyword xml:lang="de">luft</dcat:keyword>
+        <dcat:keyword xml:lang="de">immissionen</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.zh.ch/de/umwelt-tiere/luft-strahlung/daten-karten.html"/>
+        <dcat:keyword xml:lang="de">emissionen</dcat:keyword>
+        <dcat:keyword xml:lang="de">kantonzuerich</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/awel-kanton-zuerich">
+            <foaf:name>Amt für Abfall, Wasser, Energie und Luft des Kantons Zürich</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dcat:keyword xml:lang="de">kohlenmonoxid</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-07T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="de">luftqualitaet</dcat:keyword>
+        <dcat:keyword xml:lang="de">stickstoffdioxid</dcat:keyword>
+        <dcat:keyword xml:lang="de">feinstaub</dcat:keyword>
+        <dcat:keyword xml:lang="de">luftschadstoffe</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-07T00:00:00</dct:modified>
+        <dct:description xml:lang="de">Emissionen der wichtigsten Luftschadstoffe (BC, CO, NH3, NMVOC, NOx, PM10, PM2.5, SO2) im Kanton Zürich. Die Emissionsbilanzierung liegt bis auf Stufe Gemeinde vor. Drei Zeitstände sind ausgewiesen. Hinweis: Die Städte Winterthur und Zürich verfügen über eigenen Bilanzierungen der Luftschadstoffe auf ihrem Gebiet. Detailliertere Angaben dazu sind unter "weitere Informationen" verlinkt. Die Emissionsdaten der Stickoxide (NOx), Feinstaub (PM10 und PM2.5) sowie Russ (BC) wurden im Rahmen einer schweizweiten Aktualisierung der Karten für Luftschadstoffimmissionen Schweiz und Liechtenstein 2015, 2020, 2030 in Hektarrasterauflösung bilanziert. Die Datengrundlagen für die Emissionen bildet das Emissionsinformations-System Schweiz (EMIS) – die Datenbank des Bundesamts für Umwelt BAFU mit den nationalen Luftschadstoff- und Treibhausgasemissionen - zum Zeitpunkt Mitte 2019. In einer Ergänzungsstudie im Auftrag des BAFU wurden für dieselben Emittentengruppen anschliessend auch Emissionskataster in Hektarrasterauflösung für weitere Luftschadstoffe und Treibhausgase erstellt. Im Anschluss an die genannten Arbeiten hat die 'Luftqualitätsüberwachung der Ostschweizer Kantone und des Fürstentums Liechtenstein' (OSTLUFT) die Arbeitsgemeinschaft INFRAS/Meteotest damit beauftragt, die Emissionen aller genannten Substanzen auf Stufe Gemeinden des OSTLUFT-Gebiets zu aggregieren und die Daten in geeigneter Form aufzubereiten mit dem Ziel, für die OSTLUFT-Gemeinden eine mit dem schweizerischen Emissionskataster konsistente Datengrundlage zur Verfügung zu haben.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.zh.ch/de/umwelt-tiere/luft-strahlung/luftqualitaet-auswirkungen.html">
+            <rdfs:label>Luftqualität &amp; Auswirkungen</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:05:06Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/1363-awel-kanton-zuerich"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:05:06Z</edp:transIssued>
+    <dct:identifier>1363@awel-kanton-zuerich</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

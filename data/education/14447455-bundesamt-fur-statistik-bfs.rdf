@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14447455-bundesamt-fur-statistik-bfs">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14447455-bundesamt-fur-statistik-bfs"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:11Z</dct:modified>
+    <dct:identifier>14447455@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>383cf6fc4c2b7f2cae5c7c662182e2b5</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:34:57Z</edp:transReceived>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14447455-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Ranníocaíochtaí Cónaidhme do Chúrsaí Ullmhúcháin do Scrúduithe Feidearálacha</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Federalinės įmokos už federalinių egzaminų parengiamuosius kursus</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/98b19817-6f08-4631-b7ea-dff2d2d10b82">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wkład federalny na kursy przygotowawcze do egzaminów federalnych</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Ranníocaíochtaí Cónaidhme do Chúrsaí Ullmhúcháin do Scrúduithe Feidearálacha</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Federalinės įmokos už federalinių egzaminų parengiamuosius kursus</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Federālais ieguldījums federālo eksāmenu sagatavošanas kursos</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Føderale bidrag til forberedende kurser for føderale undersøgelser</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ομοσπονδιακές συνεισφορές για προπαρασκευαστικά μαθήματα για ομοσπονδιακές εξετάσεις</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Contributions fédérales pour les cours préparatoires aux examens fédéraux</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Contribuții federale la cursurile pregătitoare pentru examenele federale</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="en-t-de-t0-mtec">Federal Contributions for Preparatory Courses for Federal Examinations</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kontribuzzjonijiet Federali għall-Korsijiet Preparatorji għall-Eżamijiet Federali</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Föderaalsed sissemaksed föderaalsete eksamite ettevalmistavatele kursustele</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Contribuições Federais para Cursos Preparatórios para Exames Federais</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Contributi federali per corsi preparatori per esami federali</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Contribuciones Federales para Cursos Preparatorios para Exámenes Federales</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Federální příspěvky na přípravné kurzy pro federální zkoušky</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Savezni doprinosi za pripremne tečajeve za savezne ispite</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Federala bidrag för förberedande kurser för federala undersökningar</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="de">Bundesbeiträge für vorbereitende Kurse auf eidgenössische Prüfungen</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:identifier>14447457-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Федеральний внесок на підготовчі курси до федеральних іспитів</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Liittovaltion panokset liittovaltion tutkintojen valmistelukursseille</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Федерални вноски за подготвителни курсове за федерални изпити</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Federálne príspevky na prípravné kurzy na federálne skúšky</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Federale bijdragen voor voorbereidende cursussen voor federale examens</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-09T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Szövetségi hozzájárulások a szövetségi vizsgák előkészítő tanfolyamaihoz</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zvezni prispevki za pripravljalne tečaje za zvezne izpite</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/1999-1900"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="it">studenti-ed-esami-delle-scuole-universitarie</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Contribuciones Federales para Cursos Preparatorios para Exámenes Federales</dct:title>
+        <dcat:keyword xml:lang="fr">publication</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:11:59.524372</dct:modified>
+        <dcat:keyword xml:lang="en">publication</dcat:keyword>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:keyword xml:lang="fr">etudiants-et-examens-finals-des-hautes-ecoles</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/031989a5-31b9-4538-a9d6-2c24235431a8">
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="et-t-it-t0-mtec">Föderaalsed sissemaksed föderaalse eksami ettevalmistamise kursustele</dct:title>
+            <dct:identifier>15044712-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="el-t-it-t0-mtec">Ομοσπονδιακές συνεισφορές για τα μαθήματα προετοιμασίας ομοσπονδιακών εξετάσεων</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Federālās iemaksas Federālo eksāmenu sagatavošanas kursiem</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Федеральні внески для федеральних курсів підготовки до іспитів</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-03T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-09T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Contribuții federale pentru cursurile de pregătire a examenelor federale</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Savezni doprinosi za Federalni ispit Pripremni tečajevi</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Føderale bidrag til Federal Exam Forberedelse Kurser</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Contribuições federais para Cursos de Preparação para Exames Federais</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Bundesbeiträge für Bundesprüfungsvorbereitungskurse</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15044712/master"/>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Składki federalne na kursy przygotowujące do egzaminów federalnych</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Federálne príspevky na federálne kurzy prípravy na skúšky</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Федерални вноски за федерални курсове за подготовка на изпити</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Szövetségi hozzájárulások a szövetségi vizsga előkészítő tanfolyamokhoz</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Federální příspěvky na přípravu federálních zkoušek</dct:title>
+            <dct:title xml:lang="it">Contributi federali per i corsi di preparazione agli esami federali</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Contributions fédérales pour les cours de préparation aux examens fédéraux</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Contribuciones federales para los cursos de preparación de exámenes federales</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Ranníocaíochtaí feidearálacha do Chúrsaí Ullmhúcháin Scrúdaithe Feidearálach</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Federal contributions for Federal Exam Preparation Courses</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Federalinės įmokos už federalinių egzaminų rengimo kursus</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15044712/master"/>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Kontribuzzjonijiet Federali għall-Korsijiet ta’ Preparazzjoni tal-Eżamijiet Federali</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Federale bijdragen voor federale examenvoorbereidingscursussen</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Liittovaltion osuudet liittovaltion tenttien valmistelukursseille</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Federala bidrag för Federal Exam Preparation Courses</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Zvezni prispevki za zvezne izpitne tečaje</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">enquete-aupres-des-personnes-diplomees-des-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Federālais ieguldījums federālo eksāmenu sagatavošanas kursos</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Federal Contributions for Preparatory Courses for Federal Examinations</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Федеральний внесок на підготовчі курси до федеральних іспитів</dct:title>
+        <dcat:keyword xml:lang="de">publikation</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Federální příspěvky na přípravné kurzy pro federální zkoušky</dct:title>
+        <dct:identifier>14447455@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/87988fea-8cb6-472d-b908-72479d5015d7">
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Federal Grants for Preparedness Kurser för Federal Examinations</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Федеральні гранти на курси підготовки до федеральних іспитів</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Føderale tilskud til forberedelseskurser til føderale undersøgelser</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Deontais Chónaidhme le haghaidh Cúrsaí Ullmhachta do Scrúduithe Feidearálacha</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14447458/master"/>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Liittovaltion apurahoja valmistautumiskursseille liittovaltion tutkimuksiin</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-03T00:00:00</dct:modified>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Federalne granty na kursy przygotowujące do egzaminów federalnych</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Malas Federais para Cursos de Preparação para Exames Federais</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Federale subsidies voor voorbereidingscursussen voor federale examens</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Federālās dotācijas sagatavotības kursiem federālajiem eksāmeniem</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Għotjiet Federali għall-Korsijiet ta’ Tħejjija għall-Eżamijiet Federali</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Bundeszuschüsse für Vorbereitungskurse für Bundesprüfungen</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Burse federale pentru cursuri de pregătire pentru examene federale</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Federalne potpore za pripravnost za savezne ispite</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ομοσπονδιακές επιχορηγήσεις για μαθήματα ετοιμότητας για ομοσπονδιακές εξετάσεις</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-09T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Federální granty na kurzy připravenosti na federální zkoušky</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Federálne granty na kurzy pripravenosti na federálne skúšky</dct:title>
+            <dct:title xml:lang="fr">Subventions fédérales pour cours préparatoires aux examens fédéraux</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Zvezne štipendije za tečaje pripravljenosti na zvezne izpite</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Federal Grants for Preparedness Courses for Federal Examinations</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:identifier>14447458-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Föderaalsed toetused föderaalseteks eksamiteks valmisoleku kursusteks</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Federalinės dotacijos pasirengimo kursams federaliniams egzaminams</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Sovvenzioni federali per corsi di preparazione agli esami federali</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Subvenciones federales para cursos de preparación para exámenes federales</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14447458/master"/>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Федерални субсидии за курсове за подготовка за федерални изпити</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Federal Grants for Preparedness Courses for Federal Examinations (Federal Grants for Preparedness Courses for Federal Examinations) – szövetségi vizsgák</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9ecccb3b-e3b4-45b7-b106-98e83f667c17">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Szövetségi hozzájárulások a szövetségi vizsgák előkészítő tanfolyamaihoz</dct:title>
+            <dct:format>PDF</dct:format>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Federālais ieguldījums federālo eksāmenu sagatavošanas kursos</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wkład federalny na kursy przygotowawcze do egzaminów federalnych</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14447457/master"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Федеральний внесок на підготовчі курси до федеральних іспитів</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14447457/master"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Федерални вноски за подготвителни курсове за федерални изпити</dct:title>
+            <dcat:mediaType>application/pdf</dcat:mediaType>
+            <dct:title xml:lang="it-t-de-t0-mtec">Contributi federali per corsi preparatori per esami federali</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Contributions fédérales pour les cours préparatoires aux examens fédéraux</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-03T00:00:00</dct:modified>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zvezni prispevki za pripravljalne tečaje za zvezne izpite</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Federale bijdragen voor voorbereidende cursussen voor federale examens</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="et-t-de-t0-mtec">Föderaalsed sissemaksed föderaalsete eksamite ettevalmistavatele kursustele</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Liittovaltion panokset liittovaltion tutkintojen valmistelukursseille</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Contribuții federale la cursurile pregătitoare pentru examenele federale</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Føderale bidrag til forberedende kurser for føderale undersøgelser</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ομοσπονδιακές συνεισφορές για προπαρασκευαστικά μαθήματα για ομοσπονδιακές εξετάσεις</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Savezni doprinosi za pripremne tečajeve za savezne ispite</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Federálne príspevky na prípravné kurzy na federálne skúšky</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Ranníocaíochtaí Cónaidhme do Chúrsaí Ullmhúcháin do Scrúduithe Feidearálacha</dct:title>
+            <dct:title xml:lang="de">Bundesbeiträge für vorbereitende Kurse auf eidgenössische Prüfungen</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Contribuições Federais para Cursos Preparatórios para Exames Federais</dct:title>
+            <dct:identifier>14447457-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">Federal Contributions for Preparatory Courses for Federal Examinations</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Federalinės įmokos už federalinių egzaminų parengiamuosius kursus</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Contribuciones Federales para Cursos Preparatorios para Exámenes Federales</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Federala bidrag för förberedande kurser för federala undersökningar</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-09T00:00:00</dct:issued>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kontribuzzjonijiet Federali għall-Korsijiet Preparatorji għall-Eżamijiet Federali</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Federální příspěvky na přípravné kurzy pro federální zkoušky</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wkład federalny na kursy przygotowawcze do egzaminów federalnych</dct:title>
+        <dct:title xml:lang="fr">Subventions fédérales pour cours préparatoires aux examens fédéraux</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/1999-1900"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Savezni doprinosi za pripremne tečajeve za savezne ispite</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8bb6594c-f2de-4641-9d8e-4811fe1f0de6">
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Għotjiet Federali għall-Korsijiet ta’ Tħejjija għall-Eżamijiet Federali</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Federalinės dotacijos pasirengimo kursams federaliniams egzaminams</dct:title>
+            <dct:identifier>14447458-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Burse federale pentru cursuri de pregătire pentru examene federale</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Deontais Chónaidhme le haghaidh Cúrsaí Ullmhachta do Scrúduithe Feidearálacha</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Federalne potpore za pripravnost za savezne ispite</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Federālās dotācijas sagatavotības kursiem federālajiem eksāmeniem</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Федерални субсидии за курсове за подготовка за федерални изпити</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Federální granty na kurzy připravenosti na federální zkoušky</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/2000-1900"/>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Sovvenzioni federali per corsi di preparazione agli esami federali</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ομοσπονδιακές επιχορηγήσεις για μαθήματα ετοιμότητας για ομοσπονδιακές εξετάσεις</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Federale subsidies voor voorbereidingscursussen voor federale examens</dct:title>
+            <dct:title xml:lang="fr">Subventions fédérales pour cours préparatoires aux examens fédéraux</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Subvenciones federales para cursos de preparación para exámenes federales</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Zvezne štipendije za tečaje pripravljenosti na zvezne izpite</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Föderaalsed toetused föderaalseteks eksamiteks valmisoleku kursusteks</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-09T00:00:00</dct:issued>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Federal Grants for Preparedness Kurser för Federal Examinations</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Federal Grants for Preparedness Courses for Federal Examinations</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Bundeszuschüsse für Vorbereitungskurse für Bundesprüfungen</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Malas Federais para Cursos de Preparação para Exames Federais</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Federal Grants for Preparedness Courses for Federal Examinations (Federal Grants for Preparedness Courses for Federal Examinations) – szövetségi vizsgák</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Føderale tilskud til forberedelseskurser til føderale undersøgelser</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Federálne granty na kurzy pripravenosti na federálne skúšky</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Federalne granty na kursy przygotowujące do egzaminów federalnych</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Федеральні гранти на курси підготовки до федеральних іспитів</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Liittovaltion apurahoja valmistautumiskursseille liittovaltion tutkimuksiin</dct:title>
+            <dct:format>HTML</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Zvezni prispevki za pripravljalne tečaje za zvezne izpite</dct:title>
+        <dcat:keyword xml:lang="de">studierende-und-abschlusse-an-hochschulen</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-campionaria</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Kontribuzzjonijiet Federali għall-Korsijiet Preparatorji għall-Eżamijiet Federali</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Liittovaltion panokset liittovaltion tutkintojen valmistelukursseille</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Ομοσπονδιακές συνεισφορές για προπαρασκευαστικά μαθήματα για ομοσπονδιακές εξετάσεις</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Szövetségi hozzájárulások a szövetségi vizsgák előkészítő tanfolyamaihoz</dct:title>
+        <dcat:keyword xml:lang="de">stichprobenerhebung</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Föderaalsed sissemaksed föderaalsete eksamite ettevalmistavatele kursustele</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="da-t-de-t0-mtec">Føderale bidrag til forberedende kurser for føderale undersøgelser</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Federala bidrag för förberedande kurser för federala undersökningar</dct:title>
+        <dcat:keyword xml:lang="en">graduate-survey</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="it">pubblicazione</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Contribuições Federais para Cursos Preparatórios para Exames Federais</dct:title>
+        <dct:title xml:lang="de">Bundesbeiträge für vorbereitende Kurse auf eidgenössische Prüfungen</dct:title>
+        <dcat:keyword xml:lang="de">absolventenstudien-hochschulen</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Contribuții federale la cursurile pregătitoare pentru examenele federale</dct:title>
+        <dct:title xml:lang="it">Contributi federali per i corsi di preparazione agli esami federali</dct:title>
+        <dcat:keyword xml:lang="en">students-and-degrees-of-higher-education-institutions</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Федерални вноски за подготвителни курсове за федерални изпити</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="fr">enquete--par-sondage</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8ab9736f-3524-4534-bfb2-7917e14dc834">
+            <dct:title xml:lang="nl-t-it-t0-mtec">Federale bijdragen voor federale examenvoorbereidingscursussen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-09T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Savezni doprinosi za Federalni ispit Pripremni tečajevi</dct:title>
+            <dct:title xml:lang="it">Contributi federali per i corsi di preparazione agli esami federali</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Federalinės įmokos už federalinių egzaminų rengimo kursus</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Federálne príspevky na federálne kurzy prípravy na skúšky</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Федерални вноски за федерални курсове за подготовка на изпити</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Bundesbeiträge für Bundesprüfungsvorbereitungskurse</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/2001-1900"/>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="et-t-it-t0-mtec">Föderaalsed sissemaksed föderaalse eksami ettevalmistamise kursustele</dct:title>
+            <dct:identifier>15044712-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Ranníocaíochtaí feidearálacha do Chúrsaí Ullmhúcháin Scrúdaithe Feidearálach</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Contribuciones federales para los cursos de preparación de exámenes federales</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Contributions fédérales pour les cours de préparation aux examens fédéraux</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Kontribuzzjonijiet Federali għall-Korsijiet ta’ Preparazzjoni tal-Eżamijiet Federali</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Zvezni prispevki za zvezne izpitne tečaje</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Федеральні внески для федеральних курсів підготовки до іспитів</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Federální příspěvky na přípravu federálních zkoušek</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="da-t-it-t0-mtec">Føderale bidrag til Federal Exam Forberedelse Kurser</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Składki federalne na kursy przygotowujące do egzaminów federalnych</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Federal contributions for Federal Exam Preparation Courses</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Szövetségi hozzájárulások a szövetségi vizsga előkészítő tanfolyamokhoz</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Contribuții federale pentru cursurile de pregătire a examenelor federale</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Federala bidrag för Federal Exam Preparation Courses</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Federālās iemaksas Federālo eksāmenu sagatavošanas kursiem</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Contribuições federais para Cursos de Preparação para Exames Federais</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Liittovaltion osuudet liittovaltion tenttien valmistelukursseille</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Ομοσπονδιακές συνεισφορές για τα μαθήματα προετοιμασίας ομοσπονδιακών εξετάσεων</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">indagine-presso-le-persone-con-diploma-di-scuola-universitaria</dcat:keyword>
+        <dcat:keyword xml:lang="en">sample-surveys</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Federálne príspevky na prípravné kurzy na federálne skúšky</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-12-09T00:00:00</dct:issued>
+        <dct:language>it</dct:language>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Federale bijdragen voor voorbereidende cursussen voor federale examens</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

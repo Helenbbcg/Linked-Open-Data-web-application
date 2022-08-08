@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-dane-gov-pl-pl-dataset-2702-statystyczne-dane-w-zakresie-mrg-za-ii-polrocze-20">
+    <edp:originalLanguage>pl</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-dane-gov-pl-pl-dataset-2702-statystyczne-dane-w-zakresie-mrg-za-ii-polrocze-20"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-31T16:38:38Z</dct:issued>
+    <dct:identifier>https://dane.gov.pl/pl/dataset/2702,statystyczne-dane-w-zakresie-mrg-za-ii-polrocze-20</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>626dbc38d3941295815bf69df24b024</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T16:38:09Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T16:38:09Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/https-dane-gov-pl-pl-dataset-2702-statystyczne-dane-w-zakresie-mrg-za-ii-polrocze-20">
+        <dct:language>
+          <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/ENG">
+            <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/language"/>
+          </dct:LinguisticSystem>
+        </dct:language>
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://dane.gov.pl/pl/institution/33,ministerstwo-spraw-zagranicznych">
+            <foaf:name xml:lang="pl">Ministerstwo Spraw Zagranicznych</foaf:name>
+            <foaf:mbox>kancelaria@msz.gov.pl</foaf:mbox>
+            <foaf:name xml:lang="en">Ministerstwo Spraw Zagranicznych</foaf:name>
+          </foaf:Agent>
+        </dct:publisher>
+        <dct:issued>2022-03-28T13:35:35.880455+00:00</dct:issued>
+        <dct:spatial>
+          <dct:Location>
+            <dct:identifier rdf:resource="http://sws.geonames.org/798544/"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:keyword>MRG</dcat:keyword>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR">
+            <skos:prefLabel xml:lang="en">International issues</skos:prefLabel>
+            <skos:inScheme>
+              <skos:ConceptScheme rdf:about="http://publications.europa.eu/resource/authority/data-theme">
+                <dct:title xml:lang="pl">Kategoria danych</dct:title>
+                <dct:title xml:lang="en">Data theme</dct:title>
+              </skos:ConceptScheme>
+            </skos:inScheme>
+            <skos:prefLabel xml:lang="pl">Kwestie międzynarodowe</skos:prefLabel>
+          </skos:Concept>
+        </dcat:theme>
+        <dct:modified>2022-03-28T13:35:35.941024+00:00</dct:modified>
+        <dct:language>
+          <dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/POL">
+            <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/language"/>
+          </dct:LinguisticSystem>
+        </dct:language>
+        <dct:description xml:lang="pl">&lt;p&gt;Statystyczne dane w zakresie MRG za II półrocze 2021 r.&lt;/p&gt;</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind>
+            <vcard:hasEmail rdf:resource="mailto:kontakt@dane.gov.pl"/>
+            <vcard:fn>KPRM</vcard:fn>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dcat:landingPage rdf:resource="https://dane.gov.pl/pl/dataset/2702,statystyczne-dane-w-zakresie-mrg-za-ii-polrocze-20"/>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/UNKNOWN">
+            <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/frequency"/>
+          </dct:Frequency>
+        </dct:accrualPeriodicity>
+        <dct:description xml:lang="en">&lt;p&gt;Statystyczne dane w zakresie MRG za II półrocze 2021 r.&lt;/p&gt;</dct:description>
+        <owl:versionInfo>None</owl:versionInfo>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title xml:lang="pl">Statystyczne dane w zakresie MRG za II półrocze 2021 r.</dct:title>
+        <dct:title xml:lang="en">Statystyczne dane w zakresie MRG za II półrocze 2021 r.</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b23405a9-f7c2-4ef1-baab-a07e8a3ca093">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >8752</dcat:byteSize>
+            <dcat:downloadURL rdf:resource="https://api.dane.gov.pl/resources/37446,statystyczne-dane-w-zakresie-mrg-za-ii-porocze-2021-r/file"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX">
+                <skos:inScheme rdf:resource="http://publications.europa.eu/resource/authority/file-type"/>
+              </dct:MediaTypeOrExtent>
+            </dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-28T13:35:36.177006Z</dct:modified>
+            <dct:identifier>https://dane.gov.pl/pl/dataset/2702/resource/37446</dct:identifier>
+            <dcat:accessURL rdf:resource="https://dane.gov.pl/pl/dataset/2702/resource/37446"/>
+            <dct:title xml:lang="pl">Statystyczne dane w zakresie MRG za II półrocze 2021 r.</dct:title>
+            <dct:title xml:lang="en">Statystyczne dane w zakresie MRG za II półrocze 2021 r.</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/POL"/>
+            <dcat:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/legalcode.pl"/>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed">
+                <skos:prefLabel xml:lang="en">Completed</skos:prefLabel>
+                <skos:inScheme>
+                  <skos:ConceptScheme rdf:about="http://purl.org/adms/status/1.0">
+                    <dct:title xml:lang="en">Status</dct:title>
+                  </skos:ConceptScheme>
+                </skos:inScheme>
+              </skos:Concept>
+            </adms:status>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="pl">&lt;p&gt;Statystyczne dane w zakresie MRG za II półrocze 2021 r.&lt;/p&gt;</dct:description>
+            <dct:description xml:lang="en">&lt;p&gt;Statystyczne dane w zakresie MRG za II półrocze 2021 r.&lt;/p&gt;</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-28T13:35:35.937063Z</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>https://dane.gov.pl/pl/dataset/2702,statystyczne-dane-w-zakresie-mrg-za-ii-polrocze-20</dct:identifier>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

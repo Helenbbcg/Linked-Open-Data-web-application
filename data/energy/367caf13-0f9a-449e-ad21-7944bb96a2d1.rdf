@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/367caf13-0f9a-449e-ad21-7944bb96a2d1">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-15T20:25:35Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/367caf13-0f9a-449e-ad21-7944bb96a2d1">
+        <dct:description xml:lang="sk-t-ga-t0-mtec">Verejný Litter BINS v rámci rady grófstva Fingal</dct:description>
+        <dct:description>Public Litter Bins within Fingal County Council shown on a map with each bin been a point which shows bin type and location.&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;</dct:description>
+        <dct:description xml:lang="pl-t-ga-t0-mtec">Miot publiczny BINS w radzie hrabstwa Fingal</dct:description>
+        <dct:title xml:lang="hr-t-ga-t0-mtec">anketna točka</dct:title>
+        <dct:identifier>367caf13-0f9a-449e-ad21-7944bb96a2d1</dct:identifier>
+        <dct:title xml:lang="uk-t-ga-t0-mtec">дослідницька точка</dct:title>
+        <dct:description xml:lang="uk-t-ga-t0-mtec">Публічний лист BINS в Fingal County Council</dct:description>
+        <dct:description xml:lang="mt-t-ga-t0-mtec">BINS Pubbliku ta’ Litter fi ħdan il-Kunsill tal-Kontea ta’ Fingal</dct:description>
+        <dct:description xml:lang="it-t-ga-t0-mtec">Bilancio annuale 2017 TabellaB FCC</dct:description>
+        <dcat:keyword>Population and Commercial</dcat:keyword>
+        <dct:description xml:lang="sv-t-ga-t0-mtec">Offentlig Litter BINS inom Fingals läns landsting</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:itservicedesk@fingal.ie"/>
+            <vcard:fn>Fingal Admin</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword>Fingal County Council</dcat:keyword>
+        <dct:description xml:lang="fi-t-ga-t0-mtec">Julkinen Litter BINS Fingalin kreivikunnan valtuustossa</dct:description>
+        <dcat:keyword>FCC</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2c295e97-adf6-4be4-8acb-f6e87873d05d">
+            <dct:title xml:lang="sk-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/367caf13-0f9a-449e-ad21-7944bb96a2d1/resource/000464d8-0af9-46b4-8d5d-679e626de069</dct:identifier>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::surveypoint-2.geojson?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"/>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">Guia de viagem de GeoJSON</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title>GeoJSON</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">GeoJSON</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:format>GeoJSON</dct:format>
+            <dct:title xml:lang="it-t-ga-t0-mtec">Foto di GeoJSON</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">GeoJSON – Videó letöltés mp3-ban</dct:title>
+            <dct:title xml:lang="uk-t-ga-t0-mtec">Створення GeoJSON</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">GeoJSON Sistēmas Prasības</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">Jocuri cu Jocul GeoJSON</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">GeoJSON GmbH</dct:title>
+            <dcat:mediaType>application/vnd.geo+json</dcat:mediaType>
+            <dct:title xml:lang="da-t-ga-t0-mtec">Hvad er GeoJSON?</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T16:21:30</dct:modified>
+        <dct:spatial>
+          <dct:Location>
+            <skos:prefLabel>Fingal</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fed2b0ac-ce71-48d3-874c-f0c76e210415">
+            <dct:title xml:lang="pt-t-ga-t0-mtec">ArcGIS GeoServiço</dct:title>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:identifier>https://data.gov.ie/dataset/367caf13-0f9a-449e-ad21-7944bb96a2d1/resource/55db23e3-2e98-4976-8876-6eb48dce204d</dct:identifier>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="uk-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">Hoteller i nærheden af ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title>ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">ArcGIS GeoService</dct:title>
+            <dcat:mediaType>application/json</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://services5.arcgis.com/CI1e5PKQXvJgmJK8/arcgis/rest/services/Bin_Locations/FeatureServer/0"/>
+            <dct:format>ArcGIS GeoServices REST API</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-ga-t0-mtec">aptaujas punkts</dct:title>
+        <dct:description xml:lang="bg-t-ga-t0-mtec">Обществени битки за отпадъци в рамките на Съвета на графство Фингал</dct:description>
+        <dct:title xml:lang="nl-t-ga-t0-mtec">enquÃatepunt</dct:title>
+        <dcat:keyword>Waste</dcat:keyword>
+        <dct:description xml:lang="lt-t-ga-t0-mtec">Viešoji literatūra Fingalo apskrities taryboje</dct:description>
+        <dct:description xml:lang="hr-t-ga-t0-mtec">Javno leglo BINS unutar Vijeća Fingal županije</dct:description>
+        <dct:title xml:lang="en-t-ga-t0-mtec">surveyPoint</dct:title>
+        <dct:title>surveyPoint</dct:title>
+        <dct:title xml:lang="ro-t-ga-t0-mtec">surveyPoint</dct:title>
+        <dct:description xml:lang="en-t-ga-t0-mtec">Public Litter BINS within Fingal County Council</dct:description>
+        <dcat:keyword>Environment</dcat:keyword>
+        <dct:title xml:lang="mt-t-ga-t0-mtec">punt ta’ Stħarriġ</dct:title>
+        <dct:title xml:lang="pt-t-ga-t0-mtec">ponto de pesquisa</dct:title>
+        <dct:title xml:lang="fr-t-ga-t0-mtec">point d’enquête</dct:title>
+        <dct:title xml:lang="es-t-ga-t0-mtec">informe sobre el estado de la construcción de viviendas sociales Q2 2021.csv</dct:title>
+        <dcat:keyword>Litter Managment</dcat:keyword>
+        <dct:description xml:lang="nl-t-ga-t0-mtec">Openbaar nest BINS in Fingal County Council</dct:description>
+        <dct:title xml:lang="pl-t-ga-t0-mtec">punkt ankiety</dct:title>
+        <dct:title xml:lang="et-t-ga-t0-mtec">uuringupunkt</dct:title>
+        <dct:description xml:lang="da-t-ga-t0-mtec">Offentlige Litter BINS i Fingal County Council</dct:description>
+        <dct:description xml:lang="fr-t-ga-t0-mtec">BINS de litière publique au sein du conseil du comté de Fingal</dct:description>
+        <dct:title xml:lang="de-t-ga-t0-mtec">Erhebungspunkt</dct:title>
+        <dcat:keyword>Public Bins</dcat:keyword>
+        <dcat:keyword>Roads</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f13b0500-6ad1-4336-b819-31691d5a9735">
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">SVENSKA</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">CSV (EM INGLÊS)</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title>CSV</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">CSV CSV</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">ROMÂNĂ</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">CSV</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/367caf13-0f9a-449e-ad21-7944bb96a2d1/resource/288c36da-5a69-4ddc-a0d4-8ba2a003e09f</dct:identifier>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="uk-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">CSV</dct:title>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::surveypoint-2.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-ga-t0-mtec">анкетна точка</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3cefcef7-7bc5-4792-a5ac-9a982cf0a0c6">
+            <dct:title xml:lang="uk-t-ga-t0-mtec">Файл фігури</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">Oblikdatoteka</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">Formatna datoteka</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title xml:lang="da-t-ga-t0-mtec">Figurfil</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">Formas fails</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">Muototiedosto</dct:title>
+            <dcat:mediaType>application/zip</dcat:mediaType>
+            <dct:title xml:lang="el-t-ga-t0-mtec">Αρχείο σχήματος</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/367caf13-0f9a-449e-ad21-7944bb96a2d1/resource/eef66408-947d-4a39-9b71-3e9528343fd1</dct:identifier>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">Formos failas</dct:title>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::surveypoint-2.zip?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"/>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">Shapefile</dct:title>
+            <dct:title xml:lang="es-t-ga-t0-mtec">Archivo de forma</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">Vormbestand</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">Shapefile</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">Shapefile</dct:title>
+            <dct:title>Shapefile</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">Alakfájl</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">Tvarový súbor</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">Fișă de formă</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">Formaatfile</dct:title>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">Formfil</dct:title>
+            <dct:format>ZIP</dct:format>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">Arquivo de forma</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">File di forma</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">Tvarový soubor</dct:title>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">Plik kształtu</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">Fajl ta’ forma</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">Файл с форма</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="da-t-ga-t0-mtec">undersøgelsespunkt</dct:title>
+        <dct:description xml:lang="sl-t-ga-t0-mtec">Javni BINS v okviru sveta okrožja Fingal</dct:description>
+        <dcat:keyword>Litter</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7d5bed34-ec6b-4271-90fc-2ef6fa2e9dec">
+            <dct:title xml:lang="uk-t-ga-t0-mtec">Набір даних ArcGIS Hub</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="es-t-ga-t0-mtec">Conjunto de datos de ArcGIS Hub</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">Jeu de données ArcGIS Hub</dct:title>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">ArcGIS Hub Dataset</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">ArcGIS Hub Dataset</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">ArcGIS Hub Dataset</dct:title>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">ArcGIS Hub Dataset</dct:title>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">ArcGIS Hub Dataset</dct:title>
+            <dct:title>ArcGIS Hub Dataset</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">ArcGIS Hub Dataset</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">ArcGIS Hub Dataset</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">ArcGIS Hub Datasæt</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">Sett ta’ Data taċ-Ċentru ArcGIS</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">Conjunto de dados do Hub ArcGIS</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">ArcGIS Hub Datensatz</dct:title>
+            <dct:format>HTML</dct:format>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/maps/FingalCoCo::surveypoint-2"/>
+            <dct:identifier>https://data.gov.ie/dataset/367caf13-0f9a-449e-ad21-7944bb96a2d1/resource/3b801ac2-0ec3-40be-bc8f-3891a20cf415</dct:identifier>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">Skup podataka ArcGIS Hub</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">Set de date ArcGIS Hub</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">ArcGIS Hub datu kopa</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">Set di dati ArcGIS Hub</dct:title>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">Zestaw danych ArcGIS Hub</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">ArcGIS Hub duomenų rinkinys</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">Podatkovni niz vozlišča ArcGIS</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">ArcGIS Hubi andmekogum</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">Набор от данни на ArcGIS Hub</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">ArcGIS Hub adatkészlet</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-ga-t0-mtec">σημείο έρευνας</dct:title>
+        <dct:description xml:lang="hu-t-ga-t0-mtec">Public Litter BINS a Fingal Megyei Tanácson belül</dct:description>
+        <dct:title xml:lang="it-t-ga-t0-mtec">questa serie di dati contiene i dati del bilancio annuale del Consiglio.</dct:title>
+        <dcat:keyword>Public</dcat:keyword>
+        <dct:description xml:lang="pt-t-ga-t0-mtec">Público Litter BINS dentro do Conselho do Condado de Fingal</dct:description>
+        <dct:description xml:lang="ro-t-ga-t0-mtec">Public Litter BINS în cadrul Consiliului Județean Fingal</dct:description>
+        <dct:description xml:lang="de-t-ga-t0-mtec">Öffentliche Litter BINS im Fingal County Council</dct:description>
+        <dct:title xml:lang="fi-t-ga-t0-mtec">tutkimuspiste</dct:title>
+        <dcat:theme rdf:resource="https://data.gov.ie/Energy"/>
+        <dct:accrualPeriodicity>Irregular</dct:accrualPeriodicity>
+        <dcat:keyword>Litter Bins</dcat:keyword>
+        <dct:title xml:lang="cs-t-ga-t0-mtec">průzkumný bod</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/fingal-county-council">
+            <foaf:name>Fingal County Council</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="sk-t-ga-t0-mtec">prieskumný bod</dct:title>
+        <dcat:landingPage rdf:resource="https://data.smartdublin.ie/dataset/surveypoint1"/>
+        <dcat:keyword>Bins</dcat:keyword>
+        <dct:title xml:lang="lt-t-ga-t0-mtec">tyrimo punktas</dct:title>
+        <dct:description xml:lang="lv-t-ga-t0-mtec">Fingalas grāfistes padomes publiskais pakaiši BINS</dct:description>
+        <dct:title xml:lang="sl-t-ga-t0-mtec">raziskovalna točka</dct:title>
+        <dcat:keyword>Open Data</dcat:keyword>
+        <dcat:keyword>Environment and Energy</dcat:keyword>
+        <dct:title xml:lang="sv-t-ga-t0-mtec">enkätställe</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1ee1cb1e-feca-4a88-ab4e-1607a8db6aa0">
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::surveypoint-2.kml?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"/>
+            <dct:title xml:lang="uk-t-ga-t0-mtec">KML &amp;AMP; QUOT;</dct:title>
+            <dct:title xml:lang="nl-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="et-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="hu-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="hr-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="fr-t-ga-t0-mtec">KML</dct:title>
+            <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/367caf13-0f9a-449e-ad21-7944bb96a2d1/resource/91349763-466b-42eb-9698-427a250e2eb1</dct:identifier>
+            <dct:title xml:lang="fi-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="lv-t-ga-t0-mtec">KML</dct:title>
+            <dct:format>KML</dct:format>
+            <dct:title xml:lang="es-t-ga-t0-mtec">KML</dct:title>
+            <dct:title>KML</dct:title>
+            <dct:title xml:lang="bg-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="lt-t-ga-t0-mtec">KML</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title xml:lang="sk-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="sv-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="en-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="cs-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="pl-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="sl-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="el-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="pt-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="da-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="de-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="mt-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="it-t-ga-t0-mtec">KML</dct:title>
+            <dct:title xml:lang="ro-t-ga-t0-mtec">ROMÂNĂ</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-ga-t0-mtec">Public Litter BINS εντός του Συμβουλίου της Κομητείας Fingal</dct:description>
+        <dct:language>en</dct:language>
+        <dct:description xml:lang="es-t-ga-t0-mtec">División Descripción Ref1:</dct:description>
+        <dcat:keyword>Recycling and Waste</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:description xml:lang="cs-t-ga-t0-mtec">Veřejné bonusy v župní radě Fingal</dct:description>
+        <dct:description xml:lang="et-t-ga-t0-mtec">Avalik praadimine Fingali krahvkonnanõukogus</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-06-30T00:00:00</dct:issued>
+        <dct:title xml:lang="hu-t-ga-t0-mtec">felmérési pont</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>367caf13-0f9a-449e-ad21-7944bb96a2d1</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-21T20:25:05Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-21T20:25:05Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>38644ce35eede84a0b9d60d0ccc96ccd</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/367caf13-0f9a-449e-ad21-7944bb96a2d1"/>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

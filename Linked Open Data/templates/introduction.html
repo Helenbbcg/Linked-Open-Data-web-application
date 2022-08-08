@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Introduction</title>
+    <link rel="stylesheet" href="../static/style.css" media="screen" type="text/css" />
+    <style type="text/css">
+        h1{
+            font-size:40px;
+            font-weight: bold;
+            margin:12px 0!important;
+
+        }
+        h2{
+            font-size:30px;
+            font-weight: bold;
+            margin:12px 0!important;
+
+        }
+        p{
+            font-size:24px;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+
+  <script src="../static/jquery-2.2.1.min.js"></script>
+  <script src="../static/bootstrap.min.js"></script>
+  <script src="../static/echarts.min.js"></script>
+
+<h1 align="center">Introduction to the Europe Data Cloud</h1>
+<div class="nav">
+		<ul>
+			<li><a href="/">Cross Domain</a></li>
+
+			<li><a href="/introduction">Introduction</a></li>
+
+			<li><a href="/education">Subclouds</a>
+
+			</li>
+
+			<li><a href="/search">Search</a>
+
+
+			</li>
+
+	   </ul>
+	</div>
+<h2>About the cloud</h2>
+<p>This web page is the home of LOD cloud diagram for the official portal for European data. The official website of the original data is <a id="intro" href="https://data.europa.eu/en">here</a>.</p>
+<p>The cloud currently contains datasets from 6 categories from European Data Portal: Transport, Regions and cities,
+    Education,culture and sport, Health, Energy and International issues.
+</p>
+<h2>Process</h2>
+<p>The developer obtained the relevant data from the European data portal through the API, processed it through the Neo4j local database and Python related libraries, and got the data that can be used for visualization.
+    Ultimately this website was formed by combining the data with the ECharts visualization library in the framework of Flask, embedded in the whole web application.
+    In addition, the combination of the Neo4j local database and the web application allows the user to search and view the relevant database.</p>
+<h2>Raw data</h2>
+<p>Raw data can be viewed <a id="intro" href="/graph">here</a>.</p>
+
+</body>
+</html>

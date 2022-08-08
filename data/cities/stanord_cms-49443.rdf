@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-49443">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:13Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-49443"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>4f643b349fedbca5723addc7d51fd296</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-19T23:49:50Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-49443">
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Atividade de construção e habitação em Hamburgo 2006</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/544a59ad-0efa-44c6-89d1-584a1d43f647">
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/arbeit_und_soziales/F_II_1_2_4_j_H/F_II_1_2_4_j06_H.xls"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >7f12d75e09d1063f05fe9b3438bcf7621b5e6f83ac23eb7ae33c375ef40d6f51</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Hochbautätigkeit und Wohnungsbestand in Hamburg 2006</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/3b07ddcd-fc04-4066-ae71-ada0cc13901e/resource/107d2af1-0341-4c83-bb31-d0772c1e74da</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T11:06:37.991641</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >109375</dcat:byteSize>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dct:format>XLS</dct:format>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/71cfcd77-f52d-46d5-8a14-c2e61f2d2733">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >115800</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/arbeit_und_soziales/F_II_1_2_4_j_H/F_II_1_2_4_j06_H.pdf"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/3b07ddcd-fc04-4066-ae71-ada0cc13901e/resource/aefa59e5-c866-405e-a04a-cee4cc2c2bfb</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>PDF</dct:format>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:title>Hochbautätigkeit und Wohnungsbestand in Hamburg 2006</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T11:06:37.991641</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >cf732f246a48742562f48d8167f959543b906d6a7cbdc77959b9f05487bff58e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Statybos veikla ir būsto fondas Hamburge 2006 m.</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-21T11:06:37.991641</dct:modified>
+        <adms:identifier>F II 1, 2, 4 - j/06 HH</adms:identifier>
+        <dct:title xml:lang="es-t-de-t0-mtec">Actividad de construcción y parque de viviendas en Hamburgo 2006</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Gradbena dejavnost in stanovanjski fond v Hamburgu 2006</dct:title>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dct:title xml:lang="el-t-de-t0-mtec">Κατασκευαστική δραστηριότητα και οικιστικό απόθεμα στο Αμβούργο 2006</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Građevinska djelatnost i stambeni fond u Hamburgu 2006.</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Будівельна діяльність і житловий фонд в Гамбурзі 2006</dct:title>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/NEVER"/>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Строителна дейност и жилищен фонд в Хамбург, 2006 г.</dct:title>
+        <dcat:keyword>hochbautätigkeit-und-wohnungsbestand-in-hamburg</dcat:keyword>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Statistik-Nord</dct:provenance>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2014-09-26T00:00:00</dct:issued>
+        <dct:title xml:lang="da-t-de-t0-mtec">Bygge- og anlægsvirksomhed og boligmasse i Hamborg 2006</dct:title>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="it-t-de-t0-mtec">Attività di costruzione e magazzino immobiliare ad Amburgo 2006</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:keyword>baugenehmigungen-und-bautätigkeit</dcat:keyword>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/hochbautaetigkeit-und-wohnungsbestand-in-hamburg-2006"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Byggnadsverksamhet och bostadsbestånd i Hamburg 2006</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Építési tevékenység és lakásállomány Hamburgban 2006</dct:title>
+        <dct:accessRights rdf:resource="http://www.govdata.de/dl-de/by-2-0"/>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:title xml:lang="en-t-de-t0-mtec">Construction activity and housing stock in Hamburg 2006</dct:title>
+        <dct:title>Hochbautätigkeit und Wohnungsbestand in Hamburg 2006</dct:title>
+        <dcat:keyword>gebäude--und-wohnungsbestand</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Działalność budowlana i zasoby mieszkaniowe w Hamburgu 2006</dct:title>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stavební činnost a bytový fond v Hamburku 2006</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Activités de construction et de logement à Hambourg 2006</dct:title>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Stavebná činnosť a bytový fond v Hamburgu 2006</dct:title>
+        <dct:identifier>StaNord_CMS:49443</dct:identifier>
+        <dct:source rdf:resource="http://www.statistik-nord.de/index.php?eID=stan_xml&amp;products=4%2C6&amp;state=1"/>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Bouwactiviteit en woningvoorraad in Hamburg 2006</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Hamburgi ehitustegevus ja elamufondid 2006</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Attività ta’ kostruzzjoni u stokk ta’ djar f’Hamburg 2006</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Būvniecība un mājokļi Hamburgā 2006</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Gníomhaíocht tógála agus stoc tithíochta in Hamburg 2006</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Rakennustoiminta ja asuntokanta Hampurissa 2006</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Activitatea de construcții și fondul locativ în Hamburg 2006</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/122bd56f-0dbd-4759-852d-3f4ab497ae4f">
+            <dct:format>ZIP</dct:format>
+            <dcat:accessURL rdf:resource="https://suche.transparenz.hamburg.de/localresources/StaNord_CMS/StaNord_CMS49443/F_II_1_2_4_j06_H.zip"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-26T00:00:00</dct:issued>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >df67883f54983028bf4f64caaffec029cb90298ba5653c5476dee87afac02350</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Hochbautätigkeit und Wohnungsbestand in Hamburg 2006 (CSV-Version in einer ZIP-Datei)</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >129321</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcatapde:licenseAttributionByText>Namensnennung: Freie und Hansestadt Hamburg, Statistisches Amt für Hamburg und Schleswig-Holstein</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/3b07ddcd-fc04-4066-ae71-ada0cc13901e/resource/ef20a18f-802e-4e27-8799-a7d3add2a734</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T11:06:37.991641</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:48:13Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:identifier>StaNord_CMS:49443</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

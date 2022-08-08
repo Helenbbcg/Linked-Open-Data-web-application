@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/daily-maps-from-emergency-response-coordination-center">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/daily-maps-from-emergency-response-coordination-center"/>
+    <dct:identifier>daily-maps-from-emergency-response-coordination-center</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:48:43Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>e5b75f66dece8b8be4db8137193090e0</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:11:44Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:11:58Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/daily-maps-from-emergency-response-coordination-center">
+        <dct:title xml:lang="el-t-en-t0-mtec">Ημερήσιοι χάρτες από το Κέντρο Συντονισμού Αντιμετώπισης Εκτάκτων Αναγκών</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">El CECRE (Centro de Coordinación de la Respuesta a Emergencias), como parte de la DG ECHO, coordina la respuesta de la UE a las catástrofes naturales y de origen humano. El CERC, en estrecha cooperación con el JRC, publica diariamente un producto denominado «Mapa diario de la ECHO». Los mapas reflejan datos sobre diversas situaciones de emergencia, como inundaciones, terremotos, incendios forestales y pandemias; temas relacionados con el cambio climático, como las anomalías del hielo marino y los temas de ayuda humanitaria, como la migración en terceros países. La fuente de los datos se menciona en los mapas.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/881"/>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Reagavimo į nelaimes koordinavimo centras (ERCC), kaip ECHO GD dalis, koordinuoja ES reagavimą į gaivalines ir žmogaus sukeltas nelaimes. RNKC, glaudžiai bendradarbiaudamas su Jungtiniu tyrimų centru, kasdien skelbia produktą, vadinamą ECHO kasdieniniu žemėlapiu. Žemėlapiuose pateikiami duomenys apie įvairias ekstremaliąsias situacijas, pvz., potvynius, žemės drebėjimus, miškų gaisrus, pandemijas; su klimato kaita susijusi tema, pavyzdžiui, jūrų ledo anomalijos ir humanitarinės pagalbos temos, pavyzdžiui, migracija trečiosiose šalyse. Duomenų šaltinis nurodytas žemėlapiuose. Reagavimo į nelaimes koordinavimo centras (ERCC), kaip ECHO GD dalis, koordinuoja ES reagavimą į gaivalines ir žmogaus sukeltas nelaimes. RNKC, glaudžiai bendradarbiaudamas su Jungtiniu tyrimų centru, kasdien skelbia produktą, vadinamą ECHO kasdieniniu žemėlapiu.
+Žemėlapiuose pateikiami duomenys apie įvairias ekstremaliąsias situacijas, pvz., potvynius, žemės drebėjimus, miškų gaisrus, pandemijas;
+su klimato kaita susijusi tema, pavyzdžiui, jūrų ledo anomalijos ir humanitarinės pagalbos temos, pavyzdžiui, migracija trečiosiose šalyse.
+Duomenų šaltinis nurodytas žemėlapiuose.</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Denní mapy z centra pro koordinaci odezvy na mimořádné události</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Το ΚΣΑΕΑ (ΚΣΑΕΑ), στο πλαίσιο της ΓΔ ECHO, συντονίζει την αντίδραση της ΕΕ σε φυσικές και ανθρωπογενείς καταστροφές. Το ΚΣΑΕΑ, σε στενή συνεργασία με το ΚΚΕρ, δημοσιεύει σε καθημερινή βάση ένα προϊόν που ονομάζεται «ECHO Daily Map». Οι χάρτες αντικατοπτρίζουν δεδομένα για διάφορες καταστάσεις έκτακτης ανάγκης, όπως πλημμύρες, σεισμοί, δασικές πυρκαγιές, πανδημίες· θέμα που σχετίζεται με την κλιματική αλλαγή, όπως οι ανωμαλίες στη θάλασσα και η ανθρωπιστική βοήθεια, όπως η μετανάστευση σε τρίτες χώρες. Η πηγή των δεδομένων αναφέρεται στους χάρτες.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O CCRE (Centro de Coordenação de Resposta de Emergência), no âmbito da DG ECHO, coordena a resposta da UE a catástrofes naturais e de origem humana. O CCRE, em estreita cooperação com o CCI, publica diariamente um produto denominado «Mapa Diária ECHO». Os mapas refletem dados sobre várias situações de emergência, como inundações, sismos, incêndios florestais, pandemias; tema relacionado com as alterações climáticas, tais como anomalias no gelo do mar e temas da ajuda humanitária, como a migração em países terceiros.
+A fonte dos dados é mencionada nos mapas.</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Léarscáileanna laethúla ón Lárionad Comhordúcháin Práinnfhreagartha</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Středisko pro koordinaci odezvy na mimořádné události (ERCC) jako součást GŘ ECHO koordinuje reakci EU na přírodní katastrofy a katastrofy způsobené člověkem. ERCC v úzké spolupráci se Společným výzkumným střediskem denně zveřejňuje produkt nazvaný „Celodenní mapa ECHO“. Mapy odrážejí údaje o různých mimořádných situacích, jako jsou povodně, zemětřesení, lesní požáry, pandemie; téma související se změnou klimatu, jako jsou anomálie mořského ledu a témata humanitární pomoci, jako je migrace ve třetích zemích. Zdroj dat je uveden v mapách.</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Hädaolukordadele reageerimise koordineerimiskeskus koordineerib humanitaarabi ja kodanikukaitse peadirektoraadi osana ELi reageerimist loodusõnnetustele ja inimtegevusest tingitud katastroofidele. ERCC avaldab tihedas koostöös Teadusuuringute Ühiskeskusega iga päev toote „ECHO Daily Map“. Kaardid kajastavad andmeid eri hädaolukordade kohta, nagu üleujutused, maavärinad, metsatulekahjud, pandeemiad; kliimamuutustega seotud teema, nagu merejää anomaaliad ja humanitaarabi teemad, nagu ränne kolmandates riikides. Andmete allikas on märgitud kaartidel.</dct:description>
+        <dct:description xml:lang="en">The ERCC (Emergency Response Coordination Center), as part of DG ECHO, coordinates the EU response to natural and man-made disasters. The ERCC, in close cooperation with JRC, publishes on a daily basis a product called ‘ECHO Daily Map’. The maps are reflecting data on various emergency situations, such as floods, earthquakes, forest fires, pandemics; climate change related topic such as sea-ice anomalies and humanitarian aid topics such as migration in third countries. The source of the data is mentioned in the maps.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f946c4ca-e6e9-4cd4-a22c-4d8a17673ec1">
+            <dct:title xml:lang="es-t-en-t0-mtec">Mapas diarios creados por ERCC</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Dagelijkse kaarten gemaakt door ERCC</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Dagliga kartor skapade av ERCC</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Mapep ta’ kuljum maħluqa mill-ERCC</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Denní mapy vytvořené ERCC</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Cartes quotidiennes créées par l’ERCC</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Denné mapy vytvorené ERCC</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Léarscáileanna laethúla arna gcruthú ag ERCC</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Dnevni zemljevidi, ki jih je ustvaril ERCC</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">ERCC:n luomat päivittäiset kartat</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Дневни карти, създадени от ERCC</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Dienas kartes, ko izveidojis ERCC</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Az ERCC által létrehozott napi térképek</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Codzienne mapy tworzone przez ERCC</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">ERCC loodud igapäevased kaardid</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ημερήσιοι χάρτες που δημιουργούνται από το ΚΣΑΕΑ</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Dnevne karte koje izrađuje ERCC</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/5c14045c-0102-452f-814e-a97aa2699b77</dct:identifier>
+            <dct:title xml:lang="en">Daily maps created by ERCC</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">ERCC sukurti dienos žemėlapiai</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="da-t-en-t0-mtec">Daglige kort oprettet af ERCC</dct:title>
+            <dcat:accessURL>
+              <foaf:Document rdf:about="https://erccportal.jrc.ec.europa.eu/Maps/Daily-maps">
+                <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/daily-maps-from-emergency-response-coordination-center"/>
+                <schema:url>https://erccportal.jrc.ec.europa.eu/Maps/Daily-maps</schema:url>
+              </foaf:Document>
+            </dcat:accessURL>
+            <dct:title xml:lang="it-t-en-t0-mtec">Mappe giornaliere create da ERCC</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Hărți zilnice create de ERCC</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Mapas diários criados pelo CCRE</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Vom ERCC erstellte Tageskarten</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Mapep ta’ kuljum miċ-Ċentru ta’ Koordinazzjoni għal Rispons ta’ Emerġenza</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Het ERCC (Coördinatiecentrum voor respons in noodsituaties), als onderdeel van DG ECHO, coördineert de EU-respons op natuurrampen en door de mens veroorzaakte rampen. Het ERCC publiceert in nauwe samenwerking met het GCO dagelijks een product genaamd „ECHO Daily Map”. De kaarten geven gegevens weer over verschillende noodsituaties, zoals overstromingen, aardbevingen, bosbranden, pandemieën; aan klimaatverandering gerelateerde onderwerpen, zoals anomalieën van zeeijs en humanitaire hulp, zoals migratie in derde landen. De bron van de gegevens wordt vermeld in de kaarten.</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Mapas diários do Centro de Coordenação de Resposta de Emergência</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ECHO"/>
+        </dct:publisher>
+        <dct:description xml:lang="mt-t-en-t0-mtec">L-ERCC (Ċentru ta’ Koordinazzjoni tar-Rispons ta’ Emerġenza), bħala parti mid-DĠ ECHO, jikkoordina r-rispons tal-UE għad-diżastri naturali u dawk ikkawżati mill-bniedem. L-ERCC, f’kooperazzjoni mill-qrib mal-JRC, jippubblika fuq bażi ta’ kuljum prodott imsejjaħ “ECHO Daily Map”. Il-mapep jirriflettu d-data dwar diversi sitwazzjonijiet ta’ emerġenza, bħall-għargħar, it-terremoti, in-nirien fil-foresti, il-pandemiji; suġġett relatat mat-tibdil fil-klima bħal anomaliji tas-silġ tal-baħar u suġġetti ta’ għajnuna umanitarja bħall-migrazzjoni f’pajjiżi terzi. Is-sors tad-data jissemma fil-mapep. L-ERCC (Ċentru ta’ Koordinazzjoni tar-Rispons ta’ Emerġenza), bħala parti mid-DĠ ECHO, jikkoordina r-rispons tal-UE għad-diżastri naturali u dawk ikkawżati mill-bniedem.
+L-ERCC, f’kooperazzjoni mill-qrib mal-JRC, jippubblika fuq bażi ta’ kuljum prodott imsejjaħ “ECHO Daily Map”.
+Il-mapep jirriflettu d-data dwar diversi sitwazzjonijiet ta’ emerġenza, bħall-għargħar, it-terremoti, in-nirien fil-foresti, il-pandemiji;
+suġġett relatat mat-tibdil fil-klima bħal anomaliji tas-silġ tal-baħar u suġġetti ta’ għajnuna umanitarja bħall-migrazzjoni f’pajjiżi terzi.
+Is-sors tad-data jissemma fil-mapep.</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">ERCC (Centrum Koordynacji Reagowania Kryzysowego) w ramach DG ECHO koordynuje reagowanie UE na klęski żywiołowe i katastrofy spowodowane przez człowieka. ERCC, w ścisłej współpracy z JRC, publikuje codziennie produkt o nazwie „codzienna mapa ECHO”. Mapy odzwierciedlają dane dotyczące różnych sytuacji nadzwyczajnych, takich jak powodzie, trzęsienia ziemi, pożary lasów, pandemie; kwestie związane ze zmianą klimatu, takie jak anomalie związane z lodami morskimi i zagadnienia pomocy humanitarnej, takie jak migracja w państwach trzecich.
+Źródło danych jest wymienione na mapach.</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Déanann ERCC (an Lárionad Comhordúcháin Freagartha Éigeandála), mar chuid de AS ECHO, comhordú ar fhreagairt an Aontais ar thubaistí nádúrtha agus ar thubaistí de dhéantús an duine. Foilsíonn ERCC, i ndlúthchomhar le JRC, táirge ar a dtugtar ‘Léarscáil Laethúil ECHO’ gach lá. Tá na léarscáileanna ag breathnú ar shonraí maidir le cásanna éigeandála éagsúla, amhail tuilte, creathanna talún, dóiteáin foraoise, paindéimí; ábhar a bhaineann leis an athrú aeráide amhail aimhrialtachtaí muir-oighir agus ábhair a bhaineann le cabhair dhaonnúil amhail an imirce i dtríú tíortha. Luaitear foinse na sonraí sna léarscáileanna. Déanann ERCC (an Lárionad Comhordúcháin Freagartha Éigeandála), mar chuid de AS ECHO, comhordú ar fhreagairt an Aontais ar thubaistí nádúrtha agus ar thubaistí de dhéantús an duine. Foilsíonn ERCC, i ndlúthchomhar le JRC, táirge ar a dtugtar ‘Léarscáil Laethúil ECHO’ gach lá.
+Tá na léarscáileanna ag breathnú ar shonraí maidir le cásanna éigeandála éagsúla, amhail tuilte, creathanna talún, dóiteáin foraoise, paindéimí;
+ábhar a bhaineann leis an athrú aeráide amhail aimhrialtachtaí muir-oighir agus ábhair a bhaineann le cabhair dhaonnúil amhail an imirce i dtríú tíortha.
+Luaitear foinse na sonraí sna léarscáileanna.</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">ERCC (centrumet för samordning av katastrofberedskap), som en del av GD ECHO, samordnar EU:s insatser vid naturkatastrofer och katastrofer orsakade av människor. ERCC publicerar dagligen, i nära samarbete med JRC, en produkt som kallas ”ECHO Daily Map”. Kartorna återspeglar uppgifter om olika nödsituationer, t.ex. översvämningar, jordbävningar, skogsbränder och pandemier. klimatförändringsrelaterade ämnen såsom havs-is-anomalier och humanitära biståndsämnen, t.ex. migration i tredjeländer.
+Källan till uppgifterna anges i kartorna.</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Ежедневни карти от Координационния център за реагиране при извънредни ситуации</dct:title>
+        <dct:description xml:lang="fr-t-en-t0-mtec">L’ERCC (Centre de coordination de la réaction d’urgence), qui fait partie de la DG ECHO, coordonne la réaction de l’UE en cas de catastrophes naturelles ou d’origine humaine. L’ERCC, en étroite coopération avec le CCR, publie quotidiennement un produit appelé «ECHO Daily Map». Les cartes reflètent des données sur diverses situations d’urgence, telles que les inondations, les tremblements de terre, les incendies de forêt, les pandémies; les thèmes liés au changement climatique, tels que les anomalies de la glace de mer et l’aide humanitaire, tels que les migrations dans les pays tiers. La source des données est mentionnée dans les cartes.</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">ERCC (Koordinacijski centar za odgovor na hitne situacije), kao dio Glavne uprave ECHO, koordinira odgovor EU-a na prirodne katastrofe i katastrofe uzrokovane ljudskim djelovanjem. ERCC, u bliskoj suradnji s JRC-om, svakodnevno objavljuje proizvod pod nazivom „Dnevna karta ECHO-a”. Karte odražavaju podatke o različitim izvanrednim situacijama, kao što su poplave, potresi, šumski požari, pandemije; tema povezana s klimatskim promjenama, kao što su anomalije morskog leda i teme humanitarne pomoći, kao što su migracije u trećim zemljama. Izvor podataka naveden je u zemljovidima. ERCC (Koordinacijski centar za odgovor na hitne situacije), kao dio Glavne uprave ECHO, koordinira odgovor EU-a na prirodne katastrofe i katastrofe uzrokovane ljudskim djelovanjem. ERCC, u bliskoj suradnji s JRC-om, svakodnevno objavljuje proizvod pod nazivom „Dnevna karta ECHO-a”.
+Karte odražavaju podatke o različitim izvanrednim situacijama, kao što su poplave, potresi, šumski požari, pandemije;
+tema povezana s klimatskim promjenama, kao što su anomalije morskog leda i teme humanitarne pomoći, kao što su migracije u trećim zemljama.
+Izvor podataka naveden je u zemljovidima.</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">ERCC (Center za usklajevanje nujnega odziva) kot del GD ECHO usklajuje odziv EU na naravne nesreče in nesreče, ki jih povzroči človek. ERCC v tesnem sodelovanju s Skupnim raziskovalnim središčem dnevno objavlja produkt, imenovan „dnevni zemljevid ECHO“. Zemljevidi odražajo podatke o različnih izrednih razmerah, kot so poplave, potresi, gozdni požari, pandemije; teme, povezane s podnebnimi spremembami, kot so anomalije morskega ledu in teme humanitarne pomoči, kot so migracije v tretjih državah.
+Vir podatkov je naveden na zemljevidih.</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Mappe giornaliere dal centro di coordinamento della risposta alle emergenze</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Reagavimo į nelaimes koordinavimo centro dienos žemėlapiai</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Hädaolukordadele reageerimise koordineerimiskeskuse igapäevased kaardid</dct:title>
+        <dcat:landingPage rdf:resource="https://erccportal.jrc.ec.europa.eu/Maps/Daily-maps"/>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Hätäavun koordinointikeskus (ERCC) koordinoi osana humanitaarisen avun ja pelastuspalveluasioiden pääosastoa EU:n toimia luonnonkatastrofeissa ja ihmisen aiheuttamissa katastrofeissa. ERCC julkaisee tiiviissä yhteistyössä YTK:n kanssa päivittäin ”ECHO Daily Map” -nimisen tuotteen. Kartat heijastavat tietoja erilaisista hätätilanteista, kuten tulvista, maanjäristyksistä, metsäpaloista ja pandemioista. ilmastonmuutokseen liittyvä aihe, kuten jäämeren poikkeavuudet ja humanitaarisen avun aiheet, kuten muuttoliike kolmansissa maissa. Tietojen lähde mainitaan kartoissa. Hätäavun koordinointikeskus (ERCC) koordinoi osana humanitaarisen avun ja pelastuspalveluasioiden pääosastoa EU:n toimia luonnonkatastrofeissa ja ihmisen aiheuttamissa katastrofeissa. ERCC julkaisee tiiviissä yhteistyössä YTK:n kanssa päivittäin ”ECHO Daily Map” -nimisen tuotteen.
+Kartat heijastavat tietoja erilaisista hätätilanteista, kuten tulvista, maanjäristyksistä, metsäpaloista ja pandemioista.
+ilmastonmuutokseen liittyvä aihe, kuten jäämeren poikkeavuudet ja humanitaarisen avun aiheet, kuten muuttoliike kolmansissa maissa.
+Tietojen lähde mainitaan kartoissa.</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Hätäavun koordinointikeskuksen päivittäiset kartat</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Dagliga kartor från Emergency Response Coordination Center</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Ikdienas kartes no Ārkārtas reaģēšanas koordinācijas centra</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Hărți zilnice de la Centrul de Coordonare a Răspunsului la Urgențe</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az ERCC (Veszélyhelyzet-reagálási Koordinációs Központ) a DG ECHO részeként koordinálja a természeti és ember okozta katasztrófákra adott uniós reagálást. Az ERCC a Közös Kutatóközponttal szoros együttműködésben napi rendszerességgel közzéteszi az „ECHO Daily Map” elnevezésű terméket. A térképek különböző vészhelyzetekre, például árvizekre, földrengésekre, erdőtüzekre, járványokra vonatkozó adatokat tükröznek; az éghajlatváltozással kapcsolatos témák, mint például a tengeri jég anomáliái és a humanitárius segítségnyújtással kapcsolatos kérdések, mint például a harmadik országokba irányuló migráció. Az adatok forrása szerepel a térképen. Az ERCC (Veszélyhelyzet-reagálási Koordinációs Központ) a DG ECHO részeként koordinálja a természeti és ember okozta katasztrófákra adott uniós reagálást. Az ERCC a Közös Kutatóközponttal szoros együttműködésben napi rendszerességgel közzéteszi az „ECHO Daily Map” elnevezésű terméket.
+A térképek különböző vészhelyzetekre, például árvizekre, földrengésekre, erdőtüzekre, járványokra vonatkozó adatokat tükröznek;
+az éghajlatváltozással kapcsolatos témák, mint például a tengeri jég anomáliái és a humanitárius segítségnyújtással kapcsolatos kérdések, mint például a harmadik országokba irányuló migráció.
+Az adatok forrása szerepel a térképen.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">ERCC (Координационен център за спешно реагиране), като част от ГД „Хуманитарна помощ“, координира реакцията на ЕС при природни и причинени от човека бедствия. ERCC, в тясно сътрудничество със Съвместния изследователски център, публикува ежедневно продукт, наречен „ECHO Daily Map“. Картите отразяват данни за различни извънредни ситуации, като наводнения, земетресения, горски пожари, пандемии; тема, свързана с изменението на климата, като например аномалии с морски ледове и въпроси, свързани с хуманитарната помощ, като миграцията в трети държави. Източникът на данните е посочен в картите. ERCC (Координационен център за спешно реагиране), като част от ГД „Хуманитарна помощ“, координира реакцията на ЕС при природни и причинени от човека бедствия. ERCC, в тясно сътрудничество със Съвместния изследователски център, публикува ежедневно продукт, наречен „ECHO Daily Map“.
+Картите отразяват данни за различни извънредни ситуации, като наводнения, земетресения, горски пожари, пандемии;
+тема, свързана с изменението на климата, като например аномалии с морски ледове и въпроси, свързани с хуманитарната помощ, като миграцията в трети държави.
+Източникът на данните е посочен в картите.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dct:title xml:lang="en">Daily maps from Emergency Response Coordination Center</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Dnevni zemljevidi iz centra za usklajevanje nujnega odziva</dct:title>
+        <dct:description xml:lang="de-t-en-t0-mtec">Das ERCC (Emergency Response Coordination Center) koordiniert als Teil der GD ECHO die Reaktion der EU auf Naturkatastrophen und vom Menschen verursachte Katastrophen. Das ERCC veröffentlicht in enger Zusammenarbeit mit der JRC täglich ein Produkt namens „ECHO Daily Map“. Die Karten spiegeln Daten über verschiedene Notsituationen wider, wie Überschwemmungen, Erdbeben, Waldbrände, Pandemien; Themen im Zusammenhang mit dem Klimawandel wie Seeeisanomalien und humanitäre Hilfe wie Migration in Drittländern. Die Quelle der Daten wird in den Karten erwähnt.</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">ERCC (Ārkārtas reaģēšanas koordinācijas centrs) ECHO ĢD ietvaros koordinē ES reakciju uz dabas un cilvēka izraisītām katastrofām. ERCC ciešā sadarbībā ar JRC katru dienu publicē produktu ar nosaukumu “ECHO Daily Map”. Kartes atspoguļo datus par dažādām ārkārtas situācijām, piemēram, plūdiem, zemestrīcēm, mežu ugunsgrēkiem, pandēmijām; ar klimata pārmaiņām saistīti jautājumi, piemēram, jūras ledus anomālijas un humānās palīdzības tēmas, piemēram, migrācija trešās valstīs. Datu avots ir minēts kartēs. ERCC (Ārkārtas reaģēšanas koordinācijas centrs) ECHO ĢD ietvaros koordinē ES reakciju uz dabas un cilvēka izraisītām katastrofām.
+ERCC ciešā sadarbībā ar JRC katru dienu publicē produktu ar nosaukumu “ECHO Daily Map”.
+Kartes atspoguļo datus par dažādām ārkārtas situācijām, piemēram, plūdiem, zemestrīcēm, mežu ugunsgrēkiem, pandēmijām;
+ar klimata pārmaiņām saistīti jautājumi, piemēram, jūras ledus anomālijas un humānās palīdzības tēmas, piemēram, migrācija trešās valstīs.
+Datu avots ir minēts kartēs.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Codzienne mapy z Centrum Koordynacji Reagowania Kryzysowego</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Dnevne karte Koordinacijskog centra za odgovor na hitne situacije</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/92a89d4a-3c26-4f35-9a3f-c5757a117bee"/>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Cartes quotidiennes du Centre de coordination des interventions d’urgence</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">ERCC (Emergency Response Coordination Center) som en del af GD ECHO koordinerer EU's indsats i forbindelse med naturkatastrofer og menneskeskabte katastrofer. ERCC offentliggør i tæt samarbejde med JRC dagligt et produkt kaldet "ECHO Daily Map". Kortene afspejler data om forskellige nødsituationer såsom oversvømmelser, jordskælv, skovbrande og pandemier; klimaændringsrelaterede emner som f.eks. uregelmæssigheder i havet og humanitær bistand som f.eks. migration i tredjelande. Kilden til dataene er nævnt i kortene. ERCC (Emergency Response Coordination Center) som en del af GD ECHO koordinerer EU's indsats i forbindelse med naturkatastrofer og menneskeskabte katastrofer. ERCC offentliggør i tæt samarbejde med JRC dagligt et produkt kaldet "ECHO Daily Map".
+Kortene afspejler data om forskellige nødsituationer såsom oversvømmelser, jordskælv, skovbrande og pandemier;
+klimaændringsrelaterede emner som f.eks. uregelmæssigheder i havet og humanitær bistand som f.eks. migration i tredjelande.
+Kilden til dataene er nævnt i kortene.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Koordinačné centrum pre núdzové reakcie (ERCC) ako súčasť GR ECHO koordinuje reakciu EÚ na prírodné katastrofy a katastrofy spôsobené ľudskou činnosťou. ERCC v úzkej spolupráci so Spoločným výskumným centrom denne uverejňuje produkt s názvom „ECHO Daily Map“. Mapy odrážajú údaje o rôznych núdzových situáciách, ako sú záplavy, zemetrasenia, lesné požiare, pandémie; téma súvisiaca so zmenou klímy, ako sú námorno-ľadové anomálie a témy humanitárnej pomoci, ako je migrácia v tretích krajinách.
+Zdroj údajov je uvedený v mapách.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Dagelijkse kaarten van het Coördinatiecentrum voor respons in noodsituaties</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A Veszélyhelyzet-reagálási Koordinációs Központ napi térképei</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Denné mapy z Koordinačného centra pre reakcie na núdzové situácie</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">ERCC (Centrul de coordonare a răspunsului la situații de urgență), ca parte a DG ECHO, coordonează răspunsul UE la dezastre naturale și provocate de om. ERCC, în strânsă cooperare cu JRC, publică zilnic un produs denumit „ECHO Daily Map”. Hărțile reflectă date privind diverse situații de urgență, cum ar fi inundațiile, cutremurele, incendiile forestiere, pandemiile; subiect legat de schimbările climatice, cum ar fi anomaliile legate de gheața marină și aspectele legate de ajutorul umanitar, cum ar fi migrația în țările terțe.
+Sursa datelor este menționată în hărți.</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Daglige kort fra Katastrofeberedskabskoordinationscenter</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Mapas diarios del Centro de Coordinación de la Respuesta a Emergencias</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">Tägliche Karten vom Emergency Response Coordination Center</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">L'ERCC (Centro di coordinamento della risposta alle emergenze), nell'ambito della DG ECHO, coordina la risposta dell'UE alle catastrofi naturali e provocate dall'uomo. L'ERCC, in stretta collaborazione con il CCR, pubblica quotidianamente un prodotto denominato "ECHO Daily Map". Le mappe riflettono dati su varie situazioni di emergenza, quali inondazioni, terremoti, incendi boschivi, pandemie; temi connessi ai cambiamenti climatici, quali le anomalie del ghiaccio marino e gli aiuti umanitari, come la migrazione nei paesi terzi. La fonte dei dati è menzionata nelle mappe. L'ERCC (Centro di coordinamento della risposta alle emergenze), nell'ambito della DG ECHO, coordina la risposta dell'UE alle catastrofi naturali e provocate dall'uomo. L'ERCC, in stretta collaborazione con il CCR, pubblica quotidianamente un prodotto denominato "ECHO Daily Map".
+Le mappe riflettono dati su varie situazioni di emergenza, quali inondazioni, terremoti, incendi boschivi, pandemie;
+temi connessi ai cambiamenti climatici, quali le anomalie del ghiaccio marino e gli aiuti umanitari, come la migrazione nei paesi terzi.
+La fonte dei dati è menzionata nelle mappe.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T18:12:57Z</edp:transReceived>
+  </dcat:CatalogRecord>
+</rdf:RDF>

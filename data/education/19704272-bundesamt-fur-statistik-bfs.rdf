@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/19704272-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:08Z</dct:issued>
+    <dct:identifier>19704272@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:08Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/19704272-bundesamt-fur-statistik-bfs"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:16:12Z</edp:transReceived>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:21Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/19704272-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="en">household-budget-survey</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor uvádí roční údaje o měsíčních výdajích na spotřebu domácností na domácnost za informační a komunikační technologie (IKT) a ročních výdajích domácností na spotřebu IKT podle kategorie výdajů (produkty IKT, služby IKT), kategorie produktů a kategorií služeb od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Gasto en TIC de los hogares</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Caiteachas TFC teaghlach</dct:title>
+        <dcat:keyword xml:lang="fr">culture-medias-societe-de-linformation-sport</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wydatki gospodarstw domowych na ICT</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-витрати домогосподарств</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the monthly consumption expenditure per household for information and communication technology (ICT) and annual household ICT consumption expenditure by category of expenditure (ICT products, ICT services), product category and service category since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Spesa per le TIC delle famiglie</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Despesas de TIC das famílias</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-07-06T00:00:00</dct:issued>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-kulud</dct:title>
+        <dcat:keyword xml:lang="it">indagine-sul-budget-delle-economie-domestiche</dcat:keyword>
+        <dct:title xml:lang="de">IKT-Ausgaben der Haushalte</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udgifter</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:09:08.276551</dct:modified>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so prikazani letni podatki o mesečnih izdatkih za potrošnjo na gospodinjstvo za informacijsko in komunikacijsko tehnologijo (IKT) ter letnih izdatkih gospodinjstev za porabo IKT po kategorijah izdatkov (izdelki IKT, storitve IKT), kategoriji proizvodov in kategoriji storitev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku. V tem naboru podatkov so prikazani letni podatki o mesečnih izdatkih za potrošnjo na gospodinjstvo za informacijsko in komunikacijsko tehnologijo (IKT) ter letnih izdatkih gospodinjstev za porabo IKT po kategorijah izdatkov (izdelki IKT, storitve IKT), kategoriji proizvodov in kategoriji storitev od leta 1998.
+Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+        <dcat:keyword xml:lang="fr">enquete--par-sondage</dcat:keyword>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiákra (IKT) vonatkozó havi fogyasztási kiadások éves adatait, valamint a háztartások IKT-fogyasztásával kapcsolatos éves kiadásokat mutatja be kiadási kategóriák (IKT-termékek, IKT-szolgáltatások), termékkategóriák és szolgáltatáskategóriák szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del gasto en consumo mensual por hogar para las tecnologías de la información y la comunicación (TIC) y el gasto anual en consumo de TIC de los hogares por categoría de gasto (productos de TIC, servicios de TIC), categoría de productos y categoría de servicios desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+        <dct:title xml:lang="fr">Dépenses TIC des ménages</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale cheltuielilor lunare de consum pe gospodărie pentru tehnologia informației și comunicațiilor (TIC) și cheltuielile anuale de consum TIC ale gospodăriilor populației pe categorii de cheltuieli (produse TIC, servicii TIC), categorie de produse și categorii de servicii începând cu 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în anexă. Acest set de date prezintă cifrele anuale ale cheltuielilor lunare de consum pe gospodărie pentru tehnologia informației și comunicațiilor (TIC) și cheltuielile anuale de consum TIC ale gospodăriilor populației pe categorii de cheltuieli (produse TIC, servicii TIC), categorie de produse și categorii de servicii începând cu 1998.
+Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os valores anuais das despesas mensais de consumo por agregado familiar para as tecnologias da informação e comunicação (TIC) e as despesas anuais de consumo de TIC das famílias por categoria de despesa (produtos TIC, serviços de TIC), categoria de produtos e categoria de serviços desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice. Este conjunto de dados apresenta os valores anuais das despesas mensais de consumo por agregado familiar para as tecnologias da informação e comunicação (TIC) e as despesas anuais de consumo de TIC das famílias por categoria de despesa (produtos TIC, serviços de TIC), categoria de produtos e categoria de serviços desde 1998.
+As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/40a59e4c-a4d2-4255-ae5e-4bdbc4a119f4">
+            <dct:title xml:lang="uk-t-fr-t0-mtec">ІКТ-витрати домогосподарств</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Разходи за ИКТ на домакинствата</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Nefqa tal-unitajiet domestiċi fuq l-ICT</dct:title>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">Acest set de date prezintă cifrele anuale ale cheltuielilor lunare de consum pe gospodărie pentru tehnologiile informației și comunicațiilor (TIC) și cheltuielile anuale de consum în TIC ale gospodăriilor populației, pe categorii de cheltuieli (bunuri TIC, servicii TIC), categorii de bunuri și servicii, începând cu 1998.
+Descrierile variabilelor din fișierul CSV sunt disponibile în apendice.</dct:description>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">I denna datauppsättning redovisas de årliga siffrorna för de månatliga konsumtionsutgifterna per hushåll för informations- och kommunikationsteknik (IKT) och de årliga konsumtionsutgifterna i hushållens IKT efter utgiftskategori (IKT-varor, IKT-tjänster), varukategori och tjänstekategori sedan 1998. Beskrivningar av variablerna i CSV-filen finns i tillägget.</dct:description>
+            <dct:description xml:lang="es-t-fr-t0-mtec">Este conjunto de datos presenta las cifras anuales del gasto en consumo mensual por hogar en tecnologías de la información y la comunicación (TIC) y el gasto anual en consumo en las TIC de los hogares por categoría de gasto (bienes de las TIC, servicios de TIC), categoría de bienes y categoría de servicios, desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Cheltuieli TIC ale gospodăriilor populației</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Wydatki gospodarstw domowych na ICT</dct:title>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία της μηνιαίας καταναλωτικής δαπάνης ανά νοικοκυριό για τις τεχνολογίες πληροφοριών και επικοινωνιών (ΤΠΕ) και της ετήσιας καταναλωτικής δαπάνης στις ΤΠΕ των νοικοκυριών ανά κατηγορία δαπανών (ΤΠΕ, υπηρεσίες ΤΠΕ), κατηγορία αγαθών και κατηγορία υπηρεσιών, από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:title xml:lang="de-t-fr-t0-mtec">IKT-Ausgaben der privaten Haushalte</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Kotitalouksien tieto- ja viestintätekniikkamenot</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Izdatki gospodinjstev za IKT</dct:title>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an chaiteachais mhíosúil ar thomhaltas in aghaidh an teaghlaigh maidir le teicneolaíochtaí faisnéise agus cumarsáide (TFC) agus caiteachas bliantúil ar thomhaltas in TFCanna teaghlach de réir catagóir caiteachais (earraí TFC, seirbhísí TFC), catagóir earraí agus catagóir seirbhíse, ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san Aguisín.</dct:description>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">U ovom skupu podataka prikazani su godišnji iznosi mjesečnih izdataka potrošnje po kućanstvu za informacijske i komunikacijske tehnologije (IKT) i godišnjih izdataka za potrošnju u kategorijama rashoda kućanstava (IKT roba, IKT usluge), kategorija robe i kategorija usluga, od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δαπάνες των νοικοκυριών στον τομέα των ΤΠΕ</dct:title>
+            <dct:description xml:lang="de-t-fr-t0-mtec">In diesem Datensatz werden die jährlichen monatlichen Konsumausgaben pro Haushalt für die Informations- und Kommunikationstechnologien (IKT) sowie die jährlichen Konsumausgaben der privaten Haushalte nach Ausgabenkategorie (IKT-Waren, IKT-Dienstleistungen), Warenkategorie und Dienstleistungskategorie seit 1998 dargestellt. Beschreibungen der Variablen der CSV-Datei finden Sie im Anhang.</dct:description>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">ICT-uitgaven van huishoudens</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Gasto en TIC de los hogares</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/ts-x-ind-30103_dep"/>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kodumajapidamiste IKT-kulud</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">Този набор от данни представя годишните стойности на месечните разходи за потребление на домакинство за информационни и комуникационни технологии (ИКТ) и годишните разходи за потребление в ИКТ на домакинствата по категории разходи (ИКТ стоки, ИКТ услуги), категория стоки и категория услуги от 1998 г. насам. Описанията на променливите в CSV файла са налични в допълнението.</dct:description>
+            <dct:title xml:lang="en-t-fr-t0-mtec">ICT expenditure of households</dct:title>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Ez az adatkészlet a háztartások információs és kommunikációs technológiákra (IKT) vonatkozó havi fogyasztási kiadásaira, valamint a háztartások IKT-jára vonatkozó éves fogyasztási kiadásokra vonatkozó éves adatokat mutatja be kiadási kategóriák (IKT-termékek, IKT-szolgáltatások), árukategóriák és szolgáltatási kategóriák szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Despesas de TIC das famílias</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Caiteachas TFC teaghlach</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Namų ūkių IRT išlaidos</dct:title>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Tässä tietokokonaisuudessa esitetään kotitalouksien tieto- ja viestintätekniikan (TVT) kuukausittaiset kulutusmenot ja kotitalouksien tieto- ja viestintätekniikan vuotuiset kulutusmenot menoluokittain (tieto- ja viestintätekniikka, tieto- ja viestintätekniikkapalvelut), tavaraluokittain ja palveluluokittain vuodesta 1998 lähtien.
+CSV-tiedoston muuttujien kuvaukset ovat saatavilla liitteessä.</dct:description>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Mājsaimniecību izdevumi IKT jomā</dct:title>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Deze dataset bevat de jaarlijkse cijfers van de maandelijkse consumptieve bestedingen per huishouden op het gebied van informatie- en communicatietechnologie (ICT) en jaarlijkse consumptieve bestedingen in de ICT-sector van huishoudens per uitgavencategorie (ICT-goederen, ICT-diensten), goederencategorie en dienstencategorie, sinds 1998.
+Beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:title xml:lang="fr">Dépenses TIC des ménages</dct:title>
+            <dct:description xml:lang="it-t-fr-t0-mtec">Questa serie di dati presenta le cifre annuali della spesa mensile per famiglia per le tecnologie dell'informazione e della comunicazione (TIC) e della spesa annuale per consumi nelle TIC delle famiglie per categoria di spesa (prodotti TIC, servizi TIC), categoria di beni e categoria di servizi, dal 1998.
+Le descrizioni delle variabili presenti nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:identifier>19704286-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des dépenses de consommation mensuelles par ménage dans les technologies de l'information et de la communication (TIC) ainsi que des dépenses de consommation annuelles dans les TIC des ménages selon la catégorie de dépense (biens TIC, services TIC), la catégorie de bien et la catégorie de service, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+            <dct:description xml:lang="en-t-fr-t0-mtec">This dataset presents the annual figures of monthly consumption expenditure per household on information and communication technologies (ICT) and annual consumption expenditure in households’ ICTs by expenditure category (ICT goods, ICT services), goods category and service category, since 1998. Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Izdaci kućanstava za IKT</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hushållens IKT-utgifter</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Výdavky domácností na IKT</dct:title>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Dette datasæt viser de årlige tal for de månedlige forbrugsudgifter pr. husstand til informations- og kommunikationsteknologi (IKT) og de årlige forbrugsudgifter i husholdningernes IKT efter udgiftskategori (IKT-varer, IKT-tjenester), varekategori og tjenestekategori siden 1998.
+Beskrivelser af variablerne i CSV-filen findes i tillægget.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Husholdningernes IKT-udgifter</dct:title>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">Цей набір даних представляє річні показники щомісячних витрат споживання на одне домогосподарство на інформаційно-комунікаційні технології (ІКТ) та річні споживчі витрати в ІКТ домогосподарств за категоріями витрат (товари ІКТ, послуги ІКТ), категорії товарів та категорії послуг, починаючи з 1998 року. Опис змінних у файлі CSV доступний у Додатку.</dct:description>
+            <dct:description xml:lang="et-t-fr-t0-mtec">Selles andmekogumis esitatakse igakuised tarbimiskulutused leibkonna kohta info- ja kommunikatsioonitehnoloogiale (IKT) ning kodumajapidamiste info- ja sidetehnoloogiate aastased tarbimiskulud kulukategooriate (IKT kaubad, IKT teenused), kaupade kategooriate ja teenusekategooriate kaupa alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud liites.</dct:description>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Este conjunto de dados apresenta os valores anuais da despesa mensal de consumo por agregado familiar em tecnologias da informação e comunicação (TIC) e das despesas anuais de consumo nas TIC das famílias por categoria de despesa (haveres TIC, serviços de TIC), categoria de bens e categoria de serviços, desde 1998.
+As descrições das variáveis no arquivo CSV estão disponíveis no Apêndice.</dct:description>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">Tento datový soubor uvádí roční údaje o měsíčních výdajích na spotřebu na domácnost za informační a komunikační technologie (IKT) a ročních výdajích na spotřebu v domácnostech podle kategorií výdajů (zboží IKT, služby IKT), kategorie zboží a kategorie služeb, od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Spesa per le TIC delle famiglie</dct:title>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">V tem naboru podatkov so prikazani letni podatki o mesečnih izdatkih za potrošnjo na gospodinjstvo za informacijske in komunikacijske tehnologije (IKT) ter izdatki za letno potrošnjo v IKT gospodinjstev po kategorijah odhodkov (blago IKT, storitve IKT), kategoriji blaga in kategoriji storitev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v Dodatku.</dct:description>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Výdaje domácností na informační a komunikační technologie</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A háztartások IKT-kiadásai</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Šiame duomenų rinkinyje pateikiami nuo 1998 m. kiekvieno namų ūkio informacinių ir ryšių technologijų (IRT) mėnesinių vartojimo išlaidų metiniai duomenys ir namų ūkių IRT vartojimo metinės išlaidos pagal išlaidų kategorijas (IRT prekės, IRT paslaugos), prekių kategoriją ir paslaugų kategoriją. CSV rinkmenos kintamųjų aprašymai pateikiami priedėlyje.</dct:description>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tan-nefqa tal-konsum ta’ kull xahar għal kull unità domestika fuq it-teknoloġiji tal-informazzjoni u l-komunikazzjoni (ICT) u n-nefqa annwali tal-konsum fl-ICTs tal-unitajiet domestiċi skont il-kategorija tan-nefqa (oġġetti tal-ICT, servizzi ICT), kategorija tal-oġġetti u kategorija tas-servizz, mill-1998. Deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-Appendiċi.</dct:description>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie mēneša patēriņa izdevumi katrai mājsaimniecībai par informācijas un komunikācijas tehnoloģijām (IKT) un gada patēriņa izdevumi mājsaimniecību IKT izdevumu kategorijās (IKT preces, IKT pakalpojumi), preču kategorijas un pakalpojumu kategorijas kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami papildinājumā.</dct:description>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">V tomto súbore údajov sa od roku 1998 uvádzajú ročné údaje o mesačných výdavkoch na spotrebu na domácnosť na informačné a komunikačné technológie (IKT) a ročné výdavky na spotrebu v oblasti IKT podľa kategórií výdavkov (produkty IKT, služby IKT), kategórie tovaru a kategórie služieb. Opisy premenných v súbore CSV sú k dispozícii v dodatku.</dct:description>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące miesięcznych wydatków konsumpcyjnych na gospodarstwo domowe na technologie informacyjno-komunikacyjne (ICT) oraz rocznych wydatków konsumpcyjnych w sektorze ICT w gospodarstwach domowych według kategorii wydatków (towary ICT, usługi ICT), kategorii towarów i kategorii usług, począwszy od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Izdaci kućanstava za IKT</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/44b84715-31ec-4f83-b66f-0deb65fb8f49">
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale cheltuielilor lunare de consum pe gospodărie pentru tehnologia informației și comunicațiilor (TIC) și cheltuielile anuale de consum TIC ale gospodăriilor populației pe categorii de cheltuieli (produse TIC, servicii TIC), categorie de produse și categorii de servicii începând cu 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία της μηνιαίας καταναλωτικής δαπάνης ανά νοικοκυριό για τις τεχνολογίες πληροφοριών και επικοινωνιών (ΤΠΕ) και της ετήσιας καταναλωτικής δαπάνης των νοικοκυριών στις ΤΠΕ ανά κατηγορία δαπανών (προϊόντα ΤΠΕ, υπηρεσίες ΤΠΕ), κατηγορία προϊόντων και κατηγορία υπηρεσιών από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Gasto en TIC de los hogares</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so prikazani letni podatki o mesečnih izdatkih za potrošnjo na gospodinjstvo za informacijsko in komunikacijsko tehnologijo (IKT) ter letnih izdatkih gospodinjstev za porabo IKT po kategorijah izdatkov (izdelki IKT, storitve IKT), kategoriji proizvodov in kategoriji storitev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udgifter</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données présente les chiffres annuels des dépenses de consommation finale mensuelles par ménage pour les technologies de l’information et de la communication (TIC) et des dépenses annuelles de consommation des TIC des ménages par catégorie de dépenses (produits TIC, services TIC), catégorie de produits et catégorie de services, depuis 1998. Les descriptions des variables dans le fichier CSV sont disponibles en annexe.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Výdavky domácností na IKT</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os valores anuais das despesas mensais de consumo por agregado familiar para as tecnologias da informação e comunicação (TIC) e as despesas anuais de consumo de TIC das famílias por categoria de despesa (produtos TIC, serviços de TIC), categoria de produtos e categoria de serviços desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta i dati annuali della spesa mensile per consumo per famiglia per le tecnologie dell'informazione e della comunicazione (TIC) e delle spese annuali per consumi di TIC delle famiglie per categoria di spesa (prodotti TIC, servizi TIC), categoria di prodotti e categoria di servizi dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Denna datauppsättning visar de årliga siffrorna för de månatliga konsumtionsutgifterna per hushåll för informations- och kommunikationsteknik (IKT) och de årliga utgifterna för konsumtionen av IKT för hushållen per utgiftskategori (IKT-produkter, IKT-tjänster), produktkategori och tjänstekategori sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:title xml:lang="de">IKT-Ausgaben der Haushalte</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiákra (IKT) vonatkozó havi fogyasztási kiadások éves adatait, valamint a háztartások IKT-fogyasztásával kapcsolatos éves kiadásokat mutatja be kiadási kategóriák (IKT-termékek, IKT-szolgáltatások), termékkategóriák és szolgáltatáskategóriák szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Spesa per le TIC delle famiglie</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for de månedlige forbrugsudgifter pr. husstand til informations- og kommunikationsteknologi (IKT) og husholdningernes årlige udgifter til ikt-forbrug efter udgiftskategori (IKT-produkter, IKT-tjenester), produktkategori og tjenestekategori siden 1998. Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Cheltuieli TIC ale gospodăriilor populației</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A háztartások IKT-kiadásai</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o mesačných výdavkoch na spotrebu na domácnosť na informačné a komunikačné technológie (IKT) a ročné výdavky domácností na spotrebu IKT podľa kategórií výdavkov (produkty IKT, služby IKT), kategórie produktov a kategórie služieb od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniikkamenot</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните стойности на месечните разходи за потребление на домакинствата за информационни и комуникационни технологии (ИКТ) и годишните разходи за потребление на ИКТ на домакинствата по категории разходи (ИКТ продукти, ИКТ услуги), продуктова категория и категория услуги от 1998 г. насам. Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie mēneša patēriņa izdevumi uz vienu mājsaimniecību informācijas un komunikācijas tehnoloģiju (IKT) jomā un mājsaimniecību gada IKT patēriņa izdevumi pa izdevumu kategorijām (IKT produkti, IKT pakalpojumi), produktu kategorijām un pakalpojumu kategorijām kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību izdevumi IKT jomā</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään tieto- ja viestintätekniikan kuukausittaiset kulutusmenot kotitaloutta kohti ja kotitalouksien tieto- ja viestintätekniikan kulutusmenot menoluokittain (TVT-tuotteet, tieto- ja viestintätekniikkapalvelut), tuoteluokittain ja palveluluokittain vuodesta 1998 alkaen. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the monthly consumption expenditure per household for information and communication technology (ICT) and annual household ICT consumption expenditure by category of expenditure (ICT products, ICT services), product category and service category since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami vieno namų ūkio informacinių ir ryšių technologijų (IRT) mėnesinių vartojimo išlaidų metiniai duomenys ir metinės namų ūkio IRT vartojimo išlaidos pagal išlaidų kategorijas (IRT produktai, IRT paslaugos), produktų kategoriją ir paslaugų kategoriją nuo 1998 m. Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє річні показники щомісячних витрат споживання на домогосподарство для інформаційно-комунікаційних технологій (ІКТ) та щорічних витрат на споживання ІКТ домогосподарств за категоріями витрат (продукти ІКТ, послуги ІКТ), категорії продукції та категорії послуг з 1998 року. Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-витрати домогосподарств</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utgifter</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del gasto en consumo mensual por hogar para las tecnologías de la información y la comunicación (TIC) y el gasto anual en consumo de TIC de los hogares por categoría de gasto (productos de TIC, servicios de TIC), categoría de productos y categoría de servicios desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące miesięcznych wydatków konsumpcyjnych na gospodarstwo domowe na technologie informacyjno-komunikacyjne (ICT) oraz rocznych wydatków na konsumpcję ICT w gospodarstwach domowych według kategorii wydatków (produkty ICT, usługi ICT), kategorii produktów i kategorii usług od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-ind-30103_dep"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wydatki gospodarstw domowych na ICT</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-kulud</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Caiteachas TFC teaghlach</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an chaiteachais mhíosúil ar thomhaltas in aghaidh an teaghlaigh maidir le teicneolaíocht faisnéise agus cumarsáide (TFC) agus caiteachas bliantúil teaghlaigh ar thomhaltas TFC de réir catagóire caiteachais (táirgí TFC, seirbhísí TFC), catagóir táirgí agus catagóir seirbhíse ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Despesas de TIC das famílias</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tan-nefqa tal-konsum ta’ kull xahar għal kull unità domestika għat-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) u n-nefqa annwali tal-konsum tal-ICT tal-unitajiet domestiċi skont il-kategorija tan-nefqa (prodotti ICT, servizzi ICT), kategorija ta’ prodotti u kategorija ta’ servizzi mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o mjesečnim izdacima potrošnje po kućanstvu za informacijsku i komunikacijsku tehnologiju (IKT) i godišnji izdaci kućanstava za potrošnju IKT-a po kategorijama izdataka (IKT proizvodi, IKT usluge), kategoriji proizvoda i kategoriji usluga od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse igakuised tarbimiskulutused leibkonna kohta info- ja kommunikatsioonitehnoloogiale (IKT) ning kodumajapidamiste IKT tarbimiskulutustele kulukategooriate kaupa (IKT tooted, IKT teenused), tootekategooriad ja teenusekategooriad alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δαπάνες των νοικοκυριών στον τομέα των ΤΠΕ</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izdaci kućanstava za IKT</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT expenditure of households</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Разходи за ИКТ на домакинствата</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor uvádí roční údaje o měsíčních výdajích na spotřebu domácností na domácnost za informační a komunikační technologie (IKT) a ročních výdajích domácností na spotřebu IKT podle kategorie výdajů (produkty IKT, služby IKT), kategorie produktů a kategorií služeb od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Výdaje domácností na informační a komunikační technologie</dct:title>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der monatlichen Konsumausgaben pro Haushalt für Informations- und Kommunikationstechnik (IKT) und der jährlichen IKT-Konsumausgaben der Haushalte nach Ausgabenkategorie (IKT-Produkte, IKT-Services), Produktekategorie und Servicekategorie, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Dépenses des ménages en matière de TIC</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Nefqa tal-unitajiet domestiċi fuq l-ICT</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT išlaidos</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izdatki gospodinjstev za IKT</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevensreeks geeft de jaarlijkse cijfers weer van de maandelijkse consumptieve bestedingen per huishouden voor informatie- en communicatietechnologie (ICT) en jaarlijkse uitgaven voor ICT-consumptie van huishoudens per uitgavencategorie (ICT-producten, ICT-diensten), productcategorie en dienstencategorie sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-uitgaven van huishoudens</dct:title>
+            <dct:identifier>19704286-de@bundesamt-fur-statistik-bfs</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">stichprobenerhebung</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A háztartások IKT-kiadásai</dct:title>
+        <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der monatlichen Konsumausgaben pro Haushalt für Informations- und Kommunikationstechnik (IKT) und der jährlichen IKT-Konsumausgaben der Haushalte nach Ausgabenkategorie (IKT-Produkte, IKT-Services), Produktekategorie und Servicekategorie, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+        <dcat:keyword xml:lang="de">kultur-medien-informationsgesellschaft-sport</dcat:keyword>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία της μηνιαίας καταναλωτικής δαπάνης ανά νοικοκυριό για τις τεχνολογίες πληροφοριών και επικοινωνιών (ΤΠΕ) και της ετήσιας καταναλωτικής δαπάνης των νοικοκυριών στις ΤΠΕ ανά κατηγορία δαπανών (προϊόντα ΤΠΕ, υπηρεσίες ΤΠΕ), κατηγορία προϊόντων και κατηγορία υπηρεσιών από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące miesięcznych wydatków konsumpcyjnych na gospodarstwo domowe na technologie informacyjno-komunikacyjne (ICT) oraz rocznych wydatków na konsumpcję ICT w gospodarstwach domowych według kategorii wydatków (produkty ICT, usługi ICT), kategorii produktów i kategorii usług od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku. Ten zbiór danych przedstawia roczne dane dotyczące miesięcznych wydatków konsumpcyjnych na gospodarstwo domowe na technologie informacyjno-komunikacyjne (ICT) oraz rocznych wydatków na konsumpcję ICT w gospodarstwach domowych według kategorii wydatków (produkty ICT, usługi ICT), kategorii produktów i kategorii usług od 1998 r.
+Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Nefqa tal-unitajiet domestiċi fuq l-ICT</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Výdavky domácností na IKT</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o mesačných výdavkoch na spotrebu na domácnosť na informačné a komunikačné technológie (IKT) a ročné výdavky domácností na spotrebu IKT podľa kategórií výdavkov (produkty IKT, služby IKT), kategórie produktov a kategórie služieb od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v prílohe. V tomto súbore údajov sa uvádzajú ročné údaje o mesačných výdavkoch na spotrebu na domácnosť na informačné a komunikačné technológie (IKT) a ročné výdavky domácností na spotrebu IKT podľa kategórií výdavkov (produkty IKT, služby IKT), kategórie produktov a kategórie služieb od roku 1998.
+Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dct:title xml:lang="nl-t-de-t0-mtec">ICT-uitgaven van huishoudens</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Výdaje domácností na informační a komunikační technologie</dct:title>
+        <dcat:keyword xml:lang="de">haushaltsbudgeterhebung</dcat:keyword>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните стойности на месечните разходи за потребление на домакинствата за информационни и комуникационни технологии (ИКТ) и годишните разходи за потребление на ИКТ на домакинствата по категории разходи (ИКТ продукти, ИКТ услуги), продуктова категория и категория услуги от 1998 г. насам. Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Δαπάνες των νοικοκυριών στον τομέα των ΤΠΕ</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT išlaidos</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse igakuised tarbimiskulutused leibkonna kohta info- ja kommunikatsioonitehnoloogiale (IKT) ning kodumajapidamiste IKT tarbimiskulutustele kulukategooriate kaupa (IKT tooted, IKT teenused), tootekategooriad ja teenusekategooriad alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+        <dcat:keyword xml:lang="fr">enquete-sur-le-budget-des-menages</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-campionaria</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-ind-30103_dep"/>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta i dati annuali della spesa mensile per consumo per famiglia per le tecnologie dell'informazione e della comunicazione (TIC) e delle spese annuali per consumi di TIC delle famiglie per categoria di spesa (prodotti TIC, servizi TIC), categoria di prodotti e categoria di servizi dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+        <dcat:keyword xml:lang="en">culture-media-information-society-sports</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izdatki gospodinjstev za IKT</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami vieno namų ūkio informacinių ir ryšių technologijų (IRT) mėnesinių vartojimo išlaidų metiniai duomenys ir metinės namų ūkio IRT vartojimo išlaidos pagal išlaidų kategorijas (IRT produktai, IRT paslaugos), produktų kategoriją ir paslaugų kategoriją nuo 1998 m. Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">ICT expenditure of households</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an chaiteachais mhíosúil ar thomhaltas in aghaidh an teaghlaigh maidir le teicneolaíocht faisnéise agus cumarsáide (TFC) agus caiteachas bliantúil teaghlaigh ar thomhaltas TFC de réir catagóire caiteachais (táirgí TFC, seirbhísí TFC), catagóir táirgí agus catagóir seirbhíse ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/820ecb07-fc50-4254-87b5-2565807c83a3">
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor uvádí roční údaje o měsíčních výdajích na spotřebu domácností na domácnost za informační a komunikační technologie (IKT) a ročních výdajích domácností na spotřebu IKT podle kategorie výdajů (produkty IKT, služby IKT), kategorie produktů a kategorií služeb od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="fr">Dépenses TIC des ménages</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse igakuised tarbimiskulutused leibkonna kohta info- ja kommunikatsioonitehnoloogiale (IKT) ning kodumajapidamiste IKT tarbimiskulutustele kulukategooriate kaupa (IKT tooted, IKT teenused), tootekategooriad ja teenusekategooriad alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Spesa per le TIC delle famiglie</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Gasto en TIC de los hogares</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään tieto- ja viestintätekniikan kuukausittaiset kulutusmenot kotitaloutta kohti ja kotitalouksien tieto- ja viestintätekniikan kulutusmenot menoluokittain (TVT-tuotteet, tieto- ja viestintätekniikkapalvelut), tuoteluokittain ja palveluluokittain vuodesta 1998 alkaen. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami vieno namų ūkio informacinių ir ryšių technologijų (IRT) mėnesinių vartojimo išlaidų metiniai duomenys ir metinės namų ūkio IRT vartojimo išlaidos pagal išlaidų kategorijas (IRT produktai, IRT paslaugos), produktų kategoriją ir paslaugų kategoriją nuo 1998 m. Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o mjesečnim izdacima potrošnje po kućanstvu za informacijsku i komunikacijsku tehnologiju (IKT) i godišnji izdaci kućanstava za potrošnju IKT-a po kategorijama izdataka (IKT proizvodi, IKT usluge), kategoriji proizvoda i kategoriji usluga od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wydatki gospodarstw domowych na ICT</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Caiteachas TFC teaghlach</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Výdaje domácností na informační a komunikační technologie</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące miesięcznych wydatków konsumpcyjnych na gospodarstwo domowe na technologie informacyjno-komunikacyjne (ICT) oraz rocznych wydatków na konsumpcję ICT w gospodarstwach domowych według kategorii wydatków (produkty ICT, usługi ICT), kategorii produktów i kategorii usług od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Разходи за ИКТ на домакинствата</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tan-nefqa tal-konsum ta’ kull xahar għal kull unità domestika għat-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) u n-nefqa annwali tal-konsum tal-ICT tal-unitajiet domestiċi skont il-kategorija tan-nefqa (prodotti ICT, servizzi ICT), kategorija ta’ prodotti u kategorija ta’ servizzi mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-03T00:00:00</dct:modified>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-kulud</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία της μηνιαίας καταναλωτικής δαπάνης ανά νοικοκυριό για τις τεχνολογίες πληροφοριών και επικοινωνιών (ΤΠΕ) και της ετήσιας καταναλωτικής δαπάνης των νοικοκυριών στις ΤΠΕ ανά κατηγορία δαπανών (προϊόντα ΤΠΕ, υπηρεσίες ΤΠΕ), κατηγορία προϊόντων και κατηγορία υπηρεσιών από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevensreeks geeft de jaarlijkse cijfers weer van de maandelijkse consumptieve bestedingen per huishouden voor informatie- en communicatietechnologie (ICT) en jaarlijkse uitgaven voor ICT-consumptie van huishoudens per uitgavencategorie (ICT-producten, ICT-diensten), productcategorie en dienstencategorie sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izdaci kućanstava za IKT</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δαπάνες των νοικοκυριών στον τομέα των ΤΠΕ</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību izdevumi IKT jomā</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o mesačných výdavkoch na spotrebu na domácnosť na informačné a komunikačné technológie (IKT) a ročné výdavky domácností na spotrebu IKT podľa kategórií výdavkov (produkty IKT, služby IKT), kategórie produktov a kategórie služieb od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704286/master"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Cheltuieli TIC ale gospodăriilor populației</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for de månedlige forbrugsudgifter pr. husstand til informations- og kommunikationsteknologi (IKT) og husholdningernes årlige udgifter til ikt-forbrug efter udgiftskategori (IKT-produkter, IKT-tjenester), produktkategori og tjenestekategori siden 1998. Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704286/master"/>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the monthly consumption expenditure per household for information and communication technology (ICT) and annual household ICT consumption expenditure by category of expenditure (ICT products, ICT services), product category and service category since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-витрати домогосподарств</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del gasto en consumo mensual por hogar para las tecnologías de la información y la comunicación (TIC) y el gasto anual en consumo de TIC de los hogares por categoría de gasto (productos de TIC, servicios de TIC), categoría de productos y categoría de servicios desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Výdavky domácností na IKT</dct:title>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des dépenses de consommation mensuelles par ménage dans les technologies de l'information et de la communication (TIC) ainsi que des dépenses de consommation annuelles dans les TIC des ménages selon la catégorie de dépense (biens TIC, services TIC), la catégorie de bien et la catégorie de service, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utgifter</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT expenditure of households</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Despesas de TIC das famílias</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT išlaidos</dct:title>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der monatlichen Konsumausgaben pro Haushalt für Informations- und Kommunikationstechnik (IKT) und der jährlichen IKT-Konsumausgaben der Haushalte nach Ausgabenkategorie (IKT-Produkte, IKT-Services), Produktekategorie und Servicekategorie, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Nefqa tal-unitajiet domestiċi fuq l-ICT</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta i dati annuali della spesa mensile per consumo per famiglia per le tecnologie dell'informazione e della comunicazione (TIC) e delle spese annuali per consumi di TIC delle famiglie per categoria di spesa (prodotti TIC, servizi TIC), categoria di prodotti e categoria di servizi dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udgifter</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-uitgaven van huishoudens</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє річні показники щомісячних витрат споживання на домогосподарство для інформаційно-комунікаційних технологій (ІКТ) та щорічних витрат на споживання ІКТ домогосподарств за категоріями витрат (продукти ІКТ, послуги ІКТ), категорії продукції та категорії послуг з 1998 року. Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an chaiteachais mhíosúil ar thomhaltas in aghaidh an teaghlaigh maidir le teicneolaíocht faisnéise agus cumarsáide (TFC) agus caiteachas bliantúil teaghlaigh ar thomhaltas TFC de réir catagóire caiteachais (táirgí TFC, seirbhísí TFC), catagóir táirgí agus catagóir seirbhíse ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:format>CSV</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os valores anuais das despesas mensais de consumo por agregado familiar para as tecnologias da informação e comunicação (TIC) e as despesas anuais de consumo de TIC das famílias por categoria de despesa (produtos TIC, serviços de TIC), categoria de produtos e categoria de serviços desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:identifier>19704286-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiákra (IKT) vonatkozó havi fogyasztási kiadások éves adatait, valamint a háztartások IKT-fogyasztásával kapcsolatos éves kiadásokat mutatja be kiadási kategóriák (IKT-termékek, IKT-szolgáltatások), termékkategóriák és szolgáltatáskategóriák szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniikkamenot</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so prikazani letni podatki o mesečnih izdatkih za potrošnjo na gospodinjstvo za informacijsko in komunikacijsko tehnologijo (IKT) ter letnih izdatkih gospodinjstev za porabo IKT po kategorijah izdatkov (izdelki IKT, storitve IKT), kategoriji proizvodov in kategoriji storitev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните стойности на месечните разходи за потребление на домакинствата за информационни и комуникационни технологии (ИКТ) и годишните разходи за потребление на ИКТ на домакинствата по категории разходи (ИКТ продукти, ИКТ услуги), продуктова категория и категория услуги от 1998 г. насам. Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale cheltuielilor lunare de consum pe gospodărie pentru tehnologia informației și comunicațiilor (TIC) și cheltuielile anuale de consum TIC ale gospodăriilor populației pe categorii de cheltuieli (produse TIC, servicii TIC), categorie de produse și categorii de servicii începând cu 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Denna datauppsättning visar de årliga siffrorna för de månatliga konsumtionsutgifterna per hushåll för informations- och kommunikationsteknik (IKT) och de årliga utgifterna för konsumtionen av IKT för hushållen per utgiftskategori (IKT-produkter, IKT-tjänster), produktkategori och tjänstekategori sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izdatki gospodinjstev za IKT</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie mēneša patēriņa izdevumi uz vienu mājsaimniecību informācijas un komunikācijas tehnoloģiju (IKT) jomā un mājsaimniecību gada IKT patēriņa izdevumi pa izdevumu kategorijām (IKT produkti, IKT pakalpojumi), produktu kategorijām un pakalpojumu kategorijām kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:title xml:lang="de">IKT-Ausgaben der Haushalte</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A háztartások IKT-kiadásai</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību izdevumi IKT jomā</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7b078e4b-0a48-4401-b98d-79ab7b685fcd">
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните стойности на месечните разходи за потребление на домакинствата за информационни и комуникационни технологии (ИКТ) и годишните разходи за потребление на ИКТ на домакинствата по категории разходи (ИКТ продукти, ИКТ услуги), продуктова категория и категория услуги от 1998 г. насам. Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT expenditure of households</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami vieno namų ūkio informacinių ir ryšių technologijų (IRT) mėnesinių vartojimo išlaidų metiniai duomenys ir metinės namų ūkio IRT vartojimo išlaidos pagal išlaidų kategorijas (IRT produktai, IRT paslaugos), produktų kategoriją ir paslaugų kategoriją nuo 1998 m. Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Výdavky domácností na IKT</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία της μηνιαίας καταναλωτικής δαπάνης ανά νοικοκυριό για τις τεχνολογίες πληροφοριών και επικοινωνιών (ΤΠΕ) και της ετήσιας καταναλωτικής δαπάνης των νοικοκυριών στις ΤΠΕ ανά κατηγορία δαπανών (προϊόντα ΤΠΕ, υπηρεσίες ΤΠΕ), κατηγορία προϊόντων και κατηγορία υπηρεσιών από το 1998. Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta i dati annuali della spesa mensile per consumo per famiglia per le tecnologie dell'informazione e della comunicazione (TIC) e delle spese annuali per consumi di TIC delle famiglie per categoria di spesa (prodotti TIC, servizi TIC), categoria di prodotti e categoria di servizi dal 1998. Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-kulud</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-08T00:00:00</dct:modified>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє річні показники щомісячних витрат споживання на домогосподарство для інформаційно-комунікаційних технологій (ІКТ) та щорічних витрат на споживання ІКТ домогосподарств за категоріями витрат (продукти ІКТ, послуги ІКТ), категорії продукції та категорії послуг з 1998 року. Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of the monthly consumption expenditure per household for information and communication technology (ICT) and annual household ICT consumption expenditure by category of expenditure (ICT products, ICT services), product category and service category since 1998. The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704286/appendix"/>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Denna datauppsättning visar de årliga siffrorna för de månatliga konsumtionsutgifterna per hushåll för informations- och kommunikationsteknik (IKT) och de årliga utgifterna för konsumtionen av IKT för hushållen per utgiftskategori (IKT-produkter, IKT-tjänster), produktkategori och tjänstekategori sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tan-nefqa tal-konsum ta’ kull xahar għal kull unità domestika għat-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) u n-nefqa annwali tal-konsum tal-ICT tal-unitajiet domestiċi skont il-kategorija tan-nefqa (prodotti ICT, servizzi ICT), kategorija ta’ prodotti u kategorija ta’ servizzi mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:identifier>19704286-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla an chaiteachais mhíosúil ar thomhaltas in aghaidh an teaghlaigh maidir le teicneolaíocht faisnéise agus cumarsáide (TFC) agus caiteachas bliantúil teaghlaigh ar thomhaltas TFC de réir catagóire caiteachais (táirgí TFC, seirbhísí TFC), catagóir táirgí agus catagóir seirbhíse ó 1998 i leith. Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:format>ODS</dct:format>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Výdaje domácností na informační a komunikační technologie</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT išlaidos</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Cheltuieli TIC ale gospodăriilor populației</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Despesas de TIC das famílias</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o mesačných výdavkoch na spotrebu na domácnosť na informačné a komunikačné technológie (IKT) a ročné výdavky domácností na spotrebu IKT podľa kategórií výdavkov (produkty IKT, služby IKT), kategórie produktov a kategórie služieb od roku 1998. Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniikkamenot</dct:title>
+            <dcat:mediaType>application/vnd.oasis.opendocument.spreadsheet</dcat:mediaType>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so prikazani letni podatki o mesečnih izdatkih za potrošnjo na gospodinjstvo za informacijsko in komunikacijsko tehnologijo (IKT) ter letnih izdatkih gospodinjstev za porabo IKT po kategorijah izdatkov (izdelki IKT, storitve IKT), kategoriji proizvodov in kategoriji storitev od leta 1998. Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19704286/appendix"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Spesa per le TIC delle famiglie</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-витрати домогосподарств</dct:title>
+            <dct:title xml:lang="de">IKT-Ausgaben der Haushalte</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izdatki gospodinjstev za IKT</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään tieto- ja viestintätekniikan kuukausittaiset kulutusmenot kotitaloutta kohti ja kotitalouksien tieto- ja viestintätekniikan kulutusmenot menoluokittain (TVT-tuotteet, tieto- ja viestintätekniikkapalvelut), tuoteluokittain ja palveluluokittain vuodesta 1998 alkaen. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor uvádí roční údaje o měsíčních výdajích na spotřebu domácností na domácnost za informační a komunikační technologie (IKT) a ročních výdajích domácností na spotřebu IKT podle kategorie výdajů (produkty IKT, služby IKT), kategorie produktů a kategorií služeb od roku 1998. Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales del gasto en consumo mensual por hogar para las tecnologías de la información y la comunicación (TIC) y el gasto anual en consumo de TIC de los hogares por categoría de gasto (productos de TIC, servicios de TIC), categoría de productos y categoría de servicios desde 1998. Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:title xml:lang="fr">Dépenses TIC des ménages</dct:title>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des dépenses de consommation mensuelles par ménage dans les technologies de l'information et de la communication (TIC) ainsi que des dépenses de consommation annuelles dans les TIC des ménages selon la catégorie de dépense (biens TIC, services TIC), la catégorie de bien et la catégorie de service, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse igakuised tarbimiskulutused leibkonna kohta info- ja kommunikatsioonitehnoloogiale (IKT) ning kodumajapidamiste IKT tarbimiskulutustele kulukategooriate kaupa (IKT tooted, IKT teenused), tootekategooriad ja teenusekategooriad alates 1998. aastast. CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o mjesečnim izdacima potrošnje po kućanstvu za informacijsku i komunikacijsku tehnologiju (IKT) i godišnji izdaci kućanstava za potrošnju IKT-a po kategorijama izdataka (IKT proizvodi, IKT usluge), kategoriji proizvoda i kategoriji usluga od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale cheltuielilor lunare de consum pe gospodărie pentru tehnologia informației și comunicațiilor (TIC) și cheltuielile anuale de consum TIC ale gospodăriilor populației pe categorii de cheltuieli (produse TIC, servicii TIC), categorie de produse și categorii de servicii începând cu 1998. Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udgifter</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for de månedlige forbrugsudgifter pr. husstand til informations- og kommunikationsteknologi (IKT) og husholdningernes årlige udgifter til ikt-forbrug efter udgiftskategori (IKT-produkter, IKT-tjenester), produktkategori og tjenestekategori siden 1998. Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utgifter</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izdaci kućanstava za IKT</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δαπάνες των νοικοκυριών στον τομέα των ΤΠΕ</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-06T00:00:00</dct:issued>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību izdevumi IKT jomā</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os valores anuais das despesas mensais de consumo por agregado familiar para as tecnologias da informação e comunicação (TIC) e as despesas anuais de consumo de TIC das famílias por categoria de despesa (produtos TIC, serviços de TIC), categoria de produtos e categoria de serviços desde 1998. As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevensreeks geeft de jaarlijkse cijfers weer van de maandelijkse consumptieve bestedingen per huishouden voor informatie- en communicatietechnologie (ICT) en jaarlijkse uitgaven voor ICT-consumptie van huishoudens per uitgavencategorie (ICT-producten, ICT-diensten), productcategorie en dienstencategorie sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie mēneša patēriņa izdevumi uz vienu mājsaimniecību informācijas un komunikācijas tehnoloģiju (IKT) jomā un mājsaimniecību gada IKT patēriņa izdevumi pa izdevumu kategorijām (IKT produkti, IKT pakalpojumi), produktu kategorijām un pakalpojumu kategorijām kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Caiteachas TFC teaghlach</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Nefqa tal-unitajiet domestiċi fuq l-ICT</dct:title>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der monatlichen Konsumausgaben pro Haushalt für Informations- und Kommunikationstechnik (IKT) und der jährlichen IKT-Konsumausgaben der Haushalte nach Ausgabenkategorie (IKT-Produkte, IKT-Services), Produktekategorie und Servicekategorie, seit 1998. Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wydatki gospodarstw domowych na ICT</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Gasto en TIC de los hogares</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az információs és kommunikációs technológiákra (IKT) vonatkozó havi fogyasztási kiadások éves adatait, valamint a háztartások IKT-fogyasztásával kapcsolatos éves kiadásokat mutatja be kiadási kategóriák (IKT-termékek, IKT-szolgáltatások), termékkategóriák és szolgáltatáskategóriák szerint 1998 óta. A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Разходи за ИКТ на домакинствата</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A háztartások IKT-kiadásai</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-uitgaven van huishoudens</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące miesięcznych wydatków konsumpcyjnych na gospodarstwo domowe na technologie informacyjno-komunikacyjne (ICT) oraz rocznych wydatków na konsumpcję ICT w gospodarstwach domowych według kategorii wydatków (produkty ICT, usługi ICT), kategorii produktów i kategorii usług od 1998 r. Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniikkamenot</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie mēneša patēriņa izdevumi uz vienu mājsaimniecību informācijas un komunikācijas tehnoloģiju (IKT) jomā un mājsaimniecību gada IKT patēriņa izdevumi pa izdevumu kategorijām (IKT produkti, IKT pakalpojumi), produktu kategorijām un pakalpojumu kategorijām kopš 1998. gada. Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+        <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des dépenses de consommation mensuelles par ménage dans les technologies de l'information et de la communication (TIC) ainsi que des dépenses de consommation annuelles dans les TIC des ménages selon la catégorie de dépense (biens TIC, services TIC), la catégorie de bien et la catégorie de service, depuis 1998. Les descriptions des variables du fichier CSV sont disponibles dans l’annexe.</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utgifter</dct:title>
+        <dcat:keyword xml:lang="en">sample-surveys</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for de månedlige forbrugsudgifter pr. husstand til informations- og kommunikationsteknologi (IKT) og husholdningernes årlige udgifter til ikt-forbrug efter udgiftskategori (IKT-produkter, IKT-tjenester), produktkategori og tjenestekategori siden 1998. Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Разходи за ИКТ на домакинствата</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:identifier>19704272@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="it">cultura-media-societa-dellinformazione-sport</dcat:keyword>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään tieto- ja viestintätekniikan kuukausittaiset kulutusmenot kotitaloutta kohti ja kotitalouksien tieto- ja viestintätekniikan kulutusmenot menoluokittain (TVT-tuotteet, tieto- ja viestintätekniikkapalvelut), tuoteluokittain ja palveluluokittain vuodesta 1998 alkaen. CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє річні показники щомісячних витрат споживання на домогосподарство для інформаційно-комунікаційних технологій (ІКТ) та щорічних витрат на споживання ІКТ домогосподарств за категоріями витрат (продукти ІКТ, послуги ІКТ), категорії продукції та категорії послуг з 1998 року. Опис змінних у файлі CSV доступний у додатку. Цей набір даних представляє річні показники щомісячних витрат споживання на домогосподарство для інформаційно-комунікаційних технологій (ІКТ) та щорічних витрат на споживання ІКТ домогосподарств за категоріями витрат (продукти ІКТ, послуги ІКТ), категорії продукції та категорії послуг з 1998 року. Опис змінних у файлі CSV доступний у додатку. Цей набір даних представляє річні показники щомісячних витрат споживання на домогосподарство для інформаційно-комунікаційних технологій (ІКТ) та щорічних витрат на споживання ІКТ домогосподарств за категоріями витрат (продукти ІКТ, послуги ІКТ), категорії продукції та категорії послуг з 1998 року.
+Опис змінних у файлі CSV доступний у додатку.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o mjesečnim izdacima potrošnje po kućanstvu za informacijsku i komunikacijsku tehnologiju (IKT) i godišnji izdaci kućanstava za potrošnju IKT-a po kategorijama izdataka (IKT proizvodi, IKT usluge), kategoriji proizvoda i kategoriji usluga od 1998. Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Cheltuieli TIC ale gospodăriilor populației</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevensreeks geeft de jaarlijkse cijfers weer van de maandelijkse consumptieve bestedingen per huishouden voor informatie- en communicatietechnologie (ICT) en jaarlijkse uitgaven voor ICT-consumptie van huishoudens per uitgavencategorie (ICT-producten, ICT-diensten), productcategorie en dienstencategorie sinds 1998. De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tan-nefqa tal-konsum ta’ kull xahar għal kull unità domestika għat-teknoloġija tal-informazzjoni u l-komunikazzjoni (ICT) u n-nefqa annwali tal-konsum tal-ICT tal-unitajiet domestiċi skont il-kategorija tan-nefqa (prodotti ICT, servizzi ICT), kategorija ta’ prodotti u kategorija ta’ servizzi mill-1998. Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna datauppsättning visar de årliga siffrorna för de månatliga konsumtionsutgifterna per hushåll för informations- och kommunikationsteknik (IKT) och de årliga utgifterna för konsumtionen av IKT för hushållen per utgiftskategori (IKT-produkter, IKT-tjänster), produktkategori och tjänstekategori sedan 1998. Beskrivningarna av variablerna i CSV-filen finns i bilagan. Denna datauppsättning visar de årliga siffrorna för de månatliga konsumtionsutgifterna per hushåll för informations- och kommunikationsteknik (IKT) och de årliga utgifterna för konsumtionen av IKT för hushållen per utgiftskategori (IKT-produkter, IKT-tjänster), produktkategori och tjänstekategori sedan 1998.
+Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>dc93b034ea931175f55e2dedd6b143df</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

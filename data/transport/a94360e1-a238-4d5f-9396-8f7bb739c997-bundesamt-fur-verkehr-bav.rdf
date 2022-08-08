@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:Wolf-Dieter.Deuschle@bav.admin.ch"/>
+  </rdf:Description>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/a94360e1-a238-4d5f-9396-8f7bb739c997-bundesamt-fur-verkehr-bav">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:35Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>ba244e7f765e40c4d83353c7d07b5076</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/a94360e1-a238-4d5f-9396-8f7bb739c997-bundesamt-fur-verkehr-bav"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T12:56:04Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T12:56:04Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:35Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/a94360e1-a238-4d5f-9396-8f7bb739c997-bundesamt-fur-verkehr-bav">
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:description xml:lang="el-t-de-t0-mtec">Εν εξελίξει ή προηγούμενες ακροάσεις των καντονίων και των δήμων, καθώς και ενημέρωση και συμμετοχή του πληθυσμού σύμφωνα με το άρθρο 19 της υπουποδομής οδικών μεταφορών (SIS).</dct:description>
+        <dct:language>en</dct:language>
+        <dct:title xml:lang="it">Piano settoriale dei trasporti, parte infrastruttura ferroviaria (SIS): consultazione</dct:title>
+        <dct:description xml:lang="en">Current or past consultations of the cantons and communes as well as information and participation of the population in accordance with Art. 19 RPV of the Sectoral Plan on Transport, Rail Infrastructure Section (SIS).</dct:description>
+        <dcat:keyword xml:lang="de">verkehrsnetze</dcat:keyword>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Audierile în curs sau anterioare ale cantoanelor și municipalităților, precum și informarea și participarea populației în conformitate cu articolul 19 din RPV din subinfrastructura de transport rutier (SIS).</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Kantonien ja kuntien meneillään olevat tai aiemmat kuulemiset sekä väestölle tiedottaminen ja osallistuminen tieliikenteen osainfrastruktuurin (SIS) 19 artiklan mukaisesti.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/a94360e1-a238-4d5f-9396-8f7bb739c997">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Trwające lub wcześniejsze wysłuchania kantonów i gmin, a także informacje i udział ludności zgodnie z art. 19 RPV podinfrastruktury transportu drogowego (SIS).</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Probíhající nebo minulé slyšení kantonů a obcí, jakož i informace a účast obyvatelstva v souladu s článkem 19 RPV dílčí infrastruktury silniční dopravy (SIS).</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Aktualna ili prethodna saslušanja kantona i općina, kao i informiranje i sudjelovanje stanovništva u skladu s člankom 19. RPV-a podinfrastrukture cestovnog prometa (SIS).</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Plan bezpieczeństwa ruchu drogowego, część dotycząca infrastruktury kolejowej (SIS): Słuch</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Plán bezpečnosti silničního provozu, část železniční infrastruktury (SIS): Slyšení</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Éisteachtaí leanúnacha nó éisteachtaí roimhe seo maidir leis na cantúin agus na bardais chomh maith le faisnéis agus rannpháirtíocht an phobail i gcomhréir le hAirteagal 19 RPV den Fho-bhonneagar um Iompar de Bhóthar (SIS).</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Liiklusohutuse kava, raudteeinfrastruktuuri osa (SIS): Kuulamine</dct:title>
+        <dcat:keyword xml:lang="it">reti-di-trasporto</dcat:keyword>
+        <dcat:keyword xml:lang="de">verkehr</dcat:keyword>
+        <dct:description xml:lang="de">Laufende oder vergangene Anhörungen der Kantone und Gemeinden sowie Information und Mitwirkung der Bevölkerung nach Art. 19 RPV des Sachplans Verkehr, Teil Infrastruktur Schiene (SIS).</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Tekoče ali pretekle predstavitve kantonov in občin ter obveščanje in udeležba prebivalstva v skladu s členom 19 RPV podinfrastrukture za cestni promet (SIS).</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Lopende of eerdere hoorzittingen met de kantons en gemeenten, alsmede informatie en deelname van de bevolking overeenkomstig artikel 19 RPV van de subinfrastructuur voor wegvervoer (SIS).</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Plán bezpečnosti cestnej premávky, časť Železničná infraštruktúra (SIS): Vypočutie</dct:title>
+        <dcat:keyword xml:lang="en">transport</dcat:keyword>
+        <dcat:keyword xml:lang="fr">transport</dcat:keyword>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dct:description xml:lang="it">Audizioni dei Cantoni e dei Comuni in corso o concluse nonché informazione e partecipazione della popolazione conformemente all’articolo 19 OPT in relazione al piano settoriale trasporto, parte Infrastruttura ferroviaria (SIS).</dct:description>
+        <dcat:keyword xml:lang="fr">reseaux-de-transport</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/bundesamt-fur-verkehr-bav">
+            <foaf:name>Bundesamt für Verkehr</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Načrt za varnost v cestnem prometu, del železniške infrastrukture (SIS): Zaslišanje</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Kelių eismo saugos planas, Geležinkelių infrastruktūros dalis (SIS): Klausymas</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Audições em curso ou anteriores dos cantões e municípios, bem como informações e participação da população, em conformidade com o artigo 19.º do RPV da Sub-Infraestrutura de Transporte Rodoviário (SIS).</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:title xml:lang="es-t-de-t0-mtec">Plan de Seguridad Vial, Parte de Infraestructura Ferroviaria (SIS): Audiencia</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Поточні або минулі слухання кантонів і муніципалітетів, а також інформація та участь населення відповідно до статті 19 РПВ субінфраструктури дорожнього транспорту (SIS).</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Seduti ta’ smigħ li għaddejjin jew li saru fil-passat tal-cantons u l-muniċipalitajiet kif ukoll informazzjoni u parteċipazzjoni tal-popolazzjoni skont l-Artikolu 19 RPV tas-Subinfrastruttura tat-Trasport bit-Triq (SIS).</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Plean Sábháilteachta ar Bhóithre, Bonneagar Iarnróid Cuid (SIS): Éisteacht</dct:title>
+        <dct:description xml:lang="fr">Consultations des cantons et des communes sur le plan sectoriel transport, partie Infrastructure rail (SIS), avec information et participation de la population, conformément à l’art. 19 OAT, en cours ou terminées.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d4f32ec3-bc87-4a59-b9bc-03596eae0724">
+            <dct:title xml:lang="et-t-de-t0-mtec">Laadi alla</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Preuzimanje Geodata iz geo.admin.ch</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Descărcați</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Descargar Geodata de geo.admin.ch</dct:description>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bav.sachplan-infrastruktur-schiene_anhorung/data.zip"/>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/51cb0e5e-981d-4fc9-98fb-1a3606005f97/resource/e6e3e950-bb26-4c8a-9931-742aceeedffc</dct:identifier>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Lejupielādēt Geodatas no geo.admin.ch</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stiahnuť</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Parsisiųsti</dct:title>
+            <dct:language>it</dct:language>
+            <dct:description xml:lang="et-t-de-t0-mtec">Lae Geodata alates geo.admin.ch</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Niżżel</dct:title>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Geoadatok letöltése a geo.admin.ch oldalról</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Prenesite Geodata iz geo.admin.ch</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изтегляне</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lejupielādēt Lejupielādēt</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Ke stažení Geodata z geo.admin.ch</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Íoslódáil</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Baixar Geodata de geo.admin.ch</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Завантажити</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prenesi</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κατεβάστε</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Ladda ner Geodata från geo.admin.ch</dct:description>
+            <dct:description xml:lang="it">Download dei geodati da geo.admin.ch</dct:description>
+            <dct:format>ZIP</dct:format>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Niżżel Ġeodata minn geo.admin.ch</dct:description>
+            <dct:title xml:lang="it">Download</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="en">Download</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Pobierz Geodata z geo.admin.ch</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Завантажити Geodata з geo.admin.ch</dct:description>
+            <dct:title xml:lang="fr">Download</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="de">Download</dct:title>
+            <dct:description xml:lang="en">Download server from geo.admin.ch</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Изтегли Geodata от geo.admin.ch</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ladda ner</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-05-30T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Baixar o site</dct:title>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Letöltés</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Lataa Geodata osoitteesta geo.admin.ch</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="fr">Téléchargement des géodonnées de geo.admin.ch</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Κατεβάστε τα Geodata από geo.admin.ch</dct:description>
+            <dct:description xml:lang="de">Download der Geodaten von geo.admin.ch</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Descărcați Geodata de la geo.admin.ch</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Download Geodata van geo.admin.ch</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Lataa</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Íoslódáil Geodata ó geo.admin.ch</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Descargar</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Download Geodata fra geo.admin.ch</dct:description>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bav.sachplan-infrastruktur-schiene_anhorung/data.zip"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stáhněte si</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Stiahnuť Geodata z geo.admin.ch</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Parsisiųsti Geodata iš geo.admin.ch</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pobierz</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Preuzimanje datoteka</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/geoinformation/geobasisdaten/sachplan-verkehr-infrastruktur-schiene.html">
+            <rdfs:label>Dokumentation der Geodaten beim BAV</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Текущи или минали изслушвания на кантоните и общините, както и информация и участие на населението в съответствие с член 19 от RPV от подинфраструктурата на автомобилния транспорт (ШИС).</dct:description>
+        <dct:title xml:lang="de">Sachplan Verkehr, Teil Infrastruktur Schiene (SIS): Anhörung</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9dbb5bf8-1804-4c7a-825f-b4ead1f79311">
+            <dct:title xml:lang="da-t-de-t0-mtec">Kort (Preview) Forhåndsvisning kort.geo.admin.ch</dct:title>
+            <dct:title xml:lang="fr">Map (Preview) Vorschau map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="de">Map (Preview) Vorschau map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="it">Map (Preview) Vorschau map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="en">Map (Preview) Vorschau map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Mappa (Preview) Preview map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Náhled map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Eelvaade map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léarscáil Réamhamhairc.geo.admin.ch</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Попередній перегляд map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Térkép (előnézet) map.geo.admin.ch</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Karta (förhandsgranska) Förhandsgranska karta.geo.admin.ch</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Mapa (Podgląd) Podgląd map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kaart (Voorbeeld) Voorbeeld map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kaart (eelvaade) Eelvaade map.geo.admin.ch</dct:title>
+            <dct:language>en</dct:language>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Előnézet map.geo.admin.ch</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/51cb0e5e-981d-4fc9-98fb-1a3606005f97/resource/a3ef62f4-91e6-41f6-8fe0-763bd1227f12</dct:identifier>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Náhľad map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mapa (Preview) Vista previa mapa.geo.admin.ch</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Esikatsele kartta.geo.admin.ch</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kartta (esikatselu) Esikatsele map.geo.admin.ch</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Карта (Попередній перегляд) Попередній перегляд map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Visualizar mapa.geo.admin.ch</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Hartă (Previzualizare) Previzualizare map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Förhandsgranska map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zemljevid (predogled) Predogled map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Podgląd map.geo.admin.ch</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Voorbeeld map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="it">Previsione map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Προεπισκόπηση map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Pregled map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Mapa (Preview) Náhled map.geo.admin.ch</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Karta (Pregled) Pregled map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Vista previa map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="fr">Aperçu map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χάρτης (Προεπισκόπηση) Προεπισκόπηση map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Forhåndsvisning map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Žemėlapis (peržiūra) Peržiūrėti žemėlapį.geo.admin.ch</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mapa (Visualizar) Visualizar map.geo.admin.ch</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-05-30T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Карта (Преглед) Визуализация map.geo.admin.ch</dct:title>
+            <dcat:accessURL rdf:resource="https://map.geo.admin.ch/?layers=ch.bav.sachplan-infrastruktur-schiene_anhorung"/>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Mapa (ukážka) Zobraziť mapu.geo.admin.ch</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Peržiūrėti map.geo.admin.ch</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Karte (priekšskatījums) Preview map.geo.admin.ch</dct:title>
+            <dct:description xml:lang="en">Preview map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Preview map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="de">Vorschau map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Preview map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Previzualizează map.geo.admin.ch</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Predogled map.geo.admin.ch</dct:description>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mapa (Réamhamharc) Léarscáil Réamhamhairc.geo.admin.ch</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Преглед map.geo.admin.ch</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">ifdg-infrastruttura-federale-dei-dati-geografici</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.are.admin.ch/are/de/home/raumentwicklung-und-raumplanung/strategie-und-planung/konzepte-und-sachplaene/sachplaene-des-bundes.html">
+            <rdfs:label>Sachplanseite des Bundes</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:landingPage rdf:resource="https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/geoinformation/geobasisdaten/sachplan-verkehr-infrastruktur-schiene.html"/>
+        <dcat:keyword xml:lang="en">transport-networks</dcat:keyword>
+        <dct:language>it</dct:language>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Notiekošās vai iepriekšējās kantonu un pašvaldību uzklausīšanas, kā arī iedzīvotāju informēšana un līdzdalība saskaņā ar Autotransporta apakšinfrastruktūras (SIS) RPV 19. pantu.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Σχέδιο οδικής ασφάλειας, μέρος σιδηροδρομικής υποδομής (SIS): Η ακοή</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Pjan għas-Sikurezza fit-Toroq, Parti għall-Infrastruttura Ferrovjarja (SIS): Seduta ta’ smigħ</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-05-25T00:22:27.744764</dct:modified>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Trafiksäkerhetsplan, del av järnvägsinfrastruktur (SIS): Förhör</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Közúti biztonsági terv, vasúti infrastruktúra rész (SIS): Hallás</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Kantonite ja omavalitsuste käimasolevad või varasemad kuulamised ning elanikkonna teavitamine ja osalemine vastavalt maanteetranspordi alltaristu (SIS) RPV artiklile 19.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e5d7b019-4213-4512-9998-984c6ce68936">
+            <dct:description xml:lang="sl-t-de-t0-mtec">WMS storitev iz geo.admin.ch</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Υπηρεσία WMS από geo.admin.ch</dct:description>
+            <dct:description xml:lang="it">Servizio WMS di geo.admin.ch</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">WMS služba od geo.admin.ch</dct:description>
+            <dct:language>de</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="sv-t-de-t0-mtec">WMS-tjänst från geo.admin.ch</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Služba WMS od geo.admin.ch</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Serviciul WMS de la geo.admin.ch</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">WMS szolgáltatás a geo.admin.ch-tól</dct:description>
+            <dct:description xml:lang="de">WMS-Dienst von geo.admin.ch</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Usługa WMS od geo.admin.ch</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/51cb0e5e-981d-4fc9-98fb-1a3606005f97/resource/28f16754-c893-41ba-8e92-3d531e56a730</dct:identifier>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Seirbhís WMS ó geo.admin.ch</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">WMS услуга от geo.admin.ch</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">WMS service van geo.admin.ch</dct:description>
+            <dcat:accessURL rdf:resource="http://wms.geo.admin.ch/?SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetCapabilities&amp;lang=de"/>
+            <dct:title xml:lang="it">WMS ch.bav.sachplan-infrastruktur-schiene_anhorung</dct:title>
+            <dct:title xml:lang="en">WMS ch.bav.sachplan-infrastruktur-schiene_anhorung</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:description xml:lang="en">WMS Service from geo.admin.ch</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">WMS-palvelu osoitteesta geo.admin.ch</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">WMS ch.bav.sachplan-Infrastruktur-rail_anhorung</dct:title>
+            <dct:title xml:lang="fr">WMS ch.bav.sachplan-infrastruktur-schiene_anhorung</dct:title>
+            <dct:title xml:lang="de">WMS ch.bav.sachplan-infrastruktur-schiene_anhorung</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">WMS pakalpojums no geo.admin.ch</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-05-30T00:00:00</dct:issued>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Serviço WMS de geo.admin.ch</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">WMS service fra geo.admin.ch</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">WMS servis iz geo.admin.ch</dct:description>
+            <dct:description xml:lang="fr">Service WMS de geo.admin.ch</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">WMS paslauga iš geo.admin.ch</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Сервіс WMS від geo.admin.ch</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Servizz WMS minn geo.admin.ch</dct:description>
+            <dct:format>WMS</dct:format>
+            <dct:description xml:lang="es-t-de-t0-mtec">Servicio WMS desde geo.admin.ch</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">WMS teenus geo.admin.ch</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">fsdi-federal-spatial-data-infrastructure</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Plano de segurança rodoviária, parte da infraestrutura ferroviária (SIS): Audição</dct:title>
+        <dcat:keyword xml:lang="it">trasporti</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Verkeersveiligheidsplan, onderdeel spoorweginfrastructuur (SIS): Horen</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">План безпеки дорожнього руху, частина залізничної інфраструктури (SIS): Слухайте слух</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Audiencias continuas o pasadas de los cantones y municipios, así como información y participación de la población de conformidad con el artículo 19 RPV de la Subinfraestructura de Transporte por Carretera (SIS).</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">План за пътна безопасност, част от железопътната инфраструктура (ШИС): Изслушване</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Ceļu satiksmes drošības plāns, dzelzceļa infrastruktūras daļa (SIS): Tiesas sēde</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Igangværende eller tidligere høringer af kantonerne og kommunerne samt oplysninger om og deltagelse af befolkningen i overensstemmelse med artikel 19 RPV i delinfrastrukturen for vejtransport (SIS).</dct:description>
+        <dcat:keyword xml:lang="fr">ifdg-linfrastructure-federale-de-donnees-geographiques</dcat:keyword>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Vykstantys arba buvę kantonų ir savivaldybių klausymai, taip pat gyventojų informavimas ir dalyvavimas pagal Kelių transporto subfrastruktūros (SIS) 19 straipsnį.</dct:description>
+        <dct:identifier>a94360e1-a238-4d5f-9396-8f7bb739c997@bundesamt-fur-verkehr-bav</dct:identifier>
+        <dct:title xml:lang="en">Sectoral plan on Transport, rail Infrastructure Section (SIS): consultation</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Trafiksikkerhedsplan, delen om jernbaneinfrastruktur (SIS): Hørelse</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Planul de siguranță rutieră, partea privind infrastructura feroviară (SIS): Audiere</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Prebiehajúce alebo minulé vypočutia kantónov a obcí, ako aj informácie a účasť obyvateľstva v súlade s článkom 19 RPV čiastkovej infraštruktúry cestnej dopravy (SIS).</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2013-05-30T00:00:00</dct:issued>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Plan sigurnosti na cestama, dio o željezničkoj infrastrukturi (SIS): Saslušanje</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tieliikenneturvallisuussuunnitelma, rautatieinfrastruktuurin osa (SIS): Kuuleminen</dct:title>
+        <dcat:keyword xml:lang="de">bgdi-bundesgeodaten-infrastruktur</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Pågående eller tidigare utfrågningar av kantoner och kommuner samt information om och deltagande av befolkningen i enlighet med artikel 19 RPV i delinfrastrukturen för vägtransporter (SIS).</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A kantonok és települések folyamatban lévő vagy korábbi meghallgatásai, valamint a lakosság tájékoztatása és részvétele a közúti szállítás részinfrastruktúra (SIS) RPV 19. cikkével összhangban.</dct:description>
+        <dct:title xml:lang="fr">Plan sectoriel des transports, partie infrastructure rail (SIS): consultation</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>a94360e1-a238-4d5f-9396-8f7bb739c997@bundesamt-fur-verkehr-bav</dct:identifier>
+  </dcat:CatalogRecord>
+  <vcard:Organization/>
+  <rdf:Description>
+    <vcard:fn>Wolf-Dieter.Deuschle@bav.admin.ch</vcard:fn>
+  </rdf:Description>
+</rdf:RDF>

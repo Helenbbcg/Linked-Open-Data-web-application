@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/fk6efb0uuqzlqt19xrlza">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:03:17Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/fk6efb0uuqzlqt19xrlza"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/fk6efb0uuqzlqt19xrlza">
+        <dct:description xml:lang="hr-t-en-t0-mtec">Tramvaji</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Tramvaji</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Tramseiros</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Trams</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Trams</dct:title>
+        <dct:title xml:lang="en">Trams</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Tramvajai</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ab2c6166-2752-429a-89b0-e4e9724692d1">
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqs_trams.tsv.gz"/>
+            <dct:title xml:lang="fr">Tramways</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:identifier>http://data.europa.eu/88u/distribution/bf8b5a2d-06b5-4fa9-b32d-6fc52a5b3656</dct:identifier>
+            <dct:title xml:lang="en">Trams</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Straßenbahnen</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Tramvaie</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Spårvagnar</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2ced4121-4e67-4310-8151-669fc2847c70">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqs_trams.tsv.gz&amp;unzip=true"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Trams</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Straßenbahnen</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/1ebc1ad2-8c59-4c04-bdd1-78c7be378997</dct:identifier>
+            <dct:title xml:lang="fr">Tramways</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Трамваї для трамваїв</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">I tram</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Tramvaje</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:identifier>road_eqs_trams</dct:identifier>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Tramanna</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Spårvagnar</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Tramvaje</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Villamosok</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9c9bc57e-92fd-4d5b-a8ee-378ba0940aba">
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c91e1c4b-d324-4f65-ba0e-dee05b4228f5</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Trams</dct:title>
+            <dct:title xml:lang="de">Straßenbahnen</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqs_trams.sdmx.zip"/>
+            <dct:title xml:lang="fr">Tramways</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Трамваи</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/60d236f7-8865-4d66-ae4c-8b3d3242c3de">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1970-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="et-t-en-t0-mtec">Trammid</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Villamosok</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Tramvaie</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-30</dct:modified>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Tramanna</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Sporvogne</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqs_trams">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/fk6efb0uuqzlqt19xrlza"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqs_trams</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqs_trams</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:title xml:lang="it-t-en-t0-mtec">I tram</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/FK6efb0UuqZLQt19xRLZA</dct:identifier>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Трамваи</dct:description>
+        <dct:description xml:lang="de">Straßenbahnen</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/c7646e40-1faf-42db-bb52-b4ef2bd0ff32">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/c424f8ab-f6f6-4a4a-bf66-f52b5e331f0b">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="fr">Tramways</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Električky</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/fk6efb0uuqzlqt19xrlza"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Trams</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Tranvías</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Tranvías</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/fk6efb0uuqzlqt19xrlza"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Tramvajai</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Trams</dct:description>
+        <dct:description xml:lang="en">Trams</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Tramseiros</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Τραμ</dct:description>
+        <dct:description xml:lang="fr">Tramways</dct:description>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqs_trams"/>
+        <dct:title xml:lang="de">Straßenbahnen</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Tramvaji</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Τραμ</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Tramvaji</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Raitiovaunut</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Tramvaju tramvaji</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Tramwaje</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Električky</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Tramvaju tramvaji</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Raitiovaunut</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Sporvogne</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Трамваї для трамваїв</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Tramwaje</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Trammid</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:05:27Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>FK6efb0UuqZLQt19xRLZA</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>88758396d712f01d1c4b162cc8bac41b</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:05:27Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

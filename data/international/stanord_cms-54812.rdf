@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-54812">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-03-30T23:56:30Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>df9c67da957d5657f10314546377f354</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-54812"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-13T13:54:59Z</edp:transReceived>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T23:54:54Z</dct:modified>
+    <dct:identifier>StaNord_CMS:54812</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-54812">
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:description xml:lang="es-t-de-t0-mtec">Exportación de Schleswig-Holstein Julio a Septiembre 2012</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+            <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein juli till september 2012</dct:description>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна з липня по вересень 2012 року</dct:title>
+        <dct:identifier>StaNord_CMS:54812</dct:identifier>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="es-t-de-t0-mtec">Exportación de Schleswig-Holstein Julio a Septiembre 2012</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Esportazione dello Schleswig-Holstein da luglio a settembre 2012</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Exportul de Schleswig-Holstein iulie-septembrie 2012</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina od srpnja do rujna 2012.</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2012. júliustól szeptemberig</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">Export of Schleswig-Holstein July to September 2012</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Export Šlesvicko-Holštýnska červenec až září 2012</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2012. júliustól szeptemberig</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein julij do septembra 2012</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн от юли до септември 2012 г.</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f6e5f6c1-e74c-4971-9623-651c526ae773">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wywóz Szlezwika-Holsztynu od lipca do września 2012 r.</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairiú Schleswig-Holstein Iúil go Meán Fómhair 2012</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicka-Holštajnska od júla do septembra 2012</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн от юли до септември 2012 г.</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exportul de Schleswig-Holstein iulie-septembrie 2012</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Export Šlesvicko-Holštýnska červenec až září 2012</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein julij do septembra 2012</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport juulist septembrini 2012</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten juli til september 2012</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti heinäkuusta syyskuuhun 2012</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de juillet à septembre 2012</dct:title>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:54812/resource/e69a603d-e99f-481f-be72-7451f9f13dde</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportación de Schleswig-Holstein Julio a Septiembre 2012</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazione dello Schleswig-Holstein da luglio a settembre 2012</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports no 2012. gada jūlija līdz septembrim</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Uitvoer van Sleeswijk-Holstein juli tot september 2012</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein juli till september 2012</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Export of Schleswig-Holstein July to September 2012</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2012. júliustól szeptemberig</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj123_S.xls"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна з липня по вересень 2012 року</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj123_S.xls"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein Juli bis September 2012</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >242688</dcat:byteSize>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjoni ta’ Schleswig-Holstein Lulju sa Settembru 2012</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-03-04T14:09:24.340679</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγή του Schleswig-Holstein Ιούλιος έως Σεπτέμβριος 2012</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportação de Schleswig-Holstein julho a setembro de 2012</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina od srpnja do rujna 2012.</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2012 m. liepos-rugsėjo mėn.</dct:title>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wywóz Szlezwika-Holsztynu od lipca do września 2012 r.</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina od srpnja do rujna 2012.</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti heinäkuusta syyskuuhun 2012</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport juulist septembrini 2012</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн от юли до септември 2012 г.</dct:description>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de juillet à septembre 2012</dct:title>
+        <dct:description>Ausfuhr des Landes Schleswig-Holstein Juli bis September 2012</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti heinäkuusta syyskuuhun 2012</dct:description>
+        <dct:title>Ausfuhr des Landes Schleswig-Holstein Juli bis September 2012</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten juli til september 2012</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:info@statistik-nord.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Uitvoer van Sleeswijk-Holstein juli tot september 2012</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Export Šlesvicko-Holštýnska červenec až září 2012</dct:title>
+        <dcat:keyword>außenhandel</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2012-09-30T00:00:00</schema:endDate>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2012-07-01T00:00:00</schema:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairiú Schleswig-Holstein Iúil go Meán Fómhair 2012</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Onnmhairiú Schleswig-Holstein Iúil go Meán Fómhair 2012</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ea97e4ef-6d77-443b-89f5-65fcbfac4795">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de juillet à septembre 2012</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein juli till september 2012</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairiú Schleswig-Holstein Iúil go Meán Fómhair 2012</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport juulist septembrini 2012</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн от юли до септември 2012 г.</dct:title>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein Juli bis September 2012</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2012 m. liepos-rugsėjo mėn.</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjoni ta’ Schleswig-Holstein Lulju sa Settembru 2012</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wywóz Szlezwika-Holsztynu od lipca do września 2012 r.</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Export Šlesvicko-Holštýnska červenec až září 2012</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein julij do septembra 2012</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina od srpnja do rujna 2012.</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports no 2012. gada jūlija līdz septembrim</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Uitvoer van Sleeswijk-Holstein juli tot september 2012</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exportul de Schleswig-Holstein iulie-septembrie 2012</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportación de Schleswig-Holstein Julio a Septiembre 2012</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicka-Holštajnska od júla do septembra 2012</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazione dello Schleswig-Holstein da luglio a settembre 2012</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγή του Schleswig-Holstein Ιούλιος έως Σεπτέμβριος 2012</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2012. júliustól szeptemberig</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-03-04T14:09:24.340675</dct:issued>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна з липня по вересень 2012 року</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Export of Schleswig-Holstein July to September 2012</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti heinäkuusta syyskuuhun 2012</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj123_S.pdf"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten juli til september 2012</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj123_S.pdf"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >457736</dcat:byteSize>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportação de Schleswig-Holstein julho a setembro de 2012</dct:title>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:54812/resource/16fd5522-55f5-4224-9f2c-f11cda5bd742</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+            <foaf:mbox>info@statistik-nord.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2012-12-06T00:00:00</dct:issued>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicka-Holštajnska od júla do septembra 2012</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2012 m. liepos-rugsėjo mėn.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγή του Schleswig-Holstein Ιούλιος έως Σεπτέμβριος 2012</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Εξαγωγή του Schleswig-Holstein Ιούλιος έως Σεπτέμβριος 2012</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports no 2012. gada jūlija līdz septembrim</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.schleswig-holstein.de/organization/statistikamt-nord">
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein A.ö.R. (Statistikamt Nord)</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Exportul de Schleswig-Holstein iulie-septembrie 2012</dct:description>
+        <dcat:keyword>ausfuhr-des-landes-schleswig-holstein</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein julij do septembra 2012</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2012 m. liepos-rugsėjo mėn.</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Export of Schleswig-Holstein July to September 2012</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Exportação de Schleswig-Holstein julho a setembro de 2012</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-03-04T14:09:24.336939</dct:modified>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Uitvoer van Sleeswijk-Holstein juli tot september 2012</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicka-Holštajnska od júla do septembra 2012</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Wywóz Szlezwika-Holsztynu od lipca do września 2012 r.</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein juli till september 2012</dct:title>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Exportation du Land de Schleswig-Holstein de juillet à septembre 2012</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport juulist septembrini 2012</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна з липня по вересень 2012 року</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Esportazzjoni ta’ Schleswig-Holstein Lulju sa Settembru 2012</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten juli til september 2012</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports no 2012. gada jūlija līdz septembrim</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Esportazione dello Schleswig-Holstein da luglio a settembre 2012</dct:title>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Exportação de Schleswig-Holstein julho a setembro de 2012</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjoni ta’ Schleswig-Holstein Lulju sa Settembru 2012</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T13:45:56Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

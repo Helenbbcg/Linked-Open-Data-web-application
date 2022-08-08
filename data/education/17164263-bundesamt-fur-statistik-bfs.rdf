@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/17164263-bundesamt-fur-statistik-bfs">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:59Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:59Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:46:43Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/17164263-bundesamt-fur-statistik-bfs"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/17164263-bundesamt-fur-statistik-bfs">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5debca94-3dd9-4be9-8c10-f3b7fcd006fa">
+            <dct:title xml:lang="de-t-fr-t0-mtec">Zahl der Zugänge zur beruflichen Erstausbildung nach Geschlecht</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Numărul de admisii la formarea profesională inițială în funcție de sex</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Líon na n-iontrálacha ar an ngairmoiliúint tosaigh de réir inscne</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Esmasele kutseõppele sisseastumiste arv soo järgi</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Priėmimo į pradinį profesinį mokymą skaičius pagal lytį</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A szakmai alapképzésbe való felvételek száma nemek szerint</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Ammatilliseen peruskoulutukseen osallistuvien määrä sukupuolen mukaan</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-06T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Número de admisiones a la formación profesional inicial por sexo</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Número de admissões à formação profissional inicial por sexo</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Broj prijema u početno strukovno osposobljavanje prema spolu</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Počet vstupů na počáteční odborné vzdělávání podle pohlaví</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Αριθμός εισόδων στην αρχική επαγγελματική κατάρτιση ανά φύλο</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Aantal toelatingen tot de initiële beroepsopleiding naar geslacht</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Liczba przyjęć do wstępnego kształcenia zawodowego według płci</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Antal indlæggelser til erhvervsgrunduddannelse efter køn</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Брой на допуснатите до първоначално професионално обучение по пол</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Antal antagningar till grundläggande yrkesutbildning efter kön</dct:title>
+            <dct:identifier>17164265-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Numero di ammissioni alla formazione professionale iniziale per sesso</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Počet prijatých osôb na úvodnú odbornú prípravu podľa pohlavia</dct:title>
+            <dct:title xml:lang="fr">Nombre d'entrées en formation professionnelle initiale selon le sexe</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Uzņemamo personu skaits sākotnējā arodizglītībā pēc dzimuma</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Število sprejemov v začetno poklicno usposabljanje po spolu</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Numru ta’ ammissjonijiet għal taħriġ vokazzjonali inizjali skont is-sess</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Number of admissions to initial vocational training by sex</dct:title>
+            <dct:format>HTML</dct:format>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.02.02.01.04"/>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кількість вступів на початкове професійне навчання за статтю</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Počet vstupů do základního odborného vzdělávání podle pohlaví</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Брой приеми до основно професионално образование по пол</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:11:07.373664</dct:modified>
+        <dct:title xml:lang="fr">Nombre d'entrées en formation professionnelle initiale selon le sexe</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Αριθμός εισόδων στη βασική επαγγελματική εκπαίδευση ανά φύλο</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Liczba przyjęć do podstawowego kształcenia zawodowego według płci</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Antal indlæggelser til erhvervsgrunduddannelse efter køn</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Numru ta’ ammissjonijiet għall-edukazzjoni vokazzjonali bażika skont is-sess</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Az alapfokú szakképzésbe való felvételek száma nemek szerint</dct:title>
+        <dct:identifier>17164263@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Število sprejemov v osnovno poklicno izobraževanje po spolu</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Líon na n-iontrálacha ar ghairmoideachas bunúsach de réir inscne</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.02.02.01.04"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Počet prijatých osôb na základné odborné vzdelávanie podľa pohlavia</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Кількість вступів на базову професійну освіту за статтю</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Número de admissões no ensino profissional básico por sexo</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Numărul de admisii în învățământul profesional de bază în funcție de gen</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="fr">eleves-et-etudiants-formation-scolaire-et-professionnelle</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Broj prijema u osnovno strukovno obrazovanje prema spolu</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-05-06T00:00:00</dct:issued>
+        <dct:title xml:lang="de">Anzahl Eintritte in berufliche Grundbildung nach Geschlecht</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemto personu skaits pamatizglītībā pēc dzimuma</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/452eebaa-c91b-4978-9eeb-8365b6ebbadf">
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Ammatilliseen peruskoulutukseen osallistuvien määrä sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Počet vstupů na počáteční odborné vzdělávání podle pohlaví</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17164265/master"/>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Líon na n-iontrálacha ar an ngairmoiliúint tosaigh de réir inscne</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17164265/master"/>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Кількість вступів на початкове професійне навчання за статтю</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Numru ta’ ammissjonijiet għal taħriġ vokazzjonali inizjali skont is-sess</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Брой на допуснатите до първоначално професионално обучение по пол</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Number of admissions to initial vocational training by sex</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A szakmai alapképzésbe való felvételek száma nemek szerint</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Število sprejemov v začetno poklicno usposabljanje po spolu</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Liczba przyjęć do wstępnego kształcenia zawodowego według płci</dct:title>
+            <dct:title xml:lang="fr">Nombre d'entrées en formation professionnelle initiale selon le sexe</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Antal antagningar till grundläggande yrkesutbildning efter kön</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Número de admisiones a la formación profesional inicial por sexo</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Numărul de admisii la formarea profesională inițială în funcție de sex</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-06T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Broj prijema u početno strukovno osposobljavanje prema spolu</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Numero di ammissioni alla formazione professionale iniziale per sesso</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Aantal toelatingen tot de initiële beroepsopleiding naar geslacht</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Número de admissões à formação profissional inicial por sexo</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Esmasele kutseõppele sisseastumiste arv soo järgi</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Uzņemamo personu skaits sākotnējā arodizglītībā pēc dzimuma</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Zahl der Zugänge zur beruflichen Erstausbildung nach Geschlecht</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Počet prijatých osôb na úvodnú odbornú prípravu podľa pohlavia</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-06T00:00:00</dct:modified>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Αριθμός εισόδων στην αρχική επαγγελματική κατάρτιση ανά φύλο</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Priėmimo į pradinį profesinį mokymą skaičius pagal lytį</dct:title>
+            <dct:identifier>17164265-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Antal indlæggelser til erhvervsgrunduddannelse efter køn</dct:title>
+            <dct:language>fr</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Antal antagningar till grundläggande yrkesutbildning efter kön</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Ammatilliseen peruskoulutukseen hakeutuneiden määrä sukupuolen mukaan</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Número de admisiones a la enseñanza profesional básica por género</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Numero di ammissioni all'istruzione professionale di base per genere</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d0bb9c22-6895-41f9-83c6-b296929cfff9">
+            <dct:title xml:lang="ro-t-de-t0-mtec">Numărul de admisii în învățământul profesional de bază în funcție de gen</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Кількість вступів на базову професійну освіту за статтю</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17164264/master"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ammatilliseen peruskoulutukseen hakeutuneiden määrä sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Брой приеми до основно професионално образование по пол</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Numero di ammissioni all'istruzione professionale di base per genere</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Aantal toelatingen tot het basisberoepsonderwijs naar geslacht</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Numru ta’ ammissjonijiet għall-edukazzjoni vokazzjonali bażika skont is-sess</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Počet vstupů do základního odborného vzdělávání podle pohlaví</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αριθμός εισόδων στη βασική επαγγελματική εκπαίδευση ανά φύλο</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Liczba przyjęć do podstawowego kształcenia zawodowego według płci</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Število sprejemov v osnovno poklicno izobraževanje po spolu</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az alapfokú szakképzésbe való felvételek száma nemek szerint</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/17164264/master"/>
+            <dct:identifier>17164264-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemto personu skaits pamatizglītībā pēc dzimuma</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimo į pagrindinį profesinį išsilavinimą skaičius pagal lytį</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="de">Anzahl Eintritte in berufliche Grundbildung nach Geschlecht</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Počet prijatých osôb na základné odborné vzdelávanie podľa pohlavia</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Líon na n-iontrálacha ar ghairmoideachas bunúsach de réir inscne</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-06T00:00:00</dct:modified>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Número de admissões no ensino profissional básico por sexo</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Antal antagningar till grundläggande yrkesutbildning efter kön</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Número de admisiones a la enseñanza profesional básica por género</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Nombre d’entrées dans la formation professionnelle de base par sexe</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-06T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Broj prijema u osnovno strukovno obrazovanje prema spolu</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kutsehariduse põhihariduse omandamise arv soo järgi</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Number of admissions to basic vocational education by gender</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Antal indlæggelser til erhvervsgrunduddannelse efter køn</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kutsehariduse põhihariduse omandamise arv soo järgi</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Aantal toelatingen tot het basisberoepsonderwijs naar geslacht</dct:title>
+        <dcat:keyword xml:lang="en">learners-pupils-and-students-schooling-and-vocationalprofessional-education-and-training</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:keyword xml:lang="de">lernende-schulerinnen-und-studierende-schul--und-berufsbildung</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="en-t-de-t0-mtec">Number of admissions to basic vocational education by gender</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b5b1830b-ec22-4eea-996d-afd6d2b81e24">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-05-06T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Antal indlæggelser til erhvervsgrunduddannelse efter køn</dct:title>
+            <dct:title xml:lang="de">Anzahl Eintritte in berufliche Grundbildung nach Geschlecht</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Počet prijatých osôb na základné odborné vzdelávanie podľa pohlavia</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Número de admisiones a la enseñanza profesional básica por género</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Number of admissions to basic vocational education by gender</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Broj prijema u osnovno strukovno obrazovanje prema spolu</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αριθμός εισόδων στη βασική επαγγελματική εκπαίδευση ανά φύλο</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Število sprejemov v osnovno poklicno izobraževanje po spolu</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Liczba przyjęć do podstawowego kształcenia zawodowego według płci</dct:title>
+            <dct:identifier>17164264-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Número de admissões no ensino profissional básico por sexo</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Кількість вступів на базову професійну освіту за статтю</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Počet vstupů do základního odborného vzdělávání podle pohlaví</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ammatilliseen peruskoulutukseen hakeutuneiden määrä sukupuolen mukaan</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Antal antagningar till grundläggande yrkesutbildning efter kön</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Numero di ammissioni all'istruzione professionale di base per genere</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Брой приеми до основно професионално образование по пол</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az alapfokú szakképzésbe való felvételek száma nemek szerint</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.02.02.01.04"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kutsehariduse põhihariduse omandamise arv soo järgi</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemto personu skaits pamatizglītībā pēc dzimuma</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Líon na n-iontrálacha ar ghairmoideachas bunúsach de réir inscne</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimo į pagrindinį profesinį išsilavinimą skaičius pagal lytį</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Numărul de admisii în învățământul profesional de bază în funcție de gen</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Aantal toelatingen tot het basisberoepsonderwijs naar geslacht</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Nombre d’entrées dans la formation professionnelle de base par sexe</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Numru ta’ ammissjonijiet għall-edukazzjoni vokazzjonali bażika skont is-sess</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimo į pagrindinį profesinį išsilavinimą skaičius pagal lytį</dct:title>
+        <dcat:keyword xml:lang="it">allievi-e-studenti-formazione-scolastica-e-professionale</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:11Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>17164263@bundesamt-fur-statistik-bfs</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>69d3c3d44b4d8e68aa6c409dc24f6588</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

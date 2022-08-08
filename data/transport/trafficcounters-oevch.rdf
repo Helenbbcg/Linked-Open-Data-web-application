@@ -1,0 +1,1196 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/trafficcounters-oevch">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:05:47Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>8432e1a11d1b4257cf77d8a6dd121c1e</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/trafficcounters-oevch">
+        <dct:title xml:lang="pt-t-de-t0-mtec">Contabilista de tráfego (tráfego rodoviário)</dct:title>
+        <dcat:keyword xml:lang="de">verkehrszahler</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5a95b7c6-c4c2-471b-8539-c31623fc76c8">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/4d635fbe-2266-4d2f-b21c-3215eee74322/download/measurementsitetable.current_v5_2021-01-12_06-49-220000.xml"/>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-01-12_06-49-22+0000_v5.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-01-12_06-49-22+0000_v5.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-01-12_06-49-22+0000_v5.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-01-12_06-49-22+0000_v5.xml</dct:title>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-12T00:00:00</dct:issued>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:format>XML</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-12T00:00:00</dct:modified>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/4d635fbe-2266-4d2f-b21c-3215eee74322/download/measurementsitetable.current_v5_2021-01-12_06-49-220000.xml"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:identifier>MeasurementSiteTable.Current_2021-01-12_06-49-22+0000_v5.xml</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Sonraí Máistir méadar tráchta ar feadh bóithre tábhachtacha na hEilvéise.
+
+
+
+
+Tá méadair tráchta suite feadh codanna tábhachtacha bóthair chun gach gluaiseacht tráchta a thomhas in aghaidh an treo agus an ama.
+Is féidir leat luas gach feithicle a thrasnaíonn áiteanna sonracha a chomhaireamh, a aicmiú agus a chinneadh.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/66147b13-2a91-4d18-a48b-bc05859af40e">
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-31T00:00:00</dct:issued>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:identifier>MeasurementSiteTable.Current_2021-08-30_06-21-08+0000_v30.xml</dct:identifier>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-08-30_06-21-08+0000_v30.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-08-30_06-21-08+0000_v30.xml</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-08-30_06-21-08+0000_v30.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-08-30_06-21-08+0000_v30.xml</dct:title>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f5547fde-2dda-4f0c-aa3b-aadea904fde3/download/measurementsitetable.current_v30_2021-08-30_06-21-080000.xml"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-08-31T00:00:00</dct:modified>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f5547fde-2dda-4f0c-aa3b-aadea904fde3/download/measurementsitetable.current_v30_2021-08-30_06-21-080000.xml"/>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">stazioni-di-conteggio</dcat:keyword>
+        <dct:language>en</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c829c3f7-ac01-49d5-9626-aa255c01179b">
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:format>XML</dct:format>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-04-29_13-14-13+0000_v4.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-04-29_13-14-13+0000_v4.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-04-29_13-14-13+0000_v4.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-04-29_13-14-13+0000_v4.xml</dct:title>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/e6800f75-e22b-4c2c-bb67-98e052ef505f/download/measurementsitetable.current_v4_2020-04-29_13-14-130000.xml"/>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/e6800f75-e22b-4c2c-bb67-98e052ef505f/download/measurementsitetable.current_v4_2020-04-29_13-14-130000.xml"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-11T00:00:00</dct:modified>
+            <dct:identifier>MeasurementSiteTable.Current_2020-04-29_13-14-13+0000_v4.xml</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-04-29T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Števec prometa (cestni promet)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/01ee4b40-a6a1-48e0-8cf7-ea71419ba59e">
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:format>XML</dct:format>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-19_11-37-31+0000_v22.xml</dct:identifier>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-19T00:00:00</dct:issued>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f315736d-a5d7-4eff-b3e9-b3a48786660a/download/measurementsitetable.current_v22_2021-04-19_11-37-310000.xml"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-19_11-37-31+0000_v22.xml</dct:title>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f315736d-a5d7-4eff-b3e9-b3a48786660a/download/measurementsitetable.current_v22_2021-04-19_11-37-310000.xml"/>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-19_11-37-31+0000_v22.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-19_11-37-31+0000_v22.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-19_11-37-31+0000_v22.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Licznik ruchu (ruch drogowy)</dct:title>
+        <dcat:keyword xml:lang="fr">compteurs</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://opentransportdata.swiss/dataset/trafficcounters"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fdb7ef49-412a-41ed-874c-5adba64c6778">
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-22_07-02-34+0000_v27.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-22_07-02-34+0000_v27.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-22_07-02-34+0000_v27.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-22_07-02-34+0000_v27.xml</dct:title>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/aff797b2-8904-41f3-b6ad-6f948c7ac518/download/measurementsitetable.current_v27_2021-04-22_07-02-340000.xml"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-22_07-02-34+0000_v27.xml</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:issued>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/aff797b2-8904-41f3-b6ad-6f948c7ac518/download/measurementsitetable.current_v27_2021-04-22_07-02-340000.xml"/>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">postes-de-comptage</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e96839ab-0c05-4140-9a50-e39734e8af7d">
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/3be925bc-e1a1-45fb-8498-5631ced6b274/download/measurementsitetable.current_v7_2021-01-19_15-30-510000.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-20T00:00:00</dct:issued>
+            <dct:identifier>MeasurementSiteTable.Current_2021-01-19_15-30-51+0000_v7.xml</dct:identifier>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-01-19_15-30-51+0000_v7.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-01-19_15-30-51+0000_v7.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-01-19_15-30-51+0000_v7.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-01-19_15-30-51+0000_v7.xml</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-20T00:00:00</dct:modified>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/3be925bc-e1a1-45fb-8498-5631ced6b274/download/measurementsitetable.current_v7_2021-01-19_15-30-510000.xml"/>
+            <dct:format>XML</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Glavni podaci prometnih brojila duž važnih švicarskih cesta.
+
+
+
+
+Prometni mjerači nalaze se duž važnih cestovnih segmenata za mjerenje svih kretanja prometa po smjeru i vremenu.
+Možete brojati, klasificirati i odrediti brzinu svih vozila koja prelaze određena mjesta.</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Dados mestres de medidores de tráfego ao longo de importantes estradas suíças.
+
+
+
+
+Os medidores de tráfego estão localizados ao longo de importantes segmentos rodoviários para medir todos os movimentos de tráfego por direção e tempo.
+Você pode contar, classificar e determinar a velocidade de todos os veículos que cruzam locais específicos.</dct:description>
+        <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Μετρητής κυκλοφορίας (οδική κυκλοφορία)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9036ff12-bdc8-4ef5-8af8-dcc2f9122f95">
+            <dct:identifier>MeasurementSiteTable.Current_2021-01-15_13-39-18+0000_v6.xml</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/faa2a9fe-d091-4c8e-b6ad-823f3f151f5e/download/measurementsitetable.current_v6_2021-01-15_13-39-180000.xml"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-16T00:00:00</dct:modified>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/faa2a9fe-d091-4c8e-b6ad-823f3f151f5e/download/measurementsitetable.current_v6_2021-01-15_13-39-180000.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-16T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:format>XML</dct:format>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-01-15_13-39-18+0000_v6.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-01-15_13-39-18+0000_v6.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-01-15_13-39-18+0000_v6.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-01-15_13-39-18+0000_v6.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/827d57ba-6e73-4291-b4fd-8aab9f50f865">
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/bf227084-9f0d-4fc1-8e3d-9bd6fa280750/download/measurementsitetable.current_v2_2020-04-20_19-37-310000.xml"/>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:identifier>MeasurementSiteTable.Current_2020-04-20_19-37-31+0000_v2.xml</dct:identifier>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-04-20_19-37-31+0000_v2.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-04-20_19-37-31+0000_v2.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-04-20_19-37-31+0000_v2.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-04-20_19-37-31+0000_v2.xml</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-04-21T00:00:00</dct:issued>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:format>XML</dct:format>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/bf227084-9f0d-4fc1-8e3d-9bd6fa280750/download/measurementsitetable.current_v2_2020-04-20_19-37-310000.xml"/>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-11T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Hlavní údaje dopravních měřičů podél důležitých švýcarských silnic. 
+
+Dopravní měřidla se nacházejí podél důležitých silničních segmentů pro měření všech dopravních pohybů podle směru a času. Můžete počítat, klasifikovat a určit rychlost všech vozidel překračujících konkrétní místa.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.astra.admin.ch">
+            <rdfs:label>ASTRA</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:relation>
+          <rdf:Description rdf:about="https://opentransportdata.swiss/de/strassenverkehr/">
+            <rdfs:label>Background information on road traffic data</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Магистърски данни за пътномерите по важни швейцарски пътища. 
+
+Пътномерите са разположени по протежение на важни пътни сегменти, за да се измерват всички движения на движението по посока и време. Можете да броите, класифицирате и определяте скоростта на всички превозни средства, пресичащи определени места.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/65a15e97-2efc-4156-9e01-831e1296cbf3">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-08-11T00:00:00</dct:modified>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-08-11T00:00:00</dct:issued>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-08-11_09-21-47+0000_v1.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-08-11_09-21-47+0000_v1.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-08-11_09-21-47+0000_v1.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-08-11_09-21-47+0000_v1.xml</dct:title>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/4a0282cf-2547-465d-8a2f-f2d0f5d98bea/download/measurementsitetable.current_v1_2020-08-11_09-21-470000.xml"/>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:identifier>MeasurementSiteTable.Current_2020-08-11_09-21-47+0000_v1.xml</dct:identifier>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/4a0282cf-2547-465d-8a2f-f2d0f5d98bea/download/measurementsitetable.current_v1_2020-08-11_09-21-470000.xml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/905cf25e-011c-4c3a-bf3a-fe5f41ddca70">
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-20T00:00:00</dct:issued>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f727a1b9-11f3-401f-9afa-75996f531276/download/measurementsitetable.current_v25_2021-04-20_07-08-250000.xml"/>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:format>XML</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-20_07-08-25+0000_v25.xml</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f727a1b9-11f3-401f-9afa-75996f531276/download/measurementsitetable.current_v25_2021-04-20_07-08-250000.xml"/>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-20_07-08-25+0000_v25.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-20_07-08-25+0000_v25.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-20_07-08-25+0000_v25.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-20_07-08-25+0000_v25.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">counting-loops</dcat:keyword>
+        <dcat:keyword xml:lang="de">zahlstationen</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d27a3231-4777-4820-b45b-1b40bb29bc15">
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-07-27_13-07-53+0000_v29.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-07-27_13-07-53+0000_v29.xml</dct:title>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-28T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f6ba84b8-f24a-45bb-b06e-ef94008606f0/download/measurementsitetable.current_v29_2021-07-27_13-07-530000.xml"/>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f6ba84b8-f24a-45bb-b06e-ef94008606f0/download/measurementsitetable.current_v29_2021-07-27_13-07-530000.xml"/>
+            <dct:identifier>MeasurementSiteTable.Current_2021-07-27_13-07-53+0000_v29.xml</dct:identifier>
+            <dct:format>XML</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-28T00:00:00</dct:issued>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-07-27_13-07-53+0000_v29.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-07-27_13-07-53+0000_v29.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-de-t0-mtec">Κύρια δεδομένα των μετρητών κυκλοφορίας κατά μήκος σημαντικών ελβετικών δρόμων. 
+
+Οι μετρητές κυκλοφορίας βρίσκονται κατά μήκος σημαντικών οδικών τμημάτων για τη μέτρηση όλων των κινήσεων κυκλοφορίας ανά κατεύθυνση και χρόνο. Μπορείτε να μετρήσετε, να ταξινομήσετε και να καθορίσετε την ταχύτητα όλων των οχημάτων που διασχίζουν συγκεκριμένες τοποθεσίες.</dct:description>
+        <dct:title xml:lang="en">Traffic counters (road traffic)</dct:title>
+        <dct:language>it</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Galvenie dati par satiksmes skaitītājiem pa svarīgiem Šveices ceļiem.
+
+
+
+
+Satiksmes skaitītāji atrodas pa svarīgiem ceļa segmentiem, lai mērītu visas satiksmes kustības katrā virzienā un laikā.
+Jūs varat skaitīt, klasificēt un noteikt ātrumu visiem transportlīdzekļiem, kas šķērso konkrētas vietas.</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Master data tal-miters tat-traffiku tul toroq Svizzeri importanti.
+
+
+
+
+Il-miters tat-traffiku jinsabu tul segmenti importanti tat-toroq biex ikejlu l-movimenti kollha tat-traffiku skont id-direzzjoni u l-ħin.
+Tista’ tgħodd, tikklassifika u tiddetermina l-veloċità tal-vetturi kollha li jaqsmu postijiet speċifiċi.</dct:description>
+        <dcat:keyword xml:lang="it">anelli-di-misurazione</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Dopravní přepážka (silniční doprava)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3876f07c-1424-41ef-833a-2986237cb21d">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/7d86e82d-e79a-439d-88e3-fe6b49cb2032/download/measurementsitetable.current_v21_2021-04-15_17-30-580000.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-15T00:00:00</dct:issued>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-15_17-30-58+0000_v21.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-15_17-30-58+0000_v21.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-15_17-30-58+0000_v21.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-15_17-30-58+0000_v21.xml</dct:title>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-15_17-30-58+0000_v21.xml</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:format>XML</dct:format>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/7d86e82d-e79a-439d-88e3-fe6b49cb2032/download/measurementsitetable.current_v21_2021-04-15_17-30-580000.xml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Główne dane liczników ruchu wzdłuż ważnych szwajcarskich dróg.
+
+
+
+
+Mierniki ruchu znajdują się wzdłuż ważnych segmentów dróg, aby mierzyć wszystkie ruchy w zależności od kierunku i czasu.
+Możesz liczyć, klasyfikować i określać prędkość wszystkich pojazdów przejeżdżających przez określone lokalizacje.</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A fontos svájci utakon közlekedő forgalommérők mesteradatai.
+
+
+
+
+A forgalommérők fontos útszakaszok mentén helyezkednek el, hogy minden forgalmi mozgást irány és idő szerint mérjenek.
+Megszámolhatja, osztályozhatja és meghatározhatja az egyes helyeken áthaladó járművek sebességét.</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Peamised andmed liiklusarvestite kohta mööda olulisi Šveitsi maanteid. 
+
+Liiklusmõõdikud asuvad mööda olulisi teesegmente, et mõõta kõiki liiklusliikumisi suuna ja aja järgi. Saate lugeda, klassifitseerida ja kindlaks määrata kõikide sõidukite kiirus, mis ületavad konkreetseid asukohti.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/452696b5-2fb4-48ff-a32e-0a3d7f69acfa">
+            <dcat:mediaType>XML</dcat:mediaType>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/73bc28dd-2544-41b7-b05b-39b2002d5824/download/measurementsitetable.current_2022-07-11_10-09-380200_v36.xml"/>
+            <dct:identifier>MeasurementSiteTable.Current_2022-07-11_10-09-38+0200_V36.xml</dct:identifier>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/73bc28dd-2544-41b7-b05b-39b2002d5824/download/measurementsitetable.current_2022-07-11_10-09-380200_v36.xml"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:format>XML</dct:format>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2022-07-11_10-09-38+0200_V36.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2022-07-11_10-09-38+0200_V36.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2022-07-11_10-09-38+0200_V36.xml</dct:title>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2022-07-11_10-09-38+0200_V36.xml</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >12443259</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Huvuddata för trafikmätare längs viktiga schweiziska vägar.
+
+
+
+
+Trafikmätare finns längs viktiga vägsegment för att mäta alla trafikrörelser per riktning och tid.
+Du kan räkna, klassificera och bestämma hastigheten på alla fordon som korsar specifika platser.</dct:description>
+        <dcat:keyword xml:lang="de">zahler</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Liikenteen laskuri (tieliikenne)</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Brojač prometa (cestovni promet)</dct:title>
+        <dcat:keyword xml:lang="en">measuring-loops</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Počítadlo dopravy (cestná premávka)</dct:title>
+        <dcat:keyword xml:lang="it">monitoraggi-automatici</dcat:keyword>
+        <dcat:keyword xml:lang="it">cicli-di-conteggio</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8de7be48-9075-4ce5-92e3-50d76fbf45f1">
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-22_07-02-24+0000_v26.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-22_07-02-24+0000_v26.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-22_07-02-24+0000_v26.xml</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-22T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-22_07-02-24+0000_v26.xml</dct:identifier>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/9f53abd6-68bf-4748-9626-28ab20597475/download/measurementsitetable.current_v26_2021-04-22_07-02-240000.xml"/>
+            <dct:format>XML</dct:format>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/9f53abd6-68bf-4748-9626-28ab20597475/download/measurementsitetable.current_v26_2021-04-22_07-02-240000.xml"/>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-22_07-02-24+0000_v26.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="es-t-de-t0-mtec">Datos maestros de medidores de tráfico a lo largo de importantes carreteras suizas. 
+
+Los medidores de tráfico se encuentran a lo largo de importantes segmentos de carretera para medir todos los movimientos de tráfico por dirección y tiempo. Puede contar, clasificar y determinar la velocidad de todos los vehículos que cruzan ubicaciones específicas.</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Master tiedot liikennemittareita pitkin tärkeitä Sveitsin teitä. 
+
+
+
+Liikennemittarit sijaitsevat tärkeiden tieosuuksien varrella mittaamaan kaikkia liikenteen liikkeitä suunnan ja ajan mukaan.
+Voit laskea, luokitella ja määrittää kaikkien tiettyjen kohteiden ylittävien ajoneuvojen nopeuden.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ac6b8bfd-7251-48c1-b276-2b4429650f63">
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-02T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/ea0152f1-2835-44c6-b230-c9f34c7bf44e/download/measurementsitetable.current_v31_2022-01-24_13-44-370100.xml"/>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/ea0152f1-2835-44c6-b230-c9f34c7bf44e/download/measurementsitetable.current_v31_2022-01-24_13-44-370100.xml"/>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:format>XML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-02T00:00:00</dct:issued>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2022-01-24_13-44-37+0100_v31.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2022-01-24_13-44-37+0100_v31.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2022-01-24_13-44-37+0100_v31.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2022-01-24_13-44-37+0100_v31.xml</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:identifier>MeasurementSiteTable.Current_2022-01-24_13-44-37+0100_v31.xml</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/372a057f-fbab-4d2e-bd34-7518061cdfe8">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-19T00:00:00</dct:issued>
+            <dct:format>XML</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/19940ed5-8d50-437b-9b27-fe8252708de8/download/measurementsitetable.current_v23_2021-04-19_11-41-070000.xml"/>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-19_11-41-07+0000_v23.xml</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-19_11-41-07+0000_v23.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-19_11-41-07+0000_v23.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-19_11-41-07+0000_v23.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-19_11-41-07+0000_v23.xml</dct:title>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/19940ed5-8d50-437b-9b27-fe8252708de8/download/measurementsitetable.current_v23_2021-04-19_11-41-070000.xml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-04-07T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7775b4b8-119f-4e96-87d8-ea1c9bf5047a">
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-04-10T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:identifier>MeasurementSiteTable.Current_2020-03-27_12-48-04+0000_v1.xml</dct:identifier>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:format>XML</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-11T00:00:00</dct:modified>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/dfd3204e-dc97-499c-b3de-33eb422eb7da/download/measurementsitetable.current_v1_2020-03-27_12-48-040000.xml"/>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/dfd3204e-dc97-499c-b3de-33eb422eb7da/download/measurementsitetable.current_v1_2020-03-27_12-48-040000.xml"/>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-03-27_12-48-04+0000_v1.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-03-27_12-48-04+0000_v1.xml</dct:title>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-03-27_12-48-04+0000_v1.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-03-27_12-48-04+0000_v1.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/37dd6691-f421-4dbd-bd84-87b10cc3ee82">
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-04-29_13-07-27+0000_v3.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-04-29_13-07-27+0000_v3.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-04-29_13-07-27+0000_v3.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-04-29_13-07-27+0000_v3.xml</dct:title>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/4ed1859d-470b-4f03-a99b-b2b172b1bf6a/download/measurementsitetable.current_v3_2020-04-29_13-07-270000.xml"/>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:identifier>MeasurementSiteTable.Current_2020-04-29_13-07-27+0000_v3.xml</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-04-29T00:00:00</dct:issued>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-11T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/4ed1859d-470b-4f03-a99b-b2b172b1bf6a/download/measurementsitetable.current_v3_2020-04-29_13-07-270000.xml"/>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="it">Stazioni di conteggio (traffico stradale)</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Contor de trafic (trafic rutier)</dct:title>
+        <dct:title xml:lang="de">Verkehrszähler (Strassenverkehr)</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Trafiktæller (vejtrafik)</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2936aed4-39fd-4030-a885-cba4114af862">
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/8b46af56-50ca-4ee5-9240-89310c18e729/download/measurementsitetable.current_v24_2021-04-19_11-49-210000.xml"/>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/8b46af56-50ca-4ee5-9240-89310c18e729/download/measurementsitetable.current_v24_2021-04-19_11-49-210000.xml"/>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-19T00:00:00</dct:issued>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-19_11-49-21+0000_v24.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-19_11-49-21+0000_v24.xml</dct:title>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-19_11-49-21+0000_v24.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-19_11-49-21+0000_v24.xml</dct:title>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-19_11-49-21+0000_v24.xml</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e785d34f-f36a-45df-819e-9ee0629abb0f">
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-01-19_15-35-41+0000_v8.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-01-19_15-35-41+0000_v8.xml</dct:title>
+            <dct:format>XML</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-01-19_15-35-41+0000_v8.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-01-19_15-35-41+0000_v8.xml</dct:title>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/b8f0f1d9-c513-4e08-9353-572b12595951/download/measurementsitetable.current_v8_2021-01-19_15-35-410000.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-20T00:00:00</dct:issued>
+            <dct:identifier>MeasurementSiteTable.Current_2021-01-19_15-35-41+0000_v8.xml</dct:identifier>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/b8f0f1d9-c513-4e08-9353-572b12595951/download/measurementsitetable.current_v8_2021-01-19_15-35-410000.xml"/>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-20T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-de-t0-mtec">Contador de tráfico (tráfico por carretera)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9414057b-c61a-4031-98e5-d002a52c754d">
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/1d654824-314b-47e3-86f5-3941a994f2a7/download/measurementsitetable.current_v33_2022-02-08_11-12-170100.xml"/>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:identifier>MeasurementSiteTable.Current_2022-02-08_11-12-17+0100_v33.xml</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/1d654824-314b-47e3-86f5-3941a994f2a7/download/measurementsitetable.current_v33_2022-02-08_11-12-170100.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-02T00:00:00</dct:issued>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2022-02-08_11-12-17+0100_v33.xml</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-02T00:00:00</dct:modified>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2022-02-08_11-12-17+0100_v33.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2022-02-08_11-12-17+0100_v33.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2022-02-08_11-12-17+0100_v33.xml</dct:title>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Eismo skaitiklis (kelių eismas)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/def53da5-5e33-45c7-8d36-3fc0974bd5f9">
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/b1b967bb-f65a-426e-8b54-5bc1885370e8/download/measurementsitetable.current_v4_2020-12-16_07-19-250000.xml"/>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-12-16_07-19-25+0000_v4.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-12-16_07-19-25+0000_v4.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-12-16_07-19-25+0000_v4.xml</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-12-16_07-19-25+0000_v4.xml</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-18T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:identifier>MeasurementSiteTable.Current_2020-12-16_07-19-25+0000_v4.xml</dct:identifier>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/b1b967bb-f65a-426e-8b54-5bc1885370e8/download/measurementsitetable.current_v4_2020-12-16_07-19-250000.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-18T00:00:00</dct:issued>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dct:relation>
+          <rdf:Description rdf:about="https://opentransportdata.swiss/en/rt-road-traffic-counters/">
+            <rdfs:label>Cookbook</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Дорожній лічильник (дорожній рух)</dct:title>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Glavni podatki prometnih števcev po pomembnih švicarskih cestah.
+
+
+
+
+Prometni števci se nahajajo vzdolž pomembnih cestnih odsekov, ki merijo vse prometne premike glede na smer in čas.
+Lahko preštejete, razvrstite in določite hitrost vseh vozil, ki prečkajo določene lokacije.</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/oevch">
+            <foaf:name>Fachstelle Open-Data-Plattfrm Mobilität Schweiz</foaf:name>
+            <foaf:name>Bundesamt für Energie</foaf:name>
+            <foaf:name>Alliance SwissPass</foaf:name>
+            <foaf:name>Publisher 1</foaf:name>
+            <foaf:name>Open Data Mobilität Schweiz</foaf:name>
+            <foaf:name>Specialist office Open Data</foaf:name>
+            <foaf:name>-</foaf:name>
+            <foaf:name>Geschäftsstelle SKI</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="fr">boucles-de-comptage</dcat:keyword>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Master data van verkeersmeters langs belangrijke Zwitserse wegen.
+
+
+
+
+Verkeersmeters bevinden zich langs belangrijke wegsegmenten om alle verkeersbewegingen per richting en tijd te meten.
+U kunt de snelheid van alle voertuigen die specifieke locaties oversteken tellen, classificeren en bepalen.</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Közlekedési számláló (közúti forgalom)</dct:title>
+        <dcat:keyword xml:lang="en">traffic-counters</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/efef5623-672c-4253-93f5-2fb886827d17">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/d4c9e492-6d9d-45bd-a9db-b98fe58b5435/download/measurementsitetable.current_v5_2020-06-03_16-44-390000.xml"/>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-11T00:00:00</dct:modified>
+            <dct:format>XML</dct:format>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/d4c9e492-6d9d-45bd-a9db-b98fe58b5435/download/measurementsitetable.current_v5_2020-06-03_16-44-390000.xml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-06-03T00:00:00</dct:issued>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-06-03_16-44-39+0000_v5.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-06-03_16-44-39+0000_v5.xml</dct:title>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-06-03_16-44-39+0000_v5.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-06-03_16-44-39+0000_v5.xml</dct:title>
+            <dct:identifier>MeasurementSiteTable.Current_2020-06-03_16-44-39+0000_v5.xml</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Cuntar tráchta (trácht bóthair)</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Pagrindiniai eismo skaitiklių duomenys svarbiais Šveicarijos keliais.
+
+
+
+
+Eismo skaitikliai yra palei svarbius kelio ruožus, kad būtų galima išmatuoti visus eismo srautus kryptimi ir laiku.
+Galite skaičiuoti, klasifikuoti ir nustatyti visų transporto priemonių, kertančių tam tikras vietas, greitį.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://opentransportdata.swiss/terms-of-use/">
+            <rdfs:label>Terms of use</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Hlavné údaje o dopravných metroch pozdĺž dôležitých švajčiarskych ciest.
+
+
+
+
+Dopravné merače sú umiestnené pozdĺž dôležitých cestných úsekov na meranie všetkých dopravných pohybov podľa smeru a času.
+Môžete počítať, klasifikovať a určovať rýchlosť všetkých vozidiel, ktoré prechádzajú určitými miestami.</dct:description>
+        <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+        <dcat:keyword xml:lang="de">zahlschleifen</dcat:keyword>
+        <dcat:keyword xml:lang="it">contatori-di-traffico</dcat:keyword>
+        <dcat:keyword xml:lang="fr">compteurs-de-trafic</dcat:keyword>
+        <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Kontatur tat-traffiku (traffiku fit-triq)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e7007a5f-9b96-4df1-8ef2-c7f34f702923">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-09-03T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-09-03T00:00:00</dct:modified>
+            <dct:identifier>MeasurementSiteTable.Current_2020-09-02_11-43-25+0000_v3.xml</dct:identifier>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/57c3763d-0fb8-4a8f-94a0-7d481abf77c9/download/measurementsitetable.current_v3_2020-09-02_11-43-250000.xml"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/57c3763d-0fb8-4a8f-94a0-7d481abf77c9/download/measurementsitetable.current_v3_2020-09-02_11-43-250000.xml"/>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-09-02_11-43-25+0000_v3.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-09-02_11-43-25+0000_v3.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-09-02_11-43-25+0000_v3.xml</dct:title>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-09-02_11-43-25+0000_v3.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>trafficcounters@oevch</dct:identifier>
+        <dct:title xml:lang="fr">Postes de comptage (trafic routier)</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Брояч на трафика (пътен трафик)</dct:title>
+        <dcat:keyword xml:lang="en">counters</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fceb23be-d34f-4e0d-84a3-7d46e319784a">
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-23T00:00:00</dct:modified>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-01-22_17-59-41+0000_v9.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-01-22_17-59-41+0000_v9.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-01-22_17-59-41+0000_v9.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-01-22_17-59-41+0000_v9.xml</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-23T00:00:00</dct:issued>
+            <dct:identifier>MeasurementSiteTable.Current_2021-01-22_17-59-41+0000_v9.xml</dct:identifier>
+            <dct:format>XML</dct:format>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f941ea29-59be-42ad-bea2-2deb2b6982ac/download/measurementsitetable.current_v9_2021-01-22_17-59-410000.xml"/>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f941ea29-59be-42ad-bea2-2deb2b6982ac/download/measurementsitetable.current_v9_2021-01-22_17-59-410000.xml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Verkeersteller (wegverkeer)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/89b074f2-d2b0-47de-af96-d236f98a9d1b">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:identifier>MeasurementSiteTable.Current_2020-09-02_11-39-21+0000_v2.xml</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f8d8b842-6072-4d3b-9d1c-daa5dd09faae/download/measurementsitetable.current_v2_2020-09-02_11-39-210000.xml"/>
+            <dct:format>XML</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-09-03T00:00:00</dct:modified>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/f8d8b842-6072-4d3b-9d1c-daa5dd09faae/download/measurementsitetable.current_v2_2020-09-02_11-39-210000.xml"/>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2020-09-02_11-39-21+0000_v2.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2020-09-02_11-39-21+0000_v2.xml</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-09-03T00:00:00</dct:issued>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2020-09-02_11-39-21+0000_v2.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2020-09-02_11-39-21+0000_v2.xml</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-de-t0-mtec">Master data for trafikmålere langs vigtige schweiziske veje. 
+
+Trafikmålere er placeret langs vigtige vejsegmenter for at måle alle trafikbevægelser pr. retning og tid. Du kan tælle, klassificere og bestemme hastigheden for alle køretøjer, der krydser bestemte steder.</dct:description>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Date de bază ale contoarelor de trafic de-a lungul drumurilor elvețiene importante.
+
+
+
+
+Contoarele de trafic sunt situate de-a lungul segmentelor rutiere importante pentru a măsura toate mișcările de trafic în funcție de direcție și timp.
+Puteți număra, clasifica și determina viteza tuturor vehiculelor care traversează anumite locații.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fe7cdcb5-0048-4274-88a4-7be0b0e6a9ae">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-22T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/700171dd-cd47-402a-a97c-135645a01ddb/download/measurementsitetable.current_v28_2021-04-22_07-06-430000.xml"/>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:format>XML</dct:format>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/700171dd-cd47-402a-a97c-135645a01ddb/download/measurementsitetable.current_v28_2021-04-22_07-06-430000.xml"/>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-22_07-06-43+0000_v28.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-22_07-06-43+0000_v28.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-22_07-06-43+0000_v28.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-22_07-06-43+0000_v28.xml</dct:title>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-22_07-06-43+0000_v28.xml</dct:identifier>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">contatori</dcat:keyword>
+        <dcat:keyword xml:lang="de">messschleifen</dcat:keyword>
+        <dcat:keyword xml:lang="fr">boucles-de-mesure</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Satiksmes skaitītājs (ceļu satiksme)</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Liikluskeskus (maanteeliiklus)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d40e62ba-62e5-4164-9503-f35083a0e8e3">
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/ed3eda15-2463-449a-931c-855fae69d3da/download/measurementsitetable.current_v32_2022-02-08_11-08-010100.xml"/>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:identifier>MeasurementSiteTable.Current_2022-02-08_11-08-01+0100_v32.xml</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:format>XML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-02T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-02T00:00:00</dct:modified>
+            <dcat:mediaType>application/xml</dcat:mediaType>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2022-02-08_11-08-01+0100_v32.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2022-02-08_11-08-01+0100_v32.xml</dct:title>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2022-02-08_11-08-01+0100_v32.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2022-02-08_11-08-01+0100_v32.xml</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/ed3eda15-2463-449a-931c-855fae69d3da/download/measurementsitetable.current_v32_2022-02-08_11-08-010100.xml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/57cde1b3-4163-41fa-9cb7-5cc34583c722">
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2021-04-14_09-07-27+0000_v20.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2021-04-14_09-07-27+0000_v20.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2021-04-14_09-07-27+0000_v20.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2021-04-14_09-07-27+0000_v20.xml</dct:title>
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/6f4dfbbb-73f4-4f45-af86-ae8f2afaecdf/download/measurementsitetable.current_v20_2021-04-14_09-07-270000.xml"/>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-06-13T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-14T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/6f4dfbbb-73f4-4f45-af86-ae8f2afaecdf/download/measurementsitetable.current_v20_2021-04-14_09-07-270000.xml"/>
+            <dct:identifier>MeasurementSiteTable.Current_2021-04-14_09-07-27+0000_v20.xml</dct:identifier>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+            <dct:format>XML</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Trafikräknare (vägtrafik)</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@sbb.ch"/>
+            <vcard:fn>Specialist office Open Data</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d25c2c0c-a2c8-4817-93d1-7d92233913a7">
+            <dcat:downloadURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/b1088955-a8e2-4020-9e5f-448842d10ab8/download/measurementsitetable.current_v34_2022-06-28_14-17-310200.xml"/>
+            <dct:format>XML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-29T00:00:00</dct:issued>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:license>
+            <dct:identifier>MeasurementSiteTable.Current_2022-06-28_14-17-31+0200_v34.xml</dct:identifier>
+            <dct:description xml:lang="de">Stammdaten der Verkehrszähler entlang wichtiger Schweizer Strassen.&#xD;
+&#xD;
+Verkehrszähler befinden sich entlang wichtiger Strassensegmente, um alle Verkehrsbewegungen pro Richtung und Zeit zu messen. Sie können die Geschwindigkeit aller Fahrzeuge, die bestimmte Orte überqueren, zählen, klassifizieren und bestimmen.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-29T00:00:00</dct:modified>
+            <dct:description xml:lang="it">Dati base di stazioni di conteggio lungo degli strade principali svizzere.&#xD;
+&#xD;
+I stazioni di conteggio si trovano lungo importanti segmenti stradali per misurare tutti i movimenti del traffico in base alla direzione e al tempo. Sono in grado di contare, classificare e determinare la velocità di tutti i veicoli che attraversano posizioni specifiche.</dct:description>
+            <dcat:accessURL rdf:resource="https://opentransportdata.swiss/dataset/9f2cd216-a6a0-47ca-b498-6893bd911f4b/resource/b1088955-a8e2-4020-9e5f-448842d10ab8/download/measurementsitetable.current_v34_2022-06-28_14-17-310200.xml"/>
+            <dct:description xml:lang="en">Master data of traffic counters along major Swiss roads.&#xD;
+&#xD;
+Traffic counters can be found along important road segments in order to measure all traffic movements by direction and time. They are able to count, classify and determine the speed of all vehicles crossing specific locations.</dct:description>
+            <dct:title xml:lang="de">MeasurementSiteTable.Current_2022-06-28_14-17-31+0200_v34.xml</dct:title>
+            <dct:title xml:lang="en">MeasurementSiteTable.Current_2022-06-28_14-17-31+0200_v34.xml</dct:title>
+            <dct:title xml:lang="it">MeasurementSiteTable.Current_2022-06-28_14-17-31+0200_v34.xml</dct:title>
+            <dct:title xml:lang="fr">MeasurementSiteTable.Current_2022-06-28_14-17-31+0200_v34.xml</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:mediaType>Datex II</dcat:mediaType>
+            <dct:description xml:lang="fr">Données de base des postes de comptage le long des routes principales suisses.&#xD;
+&#xD;
+Des postes de comptage peuvent être trouvés le long de segments de route importants afin de mesurer tous les mouvements de trafic par direction et par heure. Ils sont capables de compter, classer et déterminer la vitesse de tous les véhicules traversant des emplacements spécifiques.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Основні дані лічильників руху по важливих швейцарських дорогах.
+
+
+
+
+Лічильники руху розташовані уздовж важливих відрізків доріг для вимірювання всіх рухів руху за напрямок і час.
+Ви можете підрахувати, класифікувати і визначити швидкість всіх транспортних засобів, що перетинають конкретні місця.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-12T00:00:00</dct:modified>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:05:48Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/trafficcounters-oevch"/>
+    <dct:identifier>trafficcounters@oevch</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:19Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

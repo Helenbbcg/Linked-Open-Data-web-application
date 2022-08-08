@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/7c2ek4evi7mfjwv8k3bsg">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/7c2ek4evi7mfjwv8k3bsg">
+        <dct:description xml:lang="sk-t-en-t0-mtec">Žiaci zapísaní do nižšieho sekundárneho vzdelávania podľa programovej orientácie, pohlavia a regiónov NUTS 2</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teise taseme alumise taseme hariduses osalevad õpilased programmi suunitluse, soo ja NUTS2 piirkondade kaupa</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Ученици, записани в програмно ориентиране, пол и региони по NUTS2</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Alunos inscritos no ensino secundário inferior por orientação do programa, sexo e regiões NUTS2</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Μαθητές που είναι εγγεγραμμένοι στην κατώτερη δευτεροβάθμια εκπαίδευση ανά περιφέρεια προσανατολισμού του προγράμματος, φύλο και NUTS2</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Daltaí atá cláraithe in oideachas íseal-mheánscoile de réir réigiúin treoshuíomh cláir, inscne agus NUTS2</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Elever som är inskrivna i gymnasieutbildning efter programinriktning, kön och Nuts 2-regioner</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Učenici upisani u niže srednje obrazovanje prema programskoj orijentaciji, spolu i regijama NUTS2</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Leerlingen die in het lager secundair onderwijs zijn ingeschreven per programmaoriëntatie, geslacht en NUTS2-regio’s</dct:description>
+        <dct:description xml:lang="en">Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS2 regions</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-14</dct:modified>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:title xml:lang="it-t-en-t0-mtec">Studenti iscritti all'istruzione secondaria inferiore per orientamento al programma, sesso e regioni NUTS2</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Учні, які навчаються в нижчій середній освіті за програмами орієнтації, статі та NUTS2 регіони</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Μαθητές που είναι εγγεγραμμένοι στην κατώτερη δευτεροβάθμια εκπαίδευση ανά περιφέρεια προσανατολισμού του προγράμματος, φύλο και NUTS2</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Alunos inscritos no ensino secundário inferior por orientação do programa, sexo e regiões NUTS2</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/7C2eK4EvI7mFJwV8k3bSg</dct:identifier>
+        <dct:description xml:lang="it-t-en-t0-mtec">Studenti iscritti all'istruzione secondaria inferiore per orientamento al programma, sesso e regioni NUTS2</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/b190590e-7b31-4d2c-a9d8-87040c562891">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/4a098cdf-ccc9-42a2-8573-51c8853ae558">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Elevii înscriși în învățământul secundar inferior în funcție de orientarea programului, sex și regiuni NUTS2</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Učenci, vpisani v nižje sekundarno izobraževanje, glede na usmerjenost programa, spol in regije NUTS2</dct:description>
+        <dct:description xml:lang="de">Schüler des Sekundarbereichs I nach Ausrichtung des Bildungsprogramms, Geschlecht und NUTS2 Regionen</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Az alsó középfokú oktatásba beiratkozott tanulók programorientáció, nem és NUTS2 régiók szerint</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Učenci, vpisani v nižje sekundarno izobraževanje, glede na usmerjenost programa, spol in regije NUTS2</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Alumnos matriculados en la enseñanza secundaria inferior por orientación programática, sexo y regiones NUTS2</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/educ_uoe_enr_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/educ_uoe_enr_esms.htm</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/7c2ek4evi7mfjwv8k3bsg"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az alsó középfokú oktatásba beiratkozott tanulók programorientáció, nem és NUTS2 régiók szerint</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Uczniowie uczestniczący w szkolnictwie wyższym według orientacji programowej, płci i regionów NUTS2</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Žáci zapsaní do nižšího sekundárního vzdělávání podle programové orientace, pohlaví a regionů NUTS2</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Alemman keskiasteen koulutukseen ilmoittautuneet oppilaat ohjelmasuuntautuneisuuden, sukupuolen ja NUTS 2 -alueiden mukaan</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Elever som är inskrivna i gymnasieutbildning efter programinriktning, kön och Nuts 2-regioner</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Uczniowie uczestniczący w szkolnictwie wyższym według orientacji programowej, płci i regionów NUTS2</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2b7d029d-1330-46b9-8144-db0fc2f591d9">
+            <dct:title xml:lang="fr">Élèves du premier cycle de l'enseignement secondaire par orientation du programme, sexe et régions NUTS2</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/3d922ba2-0675-4969-8823-71febcfd1e60</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Schüler des Sekundarbereichs I nach Ausrichtung des Bildungsprogramms, Geschlecht und NUTS2 Regionen</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="en">Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS2 regions</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_enrs03.tsv.gz"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_enrs03">
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_enrs03</schema:url>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_enrs03</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/7c2ek4evi7mfjwv8k3bsg"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="fr">Élèves du premier cycle de l'enseignement secondaire par orientation du programme, sexe et régions NUTS2</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Skolēni, kas iegūst augstāko izglītību pēc programmas orientācijas, dzimuma un NUTS 2 reģioniem</dct:description>
+        <dct:title xml:lang="de">Schüler des Sekundarbereichs I nach Ausrichtung des Bildungsprogramms, Geschlecht und NUTS2 Regionen</dct:title>
+        <dct:title xml:lang="en">Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS2 regions</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Skolēni, kas iegūst augstāko izglītību pēc programmas orientācijas, dzimuma un NUTS 2 reģioniem</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/5d1f1ca6-38b6-41ed-8563-72ec272e829e">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2013-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Учні, які навчаються в нижчій середній освіті за програмами орієнтації, статі та NUTS2 регіони</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Žáci zapsaní do nižšího sekundárního vzdělávání podle programové orientace, pohlaví a regionů NUTS2</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Učenici upisani u niže srednje obrazovanje prema programskoj orijentaciji, spolu i regijama NUTS2</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1201e820-020c-4aea-a5eb-a4ae74a36b4a">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="de">Schüler des Sekundarbereichs I nach Ausrichtung des Bildungsprogramms, Geschlecht und NUTS2 Regionen</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_enrs03.tsv.gz&amp;unzip=true"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4b3b7c73-592e-4d61-902c-b41d34c6cc5c</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS2 regions</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Élèves du premier cycle de l'enseignement secondaire par orientation du programme, sexe et régions NUTS2</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Studenti rreġistrati fl-edukazzjoni sekondarja baxxa skont l-orjentazzjoni tal-programm, is-sess u r-reġjuni NUTS2</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Mokiniai, besimokantys žemesniojo vidurinio ugdymo įstaigose pagal programos orientaciją, lytį ir NUTS 2 lygio regionus</dct:description>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_enrs03"/>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="da-t-en-t0-mtec">Elever på sekundærtrinnet efter programorientering, køn og NUTS 2-regioner</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Alemman keskiasteen koulutukseen ilmoittautuneet oppilaat ohjelmasuuntautuneisuuden, sukupuolen ja NUTS 2 -alueiden mukaan</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Alumnos matriculados en la enseñanza secundaria inferior por orientación programática, sexo y regiones NUTS2</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Ученици, записани в програмно ориентиране, пол и региони по NUTS2</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Elevii înscriși în învățământul secundar inferior în funcție de orientarea programului, sex și regiuni NUTS2</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Mokiniai, besimokantys žemesniojo vidurinio ugdymo įstaigose pagal programos orientaciją, lytį ir NUTS 2 lygio regionus</dct:title>
+        <dct:title xml:lang="fr">Élèves du premier cycle de l'enseignement secondaire par orientation du programme, sexe et régions NUTS2</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1bbef3c6-40f0-45d9-a9e3-75e56e79500f">
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Pupils enrolled in lower-secondary education by programme orientation, sex and NUTS2 regions</dct:title>
+            <dct:title xml:lang="de">Schüler des Sekundarbereichs I nach Ausrichtung des Bildungsprogramms, Geschlecht und NUTS2 Regionen</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_enrs03.sdmx.zip"/>
+            <dct:title xml:lang="fr">Élèves du premier cycle de l'enseignement secondaire par orientation du programme, sexe et régions NUTS2</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4167e036-6d5b-4ac0-8cb7-d1d5d0ae262b</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Leerlingen die in het lager secundair onderwijs zijn ingeschreven per programmaoriëntatie, geslacht en NUTS2-regio’s</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Studenti rreġistrati fl-edukazzjoni sekondarja baxxa skont l-orjentazzjoni tal-programm, is-sess u r-reġjuni NUTS2</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Elever på sekundærtrinnet efter programorientering, køn og NUTS 2-regioner</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/educ_uoe_enr_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/7c2ek4evi7mfjwv8k3bsg"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/educ_uoe_enr_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="et-t-en-t0-mtec">Teise taseme alumise taseme hariduses osalevad õpilased programmi suunitluse, soo ja NUTS2 piirkondade kaupa</dct:title>
+        <dct:identifier>educ_uoe_enrs03</dct:identifier>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Daltaí atá cláraithe in oideachas íseal-mheánscoile de réir réigiúin treoshuíomh cláir, inscne agus NUTS2</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Žiaci zapísaní do nižšieho sekundárneho vzdelávania podľa programovej orientácie, pohlavia a regiónov NUTS 2</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T14:14:51Z</edp:transIssued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>7C2eK4EvI7mFJwV8k3bSg</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T14:14:51Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:13:30Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/7c2ek4evi7mfjwv8k3bsg"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>1af123813d3af552055694d9b3b2f8de</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

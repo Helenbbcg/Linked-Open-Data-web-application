@@ -1,0 +1,1591 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/0ece9cfa-49ad-4aef-b923-3a0ec2520736-stadt-zurich">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>389e3527fead9042ef52108248cd1ad4</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/0ece9cfa-49ad-4aef-b923-3a0ec2520736-stadt-zurich">
+        <dct:title xml:lang="lv-t-de-t0-mtec">Dienas atjauninātie Meteodati, kopš 1992. gada</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Dagelijks bijgewerkt Meteodata, sinds 1992</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Καθημερινά ανανεωμένα Μετεοδάτα, από το 1992</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:opendata@zuerich.ch"/>
+            <vcard:fn>Open Data Zürich</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword xml:lang="de">sachdaten</dcat:keyword>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Az adatkészlet tartalmazza **napi értékeket** ** ** 1992-tól az azt megelőző napig** éves adatállományokra bontva. Ide tartoznak a Stampfenbachstrasse, a Schimmelstrasse és a Rosengartenstrasse állomások. Mérjük a légnyomást (p), a csapadék időtartamát (RainDur), a globális sugárzást (StrGlo), a hőmérsékletet (T) és a relatív páratartalmat (Hr). A széladatokat jelenleg nem napi értékek alapján átlagolják, hanem óránkénti értékekként állnak rendelkezésre az „Időben frissített Meteodata, 1988 óta” adatkészletben. 
+
+A folyó év napi értékeit éjfél után 30 perccel frissítjük (UTC+ 1).</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Dnevno posodobljeno Meteodata, od leta 1992</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">El conjunto de datos incluye **valores diarios** ** ** desde 1992 hasta el día anterior** dividido en archivos anuales. Esto incluye las estaciones Stampfenbachstrasse, Schimmelstrasse y Rosengartenstrasse. Se miden la presión del aire (p), la duración de la precipitación (RainDur), la radiación global (StrGlo), la temperatura (T) y la humedad relativa (Hr). Los datos del viento no se promedian actualmente en los valores diarios, pero están disponibles como valores por hora en el conjunto de datos «Meteodata actualizada oportunamente, desde 1988». 
+
+Los valores diarios del año en curso se actualizarán 30 minutos después de la medianoche (UTC+ 1).</dct:description>
+        <dct:description xml:lang="it-t-de-t0-mtec">Il set di dati include **valori giornalieri** ** ** dal 1992 al giorno corrente prima** suddivisi in file annuali. Questo include le stazioni Stampfenbachstrasse, Schimmelstrasse e Rosengartenstrasse. Pressione dell'aria (p), durata delle precipitazioni (RainDur), radiazione globale (StrGlo), temperatura (T) e umidità relativa (Hr). I dati del vento non sono attualmente in media rispetto ai valori giornalieri, ma sono disponibili come valori orari nel set di dati "Tempormente aggiornato Meteodata, dal 1988". 
+
+I valori giornalieri dell'anno in corso saranno aggiornati 30 minuti dopo la mezzanotte (UTC+ 1).</dct:description>
+        <dcat:keyword xml:lang="de">lufttemperatur</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7c212f74-3241-425f-b040-5a64752caf34">
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >158139</dcat:byteSize>
+            <dct:language>de</dct:language>
+            <dct:identifier>d0edadf2-2607-4bd9-b8cf-889ef9e8d273</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2000.csv"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2000.csv"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2000.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2000.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/27c0e37f-a2b3-4420-bca6-1de802f4d446">
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2002.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >249359</dcat:byteSize>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2002.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:format>CSV</dct:format>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2002.csv"/>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:identifier>20c8e585-6f3d-4f03-8176-f9ed3b316cc3</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2002.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2002.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-de-t0-mtec">Το σύνολο δεδομένων περιλαμβάνει **ημερήσιες τιμές****** από το 1992 έως την προηγούμενη ημέρα**, διαιρούμενα σε ετήσια αρχεία. Αυτό περιλαμβάνει τους σταθμούς Stampfenbachstrasse, Schimmelstrasse και Rosengartenstrasse. Μετρώνται η πίεση του αέρα (p), η διάρκεια καθίζησης (RainDur), η παγκόσμια ακτινοβολία (StrGlo), η θερμοκρασία (T) και η σχετική υγρασία (Hr). Τα δεδομένα του ανέμου δεν είναι επί του παρόντος κατά μέσο όρο σε ημερήσιες τιμές, αλλά είναι διαθέσιμα ως ωριαίες τιμές στο σύνολο δεδομένων «Timely updated Meteodata, since 1988». 
+
+Οι ημερήσιες τιμές του τρέχοντος έτους θα επικαιροποιηθούν 30 λεπτά μετά τα μεσάνυχτα (UTC+ 1).</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Ежедневно актуализирани Meteodata, от 1992 г. насам</dct:title>
+        <dcat:keyword xml:lang="de">wv</dcat:keyword>
+        <dcat:keyword xml:lang="de">global-strahlung</dcat:keyword>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear leis an tacar sonraí **luachanna laethúla** ** ** ón mbliain 1992 go dtí an lá reatha roimh** roinnte i gcomhaid bhliantúla. Áirítear leis seo na stáisiúin Stampfenbachstrasse, Schimmelstrasse agus Rosengartenstrasse. Déantar aerbhrú (p), fad deascadh (RainDur), radaíocht dhomhanda (StrGlo), teocht (T) agus taiseachas coibhneasta (Hr) a thomhas. Níl na sonraí gaoithe meánach faoi láthair ar luachanna laethúla, ach tá siad ar fáil mar luachanna in aghaidh na huaire sa tacar sonraí “Meiteashonraí nuashonraithe go tráthúil, ó 1988”. 
+
+Déanfar luachanna laethúla na bliana reatha a nuashonrú 30 nóiméad tar éis meán oíche (UTC+ 1).</dct:description>
+        <dcat:keyword xml:lang="de">windgeschwindigkeit</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4bfa67b1-68bf-4896-89dd-a26852f78080">
+            <dct:language>de</dct:language>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2001.csv"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2001.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:identifier>4a19cac0-61de-4038-8cd1-645fea39910f</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >246925</dcat:byteSize>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2001.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="de">
+Der Datensatz umfasst **Tageswerte** **ab 1992 bis zum aktuellen Vortag** aufgeteilt in Jahresdateien. Darin enthalten sind die Stationen Stampfenbachstrasse, Schimmelstrasse und Rosengartenstrasse. Gemessen wird der Luftdruck (p), die Niederschlagsdauer (RainDur), die Globalstrahlung (StrGlo), die Temperatur (T) und die relative Luftfeuchtigkeit (Hr). Die Winddaten werden zur Zeit nicht auf Tageswerte gemittelt, sind aber im Datensatz "Stündlich aktualisierte Meteodaten, seit 1988" als Stundenwerte verfügbar.
+
+Die Tageswerte des laufenden Jahres werden jeweils 30 Minuten nach Mitternacht (UTC+1) aktualisiert.
+</dct:description>
+        <dcat:keyword xml:lang="de">kalte</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7ea49ca2-02b7-4b12-bc75-3afd0ec12795">
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:format>CSV</dct:format>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2007.csv"/>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2007.csv"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >158709</dcat:byteSize>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:identifier>a0ed731d-ff7e-4455-b6fb-fb17984f33e7</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2007.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">wd</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Наборът от данни включва ** ежедневни стойности**** ** от 1992 г. до текущия ден преди**, разделени на годишни файлове. Това включва станциите Stampfenbachstrasse, Schimmelstrasse и Rosengartenstrasse. Измерват се въздушното налягане (p), продължителността на валежите (RainDur), глобалното лъчение (StrGlo), температурата (T) и относителната влажност (Hr). Данните за вятъра понастоящем не се усредняват по дневни стойности, а са налични като почасови стойности в набора от данни „Временно актуализирани Метеоди данни от 1988 г. насам“. 
+
+Дневните стойности за текущата година ще бъдат актуализирани 30 минути след полунощ (UTC + 1).</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Súbor údajov obsahuje **denné hodnoty** ** od roku 1992 do aktuálneho dňa predchádzajúceho** rozdelené do ročných súborov. Patria sem stanice Stampfenbachstrasse, Schimmelstrasse a Rosengartenstrasse. Meria sa tlak vzduchu (p), trvanie zrážok (RainDur), globálne žiarenie (StrGlo), teplota (T) a relatívna vlhkosť (Hr). Údaje o vetre nie sú v súčasnosti spriemerované na denné hodnoty, ale sú k dispozícii ako hodinové hodnoty v súbore údajov „Timely updated Meteodata, from 1988“. 
+
+Denné hodnoty aktuálneho roka sa aktualizujú 30 minút po polnoci (UTC+ 1).</dct:description>
+        <dcat:keyword xml:lang="de">wetter</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Diario actualizado Meteodata, desde 1992</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/40df17b3-5602-42f5-86d5-61cc447242a0">
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2016.csv"/>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2016.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2016.csv</dct:title>
+            <dct:identifier>30f89375-aa97-4159-9fd0-f24e642ef72a</dct:identifier>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >402441</dcat:byteSize>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="et-t-de-t0-mtec">Iga päev uuendatud Meteodata, alates 1992</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Codziennie aktualizowane dane meteorologiczne, od 1992 r.</dct:title>
+        <dct:identifier>0ece9cfa-49ad-4aef-b923-3a0ec2520736@stadt-zurich</dct:identifier>
+        <dct:title xml:lang="en-t-de-t0-mtec">Daily updated Meteodata, since 1992</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0b228179-078f-4b83-a0b7-2dc922684a9d">
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:identifier>6a75f19d-f365-4549-948e-68e6808251a2</dct:identifier>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2006.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:format>CSV</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >247490</dcat:byteSize>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2006.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2006.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8b42940f-c446-4ef8-827b-51c98b8be3f3">
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1993.csv"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >126124</dcat:byteSize>
+            <dct:identifier>c85925fa-5803-4feb-a455-52f04cfeefeb</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1993.csv"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1993.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:title xml:lang="it-t-de-t0-mtec">Aggiornamento giornaliero Meteodata, dal 1992</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Zbiór danych zawiera ** wartości dzienne**** ** od 1992 r. do dnia poprzedniego** podzielone na pliki roczne.
+Obejmuje to stacje Stampfenbachstrasse, Schimmelstrasse i Rosengartenstrasse.
+Mierzy się ciśnienie powietrza (p), czas trwania opadów (RainDur), promieniowanie globalne (StrGlo), temperaturę (T) i wilgotność względną (Hr).
+Dane wiatru nie są obecnie uśrednione na podstawie dziennych wartości, ale są dostępne jako wartości godzinowe w zbiorze danych „Timely updated Meteodata, since 1988”.
+
+
+Dzienne wartości bieżącego roku zostaną zaktualizowane 30 minut po północy (UTC+1).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/268304df-c074-43af-af8c-b4d5b0e98b84">
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2011.csv"/>
+            <dct:language>de</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2011.csv"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:identifier>5aeaa8d1-d140-4422-aa73-2b464ed57d26</dct:identifier>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2011.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >277451</dcat:byteSize>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Meteodata aġġornata kuljum, mill-1992 ‘l hawn</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/99be841a-7868-4e70-b9f3-e9f9d567d9ed">
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2013.csv"/>
+            <dct:identifier>36fc727f-ef6e-424f-a237-15c5b8edfa56</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2013.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2013.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >306849</dcat:byteSize>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2013.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Date meteo actualizate zilnic, din 1992</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Denně aktualizovaná Meteodata, od roku 1992</dct:title>
+        <dcat:keyword xml:lang="de">messwerte</dcat:keyword>
+        <dcat:keyword xml:lang="de">luftfeuchte</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Dagligen uppdaterad Meteodata, sedan 1992</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Kasdien atnaujinami metaduomenys, nuo 1992 m.</dct:title>
+        <dcat:keyword xml:lang="de">umweltdaten</dcat:keyword>
+        <dcat:keyword xml:lang="de">luft</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="de">niederschlag</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/259dd29a-18b5-4879-81f3-800477013e25">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:identifier>4fbfe49d-e922-4411-95bd-121f6b984145</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1997.csv"/>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1997.csv"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >126121</dcat:byteSize>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1997.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://ckan-ogdzh.clients.liip.ch/dataset/ugz_meteodaten_tagesmittelwerte"/>
+        <dcat:keyword xml:lang="de">p_</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3eda0fec-5440-47bc-bfd5-1e858765f523">
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2019.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >401420</dcat:byteSize>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2019.csv"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2019.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:identifier>a1ccfffb-db90-4d20-8ead-b04cd171168f</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">hitze</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a210acd9-28b0-46f7-ab0e-d579a948be57">
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:identifier>6b40194c-961e-48cb-8c64-42de5fff5a9e</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >198691</dcat:byteSize>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2008.csv"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2008.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2008.csv"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">t_</dcat:keyword>
+        <dcat:keyword xml:lang="de">zeitreihe</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/stadt-zurich">
+            <foaf:name>Musikschule Konservatorium Zürich, Schul- und Sportdepartement</foaf:name>
+            <foaf:name>Stadtarchiv Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Tiefbauamt, Abteilung Verkehr + Stadtraum, Tiefbau- und Entsorgungsdepartement</foaf:name>
+            <foaf:name>Bundesamt für Statistik</foaf:name>
+            <foaf:name>Baugeschichtliches Archiv, Amt für Städtebau, Hochbaudepartement</foaf:name>
+            <foaf:name>Schutz und  Rettung, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Sozialstatistik / Evaluation, Soziale Dienste, Sozialdepartement</foaf:name>
+            <foaf:name>Stadtentwicklung, Präsidialdepartement</foaf:name>
+            <foaf:name>Steueramt, Finanzdepartement</foaf:name>
+            <foaf:name>Sektion Gesundheit, Bundesamt für Statistik</foaf:name>
+            <foaf:name>Messung Luftqualität, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Fachbereich 2000-Watt-Gesellschaft, Umwelt- und Gesundheitsschutz, Gesundheits- und Umweltdepartement</foaf:name>
+            <foaf:name>Amt für Zusatzleistungen, Sozialdepartement</foaf:name>
+            <foaf:name>Wasserschutzpolizei, Stadtpolizei, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Verkehrsbetriebe Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Dienstabteilung Verkehr, Sicherheitsdepartement</foaf:name>
+            <foaf:name>Elektrizitätswerk der Stadt Zürich, Departement der Industriellen Betriebe</foaf:name>
+            <foaf:name>Bundesamt für Statistik (BFS)</foaf:name>
+            <foaf:name>Stadtkanzlei, Allgemeine Verwaltung</foaf:name>
+            <foaf:name>Bevölkerungsamt, Präsidialdepartement</foaf:name>
+            <foaf:name>Finanzverwaltung, Finanzdepartement</foaf:name>
+            <foaf:name>Statistik Stadt Zürich, Präsidialdepartement</foaf:name>
+            <foaf:name>Abteilung Mobilität + Verkehr, Tiefbauamt, Tiefbau- und Entsorgungsdepartement</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a76385a0-2f29-4eca-b99a-96706d48cad1">
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:format>CSV</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >247075</dcat:byteSize>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2004.csv"/>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2004.csv"/>
+            <dct:identifier>20d11505-c4ab-453d-879f-918251d309c5</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2004.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2004.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">windrichtung</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Daglig opdateret Meteodata, siden 1992</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Duomenų rinkinys apima **kasdienines reikšmes** **** nuo 1992 m. iki einamosios dienos prieš**, suskirstytas į metines rinkmenas. Tai apima stotis Stampfenbachstrasse, Schimmelstrasse ir Rosengartenstrasse. Matuojamas oro slėgis (p), kritulių trukmė (RainDur), pasaulinė spinduliuotė (StrGlo), temperatūra (T) ir santykinis drėgnis (Hr). Vėjo duomenys šiuo metu nėra vidutiniškai skaičiuojami pagal dienos vertes, bet pateikiami kaip valandinės vertės duomenų rinkinyje „Timely Update Meteodata, from 1988“. 
+
+Einamųjų metų dienos vertės bus atnaujinamos 30 minučių po vidurnakčio (UTC+ 1).</dct:description>
+        <dcat:keyword xml:lang="de">regendauer</dcat:keyword>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Datový soubor obsahuje **denní hodnoty**** **** od roku 1992 do aktuálního dne před**, rozdělené do ročních souborů. To zahrnuje stanice Stampfenbachstrasse, Schimmelstrasse a Rosengartenstrasse. Měří se tlak vzduchu (p), doba srážek (RainDur), globální záření (StrGlo), teplota (T) a relativní vlhkost (Hr). Údaje o větru nejsou v současné době zprůměrovány na denních hodnotách, ale jsou k dispozici jako hodinové hodnoty v datové sadě „Časně aktualizovaná Meteodata, od roku 1988“. 
+
+Denní hodnoty aktuálního roku budou aktualizovány 30 minut po půlnoci (UTC +1).</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Набір даних включає в себе **щоденні значення*********з 1992 року до поточного дня**** поділені на річні файли. Сюди входять станції Stampfenbachstrasse, Schimmelstrasse і Rosengartenstrasse. Вимірюються тиск повітря (р), тривалість опадів (RainDur), глобальне випромінювання (StrGlo), температура (Т) і відносна вологість (Hr). Дані вітру в даний час не усереднені за добовими значеннями, але доступні як погодинні значення в наборі даних "Timely updated Meteodata, починаючи з 1988 року". 
+
+Добові значення поточного року будуть оновлюватися через 30 хвилин після опівночі (UTC+ 1).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c03c620e-ce41-4b7d-802a-985029830124">
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2021.csv"/>
+            <dct:identifier>75ace201-1275-4691-b196-69c19f4d9e2a</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2021.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >5718</dcat:byteSize>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-01-06T00:00:00</dct:issued>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2021.csv"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2021.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-de-t0-mtec">O conjunto de dados inclui ** valores diários** **** de 1992 até o dia atual antes** divididos em arquivos anuais. Isso inclui as estações Stampfenbachstrasse, Schimmelstrasse e Rosengartenstrasse. A pressão do ar (p), a duração da precipitação (RainDur), a radiação global (StrGlo), a temperatura (T) e a umidade relativa (Hr) são medidas. Os dados do vento não estão atualmente em média em valores diários, mas estão disponíveis como valores horários no conjunto de dados «Timely updated Meteodata, since 1988». 
+
+Os valores diários do ano em curso serão atualizados 30 minutos após a meia-noite (UTC+1).</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">L’ensemble de données comprend **valeurs journalières**** à partir de 1992 jusqu’à la veille actuelle** divisée en fichiers annuels. Les stations Stampfenbachstrasse, Schimmelstrasse et Rosengartenstrasse y sont incluses. La pression atmosphérique (p), la durée des précipitations (RainDur), le rayonnement global (StrGlo), la température (T) et l’humidité relative (Hr) sont mesurés. Les données du vent ne sont pas actuellement moyennes sur les valeurs journalières, mais sont disponibles sous forme de valeurs horaires dans l’ensemble de données «Météo-données mises à jour toutes les heures, depuis 1988». 
+
+Les valeurs journalières de l’année en cours sont mises à jour 30 minutes après minuit (UTC+ 1).</dct:description>
+        <dcat:keyword xml:lang="de">meteo</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e60a0f73-c60e-44b7-ad5e-5a55ba6d69e4">
+            <dct:title xml:lang="sl-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/uzg_ogd_metadaten.json"/>
+            <dct:identifier>a23b949d-664f-443b-ad60-8979b25f4e5a</dct:identifier>
+            <dct:format>JSON</dct:format>
+            <dct:title xml:lang="hu-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="de">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:mediaType>application/json</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ug_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/uzg_ogd_metadaten.json"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="uk-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >17988</dcat:byteSize>
+            <dct:title xml:lang="ga-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">uzg_ogd_metadaten.json</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-10-22T05:26:02.384555</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ab2aac7d-b2ba-4240-8d5f-c2fbf15311be">
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2005.csv"/>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2005.csv"/>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:identifier>97239f37-6950-4b37-9b4f-171fbc6f9136</dct:identifier>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2005.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >158604</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">regen</dcat:keyword>
+        <dct:title xml:lang="de">Täglich aktualisierte Meteodaten, seit 1992</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Andmekogum sisaldab ** päevaväärtusi** ** ** alates 1992. aastast kuni praeguse päevani enne**, mis on jagatud iga-aastasteks failideks. See hõlmab jaamad Stampfenbachstrasse, Schimmelstrasse ja Rosengartenstrasse. Mõõdetakse õhurõhku (p), sademete kestust (RainDur), globaalset kiirgust (StrGlo), temperatuuri (T) ja suhtelist niiskust (Hr). Praegu ei ole tuuleandmete keskmine päevaväärtus, vaid need on kättesaadavad tunniväärtustena andmekogumis „Timely update Meteodata, alates 1988“. 
+
+Jooksva aasta päevaväärtusi ajakohastatakse 30 minutit pärast keskööd (UTC+ 1).</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3b89628e-e4ff-4ead-864d-5f31245a359c">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:language>de</dct:language>
+            <dct:identifier>d4e9bdf7-f09e-4ec7-bcf1-327ea6cd424a</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >276305</dcat:byteSize>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2010.csv"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2010.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2010.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">luftdruck</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Päivittäin päivitetty Meteodata, vuodesta 1992</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a0bb3003-a798-44a2-8d4c-84d537990a77">
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2012.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >278544</dcat:byteSize>
+            <dct:language>de</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2012.csv"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2012.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:identifier>2ee40386-f97b-4430-a431-6353849f4802</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2012.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Napi frissítés Meteodata, 1992 óta</dct:title>
+        <dcat:keyword xml:lang="de">hr</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a1ef2a68-1f84-4029-a1fe-d25e00c4a5f3">
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2020.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2020.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:identifier>9028b573-2f75-46f8-9a28-34e1abc7042c</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >334694</dcat:byteSize>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2020.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-de-t0-mtec">Datasættet indeholder **daglige værdier****** ** fra 1992 til dagen før** opdelt i årlige filer. Dette omfatter stationerne Stampfenbachstrasse, Schimmelstrasse og Rosengartenstrasse. Lufttryk (p), nedbørsvarighed (RainDur), global stråling (StrGlo), temperatur (T) og relativ luftfugtighed (Hr) måles. Vinddataene er i øjeblikket ikke gennemsnitlige på daglige værdier, men er tilgængelige som timeværdier i datasættet "Timely update Meteodata, siden 1988". 
+
+De daglige værdier for det indeværende år opdateres 30 minutter efter midnat (UTC+ 1).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/daf82c41-6eeb-48dd-9118-a03fac546ef9">
+            <dct:language>de</dct:language>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >126147</dcat:byteSize>
+            <dct:identifier>c184de0f-74b0-4e01-ba31-7fc730ffd56e</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1995.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1995.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1995.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:format>CSV</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/91eaad35-efdd-4fa0-a3f6-16689b64f472">
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2017.csv"/>
+            <dct:language>de</dct:language>
+            <dct:identifier>6122074b-f600-4270-ab0f-b08a6c48d739</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2017.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:format>CSV</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >401694</dcat:byteSize>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2017.csv"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2017.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2017.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c576ded1-0988-43b7-93d4-ede529534c1c">
+            <dct:format>CSV</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >107753</dcat:byteSize>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2009.csv"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2009.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2009.csv"/>
+            <dct:identifier>bb5de8b1-5699-4e03-974b-eecd0c70367f</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Données météorologiques mises à jour quotidiennement depuis 1992</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Setul de date include **valori zilnice**** ** din 1992 până în ziua curentă** împărțită în fișiere anuale. Acestea includ stațiile Stampfenbachstrasse, Schimmelstrasse și Rosengartenstrasse. Se măsoară presiunea aerului (p), durata precipitațiilor (RainDur), radiația globală (StrGlo), temperatura (T) și umiditatea relativă (Hr). Datele privind vântul nu sunt în prezent mediate în funcție de valorile zilnice, dar sunt disponibile ca valori orare în setul de date „actualizate la timp Meteodata, din 1988”. 
+
+Valorile zilnice ale anului curent vor fi actualizate la 30 de minute după miezul nopții (UTC+ 1).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9d2bd661-eea6-49c6-8ccf-d49aad389180">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >401155</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2015.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2015.csv"/>
+            <dct:format>CSV</dct:format>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:identifier>96a373b6-f149-4969-9af8-a817d63f69be</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2015.csv"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2015.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Aineisto sisältää **päivittäiset arvot** **** ** vuodesta 1992 kuluvaan päivään ennen** jaettuna vuosittaisiin tiedostoihin. Tämä sisältää asemat Stampfenbachstrasse, Schimmelstrasse ja Rosengartenstrasse. Mitataan ilmanpaine (p), sademäärä (RainDur), globaali säteily (StrGlo), lämpötila (T) ja suhteellinen kosteus (Hr). Tuulitiedot eivät tällä hetkellä ole keskimääräisiä päivittäisiä arvoja, vaan ne ovat saatavilla tuntiarvoina tietojoukossa ”Aika päivitetty Meteodata vuodesta 1988”. 
+
+Kuluvan vuoden päivittäiset arvot päivitetään 30 minuuttia keskiyön jälkeen (UTC+ 1).</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">The dataset includes **daily values** ** **from 1992 to the current day before** divided into annual files. This includes the stations Stampfenbachstrasse, Schimmelstrasse and Rosengartenstrasse. Air pressure (p), precipitation duration (RainDur), global radiation (StrGlo), temperature (T) and relative humidity (Hr) are measured. The wind data are not currently averaged on daily values, but are available as hourly values in the data set “Timely updated Meteodata, since 1988”. 
+
+The daily values of the current year will be updated 30 minutes after midnight (UTC+ 1).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1b29080c-cf17-4f26-806d-61bd96e86c7d">
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1998.csv"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:identifier>c1bed7f2-13c0-4675-8200-b71c6d020ea3</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >126018</dcat:byteSize>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1998.csv"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:language>de</dct:language>
+            <dct:format>CSV</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1998.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Щодня оновлюється Meteodata, з 1992 року</dct:title>
+        <dcat:keyword xml:lang="de">temperatur</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Atualização diária da Meteodata, desde 1992</dct:title>
+        <dcat:keyword xml:lang="de">feuchte</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8e3bc943-42c1-445a-ac49-b2a60e0e7f8b">
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >401612</dcat:byteSize>
+            <dct:language>de</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:format>CSV</dct:format>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2014.csv"/>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2014.csv"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:identifier>edb65557-24b5-4f3e-a2dc-d6cef5d91a66</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2014.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Datu kopa ietver **ikdienas vērtības** ** no 1992. gada līdz pašreizējai dienai pirms**, kas sadalītas gada datnēs. Tas ietver stacijas Stampfenbachstrasse, Schimmelstrasse un Rosengartenstrasse. Mēra gaisa spiedienu (p), nokrišņu ilgumu (RainDur), globālo starojumu (StrGlo), temperatūru (T) un relatīvo mitrumu (Hr). Vēja dati pašlaik nav aprēķināti pēc dienas vērtībām, bet ir pieejami kā stundas vērtības datu kopas “Timely update Meteodata, kopš 1988”. 
+
+Kārtējā gada dienas vērtības tiks atjauninātas 30 minūtes pēc pusnakts (UTC+ 1).</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Denne aktualizované Meteodata, od roku 1992</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d7524462-f8fa-49e3-bdc4-571ac8e3544f">
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1994.csv"/>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1994.csv"/>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >126089</dcat:byteSize>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:identifier>c83a9009-b881-4e99-8a14-f8a585db5899</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1994.csv</dct:title>
+            <dct:format>CSV</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/85b1eec3-0488-4b54-8c3d-538cb6316fbe">
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2018.csv"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:identifier>ec15bb06-d05d-4a50-9e2e-a1a4a6b9df99</dct:identifier>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2018.csv"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >401102</dcat:byteSize>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2018.csv</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T02:14:39.840052</dct:modified>
+        <dct:description xml:lang="nl-t-de-t0-mtec">De dataset bevat **dagwaarden** ** **van 1992 tot de huidige dag ervoor** verdeeld in jaarlijkse bestanden. Dit omvat de stations Stampfenbachstrasse, Schimmelstrasse en Rosengartenstrasse. Luchtdruk (p), neerslagduur (RainDur), globale straling (StrGlo), temperatuur (T) en relatieve vochtigheid (Hr) worden gemeten. De windgegevens zijn momenteel niet gemiddeld op dagelijkse waarden, maar zijn beschikbaar als uurwaarden in de gegevensset „Timely Update Meteodata, since 1988”. 
+
+De dagelijkse waarden van het lopende jaar worden 30 minuten na middernacht bijgewerkt (UTC+ 1).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/39bd1d00-a2fa-4d0c-a2cb-f4fa8eb4a852">
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >63612</dcat:byteSize>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1992.csv"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:identifier>d0f79e1b-d75c-4fde-873a-d10000af0303</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1992.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1992.csv"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:language>de</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/aa537f4b-1d39-4a6c-b21f-eac6d57adb3d">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-01-01T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dct:language>de</dct:language>
+            <dct:identifier>c40c6e2e-2456-4593-bab8-8dbfe0b52c34</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >1202</dcat:byteSize>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2022.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2022.csv"/>
+            <dct:format>CSV</dct:format>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2022.csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Datasetet innehåller ** dagliga värden** ** ** från 1992 till innevarande dag före** uppdelat i årliga filer. Detta inkluderar stationerna Stampfenbachstrasse, Schimmelstrasse och Rosengartenstrasse. Lufttryck (p), nederbördstid (RainDur), global strålning (StrGlo), temperatur (T) och relativ luftfuktighet (Hr) mäts. Vinddata är för närvarande inte genomsnittliga på dagliga värden, men finns tillgängliga som timvärden i datamängden ”Tidiga uppdaterade Meteodata, sedan 1988”. 
+
+De dagliga värdena för innevarande år kommer att uppdateras 30 minuter efter midnatt (UTC+ 1).</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Meiteashonraí nuashonraithe laethúla, ó 1992 i leith</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Skup podataka uključuje ** dnevne vrijednosti** ** ** od 1992. do tekućeg dana prije** podijeljene u godišnje datoteke. To uključuje postaje Stampfenbachstrasse, Schimmelstrasse i Rosengartenstrasse. Mjere se tlak zraka (p), trajanje oborina (RainDur), globalno zračenje (StrGlo), temperatura (T) i relativna vlažnost (Hr). Podaci o vjetru trenutačno se ne izračunavaju na temelju dnevnih vrijednosti, ali su dostupni kao satne vrijednosti u skupu podataka „Timely update Meteodata, od 1988.”. 
+
+Dnevne vrijednosti tekuće godine ažurirat će se 30 minuta nakon ponoći (UTC+ 1).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/eba2c5e4-fc63-4de8-aba5-ccb8055f4035">
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:identifier>a1240636-6518-452b-827f-df1a6585e86f</dct:identifier>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1999.csv</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >142651</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1999.csv"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1999.csv"/>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0d674fbc-753d-4519-b315-105ecf863cc2">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >126440</dcat:byteSize>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:identifier>f5e8af3c-bb43-46c3-abac-522c8c08f003</dct:identifier>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1996.csv"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1996.csv"/>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_1996.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:format>CSV</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">wind</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Dnevni ažurirani Meteodata, od 1992.</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Is-sett tad-data jinkludi **valuri ta’ kuljum**** ** mill-1992 sal-ġurnata attwali ta’ qabel** maqsuma f’fajls annwali. Dan jinkludi l-istazzjonijiet Stampfenbachstrasse, Schimmelstrasse u Rosengartenstrasse. Il-pressjoni tal-arja (p), it-tul ta’ żmien tal-preċipitazzjoni (RainDur), ir-radjazzjoni globali (StrGlo), it-temperatura (T) u l-umdità relattiva (Hr) jitkejlu. Id-data tar-riħ bħalissa mhijiex ibbażata fuq il-valuri ta’ kuljum, iżda hija disponibbli bħala valuri fis-siegħa fis-sett tad-data “Meteodata aġġornata f’waqtha, mill-1988”. 
+
+Il-valuri ta’ kuljum tas-sena attwali se jiġu aġġornati 30 minuta wara nofsillejl (UTC+ 1).</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Nabor podatkov vključuje ** dnevne vrednosti** ** ** od leta 1992 do tekočega dne pred**, razdeljene na letne datoteke. To vključuje postaje Stampfenbachstrasse, Schimmelstrasse in Rosengartenstrasse. Izmerijo se zračni tlak (p), trajanje padavin (RainDur), globalno sevanje (StrGlo), temperatura (T) in relativna vlažnost (Hr). Podatki o vetru trenutno niso povprečni za dnevne vrednosti, vendar so na voljo kot urne vrednosti v naboru podatkov „Časovno posodobljena Meteodata, od leta 1988“. 
+
+Dnevne vrednosti tekočega leta bodo posodobljene 30 minut po polnoči (UTC+1).</dct:description>
+        <dcat:keyword xml:lang="de">echtzeit</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/875832bf-deef-484b-b39e-de89c05a5153">
+            <dct:title xml:lang="da-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:rights>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >159563</dcat:byteSize>
+            <dct:license>NonCommercialAllowed-CommercialAllowed-ReferenceNotRequired</dct:license>
+            <dct:format>CSV</dct:format>
+            <dct:language>de</dct:language>
+            <dct:identifier>25cdeeb3-06e7-494a-bf4b-2c47fcf55636</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">_ogd_meteo_d1_2003.csv</dct:title>
+            <dcat:accessURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2003.csv"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="de">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-21T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2003.csv"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ugz_ogd_meteo_d1_2003.csv</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-21T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:07Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T20:07:25Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>0ece9cfa-49ad-4aef-b923-3a0ec2520736@stadt-zurich</dct:identifier>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:35:48Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:07:16Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/0ece9cfa-49ad-4aef-b923-3a0ec2520736-stadt-zurich"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

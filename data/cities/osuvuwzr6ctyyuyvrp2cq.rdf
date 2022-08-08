@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/osuvuwzr6ctyyuyvrp2cq">
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:05:45Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/osuvuwzr6ctyyuyvrp2cq"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:07:41Z</dct:modified>
+    <dct:identifier>osUVUwZR6ctYyUyVRP2CQ</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>334aba97c9f4040653dc9c05735e6346</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/osuvuwzr6ctyyuyvrp2cq">
+        <dct:title xml:lang="et-t-en-t0-mtec">Valitsemissektori kapitali kogumahutus põhivarasse</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/61c82e23-5757-485f-ba15-6990d25aff65">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:identifier>http://data.europa.eu/88u/distribution/a8c685df-f3eb-450f-b322-a3e8550ffee7</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Graph</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&amp;plugin=1&amp;language=en&amp;pcode=tec00022"/>
+            <dct:title xml:lang="fr">Graphique</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Bruto-investeringen in vaste activa van de overheid</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az államháztartás bruttó állóeszköz-felhalmozása (ESA 2010 P.51g kód) magában foglalja a rezidens termelők beszerzéseit, csökkentve a befektetett eszközök adott időszakban történő értékesítését, plusz a kormányzati termelő vagy egységek termelő tevékenysége által realizált nem termelt eszközök értékének bizonyos növekményeit. A befektetett eszközök egy évnél hosszabb ideig a termelés során felhasznált eszközök.</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Formarea brută de capital fix în administrația publică (codul P.51g din SEC 2010) constă în achiziții ale producătorilor rezidenți, minus cedări de active fixe într-o anumită perioadă, plus anumite adaosuri la valoarea activelor neproduse realizate prin activitatea de producție a producătorului sau unităților administrațiilor publice. Activele fixe sunt active produse utilizate în producție pentru mai mult de un an.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a0d540ba-20e3-46b2-a43d-341e1906d63a">
+            <dct:title xml:lang="de">Bruttoanlageinvestitionen des Staates</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="en">General government gross fixed capital formation</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00022.sdmx.zip"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:identifier>http://data.europa.eu/88u/distribution/531fbb37-a380-4ed4-a825-4dddd0ff47d0</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Formation brute de capital fixe des administrations publiques</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Is éard atá in ollfhoirmiú caipitil sheasta rialtais ghinearálta (cód CEC 2010 P.51g) éadálacha táirgeoirí cónaitheacha, lúide diúscairtí sócmhainní seasta le linn tréimhse áirithe móide breiseanna áirithe ar luach sócmhainní neamhtháirgthe arna réadú trí ghníomhaíocht táirgthe táirgeora nó aonad rialtais. Is éard is sócmhainní seasta ann sócmhainní táirgthe arna n-úsáid i dtáirgeadh ar feadh tréimhse níos faide ná bliain amháin.</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Vispārējās valdības bruto pamatkapitāla veidošana</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">A formação bruta de capital fixo das administrações públicas (código SEC 2010 P.51g) consiste em aquisições de produtores residentes, líquidas de cessões de ativos fixos durante um determinado período, acrescidas de certos acréscimos ao valor dos ativos não produzidos realizados pela atividade produtiva do produtor ou unidades públicas. Os ativos fixos são ativos produzidos utilizados na produção por mais de um ano.</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Bruto investicije v osnovna sredstva sektorja država</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Gli investimenti fissi lordi delle amministrazioni pubbliche (codice SEC 2010 P.51g) consistono in acquisizioni di produttori residenti, meno cessioni di immobilizzazioni nel corso di un dato periodo più alcune aggiunte al valore delle attività non prodotte realizzate dall'attività produttiva del produttore o delle quote pubbliche. Le immobilizzazioni sono attività prodotte utilizzate nella produzione per più di un anno.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Tvorba hrubého fixného kapitálu verejnej správy</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_main_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_main_esms.sdmx.zip</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/osuvuwzr6ctyyuyvrp2cq"/>
+          </foaf:Document>
+        </foaf:page>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="el-t-en-t0-mtec">Ο ακαθάριστος σχηματισμός παγίου κεφαλαίου της γενικής κυβέρνησης (κωδικός ΕΣΛ 2010 P.51g) αποτελείται από τις αποκτήσεις παραγωγών μονίμων κατοίκων, μείον τις διαθέσεις πάγιων στοιχείων ενεργητικού κατά τη διάρκεια μιας δεδομένης περιόδου συν ορισμένες προσθήκες στην αξία των μη παραχθέντων περιουσιακών στοιχείων που πραγματοποιούνται από την παραγωγική δραστηριότητα του κρατικού παραγωγού ή μονάδων του Δημοσίου. Τα πάγια περιουσιακά στοιχεία παράγονται περιουσιακά στοιχεία που χρησιμοποιούνται στην παραγωγή για περισσότερο από ένα έτος.</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Formação bruta de capital fixo das administrações públicas</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Nakłady brutto na środki trwałe sektora instytucji rządowych i samorządowych</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Tvorba hrubého fixního kapitálu vládních institucí</dct:title>
+        <dct:description xml:lang="en">General government gross fixed capital formation (ESA 2010 code P.51g) consists of resident producers' acquisitions, less disposals of fixed assets during a given period plus certain additions to the value of non-produced assets realised by the productive activity of government producer or units. Fixed assets are produced assets used in production for more than one year.</dct:description>
+        <dct:description xml:lang="fr">La formation brute de capital fixe de des administrations publiques (SEC 2010 code P.51g) est constituée par les acquisitions moins les cessions d’actifs fixes réalisées par les producteurs résidents au cours de la période de référence, plus certains ajouts à la valeur d’actifs non produits découlant de l’activité de production des unités productives ou institutionnelles. Les actifs fixes sont des actifs produits utilisés dans des processus de production pendant plus d’un an.</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Валове нагромадження основного капіталу загального уряду</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Валове нагромадження основного капіталу загального уряду (код ЄСА 2010 P.51g) складається з придбання резидентів-виробників, зменшення вибуття основних засобів протягом певного періоду, а також певних доповнень до вартості непродукованих активів, реалізованих у результаті виробничої діяльності державного виробника або одиниць. Основними фондами є вироблені активи, що використовуються у виробництві більше одного року.</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tec00022">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00022</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/osuvuwzr6ctyyuyvrp2cq"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00022</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Bruto investicije u fiksni kapital opće države (oznaka ESA 2010 P.51g) sastoje se od stjecanja rezidentnih proizvođača, umanjenih za otuđenje dugotrajne imovine tijekom određenog razdoblja uvećanih za određene dodatke vrijednosti neproizvedene imovine ostvarene proizvodnom aktivnošću državnih proizvođača ili jedinica. Dugotrajna imovina je proizvedena imovina koja se koristi u proizvodnji dulje od jedne godine.</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Államháztartás bruttó állóeszköz-felhalmozása</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-21</dct:modified>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Бруто образуване на основен капитал на сектор „Държавно управление“</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Bruto investicije u fiksni kapital opće države</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Tvorba hrubého fixního kapitálu vládních institucí (kód ESA 2010 P.51g) se skládá z pořízení rezidentských výrobců, minus vyřazení dlouhodobých aktiv během daného období plus určité přírůstky hodnoty nevyráběných aktiv realizovaných výrobní činností vládního výrobce nebo jednotek. Dlouhodobá aktiva jsou vyráběná aktiva používaná ve výrobě po dobu delší než jeden rok.</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Valdžios sektoriaus bendrojo pagrindinio kapitalo formavimas</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Formazzjoni grossa tal-kapital fiss tal-gvern ġenerali</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Faste bruttoinvesteringer i den offentlige sektor</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Bruto investicije v osnovna sredstva sektorja država (oznaka ESR 2010 P.51g) obsegajo pridobitve rezidenčnih proizvajalcev, zmanjšane za odsvojitve osnovnih sredstev v danem obdobju in nekatere dodatke k vrednosti neproizvedenih sredstev, realiziranih s proizvodno dejavnostjo državnega proizvajalca ali enot. Osnovna sredstva so proizvedena sredstva, ki se uporabljajo v proizvodnji več kot eno leto.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Tvorba hrubého fixného kapitálu verejnej správy (kód ESA 2010 P.51g) pozostáva z akvizícií rezidentských výrobcov mínus úbytok dlhodobého majetku počas daného obdobia plus určité prírastky k hodnote neprodukovaných aktív realizovaných výrobnou činnosťou vládnych výrobcov alebo jednotiek. Fixné aktíva sú produkované aktíva používané vo výrobe dlhšie ako jeden rok.</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/osuvuwzr6ctyyuyvrp2cq"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="en">General government gross fixed capital formation</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Valdžios sektoriaus bendrojo pagrindinio kapitalo formavimą (2010 m. ESS kodas P.51g) sudaro gamintojų rezidentų įsigijimai, atėmus ilgalaikio turto perleidimus per tam tikrą laikotarpį, pridėjus tam tikrus nesukurto turto, realizuoto valdžios sektoriaus gamintojo arba vienetų gamybine veikla, vertės papildymus. Ilgalaikis turtas yra sukurtas turtas, naudojamas gamyboje ilgiau nei vienerius metus.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/85797942-e06e-47cc-bb56-a746085f5db3">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Tabelle</dct:title>
+            <dct:title xml:lang="en">Table</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/28669813-b34a-4f71-9eba-c345f9dc87ec</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Tableau</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=tec00022"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Julkisyhteisöjen kiinteän pääoman bruttomuodostus</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Formarea brută de capital fix în administrația publică</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Nakłady brutto sektora instytucji rządowych i samorządowych na środki trwałe (kod ESA 2010 P.51g) obejmują nabycie przez producentów będących rezydentami, pomniejszone o rozdysponowanie środków trwałych w danym okresie, powiększone o pewne wartości nieprodukowanych aktywów zrealizowanych w wyniku działalności produkcyjnej producenta lub jednostek sektora instytucji rządowych i samorządowych. Środki trwałe są produkowane w produkcji przez okres dłuższy niż jeden rok.</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="fr">Formation brute de capital fixe des administrations publiques</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Vispārējās valdības bruto pamatkapitāla veidošana (EKS 2010 kods P.51g) sastāv no rezidentu ražotāju iegādēm, no kurām atskaitītas pamatlīdzekļu realizācijas noteiktā laika posmā, pieskaitot atsevišķus papildinājumus neražoto aktīvu vērtībai, kas realizēti valdības ražotāja vai vienību ražošanas darbības rezultātā. Pamatlīdzekļi ir saražotie aktīvi, ko ražošanā izmanto ilgāk nekā vienu gadu.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Бруто образуване на основен капитал на сектор „Държавно управление“ (код по ЕСС 2010 P.51g) се състои от придобивания от резидентни производители, минус отписването на дълготрайни активи през даден период, плюс някои допълнения към стойността на непроизведените активи, реализирани от производствената дейност на държавния производител или единици. Дълготрайните активи са произведени активи, използвани в производството за повече от една година.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">De bruto-investeringen in vaste activa van de overheid (ESA-code P.51g) bestaan uit de verwervingen van ingezeten producenten, verminderd met de verkoop van vaste activa gedurende een bepaalde periode, vermeerderd met bepaalde toevoegingen aan de waarde van niet-geproduceerde activa die worden gerealiseerd door de productieve activiteit van overheidsproducenten of -eenheden. Vaste activa zijn geproduceerde activa die gedurende meer dan een jaar in productie worden gebruikt.</dct:description>
+        <dct:title xml:lang="de">Bruttoanlageinvestitionen des Staates</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Il-formazzjoni grossa tal-kapital fiss tal-gvern ġenerali (il-kodiċi P.51g tal-ESA 2010) tikkonsisti fl-akkwiżizzjonijiet tal-produtturi residenti, bit-tnaqqis taċ-ċessjonijiet tal-assi fissi matul perjodu partikolari flimkien ma’ ċerti żidiet mal-valur tal-assi mhux prodotti realizzati mill-attività produttiva tal-produttur jew tal-unitajiet tal-gvern. L-assi fissi huma assi prodotti użati fil-produzzjoni għal aktar minn sena.</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Valitsemissektori kapitali kogumahutus põhivarasse (ESA 2010 kood P.51g) koosneb residendist tootjate omandamisest, millest on maha arvatud põhivara realiseerimine teataval perioodil, pluss teatavad lisandumised valitsemissektori tootja või üksuste tootmistegevuse käigus realiseeritud mittetoodetud varade väärtusele. Põhivara on toodetud vara, mida kasutatakse tootmises üle ühe aasta.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/196b2eac-1b0c-4e5c-99d4-b75b33004d29">
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">General government gross fixed capital formation</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00022.tsv.gz&amp;unzip=true"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Formation brute de capital fixe des administrations publiques</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="de">Bruttoanlageinvestitionen des Staates</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/dfb0705b-f8d0-4d35-beac-03a4b5363bc5</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Ollfhoirmiú caipitil sheasta rialtais ghinearálta</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Den offentliga sektorns fasta bruttoinvesteringar</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="it-t-en-t0-mtec">Investimenti fissi lordi delle amministrazioni pubbliche</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/866feb6c-1ad7-4624-95ae-f4089566b724">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&amp;init=1&amp;plugin=1&amp;language=en&amp;pcode=tec00022"/>
+            <dct:title xml:lang="en">Map</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="fr">Carte</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Karte</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/e78500cc-a4e1-44ae-8249-efa02cb9da42</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>http://data.europa.eu/88u/dataset/osUVUwZR6ctYyUyVRP2CQ</dct:identifier>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1018"/>
+        <dct:description xml:lang="da-t-en-t0-mtec">Den offentlige sektors faste bruttoinvesteringer (ENS 2010-kode P.51g) består af residente producenters erhvervelser, minus afhændelser af anlægsaktiver i en given periode plus visse tillæg til værdien af ikke-producerede aktiver realiseret af den offentlige producents eller enheders produktive aktivitet. Anlægsaktiver er producerede aktiver, der anvendes i produktionen i mere end et år.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Julkisyhteisöjen kiinteän pääoman bruttomuodostus (EKT 2010 -koodi P.51g) koostuu kotimaisten tuottajien hankinnoista, miinus käyttöomaisuuden luovutukset tiettynä ajanjaksona sekä tietyt julkisyhteisöjen tuottajan tai yksiköiden tuotantotoiminnan toteutuneiden valmistamattomien varojen arvon lisäykset. Käyttöomaisuus on tuotettua omaisuutta, jota käytetään tuotannossa yli vuoden ajan.</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/d95bb5b8-599c-4ed3-af58-a259daf184d7">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2010-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/790526c5-4741-4c66-a51c-52587827fd3d">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/842f2fe6-7d41-43ac-9f00-acabb967b283">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Den offentliga sektorns fasta bruttoinvesteringar (ENS 2010-kod P.51g) består av inhemska producenters förvärv minus avyttring av anläggningstillgångar under en viss period plus vissa tillägg till värdet av icke-producerade tillgångar som realiseras genom den offentliga producentens eller enheternas produktiva verksamhet. Anläggningstillgångar är producerade tillgångar som använts i produktionen under mer än ett år.</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">La formación bruta de capital fijo de las administraciones públicas (código SEC 2010 P.51g) consiste en adquisiciones de productores residentes, menos cesiones de activos fijos durante un período determinado más ciertas adiciones al valor de los activos no producidos realizados por la actividad productiva del productor o las unidades públicas. Los activos fijos son activos producidos utilizados en la producción durante más de un año.</dct:description>
+        <dct:identifier>tec00022</dct:identifier>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tec00022"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4c272091-eccb-4152-8cc6-d713ac2bdffb">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00022.tsv.gz"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Bruttoanlageinvestitionen des Staates</dct:title>
+            <dct:title xml:lang="fr">Formation brute de capital fixe des administrations publiques</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">General government gross fixed capital formation</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/8ae70831-04ab-4988-b1d2-cd921ee6e86e</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-en-t0-mtec">Formación bruta de capital fijo de las administraciones públicas</dct:title>
+        <dct:description xml:lang="de">Die Bruttoanlageninvestitionen des Staates (Code P.51g ESVG 2010) umfassen den Erwerb abzüglich der Veräußerungen von Anlagegütern durch gebietsansässige Produzenten in einem Zeitraum zuzüglich gewisser Werterhöhungen an nichtproduzierten Vermögensgütern durch produktive Tätigkeiten von Produzenten oder institutionellen Einheiten. Zu den Anlagegütern zählen produzierte Güter, die länger als ein Jahr in der Produktion eingesetzt werden.</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ακαθάριστος σχηματισμός παγίου κεφαλαίου γενικής κυβέρνησης</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:07:41Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

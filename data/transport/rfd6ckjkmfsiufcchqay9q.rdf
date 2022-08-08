@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/rfd6ckjkmfsiufcchqay9q">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:15:50Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T00:15:50Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:13:55Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/rfd6ckjkmfsiufcchqay9q"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/rfd6ckjkmfsiufcchqay9q">
+        <dct:description xml:lang="uk-t-en-t0-mtec">Залізничний транспорт - національні та міжнародні перевезення залізничних вантажів при навантаженні/розвантаженні НУТС 2 регіон</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Trasporto ferroviario — trasporto ferroviario nazionale e internazionale di merci mediante carico/scarico regione NUTS 2</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Železničná doprava – vnútroštátna a medzinárodná železničná nákladná doprava nakládkou/vykladaním regiónu NUTS 2</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Jernbanetransport — national og international jernbanegodstransport ved lastning/aflæsning af NUTS 2-region</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Dzelzceļa transports — iekšzemes un starptautiskie dzelzceļa kravu pārvadājumi, iekraujot/izkraujot NUTS 2 reģionu</dct:title>
+        <dct:title xml:lang="de">Eisenbahnverkehr - Innerstaatlicher und Grenzüberschreitender Eisenbahngüterverkehr nach NUTS 2 Beladungs- und Entladungsregion</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/rail_pa_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/rfd6ckjkmfsiufcchqay9q"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/rail_pa_esms.htm</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Dzelzceļa transports — iekšzemes un starptautiskie dzelzceļa kravu pārvadājumi, iekraujot/izkraujot NUTS 2 reģionu</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Transport kolejowy – krajowy i międzynarodowy kolejowy transport towarowy poprzez załadunek/rozładunek region NUTS 2</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Jernbanetransport — national og international jernbanegodstransport ved lastning/aflæsning af NUTS 2-region</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Rautatieliikenne – kansallinen ja kansainvälinen rautateiden tavaraliikenne lastaamalla/purkamalla NUTS 2 -alue</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Železničná doprava – vnútroštátna a medzinárodná železničná nákladná doprava nakládkou/vykladaním regiónu NUTS 2</dct:description>
+        <dct:identifier>tran_r_rago</dct:identifier>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Transport kolejowy – krajowy i międzynarodowy kolejowy transport towarowy poprzez załadunek/rozładunek region NUTS 2</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Järnvägstransporter – nationella och internationella järnvägsgodstransporter genom lastning/lossning av Nuts 2-region</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Transporte ferroviario — transporte de mercancías por ferrocarril nacional e internacional mediante carga/descarga de la región NUTS 2</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Железопътен транспорт — национален и международен железопътен транспорт на товари чрез товарене/разтоварване на регион NUTS 2</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Залізничний транспорт - національні та міжнародні перевезення залізничних вантажів при навантаженні/розвантаженні НУТС 2 регіон</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3c651cc6-9880-409f-ad3d-ff686ab21957">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:identifier>http://data.europa.eu/88u/distribution/582dbcf2-3bb4-412c-8429-2868746fb4a6</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="de">Eisenbahnverkehr - Innerstaatlicher und Grenzüberschreitender Eisenbahngüterverkehr nach NUTS 2 Beladungs- und Entladungsregion</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="fr">Transport ferroviaire - transport national et international de marchandises par région NUTS 2 de chargement et de déchargement</dct:title>
+            <dct:title xml:lang="en">Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tran_r_rago.tsv.gz&amp;unzip=true"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Iompar iarnróid — iompar earraí iarnróid náisiúnta agus idirnáisiúnta trí réigiún NUTS 2 a luchtú/a dhíluchtú</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Železniški prevoz – nacionalni in mednarodni železniški prevoz blaga z nakladanjem/razkladanjem regije NUTS 2</dct:title>
+        <dct:title xml:lang="fr">Transport ferroviaire - transport national et international de marchandises par région NUTS 2 de chargement et de déchargement</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Železniški prevoz – nacionalni in mednarodni železniški prevoz blaga z nakladanjem/razkladanjem regije NUTS 2</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Transportul feroviar – transportul feroviar național și internațional de mărfuri prin încărcare/descărcare regiunea NUTS 2</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Iompar iarnróid — iompar earraí iarnróid náisiúnta agus idirnáisiúnta trí réigiún NUTS 2 a luchtú/a dhíluchtú</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Trasport bil-ferrovija — trasport nazzjonali u internazzjonali tal-merkanzija bil-ferrovija skont it-tagħbija/il-ħatt tar-reġjun NUTS 2</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Järnvägstransporter – nationella och internationella järnvägsgodstransporter genom lastning/lossning av Nuts 2-region</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="it-t-en-t0-mtec">Trasporto ferroviario — trasporto ferroviario nazionale e internazionale di merci mediante carico/scarico regione NUTS 2</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Σιδηροδρομικές μεταφορές — εθνικές και διεθνείς σιδηροδρομικές μεταφορές εμπορευμάτων με φόρτωση/εκφόρτωση περιφέρεια NUTS 2</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Raudteetransport – riiklik ja rahvusvaheline raudteekaubavedu peale- ja mahalaadimisel NUTS 2 piirkonnas</dct:title>
+        <dct:title xml:lang="en">Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Vasúti szállítás – nemzeti és nemzetközi vasúti árufuvarozás berakodással/kirakodással NUTS 2 régió</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Transportul feroviar – transportul feroviar național și internațional de mărfuri prin încărcare/descărcare regiunea NUTS 2</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Transporte ferroviário — transporte ferroviário nacional e internacional de mercadorias por carga/descarga da região NUTS 2</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tran_r_rago">
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tran_r_rago</schema:url>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tran_r_rago</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/rfd6ckjkmfsiufcchqay9q"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b08b0afa-f048-48c6-ab60-e82404d80b39">
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tran_r_rago.sdmx.zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Transport ferroviaire - transport national et international de marchandises par région NUTS 2 de chargement et de déchargement</dct:title>
+            <dct:title xml:lang="en">Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c9e1b3b0-fe0c-4957-a5e6-dd11ea59323e</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="de">Eisenbahnverkehr - Innerstaatlicher und Grenzüberschreitender Eisenbahngüterverkehr nach NUTS 2 Beladungs- und Entladungsregion</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Железопътен транспорт — национален и международен железопътен транспорт на товари чрез товарене/разтоварване на регион NUTS 2</dct:description>
+        <dct:description xml:lang="en">Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tran_r_rago"/>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Geležinkelių transportas – nacionalinis ir tarptautinis geležinkelių krovinių vežimas pakraunant/iškraunant NUTS 2 regioną</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Rautatieliikenne – kansallinen ja kansainvälinen rautateiden tavaraliikenne lastaamalla/purkamalla NUTS 2 -alue</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c4447aa9-85b8-4735-b94b-5388d601712d">
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="fr">Transport ferroviaire - transport national et international de marchandises par région NUTS 2 de chargement et de déchargement</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tran_r_rago.tsv.gz"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/7f4aaa18-7eb8-4228-bd10-357d81b41216</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="en">Railway transport - national and international railway goods transport by loading/unloading NUTS 2 region</dct:title>
+            <dct:title xml:lang="de">Eisenbahnverkehr - Innerstaatlicher und Grenzüberschreitender Eisenbahngüterverkehr nach NUTS 2 Beladungs- und Entladungsregion</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="de">Eisenbahnverkehr - Innerstaatlicher und Grenzüberschreitender Eisenbahngüterverkehr nach NUTS 2 Beladungs- und Entladungsregion</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/198d6d31-e35a-4664-bbad-63f914179fce">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2005-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Geležinkelių transportas – nacionalinis ir tarptautinis geležinkelių krovinių vežimas pakraunant/iškraunant NUTS 2 regioną</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Spoorwegvervoer — nationaal en internationaal goederenvervoer per spoor door het laden/lossen van NUTS 2-regio’s</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Σιδηροδρομικές μεταφορές — εθνικές και διεθνείς σιδηροδρομικές μεταφορές εμπορευμάτων με φόρτωση/εκφόρτωση περιφέρεια NUTS 2</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Spoorwegvervoer — nationaal en internationaal goederenvervoer per spoor door het laden/lossen van NUTS 2-regio’s</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/rfD6ckJKmFSIUFCchQAY9Q</dct:identifier>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Železniční doprava – vnitrostátní a mezinárodní železniční nákladní doprava nakládkou/vykládkou regionu NUTS 2</dct:description>
+        <dct:description xml:lang="fr">Transport ferroviaire - transport national et international de marchandises par région NUTS 2 de chargement et de déchargement</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/907e14ec-70d9-4055-bf74-223233092d6b">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/cc85c79a-de58-44e0-934b-c18eb02fa5e0">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Željeznički prijevoz – nacionalni i međunarodni željeznički prijevoz robe utovarom/istovarom regije NUTS 2</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Transporte ferroviario — transporte de mercancías por ferrocarril nacional e internacional mediante carga/descarga de la región NUTS 2</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Vasúti szállítás – nemzeti és nemzetközi vasúti árufuvarozás berakodással/kirakodással NUTS 2 régió</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Transporte ferroviário — transporte ferroviário nacional e internacional de mercadorias por carga/descarga da região NUTS 2</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Železniční doprava – vnitrostátní a mezinárodní železniční nákladní doprava nakládkou/vykládkou regionu NUTS 2</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Trasport bil-ferrovija — trasport nazzjonali u internazzjonali tal-merkanzija bil-ferrovija skont it-tagħbija/il-ħatt tar-reġjun NUTS 2</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Željeznički prijevoz – nacionalni i međunarodni željeznički prijevoz robe utovarom/istovarom regije NUTS 2</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_pa_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_pa_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/rfd6ckjkmfsiufcchqay9q"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="et-t-en-t0-mtec">Raudteetransport – riiklik ja rahvusvaheline raudteekaubavedu peale- ja mahalaadimisel NUTS 2 piirkonnas</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-09</dct:modified>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>6f2f62c4ed8e92df2bd729206e8a0f93</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>rfD6ckJKmFSIUFCchQAY9Q</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

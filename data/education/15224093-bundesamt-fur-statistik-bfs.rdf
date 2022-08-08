@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/15224093-bundesamt-fur-statistik-bfs">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/15224093-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="en">income-and-consumption-recovery-new-household-budget-survey</dcat:keyword>
+        <dct:title xml:lang="fr">Equipement TIC des ménages</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Háztartások IKT-berendezései</dct:title>
+        <dcat:keyword xml:lang="de">kultur-medien-informationsgesellschaft-sport</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7021e8ec-67a5-4ce1-932c-ab0e4b967a90">
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tieto- ja viestintätekniikan laitteet kotitalouksille</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">IKT-udstyr til husholdninger</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Tagħmir tal-ICT għall-unitajiet domestiċi</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15224095/master"/>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Echipamente TIC pentru gospodării</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Εξοπλισμός ΤΠΕ για νοικοκυριά</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">IKT oprema za kućanstva</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">IKT-utrustning för hushåll</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15224095/master"/>
+            <dct:title xml:lang="fr">Equipement TIC des ménages</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-14T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">ИКТ оборудване за домакинствата</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">IKT-Ausrüstung für Privathaushalte</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-14T00:00:00</dct:modified>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:identifier>15224095-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Apparecchiature ICT per le famiglie</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kodumajapidamiste info- ja kommunikatsioonitehnoloogia seadmed</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Sprzęt ICT dla gospodarstw domowych</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Equipamento de TIC para agregados familiares</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">IKT iekārtas mājsaimniecībām</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">ICT-apparatuur voor huishoudens</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Oprema IKT za gospodinjstva</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Equipo de TIC para los hogares</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Trealamh TFC do theaghlaigh</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Namų ūkiams skirta IRT įranga</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zařízení IKT pro domácnosti</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">ICT equipment for households</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Háztartási IKT-berendezések</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">ІКТ-обладнання для домогосподарств</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Trealamh TFC teaghlach</dct:title>
+        <dcat:keyword xml:lang="de">einkommens--und-verbrauchserhebung-neu-haushaltsbudgeterhebung</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Sprzęt teleinformatyczny gospodarstw domowych</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="en">culture-media-information-society-sports</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">ICT equipment of households</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Echipamente TIC ale gospodăriilor</dct:title>
+        <dcat:keyword xml:lang="fr">enquete-sur-les-revenus-et-la-consommation-desormais-enquete-sur-le-budget-des-menages</dcat:keyword>
+        <dcat:keyword xml:lang="it">cultura-media-societa-dellinformazione-sport</dcat:keyword>
+        <dcat:keyword xml:lang="fr">enquete--par-sondage</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/baabfc37-5741-4144-9fab-afa0115f2d6e">
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Sprzęt ICT dla gospodarstw domowych</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Apparecchiature ICT per le famiglie</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">IKT-utrustning för hushåll</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kodumajapidamiste info- ja kommunikatsioonitehnoloogia seadmed</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">IKT-udstyr til husholdninger</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-16.04.02.02"/>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tieto- ja viestintätekniikan laitteet kotitalouksille</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">ІКТ-обладнання для домогосподарств</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">IKT oprema za kućanstva</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Oprema IKT za gospodinjstva</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Trealamh TFC do theaghlaigh</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">ICT-apparatuur voor huishoudens</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Háztartási IKT-berendezések</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Tagħmir tal-ICT għall-unitajiet domestiċi</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-14T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Εξοπλισμός ΤΠΕ για νοικοκυριά</dct:title>
+            <dct:title xml:lang="fr">Equipement TIC des ménages</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">IKT iekārtas mājsaimniecībām</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zařízení IKT pro domácnosti</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Equipamento de TIC para agregados familiares</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="en-t-fr-t0-mtec">ICT equipment for households</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">IKT-Ausrüstung für Privathaushalte</dct:title>
+            <dct:identifier>15224095-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Namų ūkiams skirta IRT įranga</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">ИКТ оборудване за домакинствата</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Echipamente TIC pentru gospodării</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Equipo de TIC para los hogares</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">sample-surveys</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dcat:keyword xml:lang="it">rilevazione-campionaria</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">ИКТ оборудване на домакинствата</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Tagħmir tal-ICT tal-unitajiet domestiċi</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Apparecchiature TIC delle famiglie</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Informacijska i komunikacijska oprema kućanstava</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-12-14T00:00:00</dct:issued>
+        <dct:title xml:lang="nl-t-de-t0-mtec">ICT-apparatuur van huishoudens</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-seadmed</dct:title>
+        <dct:title xml:lang="de">IKT-Ausstattung der Haushalte</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f72a15f3-6e8b-438c-810a-92d2441e7005">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Sprzęt teleinformatyczny gospodarstw domowych</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tagħmir tal-ICT tal-unitajiet domestiċi</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15224094/master"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Háztartások IKT-berendezései</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-обладнання домогосподарств</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Trealamh TFC teaghlach</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT įranga</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniset laitteet</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Apparecchiature TIC delle famiglie</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Equipamento de TIC dos agregados familiares</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Informacijska i komunikacijska oprema kućanstava</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību IKT iekārtas</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-14T00:00:00</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-apparatuur van huishoudens</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-14T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udstyr</dct:title>
+            <dct:title xml:lang="de">IKT-Ausstattung der Haushalte</dct:title>
+            <dct:identifier>15224094-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Echipamente TIC ale gospodăriilor</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Équipement des ménages dans le domaine des TIC</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Informační a komunikační technologie domácností</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utrustning</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Oprema za IKT gospodinjstev</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT equipment of households</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Equipo de TIC de los hogares</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ИКТ оборудване на домакинствата</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-seadmed</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξοπλισμός ΤΠΕ των νοικοκυριών</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/15224094/master"/>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9adfe517-78e8-4c45-8ae1-fe05aa0d99ee">
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξοπλισμός ΤΠΕ των νοικοκυριών</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ICT-apparatuur van huishoudens</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Apparecchiature TIC delle famiglie</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Oprema za IKT gospodinjstev</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utrustning</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Equipamento de TIC dos agregados familiares</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kodumajapidamiste IKT-seadmed</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT įranga</dct:title>
+            <dct:identifier>15224094-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Informacijska i komunikacijska oprema kućanstava</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-12-14T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udstyr</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Informační a komunikační technologie domácností</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Echipamente TIC ale gospodăriilor</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zariadenia IKT pre domácnosti</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Sprzęt teleinformatyczny gospodarstw domowych</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tagħmir tal-ICT tal-unitajiet domestiċi</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Equipo de TIC de los hogares</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-16.04.02.02"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">ИКТ оборудване на домакинствата</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību IKT iekārtas</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-обладнання домогосподарств</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Équipement des ménages dans le domaine des TIC</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="en-t-de-t0-mtec">ICT equipment of households</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Háztartások IKT-berendezései</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="de">IKT-Ausstattung der Haushalte</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniset laitteet</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Trealamh TFC teaghlach</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">culture-medias-societe-de-linformation-sport</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Oprema za IKT gospodinjstev</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="uk-t-de-t0-mtec">ІКТ-обладнання домогосподарств</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kotitalouksien tieto- ja viestintätekniset laitteet</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-16.04.02.02"/>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Namų ūkių IRT įranga</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Husholdningernes IKT-udstyr</dct:title>
+        <dct:identifier>15224093@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Equipamento de TIC dos agregados familiares</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εξοπλισμός ΤΠΕ των νοικοκυριών</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Equipo de TIC de los hogares</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:11:41.080719</dct:modified>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Hushållens IKT-utrustning</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Informační a komunikační technologie domácností</dct:title>
+        <dcat:keyword xml:lang="de">stichprobenerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="it">indagine-sul-reddito-e-sul-consumo-nuovo-indagine-sul-budget-delle-economie-domestiche</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Mājsaimniecību IKT iekārtas</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>81d5f0de600ee62af913ea5b34ae160d</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/15224093-bundesamt-fur-statistik-bfs"/>
+    <dct:identifier>15224093@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:36:42Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:12Z</dct:modified>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

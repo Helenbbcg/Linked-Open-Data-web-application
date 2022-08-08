@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18064851-bundesamt-fur-statistik-bfs">
+    <dct:identifier>18064851@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:16Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18064851-bundesamt-fur-statistik-bfs">
+        <dct:language>fr</dct:language>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:09:31.381690</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/01b9ef29-3871-4aa6-ad66-4d6770c2291d">
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18064854/master"/>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Ekonominiai žiniasklaidos aspektai: Profesinė veikla žiniasklaidos srityje</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Gnéithe eacnamaíocha na meán: Gníomhaíocht ghairmiúil i réimse na meán</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Ekonomické aspekty médií: Odborná činnost v oblasti médií</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tiedotusvälineiden taloudelliset näkökohdat: Ammatillinen toiminta tiedotusvälineiden alalla</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Meedia majanduslikud aspektid: Kutsealane tegevus meedia valdkonnas</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Wirtschaftliche Aspekte der Medien: Berufliche Tätigkeit im Medienbereich</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Οικονομικές πτυχές των μέσων ενημέρωσης: Επαγγελματική δραστηριότητα στον τομέα των μέσων ενημέρωσης</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Aspetos económicos dos meios de comunicação social:
+Atividade profissional no domínio dos meios de comunicação social</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-01T00:00:00</dct:modified>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Икономически аспекти на медиите: Професионална дейност в областта на медиите</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Ekonomiska aspekter av medierna: Yrkesverksamhet på medieområdet</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Aspectos económicos de los medios de comunicación:
+Actividad profesional en el ámbito de los medios de comunicación</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Aspecte economice ale mass-mediei:
+Activitate profesională în domeniul mass-media</dct:title>
+            <dct:language>fr</dct:language>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Економічні аспекти діяльності ЗМІ:
+Професійна діяльність у сфері ЗМІ</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Economische aspecten van de media:
+Beroepsactiviteit op het gebied van de media</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Økonomiske aspekter af medierne: Erhvervsmæssig virksomhed inden for medieområdet</dct:title>
+            <dct:identifier>18064854-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Aspetti economici dei media: Attività professionale nel campo dei media</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A média gazdasági vonatkozásai: Szakmai tevékenység a média területén</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-05T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Gospodarski aspekti medija: Profesionalna djelatnost u području medija</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Economic aspects of the media: Professional activity in the field of the media</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Gospodarski vidiki medijev: Poklicna dejavnost na področju medijev</dct:title>
+            <dct:title xml:lang="fr">Aspects économiques des médias: Activité professionnelle dans le domaine des médias</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Ekonomické aspekty médií: Odborná činnosť v oblasti médií</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Ekonomiczne aspekty mediów: Działalność zawodowa w zakresie mediów</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Plašsaziņas līdzekļu ekonomiskie aspekti:
+Profesionālā darbība plašsaziņas līdzekļu jomā</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Aspetti ekonomiċi tal-mezzi tax-xandir: Attività professjonali fil-qasam tal-midja</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18064854/master"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dct:title xml:lang="de">Medienökonomische Aspekte: Erwerbstätigkeit im Medienbereich</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Aspetos econômicos da mídia:
+Emprego no setor dos meios de comunicação social</dct:title>
+        <dcat:keyword xml:lang="fr">statistique-des-medias</dcat:keyword>
+        <dcat:keyword xml:lang="en">culture-media-information-society-sports</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9131beec-bd1e-4616-860d-9e7f4d38fbce">
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18064853/master"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-05T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Aspetos econômicos da mídia: Emprego no setor dos meios de comunicação social</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Gnéithe eacnamaíocha na meán: Fostaíocht in earnáil na meán</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Aspects économiques des médias: Emploi dans les médias</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-01T00:00:00</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Mediálne ekonomické aspekty: Zamestnanosť v mediálnom sektore</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Medieøkonomiske aspekter: Beskæftigelse i mediesektoren</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ekonomické aspekty médií: Zaměstnanost v mediálním odvětví</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Médiagazdasági szempontok: Foglalkoztatás a médiaágazatban</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Икономически аспекти на медиите: Заетост в медийния сектор</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Aspekty ekonomiczne mediów: Zatrudnienie w sektorze mediów</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Meedia majanduslikud aspektid: Tööhõive meediasektoris</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Aspecte economice ale mass-media: Ocuparea forței de muncă în sectorul mass-media</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Aspectos económicos de los medios de comunicación: Empleo en el sector de los medios de comunicación</dct:title>
+            <dct:identifier>18064853-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18064853/master"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Media economic aspects: Employment in the media sector</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οικονομικές πτυχές των μέσων ενημέρωσης: Απασχόληση στον τομέα των μέσων ενημέρωσης</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Žiniasklaidos ekonominiai aspektai: Užimtumas žiniasklaidos sektoriuje</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Aspetti ekonomiċi tal-midja: L-impjiegi fis-settur tal-midja</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Медіа-економічні аспекти: Працевлаштування в медійному секторі</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Medijski ekonomski vidiki: Zaposlovanje v medijskem sektorju</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Economische aspecten van de media: Werkgelegenheid in de mediasector</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Plašsaziņas līdzekļu ekonomiskie aspekti: Nodarbinātība plašsaziņas līdzekļu nozarē</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiedotusvälineiden taloudelliset näkökohdat: Työllisyys media-alalla</dct:title>
+            <dct:title xml:lang="de">Medienökonomische Aspekte: Erwerbstätigkeit im Medienbereich</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="it-t-de-t0-mtec">Aspetti economici dei media: Occupazione nel settore dei media</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Medijski gospodarski aspekti: Zaposlenost u medijskom sektoru</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Medieekonomiska aspekter: Sysselsättning inom mediesektorn</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Gnéithe eacnamaíocha na meán: Fostaíocht in earnáil na meán</dct:title>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1bcfd057-e18f-4d0a-8b97-d28a4e79c71a">
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Médiagazdasági szempontok: Foglalkoztatás a médiaágazatban</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Media economic aspects: Employment in the media sector</dct:title>
+            <dct:identifier>18064853-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tiedotusvälineiden taloudelliset näkökohdat: Työllisyys media-alalla</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Aspetti ekonomiċi tal-midja: L-impjiegi fis-settur tal-midja</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Mediálne ekonomické aspekty: Zamestnanosť v mediálnom sektore</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Икономически аспекти на медиите: Заетост в медийния сектор</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Meedia majanduslikud aspektid: Tööhõive meediasektoris</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Plašsaziņas līdzekļu ekonomiskie aspekti: Nodarbinātība plašsaziņas līdzekļu nozarē</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ekonomické aspekty médií: Zaměstnanost v mediálním odvětví</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Aspetos econômicos da mídia: Emprego no setor dos meios de comunicação social</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Aspetti economici dei media: Occupazione nel settore dei media</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Medieøkonomiske aspekter: Beskæftigelse i mediesektoren</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Медіа-економічні аспекти: Працевлаштування в медійному секторі Медіа-економічні аспекти:
+Працевлаштування в медійному секторі</dct:title>
+            <dct:title xml:lang="de">Medienökonomische Aspekte: Erwerbstätigkeit im Medienbereich</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Aspects économiques des médias: Emploi dans les médias</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Aspecte economice ale mass-media: Ocuparea forței de muncă în sectorul mass-media</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Žiniasklaidos ekonominiai aspektai: Užimtumas žiniasklaidos sektoriuje</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οικονομικές πτυχές των μέσων ενημέρωσης: Απασχόληση στον τομέα των μέσων ενημέρωσης</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-05T00:00:00</dct:issued>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-16.03.02.02.01"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Medieekonomiska aspekter: Sysselsättning inom mediesektorn</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Aspectos económicos de los medios de comunicación: Empleo en el sector de los medios de comunicación</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Economische aspecten van de media: Werkgelegenheid in de mediasector</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Gnéithe eacnamaíocha na meán: Fostaíocht in earnáil na meán Gnéithe eacnamaíocha na meán:
+Fostaíocht in earnáil na meán</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Medijski ekonomski vidiki: Zaposlovanje v medijskem sektorju Medijski ekonomski vidiki:
+Zaposlovanje v medijskem sektorju</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Medijski gospodarski aspekti: Zaposlenost u medijskom sektoru</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Aspekty ekonomiczne mediów: Zatrudnienie w sektorze mediów</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Ekonomické aspekty médií: Zaměstnanost v mediálním odvětví</dct:title>
+        <dct:identifier>18064851@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="da-t-de-t0-mtec">Medieøkonomiske aspekter: Beskæftigelse i mediesektoren</dct:title>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Aspetti ekonomiċi tal-midja: L-impjiegi fis-settur tal-midja</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Plašsaziņas līdzekļu ekonomiskie aspekti: Nodarbinātība plašsaziņas līdzekļu nozarē</dct:title>
+        <rdfs:seeAlso>22869670@bundesamt-fur-statistik-bfs</rdfs:seeAlso>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Médiagazdasági szempontok: Foglalkoztatás a médiaágazatban</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Aspetti economici dei media: Occupazione nel settore dei media</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Οικονομικές πτυχές των μέσων ενημέρωσης: Απασχόληση στον τομέα των μέσων ενημέρωσης</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Medijski ekonomski vidiki: Zaposlovanje v medijskem sektorju</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Икономически аспекти на медиите: Заетост в медийния сектор</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Aspecte economice ale mass-media: Ocuparea forței de muncă în sectorul mass-media</dct:title>
+        <dcat:keyword xml:lang="fr">culture-medias-societe-de-linformation-sport</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-07-05T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9d20ee1d-208c-496f-aa1a-ce9655890fc3">
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Икономически аспекти на медиите: Професионална дейност в областта на медиите</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Økonomiske aspekter af medierne: Erhvervsmæssig virksomhed inden for medieområdet</dct:title>
+            <dct:title xml:lang="fr">Aspects économiques des médias: Activité professionnelle dans le domaine des médias</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Ekonominiai žiniasklaidos aspektai: Profesinė veikla žiniasklaidos srityje</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Plašsaziņas līdzekļu ekonomiskie aspekti: Profesionālā darbība plašsaziņas līdzekļu jomā</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Gospodarski aspekti medija: Profesionalna djelatnost u području medija</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Aspetti ekonomiċi tal-mezzi tax-xandir: Attività professjonali fil-qasam tal-midja</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Aspectos económicos de los medios de comunicación: Actividad profesional en el ámbito de los medios de comunicación</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A média gazdasági vonatkozásai: Szakmai tevékenység a média területén</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Ekonomiska aspekter av medierna: Yrkesverksamhet på medieområdet</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Meedia majanduslikud aspektid: Kutsealane tegevus meedia valdkonnas</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-05T00:00:00</dct:issued>
+            <dct:identifier>18064854-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Wirtschaftliche Aspekte der Medien: Berufliche Tätigkeit im Medienbereich</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Економічні аспекти діяльності ЗМІ: Професійна діяльність у сфері ЗМІ</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Ekonomické aspekty médií: Odborná činnost v oblasti médií</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tiedotusvälineiden taloudelliset näkökohdat: Ammatillinen toiminta tiedotusvälineiden alalla</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Ekonomiczne aspekty mediów: Działalność zawodowa w zakresie mediów</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Aspecte economice ale mass-mediei: Activitate profesională în domeniul mass-media</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Gospodarski vidiki medijev: Poklicna dejavnost na področju medijev</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Aspetti economici dei media: Attività professionale nel campo dei media</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-16.03.02.02.01"/>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Aspetos económicos dos meios de comunicação social: Atividade profissional no domínio dos meios de comunicação social</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Ekonomické aspekty médií: Odborná činnosť v oblasti médií</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Economische aspecten van de media: Beroepsactiviteit op het gebied van de media</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Gnéithe eacnamaíocha na meán: Gníomhaíocht ghairmiúil i réimse na meán</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Οικονομικές πτυχές των μέσων ενημέρωσης: Επαγγελματική δραστηριότητα στον τομέα των μέσων ενημέρωσης</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Economic aspects of the media: Professional activity in the field of the media</dct:title>
+            <dct:format>HTML</dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Mediálne ekonomické aspekty: Zamestnanosť v mediálnom sektore</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Medijski gospodarski aspekti: Zaposlenost u medijskom sektoru</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Meedia majanduslikud aspektid: Tööhõive meediasektoris</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Aspectos económicos de los medios de comunicación:
+Empleo en el sector de los medios de comunicación</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-16.03.02.02.01"/>
+        <dcat:keyword xml:lang="de">medienstatistik</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Economische aspecten van de media: Werkgelegenheid in de mediasector</dct:title>
+        <dcat:keyword xml:lang="it">cultura-media-societa-dellinformazione-sport</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Media economic aspects: Employment in the media sector</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Медіа-економічні аспекти: Працевлаштування в медійному секторі</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="it">statistica-media</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Žiniasklaidos ekonominiai aspektai: Užimtumas žiniasklaidos sektoriuje</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tiedotusvälineiden taloudelliset näkökohdat: Työllisyys media-alalla</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Aspekty ekonomiczne mediów: Zatrudnienie w sektorze mediów</dct:title>
+        <dct:title xml:lang="fr">Aspects économiques des médias: Activité professionnelle dans le domaine des médias</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Medieekonomiska aspekter: Sysselsättning inom mediesektorn</dct:title>
+        <dcat:keyword xml:lang="en">media-statistics</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dcat:keyword xml:lang="de">kultur-medien-informationsgesellschaft-sport</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:09Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:12:39Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18064851-bundesamt-fur-statistik-bfs"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:09Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>3f4dc236763ea0d42711384ad6317ad3</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

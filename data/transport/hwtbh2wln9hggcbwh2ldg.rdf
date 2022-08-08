@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/hwtbh2wln9hggcbwh2ldg">
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:15:26Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:13:16Z</dct:issued>
+    <dct:identifier>hwtBh2wlN9HGgcbwh2ldg</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:15:26Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/hwtbh2wln9hggcbwh2ldg"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/hwtbh2wln9hggcbwh2ldg">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a03d2119-3652-4867-9b20-c7077b17c382">
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/iww_go_aport.tsv.gz&amp;unzip=true"/>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="de">Güter, die in Häfen für Binnenschiffsverkehr auf- und abgeladen werden</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Marchandises chargées et déchargées dans les ports pour le transport fluvial intérieur</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/028076ee-c343-4c8d-969c-0bccb55d75b0</dct:identifier>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="en">Goods loaded and unloaded in ports for inland waterways transport</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Vidaus vandenų transportui uostuose pakrautos ir iškrautos prekės</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Blago, natovorjeno in raztovorjeno v pristaniščih za prevoz po celinskih plovnih poteh</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Siseveetranspordiks sadamates peale- ja mahalaaditud kaubad</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/hwtBh2wlN9HGgcbwh2ldg</dct:identifier>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Mărfuri încărcate și descărcate în porturi pentru transportul pe căi navigabile interioare</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Preces, kas iekrautas un izkrautas ostās iekšzemes ūdensceļu transportam</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Zboží naložené a vyložené v přístavech pro vnitrozemskou vodní dopravu</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Gods som lastas och lossas i hamnar för transport på inre vattenvägar</dct:title>
+        <dct:identifier>iww_go_aport</dct:identifier>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4735"/>
+        <dct:title xml:lang="en">Goods loaded and unloaded in ports for inland waterways transport</dct:title>
+        <dct:title xml:lang="de">Güter, die in Häfen für Binnenschiffsverkehr auf- und abgeladen werden</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Товари, завантажені та розвантажені в портах для внутрішнього водного транспорту</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Zboží naložené a vyložené v přístavech pro vnitrozemskou vodní dopravu</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Siseveetranspordiks sadamates peale- ja mahalaaditud kaubad</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Mercancías cargadas y descargadas en puertos para el transporte por vías navegables interiores</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Gods som lastas och lossas i hamnar för transport på inre vattenvägar</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Towary załadowane i rozładowane w portach do transportu śródlądowymi drogami wodnymi</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/iww_go_aport">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/hwtbh2wln9hggcbwh2ldg"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/iww_go_aport</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/iww_go_aport</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Merkanzija mgħobbija u mħatta f’portijiet għat-trasport fl-ilmijiet navigabbli interni</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Tovar naložený a vyložený v prístavoch pre vnútrozemskú vodnú dopravu</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5d70ec04-d38f-4a8e-84f2-a6aa42013b65">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:identifier>http://data.europa.eu/88u/distribution/9eb01b74-7781-4ce0-9394-d4c94dd49744</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="de">Güter, die in Häfen für Binnenschiffsverkehr auf- und abgeladen werden</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/iww_go_aport.tsv.gz"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Goods loaded and unloaded in ports for inland waterways transport</dct:title>
+            <dct:title xml:lang="fr">Marchandises chargées et déchargées dans les ports pour le transport fluvial intérieur</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Vidaus vandenų transportui uostuose pakrautos ir iškrautos prekės</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/6c16d5cc-5466-451b-b8db-8410c8ae7eae">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2014-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/6554d65a-fd2c-44da-b48f-8432b9f13016">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/6b49192e-6acd-49ef-94da-08e0f14005b4">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Товари, натоварени и разтоварени в пристанища за транспорт по вътрешни водни пътища</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Mercadorias carregadas e descarregadas em portos para transporte por vias navegáveis interiores</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Tovar naložený a vyložený v prístavoch pre vnútrozemskú vodnú dopravu</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Towary załadowane i rozładowane w portach do transportu śródlądowymi drogami wodnymi</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Roba utovarena i istovarena u lukama za prijevoz unutarnjim plovnim putovima</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Earraí a luchtaítear agus a dhíluchtaítear i gcalafoirt le haghaidh iompar d’uiscebhealaí intíre</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/iww_esms.htm">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/hwtbh2wln9hggcbwh2ldg"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/iww_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Blago, natovorjeno in raztovorjeno v pristaniščih za prevoz po celinskih plovnih poteh</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Preces, kas iekrautas un izkrautas ostās iekšzemes ūdensceļu transportam</dct:title>
+        <dct:description xml:lang="en">Goods loaded and unloaded in ports for inland waterways transport</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="it-t-en-t0-mtec">Merci caricate e scaricate nei porti per il trasporto per vie navigabili interne</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/iww_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/iww_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/hwtbh2wln9hggcbwh2ldg"/>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/iww_go_aport"/>
+        <dct:title xml:lang="it-t-en-t0-mtec">Merci caricate e scaricate nei porti per il trasporto per vie navigabili interne</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Goederen die worden geladen en gelost in havens voor het vervoer over de binnenwateren</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Gods lastet og losset i havne til transport ad indre vandveje</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Sisävesiliikenteen satamissa lastatut ja puretut tavarat</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Mercadorias carregadas e descarregadas em portos para transporte por vias navegáveis interiores</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Gods lastet og losset i havne til transport ad indre vandveje</dct:title>
+        <dct:title xml:lang="fr">Marchandises chargées et déchargées dans les ports pour le transport fluvial intérieur</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Belvízi szállításra szolgáló kikötőkben berakodott és kirakodott áruk</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Goederen die worden geladen en gelost in havens voor het vervoer over de binnenwateren</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Εμπορεύματα που φορτώνονται και εκφορτώνονται σε λιμένες για εσωτερικές πλωτές μεταφορές</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-15</dct:modified>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Belvízi szállításra szolgáló kikötőkben berakodott és kirakodott áruk</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Sisävesiliikenteen satamissa lastatut ja puretut tavarat</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="de">Güter, die in Häfen für Binnenschiffsverkehr auf- und abgeladen werden</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Merkanzija mgħobbija u mħatta f’portijiet għat-trasport fl-ilmijiet navigabbli interni</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Товари, завантажені та розвантажені в портах для внутрішнього водного транспорту</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Товари, натоварени и разтоварени в пристанища за транспорт по вътрешни водни пътища</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Mercancías cargadas y descargadas en puertos para el transporte por vías navegables interiores</dct:description>
+        <dct:description xml:lang="fr">Marchandises chargées et déchargées dans les ports pour le transport fluvial intérieur</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Roba utovarena i istovarena u lukama za prijevoz unutarnjim plovnim putovima</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Earraí a luchtaítear agus a dhíluchtaítear i gcalafoirt le haghaidh iompar d’uiscebhealaí intíre</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d71b400d-b8dd-4bec-b19c-b4a6c34a363f">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/iww_go_aport.sdmx.zip"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="fr">Marchandises chargées et déchargées dans les ports pour le transport fluvial intérieur</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4070216f-7939-4b28-abe2-f556f5ba585b</dct:identifier>
+            <dct:title xml:lang="en">Goods loaded and unloaded in ports for inland waterways transport</dct:title>
+            <dct:title xml:lang="de">Güter, die in Häfen für Binnenschiffsverkehr auf- und abgeladen werden</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-en-t0-mtec">Εμπορεύματα που φορτώνονται και εκφορτώνονται σε λιμένες για εσωτερικές πλωτές μεταφορές</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Mărfuri încărcate și descărcate în porturi pentru transportul pe căi navigabile interioare</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>634a6183889f1ca453ed3cd100056ced</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

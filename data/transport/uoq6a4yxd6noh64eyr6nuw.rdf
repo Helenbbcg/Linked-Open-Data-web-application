@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/uoq6a4yxd6noh64eyr6nuw">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:03:43Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>uoq6A4YxD6nOH64Eyr6nuw</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T10:06:08Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>10ff45181c6c9b21cc461f7a257319d0</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/uoq6a4yxd6noh64eyr6nuw"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T10:06:08Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/uoq6a4yxd6noh64eyr6nuw">
+        <dct:title xml:lang="pt-t-en-t0-mtec">Peso bruto das mercadorias transportadas de/para os principais portos — Suécia</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Брутно тегло на стоките, транспортирани до/от основните пристанища — Швеция</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Il-piż gross tal-merkanzija ttrasportata lejn/minn portijiet ewlenin — l-Isvezja</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Uz/no galvenajām ostām pārvadāto preču bruto svars — Zviedrija</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/mar_go_am_se">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/uoq6a4yxd6noh64eyr6nuw"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/mar_go_am_se</schema:url>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/mar_go_am_se</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Bruttovikt för varor som transporteras till/från huvudhamnar – Sverige</dct:description>
+        <dct:description xml:lang="fr">Poids brut des marchandises transportées, sorties/entrées des principaux ports - Suède</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Bruttovægt af gods, der transporteres til/fra hovedhavne — Sverige</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Pääsatamiin/pääsatamiin kuljetettujen tavaroiden bruttopaino – Ruotsi</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Brutogewicht van de goederen die naar/van de belangrijkste havens worden vervoerd — Zweden</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/mar_esms.htm">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/uoq6a4yxd6noh64eyr6nuw"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/mar_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="de">Bruttogewicht der nach/aus Haupthäfen umgeschlagenen Güter - Schweden</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Greutatea brută a mărfurilor transportate în/din porturile principale – Suedia</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Peso bruto de las mercancías transportadas hacia/desde los principales puertos — Suecia</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Μεικτό βάρος εμπορευμάτων που μεταφέρονται προς/από κύριους λιμένες — Σουηδία</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Bruttovægt af gods, der transporteres til/fra hovedhavne — Sverige</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Il-piż gross tal-merkanzija ttrasportata lejn/minn portijiet ewlenin — l-Isvezja</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9748a4d8-ef49-423d-8c38-f74f782532d7">
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="en">Gross weight of goods transported to/from main ports - Sweden</dct:title>
+            <dct:title xml:lang="fr">Poids brut des marchandises transportées, sorties/entrées des principaux ports - Suède</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c76c4146-1ba5-4b50-864c-32c14ef1ee41</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="de">Bruttogewicht der nach/aus Haupthäfen umgeschlagenen Güter - Schweden</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/mar_go_am_se.sdmx.zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/0e1a5781-cf53-4c15-a9b9-009e2a13c223">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1997-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/mar_go_am_se"/>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Pääsatamiin/pääsatamiin kuljetettujen tavaroiden bruttopaino – Ruotsi</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Валова вага вантажів, що перевозяться в/з основних портів - Швеція</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Hrubá hmotnost zboží přepravovaného do/z hlavních přístavů – Švédsko</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-09</dct:modified>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Hrubá hmotnost zboží přepravovaného do/z hlavních přístavů – Švédsko</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Μεικτό βάρος εμπορευμάτων που μεταφέρονται προς/από κύριους λιμένες — Σουηδία</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Põhisadamatesse/peamistest sadamatest veetud kaupade brutokaal – Rootsi</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Ollmheáchan na n-earraí a iompraítear chuig/ó na príomhchalafoirt — an tSualainn</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Bendrasis krovinių, vežamų į pagrindinius uostus ir iš jų, svoris – Švedija</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/mar_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/mar_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/uoq6a4yxd6noh64eyr6nuw"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:identifier>http://data.europa.eu/88u/dataset/uoq6A4YxD6nOH64Eyr6nuw</dct:identifier>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:identifier>mar_go_am_se</dct:identifier>
+        <dct:description xml:lang="en">Gross weight of goods transported to/from main ports - Sweden</dct:description>
+        <dct:title xml:lang="en">Gross weight of goods transported to/from main ports - Sweden</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A fő kikötőkbe/kikötőkből szállított áruk bruttó tömege – Svédország</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Ollmheáchan na n-earraí a iompraítear chuig/ó na príomhchalafoirt — an tSualainn</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Peso lordo delle merci trasportate da/per i principali porti — Svezia</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Greutatea brută a mărfurilor transportate în/din porturile principale – Suedia</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Bruto teža blaga, ki se prevaža v glavna pristanišča/iz njih – Švedska</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Bruttovikt för varor som transporteras till/från huvudhamnar – Sverige</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Peso lordo delle merci trasportate da/per i principali porti — Svezia</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Peso bruto das mercadorias transportadas de/para os principais portos — Suécia</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Hrubá hmotnosť tovaru prepravovaného do/z hlavných prístavov – Švédsko</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Bruto masa robe koja se prevozi u glavne luke ili iz njih – Švedska</dct:title>
+        <dct:title xml:lang="fr">Poids brut des marchandises transportées, sorties/entrées des principaux ports - Suède</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Bruto masa robe koja se prevozi u glavne luke ili iz njih – Švedska</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A fő kikötőkbe/kikötőkből szállított áruk bruttó tömege – Svédország</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Põhisadamatesse/peamistest sadamatest veetud kaupade brutokaal – Rootsi</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Peso bruto de las mercancías transportadas hacia/desde los principales puertos — Suecia</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/e29adc0c-7e32-406e-b951-47523fa2b775">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/3ab7caf6-62f4-4dd4-8ebb-0ae2b9fc4960">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Bendrasis krovinių, vežamų į pagrindinius uostus ir iš jų, svoris – Švedija</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Brutogewicht van de goederen die naar/van de belangrijkste havens worden vervoerd — Zweden</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Uz/no galvenajām ostām pārvadāto preču bruto svars — Zviedrija</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Брутно тегло на стоките, транспортирани до/от основните пристанища — Швеция</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/68dd09d3-60d3-4355-8d57-abe1c02b4268">
+            <dct:title xml:lang="de">Bruttogewicht der nach/aus Haupthäfen umgeschlagenen Güter - Schweden</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4a3825e1-034e-4313-b3e9-cb76ed558953</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/mar_go_am_se.tsv.gz&amp;unzip=true"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Gross weight of goods transported to/from main ports - Sweden</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Poids brut des marchandises transportées, sorties/entrées des principaux ports - Suède</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Masa brutto towarów przewożonych do/z głównych portów – Szwecja</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Hrubá hmotnosť tovaru prepravovaného do/z hlavných prístavov – Švédsko</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Bruto teža blaga, ki se prevaža v glavna pristanišča/iz njih – Švedska</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fa6709c4-ecaf-4ee0-8462-797debd45767">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Poids brut des marchandises transportées, sorties/entrées des principaux ports - Suède</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/467d6bdf-57f2-45ed-b29d-5f1d83823ba3</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/mar_go_am_se.tsv.gz"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="de">Bruttogewicht der nach/aus Haupthäfen umgeschlagenen Güter - Schweden</dct:title>
+            <dct:title xml:lang="en">Gross weight of goods transported to/from main ports - Sweden</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Masa brutto towarów przewożonych do/z głównych portów – Szwecja</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Валова вага вантажів, що перевозяться в/з основних портів - Швеція</dct:title>
+        <dct:title xml:lang="de">Bruttogewicht der nach/aus Haupthäfen umgeschlagenen Güter - Schweden</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

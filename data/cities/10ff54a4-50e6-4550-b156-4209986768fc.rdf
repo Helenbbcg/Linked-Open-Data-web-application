@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/10ff54a4-50e6-4550-b156-4209986768fc">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-11-13T23:47:39Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>c12e2ddf3122b8a13ed7b368db5b4fbc</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/10ff54a4-50e6-4550-b156-4209986768fc">
+        <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje lokacije bazenov v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, vrsti, imenu, prevozniku, dostopnosti, delovnem času in kontaktnih podatkih. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 365 dni Ta nabor podatkov vključuje lokacije bazenov v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, vrsti, imenu, prevozniku, dostopnosti, delovnem času in kontaktnih podatkih. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 365 dni Ta nabor podatkov vključuje lokacije bazenov v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, vrsti, imenu, prevozniku, dostopnosti, delovnem času in kontaktnih podatkih.
+Viri se običajno posodabljajo v naslednjih časovnih presledkih:
+365 dni</dct:description>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b9fbd726-0a8c-4206-a3c9-81ed4762c041">
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >8487</dcat:byteSize>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.json"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-15T11:59:43</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >5b247975e0524bfd0d60a4866dbb9caa485250c478437b8b950839bc64a5a79b</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/166fc6d6-0c96-46b2-8fe4-68b4311bbee0</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.json"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet tartalmazza a Hanza és University City of Rostock uszodáinak helyszíneit, a címre, típusra, névre, szállítóra, hozzáférhetőségre, nyitvatartási időre és elérhetőségre vonatkozó információkkal. Az erőforrásokat általában a következő időközönként frissítik: 365 nap</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zestaw danych obejmuje lokalizacje basenów w Hanzeatyce i University City of Rostock z informacjami na temat adresu, rodzaju, nazwy, przewoźnika, dostępności, godzin otwarcia i danych kontaktowych. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 365 dni</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima baseinų vietas Hanzos ir universiteto Rostoko mieste su informacija apie adresą, tipą, pavadinimą, vežėją, prieinamumą, darbo valandas ir kontaktinius duomenis. Ištekliai paprastai atnaujinami tokiais intervalais: 365 dienos</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include locațiile piscinelor din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, tipul, numele, transportatorul, accesibilitatea, programul de funcționare și datele de contact. Resursele sunt, de obicei, actualizate la următoarele intervale: 365 de zile</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye las ubicaciones de las piscinas en la Ciudad Hanseática y Universitaria de Rostock con información sobre dirección, tipo, nombre, transportista, accesibilidad, horario de apertura y datos de contacto. Por lo general, los recursos se actualizan en los siguientes intervalos: 365 días</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver Hanzas un Rostokas Universitātes peldbaseinu atrašanās vietas ar informāciju par adresi, veidu, nosaukumu, pārvadātāju, pieejamību, darba laiku un kontaktinformāciju. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 365 dienas</dct:description>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes the locations of the swimming pools in the Hanseatic and University City of Rostock with information on address, type, name, carrier, accessibility, opening hours and contact details. The resources are usually updated at the following intervals: 365 days</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui as localizações das piscinas no Hanseatic e na Cidade Universitária de Rostock com informações sobre endereço, tipo, nome, transportador, acessibilidade, horário de funcionamento e pormenores de contato. Os recursos são geralmente atualizados nos seguintes intervalos: 365 dias</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dcat:keyword>sportanlage</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει τις τοποθεσίες των πισινών στο Hanseatic και University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, τον τύπο, το όνομα, τον μεταφορέα, την προσβασιμότητα, τις ώρες λειτουργίας και τα στοιχεία επικοινωνίας. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 365 ημέρες</dct:description>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna datauppsättning inkluderar platser för simbassängerna i Hanseatic och University City of Rostock med information om adress, typ, namn, bärare, tillgänglighet, öppettider och kontaktuppgifter. Resurserna uppdateras vanligtvis med följande intervall: 365 dagar</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/87b4bf60-56ef-4d5c-b962-6a2bd4956232">
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.kml"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/6940ea14-2c5e-4395-baeb-1e84dd960640</dct:identifier>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >14802</dcat:byteSize>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-15T11:59:43</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >742633581deacaf20228f390f05ae268d8dd5aba36f53ebaec0d3efa18442b78</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.kml"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>badeanstalt</dcat:keyword>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jinkludi l-postijiet tal-pixxini fil-Hanseatic u l-Belt Universitarja ta’ Rostock b’informazzjoni dwar l-indirizz, it-tip, l-isem, it-trasportatur, l-aċċessibbiltà, il-ħinijiet tal-ftuħ u d-dettalji ta’ kuntatt. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 365 ġurnata</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter placeringen af svømmebassinerne i Hansestaden og University City of Rostock med oplysninger om adresse, type, navn, transportør, tilgængelighed, åbningstider og kontaktoplysninger. Ressourcerne opdateres normalt med følgende intervaller: 365 dage</dct:description>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:title>Schwimmbäder</dct:title>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les emplacements des piscines dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, le type, le nom, le support, l’accessibilité, les heures d’ouverture et les coordonnées. Les ressources sont généralement mises à jour à l’intervalle suivant: 365 jours</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cd68f0ff-f7f2-4f51-8511-145dde033398">
+            <dct:description xml:lang="es-t-de-t0-mtec">Estos datos incluyen la ubicación de las piscinas en la Ciudad Hanseática y Universitaria de Rostock con información sobre dirección, tipo, designación, horario de apertura y datos de contacto.</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Disse data omfatter placeringen af svømmebassinerne i Hansestaden og University City of Rostock med oplysninger om adresse, type, betegnelse, åbningstider og kontaktoplysninger.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тези данни включват местоположението на плувните басейни в ханзейския и университетския град Рощок с информация за адрес, вид, обозначение, работно време и данни за контакт.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ti podatki vključujejo lokacije bazenov v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, vrsti, določitvi, delovnem času in kontaktnih podatkih.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šie dati ietver peldbaseinu atrašanās vietas Hanzas un Rostokas Universitātes pilsētā ar informāciju par adresi, veidu, apzīmējumu, darba laiku un kontaktinformāciju.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">These data include the locations of the swimming pools in the Hanseatic and University City of Rostock with information on address, type, designation, opening hours and contact details.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">I measc na sonraí seo tá láithreacha na linnte snámha sa Hanseatic agus i gCathair Rostock na hOllscoile le heolas faoi sheoladh, cineál, ainmniú, uaireanta oscailte agus sonraí teagmhála.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Need andmed hõlmavad basseinide asukohti Hanseatic ja University of Rostock koos aadressi, tüübi, nimetuse, lahtiolekuaegade ja kontaktandmetega.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Aceste date includ locațiile piscinelor din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, tipul, denumirea, programul de funcționare și datele de contact.</dct:description>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Tieto údaje zahŕňajú umiestnenie bazénov v Hanseatic a University City of Rostock s informáciami o adrese, type, označení, otváracích hodinách a kontaktných údajoch.</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevens omvatten de locaties van de zwembaden in de Hanze- en Universiteitsstad Rostock met informatie over adres, type, aanwijzing, openingstijden en contactgegevens.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dct:description>Diese Daten umfassen die Standorte der Schwimmbäder in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Art, Bezeichnung, Öffnungszeiten und Kontaktdaten.</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din id-data tinkludi l-postijiet tal-pixxini fil-Hanseatic u l-Belt Universitarja ta’ Rostock b’informazzjoni dwar l-indirizz, it-tip, id-deżinjazzjoni, il-ħinijiet tal-ftuħ u d-dettalji ta’ kuntatt.</dct:description>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-09T11:43:49</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:description xml:lang="el-t-de-t0-mtec">Τα στοιχεία αυτά περιλαμβάνουν τις τοποθεσίες των πισινών στο Hanseatic και το University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, τον τύπο, την ονομασία, τις ώρες λειτουργίας και τα στοιχεία επικοινωνίας.</dct:description>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/cabbddbe-75c3-4c63-a67a-be096cf6e259</dct:identifier>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šie duomenys apima baseinų vietas Hanzos ir universiteto Rostoko mieste su informacija apie adresą, tipą, paskyrimą, darbo valandas ir kontaktinius duomenis.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Nämä tiedot sisältävät sijainnit uima-altaat Hanseatic ja University City of Rostock tiedot osoite, tyyppi, nimitys, aukioloajat ja yhteystiedot.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Dane te obejmują lokalizację basenów w Hanzeatyce i University City of Rostock z informacjami na temat adresu, rodzaju, wyznaczenia, godzin otwarcia i danych kontaktowych.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ezek az adatok tartalmazzák a Hanza és University City of Rostock uszodáinak elhelyezkedését, a címre, típusra, megnevezésre, nyitva tartásra és elérhetőségre vonatkozó információkkal.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questi dati includono l'ubicazione delle piscine nella città anseatica e universitaria di Rostock con informazioni su indirizzo, tipo, designazione, orari di apertura e dettagli di contatto.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ti podaci uključuju lokacije bazena u Hanseatic i University City of Rostock s informacijama o adresi, vrsti, nazivu, radnom vremenu i podacima za kontakt.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Ces données comprennent l’emplacement des piscines dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, le type, le nom, les heures d’ouverture et les coordonnées.</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-govserv-natatoria/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Dessa uppgifter inkluderar platser för simbassängerna i Hanseatic och University City of Rostock med information om adress, typ, beteckning, öppettider och kontaktuppgifter.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tyto údaje zahrnují umístění bazénů v hanzovním a univerzitním městě Rostock s informacemi o adrese, typu, označení, otevírací době a kontaktních údajích.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Estes dados incluem a localização das piscinas na cidade hanseática e universitária de Rostock com informações sobre endereço, tipo, designação, horário de funcionamento e pormenores de contato.</dct:description>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ed458862-3b50-49bd-8b40-a21c7db553ce">
+            <dct:description xml:lang="ro-t-de-t0-mtec">Această hartă include locațiile piscinelor din orașul Hanseatic și Universitatea din Rostock.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-09T11:43:49</dct:issued>
+            <dct:description>Diese Karte umfasst die Standorte der Schwimmbäder in der Hanse- und Universitätsstadt Rostock.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šis žemėlapis apima baseinai vietas Hanzos ir universiteto miesto Rostoko.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa mappa include le posizioni delle piscine nella città anseatica e universitaria di Rostock.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Táto mapa obsahuje umiestnenie bazénov v Hanseatic a University City of Rostock.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez a térkép tartalmazza az uszodák helyszíneit a Hanseaticában és a University City of Rostockban.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">See kaart sisaldab asukohti basseinid Hanseatic ja University City of Rostock.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Denna karta inkluderar placeringarna av poolerna i Hanseatic och University City of Rostock.</dct:description>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτός ο χάρτης περιλαμβάνει τις θέσεις των πισινών στο Hanseatic και University City του Rostock.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette kort omfatter placeringen af svømmebassinerne i Hansestaden og University City of Rostock.</dct:description>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din il-mappa tinkludi l-postijiet tal-pixxini fil-Hanseatic u l-Belt Universitarja ta’ Rostock.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tato mapa zahrnuje umístění bazénů v hanzovním a univerzitním městě Rostock.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ta zemljevid vključuje lokacije bazenov v Hanseatic in University City Rostock.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze kaart bevat de locaties van de zwembaden in de Hanzestad en de Universiteitsstad Rostock.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear ar an léarscáil seo suíomhanna na linnte snámha sa Hanseatic agus i gCathair na hOllscoile, Rostock.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este mapa inclui as localizações das piscinas na cidade hanseática e universitária de Rostock.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/69bdba6c-723d-4a18-b78e-0e506bdb56b1</dct:identifier>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tämä kartta sisältää sijainnit uima-altaat Hanseatic ja University City of Rostock.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This map includes the locations of the swimming pools in the Hanseatic and University City of Rostock.</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā kartē iekļautas Hanzas un Rostokas Universitātes peldbaseinu atrašanās vietas.</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Karta uključuje lokacije bazena u Hanseatic i University City of Rostock.</dct:description>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-govserv-natatoria/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тази карта включва местоположението на плувните басейни в ханзейския и университетския град Рощок.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este mapa incluye la ubicación de las piscinas en la Ciudad Hanseática y Universitaria de Rostock.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cette carte comprend les emplacements des piscines dans la ville hanséatique et universitaire de Rostock.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Mapa ta zawiera lokalizacje basenów w Hanzeatyce i University City of Rostock.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje lokacije bazena u Hanseatic i University City of Rostock s informacijama o adresi, vrsti, imenu, prijevozniku, dostupnosti, radnom vremenu i podacima za kontakt. Resursi se obično ažuriraju u sljedećim intervalima: 365 dana</dct:description>
+        <dcat:keyword>freizeitbereich</dcat:keyword>
+        <dcat:keyword>freizeitnutzung</dcat:keyword>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä aineisto sisältää sijainnit uima-altaat Hanseatic ja University City of Rostock tiedot osoite, tyyppi, nimi, operaattori, saavutettavuus, aukioloajat ja yhteystiedot. Resursseja päivitetään yleensä seuraavin väliajoin: 365 päivää</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bf1c46b7-5c0a-482b-b67d-58508adf7ce6">
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >ebd7b81a4be847d7582f10cd60960c4b0bac5771c04c985729e48e72498d3a29</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/2ab4ae07-5ac9-477c-9cc1-e5171f0b87a</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >17410</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.gml"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.gml"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-15T11:59:43</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Schulverwaltungsamt</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum sisaldab asukohti basseinid Hanseatic ja University City of Rostock teavet aadress, tüüp, nimi, vedaja, juurdepääsetavus, lahtiolekuajad ja kontaktandmed. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 365 päeva</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+        <dcat:keyword>sport</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword>freizeit</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:34:26.441648</dct:modified>
+        <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+        <dct:accessRights>public</dct:accessRights>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati include le posizioni delle piscine nella città anseatica e universitaria di Rostock con informazioni su indirizzo, tipo, nome, vettore, accessibilità, orari di apertura e dettagli di contatto. Le risorse sono solitamente aggiornate ai seguenti intervalli: 365 giorni</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ebe2b51e-79da-4b42-a36d-2f1b37fcd84e">
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >b54380ca6324481752b6e226a19fa5d83ef3f42cfe9a4000cbf3d332ce41c4a9</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.xlsx"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >5423</dcat:byteSize>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.xlsx"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-15T11:59:43</dct:issued>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/9add7357-c188-4bc3-985a-71fc032fd93f</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/da1d8cfc-f8b9-44ec-9b92-1ac9dd88e45e">
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-15T11:59:43</dct:issued>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >42fbcb7c0c492fd84353f92edf07ec9e6154837918423b26378c5828bb185eda</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >4308</dcat:byteSize>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <dct:title>Schwimmbäder</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.csv"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/2c5ff897-448d-44f7-af53-c1c54aff147b</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/schwimmbaeder/schwimmbaeder.csv"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear sa tacar sonraí seo suíomhanna na linnte snámha i gCathair Rostock Hanseatic agus Ollscoile le heolas faoi sheoladh, cineál, ainm, iompróir, inrochtaineacht, uaireanta oscailte agus sonraí teagmhála. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 365 lá</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de locaties van de zwembaden in de Hanzestad Rostock met informatie over adres, type, naam, drager, bereikbaarheid, openingstijden en contactgegevens. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 365 dagen</dct:description>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje umístění bazénů v hanzovním a univerzitním městě Rostock s informacemi o adrese, typu, názvu, nosiči, přístupnosti, otevírací době a kontaktních údajích. Zdroje se obvykle aktualizují v následujících intervalech: 365 dní</dct:description>
+        <dct:identifier>10ff54a4-50e6-4550-b156-4209986768fc</dct:identifier>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва местоположението на плувните басейни в ханзейския и университетския град Рощок с информация за адрес, вид, име, превозвач, достъпност, работно време и данни за контакт. Ресурсите обикновено се актуализират на следните интервали: 365 дни</dct:description>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa umiestnenie bazénov v Hanseatic a University City of Rostock s informáciami o adrese, type, názve, nosiči, prístupnosti, otváracích hodinách a kontaktných údajoch. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 365 dní</dct:description>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7fea4fd3-7397-4edc-adec-8f68c773bd93">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/schwimmbaeder/wms"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/d5f05d24-ec60-432f-8484-c36010fb7d68</dct:identifier>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2014-09-15T11:59:43</dct:issued>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Schwimmbäder in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Art, Bezeichnung, Träger, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/58847523-8494-4036-8ed6-18701c92fc56">
+            <dct:title xml:lang="mt-t-de-t0-mtec">Pixxini għall-għawm</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Baseny</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Úszómedence</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Piscinas</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Linnte snámha</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Piscinas y piscinas</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Piscines et piscines</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-13T13:07:26</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Svømmebassiner</dct:title>
+            <dct:title>Schwimmbäder</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zwembaden</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/10ff54a4-50e6-4550-b156-4209986768fc/resource/1aa802ab-c56b-483d-bc2a-cd8889d5dbc0</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ujumisbasseinid</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Baseinai</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Peldbaseini</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Simbassänger</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/schwimmbaeder/wfs"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Bazény</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Bazeni</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Басейни</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Piscine</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Πισίνες</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Uima-altaat</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Swimming pools</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:28Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:17Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:42:34Z</edp:transReceived>
+    <dct:identifier>10ff54a4-50e6-4550-b156-4209986768fc</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/10ff54a4-50e6-4550-b156-4209986768fc"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

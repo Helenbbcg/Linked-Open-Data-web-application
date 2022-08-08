@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcatap="http://data.europa.eu/r5r/"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:j.0="http://entryscape.com/terms/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/https-pxexternal-energimyndigheten-se-dataset-57">
+    <edp:originalLanguage>sv</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/https-pxexternal-energimyndigheten-se-dataset-57">
+        <dct:publisher>
+          <foaf:Agent rdf:about="https://pxexternal.energimyndigheten.se/publisher">
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+            <foaf:homepage rdf:resource="https://www.energimyndigheten.se/"/>
+            <foaf:name>Statens Energimyndighet</foaf:name>
+            <foaf:name xml:lang="en">Swedish energy agency</foaf:name>
+          </foaf:Agent>
+        </dct:publisher>
+        <dct:description xml:lang="fi-t-sv-t0-mtec">”Eri energiatuotteiden lämpöarvot”</dct:description>
+        <dcat:distribution>
+          <j.0:ServiceDistribution rdf:about="http://data.europa.eu/88u/distribution/677ca9e6-a46e-40eb-bc2c-9fe721e38e3b">
+            <dct:title xml:lang="da-t-sv-t0-mtec">Dataservice med information på svensk</dct:title>
+            <dct:title xml:lang="pt-t-sv-t0-mtec">Serviço de dados com informações em sueco</dct:title>
+            <dct:title xml:lang="cs-t-sv-t0-mtec">Datová služba s informacemi ve švédštině</dct:title>
+            <dct:title xml:lang="el-t-sv-t0-mtec">Υπηρεσία δεδομένων με πληροφορίες στα σουηδικά</dct:title>
+            <dct:title xml:lang="nl-t-sv-t0-mtec">Data service met informatie in het Zweeds</dct:title>
+            <dcat:accessService rdf:resource="https://pxexternal.energimyndigheten.se/distribution/dataservice/57"/>
+            <dct:title xml:lang="hu-t-sv-t0-mtec">Adatszolgáltatás svéd nyelven</dct:title>
+            <dct:title xml:lang="de-t-sv-t0-mtec">Datendienst mit Informationen auf Schwedisch</dct:title>
+            <dct:title xml:lang="uk-t-sv-t0-mtec">Служба даних з інформацією шведською мовою</dct:title>
+            <dct:title xml:lang="hr-t-sv-t0-mtec">Podatkovna usluga s informacijama na švedskom</dct:title>
+            <dct:title xml:lang="lt-t-sv-t0-mtec">Duomenų paslauga su informacija švedų kalba</dct:title>
+            <dcatap:availability rdf:resource="http://data.europa.eu/r5r/availability/stable"/>
+            <dct:title xml:lang="fr-t-sv-t0-mtec">Service de données avec des informations en suédois</dct:title>
+            <dct:title xml:lang="pl-t-sv-t0-mtec">Serwis danych z informacjami w języku szwedzkim</dct:title>
+            <dct:title xml:lang="lv-t-sv-t0-mtec">Datu pakalpojums ar informāciju zviedru valodā</dct:title>
+            <dct:title xml:lang="es-t-sv-t0-mtec">Servicio de datos con información en sueco</dct:title>
+            <dct:title xml:lang="ro-t-sv-t0-mtec">Serviciul de date cu informații în limba suedeză</dct:title>
+            <dct:title xml:lang="en">Data service with information in Swedish</dct:title>
+            <dct:title xml:lang="et-t-sv-t0-mtec">Andmeteenus infoga rootsi keeles</dct:title>
+            <dcat:accessURL rdf:resource="https://pxexternal.energimyndigheten.se/api/v1/sv/V%C3%A4rmev%C3%A4rden%20och%20densitet/Varmevarden.xlsx.px"/>
+            <dct:title xml:lang="sk-t-sv-t0-mtec">Dátová služba s informáciami vo švédčine</dct:title>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dct:title xml:lang="ga-t-sv-t0-mtec">Seirbhís sonraí le faisnéis i Sualainnis</dct:title>
+            <dct:format>application/json</dct:format>
+            <dct:title xml:lang="mt-t-sv-t0-mtec">Servizz tad-dejta b’informazzjoni bl-Iżvediż</dct:title>
+            <dct:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SWE"/>
+            <foaf:page rdf:resource="http://www.energimyndigheten.se/statistik/den-officiella-statistiken/"/>
+            <dct:title xml:lang="sv">Datatjänst med information på svenska</dct:title>
+            <dct:title xml:lang="bg-t-sv-t0-mtec">Услуга за данни с информация на шведски език</dct:title>
+            <dct:identifier>https://pxexternal.energimyndigheten.se/distribution/57sv</dct:identifier>
+            <dct:title xml:lang="fi-t-sv-t0-mtec">Tietopalvelu ruotsiksi</dct:title>
+            <dct:title xml:lang="it-t-sv-t0-mtec">Servizio dati con informazioni in svedese</dct:title>
+            <dct:title xml:lang="sl-t-sv-t0-mtec">Podatkovna storitev z informacijami v švedščini</dct:title>
+          </j.0:ServiceDistribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-sv-t0-mtec">«Los valores caloríficos de los diferentes bienes energéticos»</dct:title>
+        <dct:title xml:lang="da-t-sv-t0-mtec">"De forskellige energiprodukters brændværdi"</dct:title>
+        <dct:title xml:lang="ro-t-sv-t0-mtec">„Valorile calorifice ale diferitelor bunuri energetice”</dct:title>
+        <dct:title xml:lang="sk-t-sv-t0-mtec">„Výhrevné hodnoty rôznych energetických tovarov“</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="nl-t-sv-t0-mtec">„De calorische waarden van verschillende energiegoederen”</dct:title>
+        <dct:description xml:lang="hr-t-sv-t0-mtec">„Kalorične vrijednosti različitih energetskih dobara”</dct:description>
+        <dct:title xml:lang="fr-t-sv-t0-mtec">«Les valeurs calorifiques des différents biens énergétiques»</dct:title>
+        <dct:description xml:lang="bg-t-sv-t0-mtec">„Калоричността на различните енергийни стоки“</dct:description>
+        <dct:title xml:lang="fi-t-sv-t0-mtec">”Eri energiatuotteiden lämpöarvot”</dct:title>
+        <dct:description xml:lang="fr-t-sv-t0-mtec">«Les valeurs calorifiques des différents biens énergétiques»</dct:description>
+        <dcat:landingPage rdf:resource="https://pxexternal.energimyndigheten.se/pxweb/sv/V%C3%A4rmev%C3%A4rden%20och%20densitet/-/Varmevarden.xlsx.px"/>
+        <dct:description xml:lang="et-t-sv-t0-mtec">„Eri energiatoodete kütteväärtused“</dct:description>
+        <dct:description xml:lang="mt-t-sv-t0-mtec">“Il-valuri kalorifiċi ta’ oġġetti tal-enerġija differenti”</dct:description>
+        <dct:description xml:lang="uk-t-sv-t0-mtec">«Калорійні значення різних енергетичних товарів»</dct:description>
+        <dct:description xml:lang="ga-t-sv-t0-mtec">“Luachanna calracha earraí fuinnimh éagsúla”</dct:description>
+        <dct:title xml:lang="ga-t-sv-t0-mtec">“Luachanna calracha earraí fuinnimh éagsúla”</dct:title>
+        <dct:description xml:lang="el-t-sv-t0-mtec">«Η θερμογόνος δύναμη των διαφόρων ενεργειακών αγαθών»</dct:description>
+        <dct:title xml:lang="hr-t-sv-t0-mtec">„Kalorične vrijednosti različitih energetskih dobara”</dct:title>
+        <dct:title xml:lang="bg-t-sv-t0-mtec">„Калоричността на различните енергийни стоки“</dct:title>
+        <dct:title xml:lang="lt-t-sv-t0-mtec">„Skirtingų energijos prekių šilumingumo vertės“</dct:title>
+        <dcat:keyword> </dcat:keyword>
+        <dct:description xml:lang="nl-t-sv-t0-mtec">„De calorische waarden van verschillende energiegoederen”</dct:description>
+        <dct:title xml:lang="it-t-sv-t0-mtec">"I valori calorifici dei diversi beni energetici"</dct:title>
+        <dct:title xml:lang="en-t-sv-t0-mtec">“The calorific values of different energy goods”</dct:title>
+        <dct:description xml:lang="ro-t-sv-t0-mtec">„Valorile calorifice ale diferitelor bunuri energetice”</dct:description>
+        <dct:title xml:lang="sv">"Värmevärden för olika energivaror"</dct:title>
+        <dct:description xml:lang="it-t-sv-t0-mtec">"I valori calorifici dei diversi beni energetici"</dct:description>
+        <j.0:servedByDataService rdf:resource="https://pxexternal.energimyndigheten.se/distribution/dataservice/57"/>
+        <dcat:keyword>Statens Energimyndighet</dcat:keyword>
+        <dct:description xml:lang="lv-t-sv-t0-mtec">“Dažādu energoproduktu siltumietilpība”</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-04-17</dct:modified>
+        <dct:description xml:lang="cs-t-sv-t0-mtec">„Výhřevnost různých energetických statků“</dct:description>
+        <dct:description xml:lang="pt-t-sv-t0-mtec">«Os valores caloríficos dos diferentes haveres energéticos»</dct:description>
+        <dct:title xml:lang="hu-t-sv-t0-mtec">„A különböző energiahordozók fűtőértékei”</dct:title>
+        <dct:title xml:lang="sl-t-sv-t0-mtec">„Kalorične vrednosti različnih energentov“</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:description xml:lang="sl-t-sv-t0-mtec">„Kalorične vrednosti različnih energentov“</dct:description>
+        <dct:title xml:lang="cs-t-sv-t0-mtec">„Výhřevnost různých energetických statků“</dct:title>
+        <dct:description xml:lang="de-t-sv-t0-mtec">„Die Heizwerte verschiedener Energiegüter“</dct:description>
+        <dct:description xml:lang="hu-t-sv-t0-mtec">„A különböző energiahordozók fűtőértékei”</dct:description>
+        <dcat:contactPoint>
+          <vcard:Individual rdf:about="https://pxexternal.energimyndigheten.se/contact/3">
+            <vcard:fn>Johan Harrysson</vcard:fn>
+            <vcard:hasTelephone rdf:resource="https://pxexternal.energimyndigheten.se/contact/3/phone"/>
+            <vcard:hasEmail rdf:resource="mailto:johan.harrysson@energimyndigheten.se"/>
+          </vcard:Individual>
+        </dcat:contactPoint>
+        <dct:title xml:lang="uk-t-sv-t0-mtec">«Калорійні значення різних енергетичних товарів»</dct:title>
+        <dct:description xml:lang="sv">"Värmevärden för olika energivaror"</dct:description>
+        <dct:title xml:lang="de-t-sv-t0-mtec">„Die Heizwerte verschiedener Energiegüter“</dct:title>
+        <dct:description xml:lang="lt-t-sv-t0-mtec">„Skirtingų energijos prekių šilumingumo vertės“</dct:description>
+        <dct:title xml:lang="el-t-sv-t0-mtec">«Η θερμογόνος δύναμη των διαφόρων ενεργειακών αγαθών»</dct:title>
+        <dct:description xml:lang="pl-t-sv-t0-mtec">„Wartości opałowe różnych towarów energetycznych”</dct:description>
+        <dct:title xml:lang="pt-t-sv-t0-mtec">«Os valores caloríficos dos diferentes haveres energéticos»</dct:title>
+        <dct:description xml:lang="sk-t-sv-t0-mtec">„Výhrevné hodnoty rôznych energetických tovarov“</dct:description>
+        <dct:title xml:lang="et-t-sv-t0-mtec">„Eri energiatoodete kütteväärtused“</dct:title>
+        <dct:identifier>Värmevärden</dct:identifier>
+        <dct:title xml:lang="mt-t-sv-t0-mtec">“Il-valuri kalorifiċi ta’ oġġetti tal-enerġija differenti”</dct:title>
+        <rdf:type rdf:resource="http://entryscape.com/terms/ServedByDataService"/>
+        <dct:description xml:lang="en-t-sv-t0-mtec">“The calorific values of different energy goods”</dct:description>
+        <dct:description xml:lang="da-t-sv-t0-mtec">"De forskellige energiprodukters brændværdi"</dct:description>
+        <dct:title xml:lang="lv-t-sv-t0-mtec">“Dažādu energoproduktu siltumietilpība”</dct:title>
+        <dct:title xml:lang="pl-t-sv-t0-mtec">„Wartości opałowe różnych towarów energetycznych”</dct:title>
+        <dct:description xml:lang="es-t-sv-t0-mtec">«Los valores caloríficos de los diferentes bienes energéticos»</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-01T04:30:27Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-02T04:30:25Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/https-pxexternal-energimyndigheten-se-dataset-57"/>
+    <dct:identifier>https://pxexternal.energimyndigheten.se/dataset/57</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-05T14:13:13Z</edp:transReceived>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>6d4e0a751b79d02a71d3409123042d03</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-05-20T04:30:24Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

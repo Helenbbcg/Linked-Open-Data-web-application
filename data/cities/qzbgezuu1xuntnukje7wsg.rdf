@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/qzbgezuu1xuntnukje7wsg">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:02:06Z</dct:issued>
+    <dct:identifier>qZbgEzUU1XUNTnUKje7wsg</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:04:10Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:04:10Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/qzbgezuu1xuntnukje7wsg"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/qzbgezuu1xuntnukje7wsg">
+        <dct:title xml:lang="sv-t-en-t0-mtec">Kreditflöde från den privata sektorn: skuldebrev per sektor, icke-konsoliderade – miljoner enheter i nationell valuta Kreditflöde från den privata sektorn:
+skuldebrev per sektor, icke-konsoliderade – miljoner enheter i nationell valuta</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Кредитен поток от частния сектор: дългови ценни книжа по сектори, неконсолидирани — млн. единици от националната валута</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Tabulka uvádí čistý tok dluhových cenných papírů (F.3) pro sektory nefinančních korporací (S.11), domácnosti (S.14) a neziskové instituce sloužící domácnostem (S.15). Dluhové cenné papíry jsou obchodovatelnými finančními nástroji, které slouží jako důkaz o dluhu. Údaje jsou prezentovány v nekonsolidovaném vyjádření, tj. údaje zohledňují transakce v rámci téhož sektoru a jsou vyjádřeny v milionech jednotek národní měny. Definice týkající se odvětví a nástrojů vycházejí z ESA 2010.</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Fluxo de crédito do setor privado: títulos de dívida por setores, não consolidados — milhões de unidades da moeda nacional Fluxo de crédito do setor privado:
+títulos de dívida por setores, não consolidados — milhões de unidades da moeda nacional</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc14">
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc14</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qzbgezuu1xuntnukje7wsg"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc14</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="sk-t-en-t0-mtec">V tabuľke sa uvádza čistý tok dlhových cenných papierov (F.3) pre sektory Nefinančné korporácie (S.11), domácnosti (S.14) a neziskové inštitúcie slúžiace domácnostiam (S.15). Dlhové cenné papiere sú obchodovateľné finančné nástroje, ktoré slúžia ako dôkaz dlhu. Údaje sú prezentované v nekonsolidovanom vyjadrení, t. j. údaje zohľadňujú transakcie v rámci toho istého sektora a sú vyjadrené v miliónoch jednotiek národnej meny. Definície týkajúce sa sektorov a nástrojov sú založené na ESA 2010.</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Tabelul prezintă fluxul net al titlurilor de natura datoriei (F.3) pentru sectoarele Societăți nefinanciare (S.11), gospodării (S.14) și instituții fără scop lucrativ în serviciul gospodăriilor populației (S.15). Titlurile de creanță sunt instrumente financiare negociabile care servesc drept dovadă a datoriei. Datele sunt prezentate în termeni neconsolidați, adică datele iau în considerare tranzacțiile din același sector și sunt exprimate în milioane de unități de monedă națională. Definițiile privind sectoarele și instrumentele se bazează pe SEC 2010.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0829f793-1e22-4473-9188-a2e51933ae98">
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="en">Map</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&amp;init=1&amp;plugin=1&amp;language=en&amp;pcode=tipspc14"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="de">Karte</dct:title>
+            <dct:title xml:lang="fr">Carte</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c00389aa-da47-4e31-9e82-5a25d0be770b</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="fr">Le tableau présente le flux net des titres de créance (F.3) pour les secteurs des sociétés non financières (S.11), des ménages (S.14) et des institutions sans but lucratif au service des ménages (S.15). Les titres de créances sont des instruments financiers négociables qui constituent la preuve d'une dette. Les données sont présentées en termes non consolidés, c'est-à-dire qu'elles tiennent compte des opérations effectuées entre unités d'un même secteur, et sont exprimées en millions d'unités monétaires nationales. Les concepts utilisés pour la définition des secteurs et des instruments sont conformes au SEC 2010.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-21</dct:modified>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Кредитний потік приватного сектора: боргові цінні папери за секторами, неконсолідовані - мільйон одиниць національної валюти Кредитний потік приватного сектора:
+боргові цінні папери за секторами, неконсолідовані - мільйон одиниць національної валюти</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Erasektori krediidivoog: võlaväärtpaberid sektorite kaupa, konsolideerimata – miljon ühikut omavääringus</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Tabulā parādīta parāda vērtspapīru neto plūsma (F.3) sektoros Nefinanšu sabiedrības (S.11), Mājsaimniecības (S.14) un mājsaimniecības apkalpojošās Nepeļņas iestādes (S.15). Parāda vērtspapīri ir apgrozāmi finanšu instrumenti, kas kalpo kā parāda pierādījums. Dati tiek sniegti nekonsolidēti, t. i., datos ņemti vērā darījumi tajā pašā sektorā un izteikti miljonos valsts valūtas vienību. Nozaru un instrumentu definīciju pamatā ir EKS 2010.</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Lentelėje pateikiami nefinansinių bendrovių (S.11), namų ūkių (S.14) ir namų ūkiams paslaugas teikiančių ne pelno institucijų (S.15) sektorių skolos vertybinių popierių grynieji srautai (F.3). Skolos vertybiniai popieriai yra perleidžiamosios finansinės priemonės, naudojamos kaip skolos įrodymas. Duomenys pateikiami nekonsoliduotai, t. y. duomenyse atsižvelgiama į sandorius tame pačiame sektoriuje ir išreiškiami milijonais nacionalinės valiutos vienetų. Sektorių ir priemonių apibrėžtys grindžiamos 2010 m. ESS.</dct:description>
+        <dct:description xml:lang="de">Die Tabelle stellt den Nettozustrom an Schuldverschreibungen (F.3) für die Sektoren nichtfinanzielle Kapitalgesellschaften (S.11), Private Haushalte (S.14) und Organisationen ohne Erwerbszweck (S.15) dar. Schuldverschreibungen sind begebbare Finanzinstrumente, die als Schuldtitel dienen. Die Daten werden nicht konsolidiert dargestellt (d. h. Transaktionen innerhalb desselben Sektors werden berücksichtigt), und in Mio. Landeswährung. Die Definitionen der Sektoren und Instrumente stützen sich auf das ESVG 2010.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O quadro apresenta o fluxo líquido de títulos de dívida (F.3) para os setores Sociedades não financeiras (S.11), Famílias (S.14) e instituições sem fins lucrativos ao serviço das famílias (S.15). Os títulos de dívida são instrumentos financeiros negociáveis que servem de prova de dívida. Os dados são apresentados em termos não consolidados, ou seja, os dados têm em conta as transações no mesmo setor e são expressos em milhões de unidades da moeda nacional. As definições relativas a setores e instrumentos baseiam-se no SEC 2010.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Fluss ta’ kreditu tas-settur privat: titoli ta’ dejn skont is-settur, mhux konsolidati — miljun unità ta’ munita nazzjonali</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">I tabellen redovisas nettoflödet av räntebärande värdepapper (F.3) för sektorerna Icke-finansiella företag (S.11), Hushåll (S.14) och Icke-vinstdrivande institut i hushållens tjänst (S.15). Skuldebreven är överlåtbara finansiella instrument som tjänar som bevis på skuld. Uppgifterna presenteras i icke-konsoliderade termer, dvs. data tar hänsyn till transaktioner inom samma sektor och uttryckta i miljoner enheter i nationell valuta. Definitioner av sektorer och instrument grundar sig på ENS 2010.</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Kreditni tok zasebnega sektorja: dolžniški vrednostni papirji po sektorjih, nekonsolidirani – milijoni enot nacionalne valute Kreditni tok zasebnega sektorja:
+dolžniški vrednostni papirji po sektorjih, nekonsolidirani – milijoni enot nacionalne valute</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">De tabel geeft de nettostroom van schuldbewijzen (F.3) weer voor de sectoren Niet-financiële vennootschappen (S.11), huishoudens (S.14) en instellingen zonder winstoogmerk ten behoeve van huishoudens (S.15). De schuldbewijzen zijn verhandelbare financiële instrumenten die dienen als bewijs van schuld. De gegevens worden gepresenteerd in niet-geconsolideerde termen, d.w.z. gegevens houden rekening met transacties binnen dezelfde sector en uitgedrukt in miljoenen eenheden van nationale valuta. Definities met betrekking tot sectoren en instrumenten zijn gebaseerd op het ESR 2010.</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">W tabeli przedstawiono przepływ netto dłużnych papierów wartościowych (F.3) dla sektorów przedsiębiorstw niefinansowych (S.11), gospodarstw domowych (S.14) i instytucji non-profit obsługujących gospodarstwa domowe (S.15). Dłużne papiery wartościowe są zbywalnymi instrumentami finansowymi służącymi jako dowód zadłużenia. Dane są prezentowane w ujęciu nieskonsolidowanym, tj. dane uwzględniają transakcje w ramach tego samego sektora i wyrażone w milionach jednostek waluty krajowej. Definicje dotyczące sektorów i instrumentów opierają się na ESA 2010.</dct:description>
+        <dct:title xml:lang="de">Kreditstrom des privaten Sektors: Schuldverschreibungen, nach Sektoren, nicht konsolidiert - Millionen Landeswährung</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">U tablici je prikazan neto tok dužničkih vrijednosnih papira (F.3) za sektore nefinancijska društva (S.11), kućanstva (S.14) i neprofitne institucije koje služe kućanstvima (S.15). Dužnički vrijednosni papiri prenosivi su financijski instrumenti koji služe kao dokaz duga. Podaci su prikazani u nekonsolidiranom smislu, tj. podaci uzimaju u obzir transakcije unutar istog sektora i izraženi su u milijunima jedinica nacionalne valute. Definicije koje se odnose na sektore i instrumente temelje se na ESA-i 2010.</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Tabellen viser nettostrømmen af gældsinstrumenter (F.3) for sektorerne Ikke-finansielle selskaber (S.11), husholdninger (S.14) og nonprofitinstitutioner rettet mod husholdninger (S.15). Gældsværdipapirerne er omsættelige finansielle instrumenter, der tjener som dokumentation for gæld. Dataene præsenteres i ikkekonsoliderede termer, dvs. data tager højde for transaktioner inden for samme sektor og udtrykt i mio. enheder i national valuta. Definitionerne vedrørende sektorer og instrumenter er baseret på ENS 2010.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Úverový tok súkromného sektora: dlhové cenné papiere podľa sektorov, nekonsolidované – mil. jednotiek národnej meny Úverový tok súkromného sektora:
+dlhové cenné papiere podľa sektorov, nekonsolidované – mil. jednotiek národnej meny</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Fluxul de credite din sectorul privat: titluri de creanță pe sectoare, neconsolidate – milioane unități din moneda națională Fluxul de credite din sectorul privat:
+titluri de creanță pe sectoare, neconsolidate – milioane unități din moneda națională</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A táblázat a hitelviszonyt megtestesítő értékpapírok nettó áramlását mutatja be (F.3) a nem pénzügyi vállalatok (S.11), a háztartásokat segítő háztartások (S.14) és a háztartásokat segítő nonprofit intézmények (S.15) szektorban. A hitelviszonyt megtestesítő értékpapírok olyan átruházható pénzügyi eszközök, amelyek az adósság bizonyítékául szolgálnak. Az adatok nem konszolidált formában kerülnek bemutatásra, azaz az adatok figyelembe veszik az ugyanazon szektoron belüli tranzakciókat, és nemzeti pénznem millió egységében fejezik ki. Az ágazatokra és eszközökre vonatkozó fogalommeghatározások az ESA 2010-en alapulnak.</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Taulukossa esitetään velkapaperien nettovirta (F.3) sektoreilla Muut kuin rahoitusyhtiöt (S.11), kotitaloudet (S.14) ja kotitalouksia palvelevat voittoa tavoittelemattomat laitokset (S.15). Velkapaperit ovat jälkimarkkinakelpoisia rahoitusvälineitä, jotka toimivat todisteena velasta. Tiedot esitetään sulauttamattomina, eli tiedoissa otetaan huomioon saman sektorin taloustoimet ja ne ilmaistaan miljoonina kansallisen valuutan yksikköinä. Aloja ja välineitä koskevat määritelmät perustuvat EKT 2010:een.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tipspc_esms.sdmx.zip">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qzbgezuu1xuntnukje7wsg"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tipspc_esms.sdmx.zip</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="es-t-en-t0-mtec">Flujo de crédito del sector privado: valores representativos de deuda por sectores, no consolidados — millones de unidades de moneda nacional Flujo de crédito del sector privado:
+valores representativos de deuda por sectores, no consolidados — millones de unidades de moneda nacional</dct:title>
+        <dct:title xml:lang="fr">Flux de crédit du secteur privé : titres de créance, par secteurs, non consolidé - millions d'unités monétaires nationales</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/qZbgEzUU1XUNTnUKje7wsg</dct:identifier>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/56"/>
+        <dct:title xml:lang="en">Private sector credit flow: debt securities by sectors, non-consolidated - million units of national currency</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Privātā sektora kredītu plūsma: nekonsolidētie parāda vērtspapīri pa sektoriem — miljoni nacionālās valūtas vienību</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Den private sektors kreditstrømme: gældsinstrumenter fordelt på sektorer, ikke-konsoliderede — mio. enheder i national valuta</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/133eaf48-d71b-416a-87a9-942163de00d3">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Tabelle</dct:title>
+            <dct:title xml:lang="fr">Tableau</dct:title>
+            <dct:title xml:lang="en">Table</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=tipspc14"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/befae549-43fc-4612-a652-8b887590027d</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-en-t0-mtec">Ο πίνακας παρουσιάζει την καθαρή ροή των χρεογράφων (F.3) για τους τομείς Μη χρηματοπιστωτικές εταιρείες (S.11), Νοικοκυριά (S.14) και Μη Κερδοσκοπικά Ιδρύματα που εξυπηρετούν νοικοκυριά (S.15). Τα χρεόγραφα είναι διαπραγματεύσιμα χρηματοπιστωτικά μέσα που χρησιμεύουν ως απόδειξη του χρέους. Τα στοιχεία παρουσιάζονται σε μη ενοποιημένους όρους, δηλαδή τα στοιχεία λαμβάνουν υπόψη τις συναλλαγές εντός του ίδιου τομέα και εκφράζονται σε εκατομμύρια μονάδες εθνικού νομίσματος. Οι ορισμοί που αφορούν τομείς και μέσα βασίζονται στο ΕΣΛ 2010.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Таблицата представя нетния поток от дългови ценни книжа (F.3) за секторите Нефинансови предприятия (S.11), Домакинства (S.14) и Нестопански институции, обслужващи домакинствата (S.15). Дълговите ценни книжа са прехвърляеми финансови инструменти, които служат като доказателство за дълг. Данните са представени в неконсолидирани термини, т.е. данните отчитат трансакциите в рамките на същия сектор и са изразени в милиони единици от националната валута. Определенията по отношение на секторите и инструментите се основават на ЕСС 2010.</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Léirítear sa tábla glansreabhadh na n-urrús fiachais (F.3) le haghaidh na n-earnálacha Corparáidí neamhairgeadais (S.11), Teaghlaigh (S.14) agus institiúidí neamhbhrabúis a fhónann do theaghlaigh (S.15). Is ionstraimí airgeadais soshannta iad na hurrúis fiachais a fhónann mar fhianaise ar fhiachas. Cuirtear na sonraí i láthair i dtéarmaí neamh-chomhdhlúite, i.e. cuirtear san áireamh sna sonraí idirbhearta laistigh den earnáil chéanna agus sloinntear iad i Milliún aonad den airgeadra náisiúnta. Tá sainmhínithe maidir le hearnálacha agus ionstraimí bunaithe ar CCE 2010.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Kreditni tok privatnog sektora: dužnički vrijednosni papiri po sektorima, nekonsolidirani – milijuna jedinica nacionalne valute</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Kredietstroom van de particuliere sector: schuldbewijzen per sector, niet-geconsolideerd — miljoen eenheden van nationale valuta Kredietstroom van de particuliere sector:
+schuldbewijzen per sector, niet-geconsolideerd — miljoen eenheden van nationale valuta</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/906fd0ac-5eec-49f3-a77f-5f9ca2e3ce84">
+            <dct:title xml:lang="fr">Flux de crédit du secteur privé : titres de créance, par secteurs, non consolidé - millions d'unités monétaires nationales</dct:title>
+            <dct:title xml:lang="de">Kreditstrom des privaten Sektors: Schuldverschreibungen, nach Sektoren, nicht konsolidiert - Millionen Landeswährung</dct:title>
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">Private sector credit flow: debt securities by sectors, non-consolidated - million units of national currency</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/0c80374e-2e93-43f7-a857-47ba524865be</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipspc14.sdmx.zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Yksityisen sektorin luottovirta: velkapaperit sektoreittain, sulauttamattomat – miljoonaa kansallisen valuutan yksikköä</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Privačiojo sektoriaus kredito srautas: skolos vertybiniai popieriai pagal sektorius, nekonsoliduoti – mln. vienetų nacionaline valiuta Privačiojo sektoriaus kredito srautas:
+skolos vertybiniai popieriai pagal sektorius, nekonsoliduoti – mln. vienetų nacionaline valiuta</dct:title>
+        <dct:identifier>tipspc14</dct:identifier>
+        <dct:description xml:lang="en">The table presents the net flow of debt securities (F.3) for the sectors Non-Financial corporations (S.11), Households (S.14) and Non-Profit institutions serving households (S.15). The debt securities are negotiable financial instruments serving as evidence of debt. Data are presented in non-consolidated terms, i.e. data take into account transactions within the same sector and expressed in Million units of national currency. Definitions regarding sectors and instruments are based on the ESA 2010.</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Tabelis on esitatud võlaväärtpaberite netovoog (F.3) sektorites, mis ei ole finantsettevõtted (S.11), kodumajapidamised (S.14) ja kodumajapidamisi teenindavad mittetulundusühingud (S.15). Võlaväärtpaberid on vabalt kaubeldavad finantsinstrumendid, mis tõendavad võlga. Andmed esitatakse konsolideerimata kujul, st andmetes võetakse arvesse sama sektori siseseid tehinguid ja väljendatakse miljonites omavääringu ühikutes. Sektorite ja instrumentide määratlused põhinevad ESA 2010-l.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">La tabella presenta il flusso netto di titoli di debito (F.3) per i settori delle società non finanziarie (S.11), delle famiglie (S.14) e delle istituzioni no-profit al servizio delle famiglie (S.15). I titoli di debito sono strumenti finanziari negoziabili che servono come prova del debito. I dati sono presentati in termini non consolidati, ossia i dati tengono conto delle operazioni all'interno dello stesso settore ed espressi in milioni di unità di valuta nazionale. Le definizioni relative ai settori e agli strumenti si basano sul SEC 2010.</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/430c5053-2f28-4cce-b156-cb45a211a197">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1995-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/38340bd0-d30e-4f57-b9b2-71eccc647e5f">
+            <dct:identifier>http://data.europa.eu/88u/distribution/915f338d-7ccf-4ccd-b0af-6877828578a7</dct:identifier>
+            <dct:title xml:lang="en">Private sector credit flow: debt securities by sectors, non-consolidated - million units of national currency</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="de">Kreditstrom des privaten Sektors: Schuldverschreibungen, nach Sektoren, nicht konsolidiert - Millionen Landeswährung</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipspc14.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="fr">Flux de crédit du secteur privé : titres de créance, par secteurs, non consolidé - millions d'unités monétaires nationales</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/0b16ff6e-d6b9-4306-93b0-6c5a19518bc1">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/f8863ce0-9bc1-4e07-99b3-612f3a81c8cb">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Przepływy kredytowe sektora prywatnego: dłużne papiery wartościowe według sektorów, nieskonsolidowane – mln jednostek waluty krajowej</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Flusso di credito del settore privato: titoli di debito per settore, non consolidati — milioni di unità di valuta nazionale</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ροή πιστώσεων του ιδιωτικού τομέα: χρεόγραφα ανά τομέα, μη ενοποιημένα — εκατομμύρια μονάδες εθνικού νομίσματος</dct:title>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tipspc14"/>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/tipspc_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/tipspc_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/qzbgezuu1xuntnukje7wsg"/>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d127d567-f2f8-421b-85c8-553733eb02ab">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="fr">Graphique</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/f1204422-8f50-43de-b45f-1fb66efc5da2</dct:identifier>
+            <dct:title xml:lang="en">Graph</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&amp;plugin=1&amp;language=en&amp;pcode=tipspc14"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Tok úvěrů v soukromém sektoru: dluhové cenné papíry podle sektorů, nekonsolidované – miliony jednotek národní měny</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A magánszektor hiteláramlása: hitelviszonyt megtestesítő értékpapírok szektoronként, nem konszolidált – millió egységnyi nemzeti pénznem</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">El cuadro presenta el flujo neto de valores distintos de acciones (F.3) para los sectores Sociedades no financieras (S.11), Hogares (S.14) e instituciones sin fines de lucro al servicio de los hogares (S.15). Los valores representativos de deuda son instrumentos financieros negociables que sirven como prueba de deuda. Los datos se presentan en términos no consolidados, es decir, los datos tienen en cuenta las transacciones dentro del mismo sector y se expresan en millones de unidades de moneda nacional. Las definiciones relativas a sectores e instrumentos se basan en el SEC 2010.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/587506ad-4e26-4cfa-a526-ef012d01bd67">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Private sector credit flow: debt securities by sectors, non-consolidated - million units of national currency</dct:title>
+            <dct:title xml:lang="de">Kreditstrom des privaten Sektors: Schuldverschreibungen, nach Sektoren, nicht konsolidiert - Millionen Landeswährung</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="fr">Flux de crédit du secteur privé : titres de créance, par secteurs, non consolidé - millions d'unités monétaires nationales</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipspc14.tsv.gz"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/e4f2fe55-bd6a-4085-a7db-8196f0fcc38e</dct:identifier>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="uk-t-en-t0-mtec">У таблиці наведено чистий потік боргових цінних паперів (F.3) для секторів Нефінансових корпорацій (S.11), домогосподарств (S.14) та некомерційних установ, що обслуговують домогосподарства (S.15). Боргові цінні папери є оборотними фінансовими інструментами, що служать доказом боргу. Дані представлені в неконсолідованих умовах, тобто дані враховують операції в рамках одного сектора і виражаються в мільйонах одиниць національної валюти. Визначення щодо секторів та інструментів базуються на ЄКА 2010.</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Tabela prikazuje neto tok dolžniških vrednostnih papirjev (F.3) za sektorje nefinančne družbe (S.11), gospodinjstva (S.14) in neprofitne institucije, ki opravljajo storitve za gospodinjstva (S.15). Dolžniški vrednostni papirji so tržni finančni instrumenti, ki služijo kot dokaz dolga. Podatki so predstavljeni v nekonsolidiranem smislu, tj. podatki upoštevajo transakcije znotraj istega sektorja in so izraženi v milijonih enot nacionalne valute. Opredelitve v zvezi s sektorji in instrumenti temeljijo na ESR 2010.</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Sreabhadh creidmheasa ón earnáil phríobháideach: urrúis fiachais de réir earnálacha, neamh-chomhdhlúite — milliún aonad d’airgeadra náisiúnta Sreabhadh creidmheasa ón earnáil phríobháideach:
+urrúis fiachais de réir earnálacha, neamh-chomhdhlúite — milliún aonad d’airgeadra náisiúnta</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">It-tabella tippreżenta l-fluss nett ta’ titoli ta’ dejn (F.3) għas-setturi tal-korporazzjonijiet mhux finanzjarji (S.11), tal-Unitajiet Domestiċi (S.14) u tal-istituzzjonijiet mhux tal-qligħ li jservu lill-unitajiet domestiċi (S.15). It-titoli ta’ dejn huma strumenti finanzjarji negozjabbli li jservu bħala evidenza ta’ dejn. Id-data hija ppreżentata f’termini mhux konsolidati, jiġifieri d-data tqis it-tranżazzjonijiet fl-istess settur u espressa f’Miljuni ta’ unitajiet tal-munita nazzjonali. Id-definizzjonijiet rigward is-setturi u l-istrumenti huma bbażati fuq l-ESA 2010.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>f7b33e02264d8fc7167d0b4548daa9c9</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

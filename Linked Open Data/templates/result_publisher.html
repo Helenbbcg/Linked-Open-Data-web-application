@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Knowledge Graph</title>
+
+  <link rel="stylesheet" href="/static/css/style.css" media="screen" type="text/css" />
+<style type="text/css">
+    body{
+	background-image: url('../static/img.png');
+}
+        h1{
+            font-size:40px;
+            font-weight: bold;
+            margin:12px 0!important;
+        }
+        table{
+            text-align: center;
+            margin: 0 auto;
+        }
+        table th{
+            padding: 5px 20px;
+            background-color: #9d9d9d;
+            font-weight:400;
+            color: #fff;
+        }
+        table tr td{
+            padding: 5px 20px;
+            border-top: 1px solid black;
+        }
+        table tr:nth-child(2n) td{
+            background-color: #eee;
+        }
+        table tr:last-child td{
+            border-bottom: 1px solid black;
+        }
+        a:link{
+	color:dodgerblue;
+	text-decoration: none
+}
+        a:visited{
+            color:dodgerblue;
+			text-decoration: none
+        }
+a:hover{
+	color:blue;
+	text-decoration: underline;}
+
+</style>
+
+
+
+</head>
+
+<body>
+  <script src="/static/js/jquery-2.2.1.min.js"></script>
+  <script src='/static/js/bootstrap.min.js'></script>
+  <script src="/static/js/echarts.min.js"></script>
+
+<h1 align="center">Datasets with publisher: {{ publisher }}</h1>
+
+<div>
+    <table border="1px" cellspacing="0px">
+    <th>Dataset</th>
+    <th>Details</th>
+
+        {% for i in results %}
+        <tr>
+            <td>{{i.dataset}}</td>
+            <td><a href="{{i.url}}">view dataset</a></td>
+
+        </tr>
+        {% endfor %}
+
+    </table>
+</div>
+
+    </body>
+    </html>
+    

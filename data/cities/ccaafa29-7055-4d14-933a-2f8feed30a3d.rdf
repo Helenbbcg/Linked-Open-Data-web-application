@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/ccaafa29-7055-4d14-933a-2f8feed30a3d">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:33Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T14:11:34Z</dct:issued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>3e549f30f265ea2413fff35d5a4b7727</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/ccaafa29-7055-4d14-933a-2f8feed30a3d"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:identifier>ccaafa29-7055-4d14-933a-2f8feed30a3d</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:44:01Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:15Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d">
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les sites des salles de sport dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, le nom, le support, le sport, l’accessibilité, les heures d’ouverture, les coordonnées et la photo. Les ressources sont généralement mises à jour à l’intervalle suivant: 365 jours</dct:description>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jinkludi l-postijiet tas-swali sportivi fil-Belt Hanseatika u tal-Università ta’ Rostock b’informazzjoni dwar l-indirizz, l-isem, it-trasportatur, l-isport, l-aċċessibbiltà, il-ħinijiet tal-ftuħ, id-dettalji ta’ kuntatt u r-ritratt. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 365 ġurnata</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa umiestnenie športových hál v Hanseatic a University City of Rostock s informáciami o adrese, názve, nosiči, športe, prístupnosti, otváracích hodinách, kontaktných údajoch a fotografii. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 365 dní</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä datajoukko sisältää sijainnit urheiluhallit Hanseatic ja University City of Rostock tiedot osoitteesta, nimi, harjoittaja, urheilu, saavutettavuus, aukioloajat, yhteystiedot ja valokuva. Resursseja päivitetään yleensä seuraavin väliajoin: 365 päivää</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/832d5615-548a-4a52-9d1c-a91aab972de5">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/sporthallen/wms"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-06T11:08:26</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/a2019009-d57d-494b-8c6d-b0e06b742a19</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum sisaldab asukohti spordisaalides Hanseatic ja University City of Rostock teavet aadress, nimi, vedaja, sport, juurdepääsetavus, lahtiolekuajad, kontaktandmed ja foto. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 365 päeva</dct:description>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje lokalizacje hal sportowych w Hanzeatyce i University City of Rostock z informacjami na temat adresu, nazwy, przewoźnika, sportu, dostępności, godzin otwarcia, danych kontaktowych i zdjęcia. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 365 dni</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje umístění sportovních hal v hanzovním a univerzitním městě Rostock s informacemi o adrese, jménu, dopravci, sportu, přístupnosti, otevírací době, kontaktních údajích a fotografii. Zdroje se obvykle aktualizují v následujících intervalech: 365 dní</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/712bb24d-3b87-469e-a795-64731cdf9659">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-06T11:08:26</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/fe70dc27-3d02-43dd-8e19-70bbb63a8b1f</dct:identifier>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.kml"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >65435d52db034d2df219c0545bf38c240f30f02e2f4fb8476b80af89384a1eb3</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.kml"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >125181</dcat:byteSize>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Sporthallen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Bezeichnung, Träger, Sportart, Barrierefreiheit, Öffnungszeiten, Kontaktdaten und Foto. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet tartalmazza a Hanseaticában és a University City of Rostockban található sportcsarnokok helyszíneit, a címre, a névre, a fuvarozóra, a sportra, a megközelíthetőségre, a nyitvatartási időre, az elérhetőségre és a fényképre vonatkozó információkkal. Az erőforrásokat általában a következő időközönként frissítik: 365 nap</dct:description>
+        <dcat:keyword>sport</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4058cdec-f2e6-4cb7-b11f-2dbb6e8ee74a">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Ces données comprennent l’emplacement des salles de sport dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, le nom, le sport, les heures d’ouverture et les coordonnées.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тези данни включват местоположението на спортните зали в Hanseatic и University City of Rostock с информация за адрес, име, спорт, работно време и данни за контакт.</dct:description>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Need andmed hõlmavad asukohti spordisaalide Hanseatic ja University City of Rostock teavet aadressi, nime, sport, lahtiolekuajad ja kontaktandmed.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-09T11:46:38</dct:issued>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevens omvatten de locaties van de sporthallen in de Hanze- en Universiteitsstad Rostock met informatie over adres, naam, sport, openingstijden en contactgegevens.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Estes dados incluem as localizações das salas desportivas no Hanseatic e na Cidade Universitária de Rostock com informações sobre endereço, nome, desporto, horário de funcionamento e pormenores de contato.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:description xml:lang="en-t-de-t0-mtec">These data include the locations of the sports halls in the Hanseatic and University City of Rostock with information on address, name, sport, opening hours and contact details.</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-govserv-gyms/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Tieto údaje zahŕňajú umiestnenie športových hál v Hanseatic a University City of Rostock s informáciami o adrese, názve, športe, otváracích hodinách a kontaktných údajoch.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ti podatki vključujejo lokacije športnih dvoran v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, imenu, športu, delovnem času in kontaktnih podatkih.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ezek az adatok magukban foglalják a Hanseaticában és a University City of Rostockban található sportcsarnokok helyszíneit, a címre, a névre, a sportra, a nyitvatartási időre és az elérhetőségekre vonatkozó információkkal.</dct:description>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/5d64b034-c2db-4e8b-a8a7-1326c8b14f8f</dct:identifier>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questi dati includono l'ubicazione delle sale sportive nella città anseatica e universitaria di Rostock con informazioni su indirizzo, nome, sport, orari di apertura e dettagli di contatto.</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šie duomenys apima sporto salių vietas Hanzos ir universiteto Rostoko mieste su informacija apie adresą, pavadinimą, sportą, darbo valandas ir kontaktinius duomenis.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šie dati ietver sporta zāļu atrašanās vietas Hanzas un Rostokas Universitātes pilsētā ar informāciju par adresi, nosaukumu, sportu, darba laiku un kontaktinformāciju.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Näihin tietoihin kuuluvat mm. Rostockin Hanseaticin ja University Cityn urheiluhallien sijainti, osoite, nimi, urheilu, aukioloajat ja yhteystiedot.</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ti podaci uključuju lokacije sportskih dvorana u hanzeatskom i Sveučilišnom gradu Rostocku s informacijama o adresi, imenu, sportu, radnom vremenu i podacima za kontakt.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">I measc na sonraí seo tá láithreacha na hallaí spóirt sa Hanseatic agus i gCathair Rostock na hOllscoile le faisnéis faoi sheoladh, ainm, spórt, uaireanta oscailte agus sonraí teagmhála.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Disse data omfatter placeringen af sportshallerne i Hansestaden og University City of Rostock med oplysninger om adresse, navn, sport, åbningstider og kontaktoplysninger.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Τα στοιχεία αυτά περιλαμβάνουν τις θέσεις των αθλητικών αιθουσών στο Hanseatic και το University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, το όνομα, τον αθλητισμό, τις ώρες λειτουργίας και τα στοιχεία επικοινωνίας.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din id-data tinkludi l-postijiet tas-swali sportivi fil-Belt Hanseatic u tal-Università ta’ Rostock b’informazzjoni dwar l-indirizz, l-isem, l-isport, il-ħinijiet tal-ftuħ u d-dettalji ta’ kuntatt.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:description>Diese Daten umfassen die Standorte der Sporthallen in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Bezeichnung, Sportart, Öffnungszeiten und Kontaktdaten.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Dane te obejmują lokalizacje hal sportowych w Hanzeatyce i University City of Rostock z informacjami na temat adresu, nazwy, sportu, godzin otwarcia i danych kontaktowych.</dct:description>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Estos datos incluyen la ubicación de las salas de deportes en el Hanseático y la ciudad universitaria de Rostock con información sobre la dirección, nombre, deporte, horarios de apertura y datos de contacto.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tyto údaje zahrnují umístění sportovních hal v hanzovním a univerzitním městě Rostock s informacemi o adrese, názvu, sportu, otevírací době a kontaktních údajích.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Dessa uppgifter inkluderar idrottshallarnas placeringar i Hanseatic och University City of Rostock med information om adress, namn, sport, öppettider och kontaktuppgifter.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Aceste date includ locațiile sălilor de sport din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, numele, sportul, programul de funcționare și datele de contact.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва местоположението на спортните зали в ханзейския и университетския град Рощок с информация за адрес, име, превозвач, спорт, достъпност, работно време, данни за контакт и снимка. Ресурсите обикновено се актуализират на следните интервали: 365 дни</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4520694c-4174-4ef3-9d6c-793eb3e16455">
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/69f8954e-94f3-42cb-bd78-deeab230fcb9</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >85066</dcat:byteSize>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-06T11:08:26</dct:issued>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >fd1c6af7bcfdb11370139b9ca372c6b5372617da2fb0820b07d5e1ab6e96189b</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.json"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.json"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>freizeitnutzung</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje lokacije sportskih dvorana u Hanseatic i University City of Rostock s informacijama o adresi, imenu, nosaču, sportu, pristupačnosti, radnom vremenu, podacima za kontakt i fotografiji. Resursi se obično ažuriraju u sljedećim intervalima: 365 dana</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:identifier>ccaafa29-7055-4d14-933a-2f8feed30a3d</dct:identifier>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questo set di dati include le sedi delle sale sportive nella città anseatica e universitaria di Rostock con informazioni su indirizzo, nome, vettore, sport, accessibilità, orari di apertura, recapiti e foto. Le risorse sono solitamente aggiornate ai seguenti intervalli: 365 giorni</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/670950aa-94ed-457f-8441-9240144720fb">
+            <dct:description xml:lang="es-t-de-t0-mtec">Este mapa incluye la ubicación de las salas de deportes en el Hanseático y la ciudad universitaria de Rostock.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tato mapa obsahuje umístění sportovních hal v hanzovním a univerzitním městě Rostock.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze kaart bevat de locaties van de sporthallen in de Hanzestad en de Universiteitsstad Rostock.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-09T11:46:38</dct:issued>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa mappa include le posizioni dei palazzetti dello sport nella città anseatica e universitaria di Rostock.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Această hartă include locațiile sălilor de sport din orașul Hanseatic și Universitatea din Rostock.</dct:description>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Táto mapa obsahuje umiestnenie športových hál v Hanseatic a University City of Rostock.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cette carte comprend l’emplacement des salles de sport dans la ville hanséatique et universitaire de Rostock.</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-govserv-gyms/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+            <dct:description>Diese Karte umfasst die Standorte der Sporthallen in der Hanse- und Universitätsstadt Rostock.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette kort omfatter placeringen af sportshallerne i Hansestaden og University City of Rostock.</dct:description>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Karta uključuje lokacije sportskih dvorana u Hanseatic i University City of Rostock.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez a térkép tartalmazza a helyszíneket a sportcsarnokok a Hanseatic és University City of Rostock.</dct:description>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/ca5a1a6f-a024-4670-bf03-acb4a720a93a</dct:identifier>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šī karte ietver atrašanās vietas sporta zāles Hanzas un University City of Rostoka.</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτός ο χάρτης περιλαμβάνει τις τοποθεσίες των αθλητικών αιθουσών στο Hanseatic και University City του Rostock.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear ar an léarscáil seo suíomhanna na hallaí spóirt i Hanseatic agus i gCathair na hOllscoile, Rostock.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tämä kartta sisältää urheiluhallien sijainnit Hanseaticissa ja Rostockin yliopistokaupungissa.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">På den här kartan finns idrottshallarna i Hansa och Universitetsstaden Rostock.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Mapa ta zawiera lokalizacje hal sportowych w Hanzeatyce i University City of Rostock.</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ta zemljevid vključuje lokacije športnih dvoran v Hanseatic in University City Rostock.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este mapa inclui as localizações das salas desportivas na cidade hanseática e universitária de Rostock.</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šis žemėlapis apima sporto salės vietas Hanzos ir universiteto miesto Rostoko.</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:description xml:lang="en-t-de-t0-mtec">This map includes the locations of the sports halls in the Hanseatic and University City of Rostock.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тази карта включва местоположението на спортните зали в Ханзатичния и университетския град Рощок.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">See kaart sisaldab asukohti spordisaalide Hanseatic ja University City of Rostock.</dct:description>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din il-mappa tinkludi l-postijiet ta ‘l-swali sportivi fil-Hanseatic u Università Belt ta’ Rostock.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/11c70345-b53f-4496-91cc-c86de75b2efd">
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/sporthallen/wfs"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-07-20T15:15:49</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/cedd49e0-52b3-43bc-a50c-968c89574056</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye las ubicaciones de las salas de deportes en el Hanseático y la ciudad universitaria de Rostock con información sobre la dirección, nombre, portador, deporte, accesibilidad, horario de apertura, datos de contacto y foto. Por lo general, los recursos se actualizan en los siguientes intervalos: 365 días</dct:description>
+        <dct:accessRights>public</dct:accessRights>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui os locais das salas desportivas na cidade Hanseática e Universitária de Rostock com informações sobre endereço, nome, transportadora, desporto, acessibilidade, horário de funcionamento, pormenores de contacto e foto. Os recursos são geralmente atualizados nos seguintes intervalos: 365 dias</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear sa tacar sonraí seo suíomhanna na hallaí spóirt in Hanseatic agus i gCathair Rostock na hOllscoile, le faisnéis maidir le seoladh, ainm, iompróir, spórt, inrochtaineacht, uaireanta oscailte, sonraí teagmhála agus grianghraf. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 365 lá</dct:description>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9f162b08-24aa-4a82-a140-8b75da834599">
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >14217</dcat:byteSize>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/6b45f7dd-a9f7-49f0-b601-a225c8ec6891</dct:identifier>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >387be5970cbd2a393cbae427f967c50f4575f131b866a90563f594ac8cb3ef5b</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.xlsx"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.xlsx"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-06T11:08:26</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Schulverwaltungsamt</foaf:name>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει τις θέσεις των αθλητικών αιθουσών στο Hanseatic και University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, το όνομα, τον μεταφορέα, τον αθλητισμό, την προσβασιμότητα, τις ώρες λειτουργίας, τα στοιχεία επικοινωνίας και τη φωτογραφία. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 365 ημέρες</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/948a4fbc-f5ed-4d27-9455-433b43109b89">
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.gml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-06T11:08:26</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/e41939f0-dade-4eb8-8572-c209ff851986</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.gml"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >000b69673a01991ad837c7f531fc8e76d8642c903f64d863595db69d82b157f8</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >177165</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title>Sporthallen</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver sporta zāļu atrašanās vietas Hanzas un Rostokas Universitātes pilsētā ar informāciju par adresi, vārdu, pārvadātāju, sportu, pieejamību, darba laiku, kontaktinformāciju un fotoattēliem. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 365 dienas</dct:description>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:36:26.515240</dct:modified>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes the locations of the sports halls in the Hanseatic and University City of Rostock with information on address, name, carrier, sport, accessibility, opening hours, contact details and photo. The resources are usually updated at the following intervals: 365 days</dct:description>
+        <dcat:keyword>sportanlage</dcat:keyword>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter placeringen af sportshallerne i Hansestaden og University City of Rostock med oplysninger om adresse, navn, transportør, sport, tilgængelighed, åbningstider, kontaktoplysninger og foto. Ressourcerne opdateres normalt med følgende intervaller: 365 dage</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2e9385c2-fe5f-45dd-9b76-9b53fc3d28ea">
+            <dct:title xml:lang="et-t-de-t0-mtec">Spordisaalid</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Sporthallen</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Športne dvorane</dct:title>
+            <dct:title>Sporthallen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-06T11:08:26</dct:issued>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.csv"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Salas de deportes</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sporto salės</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Salles de sport</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Sports halls</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Swali ta’ l-isports</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Hallaí Spóirt</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >6ac3f0837f3b26426c41ec355c68dd59fe69ce0ebe056d7b99f0f7b6f7a13e8a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Спортни зали</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Săli de sport</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Sporta zāles</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Palazzetti dello sport</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Sportshaller</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/ccaafa29-7055-4d14-933a-2f8feed30a3d/resource/423b5abf-d893-40f4-98dc-25473e7fecb0</dct:identifier>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/sporthallen/sporthallen.csv"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Idrottshallar</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Urheiluhallit</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Αθλητικοί χώροι</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >33575</dcat:byteSize>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Hale sportowe</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Salas de desporto</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Športové haly</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima sporto salių vietas Hanzos ir universiteto Rostoko mieste su informacija apie adresą, pavadinimą, vežėją, sportą, prieinamumą, darbo valandas, kontaktinius duomenis ir nuotrauką. Ištekliai paprastai atnaujinami tokiais intervalais: 365 dienos</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include locațiile sălilor de sport din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, numele, transportatorul, sportul, accesibilitatea, programul de funcționare, datele de contact și fotografia.
+Resursele sunt, de obicei, actualizate la următoarele intervale:
+365 de zile</dct:description>
+        <dcat:keyword>freizeitbereich</dcat:keyword>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset inkluderar platserna för idrottshallarna i Hanseatic och University City of Rostock med information om adress, namn, bärare, sport, tillgänglighet, öppettider, kontaktuppgifter och foto.
+Resurserna uppdateras vanligtvis med följande intervall:
+365 dagar</dct:description>
+        <dcat:keyword>freizeit</dcat:keyword>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje lokacije športnih dvoran v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, imenu, prevozniku, športu, dostopnosti, delovnem času, kontaktnih podatkih in fotografiji.
+Viri se običajno posodabljajo v naslednjih časovnih presledkih:
+365 dni</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Sportske dvorane</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Sportovní haly</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de locaties van de sporthallen in de Hanzestad Rostock met informatie over adres, naam, drager, sport, bereikbaarheid, openingstijden, contactgegevens en foto. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 365 dagen</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Sportcsarnokok</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

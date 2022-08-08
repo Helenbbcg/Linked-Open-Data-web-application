@@ -1,0 +1,705 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/public-access-requests">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/public-access-requests">
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-01-03</dct:modified>
+        <dct:description xml:lang="et-t-en-t0-mtec">Igal aastal avaldab nõukogu aastaaruande dokumentidele juurdepääsu käsitleva määruse 1049/2001 rakendamise kohta. Aastaaruanne sisaldab statistilist teavet üldsusele juurdepääsu taotluste kohta, mille nõukogu on saanud. Teave selliste taotluste kohta, välja arvatud isikuandmed, on avalik. 
+
+See andmekogum sisaldab järgmist teavet nõukogu saadud taotluste kohta üldsuse juurdepääsuks dokumentidele: 
+
+1. Üldine teave taotleja kohta (anonüümne): taotleja kutsealane tegevus; geograafiline päritolu
+
+2. Üldine teave taotluse kohta: taotluse number; taotluse liik (esialgne taotlus, kordustaotlus); taotluse kuupäev; vastamise tähtaeg; vastamise tähtaja pikendamine; vastuse kuupäev; kulutatud jõupingutused; järelmeetmed; poliitikavaldkond(id). 
+
+3. Teave taotletud dokumentide kohta: avaldamise staatus (avalik või mitte); vastuse liik; dokumendi kategooria; dokumendi number</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://data.consilium.europa.eu/def/codi/">
+            <schema:url>http://data.consilium.europa.eu/def/codi/</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/public-access-requests"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Foilsíonn an Chomhairle tuarascáil bhliantúil gach bliain ar chur chun feidhme Rialachán 1049/2001 maidir le rochtain ar dhoiciméid. Tá faisnéis staitistiúil sa tuarascáil bhliantúil maidir leis na hiarratais ar rochtain phoiblí a fuair an Chomhairle. Cé is moite de shonraí pearsanta, tá faisnéis faoi iarrataí den sórt sin poiblí.     Tá an fhaisnéis seo a leanas sa tacar sonraí seo a leanas maidir leis na hiarrataí ar rochtain phoiblí ar dhoiciméid a fhaigheann an Chomhairle: 
+ 1.
+Faisnéis ghinearálta faoin iarratasóir (gan ainm a lua): gníomhaíocht ghairmiúil an iarratasóra; tionscnamh geografach  
+2. Faisnéis Ghinearálta maidir leis an iarraidh:uimhir na hiarrata;
+an cineál iarrata (iarraidh tosaigh, iarratas daingniúcháin); dáta na hiarrata; sprioc-am chun freagra a thabhairt;síneadh ama a chur leis an spriocdháta chun freagra a thabhairt;
+dáta an fhreagra;iarracht a caitheadh;
+bearta leantacha; réimse/réimsí beartais.  
+
+
+3.
+Faisnéis faoi na doiciméid a iarradh:
+stádas foilsithe (poiblí nó neamhphoiblí);
+an cineál freagartha;
+catagóir an doiciméid;
+uimhir an doiciméid</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/open-data/">
+            <schema:url xml:lang="en">https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/open-data/</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/public-access-requests"/>
+            <dct:description xml:lang="en">Open Data documentation (web site)</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <dct:title xml:lang="en">Open Data documentation (web site)</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:keyword xml:lang="en">documents</dcat:keyword>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Co roku Rada publikuje roczne sprawozdanie z wykonania rozporządzenia 1049/2001 w sprawie dostępu do dokumentów. Sprawozdanie roczne zawiera informacje statystyczne na temat wniosków o publiczny dostęp otrzymanych przez Radę. Z wyjątkiem danych osobowych informacje o takich wnioskach są podawane do wiadomości publicznej.     Ten zbiór danych zawiera następujące informacje na temat wniosków o publiczny dostęp do dokumentów otrzymanych przez Radę: 
+ 1.
+Ogólne informacje na temat wnioskodawcy (anonimowe): działalność zawodowa wnioskodawcy; pochodzenie geograficzne  
+2. Ogólne informacje na temat wniosku:numer wniosku;
+rodzaj wniosku (wniosek wstępny, wniosek potwierdzający); data złożenia wniosku; termin na udzielenie odpowiedzi;przedłużony termin na udzielenie odpowiedzi;
+data udzielenia odpowiedzi;poświęcony wysiłek;
+działania następcze; obszar(-y) polityki.    
+3.
+Informacje na temat wymaganych dokumentów:
+status publikacji (publicznej lub nie);
+rodzaj odpowiedzi;
+Kategoria dokumentu;
+numer dokumentu</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Svet vsako leto objavi letno poročilo o izvajanju Uredbe 1049/2001 o dostopu do dokumentov. Letno poročilo vsebuje statistične informacije o zahtevah za dostop javnosti, ki jih je prejel Svet. Z izjemo osebnih podatkov so informacije o takšnih zahtevah javne. 
+
+Ta nabor podatkov vsebuje naslednje informacije o zahtevah za dostop javnosti do dokumentov, ki jih prejme Svet:    1.
+Splošne informacije o prosilcu (anonimni):poklicna dejavnost prosilca;
+geografsko poreklo 
+
+
+2.
+Splošne informacije o zahtevku:
+številka zahtevka;
+vrsta prošnje (začetna prošnja, potrdilna prošnja);
+datum zahteve;
+rok za odgovor;
+podaljšan rok za odgovor;
+datum odgovora;
+porabljen trud;
+nadaljnje ukrepanje;
+področja politike.
+
+
+
+
+3.
+Informacije o zahtevanih dokumentih:
+status objave (javna ali ne);
+vrsta odgovora;
+kategorija dokumentov;
+številka dokumenta</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Neuvoston asiakirjoihin tutustumista koskevia pyyntöjä koskevan tietokannan metatiedot</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Vijeće svake godine objavljuje godišnje izvješće o provedbi Uredbe 1049/2001 o pristupu dokumentima. Godišnje izvješće sadržava statističke informacije o zahtjevima za javni pristup koje je zaprimilo Vijeće. Uz iznimku osobnih podataka, informacije o takvim zahtjevima su javne.     Ovaj skup podataka sadržava sljedeće informacije o zahtjevima za javni pristup dokumentima koje je zaprimilo Vijeće: 
+ 1.
+Opće informacije o podnositelju zahtjeva (anonimni): profesionalna djelatnost podnositelja zahtjeva; zemljopisno podrijetlo  
+2. Opće informacije o zahtjevu:broj zahtjeva;
+vrsta zahtjeva (početni zahtjev, ponovni zahtjev); datum zahtjeva; rok za odgovor;produljeni rok za odgovor;
+datum odgovora;potrošeni napor;
+daljnje postupanje; područje/područja politike.    
+3.
+Informacije o traženim dokumentima:
+status objave (javno ili ne);
+vrsta odgovora;
+kategorija isprave;
+broj isprave</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="https://www.consilium.europa.eu/media/29365/users-manual.pdf">
+            <dct:title xml:lang="en">Council's Open Data Datasets - User Manual</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            </dct:format>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            <dct:description xml:lang="en"> User Manual for the Council's Open Data Datasets.</dct:description>
+            <schema:url xml:lang="en">https://www.consilium.europa.eu/media/29365/users-manual.pdf</schema:url>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/pdf"/>
+            </dcat:mediaType>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/public-access-requests"/>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:keyword xml:lang="en">access</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cf51877e-87b6-4be3-919f-5a7d9ecbacb6">
+            <dct:description xml:lang="es-t-en-t0-mtec">Punto final del Consejo SPARQL</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/7f00d4eb-17d6-4fed-8880-28457e423d17</dct:identifier>
+            <dct:description xml:lang="de-t-en-t0-mtec">SPARQL-Endpunkt des Rates</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-04-25T11:43:26.389153+02:00</dct:issued>
+            <dct:title xml:lang="et-t-en-t0-mtec">Nõukogu SPARQLi lõpp-punkt</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Koncový ukazovateľ Rady SPARQL</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Obiectiv SPARQL al Consiliului</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Rådets SPARQL-slutpunkt</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Končna točka SPARQL Sveta</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Punkt końcowy Rady SPARQL</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Koncový ukazovateľ Rady SPARQL</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Point final du SPARQL du Conseil</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Obiectiv SPARQL al Consiliului</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Крайна точка SPARQL на Съвета</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Krajnja točka Vijeća SPARQL</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Ponto final da SPARQL do Conselho</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">SPARQL-eindpunt van de Raad</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Point final du SPARQL du Conseil</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Τελικό σημείο SPARQL του Συμβουλίου</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Cílový ukazatel Rady SPARQL</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Padomes SPARQL beigupunkts</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Ponto final da SPARQL do Conselho</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Rådets SPARQL-slutpunkt</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Neuvoston SPARQL-päätepiste</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Tarybos SPARQL vertinamoji baigtis</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Rådets slutpunkt för SPARQL</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Padomes SPARQL beigupunkts</dct:title>
+            <dcat:accessURL rdf:resource="http://data.consilium.europa.eu/sparql"/>
+            <dct:description xml:lang="nl-t-en-t0-mtec">SPARQL-eindpunt van de Raad</dct:description>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:title xml:lang="es-t-en-t0-mtec">Punto final del Consejo SPARQL</dct:title>
+            <dct:description xml:lang="en">Council SPARQL endpoint</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Endpoint del Consiglio SPARQL</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Tarybos SPARQL vertinamoji baigtis</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Endpoint del Consiglio SPARQL</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Nõukogu SPARQLi lõpp-punkt</dct:description>
+            <dcat:accessService>
+              <dcat:DataService rdf:about="http://data.europa.eu/88u/dataservice/7f00d4eb-17d6-4fed-8880-28457e423d17">
+                <dcat:endpointURL rdf:resource="http://data.consilium.europa.eu/sparql"/>
+                <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+                <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+                >2016-04-25T11:43:26.389153+02:00</dct:issued>
+                <dct:title xml:lang="en">Council SPARQL endpoint</dct:title>
+                <dct:description xml:lang="en">Council SPARQL endpoint</dct:description>
+                <dcat:servesDataset rdf:resource="http://data.europa.eu/88u/dataset/public-access-requests"/>
+              </dcat:DataService>
+            </dcat:accessService>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Neuvoston SPARQL-päätepiste</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Críochphointe SPARQL na Comhairle</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Cílový ukazatel Rady SPARQL</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Krajnja točka Vijeća SPARQL</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Punt ta’ tmiem SPARQL tal-Kunsill</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Punt ta’ tmiem SPARQL tal-Kunsill</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A Tanács SPARQL végpontja</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Τελικό σημείο SPARQL του Συμβουλίου</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Končna točka SPARQL Sveta</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">SPARQL-Endpunkt des Rates</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Críochphointe SPARQL na Comhairle</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A Tanács SPARQL végpontja</dct:description>
+            <dct:title xml:lang="en">Council SPARQL endpoint</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Rådets slutpunkt för SPARQL</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Крайна точка SPARQL на Съвета</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Punkt końcowy Rady SPARQL</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="it-t-en-t0-mtec">Ogni anno il Consiglio pubblica una relazione annuale sull'attuazione del regolamento (CE) n. 1049/2001 relativo all'accesso ai documenti. La relazione annuale contiene informazioni statistiche sulle richieste di accesso del pubblico ricevute dal Consiglio. Ad eccezione dei dati personali, le informazioni su tali richieste sono pubbliche.     Questa serie di dati contiene le seguenti informazioni sulle richieste di accesso del pubblico ai documenti ricevuti dal Consiglio: 
+ 1.
+Informazioni generali sul richiedente (anonimo): attività professionale del candidato; origine geografica  
+2. Informazioni generali sulla richiesta:numero della richiesta;
+tipo di richiesta (richiesta iniziale, domanda di conferma); data della richiesta; termine per la risposta;proroga del termine per la risposta;
+data della risposta;sforzo speso;
+follow-up; settore(i) politico(i).    
+3.
+Informazioni sui documenti richiesti:
+stato di pubblicazione (pubblico o no);
+tipo di risposta;
+categoria di documenti;
+numero del documento</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a77d004d-9292-484a-b0be-f3c638f77923">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/rdf+xml"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="lt-t-en-t0-mtec">CODI ontologija apima prašymus pateikti dokumentus ir viešą registrą.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Stáhnout ontologii</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">La ontología CODI cubre las solicitudes de documentos y el registro público.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/02cfc5fc-31fc-4871-8879-0b4bb905b817</dct:identifier>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Parsisiųsti ontology</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Prenesite ontologijo</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Ontologija CODI-ja obuhvaća zahtjeve za dokumente i javni registar.</dct:description>
+            <dct:title xml:lang="en">Download ontology</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Ontologie downloaden</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Λήψη οντολογίας</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Íoslódáil an ointeolaíocht</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Ontologie CODI se týká žádostí o dokumenty a veřejného rejstříku.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Pobierz ontology</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Lataa ontologia</dct:title>
+            <dcat:accessURL rdf:resource="http://data.consilium.europa.eu/dump/codi.ttl"/>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Онтологията на CODI обхваща исканията за документи и публичния регистър.</dct:description>
+            <dct:description xml:lang="en">The CODI ontology covers the document requests and the public register.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Descărcare ontologie</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Clúdaíonn ointeolaíocht CODI na hiarratais ar dhoiciméid agus an clár poiblí.</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Ontologia CODI obejmuje wnioski o dokument i rejestr publiczny.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">L’ontologie CODI couvre les demandes de documents et le registre public.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Baixar ontologia</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Preuzimanje ontologije</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">CODI-ontologin omfattar begäran om handlingar och det offentliga registret.</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Ontologija CODI zajema zahtevke za dokumente in javni register.</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">CODI-ontologien dækker dokumentanmodningerne og det offentlige register.</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Scarica l'ontologia</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Ontology herunterladen</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A CODI ontológia lefedi a dokumentumok iránti kérelmeket és a nyilvános nyilvántartást.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Stiahnuť ontológiu</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Télécharger l’ontologie</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">De CODI-ontologie heeft betrekking op de verzoeken om documenten en het openbaar register.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Descargar ontología</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Laadi alla ontoloogia</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2019-01-03T11:05:39.581351+02:00</dct:issued>
+            <dct:description xml:lang="fi-t-en-t0-mtec">CODI-ontologia kattaa asiakirjapyynnöt ja julkisen rekisterin.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Ontológia letöltése</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Ontologia CODI acoperă cererile de documente și registrul public.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Изтегляне на онтология</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">CODI ontoloogia hõlmab dokumenditaotlusi ja avalikku registrit.</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Niżżel l-ontoloġija</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η οντολογία CODI καλύπτει τις αιτήσεις για έγγραφα και το δημόσιο μητρώο.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">A ontologia CODI abrange os pedidos de documentos e o registo público.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Ontológia CODI sa vzťahuje na žiadosti o dokumenty a verejný register.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">L-ontoloġija CODI tkopri t-talbiet għal dokumenti u r-reġistru pubbliku.</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Download ontologi</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Ladda ner ontologi</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Lejupielādēt ontoloģiju</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="de-t-en-t0-mtec">Die CODI-Ontologie deckt die Dokumentenanfragen und das öffentliche Register ab.</dct:description>
+            <dcat:downloadURL rdf:resource="http://data.consilium.europa.eu/dump/codi.ttl"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/RDF_XML"/>
+            </dct:format>
+            <dct:description xml:lang="lv-t-en-t0-mtec">CODI ontoloģija aptver dokumentu pieprasījumus un publisko reģistru.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">L'ontologia CODI copre le richieste di documenti e il registro pubblico.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="de-t-en-t0-mtec">Der Rat veröffentlicht jährlich einen Jahresbericht über die Umsetzung der Verordnung 1049/2001 über den Zugang zu Dokumenten. Der Jahresbericht enthält statistische Informationen über die beim Rat eingegangenen Anträge auf Zugang der Öffentlichkeit. Mit Ausnahme personenbezogener Daten sind Informationen über solche Anfragen öffentlich. 
+
+Dieser Datensatz enthält folgende Informationen zu den beim Rat eingegangenen Anträgen auf Zugang der Öffentlichkeit zu Dokumenten: 
+
+1. Allgemeine Angaben zum Antragsteller (anonym): berufliche Tätigkeit des Antragstellers; geografische Herkunft
+
+2. Allgemeine Informationen zur Anfrage: Nummer des Antrags; Art des Antrags (Anfangsantrag, Zweitantrag); Datum des Ersuchens; Frist für die Beantwortung; verlängerte Frist für die Beantwortung; Datum der Antwort; aufgewendeter Aufwand; Folgemaßnahmen; Politikbereich(e) 
+
+3. Informationen zu den angeforderten Dokumenten: Veröffentlichungsstatus (öffentlich oder nicht); Art der Antwort; Dokumentenkategorie; Dokumentennummer</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Metadata databáze žádostí o přístup veřejnosti k dokumentům Rady</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Metadata tal-bażi ta’ data dwar talbiet għal aċċess pubbliku għal dokumenti tal-Kunsill</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Metapodatki podatkovne zbirke o zahtevah za dostop javnosti do dokumentov Sveta</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Nõukogu dokumentidele üldsuse juurdepääsu taotlusi käsitleva andmebaasi metaandmed</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A Tanács minden évben éves jelentést tesz közzé a dokumentumokhoz való hozzáférésről szóló 1049/2001/EK rendelet végrehajtásáról. Az éves jelentés statisztikai információkat tartalmaz a Tanácshoz beérkezett, nyilvános hozzáférés iránti kérelmekről. A személyes adatok kivételével az ilyen kérelmekkel kapcsolatos információk nyilvánosak.     Ez az adatkészlet az alábbi információkat tartalmazza a Tanácshoz beérkezett, dokumentumokhoz való nyilvános hozzáférés iránti kérelmekről: 
+ 1.
+Általános információk a kérelmezőről (névtelen): a kérelmező szakmai tevékenysége; földrajzi eredet  
+2. Általános információk a kérelemről:a kérelem száma;
+a kérelem típusa (kezdeti kérelem, megerősítő kérelem); a kérelem kelte; válaszadási határidő;meghosszabbított válaszadási határidő;
+a válasz kelte;az elköltött erőfeszítések;
+nyomon követés; szakpolitikai terület(ek).    
+3.
+A kért dokumentumokra vonatkozó információk:
+közzétételi státusz (nyilvános vagy nem);
+a válasz típusa;
+dokumentumkategória;
+a dokumentum száma</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Elk jaar publiceert de Raad een jaarverslag over de uitvoering van Verordening (EG) nr. 1049/2001 inzake de toegang tot documenten. Het jaarverslag bevat statistische informatie over de verzoeken om toegang van het publiek die de Raad heeft ontvangen. Met uitzondering van persoonsgegevens is informatie over dergelijke verzoeken openbaar.     Deze dataset bevat de volgende informatie over de verzoeken om toegang van het publiek tot documenten die de Raad heeft ontvangen: 
+ 1.
+Algemene informatie over de aanvrager (anoniem): beroepsactiviteit van de aanvrager; geografische oorsprong  
+2. Algemene informatie over de aanvraag:nummer van het verzoek;
+soort verzoek (oorspronkelijk verzoek, confirmatief verzoek); datum van het verzoek; antwoordtermijn;verlengde antwoordtermijn;
+datum van antwoord;de geleverde inspanning;
+follow-up; beleidsterrein(en).    
+3.
+Informatie over de gevraagde documenten:
+publicatiestatus (al dan niet openbaar);
+soort antwoord;
+documentcategorie;
+documentnummer</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Rådet offentliggør hvert år en årlig rapport om gennemførelsen af forordning (EF) nr. 1049/2001 om aktindsigt. Årsrapporten indeholder statistiske oplysninger om de anmodninger om aktindsigt, som Rådet har modtaget. Med undtagelse af personoplysninger er oplysninger om sådanne anmodninger offentlige. 
+
+Dette datasæt indeholder følgende oplysninger om de anmodninger om aktindsigt, som Rådet har modtaget: 
+
+1. Generelle oplysninger om ansøgeren (anonym): ansøgerens erhvervsmæssige aktivitet geografisk oprindelse
+
+2. Generelle oplysninger om anmodningen: anmodningsnummer type begæring (oprindelig begæring, genfremsat begæring) dato for anmodning svarfrist forlænget svarfrist svardato den indsats, der er brugt opfølgning politikområde(r). 
+
+3. Oplysninger om de ønskede dokumenter: offentliggørelsesstatus (offentlig eller ej) svartype dokumentkategori dokumentnummer</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/CONSIL"/>
+        </dct:publisher>
+        <dct:title xml:lang="de-t-en-t0-mtec">Metadaten der Datenbank zu Anträgen auf Zugang der Öffentlichkeit zu Ratsdokumenten</dct:title>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Chaque année, le Conseil publie un rapport annuel sur la mise en œuvre du règlement (CE) no 1049/2001 relatif à l’accès aux documents. Le rapport annuel contient des informations statistiques sur les demandes d’accès du public reçues par le Conseil. À l’exception des données à caractère personnel, les informations relatives à ces demandes sont publiques.  
+
+
+Cet ensemble de données contient les informations suivantes sur les demandes d’accès du public aux documents reçues par le Conseil:
+
+
+
+
+1.
+Informations générales sur le demandeur (anonyme):
+activité professionnelle du demandeur;
+origine géographique
+
+
+
+2.
+Informations générales sur la demande:
+numéro de la demande;
+type de demande (demande initiale, demande confirmative);
+date de la demande;
+délai de réponse;
+prolongation du délai de réponse;
+date de la réponse;
+l’effort dépensé;
+suivi;
+domaine(s) politique(s).
+
+
+
+
+3.
+Informations sur les documents demandés:
+statut de publication (public ou non);
+type de réponse;
+catégorie de documents;
+numéro du document</dct:description>
+        <dcat:keyword xml:lang="en">document</dcat:keyword>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3509"/>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dct:description xml:lang="ro-t-en-t0-mtec">În fiecare an, Consiliul publică un raport anual privind punerea în aplicare a Regulamentului 1049/2001 privind accesul la documente. Raportul anual conține informații statistice privind cererile de acces public primite de Consiliu. Cu excepția datelor cu caracter personal, informațiile privind astfel de cereri sunt publice.     Acest set de date conține următoarele informații privind cererile de acces public la documente primite de Consiliu: 
+ 1.
+Informații generale privind solicitantul (anonim): activitatea profesională a solicitantului; originea geografică  
+2. Informații generale privind cererea:numărul cererii;
+tipul cererii (cerere inițială, cerere de confirmare); data solicitării; termenul de răspuns;prelungirea termenului de răspuns;
+data răspunsului;efortul depus;
+acțiuni subsecvente; domeniul (domeniile) de politică.    
+3.
+Informații privind documentele solicitate:
+statutul publicității (public sau nu);
+tipul răspunsului;
+categoria documentului;
+numărul documentului</dct:description>
+        <dcat:keyword xml:lang="en">transparency</dcat:keyword>
+        <dct:description xml:lang="el-t-en-t0-mtec">Κάθε χρόνο, το Συμβούλιο δημοσιεύει ετήσια έκθεση σχετικά με την εφαρμογή του κανονισμού 1049/2001 για την πρόσβαση στα έγγραφα. Η ετήσια έκθεση περιέχει στατιστικές πληροφορίες σχετικά με τις αιτήσεις πρόσβασης του κοινού που λαμβάνει το Συμβούλιο. Με εξαίρεση τα δεδομένα προσωπικού χαρακτήρα, οι πληροφορίες σχετικά με τα εν λόγω αιτήματα είναι δημόσιες. 
+
+Το εν λόγω σύνολο δεδομένων περιέχει τις ακόλουθες πληροφορίες σχετικά με τις αιτήσεις πρόσβασης του κοινού σε έγγραφα που λαμβάνει το Συμβούλιο: 
+
+1. Γενικές πληροφορίες για τον αιτούντα (ανώνυμο): επαγγελματική δραστηριότητα του αιτούντος· γεωγραφική προέλευση
+
+2. Γενικές πληροφορίες σχετικά με την αίτηση: αριθμός αίτησης· είδος αίτησης (αρχική αίτηση, επιβεβαιωτική αίτηση)· ημερομηνία της αίτησης· προθεσμία απάντησης· παράταση της προθεσμίας απάντησης· ημερομηνία απάντησης· καταβληθείσα προσπάθεια· επακόλουθες ενέργειες· τομέας ή τομείς πολιτικής. 
+
+3. Πληροφορίες σχετικά με τα ζητηθέντα έγγραφα: καθεστώς δημοσίευσης (δημόσιο ή μη)· είδος απάντησης· κατηγορία εγγράφου· αριθμός εγγράφου</dct:description>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Métadonnées de la base de données sur les demandes d’accès du public aux documents du Conseil</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Metadati datubāzei par pieprasījumiem par publisku piekļuvi Padomes dokumentiem</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Kiekvienais metais Taryba skelbia metinę Reglamento (EB) Nr. 1049/2001 dėl galimybės susipažinti su dokumentais įgyvendinimo ataskaitą. Metinėje ataskaitoje pateikiama statistinė informacija apie Tarybos gautus prašymus leisti visuomenei susipažinti su dokumentais. Informacija apie tokius prašymus, išskyrus asmens duomenis, yra vieša.     Šiame duomenų rinkinyje pateikiama ši informacija apie Tarybos gautus prašymus leisti visuomenei susipažinti su dokumentais: 
+ 1.
+Bendra informacija apie pareiškėją (anoniminė): pareiškėjo profesinė veikla; geografinė kilmė  
+2. Bendra informacija apie prašymą:prašymo numeris;
+prašymo rūšis (pradinė paraiška, kartotinė paraiška); prašymo data; atsakymo pateikimo terminas;pratęstas atsakymo pateikimo terminas;
+atsakymo data;išleistas pastangas;
+tolesni veiksmai; politikos sritis (-ys).    
+3.
+Informacija apie prašomus dokumentus:
+paskelbimo statusas (viešas arba neviešas);
+atsakymo rūšis;
+dokumento kategorija;
+dokumento numeris</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Varje år offentliggör rådet en årlig rapport om genomförandet av förordning (EG) nr 1049/2001 om tillgång till handlingar. Årsrapporten innehåller statistiska uppgifter om de ansökningar om allmänhetens tillgång som mottagits av rådet. Med undantag för personuppgifter är informationen om sådana förfrågningar offentlig. 
+
+Denna dataset innehåller följande information om de ansökningar om allmänhetens tillgång till handlingar som mottagits av rådet:    1.
+Allmän information om sökanden (anonym):den sökandes yrkesverksamhet.
+geografiskt ursprung 
+
+
+2.
+Allmän information om begäran:
+begärans nummer.
+typ av ansökan (ursprunglig begäran, bekräftande ansökan).
+datum för begäran.
+tidsfrist för svar.
+förlängd tidsfrist för svar.
+svarsdatum.
+ansträngning som använts.
+uppföljning.
+politikområde(n).
+
+
+
+
+3.
+Information om de begärda handlingarna:
+publiceringsstatus (offentlig eller inte).
+typ av svar.
+dokumentkategori.
+dokumentnummer</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Всяка година Съветът публикува годишен доклад за прилагането на Регламент 1049/2001 относно достъпа до документи. Годишният доклад съдържа статистическа информация относно исканията за публичен достъп, получени от Съвета. С изключение на личните данни, информацията за такива искания е публична. 
+
+Този набор от данни съдържа следната информация относно исканията за публичен достъп до документи, получени от Съвета: 
+
+1. Обща информация за заявителя (анонимна): професионална дейност на заявителя; географски произход
+
+2. Обща информация относно искането: номер на искането; вид на искането (първоначално заявление, потвърдително заявление); дата на искането; краен срок за отговор; удължен срок за отговор; дата на отговора; изразходвани усилия; последващи действия; област(и) на политиката. 
+
+3. Информация за исканите документи: статут на публикуване (публично или не); вид на отговора; категория на документа; номер на документа</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Metaúdaje databázy žiadostí o prístup verejnosti k dokumentom Rady</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dbf52df4-3c69-405c-b1c9-4095e1b33142">
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kompletny zbiór metadanych bazy danych dotyczących wniosków o publiczny dostęp do dokumentów Rady</dct:title>
+            <dcat:compressFormat>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:compressFormat>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Pilnīga metadatu kopa datubāzei par lūgumiem par publisku piekļuvi Padomes dokumentiem</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://data.consilium.europa.eu/dump/DocumentRequests.zip"/>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Tacar sonraí iomlán meiteashonraí an bhunachair sonraí maidir le hiarrataí ar rochtain phoiblí ar dhoiciméid na Comhairle</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Serie completa di metadati della banca dati sulle richieste di accesso del pubblico ai documenti del Consiglio</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Komplet datasæt for metadata i databasen om anmodninger om aktindsigt i Rådets dokumenter</dct:title>
+            <dct:description xml:lang="en">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Iarratais ar Cháipéisí.zip</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">DocumentRequests.zip</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Popoln nabor metapodatkov podatkovne zbirke o zahtevah za dostop javnosti do dokumentov Sveta</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-04-25T11:42:41.904051+02:00</dct:issued>
+            <dct:title xml:lang="es-t-en-t0-mtec">Conjunto de datos completo de metadatos de la base de datos sobre solicitudes de acceso del público a los documentos del Consejo</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Úplný súbor údajov o metaúdajoch databázy o žiadostiach o prístup verejnosti k dokumentom Rady</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Set complet de metadate din baza de date privind cererile de acces public la documentele Consiliului</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Sett ta’ data komplut tal-metadata tal-bażi ta’ data dwar talbiet għal aċċess pubbliku għad-dokumenti tal-Kunsill</dct:title>
+            <dct:title xml:lang="en">Complete dataset of metadata of the database on requests for public access to Council documents</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">DokumentiRequests.zip</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Fullständig datauppsättning av metadata från databasen om begäran om allmänhetens tillgång till rådets handlingar</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Išsamus duomenų bazės metaduomenų, susijusių su prašymais leisti visuomenei susipažinti su Tarybos dokumentais, rinkinys</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Volledige gegevensverzameling van metagegevens van de databank over verzoeken om toegang van het publiek tot documenten van de Raad</dct:title>
+            <dcat:downloadURL rdf:resource="http://data.consilium.europa.eu/dump/DocumentRequests.zip"/>
+            <dct:title xml:lang="el-t-en-t0-mtec">Πλήρες σύνολο δεδομένων μεταδεδομένων της βάσης δεδομένων σχετικά με αιτήσεις πρόσβασης του κοινού σε έγγραφα του Συμβουλίου</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Ensemble complet de métadonnées de la base de données sur les demandes d’accès du public aux documents du Conseil</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A tanácsi dokumentumokhoz való nyilvános hozzáférés iránti kérelmekre vonatkozó adatbázis metaadatainak teljes adatkészlete</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de-t-en-t0-mtec">Vollständiger Datensatz der Metadaten der Datenbank zu Anträgen auf Zugang der Öffentlichkeit zu Ratsdokumenten</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Dokumentu pieprasījumi.zip</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Пълен набор от метаданни на базата данни относно искания за публичен достъп до документи на Съвета</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Conjunto completo de metadados da base de dados sobre pedidos de acesso do público aos documentos do Conselho</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Täydelliset metatiedot tietokannasta, joka koskee pyyntöjä saada tutustua neuvoston asiakirjoihin</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/132019d3-bca9-4d3a-86c5-d7b8c5461efd</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="et-t-en-t0-mtec">Nõukogu dokumentidele üldsuse juurdepääsu taotlusi käsitleva andmebaasi metaandmete täielik andmekogum</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Úplný datový soubor metadat databáze o žádostech o přístup veřejnosti k dokumentům Rady</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Potpuni skup metapodataka baze podataka o zahtjevima za javni pristup dokumentima Vijeća</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en">Metadata of the database on requests for public access to Council documents</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Metapodaci baze podataka o zahtjevima za javni pristup dokumentima Vijeća</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A tanácsi dokumentumokhoz való nyilvános hozzáférés iránti kérelmek adatbázisának metaadatai</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Metagegevens van de databank over verzoeken om toegang van het publiek tot documenten van de Raad</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Cada año, el Consejo publica un informe anual sobre la aplicación del Reglamento 1049/2001 relativo al acceso a los documentos. El informe anual contiene información estadística sobre las solicitudes de acceso del público recibidas por el Consejo. Con la excepción de los datos personales, la información sobre dichas solicitudes es pública. 
+
+Este conjunto de datos contiene la siguiente información sobre las solicitudes de acceso del público a los documentos recibidos por el Consejo: 
+
+1. Información general sobre el solicitante (anónimo): actividad profesional del solicitante; origen geográfico
+
+2. Información general sobre la solicitud: número de solicitud; tipo de solicitud (solicitud inicial, solicitud confirmatoria); fecha de la solicitud; plazo de respuesta; ampliación del plazo de respuesta; fecha de respuesta; esfuerzo gastado; seguimiento; ámbito(s) político(s). 
+
+3. Información sobre los documentos solicitados: Estado de publicación (público o no); tipo de respuesta; categoría de documentos; número de documento</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Metadados da base de dados sobre pedidos de acesso do público aos documentos do Conselho</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/5088d7de-2e67-4713-916e-9875c179c1fe"/>
+        </dcat:contactPoint>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O Conselho publica anualmente um relatório anual sobre a aplicação do Regulamento n.º 1049/2001 relativo ao acesso aos documentos. O relatório anual contém informações estatísticas sobre os pedidos de acesso do público recebidos pelo Conselho. Com exceção dos dados pessoais, as informações sobre tais pedidos são públicas.     Este conjunto de dados contém as seguintes informações sobre os pedidos de acesso do público aos documentos recebidos pelo Conselho: 
+ 1.
+Informações gerais sobre o requerente (anónimo): atividade profissional do requerente; origem geográfica  
+2. Informações gerais sobre o pedido:número do pedido;
+tipo de pedido (pedido inicial, pedido confirmativo); data do pedido; prazo de resposta;prorrogação do prazo de resposta;
+data da resposta;esforço despendido;
+acompanhamento; domínio(s) político(s)    
+3.
+Informações sobre os documentos solicitados:
+estatuto da publicação (público ou não);
+tipo de resposta;
+categoria do documento;
+número do documento</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Neuvosto julkaisee vuosittain kertomuksen asiakirjojen saamisesta yleisön tutustuttavaksi annetun asetuksen (EY) N:o 1049/2001 täytäntöönpanosta. Vuosikertomus sisältää tilastotietoja neuvoston saamista tiedonsaantipyynnöistä. Henkilötietoja lukuun ottamatta tällaisia pyyntöjä koskevat tiedot ovat julkisia. 
+
+Tämä tietokokonaisuus sisältää seuraavat tiedot neuvoston vastaanottamista pyynnöistä saada tutustua asiakirjoihin: 
+
+1. Hakijaa koskevat yleiset tiedot (nimetön nimi): hakijan ammatillinen toiminta; maantieteellinen alkuperä
+
+2. Yleistä tietoa pyynnöstä: pyynnön numero; pyynnön tyyppi (alkuperäinen pyyntö, uudistettu pyyntö) pyynnön päivämäärä; määräaika vastaamiselle; pidennetty määräaika vastaamiselle; vastauspäivä; käytetty pyyntiponnistus; jatkotoimet; toimintalohko(t). 
+
+3. Pyydettyjä asiakirjoja koskevat tiedot: julkaisun asema (julkinen vai ei); vastaustyyppi; asiakirjaluokka; asiakirjan numero</dct:description>
+        <dct:description xml:lang="en">Each year the Council publishes an annual report on the implementation of regulation 1049/2001 on access to documents. The annual report contains statistical information on the requests for public access received by the Council. With the exception of personal data, information on such requests is public.&#xD;
+&#xD;
+This dataset contains the following information on the requests for public access to documents received by the Council:&#xD;
+&#xD;
+1. General information on the applicant (anonymous): professional activity of applicant; geographic origin&#xD;
+&#xD;
+2. General Information on the request: request number; type of request (initial request, confirmatory application); date of request; deadline to reply; extended deadline to reply; date of reply; effort spent; follow-up; policy area(s).&#xD;
+&#xD;
+3. Information on the requested documents: publication status (public or not); type of reply; document category; document number</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Rada každoročne uverejňuje výročnú správu o vykonávaní nariadenia 1049/2001 o prístupe k dokumentom. Výročná správa obsahuje štatistické informácie o žiadostiach o prístup verejnosti, ktoré dostala Rada. S výnimkou osobných údajov sú informácie o takýchto žiadostiach verejné.   
+
+Tento súbor údajov obsahuje tieto informácie o žiadostiach o prístup verejnosti k dokumentom, ktoré dostala Rada:
+
+
+
+
+1.
+Všeobecné informácie o žiadateľovi (anonymné):
+odborná činnosť žiadateľa;
+zemepisný pôvod
+
+
+
+2.
+Všeobecné informácie o žiadosti:
+číslo žiadosti;
+druh žiadosti (počiatočná žiadosť, opakovaná žiadosť);
+dátum žiadosti;
+lehota na odpoveď;
+predĺžená lehota na odpoveď;
+dátum odpovede;
+vynaložené úsilie;
+následné opatrenia;
+oblasť(-y) politiky.
+
+
+
+
+3.
+Informácie o požadovaných dokumentoch:
+stav zverejnenia (verejné alebo nie);
+druh odpovede;
+kategória dokumentov;
+číslo dokumentu</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Meiteashonraí an bhunachair sonraí maidir le hiarrataí ar rochtain phoiblí ar dhoiciméid na Comhairle</dct:title>
+        <dcat:keyword xml:lang="en">openness</dcat:keyword>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Metadata från databasen över ansökningar om allmänhetens tillgång till rådets handlingar</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Metadane bazy danych dotyczące wniosków o publiczny dostęp do dokumentów Rady</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Metadatele bazei de date privind cererile de acces public la documentele Consiliului</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Metadati della banca dati sulle richieste di accesso del pubblico ai documenti del Consiglio</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Метаданни на базата данни относно искания за публичен достъп до документи на Съвета</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Kull sena l-Kunsill jippubblika rapport annwali dwar l-implimentazzjoni tar-Regolament 1049/2001 dwar l-aċċess għad-dokumenti. Ir-rapport annwali fih informazzjoni statistika dwar it-talbiet għal aċċess pubbliku riċevuti mill-Kunsill. Bl-eċċezzjoni tad-data personali, l-informazzjoni dwar talbiet bħal dawn hija pubblika.     Dan is-sett ta’ data fih l-informazzjoni li ġejja dwar it-talbiet għal aċċess pubbliku għal dokumenti riċevuti mill-Kunsill: 
+ 1.
+Informazzjoni ġenerali dwar l-applikant (anonimiku): l-attività professjonali tal-applikant; oriġini ġeografika  
+2. Informazzjoni Ġenerali dwar it-talba:in-numru tat-talba;
+it-tip ta’ talba (talba inizjali, applikazzjoni konfermatorja); id-data tat-talba; data ta’ skadenza għat-tweġiba;estensjoni tad-data ta’ skadenza għat-tweġiba;
+id-data tat-tweġiba;l-isforz li jkun sar;
+segwitu; qasam/Oqsma ta’ politika.    
+3.
+Informazzjoni dwar id-dokumenti mitluba:
+status ta’ pubblikazzjoni (pubbliku jew le);
+it-tip ta’ tweġiba;
+il-kategorija tad-dokumenti;
+numru tad-dokument</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Prašymų leisti visuomenei susipažinti su Tarybos dokumentais duomenų bazės metaduomenys</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Katru gadu Padome publicē gada ziņojumu par to, kā tiek īstenota Regula 1049/2001 par piekļuvi dokumentiem. Gada ziņojumā ir ietverta statistikas informācija par Padomes saņemtajiem publiskas piekļuves pieprasījumiem. Izņemot personas datus, informācija par šādiem pieprasījumiem ir publiska. 
+
+Šajā datu kopā ir šāda informācija par Padomes saņemtajiem lūgumiem par publisku piekļuvi dokumentiem:    1.
+Vispārīga informācija par pieteikuma iesniedzēju (anonīms):pretendenta profesionālā darbība;
+ģeogrāfiskā izcelsme 
+
+
+2.
+Vispārīga informācija par pieprasījumu:
+pieprasījuma numurs;
+pieprasījuma veids (sākotnējais pieprasījums, atkārtots pieteikums);
+pieprasījuma datums;
+atbildes sniegšanas termiņš;
+pagarināts atbildes sniegšanas termiņš;
+atbildes datums;
+ieguldītā piepūle;
+turpmākie pasākumi;
+politikas joma(-as).
+
+
+
+
+3.
+Informācija par pieprasītajiem dokumentiem:
+publicēšanas statuss (publisks vai ne);
+atbildes veids;
+dokumenta kategorija;
+dokumenta numurs</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2016-04-25</dct:issued>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Rada každoročně zveřejňuje výroční zprávu o provádění nařízení 1049/2001 o přístupu k dokumentům. Výroční zpráva obsahuje statistické informace o žádostech o přístup veřejnosti, které Rada obdržela. S výjimkou osobních údajů jsou informace o těchto žádostech veřejné. 
+
+Tento soubor údajů obsahuje následující informace o žádostech o přístup veřejnosti k dokumentům, které Rada obdržela: 
+
+1. Obecné informace o žadateli (anonymní): odborná činnost žadatele; zeměpisný původ
+
+2. Obecné informace o žádosti: číslo žádosti; druh žádosti (počáteční žádost, potvrzující žádost); datum žádosti; lhůta pro odpověď; prodloužená lhůta pro odpověď; datum odpovědi; vynaložené úsilí; následná opatření; oblast(y) politiky. 
+
+3. Informace o požadovaných dokumentech: stav zveřejnění (veřejný či nikoli); druh odpovědi; kategorie dokumentů; číslo dokumentu</dct:description>
+        <dcat:keyword xml:lang="en">official</dcat:keyword>
+        <dct:title xml:lang="es-t-en-t0-mtec">Metadatos de la base de datos sobre las solicitudes de acceso del público a los documentos del Consejo</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Μεταδεδομένα της βάσης δεδομένων σχετικά με τις αιτήσεις πρόσβασης του κοινού σε έγγραφα του Συμβουλίου</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Metadata i databasen om anmodninger om aktindsigt i Rådets dokumenter</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>public-access-requests</dct:identifier>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-25T10:13:09Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>4bce25bca0ac54da24cddfda92214040</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:12:40Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/public-access-requests"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-25T10:13:28Z</edp:transReceived>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:49:42Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

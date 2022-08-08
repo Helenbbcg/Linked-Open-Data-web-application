@@ -1,0 +1,618 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/22344075-bundesamt-fur-statistik-bfs">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:55Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:01Z</dct:modified>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:55:01Z</edp:transReceived>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:55Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>22344075@bundesamt-fur-statistik-bfs</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>459c5856e7d2e27da522a3583283be99</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/22344075-bundesamt-fur-statistik-bfs"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/22344075-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="en">Costs and financing of health care by service provider, service and financing scheme</dct:title>
+        <dct:language>it</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e6966955-42af-4c7e-a66a-d6cb7eb10da4">
+            <dct:description xml:lang="hu-t-fr-t0-mtec">Ez az adatkészlet 1960 óta mutatja be az egészségügyi rendszer éves költségeit és finanszírozási adatait az áruk és szolgáltatások nyújtói, a juttatás típusa és a finanszírozási rendszer szerint.</dct:description>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">Този набор от данни представя годишните разходи за здравната система и данните за финансирането по доставчици на стоки и услуги, вид ползи и режим на финансиране от 1960 г. насам.</dct:description>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">Šiame duomenų rinkinyje pateikiamos metinės sveikatos priežiūros sistemos išlaidos ir finansavimo duomenys pagal prekių tiekėją ir paslaugų teikėją, naudos rūšį ir finansavimo tvarką nuo 1960 m.</dct:description>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Витрати на систему охорони здоров'я та фінансування від постачальника допомоги, допомоги та фінансування</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1405000000_101"/>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">Leis an tacar sonraí seo léirítear costais bhliantúla an chórais sláinte agus figiúirí maoinithe de réir soláthraí earraí agus seirbhísí, cineál sochair, agus córas maoinithe, ó 1960 i leith.</dct:description>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi kulud ja rahastamine hüvitiste pakkuja, hüvitiste ja rahastamiskava poolt</dct:title>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Šī datu kopa atspoguļo ikgadējās veselības aprūpes sistēmas izmaksas un finansējuma rādītājus par katru preču piegādātāju un pakalpojumu sniedzēju, pabalstu veidu un finansēšanas režīmu kopš 1960. gada.</dct:description>
+            <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des coûts et du financement du système de santé selon le fournisseur de biens et services, le type de prestation et le régime de financement, depuis 1960.</dct:description>
+            <dct:description xml:lang="de-t-fr-t0-mtec">In diesem Datensatz werden die jährlichen Kosten und die Finanzierung des Gesundheitssystems nach dem Anbieter von Waren und Dienstleistungen, der Art der Leistung und dem Finanzierungssystem seit 1960 dargestellt.</dct:description>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän kustannukset ja rahoitus etuuksien tarjoajan, etuuden ja rahoitussuunnitelman mukaan</dct:title>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Dan is-sett ta’ data jippreżenta l-ispejjeż annwali tas-sistema tas-saħħa u ċ-ċifri ta’ finanzjament skont il-fornitur ta’ oġġetti u servizzi, it-tip ta’ benefiċċju, u r-reġim ta’ finanzjament, mill-1960.</dct:description>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Koszty systemu opieki zdrowotnej i finansowanie przez dostawcę świadczeń, plan świadczeń i finansowania</dct:title>
+            <dct:description xml:lang="es-t-fr-t0-mtec">Este conjunto de datos presenta los costos anuales del sistema de salud y las cifras de financiación por proveedor de bienes y servicios, tipo de beneficio y régimen de financiación, desde 1960.</dct:description>
+            <dct:title xml:lang="fr">Coûts et financement du système de santé selon le fournisseur de prestations, la prestation et le régime de financement</dct:title>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">Tento datový soubor uvádí roční náklady na zdravotní systémy a údaje o financování dodavatelů zboží a služeb, druh dávek a režim financování od roku 1960.</dct:description>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészségügyi rendszer költségei és az ellátás szolgáltatója, juttatási és finanszírozási terve</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Costurile sistemului de sănătate și finanțarea de către furnizorul de beneficii, planul de beneficii și de finanțare</dct:title>
+            <dct:description xml:lang="en-t-fr-t0-mtec">This dataset presents annual health system costs and funding figures by supplier of goods and services, type of benefit, and funding regime, since 1960.</dct:description>
+            <dct:description xml:lang="et-t-fr-t0-mtec">Selles andmekogumis esitatakse iga-aastased tervishoiusüsteemi kulud ja rahastamisnäitajad kaupade ja teenuste tarnijate kaupa, kasuliigid ja rahastamiskord alates 1960. aastast.</dct:description>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Náklady na zdravotní systém a financování ze strany poskytovatele dávek, plánu dávek a financování</dct:title>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">Acest set de date prezintă costurile anuale ale sistemului de sănătate și cifrele de finanțare pentru fiecare furnizor de bunuri și servicii, tipul de beneficii și regimul de finanțare, începând cu 1960.</dct:description>
+            <dct:description xml:lang="it-t-fr-t0-mtec">Questo set di dati presenta i costi annuali del sistema sanitario e i dati di finanziamento per fornitore di beni e servizi, tipo di benefici e regime di finanziamento, dal 1960.</dct:description>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas izmaksas un finansējums no pabalstu sniedzēja, pabalstu un finansēšanas plāna</dct:title>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">Detta dataset presenterar årliga hälso- och sjukvårdssystemkostnader och finansieringssiffror per leverantör av varor och tjänster, typ av förmån och finansieringssystem, sedan 1960.</dct:description>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">Цей набір даних представляє щорічні витрати на систему охорони здоров'я та фінансові показники постачальника товарів і послуг, виду допомоги та режиму фінансування, починаючи з 1960 року.</dct:description>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">V tem naboru podatkov so predstavljeni letni stroški zdravstvenega sistema in podatki o financiranju po dobaviteljih blaga in storitev, vrsti ugodnosti in režimu financiranja od leta 1960.</dct:description>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Spejjeż tas-Sistema tas-Saħħa u Finanzjament mill-Fornitur tal-Benefiċċji, il-Benefiċċju u l-Pjan ta’ Finanzjament</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Kosten und Finanzierung des Gesundheitssystems je nach Leistungserbringer, Leistung und Finanzierung</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Κόστος συστήματος υγείας και χρηματοδότηση από τον πάροχο παροχών, το πρόγραμμα παροχών και χρηματοδότησης</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Ten zbiór danych przedstawia roczne koszty systemu opieki zdrowotnej i dane liczbowe dotyczące finansowania według dostawców towarów i usług, rodzaju świadczeń i systemu finansowania od 1960 r.</dct:description>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Costi del sistema sanitario e finanziamento da parte del fornitore di benefici, del piano di benefici e di finanziamento</dct:title>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">Este conjunto de dados apresenta os custos anuais do sistema de saúde e os valores de financiamento por fornecedor de haveres e serviços, tipo de benefício e regime de financiamento, desde 1960.</dct:description>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Kosten en financiering van gezondheidsstelsels door uitkeringsaanbieder, uitkerings- en financieringsplan</dct:title>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Deze dataset bevat de jaarlijkse kosten van het gezondheidszorgstelsel en de financieringscijfers per leverancier van goederen en diensten, het soort voordeel en de financieringsregeling, sinds 1960.</dct:description>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Costais an Chórais Sláinte agus Maoiniú ó Sholáthraí Sochair, Sochar agus Plean Maoinithe</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Udgifter til sundhedssystemet og finansiering pr. ydelsesudbyder, ydelses- og finansieringsplan</dct:title>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">Tässä tietokokonaisuudessa esitetään terveydenhuoltojärjestelmien vuotuiset kustannukset ja rahoitusluvut tavaroiden ja palvelujen toimittajilta, etuustyypeittäin ja rahoitusjärjestelyittäin vuodesta 1960 lähtien.</dct:description>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos priežiūros sistemos išlaidos ir išmokų teikėjo finansavimas, išmokų ir finansavimo planas</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Náklady na systém zdravotníctva a financovanie zo strany poskytovateľa dávok, plánu dávok a financovania</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Stroški zdravstvenega sistema in financiranje s strani ponudnika koristi, koristi in načrt financiranja</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">Ovaj skup podataka prikazuje godišnje troškove zdravstvenog sustava i podatke o financiranju po dobavljaču robe i usluga, vrsti naknada i režimu financiranja od 1960.</dct:description>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hälso- och sjukvårdssystemens kostnader och finansiering av förmånsgivare, förmåns- och finansieringsplan</dct:title>
+            <dct:identifier>22344076-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Разходи за здравната система и финансиране от страна на доставчика на обезщетения, ползите и плана за финансиране</dct:title>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει το ετήσιο κόστος του συστήματος υγείας και τα στοιχεία χρηματοδότησης ανά προμηθευτή αγαθών και υπηρεσιών, είδος οφέλους και καθεστώς χρηματοδότησης, από το 1960.</dct:description>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Dette datasæt viser årlige udgifter til sundhedssystemet og finansieringstal for leverandører af varer og tjenesteydelser, ydelsestype og finansieringsordning siden 1960.</dct:description>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">V tomto súbore údajov sa od roku 1960 uvádzajú ročné náklady systému zdravotnej starostlivosti a údaje o financovaní podľa dodávateľov tovaru a služieb, druhu dávok a režimu financovania.</dct:description>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Custos do Sistema de Saúde e Financiamento por Prestador de Benefícios, Benefícios e Plano de Financiamento</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health System Costs and Funding by Benefit Provider, Benefit and Funding Plan</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Costos del Sistema de Salud y Financiación por Proveedor de Beneficios, Beneficios y Plan de Financiación</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Troškovi zdravstvenog sustava i financiranje od strane davatelja naknada, naknada i plana financiranja</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tal-ispejjeż tal-kura tas-saħħa u l-finanzjament skont il-fornitur tas-servizz, it-tip ta’ prestazzjoni u reġim ta’ finanzjament, mill-1960’il quddiem.</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">Udgifter til sundhedsydelser og finansiering pr. tjenesteyder, resultat- og finansieringsordning</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään terveydenhuollon kustannuksia ja palveluntarjoajan rahoitusta koskevat vuosiluvut, suoritustapa ja rahoitusjärjestelmä vuodesta 1960 alkaen.</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o nákladoch na zdravotnú starostlivosť a financovaní zo strany poskytovateľa služieb, typ výkonnosti a režim financovania od roku 1960.</dct:description>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Troškovi zdravstvene skrbi i financiranje od strane pružatelja usluga, uspješnost i režim financiranja</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ce34a5ac-cffa-42eb-963e-65e3c7ad09e3">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Разходи и финансиране на системата за здравеопазване от доставчик на услуги, доставчик на услуги и схема за финансиране</dct:title>
+            <dct:identifier>link-22344077-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1405000000_101/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:title xml:lang="de-t-it-t0-mtec">Kosten und Finanzierung des Gesundheitssystems durch Dienstleister, Dienstleister und Förderprogramme</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Kostnader för och finansiering av hälso- och sjukvårdssystemet per tjänsteleverantör, tjänsteleverantör och finansieringssystem</dct:title>
+            <dct:title xml:lang="it">Costi e finanziamento del sistema sanitario per fornitore di prestazioni, prestazione e regime di finanziamento</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Náklady a financování systému zdravotní péče poskytovatelem služeb, poskytovatelem služeb a systémem financování</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Витрати та фінансування системи охорони здоров'я постачальником послуг, постачальником послуг та схемою фінансування</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Az egészségügyi rendszer költségei és finanszírozása szolgáltató, szolgáltató és finanszírozási rendszer alapján</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Náklady a financovanie systému zdravotnej starostlivosti poskytovateľom služieb, poskytovateľom služieb a systémom financovania</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Kosten en financiering van het gezondheidszorgstelsel door dienstverleners, dienstverleners en financieringsregelingen</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Paslaugų teikėjo, paslaugų teikėjo ir finansavimo sistemos išlaidos ir sveikatos priežiūros sistemos finansavimas</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Omkostninger og finansiering af sundhedssystemet for tjenesteydere, tjenesteydere og finansieringsordninger</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Palveluntarjoajan, palveluntarjoajan ja rahoitusjärjestelmän kustannukset ja rahoitus</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Custos e financiamento do sistema de saúde por prestador de serviços, prestador de serviços e regime de financiamento</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Koszty i finansowanie systemu opieki zdrowotnej przez usługodawcę, usługodawcę i system finansowania</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Costurile și finanțarea sistemului de sănătate de către prestatorul de servicii, prestatorul de servicii și schema de finanțare</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Stroški in financiranje zdravstvenega sistema s strani izvajalca storitev, izvajalca storitev in sheme financiranja</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="en-t-it-t0-mtec">Costs and financing of the healthcare system by service provider, service provider and funding scheme</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Veselības aprūpes sistēmas izmaksas un finansējums, ko veic pakalpojumu sniedzējs, pakalpojumu sniedzējs un finansēšanas shēma</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Costais agus maoiniú an chórais cúraim sláinte de réir soláthraí seirbhíse, soláthraí seirbhíse agus scéim mhaoinithe</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Troškovi i financiranje zdravstvenog sustava od strane pružatelja usluga, pružatelja usluga i programa financiranja</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">L-ispejjeż u l-finanzjament tas-sistema tal-kura tas-saħħa mill-fornitur tas-servizzi, il-fornitur tas-servizzi u l-iskema ta’ finanzjament</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Δαπάνες και χρηματοδότηση του συστήματος υγειονομικής περίθαλψης από τον πάροχο υπηρεσιών, τον πάροχο υπηρεσιών και το σύστημα χρηματοδότησης</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Coûts et financement du système de soins de santé par fournisseur de services, prestataire de services et système de financement</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="es-t-it-t0-mtec">Costes y financiación del sistema sanitario por proveedor de servicios, proveedor de servicios y sistema de financiación</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Tervishoiusüsteemi kulud ja rahastamine teenuseosutajate, teenuseosutajate ja rahastamisskeemide kaupa</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Egészségügyi költségek és szolgáltató általi finanszírozás, teljesítmény- és finanszírozási rendszer</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Витрати на охорону здоров'я та фінансування постачальником послуг, режим роботи та фінансування</dct:title>
+        <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Kosten und Finanzierung des Gesundheitswesens nach Leistungserbringer, Typ der Leistung und Finanzierungsregime, ab 1960.</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros išlaidos ir paslaugų teikėjo teikiamas finansavimas, veiklos rezultatai ir finansavimo tvarka</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за разходите за здравеопазване и финансирането по доставчици на услуги, вида на резултатите и режима на финансиране от 1960 г. нататък.</dct:description>
+        <dcat:keyword xml:lang="it">costi-e-finanziamento-del-sistema-sanitario</dcat:keyword>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dct:description xml:lang="fr">Ce dataset présente les chiffres annuels des coûts et du financement du système de santé selon le fournisseur de biens et services, le type de prestation et le régime de financement, depuis 1960.</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiukulud ja teenuseosutajapoolne rahastamine, tulemuslikkuse ja rahastamise kord</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales de los costes sanitarios y la financiación por proveedor de servicios, tipo de rendimiento y régimen de financiación, a partir de 1960.</dct:description>
+        <dcat:keyword xml:lang="de">kosten-und-finanzierung-des-gesundheitswesens</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/45187360-cf12-4896-b439-49e7aac0c7d6">
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Kosten en financiering van de gezondheidszorg door dienstverleners, diensten en financieringsregelingen</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Spejjeż u finanzjament tal-kura tas-saħħa skont il-fornitur tas-servizzi, is-servizzi u l-iskema ta’ finanzjament</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/en/px-x-1405000000_101"/>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Costurile și finanțarea asistenței medicale de către prestatorul de servicii, servicii și scheme de finanțare</dct:title>
+            <dct:identifier>22344076-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Kostnader för och finansiering av hälso- och sjukvård per tjänsteleverantör, tjänste- och finansieringssystem</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-en-t0-mtec">Costes y financiación de la asistencia sanitaria por proveedor de servicios, servicios y planes de financiación</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Δαπάνες και χρηματοδότηση της υγειονομικής περίθαλψης από τον πάροχο υπηρεσιών, τις υπηρεσίες και το σύστημα χρηματοδότησης</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Costais agus maoiniú cúraim sláinte ag soláthraí seirbhíse, scéim seirbhíse agus maoinithe</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Paslaugų teikėjo išlaidos ir sveikatos priežiūros finansavimas, paslaugos ir finansavimo sistema</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Náklady a financovanie zdravotnej starostlivosti poskytovateľom služieb, systémom služieb a financovania</dct:title>
+            <dct:title xml:lang="en">Costs and financing of health care by service provider, service and financing scheme</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Terveydenhuollon kustannukset ja rahoitus palveluntarjoajalta, palvelu- ja rahoitusjärjestelmä</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Разходи и финансиране на здравни грижи от доставчици на услуги, услуги и схеми за финансиране</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Udgifter til og finansiering af sundhedsydelser foretaget af tjenesteydere, service- og finansieringsordninger</dct:title>
+            <dct:format>HTML</dct:format>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Coûts et financement des soins de santé par les prestataires de services, les services et les mécanismes de financement</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Витрати та фінансування охорони здоров'я постачальником послуг, схема обслуговування та фінансування</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Costi e finanziamento dell'assistenza sanitaria da parte del prestatore di servizi, del regime di servizi e di finanziamento</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Az egészségügyi ellátás költségei és finanszírozása szolgáltató, szolgáltató és finanszírozási rendszer szerint</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Veselības aprūpes izmaksas un finansējums, ko veic pakalpojumu sniedzējs, pakalpojumu un finansēšanas shēma</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Tervishoiuteenuste kulud ja rahastamine teenuseosutajate, teenuste ja rahastamisskeemide kaupa</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Custos e financiamento dos cuidados de saúde por prestador de serviços, serviço e regime de financiamento</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Troškovi i financiranje zdravstvene zaštite od strane pružatelja usluga, usluga i programa financiranja</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Kosten und Finanzierung der Gesundheitsversorgung nach Dienstleistern, Dienstleistungen und Finanzierungssystemen</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Náklady a financování zdravotní péče poskytovatelem, službami a systémem financování</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Stroški in financiranje zdravstvenega varstva s strani izvajalca storitev, storitvene in finančne sheme</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Koszty i finansowanie opieki zdrowotnej przez usługodawcę, system usług i finansowania</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f7b2f38c-4f3d-46c6-9ad8-0ee2df0312ff">
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:language>de</dct:language>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:identifier>link-22344078-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>22344075@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Náklady na zdravotnú starostlivosť a financovanie zo strany poskytovateľa služieb, režim výkonnosti a financovania</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="fr">couts-et-financement-du-systeme-de-sante</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Δαπάνες υγειονομικής περίθαλψης και χρηματοδότηση από τον πάροχο υπηρεσιών, καθεστώς επιδόσεων και χρηματοδότησης</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie dati par veselības aprūpes izmaksām un finansējumu pa pakalpojumu sniedzējiem, darbības veidu un finansēšanas režīmu, sākot no 1960. gada.</dct:description>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє річні показники витрат на охорону здоров'я та фінансування постачальником послуг, тип ефективності та режиму фінансування, починаючи з 1960 року.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-26T00:00:00</dct:issued>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d3b5259b-1d86-4b11-a32d-385b2d174d65">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Kosten en financiering van de gezondheidszorg door dienstverleners, diensten en financieringsregelingen</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Coûts et financement des soins de santé par les prestataires de services, les services et les mécanismes de financement</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Разходи и финансиране на здравни грижи от доставчици на услуги, услуги и схеми за финансиране</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Náklady a financování zdravotní péče poskytovatelem, službami a systémem financování</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1405000000_101/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:identifier>link-22344077-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Stroški in financiranje zdravstvenega varstva s strani izvajalca storitev, storitvene in finančne sheme</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Veselības aprūpes izmaksas un finansējums, ko veic pakalpojumu sniedzējs, pakalpojumu un finansēšanas shēma</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="it-t-en-t0-mtec">Costi e finanziamento dell'assistenza sanitaria da parte del prestatore di servizi, del regime di servizi e di finanziamento</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Costais agus maoiniú cúraim sláinte ag soláthraí seirbhíse, scéim seirbhíse agus maoinithe</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Custos e financiamento dos cuidados de saúde por prestador de serviços, serviço e regime de financiamento</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Kosten und Finanzierung der Gesundheitsversorgung nach Dienstleistern, Dienstleistungen und Finanzierungssystemen</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Paslaugų teikėjo išlaidos ir sveikatos priežiūros finansavimas, paslaugos ir finansavimo sistema</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="et-t-en-t0-mtec">Tervishoiuteenuste kulud ja rahastamine teenuseosutajate, teenuste ja rahastamisskeemide kaupa</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Az egészségügyi ellátás költségei és finanszírozása szolgáltató, szolgáltató és finanszírozási rendszer szerint</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Udgifter til og finansiering af sundhedsydelser foretaget af tjenesteydere, service- og finansieringsordninger</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Costes y financiación de la asistencia sanitaria por proveedor de servicios, servicios y planes de financiación</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Kostnader för och finansiering av hälso- och sjukvård per tjänsteleverantör, tjänste- och finansieringssystem</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Náklady a financovanie zdravotnej starostlivosti poskytovateľom služieb, systémom služieb a financovania</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Spejjeż u finanzjament tal-kura tas-saħħa skont il-fornitur tas-servizzi, is-servizzi u l-iskema ta’ finanzjament</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Terveydenhuollon kustannukset ja rahoitus palveluntarjoajalta, palvelu- ja rahoitusjärjestelmä</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Costurile și finanțarea asistenței medicale de către prestatorul de servicii, servicii și scheme de finanțare</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Koszty i finansowanie opieki zdrowotnej przez usługodawcę, system usług i finansowania</dct:title>
+            <dct:title xml:lang="en">Costs and financing of health care by service provider, service and financing scheme</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Δαπάνες και χρηματοδότηση της υγειονομικής περίθαλψης από τον πάροχο υπηρεσιών, τις υπηρεσίες και το σύστημα χρηματοδότησης</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Витрати та фінансування охорони здоров'я постачальником послуг, схема обслуговування та фінансування</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Troškovi i financiranje zdravstvene zaštite od strane pružatelja usluga, usluga i programa financiranja</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9389d8e4-f939-4904-a4c2-59ee1af7e33d">
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta i dati annuali relativi ai costi sanitari e al finanziamento da parte del prestatore di servizi, tipo di regime di prestazioni e di finanziamento, a partire dal 1960.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Náklady na zdravotnú starostlivosť a financovanie zo strany poskytovateľa služieb, režim výkonnosti a financovania</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Udgifter til sundhedsydelser og finansiering pr. tjenesteyder, resultat- og finansieringsordning</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos presenta las cifras anuales de los costes sanitarios y la financiación por proveedor de servicios, tipo de rendimiento y régimen de financiación, a partir de 1960.</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Detta dataset visar de årliga siffrorna för hälso- och sjukvårdskostnader och finansiering per tjänsteleverantör, typ av resultat och finansieringssystem, från 1960 och framåt.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Costais cúraim sláinte agus maoiniú ón soláthraí seirbhíse, córas feidhmíochta agus cistiúcháin</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kostnader för hälso- och sjukvård och finansiering per tjänsteleverantör, prestations- och finansieringssystem</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Витрати на охорону здоров'я та фінансування постачальником послуг, режим роботи та фінансування</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Coûts et financement des soins de santé par prestataire, prestation et régime de financement</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Troškovi zdravstvene skrbi i financiranje od strane pružatelja usluga, uspješnost i režim financiranja</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Costes sanitarios y financiación por proveedor de servicios, rendimiento y régimen de financiación</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Koszty opieki zdrowotnej i finansowanie przez usługodawcę, system wydajności i finansowania</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία του κόστους υγειονομικής περίθαλψης και της χρηματοδότησης ανά πάροχο υπηρεσιών, το είδος των επιδόσεων και το καθεστώς χρηματοδότησης, από το 1960 και μετά.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kosten van gezondheidszorg en financiering door dienstverlener, prestatie- en financieringsstelsel</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes izmaksas un pakalpojumu sniedzēja finansējums, darbības rezultāti un finansēšanas režīms</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Costurile asistenței medicale și finanțarea de către prestatorul de servicii, sistemul de performanță și de finanțare</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor představuje roční údaje o nákladech na zdravotní péči a financování ze strany poskytovatele služeb, druhu výkonnosti a režimu financování od roku 1960.</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jippreżenta ċ-ċifri annwali tal-ispejjeż tal-kura tas-saħħa u l-finanzjament skont il-fornitur tas-servizz, it-tip ta’ prestazzjoni u reġim ta’ finanzjament, mill-1960’il quddiem.</dct:description>
+            <dct:identifier>22344076-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="de">Kosten und Finanzierung des Gesundheitswesens nach Leistungserbringer, Leistung und Finanzierungsregime</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Custos de saúde e financiamento por prestador de serviços, desempenho e regime de financiamento</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:description xml:lang="de">Dieser Dataset präsentiert die jährlichen Zahlen der Kosten und Finanzierung des Gesundheitswesens nach Leistungserbringer, Typ der Leistung und Finanzierungsregime, ab 1960.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egészségügyi költségek és szolgáltató általi finanszírozás, teljesítmény- és finanszírozási rendszer</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">V tomto súbore údajov sa uvádzajú ročné údaje o nákladoch na zdravotnú starostlivosť a financovaní zo strany poskytovateľa služieb, typ výkonnosti a režim financovania od roku 1960.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az egészségügyi költségekre és a szolgáltatók általi finanszírozásra, a teljesítmény típusára és a finanszírozási rendszerre vonatkozó éves számadatokat mutatja be 1960-tól kezdődően.</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données présente les chiffres annuels du coût et du financement des soins de santé par prestataire de soins, type de prestation et régime de financement, à partir de 1960.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Tässä tietokokonaisuudessa esitetään terveydenhuollon kustannuksia ja palveluntarjoajan rahoitusta koskevat vuosiluvut, suoritustapa ja rahoitusjärjestelmä vuodesta 1960 alkaen.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δαπάνες υγειονομικής περίθαλψης και χρηματοδότηση από τον πάροχο υπηρεσιών, καθεστώς επιδόσεων και χρηματοδότησης</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os valores anuais dos custos de saúde e financiamento por prestador de serviços, tipo de desempenho e regime de financiamento, a partir de 1960.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of healthcare costs and financing by service provider, type of performance and funding regime, from 1960 onwards.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące kosztów opieki zdrowotnej i finansowania według usługodawców, rodzaju wyników i systemu finansowania, począwszy od 1960 r.</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiukulud ja teenuseosutajapoolne rahastamine, tulemuslikkuse ja rahastamise kord</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o stroških zdravstvenega varstva in financiranju po izvajalcih storitev, vrsti uspešnosti in sistemu financiranja od leta 1960 dalje.</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset geeft de jaarlijkse cijfers weer van de kosten van de gezondheidszorg en de financiering door de dienstverlener, het soort prestaties en het financieringsregime, vanaf 1960.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros išlaidos ir paslaugų teikėjo teikiamas finansavimas, veiklos rezultatai ir finansavimo tvarka</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse tervishoiukulude ja -rahastamise aastaandmed teenuseosutajate, tulemuslikkuse ja rahastamiskorra kaupa alates 1960. aastast.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon kustannukset ja palveluntarjoajan rahoitus, tulos- ja rahoitusjärjestelmä</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Healthcare costs and financing by service provider, performance and funding regime</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale costurilor asistenței medicale și ale finanțării de către prestatorul de servicii, tipul de performanță și regimul de finanțare, începând cu 1960.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for udgifter til sundhedspleje og finansiering pr. tjenesteyder, resultattype og finansieringsordning fra 1960 og fremefter.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Stroški zdravstvenega varstva in financiranje s strani izvajalca storitev, uspešnost in ureditev financiranja</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">L-ispejjeż tal-kura tas-saħħa u l-finanzjament skont il-fornitur tas-servizzi, ir-reġim tal-prestazzjoni u l-finanzjament</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Náklady na zdravotní péči a financování poskytovatelem služeb, výkonnost a režim financování</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Разходи за здравеопазване и финансиране от доставчик на услуги, резултати и режим на финансиране</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā datu kopā ir atspoguļoti ikgadējie dati par veselības aprūpes izmaksām un finansējumu pa pakalpojumu sniedzējiem, darbības veidu un finansēšanas režīmu, sākot no 1960. gada.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни представя годишните данни за разходите за здравеопазване и финансирането по доставчици на услуги, вида на резултатите и режима на финансиране от 1960 г. нататък.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o troškovima zdravstvene skrbi i financiranju po pružatelju usluga, vrsti uspješnosti i režimu financiranja od 1960. nadalje.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Цей набір даних представляє річні показники витрат на охорону здоров'я та фінансування постачальником послуг, тип ефективності та режиму фінансування, починаючи з 1960 року.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla na gcostas cúraim sláinte agus an mhaoinithe ón soláthraí seirbhíse, an cineál feidhmíochta agus an córas maoinithe, ó 1960 ar aghaidh.</dct:description>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami metiniai sveikatos priežiūros išlaidų ir paslaugų teikėjo finansavimo duomenys, veiklos rezultatų rūšis ir finansavimo tvarka nuo 1960 m.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1405000000_101"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Costi sanitari e finanziamento da parte del prestatore di servizi, regime di prestazioni e di finanziamento</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Разходи за здравеопазване и финансиране от доставчик на услуги, резултати и режим на финансиране</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date prezintă cifrele anuale ale costurilor asistenței medicale și ale finanțării de către prestatorul de servicii, tipul de performanță și regimul de finanțare, începând cu 1960.</dct:description>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="de">Kosten und Finanzierung des Gesundheitswesens nach Leistungserbringer, Leistung und Finanzierungsregime</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt viser de årlige tal for udgifter til sundhedspleje og finansiering pr. tjenesteyder, resultattype og finansieringsordning fra 1960 og fremefter.</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Costes sanitarios y financiación por proveedor de servicios, rendimiento y régimen de financiación</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:48:56.956531</dct:modified>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes izmaksas un pakalpojumu sniedzēja finansējums, darbības rezultāti un finansēšanas režīms</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:language>en</dct:language>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šiame duomenų rinkinyje pateikiami metiniai sveikatos priežiūros išlaidų ir paslaugų teikėjo finansavimo duomenys, veiklos rezultatų rūšis ir finansavimo tvarka nuo 1960 m.</dct:description>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Koszty opieki zdrowotnej i finansowanie przez usługodawcę, system wydajności i finansowania</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Custos de saúde e financiamento por prestador de serviços, desempenho e regime de financiamento</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset presents the annual figures of healthcare costs and financing by service provider, type of performance and funding regime, from 1960 onwards.</dct:description>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset geeft de jaarlijkse cijfers weer van de kosten van de gezondheidszorg en de financiering door de dienstverlener, het soort prestaties en het financieringsregime, vanaf 1960.</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Costais cúraim sláinte agus maoiniú ón soláthraí seirbhíse, córas feidhmíochta agus cistiúcháin</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor představuje roční údaje o nákladech na zdravotní péči a financování ze strany poskytovatele služeb, druhu výkonnosti a režimu financování od roku 1960.</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">V tem naboru podatkov so predstavljeni letni podatki o stroških zdravstvenega varstva in financiranju po izvajalcih storitev, vrsti uspešnosti in sistemu financiranja od leta 1960 dalje.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/58a2f459-67d4-4255-8de6-a422feca65e4">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Koszty i finansowanie systemu opieki zdrowotnej przez usługodawcę, usługodawcę i system finansowania</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Palveluntarjoajan, palveluntarjoajan ja rahoitusjärjestelmän kustannukset ja rahoitus</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Costes y financiación del sistema sanitario por proveedor de servicios, proveedor de servicios y sistema de financiación</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Custos e financiamento do sistema de saúde por prestador de serviços, prestador de serviços e regime de financiamento</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Kosten und Finanzierung des Gesundheitssystems durch Dienstleister, Dienstleister und Förderprogramme</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Δαπάνες και χρηματοδότηση του συστήματος υγειονομικής περίθαλψης από τον πάροχο υπηρεσιών, τον πάροχο υπηρεσιών και το σύστημα χρηματοδότησης</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Tervishoiusüsteemi kulud ja rahastamine teenuseosutajate, teenuseosutajate ja rahastamisskeemide kaupa</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">L-ispejjeż u l-finanzjament tas-sistema tal-kura tas-saħħa mill-fornitur tas-servizzi, il-fornitur tas-servizzi u l-iskema ta’ finanzjament</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Costs and financing of the healthcare system by service provider, service provider and funding scheme</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Náklady a financovanie systému zdravotnej starostlivosti poskytovateľom služieb, poskytovateľom služieb a systémom financovania</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Náklady a financování systému zdravotní péče poskytovatelem služeb, poskytovatelem služeb a systémem financování</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Costurile și finanțarea sistemului de sănătate de către prestatorul de servicii, prestatorul de servicii și schema de finanțare</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Paslaugų teikėjo, paslaugų teikėjo ir finansavimo sistemos išlaidos ir sveikatos priežiūros sistemos finansavimas</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Kostnader för och finansiering av hälso- och sjukvårdssystemet per tjänsteleverantör, tjänsteleverantör och finansieringssystem</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Разходи и финансиране на системата за здравеопазване от доставчик на услуги, доставчик на услуги и схема за финансиране</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Coûts et financement du système de soins de santé par fournisseur de services, prestataire de services et système de financement</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Veselības aprūpes sistēmas izmaksas un finansējums, ko veic pakalpojumu sniedzējs, pakalpojumu sniedzējs un finansēšanas shēma</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Stroški in financiranje zdravstvenega sistema s strani izvajalca storitev, izvajalca storitev in sheme financiranja</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Витрати та фінансування системи охорони здоров'я постачальником послуг, постачальником послуг та схемою фінансування</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/px-x-1405000000_101"/>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Kosten en financiering van het gezondheidszorgstelsel door dienstverleners, dienstverleners en financieringsregelingen</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Omkostninger og finansiering af sundhedssystemet for tjenesteydere, tjenesteydere og finansieringsordninger</dct:title>
+            <dct:title xml:lang="it">Costi e finanziamento del sistema sanitario per fornitore di prestazioni, prestazione e regime di finanziamento</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Az egészségügyi rendszer költségei és finanszírozása szolgáltató, szolgáltató és finanszírozási rendszer alapján</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Costais agus maoiniú an chórais cúraim sláinte de réir soláthraí seirbhíse, soláthraí seirbhíse agus scéim mhaoinithe</dct:title>
+            <dct:identifier>22344076-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Troškovi i financiranje zdravstvenog sustava od strane pružatelja usluga, pružatelja usluga i programa financiranja</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3038c18f-d4c9-4ac4-81f1-747d830fcc00">
+            <dct:title xml:lang="pt-t-it-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Structure JSON</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="it">Struttura JSON</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Struttura JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sk-t-it-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Структура JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">JSON Struktur</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">JSON structuur</dct:title>
+            <dct:identifier>link-22344078-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/it/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:title xml:lang="lt-t-it-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">JSON struktūra</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="fi-t-it-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">JSON-strukturen</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr">Coûts et financement du système de santé selon le fournisseur de prestations, la prestation et le régime de financement</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Selles andmekogumis esitatakse tervishoiukulude ja -rahastamise aastaandmed teenuseosutajate, tulemuslikkuse ja rahastamiskorra kaupa alates 1960. aastast.</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων παρουσιάζει τα ετήσια αριθμητικά στοιχεία του κόστους υγειονομικής περίθαλψης και της χρηματοδότησης ανά πάροχο υπηρεσιών, το είδος των επιδόσεων και το καθεστώς χρηματοδότησης, από το 1960 και μετά.</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Léirítear sa tacar sonraí seo figiúirí bliantúla na gcostas cúraim sláinte agus an mhaoinithe ón soláthraí seirbhíse, an cineál feidhmíochta agus an córas maoinithe, ó 1960 ar aghaidh.</dct:description>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados apresenta os valores anuais dos custos de saúde e financiamento por prestador de serviços, tipo de desempenho e regime de financiamento, a partir de 1960.</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Stroški zdravstvenega varstva in financiranje s strani izvajalca storitev, uspešnost in ureditev financiranja</dct:title>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Kosten van gezondheidszorg en financiering door dienstverlener, prestatie- en financieringsstelsel</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Detta dataset visar de årliga siffrorna för hälso- och sjukvårdskostnader och finansiering per tjänsteleverantör, typ av resultat och finansieringssystem, från 1960 och framåt.</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">L-ispejjeż tal-kura tas-saħħa u l-finanzjament skont il-fornitur tas-servizzi, ir-reġim tal-prestazzjoni u l-finanzjament</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3d228d04-a0f9-480e-aa9b-c07aae3a81ec">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Troškovi zdravstvene skrbi i financiranje od strane pružatelja usluga, uspješnost i režim financiranja</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Náklady na zdravotní péči a financování poskytovatelem služeb, výkonnost a režim financování</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Healthcare costs and financing by service provider, performance and funding regime</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Разходи за здравеопазване и финансиране от доставчик на услуги, резултати и режим на финансиране</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δαπάνες υγειονομικής περίθαλψης και χρηματοδότηση από τον πάροχο υπηρεσιών, καθεστώς επιδόσεων και χρηματοδότησης</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Coûts et financement des soins de santé par prestataire, prestation et régime de financement</dct:title>
+            <dct:title xml:lang="de">Kosten und Finanzierung des Gesundheitswesens nach Leistungserbringer, Leistung und Finanzierungsregime</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Koszty opieki zdrowotnej i finansowanie przez usługodawcę, system wydajności i finansowania</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kostnader för hälso- och sjukvård och finansiering per tjänsteleverantör, prestations- och finansieringssystem</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Udgifter til sundhedsydelser og finansiering pr. tjenesteyder, resultat- og finansieringsordning</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Veselības aprūpes izmaksas un pakalpojumu sniedzēja finansējums, darbības rezultāti un finansēšanas režīms</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1405000000_101/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Costurile asistenței medicale și finanțarea de către prestatorul de servicii, sistemul de performanță și de finanțare</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Custos de saúde e financiamento por prestador de serviços, desempenho e regime de financiamento</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon kustannukset ja palveluntarjoajan rahoitus, tulos- ja rahoitusjärjestelmä</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Costais cúraim sláinte agus maoiniú ón soláthraí seirbhíse, córas feidhmíochta agus cistiúcháin</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Stroški zdravstvenega varstva in financiranje s strani izvajalca storitev, uspešnost in ureditev financiranja</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Sveikatos priežiūros išlaidos ir paslaugų teikėjo teikiamas finansavimas, veiklos rezultatai ir finansavimo tvarka</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Витрати на охорону здоров'я та фінансування постачальником послуг, режим роботи та фінансування</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">L-ispejjeż tal-kura tas-saħħa u l-finanzjament skont il-fornitur tas-servizzi, ir-reġim tal-prestazzjoni u l-finanzjament</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egészségügyi költségek és szolgáltató általi finanszírozás, teljesítmény- és finanszírozási rendszer</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Náklady na zdravotnú starostlivosť a financovanie zo strany poskytovateľa služieb, režim výkonnosti a financovania</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Costi sanitari e finanziamento da parte del prestatore di servizi, regime di prestazioni e di finanziamento</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tervishoiukulud ja teenuseosutajapoolne rahastamine, tulemuslikkuse ja rahastamise kord</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:identifier>link-22344077-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-de-t0-mtec">Costes sanitarios y financiación por proveedor de servicios, rendimiento y régimen de financiación</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kosten van gezondheidszorg en financiering door dienstverlener, prestatie- en financieringsstelsel</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati presenta i dati annuali relativi ai costi sanitari e al finanziamento da parte del prestatore di servizi, tipo di regime di prestazioni e di finanziamento, a partire dal 1960.</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet az egészségügyi költségekre és a szolgáltatók általi finanszírozásra, a teljesítmény típusára és a finanszírozási rendszerre vonatkozó éves számadatokat mutatja be 1960-tól kezdődően.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f8e1801e-ba1b-41df-8793-09f21692c9f4">
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Stroški zdravstvenega sistema in financiranje s strani ponudnika koristi, koristi in načrt financiranja</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Κόστος συστήματος υγείας και χρηματοδότηση από τον πάροχο παροχών, το πρόγραμμα παροχών και χρηματοδότησης</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Terveydenhuoltojärjestelmän kustannukset ja rahoitus etuuksien tarjoajan, etuuden ja rahoitussuunnitelman mukaan</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Kosten en financiering van gezondheidsstelsels door uitkeringsaanbieder, uitkerings- en financieringsplan</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fr">Coûts et financement du système de santé selon le fournisseur de prestations, la prestation et le régime de financement</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Spejjeż tas-Sistema tas-Saħħa u Finanzjament mill-Fornitur tal-Benefiċċji, il-Benefiċċju u l-Pjan ta’ Finanzjament</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Veselības aprūpes sistēmas izmaksas un finansējums no pabalstu sniedzēja, pabalstu un finansēšanas plāna</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Витрати на систему охорони здоров'я та фінансування від постачальника допомоги, допомоги та фінансування</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Costi del sistema sanitario e finanziamento da parte del fornitore di benefici, del piano di benefici e di finanziamento</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Sveikatos priežiūros sistemos išlaidos ir išmokų teikėjo finansavimas, išmokų ir finansavimo planas</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Koszty systemu opieki zdrowotnej i finansowanie przez dostawcę świadczeń, plan świadczeń i finansowania</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Costurile sistemului de sănătate și finanțarea de către furnizorul de beneficii, planul de beneficii și de finanțare</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Custos do Sistema de Saúde e Financiamento por Prestador de Benefícios, Benefícios e Plano de Financiamento</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Hälso- och sjukvårdssystemens kostnader och finansiering av förmånsgivare, förmåns- och finansieringsplan</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1405000000_101/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Náklady na zdravotní systém a financování ze strany poskytovatele dávek, plánu dávek a financování</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Kosten und Finanzierung des Gesundheitssystems je nach Leistungserbringer, Leistung und Finanzierung</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Costais an Chórais Sláinte agus Maoiniú ó Sholáthraí Sochair, Sochar agus Plean Maoinithe</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Troškovi zdravstvenog sustava i financiranje od strane davatelja naknada, naknada i plana financiranja</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Разходи за здравната система и финансиране от страна на доставчика на обезщетения, ползите и плана за финансиране</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egészségügyi rendszer költségei és az ellátás szolgáltatója, juttatási és finanszírozási terve</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Náklady na systém zdravotníctva a financovanie zo strany poskytovateľa dávok, plánu dávok a financovania</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Tervishoiusüsteemi kulud ja rahastamine hüvitiste pakkuja, hüvitiste ja rahastamiskava poolt</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Health System Costs and Funding by Benefit Provider, Benefit and Funding Plan</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Udgifter til sundhedssystemet og finansiering pr. ydelsesudbyder, ydelses- og finansieringsplan</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Costos del Sistema de Salud y Financiación por Proveedor de Beneficios, Beneficios y Plan de Financiación</dct:title>
+            <dct:identifier>link-22344077-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych przedstawia roczne dane dotyczące kosztów opieki zdrowotnej i finansowania według usługodawców, rodzaju wyników i systemu finansowania, począwszy od 1960 r.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/43cbd87c-e4ca-4d3a-b88b-a2ad1df5dba9">
+            <dct:title xml:lang="lv-t-en-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">JSON structuur</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="sv-t-en-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Structure JSON</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">JSON Struktur</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:identifier>link-22344078-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hr-t-en-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Struttura di JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/en/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:title xml:lang="et-t-en-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="en">JSON structure</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Структура JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">JSON-rakenne</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Kostnader för hälso- och sjukvård och finansiering per tjänsteleverantör, prestations- och finansieringssystem</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/292226a3-bd4b-4147-99b6-b5504ef9a075">
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:identifier>link-22344078-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1405000000_101/px-x-1405000000_101.px"/>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-26T00:00:00</dct:issued>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">statistic-on-the-costs-and-financing-of-the-health-system</dcat:keyword>
+        <dct:title xml:lang="it">Costi e finanziamento del sistema sanitario per fornitore di prestazioni, prestazione e regime di finanziamento</dct:title>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Terveydenhuollon kustannukset ja palveluntarjoajan rahoitus, tulos- ja rahoitusjärjestelmä</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Costurile asistenței medicale și finanțarea de către prestatorul de servicii, sistemul de performanță și de finanțare</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Náklady na zdravotní péči a financování poskytovatelem služeb, výkonnost a režim financování</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka prikazuje godišnje podatke o troškovima zdravstvene skrbi i financiranju po pružatelju usluga, vrsti uspješnosti i režimu financiranja od 1960. nadalje.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

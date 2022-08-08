@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/q3rdsxi3m6jsi2pmxmsmcw">
+    <dct:identifier>q3RdsXI3M6JSi2pmXmsmcw</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:05:44Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T02:07:26Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T02:07:26Z</dct:modified>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/q3rdsxi3m6jsi2pmxmsmcw">
+        <dct:description xml:lang="pl-t-en-t0-mtec">Wydatki sektora instytucji rządowych i samorządowych według funkcji (COFOG)</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Výdavky verejnej správy podľa funkcií (COFOG)</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Разходи на сектор „Държавно управление“ по функции (COFOG)</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Разходи на сектор „Държавно управление“ по функции (COFOG)</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Julkisyhteisöjen menot toimialoittain (COFOG)</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Загальні державні витрати за функціями (COFOG)</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Offentliga utgifter efter funktion (COFOG)</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Cheltuieli ale administrației publice pe funcții (COFOG)</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Despesas das administrações públicas por função (COFOG)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c551a474-8465-4f9d-98af-4a457705d60d">
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="en">General government expenditure by function (COFOG)</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/gov_10a_exp.sdmx.zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="de">Ausgaben des Staates nach Aufgabenbereichen (COFOG)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/a96c1b54-3974-4ca2-901a-f0d009caeafa</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Dépenses des administrations publiques par fonction (CFAP)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Cheltuieli ale administrației publice pe funcții (COFOG)</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Spesa delle amministrazioni pubbliche per funzione (COFOG)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="da-t-en-t0-mtec">Offentlige udgifter efter funktion (COFOG)</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Δαπάνες γενικής κυβέρνησης ανά λειτουργία (COFOG)</dct:description>
+        <dct:title xml:lang="de">Ausgaben des Staates nach Aufgabenbereichen (COFOG)</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Overheidsuitgaven naar functie (COFOG)</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Rashodi opće države po funkcijama (COFOG)</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Overheidsuitgaven naar functie (COFOG)</dct:title>
+        <dct:description xml:lang="fr">Dépenses des administrations publiques par fonction (CFAP)</dct:description>
+        <dct:identifier>gov_10a_exp</dct:identifier>
+        <dct:title xml:lang="fr">Dépenses des administrations publiques par fonction (CFAP)</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/6402"/>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Nefqa tal-gvern ġenerali skont il-funzjoni (COFOG)</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Wydatki sektora instytucji rządowych i samorządowych według funkcji (COFOG)</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Caiteachas rialtais ghinearálta de réir feidhme (COFOG)</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Vispārējās valdības izdevumi pa funkcijām (COFOG)</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Államháztartási kiadások funkció szerinti bontásban (COFOG)</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Spesa delle amministrazioni pubbliche per funzione (COFOG)</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Výdaje vládních institucí podle funkce (COFOG)</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/gov_10a_exp">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/gov_10a_exp</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/q3rdsxi3m6jsi2pmxmsmcw"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/gov_10a_exp</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Výdavky verejnej správy podľa funkcií (COFOG)</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Caiteachas rialtais ghinearálta de réir feidhme (COFOG)</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_exp_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_exp_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/q3rdsxi3m6jsi2pmxmsmcw"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="en">General government expenditure by function (COFOG)</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="el-t-en-t0-mtec">Δαπάνες γενικής κυβέρνησης ανά λειτουργία (COFOG)</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Javnofinančni odhodki po funkcijah (COFOG)</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_exp_esms.sdmx.zip">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/q3rdsxi3m6jsi2pmxmsmcw"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/gov_10a_exp_esms.sdmx.zip</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="et-t-en-t0-mtec">Valitsemissektori kulud ülesannete kaupa (COFOG)</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Gastos de las administraciones públicas por función (COFOG)</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Vispārējās valdības izdevumi pa funkcijām (COFOG)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b78f4e24-ad9a-4f22-8e00-d0651e347895">
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/8384a0d5-7f1e-4e20-9fca-15deec1a27f7</dct:identifier>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Ausgaben des Staates nach Aufgabenbereichen (COFOG)</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">General government expenditure by function (COFOG)</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="fr">Dépenses des administrations publiques par fonction (CFAP)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/gov_10a_exp.tsv.gz"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Javnofinančni odhodki po funkcijah (COFOG)</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Výdaje vládních institucí podle funkce (COFOG)</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Valdžios sektoriaus išlaidos pagal funkcijas (COFOG)</dct:description>
+        <dct:title xml:lang="en">General government expenditure by function (COFOG)</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-21</dct:modified>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/gov_10a_exp"/>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Загальні державні витрати за функціями (COFOG)</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Gastos de las administraciones públicas por función (COFOG)</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/62561c92-b541-4719-be37-790d3d1cf901">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/ddbc8a25-303b-4315-8a5b-705d963db9f9">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="de">Ausgaben des Staates nach Aufgabenbereichen (COFOG)</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Nefqa tal-gvern ġenerali skont il-funzjoni (COFOG)</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/q3RdsXI3M6JSi2pmXmsmcw</dct:identifier>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        </dcat:theme>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Despesas das administrações públicas por função (COFOG)</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Valdžios sektoriaus išlaidos pagal funkcijas (COFOG)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/66981081-5636-4640-a443-b6e554023053">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/gov_10a_exp.tsv.gz&amp;unzip=true"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/d0ce279c-e18f-4707-ada2-8e851180745c</dct:identifier>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="de">Ausgaben des Staates nach Aufgabenbereichen (COFOG)</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="en">General government expenditure by function (COFOG)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="fr">Dépenses des administrations publiques par fonction (CFAP)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="et-t-en-t0-mtec">Valitsemissektori kulud ülesannete kaupa (COFOG)</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Offentlige udgifter efter funktion (COFOG)</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Rashodi opće države po funkcijama (COFOG)</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Offentliga utgifter efter funktion (COFOG)</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/609ef49e-e6bc-48b3-909f-08de699d78b3">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1990-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Julkisyhteisöjen menot toimialoittain (COFOG)</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Államháztartási kiadások funkció szerinti bontásban (COFOG)</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/q3rdsxi3m6jsi2pmxmsmcw"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>ed506356c81e241e4e14665b1c2a2a25</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

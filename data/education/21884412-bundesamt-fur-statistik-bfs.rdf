@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/21884412-bundesamt-fur-statistik-bfs">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:56Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/21884412-bundesamt-fur-statistik-bfs"/>
+    <dct:identifier>21884412@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:38:56Z</edp:transReceived>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>2c575621ee2bb7bc4ff62f94fdacef6d</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</edp:transIssued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/21884412-bundesamt-fur-statistik-bfs">
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dcat:keyword xml:lang="en">students-and-degrees-of-higher-education-institutions</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/84dbe47c-3c63-4db0-9eec-1fdc1bbfe617">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:identifier>link-21884423-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1502040100_123/px-x-1502040100_123.px"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Iontrálacha ar Cheadúnú/Dioplóma Leibhéil agus Céim Bhaitsiléara ó ollscoileanna ollscoile de réir bliana, ábhair, inscne agus ollscoile</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Toelatingen tot Levels Licensing/Diploma en Bachelor’s degree van universitaire universiteiten per jaar, onderwerp, geslacht en universiteit</dct:title>
+        <dcat:keyword xml:lang="it">studenti-ed-esami-delle-scuole-universitarie</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/284b3a36-2de6-4fc9-a19d-a2adb92a1863">
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Mic léinn nua UNI ag leibhéil céime/dioplóma agus bhaitsiléara in aghaidh na bliana, seoladh staidéir, gnéas agus scoil ollscoile</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Nouveaux étudiants de l’UNI aux niveaux de diplôme/diplôme et de baccalauréat par an, adresse d’étude, sexe et école universitaire</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Nowi studenci UNI na poziomie studiów/dyplomu i licencjata rocznie, adres studiów, płeć i szkoła wyższa</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Nya UNI-studenter på examens-/diplom- och kandidatnivå per år, studieadress, kön och universitetsskola</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Nuevos estudiantes de UNI en los niveles de grado/diploma y licenciatura por año, dirección de estudio, sexo y escuela universitaria</dct:title>
+            <dct:identifier>21884419-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Új UNI hallgatók diploma/diploma és főiskolai szinten évente, tanulmányi cím, szex és egyetemi iskola</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Noví študenti UNI na stupni/diplome a bakalárskej úrovni ročne, študijná adresa, sexuálna a univerzitná škola</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Uued UNI üliõpilased kraadi/diplomi ja bakalaureuse tasemel aastas, õppeaadress, sugu ja ülikoolikool</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Nye UNI-studerende på grad/diplom- og bachelorniveau pr. år, studieadresse, køn og universitetsskole</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Нови студенти на UNI в степен/диплома и бакалавърска степен годишно, адрес на обучение, секс и университетско училище</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Noi studenți UNI la nivel de diplomă/diplomă și licență pe an, adresa de studiu, sex și școală universitară</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Uudet UNI opiskelijat tutkinto/diploma ja kandidaatin tasolla vuodessa, opinto-osoite, sukupuoli ja yliopistokoulu</dct:title>
+            <dct:title xml:lang="it">Nuovi studenti UNI ai livelli laurea/diploma e bachelor per anno, indirizzo di studio, sesso e scuola universitaria</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Nieuwe UNI-studenten op diploma- en bachelorniveau per jaar, studieadres, seks- en universitaire school</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Noví studenti UNI na studijní/diplomové a bakalářské úrovni za rok, studijní adresa, sex a univerzitní škola</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">New UNI students at degree/diploma and bachelor levels per year, study address, sex and university school</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Jauni UNI studenti grāda/diploma un bakalaura līmenī gadā, studiju adrese, dzimuma un universitātes skola</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Νέοι φοιτητές UNI σε επίπεδο πτυχίου/διπλώματος και πτυχίου ανά έτος, διεύθυνση μελέτης, φύλο και πανεπιστημιακή σχολή</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Novos estudantes da UNI nos níveis de grau/diploma e bacharel por ano, endereço de estudo, sexo e escola universitária</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Nauji UNI studentai laipsnio/diplomos ir bakalauro lygiais per metus, studijų adresas, seksas ir universitetinė mokykla</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Нові студенти UNI на ступінь / диплом і бакалавр рівні на рік, адреса навчання, секс і університетська школа</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Novi študenti UNI na ravni diplome/diplome in diplome na leto, naslov študija, spol in univerzitetna šola</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Novi studenti UNI-ja na razini diploma/diplome i prvostupnika godišnje, adresa studija, spolna i sveučilišna škola</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Neue Uni-Studierende auf Abschluss-/Diplom- und Bachelor-Niveau pro Jahr, Studienadresse, Sex und Universitätsschule</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Studenti ġodda tal-UNI fil-livelli ta’ lawrja/diploma u baċellerat fis-sena, indirizz ta’ studju, sess u skola universitarja</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/px-x-1502040100_123"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Vpisi na nivoje licenc/diploma in dodiplomski študij na univerzitetnih univerzah po letu, predmetu, spolu in univerzi</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6b9d98f1-cd7e-4f57-8816-37d01e0ec121">
+            <dct:title xml:lang="fr">Entrants aux niveaux licence/diplôme et bachelor des hautes écoles universitaires selon l'année, la branche d'études, le sexe et la haute école</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Deltagare i kandidatexamen/diplom och kandidatexamen vid högskolor efter år, studiegren, kön och universitet</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Belépők főiskolai/diploma és főiskolai diplomát egyetemi főiskolák évenként, ága a tanulmányi, nemi és egyetemi</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Deltagere på bachelor/diplom og bachelorgrad på universitetshøjskoler efter år, studieretning, køn og universitet</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Opiskelijat kandidaatin/diploma ja kandidaatin tutkinto korkeakouluissa vuosittain, haara, sukupuoli ja yliopisto</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Študenti na dodiplomski/diplomi in diplomi na univerzitetnih univerzah po letu, veji študija, spolu in univerzi</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Участници в бакалавърска/дипломна степен и бакалавърска степен в университетски колежи по година, клон на обучение, пол и университет</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Εισερχόμενοι σε πτυχίο πανεπιστημίου/διπλώματος και πτυχίου σε πανεπιστημιακά κολέγια ανά έτος, κλάδο σπουδών, φύλο και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Parteċipanti fil-baċellerat/diploma u lawrja ta’ baċellerat fil-kulleġġi universitarji skont is-sena, il-fergħa ta’ studju, is-sess u l-università</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Iontrálaithe ar chéim bhaitsiléara/dioplóma agus bhaitsiléara i gcoláistí ollscoile de réir bliana, brainse staidéir, inscne agus ollscoile</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Uczestnicy studiów licencjackich/dyplomowych i licencjackich na uczelniach wyższych według roku, gałęzi studiów, płci i uniwersytetu</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Absolventai bakalauro/diplomos ir bakalauro laipsnį universitetų kolegijose pagal metus, studijų šaką, lytį ir universitetą</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Participantes en licenciatura/diploma y licenciatura en colegios universitarios por año, rama de estudio, género y universidad</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zájemci o bakalářský/diploma a bakalářský titul na vysokých školách podle roku, obor studia, pohlaví a univerzity</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Intrarea la licență/diplomă și diplomă de licență la colegiile universitare pe an, ramură de studiu, gen și universitate</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Candidatos a bacharelado/diploma e bacharelado em faculdades universitárias por ano, ramo de estudo, gênero e universidade</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Entrants to bachelor’s/diploma and bachelor’s degree at university colleges by year, branch of study, gender and university</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Bakalaura/diploma un bakalaura grādu ieguvušie augstskolu koledžās pēc gada, studiju nozares, dzimuma un universitātes</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Zugänge auf Bachelor- und Bachelor-Stufen der Universitätshochschulen nach Jahr, Studienzweig, Geschlecht und Hochschule</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikooli kolledžite bakalaureuse-/diplomi- ja bakalaureusekraadi sisenejad aasta, õppeharu, soo ja ülikooli kaupa</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Partecipanti a laurea/diploma e laurea in college universitari per anno, ramo di studio, sesso e università</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Polaznici prvostupnika/diplome i prvostupnika na sveučilišnim fakultetima po godini, grani studija, rodu i sveučilištu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Вступники на ступінь бакалавра/диплом та бакалавра в університетських коледжах за роком, галузі навчання, статі та університету</dct:title>
+            <dct:identifier>21884419-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Deelnemers aan bachelor/diploma en bachelor’s degree aan universitaire hogescholen per jaar, tak van studie, geslacht en universiteit</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Účastníci bakalárskeho/diplomu a bakalárskeho titulu na vysokých školách podľa roka, odboru štúdia, pohlavia a univerzity</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1502040100_123"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:keyword xml:lang="de">studierende-und-abschlusse-an-hochschulen</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wstępy na poziomy Licencjonowanie/dyplom i licencjat z uniwersytetów uniwersyteckich według roku, przedmiotu, płci i uniwersytetu</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/65bde27f-97e2-4916-bec1-f18b2b65f575">
+            <dct:title xml:lang="da-t-it-t0-mtec">JSON-strukturen</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Structure JSON</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">JSON Struktur</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Estructura JSON</dct:title>
+            <dct:identifier>link-21884423-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sk-t-it-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">JSON struktuur</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/it/px-x-1502040100_123/px-x-1502040100_123.px"/>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">JSON structure</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-it-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="it">Struttura JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="hr-t-it-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">JSON struktura</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="hu-t-it-t0-mtec">JSON szerkezet</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c4edbeb0-84d8-47ac-98c1-9e4d64c4da8d">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pääsytasot Lisensointi/Diploma ja kandidaatin tutkinto yliopistoista vuosi-, aihe-, sukupuoli- ja yliopistoittain</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή σε Επίπεδα Αδειοδότησης/Διπλώματος και Πτυχίο από πανεπιστημιακά πανεπιστήμια ανά έτος, θέμα, φύλο και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Entrées aux niveaux licence/diplôme et baccalauréat des universités universitaires par année, spécialisation, sexe et université</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Admiterea la nivele de licență/diplomă și diplomă de licență de la universitățile universitare în funcție de an, subiect, sex și universitate</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Admissions to Levels Licensing/Diploma and Bachelor’s degree from university universities by year, subject, gender and university</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Ammissione a Livelli Licenze/Diploma e Laurea presso università universitarie per anno, materia, genere e università</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Felvételi szintek Engedélyezés/diploma és főiskolai diplomát egyetemi egyetemeken év, téma, nem és egyetem</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Optagelse på Niveauer Licensing/Diploma og bachelorgrad fra universiteter efter år, emne, køn og universitet</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Přijetí na úrovně Licensing/diploma a bakalářský titul z vysokých škol podle roku, předmětu, pohlaví a univerzity</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tasemete litsentsimine/diplomeerimine ja bakalaureusekraad ülikooliülikoolides aasta, teema, soo ja ülikooli kaupa</dct:title>
+            <dct:title xml:lang="de">Eintritte auf Stufen Lizenziat/Diplom und Bachelor der universitären Hochschulen nach Jahr, Fachrichtung, Geschlecht und Hochschule</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ammissjonijiet għall-Liċenzjar/Diploma ta’ Livelli u grad ta’ Baċellerat minn universitajiet universitarji skont is-sena, is-suġġett, is-sess u l-università</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Prijatie na úrovni Licensing/Diploma a bakalárskeho titulu z univerzitných univerzít podľa roku, predmetu, pohlavia a univerzity</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Прием до нива Лицензиране/диплома и бакалавърска степен от университетски университети по година, предмет, пол и университет</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wstępy na poziomy Licencjonowanie/dyplom i licencjat z uniwersytetów uniwersyteckich według roku, przedmiotu, płci i uniwersytetu</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Iontrálacha ar Cheadúnú/Dioplóma Leibhéil agus Céim Bhaitsiléara ó ollscoileanna ollscoile de réir bliana, ábhair, inscne agus ollscoile</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemšana līmeņos Licencēšana/diploms un bakalaura grāds universitātes universitātēs pēc gada, priekšmeta, dzimuma un universitātes</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Antagning till Nivåer Licensiering/Diplom och Kandidatexamen från universitet efter år, ämne, kön och universitet</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimas į lygius Licencija/diploma ir bakalauro laipsnis universitetuose pagal metus, dalyką, lytį ir universitetą</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Toelatingen tot Levels Licensing/Diploma en Bachelor’s degree van universitaire universiteiten per jaar, onderwerp, geslacht en universiteit</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Прийом на рівні Ліцензування / Диплом і ступінь бакалавра з університетських університетів за рік, предмет, стать і університет</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Admisión a Niveles Licenciado/Diploma y Grado en universidades universitarias por año, asignatura, género y universidad</dct:title>
+            <dct:identifier>link-21884427-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Vpisi na nivoje licenc/diploma in dodiplomski študij na univerzitetnih univerzah po letu, predmetu, spolu in univerzi</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Admissões para Níveis Licenciamento/Diploma e Bacharel em universidades universitárias por ano, assunto, gênero e universidade</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1502040100_123/px-x-1502040100_123/px-x-1502040100_123.px"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Upisi na razine licenciranja/diplomu i diplomu preddiplomskog studija na sveučilišnim sveučilištima po godini, predmetu, spolu i sveučilištu</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή σε Επίπεδα Αδειοδότησης/Διπλώματος και Πτυχίο από πανεπιστημιακά πανεπιστήμια ανά έτος, θέμα, φύλο και πανεπιστήμιο</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-03-25T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Admisión a Niveles Licenciado/Diploma y Grado en universidades universitarias por año, asignatura, género y universidad</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Ammissjonijiet għall-Liċenzjar/Diploma ta’ Livelli u grad ta’ Baċellerat minn universitajiet universitarji skont is-sena, is-suġġett, is-sess u l-università</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Prijatie na úrovni Licensing/Diploma a bakalárskeho titulu z univerzitných univerzít podľa roku, predmetu, pohlavia a univerzity</dct:title>
+        <dct:language>it</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/582b2472-60c9-4336-b9a1-bb1a8725ae55">
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Deelnemers aan bachelor/diploma en bachelor’s degree aan universitaire hogescholen per jaar, tak van studie, geslacht en universiteit</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Polaznici prvostupnika/diplome i prvostupnika na sveučilišnim fakultetima po godini, grani studija, rodu i sveučilištu</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Deltagere på bachelor/diplom og bachelorgrad på universitetshøjskoler efter år, studieretning, køn og universitet</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Bakalaura/diploma un bakalaura grādu ieguvušie augstskolu koledžās pēc gada, studiju nozares, dzimuma un universitātes</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Участници в бакалавърска/дипломна степен и бакалавърска степен в университетски колежи по година, клон на обучение, пол и университет</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Candidatos a bacharelado/diploma e bacharelado em faculdades universitárias por ano, ramo de estudo, gênero e universidade</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Iontrálaithe ar chéim bhaitsiléara/dioplóma agus bhaitsiléara i gcoláistí ollscoile de réir bliana, brainse staidéir, inscne agus ollscoile</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Absolventai bakalauro/diplomos ir bakalauro laipsnį universitetų kolegijose pagal metus, studijų šaką, lytį ir universitetą</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Belépők főiskolai/diploma és főiskolai diplomát egyetemi főiskolák évenként, ága a tanulmányi, nemi és egyetemi</dct:title>
+            <dct:identifier>link-21884427-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Participantes en licenciatura/diploma y licenciatura en colegios universitarios por año, rama de estudio, género y universidad</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Intrarea la licență/diplomă și diplomă de licență la colegiile universitare pe an, ramură de studiu, gen și universitate</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikooli kolledžite bakalaureuse-/diplomi- ja bakalaureusekraadi sisenejad aasta, õppeharu, soo ja ülikooli kaupa</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Zugänge auf Bachelor- und Bachelor-Stufen der Universitätshochschulen nach Jahr, Studienzweig, Geschlecht und Hochschule</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Εισερχόμενοι σε πτυχίο πανεπιστημίου/διπλώματος και πτυχίου σε πανεπιστημιακά κολέγια ανά έτος, κλάδο σπουδών, φύλο και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zájemci o bakalářský/diploma a bakalářský titul na vysokých školách podle roku, obor studia, pohlaví a univerzity</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Entrants to bachelor’s/diploma and bachelor’s degree at university colleges by year, branch of study, gender and university</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Deltagare i kandidatexamen/diplom och kandidatexamen vid högskolor efter år, studiegren, kön och universitet</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Вступники на ступінь бакалавра/диплом та бакалавра в університетських коледжах за роком, галузі навчання, статі та університету</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Uczestnicy studiów licencjackich/dyplomowych i licencjackich na uczelniach wyższych według roku, gałęzi studiów, płci i uniwersytetu</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Parteċipanti fil-baċellerat/diploma u lawrja ta’ baċellerat fil-kulleġġi universitarji skont is-sena, il-fergħa ta’ studju, is-sess u l-università</dct:title>
+            <dct:title xml:lang="fr">Entrants aux niveaux licence/diplôme et bachelor des hautes écoles universitaires selon l'année, la branche d'études, le sexe et la haute école</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1502040100_123/px-x-1502040100_123/px-x-1502040100_123.px"/>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Opiskelijat kandidaatin/diploma ja kandidaatin tutkinto korkeakouluissa vuosittain, haara, sukupuoli ja yliopisto</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Partecipanti a laurea/diploma e laurea in college universitari per anno, ramo di studio, sesso e università</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Študenti na dodiplomski/diplomi in diplomi na univerzitetnih univerzah po letu, veji študija, spolu in univerzi</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Účastníci bakalárskeho/diplomu a bakalárskeho titulu na vysokých školách podľa roka, odboru štúdia, pohlavia a univerzity</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Admiterea la nivele de licență/diplomă și diplomă de licență de la universitățile universitare în funcție de an, subiect, sex și universitate</dct:title>
+        <dct:title xml:lang="it">Nuovi studenti UNI ai livelli laurea/diploma e bachelor per anno, indirizzo di studio, sesso e scuola universitaria</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Optagelse på Niveauer Licensing/Diploma og bachelorgrad fra universiteter efter år, emne, køn og universitet</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimas į lygius Licencija/diploma ir bakalauro laipsnis universitetuose pagal metus, dalyką, lytį ir universitetą</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="en-t-de-t0-mtec">Admissions to Levels Licensing/Diploma and Bachelor’s degree from university universities by year, subject, gender and university</dct:title>
+        <dcat:keyword xml:lang="fr">etudiants-et-examens-finals-des-hautes-ecoles</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Pääsytasot Lisensointi/Diploma ja kandidaatin tutkinto yliopistoista vuosi-, aihe-, sukupuoli- ja yliopistoittain</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e8e06950-ed6d-4b40-bb9d-4677724fdb2c">
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1502040100_123/px-x-1502040100_123.px"/>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:identifier>link-21884423-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Admissões para Níveis Licenciamento/Diploma e Bacharel em universidades universitárias por ano, assunto, gênero e universidade</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Прием до нива Лицензиране/диплома и бакалавърска степен от университетски университети по година, предмет, пол и университет</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b80de56a-985d-4974-a9cc-39dbaee20c36">
+            <dct:title xml:lang="es-t-it-t0-mtec">Nuevos estudiantes de UNI en los niveles de grado/diploma y licenciatura por año, dirección de estudio, sexo y escuela universitaria</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:identifier>link-21884427-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Nya UNI-studenter på examens-/diplom- och kandidatnivå per år, studieadress, kön och universitetsskola</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Noi studenți UNI la nivel de diplomă/diplomă și licență pe an, adresa de studiu, sex și școală universitară</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">New UNI students at degree/diploma and bachelor levels per year, study address, sex and university school</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Mic léinn nua UNI ag leibhéil céime/dioplóma agus bhaitsiléara in aghaidh na bliana, seoladh staidéir, gnéas agus scoil ollscoile</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Нови студенти на UNI в степен/диплома и бакалавърска степен годишно, адрес на обучение, секс и университетско училище</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="et-t-it-t0-mtec">Uued UNI üliõpilased kraadi/diplomi ja bakalaureuse tasemel aastas, õppeaadress, sugu ja ülikoolikool</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Novi študenti UNI na ravni diplome/diplome in diplome na leto, naslov študija, spol in univerzitetna šola</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Νέοι φοιτητές UNI σε επίπεδο πτυχίου/διπλώματος και πτυχίου ανά έτος, διεύθυνση μελέτης, φύλο και πανεπιστημιακή σχολή</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Uudet UNI opiskelijat tutkinto/diploma ja kandidaatin tasolla vuodessa, opinto-osoite, sukupuoli ja yliopistokoulu</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Nauji UNI studentai laipsnio/diplomos ir bakalauro lygiais per metus, studijų adresas, seksas ir universitetinė mokykla</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Novi studenti UNI-ja na razini diploma/diplome i prvostupnika godišnje, adresa studija, spolna i sveučilišna škola</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Nieuwe UNI-studenten op diploma- en bachelorniveau per jaar, studieadres, seks- en universitaire school</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Neue Uni-Studierende auf Abschluss-/Diplom- und Bachelor-Niveau pro Jahr, Studienadresse, Sex und Universitätsschule</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Noví studenti UNI na studijní/diplomové a bakalářské úrovni za rok, studijní adresa, sex a univerzitní škola</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Nouveaux étudiants de l’UNI aux niveaux de diplôme/diplôme et de baccalauréat par an, adresse d’étude, sexe et école universitaire</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Nye UNI-studerende på grad/diplom- og bachelorniveau pr. år, studieadresse, køn og universitetsskole</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Novos estudantes da UNI nos níveis de grau/diploma e bacharel por ano, endereço de estudo, sexo e escola universitária</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Jauni UNI studenti grāda/diploma un bakalaura līmenī gadā, studiju adrese, dzimuma un universitātes skola</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Új UNI hallgatók diploma/diploma és főiskolai szinten évente, tanulmányi cím, szex és egyetemi iskola</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Noví študenti UNI na stupni/diplome a bakalárskej úrovni ročne, študijná adresa, sexuálna a univerzitná škola</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/it/px-x-1502040100_123/px-x-1502040100_123/px-x-1502040100_123.px"/>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="it">Nuovi studenti UNI ai livelli laurea/diploma e bachelor per anno, indirizzo di studio, sesso e scuola universitaria</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Nowi studenci UNI na poziomie studiów/dyplomu i licencjata rocznie, adres studiów, płeć i szkoła wyższa</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Нові студенти UNI на ступінь / диплом і бакалавр рівні на рік, адреса навчання, секс і університетська школа</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Studenti ġodda tal-UNI fil-livelli ta’ lawrja/diploma u baċellerat fis-sena, indirizz ta’ studju, sess u skola universitarja</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Прийом на рівні Ліцензування / Диплом і ступінь бакалавра з університетських університетів за рік, предмет, стать і університет</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Antagning till Nivåer Licensiering/Diplom och Kandidatexamen från universitet efter år, ämne, kön och universitet</dct:title>
+        <dct:title xml:lang="fr">Entrants aux niveaux licence/diplôme et bachelor des hautes écoles universitaires selon l'année, la branche d'études, le sexe et la haute école</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Upisi na razine licenciranja/diplomu i diplomu preddiplomskog studija na sveučilišnim sveučilištima po godini, predmetu, spolu i sveučilištu</dct:title>
+        <dct:title xml:lang="de">Eintritte auf Stufen Lizenziat/Diplom und Bachelor der universitären Hochschulen nach Jahr, Fachrichtung, Geschlecht und Hochschule</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:50:16.848969</dct:modified>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Tasemete litsentsimine/diplomeerimine ja bakalaureusekraad ülikooliülikoolides aasta, teema, soo ja ülikooli kaupa</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Přijetí na úrovně Licensing/diploma a bakalářský titul z vysokých škol podle roku, předmětu, pohlaví a univerzity</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemšana līmeņos Licencēšana/diploms un bakalaura grāds universitātes universitātēs pēc gada, priekšmeta, dzimuma un universitātes</dct:title>
+        <dct:identifier>21884412@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e0a76c35-c257-480e-a135-98defcba2adb">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Prijatie na úrovni Licensing/Diploma a bakalárskeho titulu z univerzitných univerzít podľa roku, predmetu, pohlavia a univerzity</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemšana līmeņos Licencēšana/diploms un bakalaura grāds universitātes universitātēs pēc gada, priekšmeta, dzimuma un universitātes</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Upisi na razine licenciranja/diplomu i diplomu preddiplomskog studija na sveučilišnim sveučilištima po godini, predmetu, spolu i sveučilištu</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimas į lygius Licencija/diploma ir bakalauro laipsnis universitetuose pagal metus, dalyką, lytį ir universitetą</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Admissions to Levels Licensing/Diploma and Bachelor’s degree from university universities by year, subject, gender and university</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="it-t-de-t0-mtec">Ammissione a Livelli Licenze/Diploma e Laurea presso università universitarie per anno, materia, genere e università</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Vpisi na nivoje licenc/diploma in dodiplomski študij na univerzitetnih univerzah po letu, predmetu, spolu in univerzi</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:identifier>21884419-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1502040100_123"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Tasemete litsentsimine/diplomeerimine ja bakalaureusekraad ülikooliülikoolides aasta, teema, soo ja ülikooli kaupa</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Přijetí na úrovně Licensing/diploma a bakalářský titul z vysokých škol podle roku, předmětu, pohlaví a univerzity</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="de">Eintritte auf Stufen Lizenziat/Diplom und Bachelor der universitären Hochschulen nach Jahr, Fachrichtung, Geschlecht und Hochschule</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Felvételi szintek Engedélyezés/diploma és főiskolai diplomát egyetemi egyetemeken év, téma, nem és egyetem</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή σε Επίπεδα Αδειοδότησης/Διπλώματος και Πτυχίο από πανεπιστημιακά πανεπιστήμια ανά έτος, θέμα, φύλο και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Прийом на рівні Ліцензування / Диплом і ступінь бакалавра з університетських університетів за рік, предмет, стать і університет</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ammissjonijiet għall-Liċenzjar/Diploma ta’ Livelli u grad ta’ Baċellerat minn universitajiet universitarji skont is-sena, is-suġġett, is-sess u l-università</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Прием до нива Лицензиране/диплома и бакалавърска степен от университетски университети по година, предмет, пол и университет</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wstępy na poziomy Licencjonowanie/dyplom i licencjat z uniwersytetów uniwersyteckich według roku, przedmiotu, płci i uniwersytetu</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Optagelse på Niveauer Licensing/Diploma og bachelorgrad fra universiteter efter år, emne, køn og universitet</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Iontrálacha ar Cheadúnú/Dioplóma Leibhéil agus Céim Bhaitsiléara ó ollscoileanna ollscoile de réir bliana, ábhair, inscne agus ollscoile</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Antagning till Nivåer Licensiering/Diplom och Kandidatexamen från universitet efter år, ämne, kön och universitet</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Admiterea la nivele de licență/diplomă și diplomă de licență de la universitățile universitare în funcție de an, subiect, sex și universitate</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pääsytasot Lisensointi/Diploma ja kandidaatin tutkinto yliopistoista vuosi-, aihe-, sukupuoli- ja yliopistoittain</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Admisión a Niveles Licenciado/Diploma y Grado en universidades universitarias por año, asignatura, género y universidad</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Entrées aux niveaux licence/diplôme et baccalauréat des universités universitaires par année, spécialisation, sexe et université</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Admissões para Níveis Licenciamento/Diploma e Bacharel em universidades universitárias por ano, assunto, gênero e universidade</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Toelatingen tot Levels Licensing/Diploma en Bachelor’s degree van universitaire universiteiten per jaar, onderwerp, geslacht en universiteit</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Felvételi szintek Engedélyezés/diploma és főiskolai diplomát egyetemi egyetemeken év, téma, nem és egyetem</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

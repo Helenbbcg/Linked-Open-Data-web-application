@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Knowledge Graph</title>
+
+  <link rel="stylesheet" href="../static/style.css" media="screen" type="text/css" />
+
+<style type="text/css">
+        h1{
+            font-size:40px;
+            font-weight: bold;
+            margin:12px 0!important;
+        }
+        label{
+            font-size: 20px;
+        }
+        .forms{
+
+            width: 558px;
+    height: 358px;
+	margin: 350px auto;
+	background-color: rgba(255,255,255,0.7);
+	border: 1px ;
+	box-shadow: 0px 0px 95px 1px rgba(255,255,255,0.8);
+	border-radius: 10px;
+        }
+
+        select{
+            border: black 1px solid ;
+            border-radius: 10px;
+            outline: none;
+            width: 200px;
+            height: 30px;
+            line-height:30px;
+            padding-left:20px;
+        }
+        .input{
+            border: black 1px solid ;
+            border-radius: 10px;
+            outline: none;
+            width: 200px;
+            height: 30px;
+            line-height:30px;
+            font-size: 15px;
+
+
+        }
+        .button{
+            font-size: 20px
+        ;
+            text-decoration:none;
+
+            width: 80px;
+            height: 30px;
+            cursor: pointer;
+
+        }
+        .h2{
+            margin-bottom: 70px;
+        }
+        .form1{
+            margin-bottom: 25px;
+            width: 500px;
+            height: 40px;
+        }
+        .form2{
+            margin-top: 25px;
+            width: 500px;
+            height: 40px;
+        }
+
+
+</style>
+</head>
+
+<body>
+
+
+  <script src="../static/jquery-2.2.1.min.js"></script>
+  <script src="../static/bootstrap.min.js"></script>
+  <script src="../static/echarts.min.js"></script>
+
+
+  <h1 align="center">Search for datasets</h1>
+  <div class="nav">
+		<ul>
+			<li><a href="/">Cross Domain</a></li>
+
+			<li><a href="/introduction">Introduction</a></li>
+
+			<li><a href="/education">Subclouds</a>
+
+			</li>
+
+			<li><a href="/search">Search</a>
+
+
+			</li>
+
+	   </ul>
+	</div>
+
+<div class="forms">
+    <br>
+    <div class="h2">
+        <h2 align="center">Search datasets by category or publisher</h2>
+    </div>
+<div class="form1">
+<form align="center" method="post" action="{{url_for('search')}}">
+    <label>Dataset Category: </label><input type="text" name="content" id="content" class="input" placeholder="Enter the category">
+    <input type="submit" value="search" class="button">
+
+</form>
+</div>
+    <div class="form2">
+<form align="center" method="post" action="{{url_for('search_publisher')}}">
+
+    <label>Publisher: </label><select name="publisher">
+    <option value="BFS/OFS">BFS/OFS</option>
+    <option value="Central Statistics Office">Central Statistics Office</option>
+    <option value="National Transport Authority">National Transport Authority</option>
+    <option value="Roscommon County Council">Roscommon County Council</option>
+    <option value="AOZ / DIR / KOM, AOZ, Asyl Organisation Zürich">AOZ / DIR / KOM, AOZ, Asyl Organisation Zürich</option>
+    <option value="Galway County Council">Galway County Council</option>
+
+</select>
+
+    <input type="submit" value="search" class="button">
+</form></div>
+</div>
+
+
+
+
+    </body>
+    </html>
+    

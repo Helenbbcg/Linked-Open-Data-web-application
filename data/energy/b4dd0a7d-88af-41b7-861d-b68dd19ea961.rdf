@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/b4dd0a7d-88af-41b7-861d-b68dd19ea961">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/b4dd0a7d-88af-41b7-861d-b68dd19ea961">
+        <dct:accrualPeriodicity>Irregular</dct:accrualPeriodicity>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/afad1ebc-2850-49da-9a64-8dfd9f65ad00">
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/maps/FingalCoCo::public-ev-charging-points-fcc"/>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:format>HTML</dct:format>
+            <dct:title>ArcGIS Hub Dataset</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/b4dd0a7d-88af-41b7-861d-b68dd19ea961/resource/09462226-f426-45f0-8820-a10e62ec7a98</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Transport</dcat:keyword>
+        <dcat:keyword>Electric Charging</dcat:keyword>
+        <dct:description>&lt;p&gt;EV charging facilities owned by Fingal County Council.
+This&lt;span&gt;  &lt;/span&gt;list refers only to chargers
+available to the public.&lt;/p&gt;
+
+&lt;p&gt;Further charging points are run by private companies and
+can link to them via these links&lt;/p&gt;&lt;p&gt;ESB www.esb.ie/ecars and follow the link to see nationwide points &lt;/p&gt;</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b44d050e-8aa8-4711-a818-98b97ae080dd">
+            <dcat:mediaType>application/vnd.google-earth.kml+xml</dcat:mediaType>
+            <dct:format>KML</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/b4dd0a7d-88af-41b7-861d-b68dd19ea961/resource/cd772a60-6509-423e-8633-63f06783f4bd</dct:identifier>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title>KML</dct:title>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::public-ev-charging-points-fcc.kml?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Road Maintenance</dcat:keyword>
+        <dcat:keyword>electrical</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://data.gov.ie/organization/fingal-county-council">
+            <foaf:name>Fingal County Council</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:keyword>Roads and Transportation</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6aac7765-05cd-4721-ad83-61cfc63dcc2c">
+            <dct:format>ArcGIS GeoServices REST API</dct:format>
+            <dcat:mediaType>application/json</dcat:mediaType>
+            <dct:identifier>https://data.gov.ie/dataset/b4dd0a7d-88af-41b7-861d-b68dd19ea961/resource/332c38f0-fd36-42c9-bbca-66e70fb1c6e2</dct:identifier>
+            <dcat:accessURL rdf:resource="https://services5.arcgis.com/CI1e5PKQXvJgmJK8/arcgis/rest/services/EV_Charging_Points_FCC/FeatureServer/0"/>
+            <dct:title>ArcGIS GeoService</dct:title>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Traffic Management Roads and Transportation</dcat:keyword>
+        <dcat:theme rdf:resource="https://data.gov.ie/Energy"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/523f7288-4f31-4065-9f25-cce92b79a10f">
+            <dct:title>Shapefile</dct:title>
+            <dcat:mediaType>application/zip</dcat:mediaType>
+            <dct:format>ZIP</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/b4dd0a7d-88af-41b7-861d-b68dd19ea961/resource/0fa961d2-d862-4717-a090-85a2ca08370b</dct:identifier>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::public-ev-charging-points-fcc.zip?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Transportation</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://data.smartdublin.ie/dataset/public-ev-charging-points-fcc"/>
+        <dct:title>Public  EV Charging Points FCC</dct:title>
+        <dct:language>en</dct:language>
+        <dct:identifier>b4dd0a7d-88af-41b7-861d-b68dd19ea961</dct:identifier>
+        <dcat:keyword>Electric Vehicle</dcat:keyword>
+        <dcat:keyword>Transportation and Infrastructure</dcat:keyword>
+        <dct:spatial>
+          <dct:Location>
+            <skos:prefLabel>Fingal</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-20T16:12:46</dct:modified>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9b8bdd49-f300-490c-bfb6-09e735b5c390">
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:format>CSV</dct:format>
+            <dct:identifier>https://data.gov.ie/dataset/b4dd0a7d-88af-41b7-861d-b68dd19ea961/resource/f264b631-6147-404e-9c11-b5ddea56da6a</dct:identifier>
+            <dct:title>CSV</dct:title>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::public-ev-charging-points-fcc.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>Charging Point</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:itservicedesk@fingal.ie"/>
+            <vcard:fn>Fingal Admin</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c90e06dd-cf02-4b88-a69d-903863d959e4">
+            <dcat:mediaType>application/vnd.geo+json</dcat:mediaType>
+            <dct:format>GeoJSON</dct:format>
+            <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+            <dct:title>GeoJSON</dct:title>
+            <dct:identifier>https://data.gov.ie/dataset/b4dd0a7d-88af-41b7-861d-b68dd19ea961/resource/0e10888c-2fd5-4805-8fdd-68290a82fe0c</dct:identifier>
+            <dcat:accessURL rdf:resource="https://data.fingal.ie/datasets/FingalCoCo::public-ev-charging-points-fcc.geojson?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-11-03T00:00:00</dct:issued>
+        <dcat:keyword>Environment and Energy</dcat:keyword>
+        <dcat:keyword>Environment</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-20T20:25:07Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-20T20:25:07Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/b4dd0a7d-88af-41b7-861d-b68dd19ea961"/>
+    <edp:originalLanguage>ga</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>91e5bdb2eda679533824643cca7229fc</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>b4dd0a7d-88af-41b7-861d-b68dd19ea961</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-20T20:25:07Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

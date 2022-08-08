@@ -1,0 +1,618 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/information-on-energy-markets-in-eu-countries-with-national-energy-profiles">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-12T16:01:55Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-12T16:02:10Z</edp:transReceived>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:01:53Z</dct:modified>
+    <dct:identifier>information-on-energy-markets-in-eu-countries-with-national-energy-profiles</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>cdb09b43ad61358c8a724bf6aae3ce82</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/information-on-energy-markets-in-eu-countries-with-national-energy-profiles"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:38:16Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/information-on-energy-markets-in-eu-countries-with-national-energy-profiles">
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/AUT"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1ea3b090-0d05-4317-9d0d-a4efe1ca132b">
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energia-alan tietosivut: EU-28-maat (elokuun 2018 päivitys) Energia-alan tietosivut:
+EU-28-maat (elokuun 2018 päivitys)</dct:title>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/countrydatasheets_august2018.xlsx"/>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Европейската комисия изготвя информация за енергийните пазари в страните от ЕС, включително енергийни профили, които съдържат факти за енергийния микс, енергийната сигурност, конкурентоспособността, устойчивостта и инфраструктурата на дадена държава от ЕС.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">La Comisión Europea elabora información sobre los mercados de la energía en los países de la UE, incluidos perfiles energéticos que contienen datos sobre la combinación energética, la seguridad energética, la competitividad, la sostenibilidad y las infraestructuras de un país de la UE.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Podatki o energiji: Države EU-28 (posodobitev iz avgusta 2018)</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiedatenblätter: EU-28-Länder (Aktualisierung August 2018)</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Komisja Europejska opracowuje informacje na temat rynków energii w krajach UE, w tym na temat profili energetycznych, które zawierają fakty dotyczące koszyka energetycznego, bezpieczeństwa energetycznego, konkurencyjności, zrównoważonego rozwoju i infrastruktury danego kraju UE.</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energidatablad: EU-28-länderna (uppdatering i augusti 2018)</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Cuireann an Coimisiún Eorpach eolas ar fáil faoi mhargaí fuinnimh i dtíortha an Aontais, próifílí fuinnimh ina bhfuil fíricí maidir leis an meascán fuinnimh, slándáil fuinnimh, iomaíochas, inbhuanaitheacht agus bonneagar Ballstáit den Aontas Eorpach.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan komissio tuottaa tietoa EU-maiden energiamarkkinoista, mukaan lukien energiaprofiilit, jotka sisältävät tietoja EU-maan energialähteiden yhdistelmästä, energiavarmuudesta, kilpailukyvystä, kestävyydestä ja infrastruktuurista.</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetske podatkovne tablice: 28 država članica EU-a (ažuriranje iz kolovoza 2018.) Energetske podatkovne tablice:
+28 država članica EU-a (ažuriranje iz kolovoza 2018.)</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Skedi ta’ informazzjoni dwar l-enerġija: Il-pajjiżi tal-UE-28 (aġġornament ta’ Awwissu 2018)</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Europska komisija izrađuje informacije o energetskim tržištima u državama članicama EU-a, uključujući energetske profile koji sadržavaju činjenice o kombinaciji izvora energije, energetskoj sigurnosti, konkurentnosti, održivosti i infrastrukturi države članice EU-a.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Fichas de dados energéticas: Países da UE-28 (atualização de agosto de 2018) Fichas de dados energéticas:
+Países da UE-28 (atualização de agosto de 2018)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Bileoga sonraí fuinnimh: 28 dtír AE (nuashonrú mhí Lúnasa 2018)</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Fiches techniques sur l’énergie: Pays de l’EU-28 (mise à jour d’août 2018)</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Die Europäische Kommission erstellt Informationen über die Energiemärkte in den EU-Ländern, einschließlich Energieprofile, die Fakten zum Energiemix, zur Energieversorgungssicherheit, zur Wettbewerbsfähigkeit, zur Nachhaltigkeit und zur Infrastruktur eines EU-Landes enthalten.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az Európai Bizottság tájékoztatást nyújt az uniós országok energiapiacairól, többek között az energiaprofilokról, amelyek az uniós országok energiaszerkezetére, energiabiztonságára, versenyképességére, fenntarthatóságára és infrastruktúrájára vonatkozó tényeket tartalmaznak.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/countrydatasheets_august2018.xlsx"/>
+            <dct:description xml:lang="et-t-en-t0-mtec">Euroopa Komisjon koostab teavet ELi riikide energiaturgude kohta, sealhulgas energiaprofiilide kohta, mis sisaldavad fakte ELi liikmesriigi energiaallikate jaotuse, energiajulgeoleku, konkurentsivõime, jätkusuutlikkuse ja infrastruktuuri kohta.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energiedatasheets: EU-28-landen (update augustus 2018)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+            </dct:format>
+            <dct:title xml:lang="en">Energy datasheets: EU-28 countries (August 2018 update)</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Evropska komisija pripravlja informacije o energetskih trgih v državah EU, vključno z energetskimi profili, ki vsebujejo dejstva o mešanici energetskih virov, energetski varnosti, konkurenčnosti, trajnosti in infrastrukturi države EU.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">La Commission européenne produit des informations sur les marchés de l’énergie dans les pays de l’UE, y compris des profils énergétiques qui contiennent des informations sur le bouquet énergétique, la sécurité énergétique, la compétitivité, la durabilité et les infrastructures d’un pays de l’UE.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Информационни фишове за енергетиката: Държави от ЕС-28 (актуализиране от август 2018 г.) Информационни фишове за енергетиката:
+Държави от ЕС-28 (актуализиране от август 2018 г.)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/fbb4045a-0552-4bb1-b88c-b9e3d465718c</dct:identifier>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:description xml:lang="nl-t-en-t0-mtec">De Europese Commissie produceert informatie over de energiemarkten in de EU-landen, waaronder energieprofielen die feiten bevatten over de energiemix, energiezekerheid, concurrentievermogen, duurzaamheid en infrastructuur van een EU-land.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģijas datu lapas: ES-28 valstis (2018. gada augusta atjauninājums) Enerģijas datu lapas:
+ES-28 valstis (2018. gada augusta atjauninājums)</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Comisia Europeană produce informații privind piețele energetice din țările UE, inclusiv profilurile energetice care conțin informații privind mixul energetic, securitatea energetică, competitivitatea, durabilitatea și infrastructura unei țări din UE.</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Hojas de datos sobre energía: Países de la EU-28 (actualización de agosto de 2018) Hojas de datos sobre energía:
+Países de la EU-28 (actualización de agosto de 2018)</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:description xml:lang="it-t-en-t0-mtec">La Commissione europea produce informazioni sui mercati dell'energia nei paesi dell'UE, tra cui profili energetici che contengono dati sul mix energetico, la sicurezza energetica, la competitività, la sostenibilità e le infrastrutture di un paese dell'UE.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">A Comissão Europeia produz informações sobre os mercados da energia nos países da UE, incluindo perfis energéticos que contêm factos sobre o cabaz energético, a segurança energética, a competitividade, a sustentabilidade e as infraestruturas de um país da UE.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">EU-kommissionen tar fram information om energimarknaderna i EU-länderna, inklusive energiprofiler som innehåller fakta om ett EU-lands energimix, energitrygghet, konkurrenskraft, hållbarhet och infrastruktur.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Fișe tehnice privind energia: Țările UE-28 (actualizare în august 2018)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energetikai adatlapok: Az EU-28 országai (2018. augusztusi frissítés)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακά δελτία: Χώρες της ΕΕ-28 (επικαιροποίηση Αυγούστου 2018) Ενεργειακά δελτία: Χώρες της ΕΕ-28 (επικαιροποίηση Αυγούστου 2018) Ενεργειακά δελτία:
+Χώρες της ΕΕ-28 (επικαιροποίηση Αυγούστου 2018)</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η Ευρωπαϊκή Επιτροπή παράγει πληροφορίες σχετικά με τις αγορές ενέργειας στις χώρες της ΕΕ, συμπεριλαμβανομένων ενεργειακών προφίλ που περιέχουν στοιχεία σχετικά με το ενεργειακό μείγμα, την ενεργειακή ασφάλεια, την ανταγωνιστικότητα, τη βιωσιμότητα και τις υποδομές μιας χώρας της ΕΕ.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetické listy: Krajiny EÚ28 (aktualizácia z augusta 2018)</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Evropská komise vytváří informace o trzích s energií v zemích EU, včetně energetických profilů, které obsahují fakta o skladbě zdrojů energie, energetické bezpečnosti, konkurenceschopnosti, udržitelnosti a infrastruktuře země EU.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Európska komisia poskytuje informácie o trhoch s energiou v krajinách EÚ vrátane energetických profilov, ktoré obsahujú fakty o energetickom mixe, energetickej bezpečnosti, konkurencieschopnosti, udržateľnosti a infraštruktúre krajiny EÚ.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos duomenų lapai: ES 28 šalys (2018 m. rugpjūčio mėn. atnaujinta informacija)</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-Kummissjoni Ewropea tipproduċi informazzjoni dwar is-swieq tal-enerġija fil-pajjiżi tal-UE inklużi l-profili tal-enerġija li fihom fatti dwar it-taħlita tal-enerġija, is-sigurtà tal-enerġija, il-kompetittività, is-sostenibbiltà u l-infrastruttura ta’ pajjiż tal-UE.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-11-08T17:30:37.347294+02:00</dct:issued>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetické listy: Země EU-28 (aktualizace z srpna 2018) Energetické listy:
+Země EU-28 (aktualizace z srpna 2018)</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Europa-Kommissionen udarbejder oplysninger om energimarkederne i EU-landene, herunder energiprofiler, som indeholder fakta om et EU-lands energimiks, energisikkerhed, konkurrenceevne, bæredygtighed og infrastruktur.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Arkusze danych energetycznych: Państwa UE-28 (aktualizacja z sierpnia 2018 r.) Arkusze danych energetycznych:
+Państwa UE-28 (aktualizacja z sierpnia 2018 r.)</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Eiropas Komisija sagatavo informāciju par enerģijas tirgiem ES valstīs, tostarp par enerģijas profiliem, kas satur faktus par energoresursu struktūru, energoapgādes drošību, konkurētspēju, ilgtspēju un infrastruktūru ES valstī.</dct:description>
+            <dct:description xml:lang="en">The European Commission produces information on energy markets in EU countries including energy profiles which contain facts on the energy mix, energy security, competitiveness, sustainability and infrastructure of an EU country.</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Schede tecniche energetiche: Paesi dell'UE-28 (aggiornamento dell'agosto 2018)</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/vnd.ms-excel"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Europos Komisija rengia informaciją apie ES šalių energijos rinkas, įskaitant energetikos profilius, kuriuose pateikiami faktai apie ES šalies energijos rūšių derinį, energetinį saugumą, konkurencingumą, tvarumą ir infrastruktūrą.</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiateabelehed: EL 28 riigid (2018. aasta augusti ajakohastatud versioon) Energiateabelehed:
+EL 28 riigid (2018. aasta augusti ajakohastatud versioon)</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energidatablade: EU-28-lande (august 2018 opdatering) Energidatablade:
+EU-28-lande (august 2018 opdatering)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVN"/>
+        </dct:spatial>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SVK"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/IRL"/>
+        </dct:spatial>
+        <dct:title xml:lang="et-t-en-t0-mtec">ELi liikmesriikide energiastatistika andmelehed</dct:title>
+        <dcat:keyword xml:lang="en">electricity generation</dcat:keyword>
+        <dcat:keyword xml:lang="en">energy production</dcat:keyword>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/SWE"/>
+        </dct:spatial>
+        <dct:alternative xml:lang="en">Energy datasheets: EU-28 countries</dct:alternative>
+        <dct:title xml:lang="lt-t-en-t0-mtec">ES šalių energetikos statistinių duomenų lapai</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">Statistische Energiedatenblätter für die EU-Länder</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BEL"/>
+        </dct:spatial>
+        <dct:title xml:lang="en">Energy statistical datasheets for the EU countries</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Fichas de datos estadísticos sobre energía para los países de la UE</dct:title>
+        <dcat:keyword xml:lang="en">use of energy</dcat:keyword>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/MLT"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/BGR"/>
+        </dct:spatial>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Statistikblad om energi för EU-länderna</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Fișe statistice privind energia pentru țările UE</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Dane statystyczne dotyczące energii dla krajów UE</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="da-t-en-t0-mtec">Europa-Kommissionens GD ENERGY udarbejder hvert andet år de statistiske energidatablade. De indeholder en oversigt over EU som helhed samt individuelle landeprofiler baseret på data fra Eurostat og EU's mekanisme til overvågning af drivhusgasemissioner. Disse datablade dækker perioden mellem 1990 og det sidste år, der er tilgængelige i de europæiske statistikker, og indeholder data om: energibalance, elproduktion, varmeproduktion, kraftvarmeproduktion, indikatorer for energimarkeder, transportbrændstoffer, vigtigste energiindikatorer, drivhusgasemissioner. De arrangeres i et tabelform, der er klar til brug, og er et meget nyttigt redskab for alle, både eksperter og medlemmer af den brede offentlighed, der søger hurtig adgang til statistiske data om energi i EU og dets medlemslande.</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ENER"/>
+        </dct:publisher>
+        <dct:description xml:lang="et-t-en-t0-mtec">Euroopa Komisjoni energeetika peadirektoraat koostab kaks korda aastas energiastatistika teabelehed. Need sisaldavad ülevaadet EList tervikuna ning riikide profiile, mis põhinevad Eurostati ja ELi kasvuhoonegaaside seiremehhanismi andmetel.
+Need teabelehed hõlmavad ajavahemikku 1990. aastast kuni viimase aastani, mis on kättesaadav Euroopa statistikas, ning sisaldavad järgmisi andmeid:
+energiabilanss, elektritootmine, soojuse tootmine, soojus- ja elektrienergia koostootmine, energiaturgude näitajad, transpordikütused, peamised energianäitajad, kasvuhoonegaaside heitkogused.
+Need on paigutatud tabelina kasutusvalmis kujul ja on väga kasulik vahend kõigile, nii ekspertidele kui ka üldsuse esindajatele, kes otsivad kiiret juurdepääsu ELi ja selle liikmesriikide energiaalastele statistilistele andmetele.</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">GŘ ENERGY Evropské komise vypracovává dvakrát ročně energetické statistické výkazy. Obsahují přehled o EU jako celku i o profilech jednotlivých zemí na základě údajů Eurostatu a mechanismu EU pro monitorování emisí skleníkových plynů. Tyto přehledy se týkají období mezi rokem 1990 a posledním rokem, který je k dispozici v evropských statistikách, a obsahují údaje o: energetická bilance, výroba elektřiny, výroba tepla, kombinovaná výroba tepla a elektřiny, ukazatele trhů s energií, paliva pro dopravu, hlavní energetické ukazatele, emise skleníkových plynů. Jsou uspořádány v tabulkovém formátu připraveném k použití a jsou velmi užitečným nástrojem pro každého, a to jak pro odborníky, tak pro širokou veřejnost, kteří hledají rychlý přístup ke statistickým údajům o energetice v EU a jejích členských zemích.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/466"/>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Europos Komisijos Energetikos GD du kartus per metus rengia energetikos statistikos duomenų lapus. Jose apžvelgiama visa ES ir atskirų šalių profiliai, remiantis Eurostato ir ES šiltnamio efektą sukeliančių dujų stebėsenos mechanizmo duomenimis.
+Šie duomenų lapai apima laikotarpį nuo 1990 m. iki paskutinių metų, kuriuos galima rasti Europos statistikoje, ir juose pateikiami duomenys apie:
+energijos balansas, elektros energijos gamyba, šilumos gamyba, bendra šilumos ir elektros energijos gamyba, energijos rinkų rodikliai, transporto kuras, pagrindiniai energijos rodikliai, šiltnamio efektą sukeliančių dujų išmetimas.
+Jie yra parengti naudoti lentelėse ir yra labai naudinga priemonė visiems, tiek ekspertams, tiek plačiosios visuomenės nariams, ieškantiems greitos prieigos prie statistinių duomenų apie energetiką ES ir jos valstybėse narėse.</dct:description>
+        <dcat:keyword xml:lang="en">energy imports</dcat:keyword>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az Európai Bizottság Energiaügyi Főigazgatósága évente kétszer készíti el az energiastatisztikai adatlapokat. Áttekintést adnak az EU egészéről, valamint az egyes országok profiljáról, az Eurostattól és az üvegházhatást okozó gázok uniós nyomonkövetési mechanizmusából származó adatok alapján. Ezek az adatlapok az európai statisztikákban az 1990 és az utolsó év közötti időszakra vonatkoznak, és az alábbi adatokat tartalmazzák: energiamérleg, villamosenergia-termelés, hőtermelés, kapcsolt energiatermelés, energiapiaci mutatók, közlekedési üzemanyagok, fő energiamutatók, üvegházhatásúgáz-kibocsátás. Ezek táblázatos, használatra kész formában vannak elrendezve, és nagyon hasznos eszközt jelentenek bárki számára, mind a szakértők, mind a nagyközönség számára, akik gyors hozzáférést keresnek az EU-ban és tagállamaiban az energiára vonatkozó statisztikai adatokhoz.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GRC"/>
+        </dct:spatial>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2715"/>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Statistische gegevensbladen voor de EU-landen</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LUX"/>
+        </dct:spatial>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Fichas estatísticas energéticas para os países da UE</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FRA"/>
+        </dct:spatial>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Statistični podatki o energetiki za države EU</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-12-21</dct:modified>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan komission energian pääosasto laatii kahdesti vuodessa energiatilastoja koskevat tiedot. Ne sisältävät Eurostatilta ja EU:n kasvihuonekaasujen seurantamekanismilta saatujen tietojen perusteella yleiskatsauksen koko eu:sta ja yksittäisistä maaprofiileista.
+Nämä lomakkeet kattavat vuoden 1990 ja viimeisen vuoden välisen ajanjakson, joka on saatavilla Euroopan tilastoissa, ja ne sisältävät seuraavat tiedot:
+energiatase, sähköntuotanto, lämmöntuotanto, sähkön ja lämmön yhteistuotanto, energiamarkkinoiden indikaattorit, liikenteen polttoaineet, tärkeimmät energiaindikaattorit, kasvihuonekaasupäästöt.
+Ne on järjestetty taulukkomuodossa käyttövalmiissa muodossa, ja ne ovat erittäin hyödyllinen väline kaikille, niin asiantuntijoille kuin suurelle yleisöllekin, ja ne etsivät nopeaa pääsyä EU:n ja sen jäsenvaltioiden energiatilastoihin.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/475"/>
+        <dct:description xml:lang="de-t-en-t0-mtec">Die GD ENERGY der Europäischen Kommission erstellt halbjährlich die energiestatistischen Datenblätter. Sie enthalten einen Überblick über die EU insgesamt sowie die einzelnen Länderprofile auf der Grundlage von Daten von Eurostat und des EU-Überwachungsmechanismus für Treibhausgase. Diese Datenblätter decken den Zeitraum zwischen 1990 und dem letzten Jahr ab, das in den europäischen Statistiken verfügbar ist, und enthalten Daten über: Energiebilanz, Stromerzeugung, Wärmeerzeugung, Kraft-Wärme-Kopplung, Energiemarktindikatoren, Verkehrskraftstoffe, wichtigste Energieindikatoren, Treibhausgasemissionen. Sie sind in einem tabellarischen gebrauchsfertigen Format angeordnet und sind ein sehr nützliches Instrument für alle, sowohl Experten als auch Mitglieder der breiten Öffentlichkeit, die einen schnellen Zugang zu statistischen Energiedaten in der EU und ihren Mitgliedstaaten suchen.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Generálne riaditeľstvo Európskej komisie pre energetiku vypracúva každé dva roky energetické štatistické údaje. Obsahujú prehľad o EÚ ako celku, ako aj o jednotlivých krajinách na základe údajov Eurostatu a mechanizmu EÚ na monitorovanie emisií skleníkových plynov.
+Tieto informačné listy sa vzťahujú na obdobie od roku 1990 do posledného roka dostupné v európskej štatistike a obsahujú údaje o:
+energetická bilancia, výroba elektrickej energie, výroba tepla, kombinovaná výroba tepla a elektrickej energie, ukazovatele trhu s energiou, dopravné palivá, hlavné energetické ukazovatele, emisie skleníkových plynov.
+Sú usporiadané v tabuľkovom formáte pripravenom na použitie a sú veľmi užitočným nástrojom pre všetkých, odborníkov aj širokú verejnosť, ktorí hľadajú rýchly prístup k štatistickým údajom o energii v EÚ a jej členských štátoch.</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">EU energy statistical pocketbook and country datasheets</dct:title>
+            <schema:url xml:lang="en">https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook</schema:url>
+            <dct:description xml:lang="en">The energy in figures statistical pocketbookand country datasheets provides an annual overview of energy related statistics in the EU and in individual EU countries.</dct:description>
+            <schema:url>https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/information-on-energy-markets-in-eu-countries-with-national-energy-profiles"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DEU"/>
+        </dct:spatial>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακά στατιστικά δελτία για τις χώρες της ΕΕ</dct:title>
+        <dcat:keyword xml:lang="en">natural gas</dcat:keyword>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CZE"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/PRT"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">energy intensity</dcat:keyword>
+        <dct:description xml:lang="nl-t-en-t0-mtec">DG ENERGY van de Europese Commissie stelt halfjaarlijks de statistische gegevensbladen voor energie op. Zij bevatten een overzicht van de EU als geheel en individuele landenprofielen, op basis van gegevens van Eurostat en van het EU-systeem voor de monitoring van broeikasgassen.
+Deze datasheets bestrijken de periode tussen 1990 en het laatste jaar dat beschikbaar is in de Europese statistieken en bevatten gegevens over:
+energiebalans, elektriciteitsproductie, warmteproductie, warmtekrachtkoppeling, indicatoren voor de energiemarkten, vervoersbrandstoffen, belangrijkste energie-indicatoren, broeikasgasemissies.
+Ze zijn in tabelvorm klaar voor gebruik en zijn een zeer nuttig instrument voor iedereen, zowel deskundigen als burgers, op zoek naar snelle toegang tot statistische gegevens over energie in de EU en haar lidstaten.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">La DG ENERGY della Commissione europea produce su base semestrale le schede statistiche sull'energia. Esse contengono una panoramica dell'UE nel suo insieme e dei profili dei singoli paesi, sulla base dei dati Eurostat e del meccanismo di monitoraggio dei gas a effetto serra dell'UE.
+Queste schede coprono il periodo compreso tra il 1990 e l'ultimo anno disponibile nelle statistiche europee e contengono dati riguardanti:
+bilancio energetico, produzione di elettricità, produzione di calore, cogenerazione di calore ed energia, indicatori dei mercati dell'energia, carburanti per i trasporti, principali indicatori energetici, emissioni di gas a effetto serra.
+Sono organizzati in un formato tabulare pronto all'uso e sono uno strumento molto utile per chiunque, sia esperti che membri del grande pubblico, alla ricerca di un rapido accesso ai dati statistici sull'energia nell'UE e nei suoi paesi membri.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/POL"/>
+        </dct:spatial>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Bileoga sonraí staidrimh fuinnimh do na Ballstáit</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/GBR"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/HRV"/>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/59706492-c2e3-4691-b221-631e32e306b9">
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiestatistik Länderdatenblätter (letzte Aktualisierung)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Statistik över energiländer (senaste uppdateringen)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetické statistické výkazy pro jednotlivé země (poslední aktualizace)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/24184068-8ec3-470a-ba28-5ca2317c6f6f</dct:identifier>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energiatilastojen maakohtaiset tietolomakkeet (viimeinen päivitys)</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Riikide energiastatistika andmelehed (viimane ajakohastamine)</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas valstu datu lapas (pēdējā atjauninājums)</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Fichas de dados dos países estatísticos da energia (última atualização)</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Statistiske datablade for energi (seneste opdatering)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            </dct:format>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Schede statistiche sull'energia per paese (ultimo aggiornamento)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energiestatistische landengegevensbladen (laatste bijwerking)</dct:title>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/energy_statistical_countrydatasheets.xlsx"/>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos statistikos šalių duomenų lapai (paskutinis atnaujinimas)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Bileoga sonraí staidrimh maidir le fuinneamh de réir tíre (an nuashonrú deireanach)</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Fiches statistiques de pays sur l’énergie (dernière mise à jour)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακά στατιστικά δελτία ανά χώρα (τελευταία επικαιροποίηση)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energiastatisztikai ország adatlapok (utolsó frissítés)</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetske statističke tablice za zemlje (posljednje ažuriranje)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Energy statistical country datasheets (last update)</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Energetski statistični podatki za posamezne države (zadnja posodobitev)</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetické štatistické prehľady krajín (posledná aktualizácia)</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Fișe statistice de țară privind energia (ultima actualizare)</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Fichas de datos nacionales estadísticas energéticas (última actualización)</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Krajowe arkusze statystyczne dotyczące energii (ostatnia aktualizacja)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Статистически информационни листове по държави в областта на енергетиката (последна актуализация)</dct:title>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/energy_statistical_countrydatasheets.xlsx"/>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Skedi tad-dejta tal-istatistika dwar l-enerġija tal-pajjiżi (l-aħħar aġġornament)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/37ada92a-7814-4de2-b3b3-169d2b23dd5d">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/a1646bd5-a0da-4ce1-87f8-619458c7b916">
+                <vcard:street-address>24-26, rue Jean-André de Mot / Jean-André de Motstraat, B -1049 Brussels</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Directorate-General for Energy </vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="https://ec.europa.eu/energy/en/contact-dg-energy">
+                <schema:url>https://ec.europa.eu/energy/en/contact-dg-energy</schema:url>
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Skedi ta’ dejta statistika dwar l-enerġija għall-pajjiżi tal-UE</dct:title>
+        <dcat:keyword xml:lang="en">trade</dcat:keyword>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4629"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8fe1be69-da62-4cf3-8875-ee588a53d94c">
+            <dcat:accessURL rdf:resource="https://energy.ec.europa.eu/data-and-analysis/eu-energy-statistical-pocketbook-and-country-datasheets_en"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+            <dct:description xml:lang="sv-t-en-t0-mtec">De tvååriga energistatistikbladen för länder (senast uppdaterad den 30 juli 2021) omfattar alla EU-medlemsstater och presenterar i ett jämförande format långsiktiga tidsserier av energibalanser, el- och värmeproduktion, huvudsakliga energiindikatorer, kraftvärme, transportbränslen och utsläpp av växthusgaser.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetická štatistická príručka EÚ a prehľady údajov o jednotlivých krajinách (aktualizácia z júla 2021)</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Τα εξαμηνιαία στατιστικά δελτία ανά χώρα στον τομέα της ενέργειας (τελευταία επικαιροποίηση 30/07/2021) καλύπτουν όλα τα κράτη μέλη της ΕΕ και παρουσιάζουν σε συγκριτική μορφή μακροπρόθεσμες χρονοσειρές για τα ενεργειακά ισοζύγια, την παραγωγή ηλεκτρικής ενέργειας και θερμότητας, τους κύριους δείκτες ενέργειας, τη συμπαραγωγή, τα καύσιμα κίνησης και τις εκπομπές αερίων του θερμοκηπίου.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Le schede statistiche semestrali sull'energia per paese (ultimo aggiornamento 30.7.2021) coprono tutti gli Stati membri dell'UE e presentano in un formato comparativo serie a lungo termine dei bilanci energetici, della produzione di elettricità e calore, dei principali indicatori energetici, della cogenerazione, dei carburanti per i trasporti e delle emissioni di gas a effetto serra.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Les fiches statistiques de l’énergie semestriels par pays (dernière mise à jour du 30/07/2021) couvrent tous les États membres de l’UE et présentent dans un format comparatif une série chronologique à long terme des bilans énergétiques, de la production d’électricité et de chaleur, des principaux indicateurs énergétiques, de la cogénération, des carburants pour les transports et des émissions de gaz à effet de serre.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/51a772c1-ee2f-4d13-bfb9-b050dbaea239</dct:identifier>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Džepna knjižica statističkih podataka EU-a o energiji i podatkovne tablice za pojedine zemlje (ažuriranje iz srpnja 2021.)</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Portafoglio statistico dell'UE sull'energia e schede tecniche per paese (aggiornamento luglio 2021)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Leabhar póca staidrimh fuinnimh an Aontais agus bileoga sonraí tíre (nuashonrú mhí Iúil 2021)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακά στατιστικά σημειώματα και δελτία ανά χώρα της ΕΕ (επικαιροποίηση Ιουλίου 2021)</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">ELi energiastatistika taskuraamat ja riikide andmelehed (2021. aasta juuli ajakohastamine)</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Agenda statistică a UE privind energia și fișele tehnice de țară (actualizare din iulie 2021)</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Dveletni statistični podatkovni listi za posamezne države (zadnja posodobitev 30/07/2021) zajemajo vse države članice EU in v primerjalni obliki predstavljajo dolgoročne časovne vrste energetskih bilanc, proizvodnje električne energije in toplote, glavnih energetskih kazalnikov, soproizvodnje, goriv, namenjenih uporabi v prometu, in emisij toplogrednih plinov.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az energiára vonatkozó statisztikai országonkénti kétéves adatlapok (utolsó frissítés: 2021. július 30.) valamennyi uniós tagállamot lefedik, és összehasonlító formátumban mutatják be az energiamérlegek, a villamosenergia- és hőtermelés, a fő energiamutatók, a kapcsolt energiatermelés, a közlekedési üzemanyagok és az üvegházhatást okozó gázok kibocsátásának hosszú távú sorozatát.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Livro de bolso estatístico da UE em matéria de energia e fichas de dados por país (atualização de julho de 2021)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">ES energetikos statistikos knygelė ir šalių duomenų lapai (2021 m. liepos mėn. atnaujinta informacija)</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Fișele statistice bianuale de țară privind energia (ultima actualizare 30.7.2021) acoperă toate statele membre ale UE și prezintă într-un format comparativ serii de timp pe termen lung privind bilanțurile energetice, generarea de energie electrică și termică, principalii indicatori energetici, cogenerarea, combustibilii destinați transporturilor și emisiile de gaze cu efect de seră.</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">Die zweijährlichen Länderdatenblätter für Energiestatistik (letzte Aktualisierung 30.07.2021) decken alle EU-Mitgliedstaaten ab und präsentieren in einem vergleichenden Format langfristige Zeitreihen der Energiebilanzen, der Stromerzeugung und der Wärmeerzeugung, der wichtigsten Energieindikatoren, der Kraft-Wärme-Kopplung, der Verkehrskraftstoffe und der Treibhausgasemissionen.</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">EU's statistiske lommebog om energi og landedatablade (ajourføring fra juli 2021)</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">EU-Energiestatistik Taschenbuch und Länderdatenblätter (Aktualisierung Juli 2021)</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Cuaderno estadístico energético de la UE y fichas de datos nacionales (actualización de julio de 2021)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Статистически наръчник на ЕС за енергетиката и информационни листове по държави (актуализиране от юли 2021 г.)</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Półroczne arkusze danych statystycznych dotyczących energii (ostatnia aktualizacja z 30 lipca 2021 r.) obejmują wszystkie państwa członkowskie UE i prezentują w formacie porównawczym długoterminowe szeregi bilansów energetycznych, wytwarzania energii elektrycznej i ciepła, głównych wskaźników energetycznych, kogeneracji, paliw transportowych i emisji gazów cieplarnianych.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Dvojročné energetické štatistické prehľady krajín (posledná aktualizácia 30/07/2021) sa vzťahujú na všetky členské štáty EÚ a predstavujú v komparatívnom formáte dlhodobé časové rady energetických bilancií, výroby elektrickej energie a tepla, hlavných energetických ukazovateľov, kogenerácie, dopravných palív a emisií skleníkových plynov.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">ES enerģētikas statistikas kabatasgrāmata un valstu datu lapas (atjauninājums 2021. gada jūlijā)</dct:title>
+            <dct:title xml:lang="en">EU energy statistical pocketbook and country datasheets (July 2021 update)</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Dvogodišnje statističke tablice za energetske zemlje (posljednje ažuriranje 30. srpnja 2021.) obuhvaćaju sve države članice EU-a i u usporednom obliku predstavljaju dugoročnu vremensku seriju energetskih bilanci, proizvodnje električne i toplinske energije, glavnih energetskih pokazatelja, kogeneracije, goriva namijenjenih uporabi u prometu i emisija stakleničkih plinova.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">Las fichas de datos semestrales sobre estadísticas energéticas nacionales (última actualización 30/07/2021) cubren a todos los Estados miembros de la UE y presentan en un formato comparativo una serie temporal a largo plazo de los balances energéticos, la generación de electricidad y calor, los principales indicadores energéticos, la cogeneración, los combustibles para el transporte y las emisiones de gases de efecto invernadero.</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Leis na bileoga sonraí staidrimh fuinnimh leathbhliantúla de thíortha (an nuashonrú deireanach 30/07/2021), cumhdaítear Ballstáit uile an Aontais agus cuirtear i láthair i bhformáid chomparáideach amshraith fhadtéarmach na gcomharduithe fuinnimh, giniúint leictreachais agus teasa, príomhtháscairí fuinnimh, comhghiniúint, breoslaí iompair agus astaíochtaí gás ceaptha teasa.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">L-iskedi biannwali tal-istatistika tal-pajjiżi dwar l-enerġija (l-aħħar aġġornament 30/07/2021) ikopru l-Istati Membri kollha tal-UE u huma preżenti f’format komparattiv f’serje ta’ żmien fit-tul tal-bilanċi tal-enerġija, il-ġenerazzjoni tal-elettriku u tas-sħana, l-indikaturi ewlenin tal-enerġija, il-koġenerazzjoni, il-karburanti għat-trasport u l-emissjonijiet ta’ gassijiet serra.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetická statistická příručka EU a přehledy údajů o jednotlivých zemích (aktualizace z července 2021)</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Livre de poche statistique de l’UE sur l’énergie et fiches de données par pays (mise à jour de juillet 2021)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="da-t-en-t0-mtec">De halvårlige statistiske landedatablade for energi (seneste opdatering 30/07/2021) dækker alle EU's medlemsstater og indeholder i et sammenligneligt format langsigtede tidsserier for energibalancerne, el- og varmeproduktionen, de vigtigste energiindikatorer, kraftvarmeproduktion, transportbrændstoffer og drivhusgasemissioner.</dct:description>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Statistični žepni knjižici EU o energetiki in podatkovni listi držav (posodobitev julija 2021)</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Kieszonkowy portfel statystyczny UE dotyczący energii i arkusze danych krajowych (aktualizacja z lipca 2021 r.)</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Il-ktejjeb tal-istatistika tal-enerġija tal-UE u l-iskedi tad-data tal-pajjiżi (aġġornament ta’ Lulju 2021)</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Puolivuosittaiset energiatilastojen maakohtaiset tietolomakkeet (viimeinen päivitys 30.7.2021) kattavat kaikki EU:n jäsenvaltiot, ja niissä esitetään vertailevassa muodossa energiataseet, sähkön ja lämmön tuotanto, tärkeimmät energiaindikaattorit, yhteistuotanto, liikenteen polttoaineet ja kasvihuonekaasupäästöt.</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">De halfjaarlijkse statistieken over de energiestatistieken (laatste bijwerking op 30/07/2021) hebben betrekking op alle EU-lidstaten en hebben betrekking op de lange termijnreeksen van de energiebalansen, de opwekking van elektriciteit en warmte, de belangrijkste energie-indicatoren, warmtekrachtkoppeling, transportbrandstoffen en broeikasgasemissies.</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Valstu divgadu statistikas datu lapas (pēdējais atjauninājums 30/07/2021) aptver visas ES dalībvalstis un salīdzināmā formātā atspoguļo enerģijas bilances, elektroenerģijas un siltuma ražošanas ilgtermiņa laikrindas, galvenos enerģijas rādītājus, koģenerāciju, transporta degvielu un siltumnīcefekta gāzu emisijas.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">EU-energiestatistiek zakboek en landendatasheets (update juli 2021)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Uniós energiaügyi statisztikai zsebkönyv és országadatlapok (2021. júliusi frissítés)</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Двугодишните статистически информационни фишове по държави в областта на енергетиката (последна актуализация 30.7.2021 г.) обхващат всички държави — членки на ЕС, и представят в сравнителен формат дългосрочни динамични редове на енергийните баланси, производството на електроенергия и топлинна енергия, основните енергийни показатели, комбинираното производство на енергия, транспортните горива и емисиите на парникови газове.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">As fichas de dados bianuais dos países estatísticos da energia (última atualização 30/07/2021) abrangem todos os Estados-Membros da UE e apresentam, num formato comparativo, séries cronológicas a longo prazo dos balanços energéticos, da produção de eletricidade e de calor, dos principais indicadores energéticos, da cogeração, dos combustíveis para transportes e das emissões de gases com efeito de estufa.</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.ms-excel"/>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Du kartus per metus rengiamuose šalių energetikos statistikos duomenų lapuose (paskutinį kartą atnaujintame 2021 m. liepos 30 d.) pateikiamos visos ES valstybės narės ir lyginamoji forma pateikiama ilgalaikė energijos balanso, elektros energijos ir šilumos gamybos, pagrindinių energijos rodiklių, bendros šilumos ir elektros energijos gamybos, transporto kuro ir šiltnamio efektą sukeliančių dujų išmetimo laiko serija.</dct:description>
+            <dct:description xml:lang="en">The biannual energy statistical country datasheets (last update 30/07/2021) cover all EU member states and present in a comparative format long term time-series of the energy balances, electricity and heat generation, main energy indicators, cogeneration, transport fuels and greenhouse gases emissions.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">EU:n energia-alan tilastollinen taskukirja ja maakohtaiset tietolomakkeet (heinäkuun 2021 päivitys)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">EU:s energistatistik och landdatablad (uppdatering i juli 2021)</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">Kaks korda aastas koostatavad riikide energiastatistika andmelehed (viimati ajakohastatud 30/07/2021) hõlmavad kõiki ELi liikmesriike ja sisaldavad võrdlevas vormis pikaajalises perspektiivis energiabilanssi, elektri- ja soojustootmist, peamisi energianäitajaid, koostootmist, transpordikütuseid ja kasvuhoonegaaside heitkoguseid.</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Pololetní energetické statistické přehledy pro jednotlivé země (poslední aktualizace 30/07/2021) zahrnují všechny členské státy EU a obsahují ve srovnávacím formátu dlouhodobé časové řady energetických bilancí, výrobu elektřiny a tepla, hlavní energetické ukazatele, kombinovanou výrobu tepla a elektřiny, paliva pro dopravu a emise skleníkových plynů.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/DNK"/>
+        </dct:spatial>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Id-DĠ ENERGY tal-Kummissjoni Ewropea jipproduċi fuq bażi biannwali l-iskedi tad-data tal-istatistika dwar l-enerġija. Dawn jinkludu ħarsa ġenerali lejn l-UE kollha kif ukoll lejn il-profili tal-pajjiżi individwali, abbażi ta’ data mill-Eurostat u mill-mekkaniżmu ta’ monitoraġġ tal-gassijiet serra tal-UE.
+Dawn id-dokumenti ta’ informazzjoni jkopru l-perjodu bejn l-1990 u l-aħħar sena disponibbli fl-istatistika Ewropea u fihom data dwar:
+il-bilanċ tal-enerġija, il-produzzjoni tal-elettriku, il-produzzjoni tas-sħana, il-koġenerazzjoni tas-sħana u l-enerġija, l-indikaturi tas-swieq tal-enerġija, il-fjuwils tat-trasport, l-indikaturi ewlenin tal-enerġija, l-emissjonijiet tal-gassijiet serra.
+Dawn huma rranġati f’format tabulari lest għall-użu, u huma għodda utli ħafna għal kulħadd, kemm esperti kif ukoll membri tal-pubbliku ġenerali, li jfittxu aċċess rapidu għal data statistika dwar l-enerġija fl-UE u fil-pajjiżi membri tagħha.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Energetické štatistické prehľady pre krajiny EÚ</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/ad2dad6f-8e6e-4065-b49d-98706309cb7d">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1990-01-01T00:00:00</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2016-01-01T00:00:00</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="en">The European Commission DG ENERGY produce on biannual basis the energy statistical datasheets. They contain an overview of the EU as a whole as well as individual country profiles, based on data from Eurostat and from the EU greenhouse gas monitoring mechanism.  These datasheets cover the period between 1990 and the last year available in the European statistics and contain data on: energy balance, electricity production, heat production, cogeneration heat and power, energy markets indicators, transport fuels, main energy indicators, greenhouse gas emissions. They are arranged in a tabular ready-to-use format, and are a very useful tool for anyone, both experts and members of the general public, looking for fast access to statistical data on energy in the EU and its member countries.   </dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4147b072-a6ac-48fb-81b5-7829c297493e">
+            <dct:description xml:lang="de-t-en-t0-mtec">Die Europäische Kommission erstellt Informationen über die Energiemärkte in den EU-Ländern, einschließlich Energieprofile, die Fakten zum Energiemix, zur Energieversorgungssicherheit, zur Wettbewerbsfähigkeit, zur Nachhaltigkeit und zur Infrastruktur eines EU-Landes enthalten.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energetikai adatlapok: EU-28-országok (2016. júliusi frissítés)</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Eiropas Komisija sagatavo informāciju par enerģijas tirgiem ES valstīs, tostarp par enerģijas profiliem, kas satur faktus par energoresursu struktūru, energoapgādes drošību, konkurētspēju, ilgtspēju un infrastruktūru ES valstī.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetické listy: Krajiny EÚ28 (aktualizácia z júla 2016)</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiedatenblätter: EU-28-Länder (Stand Juli 2016)</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Hojas de datos sobre energía: Países de la EU-28 (actualización de julio de 2016)</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģijas datu lapas: ES-28 valstis (2016. gada jūlija atjauninājums)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Evropska komisija pripravlja informacije o energetskih trgih v državah EU, vključno z energetskimi profili, ki vsebujejo dejstva o mešanici energetskih virov, energetski varnosti, konkurenčnosti, trajnosti in infrastrukturi države EU.</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Comisia Europeană produce informații privind piețele energetice din țările UE, inclusiv profilurile energetice care conțin informații privind mixul energetic, securitatea energetică, competitivitatea, durabilitatea și infrastructura unei țări din UE.</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiateabelehed: EL 28 riigid (2016. aasta juuli ajakohastatud versioon)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos duomenų lapai: ES 28 šalys (2016 m. liepos mėn. atnaujinta informacija)</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+            <dct:description xml:lang="sv-t-en-t0-mtec">EU-kommissionen tar fram information om energimarknaderna i EU-länderna, inklusive energiprofiler som innehåller fakta om ett EU-lands energimix, energitrygghet, konkurrenskraft, hållbarhet och infrastruktur.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/19a106fa-5027-4cfe-8658-0d4fa64c8834</dct:identifier>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Európska komisia poskytuje informácie o trhoch s energiou v krajinách EÚ vrátane energetických profilov, ktoré obsahujú fakty o energetickom mixe, energetickej bezpečnosti, konkurencieschopnosti, udržateľnosti a infraštruktúre krajiny EÚ.</dct:description>
+            <dct:description xml:lang="en">The European Commission produces information on energy markets in EU countries including energy profiles which contain facts on the energy mix, energy security, competitiveness, sustainability and infrastructure of an EU country.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Arkusze danych energetycznych: Państwa UE-28 (aktualizacja z lipca 2016 r.)</dct:title>
+            <dct:title xml:lang="en">Energy datasheets: EU-28 countries (July 2016 update)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2016-12-05T15:10:50.767534+02:00</dct:issued>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-Kummissjoni Ewropea tipproduċi informazzjoni dwar is-swieq tal-enerġija fil-pajjiżi tal-UE inklużi l-profili tal-enerġija li fihom fatti dwar it-taħlita tal-enerġija, is-sigurtà tal-enerġija, il-kompetittività, is-sostenibbiltà u l-infrastruttura ta’ pajjiż tal-UE.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">La Commission européenne produit des informations sur les marchés de l’énergie dans les pays de l’UE, y compris des profils énergétiques qui contiennent des informations sur le bouquet énergétique, la sécurité énergétique, la compétitivité, la durabilité et les infrastructures d’un pays de l’UE.</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Schede tecniche energetiche: Paesi dell'UE-28 (aggiornamento luglio 2016)</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Skedi ta’ informazzjoni dwar l-enerġija: Il-pajjiżi tal-UE-28 (aġġornament ta’ Lulju 2016)</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Evropská komise vytváří informace o trzích s energií v zemích EU, včetně energetických profilů, které obsahují fakta o skladbě zdrojů energie, energetické bezpečnosti, konkurenceschopnosti, udržitelnosti a infrastruktuře země EU.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/CountryDatasheets_June2016.xlsx"/>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan komissio tuottaa tietoa EU-maiden energiamarkkinoista, mukaan lukien energiaprofiilit, jotka sisältävät tietoja EU-maan energialähteiden yhdistelmästä, energiavarmuudesta, kilpailukyvystä, kestävyydestä ja infrastruktuurista.</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energiedatasheets: EU-28-landen (update juli 2016)</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az Európai Bizottság tájékoztatást nyújt az uniós országok energiapiacairól, többek között az energiaprofilokról, amelyek az uniós országok energiaszerkezetére, energiabiztonságára, versenyképességére, fenntarthatóságára és infrastruktúrájára vonatkozó tényeket tartalmaznak.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energia-alan tietosivut: EU-28-maat (heinäkuun 2016 päivitys)</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Europos Komisija rengia informaciją apie ES šalių energijos rinkas, įskaitant energetikos profilius, kuriuose pateikiami faktai apie ES šalies energijos rūšių derinį, energetinį saugumą, konkurencingumą, tvarumą ir infrastruktūrą.</dct:description>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BYNCSA_4_0"/>
+            </dct:license>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η Ευρωπαϊκή Επιτροπή παράγει πληροφορίες σχετικά με τις αγορές ενέργειας στις χώρες της ΕΕ, συμπεριλαμβανομένων ενεργειακών προφίλ που περιέχουν στοιχεία σχετικά με το ενεργειακό μείγμα, την ενεργειακή ασφάλεια, την ανταγωνιστικότητα, τη βιωσιμότητα και τις υποδομές μιας χώρας της ΕΕ.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">Euroopa Komisjon koostab teavet ELi riikide energiaturgude kohta, sealhulgas energiaprofiilide kohta, mis sisaldavad fakte ELi liikmesriigi energiaallikate jaotuse, energiajulgeoleku, konkurentsivõime, jätkusuutlikkuse ja infrastruktuuri kohta.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Podatki o energiji: Države EU-28 (posodobitev iz julija 2016)</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Fichas de dados energéticas: Países da UE-28 (atualização de julho de 2016)</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Cuireann an Coimisiún Eorpach eolas ar fáil faoi mhargaí fuinnimh i dtíortha an Aontais, próifílí fuinnimh ina bhfuil fíricí maidir leis an meascán fuinnimh, slándáil fuinnimh, iomaíochas, inbhuanaitheacht agus bonneagar Ballstáit den Aontas Eorpach.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetické listy: Země EU-28 (aktualizace z července 2016)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Bileoga sonraí fuinnimh: 28 dtír AE (nuashonrú mhí Iúil 2016)</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Europska komisija izrađuje informacije o energetskim tržištima u državama članicama EU-a, uključujući energetske profile koji sadržavaju činjenice o kombinaciji izvora energije, energetskoj sigurnosti, konkurentnosti, održivosti i infrastrukturi države članice EU-a.</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.ms-excel"/>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Komisja Europejska opracowuje informacje na temat rynków energii w krajach UE, w tym na temat profili energetycznych, które zawierają fakty dotyczące koszyka energetycznego, bezpieczeństwa energetycznego, konkurencyjności, zrównoważonego rozwoju i infrastruktury danego kraju UE.</dct:description>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energidatablade: EU-28-landene (ajourføring juli 2016)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/CountryDatasheets_June2016.xlsx"/>
+            <dct:description xml:lang="da-t-en-t0-mtec">Europa-Kommissionen udarbejder oplysninger om energimarkederne i EU-landene, herunder energiprofiler, som indeholder fakta om et EU-lands energimiks, energisikkerhed, konkurrenceevne, bæredygtighed og infrastruktur.</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetske podatkovne tablice: 28 država članica EU-a (ažuriranje iz srpnja 2016.)</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Fiches techniques sur l’énergie: Pays de l’EU-28 (mise à jour de juillet 2016)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Информационни фишове за енергетиката: Държави от ЕС-28 (актуализиране от юли 2016 г.)</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">De Europese Commissie produceert informatie over de energiemarkten in de EU-landen, waaronder energieprofielen die feiten bevatten over de energiemix, energiezekerheid, concurrentievermogen, duurzaamheid en infrastructuur van een EU-land.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Fișe tehnice privind energia: Țările UE-28 (actualizare din iulie 2016)</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">La Commissione europea produce informazioni sui mercati dell'energia nei paesi dell'UE, tra cui profili energetici che contengono dati sul mix energetico, la sicurezza energetica, la competitività, la sostenibilità e le infrastrutture di un paese dell'UE.</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Европейската комисия изготвя информация за енергийните пазари в страните от ЕС, включително енергийни профили, които съдържат факти за енергийния микс, енергийната сигурност, конкурентоспособността, устойчивостта и инфраструктурата на дадена държава от ЕС.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">A Comissão Europeia produz informações sobre os mercados da energia nos países da UE, incluindo perfis energéticos que contêm factos sobre o cabaz energético, a segurança energética, a competitividade, a sustentabilidade e as infraestruturas de um país da UE.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακά δελτία: Χώρες της ΕΕ-28 (επικαιροποίηση Ιουλίου 2016)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energidatablad: EU-28-länderna (uppdatering från juli 2016)</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">La Comisión Europea elabora información sobre los mercados de la energía en los países de la UE, incluidos perfiles energéticos que contienen datos sobre la combinación energética, la seguridad energética, la competitividad, la sostenibilidad y las infraestructuras de un país de la UE.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/FIN"/>
+        </dct:spatial>
+        <dct:description xml:lang="bg-t-en-t0-mtec">ГД „Енергетика“ на Европейската комисия изготвя два пъти годишно статистически информационни листове в областта на енергетиката. Те съдържат преглед на ЕС като цяло, както и профили на отделните държави въз основа на данни от Евростат и от механизма на ЕС за мониторинг на парниковите газове. Тези информационни фишове обхващат периода между 1990 г. и последната година, налични в европейската статистика, и съдържат данни за: енергиен баланс, производство на електроенергия, производство на топлинна енергия, комбинирано производство на топлинна и електрическа енергия, показатели за енергийните пазари, транспортни горива, основни енергийни показатели, емисии на парникови газове. Те са подредени в табличен готов за употреба формат и са много полезен инструмент за всеки, както за експерти, така и за широката общественост, който търси бърз достъп до статистически данни за енергията в ЕС и неговите държави членки.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LTU"/>
+        </dct:spatial>
+        <dct:description xml:lang="el-t-en-t0-mtec">Η ΓΔ ENERGY της Ευρωπαϊκής Επιτροπής καταρτίζει σε εξαμηνιαία βάση τα στατιστικά ενεργειακά δελτία. Περιλαμβάνουν επισκόπηση της ΕΕ στο σύνολό της, καθώς και των επιμέρους χαρακτηριστικών των χωρών, με βάση τα στοιχεία της Eurostat και του μηχανισμού παρακολούθησης των αερίων του θερμοκηπίου της ΕΕ. Τα εν λόγω δελτία καλύπτουν την περίοδο μεταξύ του 1990 και του τελευταίου έτους που είναι διαθέσιμο στις ευρωπαϊκές στατιστικές και περιέχουν στοιχεία σχετικά με: ενεργειακό ισοζύγιο, παραγωγή ηλεκτρικής ενέργειας, παραγωγή θερμότητας, συμπαραγωγή θερμότητας και ηλεκτρικής ενέργειας, δείκτες των αγορών ενέργειας, καύσιμα κίνησης, κύριοι δείκτες ενέργειας, εκπομπές αερίων του θερμοκηπίου. Είναι διατεταγμένα σε μορφή πίνακα έτοιμη προς χρήση και αποτελούν πολύ χρήσιμο εργαλείο για όλους, εμπειρογνώμονες και μέλη του ευρέος κοινού, που αναζητούν ταχεία πρόσβαση σε στατιστικά στοιχεία για την ενέργεια στην ΕΕ και τα κράτη μέλη της.</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Energetické statistické přehledy pro země EU</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/670dc983-b03a-4145-b57a-6dc336cb4057">
+            <dct:title xml:lang="pl-t-en-t0-mtec">Arkusze danych energetycznych: Państwa UE-28 (aktualizacja z czerwca 2017 r.)</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Energetske podatkovne tablice: 28 država članica EU-a (ažuriranje iz lipnja 2017.)</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Hojas de datos sobre energía: Países de la EU-28 (actualización de junio de 2017)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="lt-t-en-t0-mtec">Europos Komisija rengia informaciją apie ES šalių energijos rinkas, įskaitant energetikos profilius, kuriuose pateikiami faktai apie ES šalies energijos rūšių derinį, energetinį saugumą, konkurencingumą, tvarumą ir infrastruktūrą.</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Bileoga sonraí fuinnimh: 28 dtír AE (nuashonrú mhí an Mheithimh 2017)</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Evropská komise vytváří informace o trzích s energií v zemích EU, včetně energetických profilů, které obsahují fakta o skladbě zdrojů energie, energetické bezpečnosti, konkurenceschopnosti, udržitelnosti a infrastruktuře země EU.</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">Η Ευρωπαϊκή Επιτροπή παράγει πληροφορίες σχετικά με τις αγορές ενέργειας στις χώρες της ΕΕ, συμπεριλαμβανομένων ενεργειακών προφίλ που περιέχουν στοιχεία σχετικά με το ενεργειακό μείγμα, την ενεργειακή ασφάλεια, την ανταγωνιστικότητα, τη βιωσιμότητα και τις υποδομές μιας χώρας της ΕΕ.</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Euroopan komissio tuottaa tietoa EU-maiden energiamarkkinoista, mukaan lukien energiaprofiilit, jotka sisältävät tietoja EU-maan energialähteiden yhdistelmästä, energiavarmuudesta, kilpailukyvystä, kestävyydestä ja infrastruktuurista.</dct:description>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="et-t-en-t0-mtec">Euroopa Komisjon koostab teavet ELi riikide energiaturgude kohta, sealhulgas energiaprofiilide kohta, mis sisaldavad fakte ELi liikmesriigi energiaallikate jaotuse, energiajulgeoleku, konkurentsivõime, jätkusuutlikkuse ja infrastruktuuri kohta.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Energiedatenblätter: EU-28-Länder (Stand Juni 2017)</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Fișe tehnice privind energia: Țările UE-28 (actualizare din iunie 2017)</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Energetické listy: Krajiny EÚ28 (aktualizácia z júna 2017)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-11-09T10:17:22.424054+02:00</dct:issued>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLS"/>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Европейската комисия изготвя информация за енергийните пазари в страните от ЕС, включително енергийни профили, които съдържат факти за енергийния микс, енергийната сигурност, конкурентоспособността, устойчивостта и инфраструктурата на дадена държава от ЕС.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">EU-kommissionen tar fram information om energimarknaderna i EU-länderna, inklusive energiprofiler som innehåller fakta om ett EU-lands energimix, energitrygghet, konkurrenskraft, hållbarhet och infrastruktur.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Európska komisia poskytuje informácie o trhoch s energiou v krajinách EÚ vrátane energetických profilov, ktoré obsahujú fakty o energetickom mixe, energetickej bezpečnosti, konkurencieschopnosti, udržateľnosti a infraštruktúre krajiny EÚ.</dct:description>
+            <dct:title xml:lang="it-t-en-t0-mtec">Schede tecniche energetiche: Paesi dell'UE-28 (aggiornamento del giugno 2017)</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">Eiropas Komisija sagatavo informāciju par enerģijas tirgiem ES valstīs, tostarp par enerģijas profiliem, kas satur faktus par energoresursu struktūru, energoapgādes drošību, konkurētspēju, ilgtspēju un infrastruktūru ES valstī.</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Skedi ta’ informazzjoni dwar l-enerġija: Il-pajjiżi tal-UE-28 (aġġornament ta’ Ġunju 2017)</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Cuireann an Coimisiún Eorpach eolas ar fáil faoi mhargaí fuinnimh i dtíortha an Aontais, próifílí fuinnimh ina bhfuil fíricí maidir leis an meascán fuinnimh, slándáil fuinnimh, iomaíochas, inbhuanaitheacht agus bonneagar Ballstáit den Aontas Eorpach.</dct:description>
+            <dcat:downloadURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/countrydatasheets_june2017_update.xlsx"/>
+            <dcat:accessURL rdf:resource="https://ec.europa.eu/energy/sites/ener/files/documents/countrydatasheets_june2017_update.xlsx"/>
+            <dct:description xml:lang="da-t-en-t0-mtec">Europa-Kommissionen udarbejder oplysninger om energimarkederne i EU-landene, herunder energiprofiler, som indeholder fakta om et EU-lands energimiks, energisikkerhed, konkurrenceevne, bæredygtighed og infrastruktur.</dct:description>
+            <dct:title xml:lang="en">Energy datasheets: EU-28 countries (June 2017 update)</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Energetické listy: Země EU-28 (aktualizace z června 2017)</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Fiches techniques sur l’énergie: Pays de l’EU-28 (mise à jour de juin 2017)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Energidatablad: EU-28-länderna (uppdatering i juni 2017)</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Energidatablade: EU-28-lande (ajourføring fra juni 2017)</dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">La Commission européenne produit des informations sur les marchés de l’énergie dans les pays de l’UE, y compris des profils énergétiques qui contiennent des informations sur le bouquet énergétique, la sécurité énergétique, la compétitivité, la durabilité et les infrastructures d’un pays de l’UE.</dct:description>
+            <dct:description xml:lang="en">The European Commission produces information on energy markets in EU countries including energy profiles which contain facts on the energy mix, energy security, competitiveness, sustainability and infrastructure of an EU country.</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Komisja Europejska opracowuje informacje na temat rynków energii w krajach UE, w tym na temat profili energetycznych, które zawierają fakty dotyczące koszyka energetycznego, bezpieczeństwa energetycznego, konkurencyjności, zrównoważonego rozwoju i infrastruktury danego kraju UE.</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-Kummissjoni Ewropea tipproduċi informazzjoni dwar is-swieq tal-enerġija fil-pajjiżi tal-UE inklużi l-profili tal-enerġija li fihom fatti dwar it-taħlita tal-enerġija, is-sigurtà tal-enerġija, il-kompetittività, is-sostenibbiltà u l-infrastruttura ta’ pajjiż tal-UE.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">A Comissão Europeia produz informações sobre os mercados da energia nos países da UE, incluindo perfis energéticos que contêm factos sobre o cabaz energético, a segurança energética, a competitividade, a sustentabilidade e as infraestruturas de um país da UE.</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">La Commissione europea produce informazioni sui mercati dell'energia nei paesi dell'UE, tra cui profili energetici che contengono dati sul mix energetico, la sicurezza energetica, la competitività, la sostenibilità e le infrastrutture di un paese dell'UE.</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Europska komisija izrađuje informacije o energetskim tržištima u državama članicama EU-a, uključujući energetske profile koji sadržavaju činjenice o kombinaciji izvora energije, energetskoj sigurnosti, konkurentnosti, održivosti i infrastrukturi države članice EU-a.</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Comisia Europeană produce informații privind piețele energetice din țările UE, inclusiv profilurile energetice care conțin informații privind mixul energetic, securitatea energetică, competitivitatea, durabilitatea și infrastructura unei țări din UE.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Информационни фишове за енергетиката: Държави от ЕС-28 (актуализиране от юни 2017 г.)</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Evropska komisija pripravlja informacije o energetskih trgih v državah EU, vključno z energetskimi profili, ki vsebujejo dejstva o mešanici energetskih virov, energetski varnosti, konkurenčnosti, trajnosti in infrastrukturi države EU.</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Az Európai Bizottság tájékoztatást nyújt az uniós országok energiapiacairól, többek között az energiaprofilokról, amelyek az uniós országok energiaszerkezetére, energiabiztonságára, versenyképességére, fenntarthatóságára és infrastruktúrájára vonatkozó tényeket tartalmaznak.</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Fichas de dados energéticas: Países da UE-28 (atualização de junho de 2017)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/6f7fde05-5cdb-4c9d-a4c3-a2b078f31f2b</dct:identifier>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Energetikos duomenų lapai: ES 28 šalys (2017 m. birželio mėn. atnaujinta informacija)</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Die Europäische Kommission erstellt Informationen über die Energiemärkte in den EU-Ländern, einschließlich Energieprofile, die Fakten zum Energiemix, zur Energieversorgungssicherheit, zur Wettbewerbsfähigkeit, zur Nachhaltigkeit und zur Infrastruktur eines EU-Landes enthalten.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">La Comisión Europea elabora información sobre los mercados de la energía en los países de la UE, incluidos perfiles energéticos que contienen datos sobre la combinación energética, la seguridad energética, la competitividad, la sostenibilidad y las infraestructuras de un país de la UE.</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Energiateabelehed: EL 28 riigid (2017. aasta juuni ajakohastatud versioon)</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Energia-alan tietosivut: EU-28-maat (kesäkuun 2017 päivitys)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ενεργειακά δελτία: Χώρες της ΕΕ-28 (επικαιροποίηση Ιουνίου 2017)</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">De Europese Commissie produceert informatie over de energiemarkten in de EU-landen, waaronder energieprofielen die feiten bevatten over de energiemix, energiezekerheid, concurrentievermogen, duurzaamheid en infrastructuur van een EU-land.</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Podatki o energiji: Države EU-28 (posodobitev iz junija 2017)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Enerģijas datu lapas: ES-28 valstis (2017. gada jūnija atjauninājums)</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.ms-excel"/>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Energiedatasheets: EU-28-landen (update juni 2017)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Energetikai adatlapok: EU-28-országok (2017. júniusi aktualizált változat)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/NLD"/>
+        </dct:spatial>
+        <dct:title xml:lang="it-t-en-t0-mtec">Schede statistiche sull'energia per i paesi dell'UE</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">GD ENERGY Evropske komisije dvakrat letno pripravi statistične podatkovne liste o energiji. Vsebujejo pregled EU kot celote in posameznih profilov držav na podlagi podatkov Eurostata in mehanizma EU za spremljanje toplogrednih plinov.
+Ti podatkovni listi zajemajo obdobje med letom 1990 in zadnjim letom, ki je na voljo v evropski statistiki, in vsebujejo podatke o:
+energetska bilanca, proizvodnja električne energije, proizvodnja toplote, soproizvodnja toplote in električne energije, kazalniki energetskih trgov, prometna goriva, glavni energetski kazalniki, emisije toplogrednih plinov.
+Urejeni so v obliki tabele, pripravljene za uporabo, in so zelo uporabno orodje za vse, tako strokovnjake kot za širšo javnost, ki iščejo hiter dostop do statističnih podatkov o energiji v EU in njenih državah članicah.</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">GU ENERGY Europske komisije svake dvije godine izrađuje statističke podatkovne tablice o energiji. One sadržavaju pregled EU-a u cjelini i profila pojedinačnih zemalja na temelju podataka Eurostata i mehanizma EU-a za praćenje emisija stakleničkih plinova.
+Ove tehničke tablice obuhvaćaju razdoblje od 1990. do posljednje godine dostupne u europskoj statistici i sadržavaju podatke o:
+energetsku bilancu, proizvodnju električne energije, proizvodnju topline, kogeneraciju topline i električne energije, pokazatelje tržišta energije, goriva namijenjena uporabi u prometu, glavne energetske pokazatelje, emisije stakleničkih plinova.
+Oni su raspoređeni u tabličnom formatu spremnom za uporabu i vrlo su koristan alat za svakoga, kako stručnjake tako i za javnost, u potrazi za brzim pristupom statističkim podacima o energiji u EU-u i njegovim državama članicama.</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2016-12-05</dct:issued>
+        <dct:description xml:lang="es-t-en-t0-mtec">La DG ENERGÍA de la Comisión Europea elabora cada dos años las fichas de datos estadísticos sobre energía. Contienen una visión general de la UE en su conjunto, así como perfiles de cada país, sobre la base de datos de Eurostat y del mecanismo de seguimiento de los gases de efecto invernadero de la UE.
+Estas fichas informativas cubren el período comprendido entre 1990 y el último año disponible en las estadísticas europeas y contienen datos sobre:
+balance energético, producción de electricidad, producción de calor, cogeneración de calor y electricidad, indicadores del mercado de la energía, combustibles para el transporte, principales indicadores energéticos, emisiones de gases de efecto invernadero.
+Están dispuestos en un formato tabular listo para su uso, y son una herramienta muy útil para cualquier persona, tanto expertos como miembros del público en general, que busque un acceso rápido a los datos estadísticos sobre la energía en la UE y sus países miembros.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ESP"/>
+        </dct:spatial>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/BIENNIAL"/>
+        </dct:accrualPeriodicity>
+        <dcat:keyword xml:lang="en">electricity markets</dcat:keyword>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Energetske statističke podatkovne tablice za države članice EU-a</dct:title>
+        <dct:description xml:lang="fr-t-en-t0-mtec">La DG ENERGY de la Commission européenne produit deux fois par an les fiches statistiques de l’énergie. Ils contiennent une vue d’ensemble de l’UE dans son ensemble ainsi que des profils par pays, sur la base des données d’Eurostat et du mécanisme de surveillance des gaz à effet de serre de l’UE.
+Ces fiches couvrent la période comprise entre 1990 et la dernière année disponible dans les statistiques européennes et contiennent des données sur:
+bilan énergétique, production d’électricité, production de chaleur, cogénération de chaleur et d’électricité, indicateurs des marchés de l’énergie, carburants pour les transports, principaux indicateurs énergétiques, émissions de gaz à effet de serre.
+Ils sont disposés dans un format tabulaire prêt à l’emploi et constituent un outil très utile pour quiconque, tant les experts que les membres du grand public, recherche un accès rapide aux données statistiques sur l’énergie dans l’UE et ses pays membres.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/477"/>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Europeiska kommissionens GD Energi utarbetar vartannat år statistikbladen för energi. De innehåller en översikt över EU som helhet och enskilda landsprofiler, baserat på uppgifter från Eurostat och från EU:s övervakningsmekanism för växthusgaser.
+Dessa faktablad omfattar perioden mellan 1990 och det sista året som finns tillgängliga i den europeiska statistiken och innehåller uppgifter om
+energibalans, elproduktion, värmeproduktion, kraftvärme, energimarknadsindikatorer, drivmedel, huvudsakliga energiindikatorer, utsläpp av växthusgaser.
+De är utformade i ett tabellformat som är färdigt att användas och är ett mycket användbart verktyg för alla, både experter och allmänheten, som söker snabb tillgång till statistiska uppgifter om energi i EU och dess medlemsländer.</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Statistiske energidatablade for EU-landene</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Táirgeann AS ENERGY de chuid an Choimisiúin Eorpaigh na bileoga sonraí staidrimh fuinnimh ar bhonn débhliantúil. Tá forléargas iontu ar an Aontas ina iomláine agus ar phróifílí na dtíortha aonair, bunaithe ar shonraí ó Eurostat agus ó shásra faireacháin an Aontais ar gháis cheaptha teasa.
+Clúdaíonn na bileoga sonraí seo an tréimhse idir 1990 agus an bhliain dheireanach atá ar fáil sa Staidreamh Eorpach agus tá sonraí iontu maidir leis an méid seo a leanas:
+cothromaíocht fuinnimh, táirgeadh leictreachais, táirgeadh teasa, teas agus cumhacht comhghiniúna, táscairí na margaí fuinnimh, breoslaí iompair, príomhtháscairí fuinnimh, astaíochtaí gás ceaptha teasa.
+Tá siad leagtha amach i bhformáid tábla atá réidh le húsáid, agus is uirlis an-úsáideach iad d’aon duine, do shaineolaithe agus don phobal i gcoitinne araon, agus rochtain thapa á lorg acu ar shonraí staidrimh maidir le fuinneamh san Aontas agus ina bhallstáit.</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Eiropas Komisijas ENERGY ĢD reizi divos gados sagatavo enerģētikas statistikas datu lapas. Tie ietver pārskatu par ES kopumā, kā arī atsevišķu valstu profilus, pamatojoties uz Eurostat datiem un ES siltumnīcefekta gāzu uzraudzības mehānisma datiem.
+Šīs datu lapas aptver laikposmu no 1990. gada līdz pēdējam gadam, kas pieejamas Eiropas statistikā, un tajās ir dati par:
+enerģijas bilance, elektroenerģijas ražošana, siltumenerģijas ražošana, koģenerācijas siltumenerģija un elektroenerģija, enerģijas tirgus rādītāji, transporta degviela, galvenie enerģijas rādītāji, siltumnīcefekta gāzu emisijas.
+Tie ir sakārtoti tabulas formātā, un tie ir ļoti noderīgs rīks ikvienam, gan ekspertiem, gan plašas sabiedrības locekļiem, meklējot ātru piekļuvi statistikas datiem par enerģiju ES un tās dalībvalstīs.</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">EU-maiden energiatilastotiedotteet</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/142"/>
+        <dct:description xml:lang="pl-t-en-t0-mtec">DG ENERGY Komisji Europejskiej sporządza co dwa lata arkusze statystyczne dotyczące energii. Zawierają one przegląd UE jako całości, a także poszczególnych profili poszczególnych krajów, na podstawie danych Eurostatu i unijnego mechanizmu monitorowania emisji gazów cieplarnianych.
+Arkusze te obejmują okres między 1990 r. a ostatnim rokiem dostępnym w statystykach europejskich i zawierają dane dotyczące:
+bilans energetyczny, produkcja energii elektrycznej, produkcja ciepła, kogeneracja ciepła i energii elektrycznej, wskaźniki rynków energii, paliwa transportowe, główne wskaźniki energetyczne, emisje gazów cieplarnianych.
+Są one uporządkowane w formie tabelarycznej, gotowej do użycia i są bardzo przydatnym narzędziem dla każdego, zarówno ekspertów, jak i ogółu społeczeństwa, poszukującym szybkiego dostępu do danych statystycznych dotyczących energii w UE i jej państwach członkowskich.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ITA"/>
+        </dct:spatial>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Fiches statistiques de l’énergie pour les pays de l’UE</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">DG ENERGIE a Comisiei Europene produce bianual fișele statistice energetice. Acestea conțin o imagine de ansamblu a UE în ansamblu, precum și a profilurilor de țară individuale, pe baza datelor furnizate de Eurostat și de mecanismul UE de monitorizare a gazelor cu efect de seră.
+Aceste fișe tehnice acoperă perioada cuprinsă între 1990 și ultimul an, disponibile în statisticile europene, și conțin date privind:
+bilanțul energetic, producția de energie electrică, producția de energie termică, cogenerarea de energie termică și electrică, indicatorii piețelor de energie, combustibilii pentru transporturi, principalii indicatori energetici, emisiile de gaze cu efect de seră.
+Acestea sunt aranjate într-un format tabelar gata de utilizare și reprezintă un instrument foarte util pentru oricine, atât experți, cât și membri ai publicului larg, în căutarea unui acces rapid la datele statistice privind energia în UE și în țările sale membre.</dct:description>
+        <dcat:landingPage rdf:resource="https://ec.europa.eu/energy/en/data/energy-statistical-pocketbook"/>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Статистически информационни фишове в областта на енергетиката за страните от ЕС</dct:title>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/EST"/>
+        </dct:spatial>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Energiastatisztikai adatlapok az uniós országok számára</dct:title>
+        <dcat:keyword xml:lang="en">energy consumption</dcat:keyword>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Enerģētikas statistikas datu lapas par ES valstīm</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">A DG ENERGY da Comissão Europeia elabora, semestralmente, as fichas de dados estatísticos da energia. Contêm uma panorâmica da UE no seu conjunto, bem como dos perfis de cada país, com base nos dados do Eurostat e do mecanismo de monitorização dos gases com efeito de estufa da UE.
+Estas fichas abrangem o período compreendido entre 1990 e o último ano disponível nas estatísticas europeias e contêm dados sobre:
+balanço energético, produção de eletricidade, produção de calor, cogeração de calor e eletricidade, indicadores dos mercados da energia, combustíveis para transportes, principais indicadores energéticos, emissões de gases com efeito de estufa.
+Estão organizadas num formato tabular pronto a utilizar e são um instrumento muito útil para qualquer pessoa, tanto peritos como cidadãos em geral, que procure um acesso rápido aos dados estatísticos sobre a energia na UE e nos seus países membros.</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/ROU"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/CYP"/>
+        </dct:spatial>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/HUN"/>
+        </dct:spatial>
+        <dcat:keyword xml:lang="en">energy supply</dcat:keyword>
+        <dct:spatial>
+          <dct:Location rdf:about="http://publications.europa.eu/resource/authority/country/LVA"/>
+        </dct:spatial>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

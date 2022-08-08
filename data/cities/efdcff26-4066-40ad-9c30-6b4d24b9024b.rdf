@@ -1,0 +1,608 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/efdcff26-4066-40ad-9c30-6b4d24b9024b">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/efdcff26-4066-40ad-9c30-6b4d24b9024b"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:17Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:28Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>7ac8a989cb019220203f2982a46be4d8</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>efdcff26-4066-40ad-9c30-6b4d24b9024b</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:42:20Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-11-13T23:47:38Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b">
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:accessRights>public</dct:accessRights>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ec0cfcea-0c2d-4562-890a-618ec67a500e">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.gml"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T11:34:19</dct:issued>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >6648</dcat:byteSize>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.gml"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/f9813c99-1427-47af-bc92-bff41046876d</dct:identifier>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >29edb78bcec82dc9df8b703221be2e9336cffc881de0f023c75b6ae8485feb8b</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ dejta jinkludi l-postijiet tat-tarzni tar-riċiklaġġ fil-Belt Hanseatika u tal-Università ta’ Rostock b’informazzjoni dwar l-indirizz, l-isem, l-operatur, l-aċċessibbiltà, il-ħinijiet tal-ftuħ u d-dettalji ta’ kuntatt. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 365 ġurnata</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+        <dcat:keyword>abfallsammlung</dcat:keyword>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje lokalizacje stoczni recyklingu w Hanzeatyce i Uniwersytecie w Rostocku wraz z informacjami na temat adresu, nazwy, operatora, dostępności, godzin otwarcia i danych kontaktowych. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 365 dni</dct:description>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima Hanzos ir Rostoko universiteto perdirbimo aikštelių vietas, nurodant adresą, pavadinimą, operatorių, prieinamumą, darbo valandas ir kontaktinius duomenis. Ištekliai paprastai atnaujinami tokiais intervalais: 365 dienos</dct:description>
+        <dcat:keyword>schadstoffabbau</dcat:keyword>
+        <dct:title>Recyclinghöfe</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+        <dcat:keyword>abfallwirtschaft</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/30f6c069-6c27-4c41-87d2-cff30a5a2447">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-06-10T16:33:30</dct:issued>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/fb6733fe-037a-44f8-bb3b-6a6658cbae91</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/recyclinghoefe/wfs"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1b7d00a6-8540-48dd-83bb-1b93d422a8b9">
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.kml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T11:34:19</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >6160</dcat:byteSize>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >60463e03cea92626a798b084afc2d1dd8dc69c98ae32e22fa9b786acd19adad5</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/c765a467-08e6-4125-bf8f-b7a76a41b322</dct:identifier>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.kml"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cb31d2c3-b0ae-4340-98e2-f9f881806a3e">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.xlsx"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/c6f2d6f0-c840-46d6-8cfe-fc2dece5440a</dct:identifier>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T11:34:19</dct:issued>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >3074dbf4961c16667e30e074e697e32072eb00b3d05f488f77b3b92a8a91240c</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.xlsx"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >4064</dcat:byteSize>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни включва местоположението на депата за рециклиране в ханзейския и университетския град Рощок с информация за адрес, име, оператор, достъпност, работно време и данни за контакт. Ресурсите обикновено се актуализират на следните интервали: 365 дни</dct:description>
+        <dcat:keyword>recycling</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa ietver pārstrādes rūpnīcu atrašanās vietas Hanzas un Rostokas Universitātē, norādot adresi, nosaukumu, operatoru, pieejamību, darba laiku un kontaktinformāciju. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 365 dienas</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor zahrnuje umístění recyklačních zařízení v hanzovním a univerzitním městě Rostock s informacemi o adrese, názvu, provozovateli, přístupnosti, otevírací době a kontaktních údajích. Zdroje se obvykle aktualizují v následujících intervalech: 365 dní</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f23166ad-8fd2-4a12-b4c3-c1a994f025f5">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.json"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/e373d04e-b7e9-4fd0-b10e-5048a4daf00a</dct:identifier>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >9a9846ca74664597cb9566052936bf2dee596c768ca9cdaab5dd11b7bebdacb4</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.json"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >3001</dcat:byteSize>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T11:34:19</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset omfattar platser för återvinningsvarven i Hanseatic och University City of Rostock med information om adress, namn, operatör, tillgänglighet, öppettider och kontaktuppgifter. Resurserna uppdateras vanligtvis med följande intervall: 365 dagar</dct:description>
+        <dcat:keyword>abfallverwertung</dcat:keyword>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet magában foglalja a Hanseaticában és a University City of Rostockban található újrahasznosító telepek helyszíneit, a címre, a névre, az üzemeltetőre, a hozzáférhetőségre, a nyitvatartási időre és az elérhetőségre vonatkozó információkkal. Az erőforrásokat általában a következő időközönként frissítik: 365 nap</dct:description>
+        <dct:description>Dieser Datensatz umfasst die Standorte der Recyclinghöfe in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Bezeichnung, Betreiber, Barrierefreiheit, Öffnungszeiten und Kontaktdaten. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 365 Tage</dct:description>
+        <dct:identifier>efdcff26-4066-40ad-9c30-6b4d24b9024b</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9bf7a40e-e3a8-42d6-a0ce-14d4f06f795c">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/recyclinghoefe/wms"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/2ce70263-1d49-4976-b66f-d83a4ac0d515</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T11:34:19</dct:issued>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:31:37.747568</dct:modified>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date include locațiile șantierelor de reciclare din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, numele, operatorul, accesibilitatea, orele de funcționare și datele de contact. Resursele sunt, de obicei, actualizate la următoarele intervale: 365 de zile</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+        <dcat:keyword>abfall</dcat:keyword>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati comprende le posizioni dei cantieri di riciclaggio nella città anseatica e universitaria di Rostock con informazioni su indirizzo, nome, operatore, accessibilità, orari di apertura e dettagli di contatto. Le risorse sono solitamente aggiornate ai seguenti intervalli: 365 giorni</dct:description>
+        <dcat:keyword>abfallrecycling</dcat:keyword>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka uključuje lokacije reciklažnih dvorišta u Hanseatic i University City of Rostock s informacijama o adresi, imenu, operateru, dostupnosti, radnom vremenu i podacima za kontakt. Resursi se obično ažuriraju u sljedećim intervalima: 365 dana</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ad3f3259-96dc-4196-bb9a-19aeb6779a8d">
+            <dct:description xml:lang="da-t-de-t0-mtec">Dette kort omfatter placeringen af genbrugsværfterne i Hansestaden og University City of Rostock.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ez a térkép tartalmazza az újrahasznosító telepek helyszíneit a Hanseaticában és a University City of Rostockban.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Sellel kaardil on näidatud ringlussevõtutehaste asukohad Hanseaticis ja Rostocki Ülikoolis.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-20T10:35:07</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Această hartă include locațiile șantierelor de reciclare din orașul Hanseatic și Universitatea din Rostock.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Táto mapa zahŕňa umiestnenie recyklačných zariadení v Hanseatic a University City of Rostock.</dct:description>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din il-mappa tinkludi l-postijiet ta ‘l-impjanti ta’ riċiklaġġ fil-Hanseatic u Università Belt ta ‘Rostock.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šis žemėlapis apima perdirbimo aikštelių vietas Hanzos ir universiteto Rostoko mieste.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Ο χάρτης αυτός περιλαμβάνει τις τοποθεσίες των ναυπηγείων ανακύκλωσης στο Hanseatic και το University City του Rostock.</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Cette carte comprend les sites des stations de recyclage dans la ville hanséatique et universitaire de Rostock.</dct:description>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:description>Diese Karte umfasst die Standorte der Recyclinghöfe in der Hanse- und Universitätsstadt Rostock.</dct:description>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-emf-recyclingcenters/view?service=WMS&amp;version=1.3.0&amp;request=GetCapabilities"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear ar an léarscáil seo suíomhanna na gclós athchúrsála i Hanseatic agus i gCathair Rostock na hOllscoile.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тази карта включва местоположението на площадките за рециклиране в ханзийския и университетския град Рощок.</dct:description>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:description xml:lang="en-t-de-t0-mtec">This map includes the locations of the recycling yards in the Hanseatic and University City of Rostock.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Mapa ta zawiera lokalizacje stoczni recyklingu w Hanzeatyce i University City w Rostocku.</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questa mappa include le posizioni dei cantieri di riciclaggio nella città anseatica e universitaria di Rostock.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Este mapa inclui os locais dos estaleiros de reciclagem na cidade hanseática e universitária de Rostock.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Kartta sisältää Rostockin Hanseatic- ja University City of Rostockin kierrätystelakoiden sijainnit.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šajā kartē ir norādītas pārstrādes rūpnīcu atrašanās vietas Hanzas un Rostokas Universitātē.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">På denna karta finns återvinningsvarven i Rostocks stad och Hanseatiska stad.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ta zemljevid vključuje lokacije obratov za recikliranje v Hanseaticskem in univerzitetnem mestu Rostock.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/08afb4a7-5663-495c-b896-2a83f7bd9728</dct:identifier>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tato mapa zahrnuje umístění recyklačních dvorů v hanzovním a univerzitním městě Rostock.</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze kaart bevat de locaties van de recyclingwerven in de Hanzestad en de Universiteitsstad Rostock.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Karta uključuje lokacije reciklažnih dvorišta u Hanseatic i University City of Rostock.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Este mapa incluye la ubicación de los astilleros de reciclaje en la Ciudad Hanseática y Universitaria de Rostock.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos incluye las ubicaciones de los astilleros de reciclaje en la Ciudad Hanseática y Universitaria de Rostock con información sobre la dirección, nombre, operador, accesibilidad, horarios de apertura y datos de contacto. Por lo general, los recursos se actualizan en los siguientes intervalos: 365 días</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+        <dcat:keyword>schadstoff</dcat:keyword>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov zahŕňa umiestnenie recyklačných zariadení v Hanseatic a University City of Rostock s informáciami o adrese, názve, prevádzkovateľovi, prístupnosti, otváracích hodinách a kontaktných údajoch. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 365 dní</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dbdfadb6-490e-4f3f-a5ef-40a8d7faed3f">
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-10-20T10:35:07</dct:issued>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Dessa uppgifter omfattar platser för återvinningsvarven i Hanseatic och University City of Rostock med information om adress, beteckning, öppettider och kontaktuppgifter.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Тези данни включват местоположението на площадките за рециклиране в Hanseatic и University City of Rostock с информация за адреса, определянето, работното време и данните за контакт.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Ti podaci uključuju lokacije reciklažnih dvorišta u Hanseaticu i Sveučilišnom gradu Rostocku s informacijama o adresi, oznaci, radnom vremenu i podacima za kontakt.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Deze gegevens omvatten de locaties van de recyclingwerven in de Hanze- en Universiteitsstad Rostock met informatie over adres, aanwijzing, openingstijden en contactgegevens.</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">Questi dati includono l'ubicazione dei cantieri di riciclaggio nella città anseatica e universitaria di Rostock con informazioni sull'indirizzo, la designazione, gli orari di apertura e i recapiti.</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Disse data omfatter placeringen af genbrugsværfterne i Hansestaden og University City of Rostock med oplysninger om adresse, betegnelse, åbningstider og kontaktoplysninger.</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Ces données comprennent les sites des stations de recyclage dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, le nom, les heures d’ouverture et les coordonnées.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:description>Diese Daten umfassen die Standorte der Recyclinghöfe in der Hanse- und Universitätsstadt Rostock mit Informationen zu Adresse, Bezeichnung, Öffnungszeiten und Kontaktdaten.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Ezek az adatok magukban foglalják a Hanseaticában és a University City of Rostockban található újrahasznosító telepek elhelyezkedését, a címre, a kijelölésre, a nyitvatartási időre és az elérhetőségre vonatkozó információkat.</dct:description>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/inspire/us-emf-recyclingcenters/download?service=WFS&amp;version=2.0.0&amp;request=GetCapabilities"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/b5f73ce2-ca87-40e9-befd-657a9c1faaa2</dct:identifier>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Din id-dejta tinkludi l-postijiet tat-tarzni tar-riċiklaġġ fil-Hanseatic u l-Belt Universitarja ta’ Rostock b’informazzjoni dwar l-indirizz, id-deżinjazzjoni, il-ħinijiet tal-ftuħ u d-dettalji ta’ kuntatt.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Estes dados incluem a localização dos estaleiros de reciclagem no Hanseatic e na Cidade Universitária de Rostock com informações sobre endereço, designação, horário de funcionamento e pormenores de contato.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Need andmed hõlmavad ringlussevõtutehaste asukohti Hanseatici ja Rostocki Ülikooli linnas koos aadressi, nimetuse, lahtiolekuaegade ja kontaktandmetega.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Tieto údaje zahŕňajú umiestnenie recyklačných zariadení v Hanseatic a University City of Rostock s informáciami o adrese, označení, otváracích hodinách a kontaktných údajoch.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Šie dati ietver pārstrādes rūpnīcu atrašanās vietas Hanzas un Rostokas Universitātē, norādot adresi, apzīmējumu, darba laiku un kontaktinformāciju.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Dane te obejmują lokalizację stoczni recyklingu w Hanzeatyce i University City of Rostock wraz z informacjami na temat adresu, wyznaczenia, godzin otwarcia i danych kontaktowych.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Τα στοιχεία αυτά περιλαμβάνουν τις τοποθεσίες των σταθμών ανακύκλωσης στο Hanseatic και το University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, τον χαρακτηρισμό, τις ώρες λειτουργίας και τα στοιχεία επικοινωνίας.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Šie duomenys apima Hanzos ir Rostoko universiteto perdirbimo aikštelių vietas, nurodant adresą, paskyrimą, darbo valandas ir kontaktinius duomenis.</dct:description>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Ti podatki vključujejo lokacije obratov za recikliranje v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, določitvi, delovnem času in kontaktnih podatkih.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">I measc na sonraí seo tá láithreacha na gclós athchúrsála i gCathair Rostock Hanseatic agus Ollscoil na hÉireann, le heolas faoi sheoladh, ainmniú, uaireanta oscailte agus sonraí teagmhála.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Tyto údaje zahrnují umístění recyklačních zařízení v hanzovním a univerzitním městě Rostock s informacemi o adrese, označení, otevírací době a kontaktních údajích.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Aceste date includ amplasamentele șantierelor de reciclare din orașul Hanseatic și Universitatea Rostock, cu informații privind adresa, denumirea, programul de lucru și datele de contact.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Estos datos incluyen la ubicación de los astilleros de reciclaje en la Ciudad Hanseática y Universitaria de Rostock con información sobre la dirección, designación, horarios de apertura y datos de contacto.</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">These data include the locations of the recycling yards in the Hanseatic and University City of Rostock with information on address, designation, opening hours and contact details.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Näihin tietoihin sisältyvät Rostockin Hanseatic- ja University City of Rostockin kierrätystelakoiden sijaintipaikat sekä tiedot osoitteesta, nimeämisestä, aukioloajoista ja yhteystiedot.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados inclui os locais dos estaleiros de reciclagem no Hanseatic e na Cidade Universitária de Rostock com informações sobre endereço, nome, operador, acessibilidade, horário de funcionamento e pormenores de contato. Os recursos são geralmente atualizados nos seguintes intervalos: 365 dias</dct:description>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum hõlmab ringlussevõtutehaste asukohti Hanseatici ja Rostocki Ülikooli linnaosas koos aadressi, nime, käitaja, juurdepääsetavuse, lahtiolekuaegade ja kontaktandmetega. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 365 päeva</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä aineisto sisältää Rostockin Hanseatic- ja University City of Rostockin kierrätystelakoiden sijainnit sekä tiedot osoitteesta, nimestä, operaattorista, esteettömyydestä, aukioloajoista ja yhteystiedot. Resursseja päivitetään yleensä seuraavin väliajoin: 365 päivää</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les sites des stations de recyclage dans la ville hanséatique et universitaire de Rostock, avec des informations sur l’adresse, le nom, l’opérateur, l’accessibilité, les heures d’ouverture et les coordonnées. Les ressources sont généralement mises à jour à l’intervalle suivant: 365 jours</dct:description>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f90c542c-6687-4195-abce-abef42233327">
+            <dct:title xml:lang="mt-t-de-t0-mtec">Impjanti ta’ riċiklaġġ</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ringlussevõtutehased</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εγκαταστάσεις ανακύκλωσης</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/efdcff26-4066-40ad-9c30-6b4d24b9024b/resource/03fd8867-94c4-42f0-8c5b-421d12481e53</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Dramhaíl Tí a Athchúrsáil</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >1725</dcat:byteSize>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estaleiros de reciclagem</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Cantieri di riciclaggio</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Genbrugsværfter</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kierrätystelakat</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Återvinningsvarv</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Recyclingwerven</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stocznie recyklingu</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >546690476191026c10b2e8421c5f0d3657160a6a4dd785d281f9a5c3576c0d54</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Perdirbimo aikštelės</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Újrahasznosító telepek</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Șantiere de reciclare</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.csv"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-02-15T11:34:19</dct:issued>
+            <dct:title xml:lang="es-t-de-t0-mtec">Astilleros de reciclaje</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Reciklažna dvorišta</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Obrati za recikliranje</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/recyclinghoefe/recyclinghoefe.csv"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T00:56:10</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Recyklačné zariadenia</dct:title>
+            <dct:title>Recyclinghöfe</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Centres de recyclage</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pārstrādes novietnes</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Recyklační loděnice</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Площадки за рециклиране</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt omfatter placeringen af genbrugsværfterne i Hansestaden og University City of Rostock med oplysninger om adresse, navn, operatør, tilgængelighed, åbningstider og kontaktoplysninger. Ressourcerne opdateres normalt med følgende intervaller: 365 dage</dct:description>
+        <dcat:keyword>sperrmüll</dcat:keyword>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Áirítear sa tacar sonraí seo suíomhanna na gclós athchúrsála in Hanseatic agus i gCathair Rostock na hOllscoile, mar aon le heolas maidir le seoladh, ainm, oibreoir, inrochtaineacht, uaireanta oscailte agus sonraí teagmhála. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 365 lá</dct:description>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων περιλαμβάνει τις τοποθεσίες των σταθμών ανακύκλωσης στο Hanseatic και το University City του Rostock με πληροφορίες σχετικά με τη διεύθυνση, το όνομα, τον χειριστή, την προσβασιμότητα, τις ώρες λειτουργίας και τα στοιχεία επικοινωνίας. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 365 ημέρες</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">Recycling yards</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de locaties van de recyclingwerven in de Hanze- en Universiteitsstad Rostock met informatie over adres, naam, exploitant, bereikbaarheid, openingstijden en contactgegevens. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 365 dagen</dct:description>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset includes the locations of the recycling yards in the Hanseatic and University City of Rostock with information on address, name, operator, accessibility, opening hours and contact details. The resources are usually updated at the following intervals: 365 days</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov vključuje lokacije obratov za recikliranje v Hanseaticskem in univerzitetnem mestu Rostock z informacijami o naslovu, imenu, upravljavcu, dostopnosti, delovnem času in kontaktnih podatkih. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 365 dni</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

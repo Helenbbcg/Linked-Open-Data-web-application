@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/jb51auynr5ajik1lzuoxog">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>284c69f7e0ac172b691f8cedea9eea05</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T18:00:23Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/jb51auynr5ajik1lzuoxog">
+        <dct:title xml:lang="hu-t-en-t0-mtec">Kiskereskedelem – havi adatok – index (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Mazumtirdzniecība — mēneša dati — indekss (2015. gads = 100) (NACE 2. red.)</dct:title>
+        <dct:title xml:lang="en">Retail trade - monthly data - index (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Роздрібна торгівля - щомісячні дані - індекс (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Comércio a retalho — dados mensais — índice (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Maloobchod – měsíční údaje – index (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Index (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Comerțul cu amănuntul – date lunare – indice (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="fr">Commerce de détail - données mensuelles - indice (2015 = 100) (NACE Rév. 2)</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Trgovina na drobno – mesečni podatki – indeks (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:identifier>ei_isrt_m</dct:identifier>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Trgovina na malo – mjesečni podaci – indeks (2015. = 100) (NACE Rev. 2)</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_m">
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_m</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/jb51auynr5ajik1lzuoxog"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_m</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Vähittäiskauppa – kuukausittaiset tiedot – indeksi (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Роздрібна торгівля - щомісячні дані - індекс (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Commercio al dettaglio — dati mensili — indice (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Maloobchod – mesačné údaje – index (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Trádáil mhiondíola — sonraí míosúla — innéacs (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/78a5a81e-96bc-4e2b-9f60-0e909b818089">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/5aef8e50-8701-43b8-b6f4-e97c22a98bfe">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="es-t-en-t0-mtec">Comercio al por menor — datos mensuales — índice (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Търговия на дребно — месечни данни — индекс (2015 г. = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Търговия на дребно — месечни данни — индекс (2015 г. = 100) (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Maloobchod – měsíční údaje – index (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        </dcat:theme>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Kummerċ bl-imnut — data ta’ kull xahar — indiċi (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Detailhandel — maandelijkse gegevens — index (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-23</dct:modified>
+        <dct:description xml:lang="en">Retail trade - monthly data - index (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/ei_isrt_m"/>
+        <dct:description xml:lang="el-t-en-t0-mtec">Λιανικό εμπόριο — μηνιαία στοιχεία — δείκτης (2015 = 100) (NACE αναθ. 2)</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Vähittäiskauppa – kuukausittaiset tiedot – indeksi (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Mazumtirdzniecība — mēneša dati — indekss (2015. gads = 100) (NACE 2. red.)</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/bed9b640-f310-4b75-88bd-ff61356904b6">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="fr">Commerce de détail - données mensuelles - indice (2015 = 100) (NACE Rév. 2)</dct:title>
+            <dct:title xml:lang="en">Retail trade - monthly data - index (2015 = 100) (NACE Rev. 2)</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrt_m.tsv.gz"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Index (2015 = 100) (NACE Rev. 2)</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ea8af3d2-a53f-4783-a003-43e991778a34</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="et-t-en-t0-mtec">Jaekaubandus – kuuandmed – indeks (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/jb51AuyNR5AJIK1lzUOXOg</dct:identifier>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Mažmeninė prekyba – mėnesio duomenys (2015 m. = 100) (NACE 2 red.)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3430b04c-e218-4097-a4e1-36e4eba288f8">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ba8cda5f-0796-46dd-81e7-5931d9925b56</dct:identifier>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Commerce de détail - données mensuelles - indice (2015 = 100) (NACE Rév. 2)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrt_m.tsv.gz&amp;unzip=true"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Index (2015 = 100) (NACE Rev. 2)</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Retail trade - monthly data - index (2015 = 100) (NACE Rev. 2)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-en-t0-mtec">Λιανικό εμπόριο — μηνιαία στοιχεία — δείκτης (2015 = 100) (NACE αναθ. 2)</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Kummerċ bl-imnut — data ta’ kull xahar — indiċi (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Detaljhandel – månadsuppgifter – index (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Detailhandel — månedlige data — indeks (2015 = 100) (NACE rev. 2)</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/jb51auynr5ajik1lzuoxog"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Detailhandel — maandelijkse gegevens — index (2015 = 100) (NACE Rev. 2)</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Maloobchod – mesačné údaje – index (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Comercio al por menor — datos mensuales — índice (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Commercio al dettaglio — dati mensili — indice (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:description xml:lang="de">Einzelhandel - monatliche Daten - Index (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Trgovina na drobno – mesečni podatki – indeks (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_is_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ei_is_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/jb51auynr5ajik1lzuoxog"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Handel detaliczny – dane miesięczne – indeks (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Trgovina na malo – mjesečni podaci – indeks (2015. = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Jaekaubandus – kuuandmed – indeks (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/3123ae67-5e44-4e89-99cd-aab4167f1a6d">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1991-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2022-06-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Comércio a retalho — dados mensais — índice (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Mažmeninė prekyba – mėnesio duomenys (2015 m. = 100) (NACE 2 red.)</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Detaljhandel – månadsuppgifter – index (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Handel detaliczny – dane miesięczne – indeks (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/eb34ff0b-c8b0-4567-8531-437178d006d1">
+            <dct:identifier>http://data.europa.eu/88u/distribution/c10e2792-1983-4748-b00d-d5f53ea620ae</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="en">Retail trade - monthly data - index (2015 = 100) (NACE Rev. 2)</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ei_isrt_m.sdmx.zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Commerce de détail - données mensuelles - indice (2015 = 100) (NACE Rév. 2)</dct:title>
+            <dct:title xml:lang="de">Einzelhandel - monatliche Daten - Index (2015 = 100) (NACE Rev. 2)</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Comerțul cu amănuntul – date lunare – indice (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Trádáil mhiondíola — sonraí míosúla — innéacs (2015 = 100) (NACE Rev. 2)</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Kiskereskedelem – havi adatok – index (2015 = 100) (NACE Rev. 2)</dct:description>
+        <dct:description xml:lang="fr">Commerce de détail - données mensuelles - indice (2015 = 100) (NACE Rév. 2)</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Detailhandel — månedlige data — indeks (2015 = 100) (NACE rev. 2)</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T18:00:23Z</edp:transIssued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>jb51AuyNR5AJIK1lzUOXOg</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T08:58:19Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/jb51auynr5ajik1lzuoxog"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

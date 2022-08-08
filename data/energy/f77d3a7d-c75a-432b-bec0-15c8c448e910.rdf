@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:schema="http://schema.org/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/f77d3a7d-c75a-432b-bec0-15c8c448e910">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>fe0494c8cecc478f32d8fa9f0310ff57</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:16:41Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/f77d3a7d-c75a-432b-bec0-15c8c448e910">
+        <dct:description xml:lang="es-t-en-t0-mtec">Conjunto de datos para la simulación de la Unidad Compromiso de la WAPP considerando los años hidrológicos 1979-2010.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Zestaw danych DISPA-SET dla WAPP (West African Power Pool)</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Datauppsättning för simuleringen av enhetsåtagandet för WAPP med beaktande av hydrologiska åren 1979–2010.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c348f91f-8e45-4ec9-94af-a9bbb7d6353c">
+            <dct:title xml:lang="fi-t-en-t0-mtec">Tietoaineisto Länsi-Afrikan voimalan (WAPP) sähköjärjestelmän mallintamista varten</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Nabor podatkov za modeliranje elektroenergetskega sistema Zahodnoafriškega energetskega bazena (WAPP)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Adatkészlet a nyugat-afrikai erőmű (WAPP) energiarendszer-modellezéséhez</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Conjunto de datos para la modelización del sistema eléctrico del Grupo de Energía de África Occidental (WAPP)</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Zestaw danych do modelowania systemu elektroenergetycznego w West African Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Datauppsättning för kraftsystemmodellering av West African Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Σύνολο δεδομένων για τη μοντελοποίηση του συστήματος ηλεκτρικής ενέργειας της Δυτικής Αφρικής Power Pool (WAPP)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Conjunto de dados para a modelização do sistema de energia do West African Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Set di dati per la modellazione del sistema di alimentazione del pool di energia dell'Africa occidentale (WAPP)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Datový soubor pro modelování energetického systému Západní Afriky Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Sett ta’ data għall-immudellar tas-sistema tal-enerġija tar-Riżerva ta’ Enerġija tal-Afrika tal-Punent (WAPP)</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Set de date pentru modelarea sistemului energetic al rezervei de energie din Africa de Vest (WAPP)</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Rietumāfrikas Power Pool (WAPP) energosistēmas modelēšanas datu kopa</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Datensatz für die Energiesystemmodellierung des westafrikanischen Energiepools (WAPP)</dct:title>
+            <dcat:accessURL rdf:resource="https://zenodo.org/record/2620189#.XKH544pS-po"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="en">Dataset for the power system modelling of the West African Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Skup podataka za modeliranje elektroenergetskog sustava zapadnoafričkih elektrana (WAPP)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Vakarų Afrikos galios rezervo (WAPP) elektros energijos sistemos modeliavimo duomenų rinkinys</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/2fddf536-6024-420c-8b82-de52c970d98b</dct:identifier>
+            <dct:title xml:lang="da-t-en-t0-mtec">Datasæt for elsystemet modellering af den vestafrikanske Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Lääne-Aafrika energiareservi (WAPP) elektrisüsteemi modelleerimise andmekogum</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Ensemble de données pour la modélisation du système électrique de la piscine électrique ouest-africaine (WAPP)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Набор от данни за моделирането на електроенергийната система на Западноафриканския енергиен резерв (WAPP)</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC">
+                <rdfs:label xml:lang="en">public</rdfs:label>
+              </dct:RightsStatement>
+            </dct:rights>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Súbor údajov pre modelovanie energetického systému Západnej Afriky Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Dataset voor de modellering van het stroomsysteem van de West-Afrikaanse Power Pool (WAPP)</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Tacar sonraí do shamhaltú chóras cumhachta Díorma Cumhachta na hAfraice Thiar (WAPP)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-en-t0-mtec">Σύνολο δεδομένων για την προσομοίωση δέσμευσης μονάδας του WAPP λαμβάνοντας υπόψη τα υδρολογικά έτη 1979-2010.</dct:description>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Ensemble de données DISPA-SET pour WAPP (West African Power Pool)</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://data.europa.eu/89h/f77d3a7d-c75a-432b-bec0-15c8c448e910">
+            <dct:title xml:lang="en">external_uri</dct:title>
+            <schema:url>http://data.europa.eu/89h/f77d3a7d-c75a-432b-bec0-15c8c448e910</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/f77d3a7d-c75a-432b-bec0-15c8c448e910"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Skup podataka za simulaciju obveze jedinice WAPP s obzirom na hidrološke godine 1979. – 2010.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Conjunto de dados para a simulação de Compromisso unitário do WAPP considerando os anos hidrológicos 1979-2010.</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Set de date DISPA-SET pentru WAPP (West African Power Pool)</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A WAPP kötelezettségvállalás-szimulációjának adatkészlete, figyelembe véve az 1979–2010-es hidrológiai éveket.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Sett ta’ data għas-simulazzjoni tal-Impenn tal-Unità tal-WAPP meta jitqiesu s-snin idroloġiċi 1979–2010.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Serie di dati per la simulazione dell'impegno unitario della WAPP considerando gli anni idrologici 1979-2010.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Dataset voor de Unit Commitment simulatie van de WAPP rekening houdend met de hydrologische jaren 1979-2010.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Sett ta’ data DISPA-SET għal WAPP (West African Power Pool)</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">DISPA-SET dátový súbor pre WAPP (West African Power Pool)</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Zbiór danych do symulacji zobowiązań jednostki programu WAPP z uwzględnieniem lat hydrologicznych 1979-2010.</dct:description>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="es-t-en-t0-mtec">Conjunto de datos DISPA-SET para WAPP (West African Power Pool)</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Skup podataka DISPA-SET za WAPP (zapadnoafrički elektroenergetski bazen)</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Nabor podatkov DISPA-SET za WAPP (West African Power Pool)</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">DISPA-SET-tietoaineisto WAPP:lle (länsi-afrikkalainen voimalaitos)</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">DISPA-SET-datasæt for WAPP (Vestafrikansk Power Pool)</dct:title>
+        <dct:title xml:lang="en">Dispa-SET dataset for WAPP (West African Power Pool)</dct:title>
+        <dct:description xml:lang="de-t-en-t0-mtec">Datensatz für die Unit Commitment Simulation des WAPP unter Berücksichtigung der hydrologischen Jahre 1979-2010.</dct:description>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Ensemble de données pour la simulation de l’engagement unitaire de la WAPP en tenant compte des années hydrologiques 1979-2010.</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">DISPA-SET datu kopa WAPP (Rietumāfrikas enerģijas rezerve)</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">WAPP vieneto įsipareigojimo imitavimo duomenų rinkinys atsižvelgiant į 1979–2010 hidrologinius metus.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Набор от данни за симулацията на ангажимента на единиците на WAPP, като се вземат предвид хидроложките години 1979—2010 г.</dct:description>
+        <dct:identifier>http://data.europa.eu/89h/f77d3a7d-c75a-432b-bec0-15c8c448e910</dct:identifier>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Набор от данни DISPA-SET за WAPP (Западноафрикански енергиен басейн)</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">DISPA-SET dataset för WAPP (West African Power Pool)</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">DISPA-SET duomenų rinkinys WAPP (Vakarų Afrikos galios rezervas)</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">DISPA-SET-andmekogu WAPP (Lääne-Aafrika energiareserv) jaoks</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Datový soubor pro simulaci závazku jednotky WAPP s ohledem na hydrologické roky 1979–2010.</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Tacar sonraí d’ionsamhlú Gealltanas Aonaid an WAPP i bhfianaise na mblianta hidreolaíocha 1979-2010.</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/JRC"/>
+        </dct:publisher>
+        <dct:description xml:lang="da-t-en-t0-mtec">Datasæt for enhedens forpligtelsessimulering af WAPP under hensyntagen til de hydrologiske år 1979-2010.</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Andmestik WAPP ühikukohustuse simulatsiooni jaoks, võttes arvesse hüdroloogiliseid aastaid 1979–2010.</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="fi-t-en-t0-mtec">WAPP:n yksikön sitoumussimulaatiota koskeva aineisto, jossa otetaan huomioon hydrologiset vuodet 1979–2010.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Súbor údajov pre simuláciu záväzkov jednotky WAPP vzhľadom na hydrologické roky 1979 – 2010.</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Serie di dati DISPA-SET per WAPP (pool di energia dell'Africa occidentale)</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/804e69af-5d15-4d03-8cbc-9a0f5d2513e3">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="https://ec.europa.eu/jrc/en">
+                <schema:url>https://ec.europa.eu/jrc/en</schema:url>
+                <dct:title>European Commission, Joint Research Centre (JRC)</dct:title>
+                <dct:type>
+                  <skos:Concept rdf:about="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+                </dct:type>
+                <foaf:topic rdf:resource="http://xmlns.com/foaf/0.1/homepage"/>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasEmail rdf:resource="mailto:matteo.de-felice@ec.europa.eu"/>
+            <vcard:organisation-name>European Commission, Joint Research Centre (JRC)</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="hu-t-en-t0-mtec">DISPA-SET adatkészlet a WAPP-hoz (Nyugat-afrikai Erőalap)</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-03-21</dct:modified>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Set de date pentru simularea angajamentului unității WAPP având în vedere anii hidrologici 1979-2010.</dct:description>
+        <adms:status>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-status/COMPLETED"/>
+        </adms:status>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Tacar sonraí DISPA-SET le haghaidh WAPP (Díorma Cumhachta Iarthar na hAfraice)</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2019-03-21</dct:issued>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Podatkovni niz za simulacijo zaveze enote WAPP ob upoštevanju hidroloških let 1979–2010.</dct:description>
+        <dct:description xml:lang="en">Dataset for the Unit Commitment simulation of the WAPP considering the hydrological years 1979-2010. </dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Conjunto de dados DISPA-SET para WAPP (West African Power Pool)</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Σύνολο δεδομένων DISPA-SET για WAPP (West African Power Pool)</dct:title>
+        <dct:accrualPeriodicity>
+          <dct:Frequency rdf:about="http://publications.europa.eu/resource/authority/frequency/UNKNOWN"/>
+        </dct:accrualPeriodicity>
+        <dct:title xml:lang="de-t-en-t0-mtec">DISPA-SET Datensatz für WAPP (West African Power Pool)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Datový soubor DISPA-SET pro WAPP (West African Power Pool)</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Datu kopa WAPP vienības saistību simulācijai, ņemot vērā 1979.-2010. hidroloģisko gadu.</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">DISPA-SET dataset voor WAPP (West-Afrikaanse Power Pool)</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:53:45Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/f77d3a7d-c75a-432b-bec0-15c8c448e910"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T15:41:49Z</edp:transReceived>
+    <dct:identifier>f77d3a7d-c75a-432b-bec0-15c8c448e910</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:16:40Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

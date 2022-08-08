@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/22024455-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/22024455-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="fi-t-de-t0-mtec">Pakollisen koulutuksen kesto</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Fad na hoiliúna iaréigeantach</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="en">summary-statistics</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="es-t-de-t0-mtec">Duración de la formación postobligatoria</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f0ca2acd-ecad-4d89-95b5-714cf0d0d42c">
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pakollisen koulutuksen kesto</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Fad na hoiliúna iaréigeantach</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Duration of post-compulsory training</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czas trwania szkolenia poobowiązkowego</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A kötelező képzést követő képzés időtartama</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Тривалість післяобов'язкового навчання</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Продължителност на следзадължителното обучение</dct:title>
+            <dct:title xml:lang="de">Dauer der nachobligatorischen Ausbildung</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Trajanje poobveznega usposabljanja</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Duração da formação pós-obrigatória</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kohustusliku koolituse kestus</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-05T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-de-t0-mtec">Varighed af efter-obligatorisk uddannelse</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trvanie povinnej odbornej prípravy</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Duración de la formación postobligatoria</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Durata della formazione post-obbligatoria</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Duur van de post-verplichte opleiding</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Po privalomojo mokymo trunkantis mokymas</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάρκεια της μετυποχρεωτικής εκπαίδευσης</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Trajanje naknadnog osposobljavanja</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Durata formării post-obligatorii</dct:title>
+            <dct:identifier>22024461-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Durée de la formation postobligatoire</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Varaktighet för eftergymnasial utbildning</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.01.02.01"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba trvání povinného výcviku</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pēcobligātās apmācības ilgums</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tul ta’ taħriġ post-obbligatorju</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Duração da formação pós-obrigatória</dct:title>
+        <dcat:keyword xml:lang="en">annual-population-statistics-1981-2010</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Trajanje poobveznega usposabljanja</dct:title>
+        <dcat:keyword xml:lang="de">lernende-schulerinnen-und-studierende-schul--und-berufsbildung</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Po privalomojo mokymo trunkantis mokymas</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="fr">exploitation-de-registres</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.01.02.01"/>
+        <dct:title xml:lang="en-t-de-t0-mtec">Duration of post-compulsory training</dct:title>
+        <dcat:keyword xml:lang="en">population-and-households-statistics</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Pēcobligātās apmācības ilgums</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0ab5aab0-5664-4b04-aada-4544d048d733">
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Czas trwania szkolenia poobowiązkowego</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Pakollisen koulutuksen kesto</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A kötelező képzést követő képzés időtartama</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Продължителност на следзадължителното обучение</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Trajanje naknadnog osposobljavanja</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-05T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Duración de la formación postobligatoria</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Durata formării post-obligatorii</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Durata della formazione post-obbligatoria</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Doba trvání povinného výcviku</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Тривалість післяобов'язкового навчання</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pēcobligātās apmācības ilgums</dct:title>
+            <dct:title xml:lang="fr">Durée de la formation postobligatoire</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Διάρκεια της μετυποχρεωτικής εκπαίδευσης</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Varaktighet för eftergymnasial utbildning</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Varighed af efter-obligatorisk uddannelse</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Fad na hoiliúna iaréigeantach</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Tul ta’ taħriġ post-obbligatorju</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kohustusliku koolituse kestus</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Duur van de post-verplichte opleiding</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Dauer der postobligatorischen Ausbildung</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.01.02.01"/>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Duração da formação pós-obrigatória</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Trajanje poobveznega usposabljanja</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Trvanie povinnej odbornej prípravy</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Po privalomojo mokymo trunkantis mokymas</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Duration of post-compulsory training</dct:title>
+            <dct:identifier>22024465-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">statistique-de-la-population-et-des-menages</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="el-t-de-t0-mtec">Διάρκεια της μετυποχρεωτικής εκπαίδευσης</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Trvanie povinnej odbornej prípravy</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kohustusliku koolituse kestus</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A kötelező képzést követő képzés időtartama</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="en">register-based-surveys</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ba667fe1-a7b9-47ed-9180-733451dc55ca">
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Tul ta’ taħriġ post-obbligatorju</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Duração da formação pós-obrigatória</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Durata della formazione post-obbligatoria</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Διάρκεια της μετυποχρεωτικής εκπαίδευσης</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Pakollisen koulutuksen kesto</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Тривалість післяобов'язкового навчання</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Czas trwania szkolenia poobowiązkowego</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Durata formării post-obligatorii</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Trajanje naknadnog osposobljavanja</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Duur van de post-verplichte opleiding</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Varaktighet för eftergymnasial utbildning</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Trvanie povinnej odbornej prípravy</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Fad na hoiliúna iaréigeantach</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A kötelező képzést követő képzés időtartama</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Doba trvání povinného výcviku</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22024465/master"/>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Dauer der postobligatorischen Ausbildung</dct:title>
+            <dct:format>XLS</dct:format>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Po privalomojo mokymo trunkantis mokymas</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Продължителност на следзадължителното обучение</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pēcobligātās apmācības ilgums</dct:title>
+            <dct:identifier>22024465-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Trajanje poobveznega usposabljanja</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kohustusliku koolituse kestus</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22024465/master"/>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Duración de la formación postobligatoria</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Duration of post-compulsory training</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Varighed af efter-obligatorisk uddannelse</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-05T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-22T00:00:00</dct:modified>
+            <dct:title xml:lang="fr">Durée de la formation postobligatoire</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:48:04.962484</dct:modified>
+        <dct:title xml:lang="it-t-de-t0-mtec">Durata della formazione post-obbligatoria</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Durata formării post-obligatorii</dct:title>
+        <dcat:keyword xml:lang="it">statistica-di-sintesi</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-05T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/72299dd5-e0c8-45a6-af74-9939c4ce93ab">
+            <dct:title xml:lang="hu-t-de-t0-mtec">A kötelező képzést követő képzés időtartama</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Duur van de post-verplichte opleiding</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22024461/master"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Fad na hoiliúna iaréigeantach</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-05T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Тривалість післяобов'язкового навчання</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάρκεια της μετυποχρεωτικής εκπαίδευσης</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Продължителност на следзадължителното обучение</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Trvanie povinnej odbornej prípravy</dct:title>
+            <dct:title xml:lang="de">Dauer der nachobligatorischen Ausbildung</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Pakollisen koulutuksen kesto</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Duração da formação pós-obrigatória</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Duration of post-compulsory training</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Trajanje poobveznega usposabljanja</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kohustusliku koolituse kestus</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-22T00:00:00</dct:modified>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Trajanje naknadnog osposobljavanja</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Czas trwania szkolenia poobowiązkowego</dct:title>
+            <dct:identifier>22024461-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Po privalomojo mokymo trunkantis mokymas</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Varaktighet för eftergymnasial utbildning</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Durata della formazione post-obbligatoria</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Varighed af efter-obligatorisk uddannelse</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Durée de la formation postobligatoire</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pēcobligātās apmācības ilgums</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Doba trvání povinného výcviku</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="es-t-de-t0-mtec">Duración de la formación postobligatoria</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Tul ta’ taħriġ post-obbligatorju</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22024461/master"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Durata formării post-obligatorii</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Тривалість післяобов'язкового навчання</dct:title>
+        <dct:title xml:lang="de">Dauer der nachobligatorischen Ausbildung</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="it">allievi-e-studenti-formazione-scolastica-e-professionale</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-de-letat-annuel-de-la-population-1981-2010</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Doba trvání povinného výcviku</dct:title>
+        <dcat:keyword xml:lang="en">learners-pupils-and-students-schooling-and-vocationalprofessional-education-and-training</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="de">registerauswertung</dcat:keyword>
+        <dct:title xml:lang="fr">Durée de la formation postobligatoire</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Varighed af efter-obligatorisk uddannelse</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:keyword xml:lang="it">statistica-dello-stato-annuale-della-popolazione-1981-2010</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Tul ta’ taħriġ post-obbligatorju</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Trajanje naknadnog osposobljavanja</dct:title>
+        <dcat:keyword xml:lang="it">statistica-della-popolazione-e-delle-economie-domestiche</dcat:keyword>
+        <dct:identifier>22024455@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="it">analisi-basata-sui-registri</dcat:keyword>
+        <dcat:keyword xml:lang="fr">eleves-et-etudiants-formation-scolaire-et-professionnelle</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Продължителност на следзадължителното обучение</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Varaktighet för eftergymnasial utbildning</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-de-synthese</dcat:keyword>
+        <dcat:keyword xml:lang="de">statistik-des-jahrlichen-bevolkerungsstandes-1981-2010</dcat:keyword>
+        <dcat:keyword xml:lang="de">statistik-der-bevolkerung-und-der-haushalte</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Duur van de post-verplichte opleiding</dct:title>
+        <dcat:keyword xml:lang="de">synthesestatistik</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Czas trwania szkolenia poobowiązkowego</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:38:26Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/22024455-bundesamt-fur-statistik-bfs"/>
+    <dct:identifier>22024455@bundesamt-fur-statistik-bfs</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>4ab7edf606934f6710cfa8a3ddae56db</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:00Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

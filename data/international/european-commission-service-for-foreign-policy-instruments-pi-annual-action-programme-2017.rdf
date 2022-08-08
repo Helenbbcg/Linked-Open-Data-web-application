@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:schema="http://schema.org/"
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/european-commission-service-for-foreign-policy-instruments-pi-annual-action-programme-2017">
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/european-commission-service-for-foreign-policy-instruments-pi-annual-action-programme-2017">
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5873"/>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Commission européenne — Service des instruments de politique étrangère — Programme d’action annuel 2017 de l’IP</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2018-02-22T18:16:14.751722+02:00</dct:issued>
+        <dcat:keyword xml:lang="pt">Serviço dos Instrumentos de Política Externa</dcat:keyword>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2465"/>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Evropská komise – Služba nástrojů zahraniční politiky – roční akční program PI na rok 2017</dct:title>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dcat:keyword xml:lang="en">external financing instruments</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9f17d96e-9a1c-409b-971d-ca295043c9fd">
+            <dct:description xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI για το 2017</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Letni akcijski program PI za leto 2017</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune al PI pentru 2017</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г.</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-Programm ta’ Azzjoni Annwali tal-PI għall-2017</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 de PI</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune al PI pentru 2017</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Letni akcijski program PI za leto 2017</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm</dct:title>
+            <dct:title xml:lang="en">PI Annual Action Programme 2017</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram 2017</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017.</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">2017 m. PP metinė veiksmų programa</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">PI Jaarlijks Actieprogramma 2017</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г.</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/b88fdc1c-f8f2-4d6f-8d25-a19c3da0c0ac</dct:identifier>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dcat:downloadURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/dgs/fpi/key-documents/2017-aap_en.htm">
+                <schema:url>http://ec.europa.eu/dgs/fpi/key-documents/2017-aap_en.htm</schema:url>
+                <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/european-commission-service-for-foreign-policy-instruments-pi-annual-action-programme-2017"/>
+              </foaf:Document>
+            </dcat:downloadURL>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-02-22T19:16:14.959710+02:00</dct:issued>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual IP 2017</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 del PI</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Il-Programm ta’ Azzjoni Annwali tal-PI għall-2017</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 de PI</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/dgs/fpi/key-documents/2017-aap_en.htm"/>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017.</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017</dct:title>
+            <dct:description xml:lang="en">PI Annual Action Programme 2017</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Roční akční program na rok 2017</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Roční akční program na rok 2017</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual IP 2017</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI για το 2017</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 del PI</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2017 m. PP metinė veiksmų programa</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">PI Jaarlijks Actieprogramma 2017</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram 2017</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r.</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="da">Tjenesten for Udenrigspolitiske Instrumenter</dcat:keyword>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Tiedot kumppanuusvälineen vuonna 2017 suunnittelemista toimista. PI seurasi teollistuneiden maiden rahoitusvälinettä vuonna 2014. Tietoja ovat toimien nimi ja kuvaus sekä tiedot kokonaiskustannuksista, EU:n talousarviosta maksettavasta rahoitusosuudesta, maasta (maista)/alueesta, kestosta, toteutusmenetelmästä, tavoitteista, odotetuista tuloksista ja tärkeimmistä toimista. 
+
+Ulkopolitiikan välineiden hallinto tukee EU:ta sen ulko- ja turvallisuuspoliittisten tavoitteiden saavuttamisessa, erityisesti rauhan ja konfliktien ehkäisemisen osalta, sekä EU:n etujen ja julkisuuskuvan edistämisessä maailmassa. Työskentely monilla eri aloilla eri kumppaneiden ja sidosryhmien kanssa FPI edistää osaltaan EU:n yleisen tavoitteen saavuttamista ”vahvempana maailmanlaajuisena toimijana”. 
+
+Tavoitteensa saavuttamiseksi FPI vastaa yhteisen ulko- ja turvallisuuspolitiikan (YUTP), vakautta ja rauhaa edistävän välineen (IcSP), kumppanuusvälineen, vaalitarkkailuvaltuuskuntien, lehdistön ja julkisen diplomatian (PPD) talousarvioiden operatiivisesta ja varainhoidosta sekä ulkopolitiikan sääntelyvälineiden (pakotteet, konfliktitimantteja koskeva Kimberleyn prosessi ja kidutuksen vastainen asetus) täytäntöönpanosta. 
+ 
+FPI saavuttaa tavoitteensa avoimesti ja vastuullisesti.</dct:description>
+        <dcat:keyword xml:lang="ga">An tSeirbhís um Ionstraimí Beartais Eachtraigh</dcat:keyword>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Informacije o ukrepih, načrtovanih v okviru instrumenta partnerstva v letu 2017. Družba PI je leta 2014 nasledila instrument za industrializirane države (ICI).Informacije vključujejo naslov in opis ukrepov ter podatke o skupnih stroških, prispevku iz proračuna EU, državah/regijah, trajanju, načinu izvajanja, ciljih, pričakovanih rezultatih in glavnih dejavnostih.
+ 
+
+
+Služba za instrumente zunanje politike podpira EU pri doseganju ciljev zunanje in varnostne politike, zlasti v zvezi z mirom in preprečevanjem konfliktov, ter izražanju interesov in podobe EU v svetu.
+Sodelovanje na številnih področjih z različnimi partnerji in zainteresiranimi stranmi FPI prispeva k doseganju splošnega cilja EU, da postane „močnejši svetovni akter“.
+
+
+
+
+Da bi dosegla svoj cilj, je odgovorna za operativno in finančno upravljanje proračunov za skupno zunanjo in varnostno politiko (SZVP), instrument za prispevanje k stabilnosti in miru (IcSP), instrument partnerstva, misije za opazovanje volitev, tisk in javno diplomacijo ter izvajanje regulativnih instrumentov zunanje politike (sankcij, procesa Kimberley o konfliktnih diamantih in uredbe o preprečevanju mučenja).
+
+
+
+
+FPI uresničuje svoje cilje na odprt in odgovoren način.</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Europese Commissie — Dienst Instrumenten buitenlands beleid — jaarlijks actieprogramma 2017</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2a7cd5f6-6a23-4ee3-a158-4fe2e020cf16">
+            <dct:description xml:lang="fr-t-en-t0-mtec">Aperçu du programme d’action annuel 2017 de l’IP</dct:description>
+            <dcat:downloadURL rdf:resource="http://ec.europa.eu/dgs/fpi/key-documents/2017-aap_en.htm"/>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Преглед на годишната програма за действие на ИП за 2017 г.</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Pré-visualização do Programa de Ação Anual IP 2017</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Predogled letnega akcijskega programa PI za leto 2017</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Prehľad ročného akčného programu PI na rok 2017</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2017 m. PI metinės veiksmų programos peržiūra</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">Vorschau des PI-Jahresaktionsprogramms 2017</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programmas priekšskatījums</dct:description>
+            <dct:description xml:lang="el-t-en-t0-mtec">Προεπισκόπηση του ετήσιου προγράμματος δράσης των PI για το 2017</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Преглед на годишната програма за действие на ИП за 2017 г.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Náhled na roční akční program PI 2017</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Προεπισκόπηση του ετήσιου προγράμματος δράσης των PI για το 2017</dct:title>
+            <dct:description xml:lang="es-t-en-t0-mtec">Vista previa del Programa de Acción Anual 2017 de PI</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">2017 m. PI metinės veiksmų programos peržiūra</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Náhled na roční akční program PI 2017</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Voorbeeld van het jaarlijkse actieprogramma van de PI 2017</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Previzualizarea programului anual de acțiune pentru 2017</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Predogled letnega akcijskega programa PI za leto 2017</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogrammi eelvaade</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogrammi eelvaade</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Pregled godišnjeg programa djelovanja PI-ja za 2017.</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Przegląd rocznego programu działań PI na 2017 r.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Prehľad ročného akčného programu PI na rok 2017</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Previżjoni tal-Programm ta’ Azzjoni Annwali tal-PI 2017</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Voorbeeld van het jaarlijkse actieprogramma van de PI 2017</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-02-22T19:26:25.428658+02:00</dct:issued>
+            <dct:title xml:lang="it-t-en-t0-mtec">Anteprima del programma d'azione annuale 2017 del PI</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Aperçu du programme d’action annuel 2017 de l’IP</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">Anteprima del programma d'azione annuale 2017 del PI</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Esikatselu PI:n vuotuisesta toimintaohjelmasta 2017</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="da-t-en-t0-mtec">Forhåndsvisning af PI's årlige handlingsprogram for 2017</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Pré-visualização do Programa de Ação Anual IP 2017</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Previżjoni tal-Programm ta’ Azzjoni Annwali tal-PI 2017</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Réamhamharc ar Chlár Gníomhaíochta Bliantúil PI 2017</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Vista previa del Programa de Acción Anual 2017 de PI</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programjának előnézete</dct:description>
+            <dct:title xml:lang="en">Preview of PI Annual Action Programme 2017</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Przegląd rocznego programu działań PI na 2017 r.</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">Vorschau des PI-Jahresaktionsprogramms 2017</dct:description>
+            <dct:description xml:lang="en">Preview of PI Annual Action Programme 2017</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Förhandsvisning av PI:s årliga handlingsprogram 2017</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programjának előnézete</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Réamhamharc ar Chlár Gníomhaíochta Bliantúil PI 2017</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/9be82e30-2728-43a3-ba56-9b68282b7a89</dct:identifier>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/dgs/fpi/key-documents/2017-aap_en.htm"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Pregled godišnjeg programa djelovanja PI-ja za 2017.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Previzualizarea programului anual de acțiune pentru 2017</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">Esikatselu PI:n vuotuisesta toimintaohjelmasta 2017</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programmas priekšskatījums</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">Forhåndsvisning af PI's årlige handlingsprogram for 2017</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Förhandsvisning av PI:s årliga handlingsprogram 2017</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Faisnéis maidir leis na gníomhaíochtaí atá beartaithe leis an Ionstraim um Chomhpháirtíocht (PI) in 2017. Tháinig PI i gcomharbacht ar an Ionstraim do Thíortha Tionsclaithe (ICI) in 2014. Áirítear ar an bhfaisnéis teideal agus tuairisc ar ghníomhaíochtaí agus sonraí maidir leis an gcostas iomlán, ranníocaíocht bhuiséad an Aontais, tír/tíortha/réigiún, fad tréimhse, modh cur chun feidhme, cuspóirí, torthaí ionchais agus príomhghníomhaíochtaí. 
+
+Tacaíonn an tSeirbhís um Ionstraimí Beartais Eachtraigh leis an Aontas a chuspóirí beartais eachtraigh agus slándála a bhaint amach, go háirithe maidir le síocháin agus cosc coinbhleachtaí, agus chun leasanna agus íomhá an Aontais a chur chun cinn ar fud an domhain. Trí bheith ag obair i raon leathan réimsí le comhpháirtithe agus páirtithe leasmhara éagsúla, cuidíonn FPI le cuspóir ginearálta an Aontais a bhaint amach chun a bheith ina ‘ghníomhaí domhanda níos láidre’. 
+
+Chun a chuspóir a bhaint amach, tá FPI freagrach as bainistiú oibríochtúil agus airgeadais na mbuiséad don Chomhbheartas Eachtrach agus Slándála (CBES), as an Ionstraim lena gcuirtear le Cobhsaíocht agus le Síocháin (IcSP), as an Ionstraim um Chomhpháirtíocht (PI), as Misin Bhreathnóireachta Toghchán (EOManna), as an bTaidhleoireacht Phoiblí agus as cur chun feidhme Ionstraimí Rialála an Bheartais Eachtraigh (smachtbhannaí, Próiseas Kimberley maidir le diamaint choinbhleachta agus an Rialachán maidir le Frith-Chéastóireacht). 
+ 
+Cuireann FPI a chuspóirí i gcrích ar bhealach oscailte agus cuntasach.</dct:description>
+        <dcat:keyword xml:lang="fr">Service des instruments de politique étrangère</dcat:keyword>
+        <dcat:keyword xml:lang="sl">Služba za instrumente zunanje politike</dcat:keyword>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/dgs/fpi/key-documents/2017-aap_en.htm"/>
+        <dcat:keyword xml:lang="de">Dienst für außenpolitische Instrumente</dcat:keyword>
+        <owl:versionInfo></owl:versionInfo>
+        <dcat:keyword xml:lang="en">Partnership Instrument</dcat:keyword>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Informácie o opatreniach plánovaných v rámci nástroja partnerstva (PI) v roku 2017. PI nahradil nástroj pre priemyselné krajiny (ICI) v roku 2014. Informácie zahŕňajú názov a opis akcií a údaje o celkových nákladoch, príspevku z rozpočtu EÚ, krajine (krajinách)/regióne, trvaní, spôsobe vykonávania, cieľoch, očakávaných výsledkoch a hlavných činnostiach. 
+
+Služba pre nástroje zahraničnej politiky podporuje EÚ pri dosahovaní jej cieľov zahraničnej a bezpečnostnej politiky, najmä pokiaľ ide o mier a predchádzanie konfliktom, a pri premietaní záujmov a imidžu EÚ vo svete. Spolupráca v širokej škále oblastí s rôznymi partnermi a zainteresovanými stranami FPI prispieva k dosiahnutiu všeobecného cieľa EÚ stať sa „silnejším globálnym aktérom“. 
+
+Na dosiahnutie svojho cieľa je FPI zodpovedný za prevádzkové a finančné riadenie rozpočtov pre spoločnú zahraničnú a bezpečnostnú politiku (SZBP), nástroj na podporu stability a mieru (IcSP), nástroj partnerstva (PI), volebné pozorovateľské misie, tlač a verejnú diplomaciu (PPD), ako aj za vykonávanie regulačných nástrojov zahraničnej politiky (sankcie, Kimberleyský proces týkajúci sa konfliktných diamantov a nariadenie o boji proti mučeniu). 
+ 
+FPI plní svoje ciele otvoreným a zodpovedným spôsobom.</dct:description>
+        <dcat:keyword xml:lang="nl">Dienst Instrumenten buitenlands beleid</dcat:keyword>
+        <dcat:keyword xml:lang="hu">Külpolitikai Eszközökért Felelős Szolgálat</dcat:keyword>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Comissão Europeia — Serviço dos Instrumentos de Política Externa — Programa de Ação Anual 2017 do PI</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Oplysninger om planlagte foranstaltninger under partnerskabsinstrumentet (PI) i 2017. Pi efterfulgte instrumentet for industrialiserede lande (ICI) i 2014. Oplysninger omfatter titel og beskrivelse af foranstaltninger og data om samlede omkostninger, bidrag fra EU-budgettet, land(e)/region, varighed, gennemførelsesmetode, mål, forventede resultater og hovedaktiviteter. 
+
+Tjenesten for Udenrigspolitiske Instrumenter støtter EU i at nå sine udenrigs- og sikkerhedspolitiske mål, navnlig med hensyn til fred og konfliktforebyggelse, og til at fremme EU's interesser og image i verden. Samarbejde på en lang række områder med forskellige partnere og interessenter bidrager til at nå EU's overordnede mål om at blive "en stærkere global aktør". 
+
+For at nå sit mål er FPI ansvarlig for den operationelle og finansielle forvaltning af budgetterne for den fælles udenrigs- og sikkerhedspolitik (FUSP), instrumentet, der bidrager til stabilitet og fred (IcSP), partnerskabsinstrumentet (PI), valgobservationsmissioner (EOM'er), pressen og det offentlige diplomati (PPD) samt gennemførelsen af de udenrigspolitiske reguleringsinstrumenter (sanktioner, Kimberleyprocessen vedrørende konfliktdiamanter og forordningen om bekæmpelse af tortur). 
+ 
+FPI opfylder sine mål på en åben og ansvarlig måde.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        </dcat:theme>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Euroopan komissio – Ulkopolitiikan välineiden hallinto – PI:n vuotuinen toimintaohjelma 2017</dct:title>
+        <dcat:keyword xml:lang="en">2017</dcat:keyword>
+        <dcat:keyword xml:lang="bg">Служба за инструментите в областта на външната политика</dcat:keyword>
+        <dcat:keyword xml:lang="en">annual action programme</dcat:keyword>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Il-Kummissjoni Ewropea — Servizz għall-Istrumenti tal-Politika Barranija — Programm ta’ Azzjoni Annwali tal-PI 2017</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Tájékoztatás a Partnerségi Eszköz által 2017-ben tervezett intézkedésekről. A PI 2014-ben az iparosodott országok számára létrehozott eszköz (ICI) helyébe lépett. Az információk közé tartozik az intézkedések címe és leírása, valamint a teljes költségre, az uniós költségvetési hozzájárulásra, az ország(ok)ra/régióra, az időtartamra, a végrehajtás módjára, a célkitűzésekre, a várt eredményekre és a fő tevékenységekre vonatkozó adatok. 
+
+A Külpolitikai Eszközökért Felelős Szolgálat támogatja az EU-t kül- és biztonságpolitikai célkitűzéseinek elérésében, különösen a béke és a konfliktusmegelőzés terén, valamint az EU érdekeinek és imázsának a világban való érvényesítésében. A különböző partnerekkel és érdekelt felekkel folytatott munka számos területen hozzájárul az EU azon általános célkitűzésének eléréséhez, hogy „erősebb globális szereplővé” váljon. 
+
+Célkitűzésének elérése érdekében az FPI felelős a közös kül- és biztonságpolitika (KKBP), a stabilitás és a béke elősegítését szolgáló eszköz (IcSP), a partnerségi eszköz (PI), a választási megfigyelő missziók, a sajtó- és közdiplomácia költségvetésének operatív és pénzügyi irányításáért, valamint a külpolitikai szabályozási eszközök (szankciók, a konfliktusgyémántokkal kapcsolatos kimberleyi folyamat és a kínzás elleni rendelet) végrehajtásáért. 
+ 
+Az FPI nyílt és elszámoltatható módon teljesíti célkitűzéseit.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        </dcat:theme>
+        <dcat:keyword xml:lang="et">Välispoliitika vahendite talitus</dcat:keyword>
+        <dct:title xml:lang="da-t-en-t0-mtec">Europa-Kommissionen — Tjenesten for Udenrigspolitiske Instrumenter — PI's årlige handlingsprogram 2017</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Informazioni sulle azioni previste dallo strumento di partenariato (PI) nel 2017. PI è succeduta allo strumento per i paesi industrializzati (ICI) nel 2014. Le informazioni comprendono il titolo e la descrizione delle azioni e i dati relativi al costo totale, al contributo del bilancio dell'UE, al paese o ai paesi/regione, alla durata, al metodo di attuazione, agli obiettivi, ai risultati attesi e alle principali attività. 
+
+Il Servizio per gli strumenti di politica estera sostiene l'UE a conseguire i suoi obiettivi di politica estera e di sicurezza, in particolare per quanto riguarda la pace e la prevenzione dei conflitti, e a proiettare gli interessi e l'immagine dell'UE nel mondo. Lavorare in un'ampia gamma di settori con vari partner e portatori di interessi FPI contribuisce al conseguimento dell'obiettivo generale dell'UE di diventare "un attore globale più forte". 
+
+Per conseguire il suo obiettivo, l'FPI è responsabile della gestione operativa e finanziaria dei bilanci per la politica estera e di sicurezza comune (PESC), dello strumento inteso a contribuire alla stabilità e alla pace (IcSP), dello strumento di partenariato (PI), delle missioni di osservazione elettorale (EOM), della stampa e della diplomazia pubblica (PPD), nonché dell'attuazione degli strumenti di regolamentazione in materia di politica estera (sanzioni, processo di Kimberley sui diamanti di conflitto e regolamento anti-tortura). 
+ 
+FPI realizza i propri obiettivi in modo aperto e responsabile.</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Πληροφορίες σχετικά με τις δράσεις που προβλέπονται από το Μέσο Εταιρικής Σχέσης (ΜΕΣ) το 2017. Τα PI διαδέχτηκαν το μέσο για τις εκβιομηχανισμένες χώρες (ICI) το 2014. Οι πληροφορίες περιλαμβάνουν τον τίτλο και την περιγραφή των δράσεων και τα στοιχεία σχετικά με το συνολικό κόστος, τη συνεισφορά του προϋπολογισμού της ΕΕ, τη χώρα ή τις περιφέρειες, τη διάρκεια, τη μέθοδο υλοποίησης, τους στόχους, τα αναμενόμενα αποτελέσματα και τις κύριες δραστηριότητες. 
+
+Η Υπηρεσία Μέσων Εξωτερικής Πολιτικής στηρίζει την ΕΕ στην επίτευξη των στόχων της εξωτερικής πολιτικής και πολιτικής ασφάλειας, ιδίως όσον αφορά την ειρήνη και την πρόληψη των συγκρούσεων, και στην προβολή των συμφερόντων και της εικόνας της ΕΕ στον κόσμο. Η συνεργασία σε ευρύ φάσμα τομέων με διάφορους εταίρους και ενδιαφερόμενους φορείς της FPI συμβάλλει στην επίτευξη του γενικού στόχου της ΕΕ να καταστεί «ένας ισχυρότερος παγκόσμιος παράγοντας». 
+
+Για την επίτευξη του στόχου της FPI, η FPI είναι υπεύθυνη για την επιχειρησιακή και οικονομική διαχείριση των προϋπολογισμών της Κοινής Εξωτερικής Πολιτικής και Πολιτικής Ασφαλείας (ΚΕΠΠΑ), του Μηχανισμού Συμβολής στη Σταθερότητα και την Ειρήνη (IcSP), του Μέσου Εταιρικής Σχέσης (PI), των αποστολών παρατήρησης εκλογών (ΑΠΕ), του Τύπου και της Δημόσιας Διπλωματίας (PPD), καθώς και της εφαρμογής των κανονιστικών μέσων εξωτερικής πολιτικής (κυρώσεις, διαδικασία Κίμπερλυ για τα διαμάντια συγκρούσεων και κανονισμός κατά των βασανιστηρίων). 
+ 
+Η FPI επιτυγχάνει τους στόχους της με ανοικτό και υπεύθυνο τρόπο.</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Commissione europea — Servizio per gli strumenti di politica estera — Programma d'azione annuale 2017 del PI</dct:title>
+        <dct:title xml:lang="de-t-en-t0-mtec">Europäische Kommission – Dienst für außenpolitische Instrumente – PI Jahresaktionsprogramm 2017</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1005"/>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Informacije o mjerama koje se planiraju u okviru Instrumenta za partnerstvo (PI) u 2017. PI je 2014. naslijedio Instrument za industrijalizirane zemlje (ICI). Informacije uključuju naslov i opis aktivnosti te podatke o ukupnim troškovima, doprinosu iz proračuna EU-a, zemlji/regiji, trajanju, načinu provedbe, ciljevima, očekivanim rezultatima i glavnim aktivnostima. 
+
+Služba za instrumente vanjske politike podupire EU u postizanju ciljeva vanjske i sigurnosne politike, posebno u pogledu mira i sprečavanja sukoba, te u projiciranju interesa i imidža EU-a u svijetu. Suradnja u širokom rasponu područja s različitim partnerima i dionicima FPI pridonosi postizanju općeg cilja EU-a da postane „jači globalni akter”. 
+
+Kako bi ostvario svoj cilj FPI je odgovoran za operativno i financijsko upravljanje proračunima zajedničke vanjske i sigurnosne politike (ZVSP), Instrumentom za doprinos stabilnosti i miru (IcSP), Instrumentom za partnerstvo (PI), misijama za promatranje izbora, tiskom i javnom diplomacijom (PPD) te provedbom regulatornih instrumenata vanjske politike (sankcije, Proces Kimberley o konfliktnim dijamantima i Uredba o borbi protiv mučenja). 
+ 
+FPI ostvaruje svoje ciljeve na otvoren i odgovoran način.</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ευρωπαϊκή Επιτροπή — Υπηρεσία Μέσων Εξωτερικής Πολιτικής — Ετήσιο πρόγραμμα δράσης PI για το 2017</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Eiropas Komisija — Ārpolitikas instrumentu dienests — PI 2017. gada rīcības programma</dct:title>
+        <dct:title xml:lang="en">European Commission – Service for Foreign Policy Instruments – PI Annual Action Programme 2017</dct:title>
+        <dcat:keyword xml:lang="pl">Służba ds. Instrumentów Polityki Zagranicznej</dcat:keyword>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3077"/>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Europeiska kommissionen – tjänsten för utrikespolitiska instrument – PI:s årliga handlingsprogram 2017</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2793"/>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Informatie over de in 2017 geplande acties in het kader van het partnerschapsinstrument (PI). PI volgde in 2014 het instrument voor geïndustrialiseerde landen (ICI) op.De informatie omvat de titel en beschrijving van de acties en gegevens over de totale kosten, bijdrage uit de EU-begroting, land(en)/regio, duur, uitvoeringsmethode, doelstellingen, verwachte resultaten en belangrijkste activiteiten.
+  
+
+De Dienst Instrumenten voor het buitenlands beleid ondersteunt de EU bij het verwezenlijken van haar doelstellingen van het buitenlands en veiligheidsbeleid, met name op het gebied van vrede en conflictpreventie, en bij het uitdragen van de belangen en het imago van de EU in de wereld.
+Het werken op een breed scala van gebieden met verschillende partners en belanghebbenden draagt bij tot de verwezenlijking van de algemene doelstelling van de EU om „een sterkere speler op het wereldtoneel” te worden.
+
+
+
+
+Om haar doel te bereiken is FPI verantwoordelijk voor het operationele en financiële beheer van de begrotingen voor het gemeenschappelijk buitenlands en veiligheidsbeleid (GBVB), het instrument voor bijdrage aan stabiliteit en vrede (IcSP), het partnerschapsinstrument (PI), verkiezingswaarnemingsmissies (EOM’s), pers- en publieksdiplomatie (PPD) en de uitvoering van regelgevingsinstrumenten voor het buitenlands beleid (sancties, het Kimberleyproces inzake conflictdiamanten en de verordening inzake de bestrijding van foltering).
+
+
+
+
+FPI levert haar doelstellingen op een open en verantwoordelijke manier.</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Európai Bizottság – Külpolitikai Eszközökért Felelős Szolgálat – A PI 2017. évi éves cselekvési programja</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Comisión Europea — Servicio de Instrumentos de Política Exterior — Programa de Acción Anual 2017 de PI</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/54b18000-17ed-40c2-8a23-1e3116365c32">
+            <dct:description xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 — Modificación del Programa de Acción Anual 2017 (noviembre de 2017)</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune 2017 – Modificarea programului anual de acțiune 2017 (noiembrie 2017)</dct:description>
+            <dct:title xml:lang="en">PI Annual Action Programme 2017 - Amendment to the Annual Action Programme 2017 (November 2017)</dct:title>
+            <dct:title xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017 – Änderung des Jahresaktionsprogramms 2017 (November 2017)</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017 – Änderung des Jahresaktionsprogramms 2017 (November 2017)</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017 – zmena ročného akčného programu na rok 2017 (november 2017)</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/pdf"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP — Modification du programme d’action annuel 2017 (novembre 2017)</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017 — Leasú ar an gClár Gníomhaíochta Bliantúil 2017 (Samhain 2017)</dct:title>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual 2017 — Alteração do Programa de Ação Anual 2017 (novembro de 2017)</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Programm ta’ Azzjoni Annwali tal-PI 2017 — Emenda għall-Programm ta’ Azzjoni Annwali 2017 (Novembru 2017)</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 — Modificación del Programa de Acción Anual 2017 (noviembre de 2017)</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja – A 2017. évi éves cselekvési program módosítása (2017. november)</dct:description>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017 – muutos vuotuiseen toimintaohjelmaan 2017 (marraskuu 2017)</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Letni akcijski program za leto 2017 – sprememba letnega akcijskega programa za leto 2017 (november 2017)</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017. – Izmjena godišnjeg programa djelovanja za 2017. (studeni 2017.)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI 2017 — Τροποποίηση του ετήσιου προγράμματος δράσης 2017 (Νοέμβριος 2017)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Jaarlijks actieprogramma 2017 — Wijziging van het jaarlijkse actieprogramma 2017 (november 2017)</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 — Modifica del programma d'azione annuale 2017 (novembre 2017)</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm – 2017. aasta tegevusprogrammi muutmine (november 2017)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г. — Изменение на годишната програма за действие за 2017 г. (ноември 2017 г.)</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI 2017 — Τροποποίηση του ετήσιου προγράμματος δράσης 2017 (Νοέμβριος 2017)</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/dgs/fpi/documents/key-documents/c_2017_7573_f1_commission_implementing_decision_en.pdf"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja – A 2017. évi éves cselekvési program módosítása (2017. november)</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual 2017 — Alteração do Programa de Ação Anual 2017 (novembro de 2017)</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm – 2017. aasta tegevusprogrammi muutmine (november 2017)</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune 2017 – Modificarea programului anual de acțiune 2017 (noiembrie 2017)</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017 — Leasú ar an gClár Gníomhaíochta Bliantúil 2017 (Samhain 2017)</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017 – zmena ročného akčného programu na rok 2017 (november 2017)</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma — grozījumi 2017. gada rīcības programmā (2017. gada novembris)</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r. – zmiana rocznego programu działania na 2017 r. (listopad 2017 r.)</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-02-22T19:26:25.428645+02:00</dct:issued>
+            <dct:title xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017 – Ändring av det årliga handlingsprogrammet 2017 (november 2017)</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">2017 m. PP metinė veiksmų programa. 2017 m. metinės veiksmų programos pakeitimas (2017 m. lapkričio mėn.)</dct:description>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Letni akcijski program za leto 2017 – sprememba letnega akcijskega programa za leto 2017 (november 2017)</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma — grozījumi 2017. gada rīcības programmā (2017. gada novembris)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/962cd5d6-ffd1-425f-a50b-83e0828660bd</dct:identifier>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Roční akční program PI na rok 2017 – změna ročního akčního programu na rok 2017 (listopad 2017)</dct:description>
+            <dcat:downloadURL rdf:resource="http://ec.europa.eu/dgs/fpi/documents/key-documents/c_2017_7573_f1_commission_implementing_decision_en.pdf"/>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Roční akční program PI na rok 2017 – změna ročního akčního programu na rok 2017 (listopad 2017)</dct:title>
+            <dct:description xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017 – Ändring av det årliga handlingsprogrammet 2017 (november 2017)</dct:description>
+            <dct:description xml:lang="en">PI Annual Action Programme 2017 - Amendment to the Annual Action Programme 2017 (November 2017)</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r. – zmiana rocznego programu działania na 2017 r. (listopad 2017 r.)</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram 2017 — Ændring af det årlige handlingsprogram 2017 (november 2017)</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017. – Izmjena godišnjeg programa djelovanja za 2017. (studeni 2017.)</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            </dct:format>
+            <dct:title xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram 2017 — Ændring af det årlige handlingsprogram 2017 (november 2017)</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г. — Изменение на годишната програма за действие за 2017 г. (ноември 2017 г.)</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP — Modification du programme d’action annuel 2017 (novembre 2017)</dct:title>
+            <dct:description xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 — Modifica del programma d'azione annuale 2017 (novembre 2017)</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Programm ta’ Azzjoni Annwali tal-PI 2017 — Emenda għall-Programm ta’ Azzjoni Annwali 2017 (Novembru 2017)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2017 m. PP metinė veiksmų programa. 2017 m. metinės veiksmų programos pakeitimas (2017 m. lapkričio mėn.)</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Jaarlijks actieprogramma 2017 — Wijziging van het jaarlijkse actieprogramma 2017 (november 2017)</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017 – muutos vuotuiseen toimintaohjelmaan 2017 (marraskuu 2017)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Information om åtgärder som planeras av partnerskapsinstrumentet 2017. PI efterträdde instrumentet för industriländer 2014. Informationen omfattar åtgärdens titel och beskrivning samt uppgifter om totalkostnad, bidrag från EU:s budget, land/region, varaktighet, genomförandemetod, mål, förväntade resultat och huvudsakliga verksamheter. 
+
+Tjänsten för utrikespolitiska instrument stöder EU att uppnå sina utrikes- och säkerhetspolitiska mål, särskilt när det gäller fred och konfliktförebyggande, och att sprida EU:s intressen och image i världen. Att arbeta på en rad olika områden med olika partner och intressenter bidrar till att uppnå EU:s allmänna mål att bli ”en starkare global aktör”. 
+
+För att uppnå sitt mål ansvarar FPI för den operativa och ekonomiska förvaltningen av budgetarna för den gemensamma utrikes- och säkerhetspolitiken (Gusp), instrumentet som bidrar till stabilitet och fred, partnerskapsinstrumentet, valobservatörsuppdrag, press och offentlig diplomati samt genomförandet av utrikespolitiska regleringsinstrument (sanktioner, Kimberleyprocessen om konfliktdiamanter och förordningen mot tortyr). 
+ 
+FPI uppfyller sina mål på ett öppet och ansvarsfullt sätt.</dct:description>
+        <dct:modified>2018-02-22 18:26:25.340241</dct:modified>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Европейска комисия — Служба за инструментите в областта на външната политика — Годишна програма за действие на ПИ за 2017 г.</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Informacje na temat działań planowanych w ramach Instrumentu Partnerstwa w 2017 r. PI zastąpiła Instrument na rzecz Krajów Uprzemysłowionych w 2014 r.Informacje obejmują tytuł i opis działań oraz dane dotyczące całkowitych kosztów, wkładu z budżetu UE, kraju/regionu, czasu trwania, metody realizacji, celów, oczekiwanych rezultatów i głównych działań.
+  
+
+Służba ds. Instrumentów Polityki Zagranicznej wspiera UE w osiąganiu celów polityki zagranicznej i bezpieczeństwa, w szczególności w odniesieniu do pokoju i zapobiegania konfliktom, oraz w eksponowaniu interesów i wizerunku UE na świecie.
+Współpraca z różnymi partnerami i zainteresowanymi stronami w wielu dziedzinach przyczynia się do osiągnięcia ogólnego celu UE, jakim jest stanie się „silniejszym podmiotem globalnym”.
+
+
+
+
+Aby osiągnąć swój cel, FPI odpowiada za operacyjne i finansowe zarządzanie budżetami na wspólną politykę zagraniczną i bezpieczeństwa (WPZiB), Instrument na rzecz przyczyniania się do Stabilności i Pokoju (IcSP), Instrument Partnerstwa (PI), misje obserwacji wyborów, dyplomację prasową i publiczną, a także wdrażanie instrumentów regulacyjnych polityki zagranicznej (sankcje, proces Kimberley dotyczący diamentów konfliktowych i rozporządzenie w sprawie przeciwdziałania torturom).
+
+
+
+
+FPI realizuje swoje cele w sposób otwarty i odpowiedzialny.</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Európska komisia – Útvar pre nástroje zahraničnej politiky – ročný akčný program partnerstva na rok 2017</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Informacija apie 2017 m. pagal partnerystės priemonę (PP) planuojamus veiksmus. 2014 m. PI pakeitė Pramoninėms šalims skirtą priemonę (ICI).Informacija apima veiksmų pavadinimą ir aprašymą bei duomenis apie bendras išlaidas, ES biudžeto įnašą, šalį (-is) ir (arba) regioną, trukmę, įgyvendinimo metodą, tikslus, numatomus rezultatus ir pagrindinę veiklą.
+ 
+
+
+Užsienio politikos priemonių tarnyba padeda ES siekti savo užsienio ir saugumo politikos tikslų, visų pirma susijusių su taika ir konfliktų prevencija, ir parodyti ES interesus ir įvaizdį pasaulyje.
+Bendradarbiaujant su įvairiais partneriais ir suinteresuotaisiais subjektais FPI įvairiose srityse padeda siekti bendrojo ES tikslo tapti stipresne pasaulinio masto veikėja.
+
+
+
+
+Kad pasiektų savo tikslą, FPI yra atsakinga už bendros užsienio ir saugumo politikos (BUSP), priemonės, kuria prisidedama prie stabilumo ir taikos (IcSP), partnerystės priemonės, rinkimų stebėjimo misijų, spaudos ir viešosios diplomatijos (PPD), taip pat užsienio politikos reguliavimo priemonių (sankcijos, Kimberley procesas dėl konfliktų deimantų ir Kovos su kankinimu reglamentas) biudžeto operatyvinį ir finansinį valdymą.
+
+
+
+
+FPI savo tikslus įgyvendina atvirai ir atskaitingai.</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/8d13041d-5faf-4b21-9720-b1f5a63a58ad"/>
+        </dcat:contactPoint>
+        <dcat:keyword xml:lang="ro">Serviciul Instrumente de Politică Externă</dcat:keyword>
+        <dcat:keyword xml:lang="el">Υπηρεσία Μέσων Εξωτερικής Πολιτικής</dcat:keyword>
+        <dcat:keyword xml:lang="sk">Útvar pre nástroje zahraničnej politiky</dcat:keyword>
+        <dcat:keyword xml:lang="it">Servizio degli strumenti di politica estera</dcat:keyword>
+        <dcat:keyword xml:lang="lt">Užsienio politikos priemonių tarnyba</dcat:keyword>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Informații privind acțiunile planificate de Instrumentul de parteneriat (IP) în 2017. PI a succedat Instrumentului pentru țările industrializate (ICI) în 2014.Informațiile includ titlul și descrierea acțiunilor, precum și date privind costul total, contribuția de la bugetul UE, țara (țările)/regiunea, durata, metoda de punere în aplicare, obiectivele, rezultatele preconizate și principalele activități.
+  
+
+Serviciul Instrumente de Politică Externă sprijină UE să își atingă obiectivele de politică externă și de securitate, în special în ceea ce privește pacea și prevenirea conflictelor, precum și să proiecteze interesele și imaginea UE în lume.
+Colaborarea într-o gamă largă de domenii cu diverși parteneri și părți interesate contribuie la realizarea obiectivului general al UE de a deveni „un actor global mai puternic”.
+
+
+
+
+Pentru a-și atinge obiectivul, FPI este responsabil de gestionarea operațională și financiară a bugetelor pentru politica externă și de securitate comună (PESC), Instrumentul care contribuie la stabilitate și pace (IcSP), Instrumentul de parteneriat (IP), misiunile de observare a alegerilor (MOA), presa și diplomația publică (PPD), precum și de punerea în aplicare a instrumentelor de reglementare a politicii externe (sancțiuni, Procesul Kimberley privind diamantele de conflict și Regulamentul privind combaterea torturii).
+
+
+
+
+FPI își îndeplinește obiectivele într-un mod deschis și responsabil.</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Informations sur les actions prévues par l’instrument de partenariat (IP) en 2017. PI a succédé à l’Instrument pour les pays industrialisés (ICI) en 2014. Les informations comprennent le titre et la description des actions et des données sur le coût total, la contribution du budget de l’UE, le ou les pays/régions, la durée, la méthode de mise en œuvre, les objectifs, les résultats escomptés et les principales activités. 
+
+Le Service des instruments de politique étrangère aide l’UE à atteindre ses objectifs en matière de politique étrangère et de sécurité, notamment en ce qui concerne la paix et la prévention des conflits, et à projeter les intérêts et l’image de l’UE dans le monde. Travailler dans un large éventail de domaines avec différents partenaires et parties prenantes FPI contribue à la réalisation de l’objectif général de l’UE de devenir «un acteur mondial plus fort». 
+
+Pour atteindre son objectif, le FPI est responsable de la gestion opérationnelle et financière des budgets de la politique étrangère et de sécurité commune (PESC), de l’instrument contribuant à la stabilité et à la paix (IcSP), de l’instrument de partenariat (IP), des missions d’observation électorale (MOE), de la presse et de la diplomatie publique (PPD), ainsi que de la mise en œuvre des instruments réglementaires de politique étrangère (sanctions, processus de Kimberley sur les diamants de guerre et règlement anti-torture). 
+ 
+FPI réalise ses objectifs d’une manière ouverte et responsable.</dct:description>
+        <dcat:keyword xml:lang="es">Servicio de Instrumentos de Política Exterior</dcat:keyword>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Informace o opatřeních plánovaných v rámci nástroje partnerství v roce 2017. PI byl v roce 2014 nástupcem nástroje pro průmyslové země (ICI). Informace zahrnují název a popis opatření a údaje o celkových nákladech, příspěvku z rozpočtu EU, zemi (zemích)/regionu, době trvání, způsobu provádění, cílech, očekávaných výsledcích a hlavních činnostech. 
+
+Služba nástrojů zahraniční politiky podporuje EU při dosahování cílů zahraniční a bezpečnostní politiky, zejména pokud jde o mír a předcházení konfliktům, a při prosazování zájmů a image EU ve světě. Spolupráce s různými partnery a zúčastněnými stranami v celé řadě oblastí přispívá k dosažení obecného cíle EU, kterým je stát se „silnějším globálním aktérem“. 
+
+Za účelem dosažení svého cíle FPI odpovídá za provozní a finanční řízení rozpočtů společné zahraniční a bezpečnostní politiky (SZBP), nástroje přispívajícího ke stabilitě a míru (IcSP), nástroje partnerství (PI), volebních pozorovatelských misí, tisku a veřejné diplomacie (PPD) a provádění regulačních nástrojů zahraniční politiky (sankce, kimberleyský proces týkající se konfliktních diamantů a nařízení o boji proti mučení). 
+ 
+FPI plní své cíle otevřeným a odpovědným způsobem.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9ccc3da9-91f1-43c8-a9ff-38e66ba56f86">
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017 – prílohy, ktorými sa mení ročný akčný plán na rok 2017 (november 2017)</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP — Annexes Amendement AAP 2017 (novembre 2017)</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 de PI — Anexos AAP de modificación 2017 (noviembre de 2017)</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma — pielikumi, ar ko groza 2017. gada rīcības plānu (2017. gada novembris)</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Roční akční program PI na rok 2017 – změny příloh AAP 2017 (listopad 2017)</dct:description>
+            <dct:description xml:lang="nl-t-en-t0-mtec">PI Jaarlijks Actieprogramma 2017 — Bijlagen amendement JAP 2017 (november 2017)</dct:description>
+            <dct:title xml:lang="nl-t-en-t0-mtec">PI Jaarlijks Actieprogramma 2017 — Bijlagen amendement JAP 2017 (november 2017)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-02-22T19:26:25.428652+02:00</dct:issued>
+            <dct:title xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm – 2017. aasta tegevuskava muudatused (november 2017)</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram for 2017 — Bilag om ændring af AAP 2017 (november 2017)</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Letni akcijski program PI za leto 2017 – priloge k spremembi letnega akcijskega načrta za leto 2017 (november 2017)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/dgs/fpi/documents/key-documents/c_2017_7573_f1_annexes.zip"/>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017. – prilozi izmjeni AAP-a za 2017. (studeni 2017.)</dct:title>
+            <dct:description xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm – 2017. aasta tegevuskava muudatused (november 2017)</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram for 2017 — Bilag om ændring af AAP 2017 (november 2017)</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:description xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017 – bilagor till ändring av AAP 2017 (november 2017)</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г. — приложения за изменение на ГПД за 2017 г. (ноември 2017 г.)</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Roční akční program PI na rok 2017 – změny příloh AAP 2017 (listopad 2017)</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI 2017 — Τροποποίηση παραρτημάτων AAP 2017 (Νοέμβριος 2017)</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r. – załączniki zmieniające AAP na 2017 r. (listopad 2017 r.)</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 del PI — Allegati modifica del PAA 2017 (novembre 2017)</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/f9965700-dc8f-4550-bfe3-20b6310b27c8</dct:identifier>
+            <dct:title xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017 – Anhänge zur Änderung des Jahresaktionsprogramms 2017 (November 2017)</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017 – bilagor till ändring av AAP 2017 (november 2017)</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune 2017 – Anexe de modificare a PAA 2017 (noiembrie 2017)</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual 2017 do PI — Anexos Alteração do PAA 2017 (novembro de 2017)</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г. — приложения за изменение на ГПД за 2017 г. (ноември 2017 г.)</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017 – liitteiden muutos AAP 2017 (marraskuu 2017)</dct:description>
+            <dct:description xml:lang="en">PI Annual Action Programme 2017 - Annexes amendement AAP 2017 (November 2017) </dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual 2017 do PI — Anexos Alteração do PAA 2017 (novembro de 2017)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2017 m. PP metinė veiksmų programa. Priedai iš dalies pakeisti 2017 m. MVP (2017 m. lapkričio mėn.)</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017 – liitteiden muutos AAP 2017 (marraskuu 2017)</dct:title>
+            <dct:description xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017 – Anhänge zur Änderung des Jahresaktionsprogramms 2017 (November 2017)</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune 2017 – Anexe de modificare a PAA 2017 (noiembrie 2017)</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja – mellékletek a 2017. évi éves cselekvési terv módosításáról (2017. november)</dct:description>
+            <dcat:downloadURL rdf:resource="http://ec.europa.eu/dgs/fpi/documents/key-documents/c_2017_7573_f1_annexes.zip"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 del PI — Allegati modifica del PAA 2017 (novembre 2017)</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI 2017 — Τροποποίηση παραρτημάτων AAP 2017 (Νοέμβριος 2017)</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017 — Iarscríbhinní lena leasaítear AAP 2017 (Samhain 2017)</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Letni akcijski program PI za leto 2017 – priloge k spremembi letnega akcijskega načrta za leto 2017 (november 2017)</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 de PI — Anexos AAP de modificación 2017 (noviembre de 2017)</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017. – prilozi izmjeni AAP-a za 2017. (studeni 2017.)</dct:description>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017 — Iarscríbhinní lena leasaítear AAP 2017 (Samhain 2017)</dct:description>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Programm ta’ Azzjoni Annwali tal-PI 2017 — Annessi li jemendaw l-AAP 2017 (Novembru 2017)</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Programm ta’ Azzjoni Annwali tal-PI 2017 — Annessi li jemendaw l-AAP 2017 (Novembru 2017)</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">2017 m. PP metinė veiksmų programa. Priedai iš dalies pakeisti 2017 m. MVP (2017 m. lapkričio mėn.)</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja – mellékletek a 2017. évi éves cselekvési terv módosításáról (2017. november)</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017 – prílohy, ktorými sa mení ročný akčný plán na rok 2017 (november 2017)</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma — pielikumi, ar ko groza 2017. gada rīcības plānu (2017. gada novembris)</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r. – załączniki zmieniające AAP na 2017 r. (listopad 2017 r.)</dct:title>
+            <dct:title xml:lang="en">PI Annual Action Programme 2017 - Annexes amendement AAP 2017 (November 2017) </dct:title>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP — Annexes Amendement AAP 2017 (novembre 2017)</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="sv">Tjänsten för utrikespolitiska instrument</dcat:keyword>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Informações sobre as ações previstas pelo Instrumento de Parceria (IP) em 2017. PI sucedeu ao Instrumento para os Países Industrializados (ICI) em 2014.As informações incluem o título e a descrição das ações e dados sobre o custo total, a contribuição do orçamento da UE, o(s) país(es)/região, a duração, o método de execução, os objetivos, os resultados esperados e as principais atividades.
+ 
+
+
+O Serviço dos Instrumentos de Política Externa apoia a UE a alcançar os seus objetivos em matéria de política externa e de segurança, em especial no que diz respeito à paz e à prevenção de conflitos, e a projetar os interesses e a imagem da UE no mundo.
+Trabalhar num vasto leque de domínios com vários parceiros e partes interessadas contribui para a realização do objetivo geral da UE de se tornar «um interveniente mundial mais forte».
+
+
+
+
+Para atingir o seu objetivo, o FPI é responsável pela gestão operacional e financeira dos orçamentos para a Política Externa e de Segurança Comum (PESC), o Instrumento para a Estabilidade e a Paz (IEP), o Instrumento de Parceria (PI), as missões de observação eleitoral (MOE), a imprensa e a diplomacia pública (PPD), bem como a aplicação de instrumentos regulamentares de política externa (sanções, o Processo de Kimberley sobre diamantes de conflito e o Regulamento Antitortura).
+
+
+
+
+A FPI cumpre os seus objetivos de forma aberta e responsável.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Europska komisija – Služba za instrumente vanjske politike – Godišnji program djelovanja PI-ja za 2017.</dct:title>
+        <dcat:keyword xml:lang="en">Service for Foreign Policy Instruments</dcat:keyword>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dcat:keyword xml:lang="cs">Služba nástrojů zahraniční politiky</dcat:keyword>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Comisia Europeană – Serviciul Instrumente de Politică Externă – Programul anual de acțiune pentru 2017</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5824"/>
+        <dcat:keyword xml:lang="lv">Ārpolitikas instrumentu dienests</dcat:keyword>
+        <dcat:keyword xml:lang="mt">Is-Servizz tal-Istrumenti tal-Politika Barranija</dcat:keyword>
+        <dct:title xml:lang="ga-t-en-t0-mtec">An Coimisiún Eorpach — An tSeirbhís um Ionstraimí Beartais Eachtraigh — Clár Gníomhaíochta Bliantúil PI 2017</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/FPI"/>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1ad43764-f8d1-4377-801a-2e7ebda48cbd">
+            <dct:description xml:lang="nl-t-en-t0-mtec">Jaarlijks actieprogramma 2017 — Bijlagen bij het jaarlijkse actieprogramma 2017 (mei 2017)</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017. – Prilozi godišnjem programu djelovanja za 2017. (svibanj 2017.)</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017 – prílohy k ročnému akčnému programu na rok 2017 (máj 2017)</dct:title>
+            <dct:description xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram 2017 — Bilag til det årlige handlingsprogram 2017 (maj 2017)</dct:description>
+            <dct:title xml:lang="en">PI Annual Action Programme 2017 - Annexes to the Annual Action Programme 2017 (May 2017)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/25ebdb19-3e12-4b3e-93a2-becdef762196</dct:identifier>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Roční akční program na rok 2017 – přílohy ročního akčního programu na rok 2017 (květen 2017)</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г. — Приложения към годишната програма за действие за 2017 г. (май 2017 г.)</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma — 2017. gada rīcības programmas pielikumi (2017. gada maijs)</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Letni akcijski program za leto 2017 – priloge k letnemu akcijskemu programu za leto 2017 (maj 2017)</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP — annexes du programme d’action annuel 2017 (mai 2017)</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual 2017 — Anexos do Programa de Ação Anual 2017 (maio de 2017)</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm – 2017. aasta tegevusprogrammi lisad (mai 2017)</dct:title>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja – a 2017. évi éves cselekvési program mellékletei (2017. május)</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">2017 m. metinė veiksmų programa. 2017 m. metinės veiksmų programos priedai (2017 m. gegužės mėn.)</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI 2017 — Παραρτήματα του ετήσιου προγράμματος δράσης 2017 (Μάιος 2017)</dct:title>
+            <dct:description xml:lang="en">PI Annual Action Programme 2017 - Annexes to the Annual Action Programme 2017 (May 2017)</dct:description>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dcat:downloadURL rdf:resource="http://ec.europa.eu/dgs/fpi/documents/key-documents/20170524-aap-2017.zip"/>
+            <dct:title xml:lang="da-t-en-t0-mtec">PI's årlige handlingsprogram 2017 — Bilag til det årlige handlingsprogram 2017 (maj 2017)</dct:title>
+            <dct:title xml:lang="lt-t-en-t0-mtec">2017 m. metinė veiksmų programa. 2017 m. metinės veiksmų programos priedai (2017 m. gegužės mėn.)</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Il-Programm ta’ Azzjoni Annwali tal-PI 2017 — Annessi għall-Programm ta’ Azzjoni Annwali 2017 (Mejju 2017)</dct:description>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Roční akční program na rok 2017 – přílohy ročního akčního programu na rok 2017 (květen 2017)</dct:description>
+            <dct:description xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017 – liitteet vuotuiseen toimintaohjelmaan 2017 (toukokuu 2017)</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r. – załączniki do rocznego programu działań na 2017 r. (maj 2017 r.)</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Godišnji program djelovanja PI-ja za 2017. – Prilozi godišnjem programu djelovanja za 2017. (svibanj 2017.)</dct:description>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            <dct:description xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 — Anexos del Programa de Acción Anual 2017 (mayo de 2017)</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Programme d’action annuel 2017 de l’IP — annexes du programme d’action annuel 2017 (mai 2017)</dct:title>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Ročný akčný program PI na rok 2017 – prílohy k ročnému akčnému programu na rok 2017 (máj 2017)</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">PI 2017. aasta tegevusprogramm – 2017. aasta tegevusprogrammi lisad (mai 2017)</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 del PI — allegati del programma d'azione annuale 2017 (maggio 2017)</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="es-t-en-t0-mtec">Programa de Acción Anual 2017 — Anexos del Programa de Acción Anual 2017 (mayo de 2017)</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Ετήσιο πρόγραμμα δράσης PI 2017 — Παραρτήματα του ετήσιου προγράμματος δράσης 2017 (Μάιος 2017)</dct:description>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017 — Iarscríbhinní a ghabhann leis an gClár Gníomhaíochta Bliantúil 2017 (Bealtaine 2017)</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2018-02-22T19:26:25.428612+02:00</dct:issued>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune 2017 – Anexele la Programul anual de acțiune 2017 (mai 2017)</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Roczny program działań PI na 2017 r. – załączniki do rocznego programu działań na 2017 r. (maj 2017 r.)</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017 – bilagor till det årliga handlingsprogrammet 2017 (maj 2017)</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/dgs/fpi/documents/key-documents/20170524-aap-2017.zip"/>
+            <dct:description xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017 – Anhänge zum Jahresaktionsprogramm 2017 (Mai 2017)</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Il-Programm ta’ Azzjoni Annwali tal-PI 2017 — Annessi għall-Programm ta’ Azzjoni Annwali 2017 (Mejju 2017)</dct:title>
+            <dct:title xml:lang="fi-t-en-t0-mtec">PI:n vuotuinen toimintaohjelma 2017 – liitteet vuotuiseen toimintaohjelmaan 2017 (toukokuu 2017)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/FEED_INFO"/>
+            <dct:description xml:lang="pt-t-en-t0-mtec">Programa de Ação Anual 2017 — Anexos do Programa de Ação Anual 2017 (maio de 2017)</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Clár Gníomhaíochta Bliantúil PI 2017 — Iarscríbhinní a ghabhann leis an gClár Gníomhaíochta Bliantúil 2017 (Bealtaine 2017)</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Jaarlijks actieprogramma 2017 — Bijlagen bij het jaarlijkse actieprogramma 2017 (mei 2017)</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">A PI 2017. évi éves cselekvési programja – a 2017. évi éves cselekvési program mellékletei (2017. május)</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Programma d'azione annuale 2017 del PI — allegati del programma d'azione annuale 2017 (maggio 2017)</dct:title>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Годишна програма за действие на ПИ за 2017 г. — Приложения към годишната програма за действие за 2017 г. (май 2017 г.)</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Letni akcijski program za leto 2017 – priloge k letnemu akcijskemu programu za leto 2017 (maj 2017)</dct:title>
+            <dct:description xml:lang="lv-t-en-t0-mtec">PI 2017. gada rīcības programma — 2017. gada rīcības programmas pielikumi (2017. gada maijs)</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Programul anual de acțiune 2017 – Anexele la Programul anual de acțiune 2017 (mai 2017)</dct:description>
+            <dct:title xml:lang="sv-t-en-t0-mtec">PI:s årliga handlingsprogram 2017 – bilagor till det årliga handlingsprogrammet 2017 (maj 2017)</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="de-t-en-t0-mtec">PI-Jahresaktionsprogramm 2017 – Anhänge zum Jahresaktionsprogramm 2017 (Mai 2017)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="de-t-en-t0-mtec">Informationen zu den im Jahr 2017 im Rahmen des Partnerschaftsinstruments (PI) geplanten Maßnahmen. PI ist 2014 das Instrument für Industrieländer (ICI) erfolgreich. Zu den Informationen gehören Titel und Beschreibung der Maßnahmen und Daten zu den Gesamtkosten, dem EU-Haushaltsbeitrag, den Ländern/Regionen, der Dauer, der Durchführungsmethode, den Zielen, den erwarteten Ergebnissen und den wichtigsten Tätigkeiten. 
+
+Der Dienst für außenpolitische Instrumente unterstützt die EU bei der Verwirklichung ihrer außen- und sicherheitspolitischen Ziele, insbesondere in Bezug auf Frieden und Konfliktverhütung, und die Interessen und das Ansehen der EU in der Welt zu projizieren. Die Zusammenarbeit in einer Vielzahl von Bereichen mit verschiedenen Partnern und Interessenträgern trägt zur Verwirklichung des allgemeinen Ziels der EU bei, „ein stärkerer globaler Akteur“ zu werden. 
+
+Zur Erreichung seines Ziels ist das FPI zuständig für die operative und finanzielle Verwaltung der Haushalte für die Gemeinsame Außen- und Sicherheitspolitik (GASP), das Instrument, das zu Stabilität und Frieden beiträgt (IcSP), Partnerschaftsinstrument (PI), Wahlbeobachtungsmissionen (EOM), Presse und öffentliche Diplomatie (PPD) sowie die Umsetzung außenpolitischer Regulierungsinstrumente (Sanktionen, Kimberley-Prozess zu Konfliktdiamanten und die Anti-Torture-Verordnung). 
+ 
+FPI erfüllt seine Ziele auf offene und rechenschaftspflichtige Weise.</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Europos Komisija. Užsienio politikos priemonių tarnyba. 2017 m. PP metinė veiksmų programa</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Información sobre las acciones previstas por el Instrumento de Asociación en 2017. PI sucedió al Instrumento para los Países Industrializados (ICI) en 2014. La información incluye el título y la descripción de las acciones y datos sobre el coste total, la contribución del presupuesto de la UE, el país o países/región, la duración, el método de ejecución, los objetivos, los resultados previstos y las principales actividades. 
+
+El Servicio de Instrumentos de Política Exterior apoya a la UE a alcanzar sus objetivos de política exterior y de seguridad, en particular en lo que respecta a la paz y la prevención de conflictos, y a proyectar los intereses y la imagen de la UE en el mundo. Trabajar en una amplia gama de ámbitos con diversos socios y partes interesadas FPI contribuye a la consecución del objetivo general de la UE de convertirse en «un actor mundial más fuerte». 
+
+Para alcanzar su objetivo, el FPI es responsable de la gestión operativa y financiera de los presupuestos de la Política Exterior y de Seguridad Común (PESC), el Instrumento en pro de la estabilidad y la paz (IEP), el Instrumento de Asociación (PI), las Misiones de Observación Electoral (MOE), la prensa y la diplomacia pública (PPD), así como la aplicación de los instrumentos reglamentarios de política exterior (sanciones, el Proceso de Kimberley sobre diamantes de zonas de conflicto y el Reglamento contra la tortura). 
+ 
+FPI cumple sus objetivos de manera abierta y responsable.</dct:description>
+        <dct:description xml:lang="et-t-en-t0-mtec">Teave partnerluse rahastamisvahendi raames 2017. aastal kavandatud meetmete kohta. PI oli 2014. aastal tööstusriikide rahastamisvahendi õigusjärglane. Teave hõlmab meetmete nimetust ja kirjeldust ning andmeid kogukulude, ELi eelarvest antava toetuse, riigi (riikide)/piirkonna, kestuse, rakendamismeetodi, eesmärkide, oodatavate tulemuste ja põhitegevuse kohta. 
+
+Välispoliitika vahendite talitus toetab ELi välis- ja julgeolekupoliitika eesmärkide saavutamisel, eelkõige seoses rahu ja konfliktide ennetamisega, ning ELi huvide ja maine edendamisel maailmas. Koostöö mitmesugustes valdkondades erinevate partnerite ja sidusrühmadega aitab saavutada ELi üldeesmärki saada tugevamaks ülemaailmseks osalejaks. 
+
+Oma eesmärgi saavutamiseks vastutab välispoliitika vahendite talitus ühise välis- ja julgeolekupoliitika (ÜVJP), stabiilsuse ja rahu edendamise rahastamisvahendi (IcSP), partnerluse rahastamisvahendi, valimisvaatlusmissioonide, pressi- ja avaliku diplomaatia eelarvete operatiiv- ja finantsjuhtimise ning välispoliitikat reguleerivate vahendite (sanktsioonid, Kimberley konfliktiteemante käsitlev protsess ja piinamisvastane määrus) rakendamise eest. 
+ 
+Välispoliitika vahendite talitus täidab oma eesmärgid avatult ja vastutustundlikult.</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Informazzjoni dwar l-azzjonijiet ippjanati mill-Istrument ta’ Sħubija (PI) fl-2017. PI ssuċċediet l-Istrument għall-Pajjiżi Industrijalizzati (ICI) fl-2014.L-informazzjoni tinkludi t-titolu u d-deskrizzjoni tal-azzjonijiet u d-data dwar l-ispiża totali, il-kontribuzzjoni tal-baġit tal-UE, il-pajjiż(i)/ir-reġjun, it-tul ta’ żmien, il-metodu ta’ implimentazzjoni, l-objettivi, ir-riżultati mistennija u l-attivitajiet ewlenin.
+ 
+
+
+Is-Servizz għall-Istrumenti tal-Politika Barranija jappoġġa lill-UE biex tilħaq l-objettivi tal-politika barranija u ta’ sigurtà tagħha, b’mod partikolari fir-rigward tal-paċi u l-prevenzjoni tal-kunflitti, u biex tipproġetta l-interessi u l-immaġni tal-UE fid-dinja.
+Il-ħidma f’firxa wiesgħa ta’ oqsma ma’ diversi sħab u partijiet ikkonċernati FPI tikkontribwixxi għall-kisba tal-objettiv ġenerali tal-UE li ssir “attur globali aktar b’saħħtu”.
+
+
+
+
+Biex jintlaħaq l-objettiv tiegħu, l-FPI huwa responsabbli għall-ġestjoni operattiva u finanzjarja tal-baġits għall-Politika Estera u ta’ Sigurtà Komuni (PESK), l-Istrument li jikkontribwixxi għall-Istabbiltà u l-Paċi (IcSP), l-Istrument ta’ Sħubija (PI), il-Missjonijiet ta’ Osservazzjoni Elettorali (MOE), id-Diplomazija tal-Istampa u dik Pubblika (PPD) kif ukoll l-implimentazzjoni ta’ Strumenti Regolatorji tal-Politika Barranija (sanzjonijiet, il-Proċess Kimberley dwar id-djamanti tal-konflitti u r-Regolament Kontra t-Tortura).
+
+
+
+
+L-FPI twettaq l-għanijiet tagħha b’mod miftuħ u responsabbli.</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/862"/>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Komisja Europejska – Służba ds. Instrumentów Polityki Zagranicznej – roczny program działań PI na 2017 r.</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Informācija par Partnerības instrumenta (PI) plānotajām darbībām 2017. gadā. PI 2014. gadā pārņēma industrializēto valstu instrumentu (ICI). Informācija ietver darbību nosaukumu un aprakstu un datus par kopējām izmaksām, ES budžeta iemaksām, valsti(-īm)/reģionu, ilgumu, īstenošanas metodi, mērķiem, gaidāmajiem rezultātiem un galvenajām darbībām. 
+
+Ārpolitikas instrumentu dienests atbalsta ES, lai sasniegtu tās ārpolitikas un drošības politikas mērķus, jo īpaši attiecībā uz mieru un konfliktu novēršanu, un lai demonstrētu ES intereses un tēlu pasaulē. Darbs daudzās jomās kopā ar dažādiem partneriem un ieinteresētajām personām FPI palīdz sasniegt ES vispārējo mērķi kļūt par “spēcīgāku pasaules mēroga dalībnieku”. 
+
+Lai sasniegtu savu mērķi, FPI ir atbildīgs par kopējās ārpolitikas un drošības politikas (KĀDP), Stabilitātes un miera veicināšanas instrumenta (IcSP), Partnerības instrumenta (PI), vēlēšanu novērošanas misiju (EOM), preses un publiskās diplomātijas (PPD) budžeta darbības un finanšu pārvaldību, kā arī par ārpolitikas regulatīvo instrumentu īstenošanu (sankcijas, Kimberli process attiecībā uz konfliktu dimantiem un Spīdzināšanas novēršanas regula). 
+ 
+FPI īsteno savus mērķus atvērtā un atbildīgā veidā.</dct:description>
+        <dcat:keyword xml:lang="hr">Služba za instrumente vanjske politike</dcat:keyword>
+        <dct:description xml:lang="en">Information on actions planned by the Partnership Instrument (PI) in 2017. PI succeeded the Instrument for Industrialised Countries (ICI) in 2014. Information include title and description of actions and data on total cost, EU budget contribution, country(ies)/region, duration, method of implementation, objectives, expected results and main activities. &#xD;
+&#xD;
+The Service for Foreign Policy Instruments supports the EU to achieve its foreign and security policy objectives, in particular with regards to peace and conflict prevention, and to project the EU's interests and image in the world. Working in a wide range of areas with various partners and stakeholders FPI contributes to the achievement of the general objective of the EU to become 'a stronger global actor'. &#xD;
+&#xD;
+To achieve its objective FPI is responsible for the operational and financial management of the budgets for Common Foreign and Security Policy (CFSP), Instrument contributing to Stability and Peace (IcSP), Partnership Instrument (PI), Election Observation Missions (EOMs), Press and Public Diplomacy (PPD) as well as the implementation of Foreign Policy Regulatory Instruments (sanctions, the Kimberley Process on conflict diamonds and the Anti-Torture Regulation). &#xD;
+&#xD;
+FPI delivers on its objectives in an open and accountable fashion. </dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Информация за действията, планирани от Инструмента за партньорство (ИП) през 2017 г. През 2014 г. PI наследи Инструмента за индустриализираните страни (ИИС). Информацията включва наименование и описание на действията и данни за общите разходи, приноса от бюджета на ЕС, държавата(ите)/региона, продължителността, метода на изпълнение, целите, очакваните резултати и основните дейности. 
+
+Службата за инструментите в областта на външната политика подкрепя ЕС да постигне своите цели в областта на външната политика и политиката на сигурност, по-специално по отношение на мира и предотвратяването на конфликти, както и да популяризира интересите и имиджа на ЕС в света. Работата в широк кръг от области с различни партньори и заинтересовани страни допринася за постигането на общата цел на ЕС да се превърне в „по-силен участник на световната сцена“. 
+
+За постигането на своята цел FPI отговаря за оперативното и финансово управление на бюджетите за общата външна политика и политика на сигурност (ОВППС), Инструмента, допринасящ за стабилността и мира (IcSP), Инструмента за партньорство (ИП), мисиите за наблюдение на избори (МНИ), пресата и публичната дипломация, както и за прилагането на регулаторните инструменти в областта на външната политика (санкции, Кимбърлийския процес относно конфликтните диаманти и Регламента за борба с изтезанията). 
+ 
+FPI постига целите си по открит и отговорен начин.</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Evropska komisija – Služba za instrumente zunanje politike – letni akcijski program PI za leto 2017</dct:title>
+        <dcat:keyword xml:lang="en">Instrument for Industrialised Countries</dcat:keyword>
+        <dct:title xml:lang="et-t-en-t0-mtec">Euroopa Komisjon – välispoliitika vahendite talitus – PI 2017. aasta tegevusprogramm</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/2460"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4040"/>
+        <dcat:keyword xml:lang="fi">Ulkopolitiikan välineiden hallinto</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T17:24:39Z</edp:transReceived>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>5271abf149ed5f5eec79aef13e846beb</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>european-commission-service-for-foreign-policy-instruments-pi-annual-action-programme-2017</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:50:13Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/european-commission-service-for-foreign-policy-instruments-pi-annual-action-programme-2017"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:13:23Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:13:08Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/n1l1070r14f2yb652krtya">
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:08:41Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:08:41Z</edp:transIssued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:06:30Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/n1l1070r14f2yb652krtya">
+        <dct:description xml:lang="et-t-en-t0-mtec">Mootorbusside, busside ja trollibusside uued registreeringud mootorienergia liigi järgi</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Moottorivaunujen, linja-autojen ja johdinautojen uudet rekisteröinnit moottorienergiatyypeittäin</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/56c47798-be3a-4626-8d64-cb6ce5b9cb0c">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqr_busmot.sdmx.zip"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses by type of motor energy</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/50e6d007-1e53-4aa6-829d-6738d157ca64</dct:identifier>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par type d'énergie motrice</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="de">Erstzulassungen von Omnibussen, Kleinbussen und Oberleitungsomnibussen, nach Art der Antriebsenergie</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Nove registracije motornih avtobusov, avtobusov in trolejbusov glede na vrsto pogonske energije</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Нови регистрации на автобуси, автобуси и тролейбуси по вид моторна енергия</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/2130436e-80d4-401f-b610-a8af3d45c62f">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2013-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-12</dct:modified>
+        <dct:title xml:lang="et-t-en-t0-mtec">Mootorbusside, busside ja trollibusside uued registreeringud mootorienergia liigi järgi</dct:title>
+        <dct:description xml:lang="de">Erstzulassungen von Omnibussen, Kleinbussen und Oberleitungsomnibussen, nach Art der Antriebsenergie</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Nove registracije motornih avtobusov, avtobusov in trolejbusov glede na vrsto pogonske energije</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Reġistrazzjonijiet ġodda ta’ kowċis bil-mutur, karozzi tal-linja u karozzi tal-linja tat-trolley skont it-tip ta’ enerġija tal-mutur</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Noi înmatriculări de autocare, autobuze și troleibuze în funcție de tipul de energie a motorului</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Nya registreringar av motorbussar, bussar och trådbussar efter typ av motorenergi</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Νέες ταξινομήσεις μηχανοκίνητων πούλμαν, λεωφορείων και τρόλεϊ ανά τύπο κινούμενης ενέργειας</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Nuevas matriculaciones de autocares, autobuses y trolebuses por tipo de energía motorizada</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Noi înmatriculări de autocare, autobuze și troleibuze în funcție de tipul de energie a motorului</dct:description>
+        <dct:title xml:lang="de">Erstzulassungen von Omnibussen, Kleinbussen und Oberleitungsomnibussen, nach Art der Antriebsenergie</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/5fa8dedf-9036-4511-b8b3-3267b55d9398">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/3e8ed3e8-d876-42b4-a714-d5ca76c896c0">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Нові реєстрації автобусів, автобусів та тролейбусів за видами моторної енергії</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Clárú nua de chóistí mótair, busanna agus busanna tralaí de réir cineál fuinnimh mótair</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Nove registracije motornih autobusa, autobusa i trolejbusa prema vrsti motorne energije</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Novos registos de autocarros, autocarros e autocarros elétricos por tipo de energia motora</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Autóbuszok, buszok és trolibuszok új regisztrációja motorenergia-típus szerint</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Нові реєстрації автобусів, автобусів та тролейбусів за видами моторної енергії</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Nya registreringar av motorbussar, bussar och trådbussar efter typ av motorenergi</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Nové registrácie motorových autokarov, autobusov a trolejbusov podľa typu motorovej energie</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_busmot">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_busmot</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_busmot</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/n1l1070r14f2yb652krtya"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Autóbuszok, buszok és trolibuszok új regisztrációja motorenergia-típus szerint</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Jaunas reģistrācijas par autobusiem, autobusiem un trolejbusiem pēc motora enerģijas veida</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/rail_if_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/n1l1070r14f2yb652krtya"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Nove registracije motornih autobusa, autobusa i trolejbusa prema vrsti motorne energije</dct:description>
+        <dct:description xml:lang="en">New registrations of motor coaches, buses and trolley buses by type of motor energy</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Nowe rejestracje autokarów, autobusów i trolejbusów według rodzaju energii silnikowej</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Nye registreringer af personvogne, busser og trolleybusser efter motorenergitype</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2b103617-e235-4c1b-85b3-c7a4eb8709cf">
+            <dct:title xml:lang="de">Erstzulassungen von Omnibussen, Kleinbussen und Oberleitungsomnibussen, nach Art der Antriebsenergie</dct:title>
+            <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par type d'énergie motrice</dct:title>
+            <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses by type of motor energy</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ffa2ceeb-f62b-4deb-af89-f91d72167832</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqr_busmot.tsv.gz&amp;unzip=true"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Nieuwe registraties van touringcars, bussen en trolleybussen naar type motorenergie</dct:description>
+        <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses by type of motor energy</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Clárú nua de chóistí mótair, busanna agus busanna tralaí de réir cineál fuinnimh mótair</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Moottorivaunujen, linja-autojen ja johdinautojen uudet rekisteröinnit moottorienergiatyypeittäin</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Nuevas matriculaciones de autocares, autobuses y trolebuses por tipo de energía motorizada</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Nová registrace motorových autokarů, autobusů a trolejbusů podle typu motorové energie</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Νέες ταξινομήσεις μηχανοκίνητων πούλμαν, λεωφορείων και τρόλεϊ ανά τύπο κινούμενης ενέργειας</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Нови регистрации на автобуси, автобуси и тролейбуси по вид моторна енергия</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/n1l1070r14f2yb652krtya"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/rail_if_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/road_eqr_busmot"/>
+        <dct:description xml:lang="it-t-en-t0-mtec">Nuove immatricolazioni di autocarri, autobus e filobus per tipo di energia motore</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Nové registrácie motorových autokarov, autobusov a trolejbusov podľa typu motorovej energie</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Nuove immatricolazioni di autocarri, autobus e filobus per tipo di energia motore</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8330d885-53c2-4805-8d61-f4d2bb261317">
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">New registrations of motor coaches, buses and trolley buses by type of motor energy</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par type d'énergie motrice</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/road_eqr_busmot.tsv.gz"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/0757ac23-09f1-44d0-ba69-ae5eb0c635ed</dct:identifier>
+            <dct:title xml:lang="de">Erstzulassungen von Omnibussen, Kleinbussen und Oberleitungsomnibussen, nach Art der Antriebsenergie</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Nowe rejestracje autokarów, autobusów i trolejbusów według rodzaju energii silnikowej</dct:title>
+        <dct:description xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par type d'énergie motrice</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Nauji variklinių tolimojo susisiekimo autobusų, autobusų ir troleibusų registrai pagal variklio energijos rūšį</dct:title>
+        <dct:identifier>road_eqr_busmot</dct:identifier>
+        <dct:title xml:lang="fr">Nouvelles immatriculations d'autocars, d'autobus et de trolleybus, par type d'énergie motrice</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Novos registos de autocarros, autocarros e autocarros elétricos por tipo de energia motora</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/N1L1070R14f2Yb652kRtYA</dct:identifier>
+        <dct:description xml:lang="da-t-en-t0-mtec">Nye registreringer af personvogne, busser og trolleybusser efter motorenergitype</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Nauji variklinių tolimojo susisiekimo autobusų, autobusų ir troleibusų registrai pagal variklio energijos rūšį</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Nieuwe registraties van touringcars, bussen en trolleybussen naar type motorenergie</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Reġistrazzjonijiet ġodda ta’ kowċis bil-mutur, karozzi tal-linja u karozzi tal-linja tat-trolley skont it-tip ta’ enerġija tal-mutur</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Nová registrace motorových autokarů, autobusů a trolejbusů podle typu motorové energie</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Jaunas reģistrācijas par autobusiem, autobusiem un trolejbusiem pēc motora enerģijas veida</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>N1L1070R14f2Yb652kRtYA</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>f9a76b580493c2c7d0894cc875c4128d</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/n1l1070r14f2yb652krtya"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

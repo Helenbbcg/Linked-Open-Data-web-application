@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/mk6l8jp4r8opu5ll4p3upq">
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:10:16Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:12:29Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/mk6l8jp4r8opu5ll4p3upq">
+        <dct:description xml:lang="hr-t-en-t0-mtec">Napori uključeni u obavljanje tjelesne aktivnosti povezane s radom prema spolu, dobi i razini obrazovanja</dct:description>
+        <dct:description xml:lang="en">Effort involved in performing work-related physical activity by sex, age and educational attainment level</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Iarracht a dhéanamh gníomhaíocht choirp a bhaineann leis an obair a dhéanamh de réir inscne, aoise agus leibhéal gnóthachtála oideachais</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Усилия, свързани с извършването на свързана с работата физическа активност по пол, възраст и образователно равнище</dct:title>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Inspanning bij het uitvoeren van werkgerelateerde lichamelijke activiteit naar geslacht, leeftijd en opleidingsniveau</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Efortul implicat în desfășurarea activității fizice legate de locul de muncă în funcție de sex, vârstă și nivel de studii</dct:description>
+        <dct:description xml:lang="de">Anstrengung im Zusammenhang mit arbeitsbezogener körperlicher Betätigung, nach Geschlecht, Alter und Bildungsabschluss</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Wysiłek związany z wykonywaniem aktywności fizycznej związanej z pracą według płci, wieku i poziomu wykształcenia</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Esfuerzo involucrado en la realización de actividades físicas relacionadas con el trabajo por sexo, edad y nivel educativo</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Darbs, kas saistīts ar fizisko aktivitāti dzimuma, vecuma un izglītības līmeņa dalījumā</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Sforz involut fit-twettiq ta’ attività fiżika relatata max-xogħol skont is-sess, l-età u l-livell edukattiv milħuq</dct:description>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Úsilie vynaložené na vykonávanie fyzickej aktivity súvisiacej s prácou podľa pohlavia, veku a dosiahnutého vzdelania</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Sforz involut fit-twettiq ta’ attività fiżika relatata max-xogħol skont is-sess, l-età u l-livell edukattiv milħuq</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ehis_pe1e">
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ehis_pe1e</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/mk6l8jp4r8opu5ll4p3upq"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ehis_pe1e</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Prizadevanje za izvajanje z delom povezane telesne dejavnosti glede na spol, starost in stopnjo izobrazbe</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Esfuerzo involucrado en la realización de actividades físicas relacionadas con el trabajo por sexo, edad y nivel educativo</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Προσπάθεια άσκησης σωματικής δραστηριότητας που σχετίζεται με την εργασία ανά φύλο, ηλικία και μορφωτικό επίπεδο</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Зусилля, пов'язані з виконанням фізичної активності, пов'язаної з роботою, за статевим, віковим та освітнім рівнем</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Työhön liittyvän liikunnan harjoittaminen sukupuolen, iän ja koulutustason mukaan</dct:description>
+        <dct:identifier>hlth_ehis_pe1e</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b28f4554-d216-45b5-bb65-f3b612bab742">
+            <dct:title xml:lang="en">Effort involved in performing work-related physical activity by sex, age and educational attainment level</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:identifier>http://data.europa.eu/88u/distribution/6e361294-6d2e-4861-9efe-5ed826792e7c</dct:identifier>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="fr">Efforts physiques liés à l'exercice de son travail par sexe, âge et niveau d'éducation atteint</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="de">Anstrengung im Zusammenhang mit arbeitsbezogener körperlicher Betätigung, nach Geschlecht, Alter und Bildungsabschluss</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_pe1e.sdmx.zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Pastangos atlikti su darbu susijusį fizinį aktyvumą pagal lytį, amžių ir išsilavinimo lygį</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Зусилля, пов'язані з виконанням фізичної активності, пов'язаної з роботою, за статевим, віковим та освітнім рівнем</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/hlth_det_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/hlth_det_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/mk6l8jp4r8opu5ll4p3upq"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/4f6b850f-c8a7-426e-90a0-1cf9698d1f1e">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2014-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="da-t-en-t0-mtec">Indsats for at udføre arbejdsrelateret fysisk aktivitet efter køn, alder og uddannelsesniveau</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1280"/>
+        <dct:title xml:lang="en">Effort involved in performing work-related physical activity by sex, age and educational attainment level</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Tööga seotud kehalise aktiivsusega seotud jõupingutused soo, vanuse ja haridustaseme järgi</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Indsats for at udføre arbejdsrelateret fysisk aktivitet efter køn, alder og uddannelsesniveau</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Darbs, kas saistīts ar fizisko aktivitāti dzimuma, vecuma un izglītības līmeņa dalījumā</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Úsilie vynaložené na vykonávanie fyzickej aktivity súvisiacej s prácou podľa pohlavia, veku a dosiahnutého vzdelania</dct:description>
+        <dct:title xml:lang="fr">Efforts physiques liés à l'exercice de son travail par sexe, âge et niveau d'éducation atteint</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-06</dct:modified>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/0447213d-7264-4daf-9176-9fe2d6a1226b">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/941dfe29-5aeb-40e7-ba65-64ec68fc7782">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/29e40c15-7eb6-4f98-a472-a7e9a2b350e4">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c9f2f13f-e279-4480-8512-69ac3b2ddb83</dct:identifier>
+            <dct:title xml:lang="en">Effort involved in performing work-related physical activity by sex, age and educational attainment level</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_pe1e.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="fr">Efforts physiques liés à l'exercice de son travail par sexe, âge et niveau d'éducation atteint</dct:title>
+            <dct:title xml:lang="de">Anstrengung im Zusammenhang mit arbeitsbezogener körperlicher Betätigung, nach Geschlecht, Alter und Bildungsabschluss</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Усилия, свързани с извършването на свързана с работата физическа активност по пол, възраст и образователно равнище</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Prizadevanje za izvajanje z delom povezane telesne dejavnosti glede na spol, starost in stopnjo izobrazbe</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Sforzo coinvolto nello svolgimento dell'attività fisica legata al lavoro in base al sesso, all'età e al livello di istruzione</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Esforço envolvido na realização de atividade física relacionada com o trabalho por sexo, idade e nível de escolaridade</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A munkával kapcsolatos fizikai aktivitás nem, életkor és iskolai végzettség szerinti elvégzésével kapcsolatos erőfeszítések</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Pastangos atlikti su darbu susijusį fizinį aktyvumą pagal lytį, amžių ir išsilavinimo lygį</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/hlth_det_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/mk6l8jp4r8opu5ll4p3upq"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/hlth_det_esms.sdmx.zip</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Insatser för att utföra arbetsrelaterad fysisk aktivitet efter kön, ålder och utbildningsnivå</dct:description>
+        <dct:title xml:lang="de">Anstrengung im Zusammenhang mit arbeitsbezogener körperlicher Betätigung, nach Geschlecht, Alter und Bildungsabschluss</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A munkával kapcsolatos fizikai aktivitás nem, életkor és iskolai végzettség szerinti elvégzésével kapcsolatos erőfeszítések</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Iarracht a dhéanamh gníomhaíocht choirp a bhaineann leis an obair a dhéanamh de réir inscne, aoise agus leibhéal gnóthachtála oideachais</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Tööga seotud kehalise aktiivsusega seotud jõupingutused soo, vanuse ja haridustaseme järgi</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Insatser för att utföra arbetsrelaterad fysisk aktivitet efter kön, ålder och utbildningsnivå</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Esforço envolvido na realização de atividade física relacionada com o trabalho por sexo, idade e nível de escolaridade</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Wysiłek związany z wykonywaniem aktywności fizycznej związanej z pracą według płci, wieku i poziomu wykształcenia</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Προσπάθεια άσκησης σωματικής δραστηριότητας που σχετίζεται με την εργασία ανά φύλο, ηλικία και μορφωτικό επίπεδο</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Työhön liittyvän liikunnan harjoittaminen sukupuolen, iän ja koulutustason mukaan</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Úsilí spojené s prováděním fyzické aktivity související s prací podle pohlaví, věku a úrovně dosaženého vzdělání</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Efortul implicat în desfășurarea activității fizice legate de locul de muncă în funcție de sex, vârstă și nivel de studii</dct:title>
+        <dct:description xml:lang="fr">Efforts physiques liés à l'exercice de son travail par sexe, âge et niveau d'éducation atteint</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Napori uključeni u obavljanje tjelesne aktivnosti povezane s radom prema spolu, dobi i razini obrazovanja</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Úsilí spojené s prováděním fyzické aktivity související s prací podle pohlaví, věku a úrovně dosaženého vzdělání</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Sforzo coinvolto nello svolgimento dell'attività fisica legata al lavoro in base al sesso, all'età e al livello di istruzione</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Inspanning bij het uitvoeren van werkgerelateerde lichamelijke activiteit naar geslacht, leeftijd en opleidingsniveau</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/mK6L8jp4r8oPu5lL4p3UpQ</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a9fe6b25-8629-4c59-b5fa-5a42c93551ab">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">Effort involved in performing work-related physical activity by sex, age and educational attainment level</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ehis_pe1e.tsv.gz"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="de">Anstrengung im Zusammenhang mit arbeitsbezogener körperlicher Betätigung, nach Geschlecht, Alter und Bildungsabschluss</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="fr">Efforts physiques liés à l'exercice de son travail par sexe, âge et niveau d'éducation atteint</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/8577a42b-8793-4fe0-995b-d19cc4a799e9</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ehis_pe1e"/>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T10:12:29Z</dct:modified>
+    <dct:identifier>mK6L8jp4r8oPu5lL4p3UpQ</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/mk6l8jp4r8opu5ll4p3upq"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>93aeda617080190b9e39ac2a8b0f598a</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

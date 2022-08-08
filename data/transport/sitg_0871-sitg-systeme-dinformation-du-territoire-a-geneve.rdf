@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description>
+    <vcard:hasEmail rdf:resource="mailto:girod.p@tpg.ch"/>
+  </rdf:Description>
+  <vcard:Organization/>
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/sitg_0871-sitg-systeme-dinformation-du-territoire-a-geneve">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:26:32Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>674e865d46217d541ab891fd78499156</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/sitg_0871-sitg-systeme-dinformation-du-territoire-a-geneve"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T17:28:05Z</edp:transReceived>
+    <dct:identifier>SITG_0871@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-11T20:07:52Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:08:19Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/sitg_0871-sitg-systeme-dinformation-du-territoire-a-geneve">
+        <dct:title xml:lang="da-t-de-t0-mtec">RESEAU TPG — MÅTTER</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact тролейбус і трамвайні колії, 600 Vcc. Cette classe d'Entités est crée à partir des des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">RESEAU TPG — ESTEIRAS</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolebus et tramwaje, 600 Vcc. Cette classe d’Entités est crée à partir des Informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="uk-t-de-t0-mtec">RESEAU TPG - КИЛИМКИ</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-05-25T00:00:00</dct:modified>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/mobility"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.swiss/organization/sitg-systeme-dinformation-du-territoire-a-geneve">
+            <foaf:name>Service de l'air, du bruit et des rayonnements non ionisants</foaf:name>
+            <foaf:name>Office du patrimoine et des sites</foaf:name>
+            <foaf:name>Office cantonal de l'agriculture et de la nature</foaf:name>
+            <foaf:name>Direction du projet d'agglomération</foaf:name>
+            <foaf:name>Office de l'urbanisme</foaf:name>
+            <foaf:name>Office cantonal de la culture et du sport</foaf:name>
+            <foaf:name>Office cantonal de l'eau</foaf:name>
+            <foaf:name>Direction générale de l'enseignement secondaire II</foaf:name>
+            <foaf:name>Service de l'inventaire des monuments d'art et d'histoire</foaf:name>
+            <foaf:name>Transports public genevois</foaf:name>
+            <foaf:name>Direction de la planification cantonale</foaf:name>
+            <foaf:name>Ville de Genève</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="nl-t-de-t0-mtec">RESEAU TPG — MATTEN</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/SITG_0871">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.etat.ge.ch/geoportail/pro/?portalresources=TPG_MATS">
+            <rdfs:label>"Lien vers le géoportail SITG pour prévisualisation de la donnée"</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:contactPoint rdf:parseType="Resource">
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2009-08-04T00:00:00</dct:issued>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact troleibuz et tramvai, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (clasa des noeuds électricité).</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">RESEAU TPG – COVORAȘE</dct:title>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et elétricos, 600 Vcc. Cette class d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">RESEAU TPG — ΧΑΛΙΆ</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Műszaki adatok Porteurs des Transversales de Support des lignes de contact trolibusz et villamosok, 600 Vcc. Cette classe d’Entités est crée à partir des informations TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/construction"/>
+        <dct:title xml:lang="mt-t-de-t0-mtec">RESEAU TPG — TWAPET</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact vagneybus et spårvagnar, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">RESEAU TPG — MATAÍ</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">RESEAU TPG — ALFOMBRAS</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au catastre du sous-sol (classe des noeuds electricité).</dct:description>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d’Entités est crée ą partir des informations des TPG Versées au cadastre du sous-sol (klasė des noeuds électricité).</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">RESEAU TPG – PREDPRAŽNIKI</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de kontakt trolejbus et tramvaji, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">RESEAU TPG — ПОСТЕЛКИ</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="hr-t-de-t0-mtec">RESEAU TPG – TEPISI</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Téigh i dteagmháil le tralaí agus tramways, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité). Téigh i dteagmháil le tralaí agus tramways, 600 Vcc.
+Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">RESEAU TPG – ROHOŽE</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">RESEAU TPG – ROHOŽE</dct:title>
+        <dct:language>fr</dct:language>
+        <dct:relation>
+          <rdf:Description rdf:about="https://ge.ch/sitgags1/rest/services/VECTOR/SITG_OPENDATA_04/MapServer/">
+            <rdfs:label>Les services sont exposés au travers de l'API REST d'ArcGIS Server. Interfaces supportées : REST - SOAP - WMS - WFS</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité). Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc.
+Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité). Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc.
+Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact troleybus et tramways, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au katastre du sous-sol (classe des noeuds électricité). Mâts Porteurs des Transversales de Support des lignes de contact troleybus et tramways, 600 Vcc.
+Cette classe d’Entités est crée à partir des informations des TPG Versées au katastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:identifier>SITG_0871@sitg-systeme-dinformation-du-territoire-a-geneve</dct:identifier>
+        <dct:title xml:lang="et-t-de-t0-mtec">RESEAU TPG – MATID</dct:title>
+        <dct:description xml:lang="da-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et sporvognsveje, 600 Vcc. Cette classe d'Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:description xml:lang="et-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et trammiteed, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité). Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et trammiteed, 600 Vcc.
+Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolejbusu un tramvaju ceļš, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        <dct:title xml:lang="fi-t-de-t0-mtec">RESEAU TPG – MATOT</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">RESEAU TPG — PAKLĀJI</dct:title>
+        <dct:title xml:lang="fr">RESEAU TPG - MATS</dct:title>
+        <dct:title xml:lang="en">RESEAU TPG - MATS</dct:title>
+        <dct:title xml:lang="de">RESEAU TPG - MATS</dct:title>
+        <dct:title xml:lang="it">RESEAU TPG - MATS</dct:title>
+        <dct:description xml:lang="fr">Mâts porteurs des transversales de support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d'entités est crée à partir des informations des TPG versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">RESEAU TPG – SZŐNYEGEK</dct:title>
+        <dct:description xml:lang="de">Mâts porteurs des transversales de support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d'entités est crée à partir des informations des TPG versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Porteurs des Transversales de Support des lignes de contact trolleybus et tramway, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolejbus et električky, 600 Vcc. Informácie o TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:description xml:lang="it">Mâts porteurs des transversales de support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d'entités est crée à partir des informations des TPG versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:description xml:lang="en">Mâts porteurs des transversales de support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d'entités est crée à partir des informations des TPG versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">RESEAU TPG – KILIMĖLIAI</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc. Cette classe d’Entités est crée à partir des Informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité). Mâts Porteurs des Transversales de Support des lignes de contact trolleybus et tramways, 600 Vcc.
+Cette classe d’Entités est crée à partir des Informations des TPG Versées au cadastre du sous-sol (classe des noeuds électricité).</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">RESEAU TPG – MATTOR</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">RESEAU TPG – MATY</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d34757ab-bbbb-48ce-a838-0b5724f6f76b">
+            <dct:title xml:lang="pt-t-de-t0-mtec">Baixar o site</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Εξαίρεση Sauf, les formats suivant sont proposés: Σχήμα (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Les Données vektoriella sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Sauf undantag, les format suivant sont proposés: Form (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Pobierz</dct:title>
+            <dcat:accessURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/0871"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Descargar</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Descărcați</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Les Données vektorial sont Disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les uvjeti générales d’utilisation (.pdf). Iznimka sauf, les formati suivant sont proposés: Oblik (ESRI) – Geopodatkovna baza podataka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Κατεβάστε</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Les Données wektorowy sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Wyjątek sauf, les format suivant sont proposés: Kształt (ESRI) – Geodatabase-Plik (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Prenesi</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Завантажити</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepție sauf, les formate suivant sont proposés: Formă (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stiahnuť</dct:title>
+            <dct:description xml:lang="fr">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="it">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="de">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:description xml:lang="en">Les données vectorielles sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilisation (.pdf). Sauf exception, les formats suivant sont proposés: SHAPE (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stáhněte si</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2009-08-04T00:00:00</dct:issued>
+            <dcat:downloadURL rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/0871"/>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Le Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) agus coinníollacha générales d’utilization (.pdf). Eisceacht Sauf, formáidí les suivant sont proposés: Cruth (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Letöltés</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Les Données vektortorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Výnimka sauf, les formats suivant sont proposés: Tvar (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Les Données vetorial sont disponibles sous forme de fichiers.zip, incluindont la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Exceção de sauf, les formatos suivant sont proposés: Shape (ESRI) — Geodatabase-Arquivo (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изтегляне</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, inklużi la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Eċċezzjoni Sauf, formati les suivant sont proposés: Forma (ESRI) — Ġeodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Niżżel</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf izņēmums, les formāti suivant sont proposés: Forma (ESRI) — Ģeodatu bāze-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Parsisiųsti</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Laadi alla</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-05-25T00:00:00</dct:modified>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Le Données vektoros sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf kivétel, les formátumok suivant sont proposés: Alak (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Lataa</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Íoslódáil</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf išimtis, les formats suivant sont proposés: Forma (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Les Données vektoraalne sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf erand, les formaate suivant sont proposés: Kujund (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="it">Download</dct:title>
+            <dct:title xml:lang="fr">Download</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Download</dct:title>
+            <dct:title xml:lang="en">Download</dct:title>
+            <dct:title xml:lang="de">Download</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Ladda ner</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf uitzondering, les formats suivant sont proposés: Vorm (ESRI) — Geodatabase-Bestand (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Les Données vektorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d'utilization (.pdf). Undtagelse fra sauf, les formater suivant sont proposés: Form (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Les Données векторен Sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) инси que les conditions générales d’utilization (.pdf). Sauf изключение, les formats suivant Sont предложения: Форма (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Les Données vektorski sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les pogoji générales d’utilisation (.pdf). Izjema sauf, les formati suivant sont proposéji: Oblika (ESRI) – geopodatkovna zbirka (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Preuzimanje datoteka</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Les Données vctorial sont disponibles sous forme de fichiers.zip, včetně la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf). Sauf výjimka, les formáty suivant sont proposés: Tvar (ESRI) – Geodatabázový soubor (ESRI) – GML – KML – CSV</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilisation (.pdf) Sauf-poikkeus, les formaatit suivant sont proposés: Muoto (ESRI) – Geodatabase-File (ESRI) – GML – KML – CSV</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lejupielādēt Lejupielādēt</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Les Données sont vectorial disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les conditions générales d’utilization (.pdf). Excepción de sauf, les formatos suivant sont proposés: Forma (ESRI) — Geodatabase-File (ESRI) — GML — KML — CSV</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Les Données vectorial sont disponibles sous forme de fichiers.zip, incluant la donnée dans le format choisi, sa fiche de métadonnée (.pdf) ainsi que les умов générales d'utilisation (.pdf). SAUF виняток, les формати suivant sont пропозиції: Форма (ESRI) - Geodatabase-File (ESRI) - GML - KML - CSV</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/9210da87-0e48-4cbe-b22c-a610e8f72076/resource/aee221b2-0df5-414f-a236-003c79f5b27c</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="http://ge.ch/sitg/sitg_catalog/geodataid/0871"/>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Mâts Porteurs des Transversales de Support des lignes de contact johdinauto ja raitiotie, 600 Vcc. Cette classe d’Entités est crée à partir des informations des TPG Versées au cadastre du sous-sol (luokka des noeuds électricité).</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+  <rdf:Description>
+    <vcard:fn>girod.p@tpg.ch</vcard:fn>
+  </rdf:Description>
+</rdf:RDF>

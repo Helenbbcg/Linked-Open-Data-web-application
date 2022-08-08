@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/stanord_cms-64041">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/stanord_cms-64041"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-24T23:51:59Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-24T23:51:59Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-26T10:55:00Z</edp:transReceived>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>6855506e1c1e249acc456424dfb10df2</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>StaNord_CMS:64041</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T23:56:35Z</dct:modified>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/stanord_cms-64041">
+        <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina 4. tromjesečje 2021.</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 4. kvartal 2021</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2021 m. ketvirtasis ketvirtis</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-01T00:00:00</schema:startDate>
+            <schema:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-31T00:00:00</schema:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:keyword>ausfuhr-des-landes-schleswig-holstein</dcat:keyword>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina 4. tromjesečje 2021.</dct:description>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 4. štvrťrok 2021</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 4. vuosineljännes 2021</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 4. kvartal 2021</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an 4ú ráithe 2021</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2021 4. negyedéve</dct:title>
+        <dcat:landingPage rdf:resource="http://www.statistik-nord.de"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-06-14T23:46:31.322831</dct:modified>
+        <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2021. aasta neljandas kvartalis</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/INTR"/>
+        <dct:description xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 4th quarter 2021</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-06-14T00:00:00</dct:issued>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fir-raba’ kwart tal-2021</dct:description>
+        <dcat:keyword>außenhandel</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 4 квартал 2021 року</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 4. vuosineljännes 2021</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 4º trimestre 2021</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 4th quarter 2021</dct:title>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2021 m. ketvirtasis ketvirtis</dct:description>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein</foaf:name>
+            <foaf:mbox>info@statistik-nord.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:description xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2021. aasta neljandas kvartalis</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 4ου τριμήνου 2021</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul IV 2021</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 4-то тримесечие на 2021 г.</dct:title>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 4:e kvartalet 2021</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 4:e kvartalet 2021</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://opendata.schleswig-holstein.de/organization/statistikamt-nord">
+            <foaf:name>Statistisches Amt für Hamburg und Schleswig-Holstein A.ö.R. (Statistikamt Nord)</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an 4ú ráithe 2021</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/schleswigHolstein"/>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein 4. četrtletje 2021</dct:description>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul IV 2021</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Export Sleeswijk-Holstein 4e kwartaal 2021</dct:description>
+        <dct:identifier>StaNord_CMS:64041</dct:identifier>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 4e trimestre 2021</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fir-raba’ kwart tal-2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/73f5720b-7992-4f0a-906f-d64f7166b650">
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 4. štvrťrok 2021</dct:title>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_21-4_SH.pdf"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 4th quarter 2021</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_21-4_SH.pdf"/>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 4 квартал 2021 року</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 4. čtvrtletí 2021</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >609037</dcat:byteSize>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein 4. četrtletje 2021</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2021. gada 4. ceturksnī</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 4. vuosineljännes 2021</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 4.º trimestre de 2021</dct:title>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:64041/resource/009bee96-b36a-4587-89c1-27b7d2c76611</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 4º trimestre 2021</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 4ου τριμήνου 2021</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu IV kwartał 2021</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportaciones del cuarto trimestre de 2021 de Schleswig-Holstein</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 4:e kvartalet 2021</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2021 m. ketvirtasis ketvirtis</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2021. aasta neljandas kvartalis</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina 4. tromjesečje 2021.</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fir-raba’ kwart tal-2021</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2021 4. negyedéve</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 4e trimestre 2021</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Export Sleeswijk-Holstein 4e kwartaal 2021</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-14T23:46:31.338504</dct:issued>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 4-то тримесечие на 2021 г.</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul IV 2021</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an 4ú ráithe 2021</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 4. kvartal 2021</dct:title>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein 4. Quartal 2021</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu IV kwartał 2021</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2639770a-40e3-4e5d-8364-6dfa57e964db">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2021 4. negyedéve</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_21-4_SH.xlsx"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Exporturile Schleswig-Holstein trimestrul IV 2021</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izvoz Schleswig-Holsteina 4. tromjesečje 2021.</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Exportaciones del cuarto trimestre de 2021 de Schleswig-Holstein</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Šlėzvigo-Holšteino eksportas 2021 m. ketvirtasis ketvirtis</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 4º trimestre 2021</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Esportazzjonijiet ta’ Schleswig-Holstein fir-raba’ kwart tal-2021</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Export av Schleswig-Holstein 4:e kvartalet 2021</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu IV kwartał 2021</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >197166</dcat:byteSize>
+            <dct:title xml:lang="en-t-de-t0-mtec">Exports of Schleswig-Holstein 4th quarter 2021</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Export Sleeswijk-Holstein 4e kwartaal 2021</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 4. štvrťrok 2021</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Eksport af Slesvig-Holsten 4. kvartal 2021</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 4. čtvrtletí 2021</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Schleswig-Holsteini eksport 2021. aasta neljandas kvartalis</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein 4. četrtletje 2021</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 4ου τριμήνου 2021</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2021. gada 4. ceturksnī</dct:title>
+            <dct:title>Ausfuhr des Landes Schleswig-Holstein 4. Quartal 2021</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 4.º trimestre de 2021</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 4-то тримесечие на 2021 г.</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Onnmhairí Schleswig-Holstein, an 4ú ráithe 2021</dct:title>
+            <dcat:accessURL rdf:resource="https://www.statistik-nord.de/fileadmin/Dokumente/Statistische_Berichte/industrie__handel_und_dienstl/G_III_1_vj_HuS/G_III_1_vj_21-4_SH.xlsx"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Schleswig-Holsteinin vienti 4. vuosineljännes 2021</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 4e trimestre 2021</dct:title>
+            <dct:identifier>https://opendata.schleswig-holstein.de/dataset/StaNord_CMS:64041/resource/75ad3a01-c1f4-4722-9edd-f27aa7779ede</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dcatapde:licenseAttributionByText>Statistisches Amt für Hamburg und Schleswig-Holstein - Anstalt des öffentlichen Rechts - (Statistikamt Nord)</dcatapde:licenseAttributionByText>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 4 квартал 2021 року</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-06-14T23:46:31.338498</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description>Ausfuhr des Landes Schleswig-Holstein 4. Quartal 2021</dct:description>
+        <dct:description xml:lang="es-t-de-t0-mtec">Exportaciones del cuarto trimestre de 2021 de Schleswig-Holstein</dct:description>
+        <dct:spatial>
+          <dct:Location rdf:about="http://dcat-ap.de/def/politicalGeocoding/stateKey/01">
+            <skos:prefLabel>Bundesland Schleswig-Holstein</skos:prefLabel>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 4. čtvrtletí 2021</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Износ на Шлезвиг-Холщайн 4-то тримесечие на 2021 г.</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2021. gada 4. ceturksnī</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izvoz Schleswig-Holstein 4. četrtletje 2021</dct:title>
+        <dct:title>Ausfuhr des Landes Schleswig-Holstein 4. Quartal 2021</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Eksport Szlezwika-Holsztynu IV kwartał 2021</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Vývoz Šlesvicko-Holštýnsko 4. čtvrtletí 2021</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Šlēsvigas-Holšteinas eksports 2021. gada 4. ceturksnī</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Esportazioni dello Schleswig-Holstein 4º trimestre 2021</dct:title>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Exportations du Land de Schleswig-Holstein 4e trimestre 2021</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εξαγωγές Schleswig-Holstein 4ου τριμήνου 2021</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Export Sleeswijk-Holstein 4e kwartaal 2021</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Vývoz Šlezvicko-Holštajnsko 4. štvrťrok 2021</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Statistisches Amt für Hamburg und Schleswig-Holstein</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:info@statistik-nord.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="es-t-de-t0-mtec">Exportaciones del cuarto trimestre de 2021 de Schleswig-Holstein</dct:title>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 4.º trimestre de 2021</dct:description>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Exportações de Schleswig-Holstein 4.º trimestre de 2021</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Schleswig-Holstein kivitele 2021 4. negyedéve</dct:description>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Експорт Шлезвіг-Гольштейна 4 квартал 2021 року</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

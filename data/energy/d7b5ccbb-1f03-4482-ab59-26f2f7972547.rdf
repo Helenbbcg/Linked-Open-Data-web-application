@@ -1,0 +1,926 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/d7b5ccbb-1f03-4482-ab59-26f2f7972547">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/d7b5ccbb-1f03-4482-ab59-26f2f7972547"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/d7b5ccbb-1f03-4482-ab59-26f2f7972547">
+        <dcat:keyword>lebensraum</dcat:keyword>
+        <dct:description xml:lang="en-t-de-t0-mtec">Data and maps on habitats of plants and animals with particular regard to the legally protected biotopes, which are no longer listed separately. The presentation has been changed so that the difference can be seen at a glance.
+The basis for the data collection of the biotopes/habits of Hamburg is the “cart instructions and biotope type keys for biotope mapping Hamburg” as well as the “Biotope Assessment for Biotope mapping Hamburg”.
+Both can be found as a download file in PDF format at https://www.hamburg.de/details-der-biotopkartierung/. Here, the biotope mapping is also briefly explained.
+
+Despite plausibility checks, no guarantee can be given for the completeness or accuracy of the data. For the implementation of the statutory biotope protection, the actual state of a biotope in nature is always decisive.
+
+WMS card services: The data sets underlying this data are derived from a modelling that leads to a comprehensive mapping of an overlay-free layer. For this purpose, the data from the total database of the biotope cadastre Hamburg, which reproduce the years 2005 to 12/2018 completely) were used. Here, there may be deviations in the size indications compared to those in the survey sheet. The size data in the survey sheets are decisive. To the WMS card service there is a GML file according to the WMS card service.
+
+Download area:
+In addition, a GML file with an extended attribute table and all vintages is made available (zipped, in the download area, link above) containing the geographical data of the biotopes and their essential descriptive data, except for the plant species lists of the individual biotopes. The GML files can be integrated into geographic information systems (GIS). The instructions for this can be found in the download area of the transparency portal for the biotope cadastre Hamburg (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+All information about a biotope can be found in the corresponding survey sheet, which is also provided as a zip file in the download area of the transparency portal. The sheets are assigned to the biotopes via the DK5, biotope no. and the mapping date (e.g. 6620_317_080716.pdf).</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A növények és állatok élőhelyeire vonatkozó adatok és térképek, különös tekintettel a jogilag védett biotópokra, amelyek már nincsenek külön felsorolva.
+A prezentációt megváltoztattuk, hogy a különbség egy pillantásra látható legyen.
+
+A hamburgi biotópok/élmények adatgyűjtésének alapja a „kart utasítások és biotóp típusú kulcsok a biotópok feltérképezéséhez Hamburghoz”, valamint a „Biotope Assessment for Biotope mapping Hamburg”.
+
+Mindkettő letölthető PDF formátumban a https://www.hamburg.de/details-der-biotopkartierung/ címen.
+Itt röviden elmagyarázzák a biotóp feltérképezését is.
+
+
+A valószerűségi ellenőrzések ellenére az adatok teljességét vagy pontosságát nem lehet garantálni.
+A törvényes biotópvédelem megvalósításához mindig meghatározó a biotóp tényleges állapota.
+
+
+WMS kártya szolgáltatások:
+Az adatok alapjául szolgáló adatkészletek egy olyan modellezésből származnak, amely egy fedésmentes réteg átfogó feltérképezéséhez vezet.
+Ebből a célból a hamburgi biotóp kataszter teljes adatbázisából származó adatokat használták fel, amelyek teljes egészében reprodukálják a 2005–12/2018. éveket.
+Itt eltérések lehetnek a méretjelzőkben a felmérési lapon szereplőhöz képest.
+A felmérési lapok méretadatai döntőek.
+A WMS kártya szolgáltatáshoz van egy GML fájl a WMS kártya szolgáltatás szerint.
+
+
+Letöltési terület:
+
+Ezenkívül rendelkezésre áll egy kiterjesztett attribútumtáblázatú GML-fájl és minden évjárat (a letöltési területen a fenti hivatkozás), amely tartalmazza a biotópok földrajzi adatait és alapvető leíró adatait, kivéve az egyes biotópok növényfaj-listáit.
+A GML fájlok integrálhatók a földrajzi információs rendszerekbe (GIS).
+Az erre vonatkozó utasítások a hamburgi biotóp kataszter átláthatósági portáljának letöltési területén találhatók (Link:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true.
+
+
+A biotópokkal kapcsolatos minden információ megtalálható a megfelelő felmérési lapon, amely az átláthatósági portál letöltési területén zip fájlként is rendelkezésre áll.
+A lapok a DK5 biotópokon és a leképezés dátumán keresztül kerülnek hozzárendelésre a biotópokhoz (pl. 6620_317_080716.pdf).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/af04d4a1-a48c-44ce-9894-ab7c3d2a6eb7">
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>GML</dct:format>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >196</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Biotopkataster_umfangreich_HH_2022-04-25.zip"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >196</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Datendownload Biotopkataster - Jahrgänge 1979 bis 12/2019, 2022-04 (GML)</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/8febe2f1-da13-4237-8f25-4b2438dcdd00</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/649fc2fd-b121-4310-b792-4d6ccf10d28e">
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/62f06c59-50cd-4e0a-957e-2ac22cb1ea4e</dct:identifier>
+            <dct:format>PDF</dct:format>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >155893</dcat:byteSize>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >2599cf35614c9f1e131f80bb4dd2cb77c3fed1bcac8d80f9464fc93661665a8e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Anleitung zum Einbinden einer GML-Datei zum Biotopkataster Hamburg</dct:title>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Anleitung_zum_Einbinden_einer_GML-Datei_zum_Biotopkataster_Hamburg.pdf"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Biotopové katastrální centrum Hamburg</dct:title>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Schulze, Dennis, Herr</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dcat:keyword>biotopkartierung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/86444b8e-e3a2-49e3-8b97-634d65563ad9">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dct:format>WMS</dct:format>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >40448</dcat:byteSize>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/5ec976fd-cddf-4b68-b0e7-7b5ed0a8c575</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >72c855445624de7f0244714c459bf98e86ee44d69e7b81e11d2467eff79d9bd1</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:title>Dienst "WMS Biotopkataster Hamburg" (GetCapabilities)</dct:title>
+            <dcat:accessURL rdf:resource="https://geodienste.hamburg.de/HH_WMS_Biotopkataster?SERVICE=WMS&amp;REQUEST=GetCapabilities"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="el-t-de-t0-mtec">Δεδομένα και χάρτες για τους οικοτόπους φυτών και ζώων, ιδίως όσον αφορά τους νομικά προστατευόμενους βιότοπους, οι οποίοι δεν απαριθμούνται πλέον χωριστά. Η παρουσίαση έχει αλλάξει ώστε η διαφορά να φαίνεται με μια ματιά.
+Η βάση για τη συλλογή δεδομένων για τους βιότοπους/κατοικίες του Αμβούργου είναι οι «οδηγίες και κλειδιά τύπου βιοτόπου για τη χαρτογράφηση βιοτόπων του Αμβούργου» καθώς και η «Biotope Assessment for Biotope mapping Hamburg».  Και οι δύο μπορούν να βρεθούν ως αρχείο λήψης σε μορφή PDF στη διεύθυνση https://www.hamburg.de/details-der-biotopkartierung/.Εδώ, η χαρτογράφηση βιοτόπων εξηγείται επίσης εν συντομία.
+ 
+Παρά τους ελέγχους αξιοπιστίας, δεν μπορεί να δοθεί καμία εγγύηση για την πληρότητα ή την ακρίβεια των δεδομένων.
+Για την εφαρμογή της νόμιμης προστασίας των βιοτόπων, η πραγματική κατάσταση ενός βιότοπου είναι πάντα καθοριστική.
+
+
+Υπηρεσίες καρτών WMS:
+Τα σύνολα δεδομένων στα οποία βασίζονται αυτά τα δεδομένα προέρχονται από μια μοντελοποίηση που οδηγεί σε μια ολοκληρωμένη χαρτογράφηση ενός στρώματος χωρίς επικάλυψη.
+Για το σκοπό αυτό χρησιμοποιήθηκαν τα στοιχεία από τη συνολική βάση δεδομένων του βιοτόπου κτηματολογίου Αμβούργου, τα οποία αναπαράγουν πλήρως τα έτη 2005 έως 12/2018.
+Εδώ, μπορεί να υπάρχουν αποκλίσεις στις ενδείξεις μεγέθους σε σύγκριση με εκείνες του φύλλου έρευνας.
+Τα δεδομένα μεγέθους στα φύλλα ερευνών είναι καθοριστικά.
+Στην υπηρεσία κάρτας WMS υπάρχει ένα αρχείο GML σύμφωνα με την υπηρεσία καρτών WMS.
+
+
+Περιοχή μεταφόρτωσης:
+
+Επιπλέον, διατίθεται αρχείο GML με εκτεταμένο πίνακα χαρακτηριστικών και όλες τις σοδειές (zipped, στην περιοχή τηλεφόρτωσης, σύνδεσμος παραπάνω) που περιέχει τα γεωγραφικά δεδομένα των βιοτόπων και τα βασικά περιγραφικά στοιχεία τους, εκτός από τους καταλόγους φυτικών ειδών των επιμέρους βιοτόπων.
+Τα αρχεία GML μπορούν να ενσωματωθούν σε συστήματα γεωγραφικών πληροφοριών (GIS).
+Οι σχετικές οδηγίες διατίθενται στην περιοχή τηλεφόρτωσης της πύλης διαφάνειας για το κτηματολόγιο του Αμβούργου (σύνδεσμος:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+
+Όλες οι πληροφορίες σχετικά με έναν βιότοπο μπορούν να βρεθούν στο αντίστοιχο φύλλο έρευνας, το οποίο παρέχεται επίσης ως αρχείο zip στην περιοχή τηλεφόρτωσης της πύλης διαφάνειας.
+Τα φύλλα αποδίδονται στους βιότοπους μέσω του DK5, του αριθμού βιοτόπων και της ημερομηνίας χαρτογράφησης (π.χ. 6620_317_080716.pdf).</dct:description>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Hotell nära Biotope cadastre Hamburg</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Biotopski kataster Hamburg</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Kasvien ja eläinten elinympäristöjä koskevat tiedot ja kartat erityisesti oikeudellisesti suojeltujen biotooppien osalta, joita ei enää luetella erikseen. Esitystä on muutettu niin, että ero näkyy yhdellä silmäyksellä.
+Hampurin biotooppien/tooppien tiedonkeruun perustana ovat Hampurin biotooppikartoituksessa käytettävät ”cart instructions and biotope type keys for Biotope Mapping Hamburg” sekä Biotope Assessment for Biotope mapping Hamburg.
+Molemmat löytyvät lataustiedostona PDF-muodossa osoitteesta https://www.hamburg.de/details-der-biotopkartierung/. Tässä yhteydessä myös biotooppikartoitus selitetään lyhyesti.
+
+Uskottavuustarkastuksista huolimatta tietojen täydellisyydestä tai oikeellisuudesta ei voida antaa takeita. Lakisääteisen biotooppisuojan täytäntöönpanon kannalta biotooppien todellinen tila on aina ratkaiseva.
+
+WMS-korttipalvelut: Näiden tietojen taustalla olevat tietokokonaisuudet on johdettu mallinnuksesta, joka johtaa peittottoman kerroksen kattavaan kartoitukseen. Tätä varten käytettiin Hampurin biotooppirekisterin kokonaistietokannasta saatuja tietoja, jotka toistetaan kokonaan vuodet 2005–12/2018. Tässä voi olla poikkeamia kokomerkinnöissä verrattuna kyselylomakkeisiin. Kyselylomakkeiden kokotiedot ovat ratkaisevia. WMS-korttipalvelussa on GML-tiedosto WMS-korttipalvelun mukaan.
+
+Lataa alue:
+Lisäksi saataville asetetaan GML-tiedosto, jossa on laajennettu attribuuttitaulukko ja kaikki vuosikerrat (edellä olevalla latausalueella linkki), joka sisältää biotooppien maantieteelliset tiedot ja niiden olennaiset kuvailevat tiedot, lukuun ottamatta kasvilajien luetteloita yksittäisistä biotoopeista. GML-tiedostot voidaan integroida paikkatietojärjestelmiin (GIS). Ohjeet löytyvät Hampurin biotooppirekisterin läpinäkyvyysportaalin latausalueelta (Linkki: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Kaikki biotooppia koskevat tiedot löytyvät vastaavasta tutkimuslomakkeesta, joka toimitetaan myös zip-tiedostona avoimuusportaalin latausalueella. Taulukot osoitetaan biotoopeille DK5:n, biotooppin numeron ja kartoituspäivän (esim. 6620_317_080716.pdf) kautta.</dct:description>
+        <dcat:keyword>biotopbewertung</dcat:keyword>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Dane i mapy dotyczące siedlisk roślin i zwierząt ze szczególnym uwzględnieniem prawnie chronionych biotopów, które nie są już wymienione oddzielnie. Prezentacja została zmieniona tak, aby różnicę można było zobaczyć na pierwszy rzut oka.
+Podstawą gromadzenia danych na temat biotopów w Hamburgu jest „Instrukcja kartowa i klucze typu biotopowego do mapowania biotopów Hamburg” oraz „Ocena biotopów dla mapowania biotopów Hamburg”.
+Oba można znaleźć jako plik do pobrania w formacie PDF na stronie https://www.hamburg.de/details-der-biotopkartierung/. Tutaj, mapowanie biotopów jest również krótko wyjaśnione.
+
+Pomimo kontroli wiarygodności nie można zagwarantować kompletności lub dokładności danych. Dla wdrożenia ustawowej ochrony biotopów, faktyczny stan biotopu w przyrodzie jest zawsze decydujący.
+
+Usługi kart WMS: Zestawy danych leżące u podstaw tych danych pochodzą z modelowania, które prowadzi do kompleksowego odwzorowania warstwy wolnej od nakładek. W tym celu wykorzystano dane z ogólnej bazy danych biotopowego katastru Hamburg, które w całości odwzorowują lata 2005-12/2018. W tym przypadku mogą występować odchylenia w oznaczeniach wielkości w porównaniu z tymi w arkuszu badania. Decydujące znaczenie mają dane dotyczące wielkości w arkuszach ankietowych. Do usługi kart WMS jest plik GML zgodnie z usługą kart WMS.
+
+Obszar pobierania:
+Ponadto udostępnia się plik GML z rozszerzoną tabelą atrybutów i wszystkimi rocznikami (zamknięty, w obszarze pobierania, link powyżej) zawierający dane geograficzne biotopów i ich istotne dane opisowe, z wyjątkiem wykazów gatunków roślin poszczególnych biotopów. Pliki GML można zintegrować z systemami informacji geograficznej (GIS). Instrukcje na ten temat można znaleźć w obszarze pobierania portalu służącego przejrzystości dla biotopu w Hamburgu (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Wszystkie informacje na temat biotopu można znaleźć w odpowiednim arkuszu ankietowym, który jest również dostarczany jako plik zip w obszarze pobierania portalu przejrzystości. Arkusze są przypisywane do biotopów za pośrednictwem DK5, nr biotopu i daty mapowania (np. 6620_317_080716.pdf).</dct:description>
+        <dcat:keyword>biotop</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:isVersionOf rdf:resource="http://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg12"/>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Il-katast tal-Biotope Hamburg</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((10.3263 53.3950, 10.3263 53.9642, 8.4206 53.9642, 8.4206 53.3950, 10.3263 53.3950))</locn:geometry>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type": "Polygon", "coordinates": [[[10.326304, 53.394985], [10.326304, 53.964153], [8.420551, 53.964153], [8.420551, 53.394985], [10.326304, 53.394985]]]}</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:keyword>flora</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f323ec60-bb3b-4d9b-91aa-6f069b7bacde">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >31390001112</dcat:byteSize>
+            <dct:title>Download Erhebungsbögen der Biotope (&gt;30GB Gesamtgröße mit &gt;30.000 PDF-Dateien)</dct:title>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/56b327f5-f0da-45fa-a3e5-c763c29f8197</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dct:format>PDF</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >31390001112</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Erhebungsboegen_Biotopkataster_HH_2022_02_17.zip"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description>Daten und Karten zu Lebensräumen von Pflanzen und Tieren unter besonderer Berücksichtigung der gesetzlich geschützten Biotope, die nicht mehr gesondert aufgeführt werden. Die Darstellung wurde derart verändert, so dass der Unterschied auf einen Blick zu erkennen ist.
+Grundlage für die Datenerfassung der Biotope/Lebensräume von Hamburg sind die "Kartieranleitung und Biotoptypenschlüssel für die Biotopkartierung Hamburg" sowie die "Biotopbewertung für die Biotopkartierung Hamburg".
+Beide sind als Downloaddatei im PDF-Format  unter https://www.hamburg.de/details-der-biotopkartierung zu finden. Hier wird die Biotopkartierung auch kurz erläutert.
+
+Trotz Plausibilitätsprüfungen kann keine Gewähr auf Vollständigkeit oder Richtigkeit der Daten gegeben werden. Für den Vollzug des gesetzlichen Biotopschutz ist immer der Ist-Zustand eines Biotops in der Natur entscheidend.
+
+WMS-Kartendienste: Die diesen Daten zugrundeliegenden Datensätze sind abgeleitet aus einer Modellierung, die zu einer flächendeckenden Abbildung einer überlagerungsfreien Ebene führt. Dazu wurden die Daten der Gesamt-Datenbank des Biotopkatasters Hamburg verwendet, die die Jahrgänge 2005 bis 12/2018 vollständig) wiedergeben. Hierbei kann es zu Abweichungen der Größenangaben gegenüber derjenigen im Erhebungsbogen kommen. Maßgeblich sind die Größenangaben in den Erhebungsbögen. Zu dem WMS-Kartendienst gibt es eine GML-Datei entsprechend dem WMS-Kartendienst.
+
+Downloadbereich:
+Außerdem wird eine GML-Dateien mit erweiterter Attributtabelle und aller Jahrgänge zur Verfügung gestellt (gezipt, im Downloadbereich, Link siehe oben), die die geografischen Daten der Biotope sowie deren wesentlichen beschreibenden Daten mit Ausnahme der Pflanzenartenlisten zu den einzelnen Biotopen beinhalten. Die GML-Dateien können in geografische Infosysteme (GIS) eingebunden werden. Die Anleitung hierzu befindet sich im Downloadbereich des Transparenzportals zum Biotopkataster Hamburg (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Alle Informationen zu einem Biotop können dem dazugehörigen Erhebungsbogen entnommen werden, der ebenfalls im Downloadbereich des Transparenzportals als Zipdatei bereitgestellt ist. Die Bögen sind über die DK5, Biotop-Nr. und das Kartierdatum (z.B. 6620_317_080716.pdf) den Biotopen zugeordnet.</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Gegevens en kaarten over habitats van planten en dieren, met name met betrekking tot de wettelijk beschermde biotopen, die niet langer afzonderlijk worden vermeld. De presentatie is gewijzigd zodat het verschil in één oogopslag te zien is.
+De basis voor de gegevensverzameling van de biotopen/gewoonten van Hamburg is de „cartinstructies en biotooptypesleutels voor biotoop mapping Hamburg” en de „Biotope Assessment for Biotoop mapping Hamburg”.
+Beide zijn te vinden als downloadbestand in PDF-formaat op https://www.hamburg.de/details-der-biotopkartierung/. Hier wordt ook de biotoop mapping kort uitgelegd.
+
+Ondanks aannemelijkheidscontroles kan er geen garantie worden gegeven voor de volledigheid of juistheid van de gegevens. Voor de toepassing van de wettelijke biotoopbescherming is de werkelijke toestand van een biotoop altijd doorslaggevend.
+
+WMS-kaartdiensten: De datasets die aan deze gegevens ten grondslag liggen, zijn afgeleid van een modellering die leidt tot een uitgebreide mapping van een overlayvrije laag. Hiervoor werden de gegevens uit de totale databank van het biotoopkadaster Hamburg, die de jaren 2005 tot en met 12/2018 volledig weergeven, gebruikt. Hier kunnen er afwijkingen zijn in de maataanduidingen in vergelijking met die in het enquêteblad. De groottegegevens in de enquêtebladen zijn doorslaggevend. Voor de WMS-kaartservice is er een GML-bestand volgens de WMS-kaartservice.
+
+Download gebied:
+Bovendien wordt een GML-bestand met een uitgebreide attribuuttabel en alle oogstjaren beschikbaar gesteld (in het downloadgebied, link hierboven) met de geografische gegevens van de biotopen en hun essentiële beschrijvende gegevens, met uitzondering van de plantensoortenlijsten van de afzonderlijke biotopen. De GML-bestanden kunnen worden geïntegreerd in geografische informatiesystemen (GIS). De instructies hiervoor zijn te vinden in het downloadgebied van het transparantieportaal voor het biotoopkadaster Hamburg (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Alle informatie over een biotoop is te vinden in het bijbehorende enquêteblad, dat ook als zip-bestand wordt verstrekt in het downloadgebied van het transparantieportaal. De bladen worden toegewezen aan de biotopen via de DK5, biotoop nr. en de kaartdatum (bijv. 6620_317_080716.pdf).</dct:description>
+        <dcatapde:geocodingDescription>Freie und Hansestadt Hamburg</dcatapde:geocodingDescription>
+        <dct:title xml:lang="el-t-de-t0-mtec">Βιοτοπικό κτηματολόγιο Αμβούργο</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6aad4076-69df-4d5a-b673-190da1727f3c">
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >22951127</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title>Datendownload Biotopkataster 2020-06 (GML - entspricht dem WFS-Dienst)</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/b4110126-d152-4343-b982-c4e01fd5d0dd</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Biotopkataster_HH_2020-06-11.zip"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:format>GML</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >22951127</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Sonraí agus léarscáileanna ar ghnáthóga plandaí agus ainmhithe agus aird ar leith á tabhairt ar na biotóip atá faoi chosaint dlí, nach liostaítear ar leithligh a thuilleadh. Athraíodh an cur i láthair ionas gur féidir an difríocht a fheiceáil ar shracfhéachaint.
+Is é an bunús le haghaidh bailiú sonraí na mbiotóip/nósanna Hamburg ná “treoracha cairteacha agus eochracha cineáil biotope le haghaidh Hamburg mapála biotope” chomh maith leis an “Measúnú Biotope for Biotope mapála Hamburg”.
+Is féidir an dá cheann a fháil mar chomhad íoslódála i bhformáid PDF ag https://www.hamburg.de/details-der-biotopkartierung/. Anseo, mínítear an léarscáiliú biotope go hachomair freisin.
+
+D’ainneoin seiceálacha inchreidteachta, ní féidir aon ráthaíocht a thabhairt maidir le hiomláine nó cruinneas na sonraí. Maidir le cur chun feidhme na cosanta biotóp reachtúil, is é staid iarbhír an nádúir biotóp i gcónaí cinntitheach.
+
+Seirbhísí cártaí WMS: Díorthaítear na tacair sonraí atá mar bhonn leis na sonraí sin ó shamhaltú as a dtagann mapáil chuimsitheach ar chiseal saor ó fhorleagan. Chun na críche sin, baineadh úsáid as na sonraí ó bhunachar sonraí iomlán an cadastre biotope Hamburg, a atáirgeann na blianta 2005 go 12/2018 go hiomlán). Anseo, d’fhéadfadh go mbeadh diallais sna tásca méide i gcomparáid leo siúd sa bhileog suirbhé. Tá na sonraí méide sna bileoga suirbhé cinntitheach. Chun an tseirbhís cárta WMS tá comhad GML i gcomhréir leis an tseirbhís cárta WMS.
+
+Íoslódáil an limistéar:
+Ina theannta sin, comhad GML le tábla tréith leathnaithe agus gach vintages ar fáil (zipped, i limistéar íoslódáil, nasc thuas) ina bhfuil na sonraí geografacha na biotopes agus a sonraí tuairisciúla riachtanacha, ach amháin i gcás na liostaí speiceas plandaí de na biotopes aonair. Is féidir na comhaid DML a chomhtháthú i gcórais faisnéise geografaí (GIS). Is féidir na treoracha seo a fháil i réimse íoslódála na tairsí trédhearcachta don biotope cadastre Hamburg (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Is féidir an fhaisnéis go léir faoi bhithtóp a fháil sa bhileog suirbhé chomhfhreagraigh, a sholáthraítear freisin mar chomhad zip sa limistéar íoslódála den tairseach trédhearcachta. Sanntar na bileoga do na biotóip tríd an DK5, biotope uimh. agus an dáta mapála (m.sh. 6620_317_080716.pdf).</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">Andmed ja kaardid taimede ja loomade elupaikade kohta, pöörates erilist tähelepanu seaduslikult kaitstud biotoopidele, mida ei ole enam eraldi loetletud.
+Esitlust on muudetud nii, et erinevust saab näha lühidalt.  Hamburgi biotoopide/elupaikade andmete kogumise aluseks on Hamburgi biotoopide kaardistamiseks mõeldud „kart-juhendid ja biotoopide tüübi võtmed“ ning „Biotope Assessment for Biotope mapping Hamburg“.  Mõlemad on PDF-vormingus allalaadimisfailina leitavad aadressil https://www.hamburg.de/details-der-biotopkartierung/. Siin selgitatakse lühidalt ka biotoopide kaardistamist.  Hoolimata usutavuskontrollidest ei saa andmete täielikkust ega täpsust tagada.
+Kohustusliku biotoopide kaitse rakendamisel on alati otsustav biotoopide tegelik seisund looduses.   WMS kaarditeenused: Nende andmete aluseks olevad andmekogumid on tuletatud modelleerimisest, mis viib kattevaba kihi põhjaliku kaardistamiseni.
+Selleks kasutati Hamburgi biotoopide katastri koguandmebaasi andmeid, mis kordasid täielikult aastaid 2005–12/2018.
+Siin võib esineda kõrvalekaldeid suurusnäitajates võrreldes uuringulehega.
+Uuringulehtedel esitatud suurusandmed on otsustava tähtsusega.
+WMS-kaarditeenusele on WMS-kaarditeenuse kohaselt GML-fail.
+
+
+Allalaadimisala:
+
+Lisaks tehakse kättesaadavaks GML-fail, millel on laiendatud atribuutide tabel ja kõik aastakäigud (lukutud allalaadimisalale, link eespool), mis sisaldab biotoopide geograafilisi andmeid ja nende peamisi kirjeldavaid andmeid, välja arvatud üksikute biotoopide taimeliikide loetelud.
+GML-faile saab integreerida geograafilistesse infosüsteemidesse (GIS).
+Juhised selle kohta on Hamburgi biotoopide katastre’i läbipaistvusportaali allalaadimisalal (Link:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true.
+
+
+Kogu teave biotoopi kohta on esitatud vastaval uuringulehel, mis on esitatud ka zip-failina läbipaistvusportaali allalaadimisalal.
+Lehed on määratud biotoopidele DK5, biotoopi numbri ja kaardistamise kuupäeva kaudu (nt 6620_317_080716.pdf).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/323e69b8-3aad-4610-9bae-a01d2d72832d">
+            <dct:format>GML</dct:format>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Biotopkataster_umfangreich_HH_2018-12-03.zip"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/304454a9-3cc8-478e-b9fb-763f030edee6</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >64440982</dcat:byteSize>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >64440982</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Datendownload Biotopkataster - Jahrgänge 1979 bis 12/2017, 2018-12 (GML)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Dados e mapas dos habitats de plantas e animais, em especial no que diz respeito aos biótopos legalmente protegidos, que já não são enumerados separadamente. A apresentação foi alterada para que a diferença possa ser vista de relance.
+A base para a coleta de dados dos biótopos/hábitos de Hamburgo são as «instruções de carrinho e chaves do tipo biótopo para mapeamento de biótopos Hamburgo», bem como a «Avaliação de Biotópicos para mapeamento de biótopos Hamburgo».
+Ambos podem ser encontrados como um arquivo de download em formato PDF em https://www.hamburg.de/details-der-biotopkartierung/. Aqui, o mapeamento do biótopo também é brevemente explicado.
+
+Apesar das verificações de plausibilidade, nenhuma garantia pode ser dada para a integridade ou precisão dos dados. Para a implementação da proteção legal do biótopo, o estado real de um biótopo na natureza é sempre decisivo.
+
+Serviços de cartão WMS: Os conjuntos de dados subjacentes a esses dados são derivados de uma modelagem que leva a um mapeamento abrangente de uma camada livre de sobreposição. Para isso, foram utilizados os dados da base de dados total do cadastro biótopo Hamburg, que reproduz os anos de 2005 a 12/2018 completamente). Aqui, pode haver desvios nas indicações de tamanho em comparação com os da folha de pesquisa. Os dados de tamanho nas folhas de pesquisa são decisivos. Para o serviço de cartão WMS há um arquivo GML de acordo com o serviço de cartão WMS.
+
+Área de download:
+Além disso, é disponibilizado um ficheiro GML com uma tabela de atributos alargada e todas as apanhas (com fecho de correr, na área de download, ligação acima) contendo os dados geográficos dos biótopos e os seus dados descritivos essenciais, com exceção das listas de espécies vegetais dos biótopos individuais. Os arquivos GML podem ser integrados em sistemas de informação geográfica (SIG). As instruções para isso podem ser encontradas na área de download do portal de transparência para o cadastro biótopo Hamburgo (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Todas as informações sobre um biótopo podem ser encontradas na folha de pesquisa correspondente, que também é fornecida como um arquivo zip na área de download do portal de transparência. As folhas são atribuídas aos biótopos através do DK5, biótopo n.º e da data de mapeamento (por exemplo, 6620_317_080716.pdf).</dct:description>
+        <dcat:keyword>fauna</dcat:keyword>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Uppgifter och kartor om växters och djurs livsmiljöer, särskilt när det gäller de lagligt skyddade biotoperna, som inte längre förtecknas separat. Presentationen har ändrats så att skillnaden kan ses på ett ögonblick. 
+Grunden för datainsamlingen av Hamburgs biotoper/livsområden är ”kartinstruktioner och biotoptypnycklar för biotopkartläggning i Hamburg” samt ”Biotop Assessment for Biotope Maping Hamburg”.
+
+Båda kan hittas som en nedladdningsfil i PDF-format på https://www.hamburg.de/details-der-biotopkartierung/.
+Här förklaras också kortfattat biotopkartläggningen.
+
+
+Trots rimlighetskontroller kan ingen garanti ges för att uppgifterna är fullständiga eller korrekta.
+För genomförandet av det lagstadgade biotopskyddet är det faktiska tillståndet för en biotop i naturen alltid avgörande.
+
+
+WMS-korttjänster:
+De datamängder som ligger till grund för dessa data härrör från en modellering som leder till en omfattande kartläggning av ett överläggsfritt lager.
+För detta ändamål användes uppgifterna från den totala databasen för biotopkadastre Hamburg, som helt och hållet återger åren 2005–12/2018).
+Här kan det finnas avvikelser i storleksindikationen jämfört med dem i undersökningsbladet.
+Storleksuppgifterna i undersökningsbladen är avgörande.
+Till WMS-korttjänsten finns en GML-fil enligt WMS-korttjänsten.
+
+
+Nedladdningsområde:
+
+Dessutom görs en GML-fil med en utökad attributtabell och alla årgångar tillgänglig (i nedladdningsområdet, länk ovan) som innehåller de geografiska uppgifterna för biotoperna och deras väsentliga beskrivande data, med undantag för växtartslistorna för de enskilda biotoperna.
+GML-filerna kan integreras i geografiska informationssystem (GIS).
+Instruktioner för detta finns i nedladdningsområdet för transparensportalen för biotopcadastre Hamburg (Link:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+
+All information om en biotop finns i motsvarande undersökningsblad, som också ges som en zip-fil i nedladdningsområdet för transparensportalen.
+Bladen tilldelas biotoperna via DK5, biotopnummer och kartläggningsdatum (t.ex. 6620_317_080716.pdf).</dct:description>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/57ec4cc6-3b82-45ae-b5aa-a5b36dae7642">
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >0f1f95044462cc13072afcdaece4a755e89fd782ca461b52285701f1bb1fc940</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:accessURL rdf:resource="https://geodienste.hamburg.de/HH_WFS_Biotopkataster?SERVICE=WFS&amp;REQUEST=GetCapabilities"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:format>WFS</dct:format>
+            <dct:title>Dienst "WFS Biotopkataster Hamburg" (GetCapabilities)</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >43249</dcat:byteSize>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/e483c711-a601-457c-a848-f223ffdee810</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>D7B5CCBB-1F03-4482-AB59-26F2F7972547</dct:identifier>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Cadastre des biotopes de Hambourg</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Data u mapep dwar il-ħabitats ta’ pjanti u annimali b’attenzjoni partikolari għall-bijotopi legalment protetti, li m’għadhomx elenkati separatament.
+Il-preżentazzjoni nbidlet sabiex id-differenza tidher f’daqqa t’għajn.  Il-bażi għall-ġbir tad-data tal-bijotopi/l-abitazzjonijiet ta’ Hamburg hija l-“istruzzjonijiet tal-cart u ċwievet tat-tip tal-bijotopi għall-immappjar tal-bijotopi f’Hamburg” kif ukoll il-“Valutazzjoni tal-Bijotopi għall-immappjar tal-Bijotopi f’Hamburg”.  It-tnejn jistgħu jinstabu bħala fajl tat-tniżżil fil-format PDF fuq https://www.hamburg.de/details-der-biotopkartierung/.Hawnhekk, l-immappjar tal-bijotopi huwa wkoll spjegat fil-qosor.
+ Minkejja l-kontrolli ta’ plawżibbiltà, ma tista’ tingħata l-ebda garanzija għall-kompletezza jew il-preċiżjoni tad-data.
+Għall-implimentazzjoni tal-protezzjoni statutorja tal-bijotopi, l-istat attwali ta’ bijotopu fin-natura huwa dejjem deċiżiv.
+ Servizzi ta’ kards WMS:
+Is-settijiet ta’ data li fuqhom hija bbażata din id-data huma derivati minn mudellar li jwassal għal immappjar komprensiv ta’ saff mingħajr sovrappostazzjoni.
+Għal dan il-għan, intużat id-data mill-bażi tad-data totali tal-katast tal-bijotopu ta’ Hamburg, li tirriproduċi kompletament is-snin 2005 sa 12/2018). Hawnhekk, jista’ jkun hemm devjazzjonijiet fl-indikazzjonijiet tad-daqs meta mqabbla ma’ dawk fl-iskeda tal-istħarriġ.Id-dejta dwar id-daqs fl-iskedi tal-istħarriġ hija deċiżiva.
+Għas-servizz tal-kard WMS hemm fajl GML skont is-servizz tal-kard WMS.   Iż-żona tat-tniżżil:  Barra minn hekk, fajl GML b’tabella ta’ attributi estiża u l-vintages kollha huwa disponibbli (żippjat, fiż-żona tat-tniżżil, link hawn fuq) li fih id-data ġeografika tal-bijotopi u d-data deskrittiva essenzjali tagħhom, ħlief għal-listi tal-ispeċijiet tal-pjanti tal-bijotopi individwali. Il-fajls tal-GML jistgħu jiġu integrati f’sistemi ta’ informazzjoni ġeografika (GIS). L-istruzzjonijiet għal dan jinsabu fiż-żona tat-tniżżil tal-portal tat-trasparenza għall-katast tal-bijotopi ta’ Hamburg (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).   L-informazzjoni kollha dwar bijotopu tista’ tinstab fl-iskeda tal-istħarriġ korrispondenti, li hija pprovduta wkoll bħala zip file fiż-żona tat-tniżżil tal-portal tat-trasparenza.Il-folji huma assenjati lill-bijotopi permezz tad-DK5, in-nru tal-bijotopu u d-data tal-immappjar (eż. 6620_317_080716.pdf). 
+Il-bażi għall-ġbir tad-data tal-bijotopi/l-abitazzjonijiet ta’ Hamburg hija l-“istruzzjonijiet tal-cart u ċwievet tat-tip tal-bijotopi għall-immappjar tal-bijotopi f’Hamburg” kif ukoll il-“Valutazzjoni tal-Bijotopi għall-immappjar tal-Bijotopi f’Hamburg”.
+
+It-tnejn jistgħu jinstabu bħala fajl tat-tniżżil fil-format PDF fuq https://www.hamburg.de/details-der-biotopkartierung/.
+Hawnhekk, l-immappjar tal-bijotopi huwa wkoll spjegat fil-qosor.
+
+
+Minkejja l-kontrolli ta’ plawżibbiltà, ma tista’ tingħata l-ebda garanzija għall-kompletezza jew il-preċiżjoni tad-data.
+Għall-implimentazzjoni tal-protezzjoni statutorja tal-bijotopi, l-istat attwali ta’ bijotopu fin-natura huwa dejjem deċiżiv.
+
+
+Servizzi ta’ kards WMS:
+Is-settijiet ta’ data li fuqhom hija bbażata din id-data huma derivati minn mudellar li jwassal għal immappjar komprensiv ta’ saff mingħajr sovrappostazzjoni.
+Għal dan il-għan, intużat id-data mill-bażi tad-data totali tal-katast tal-bijotopu ta’ Hamburg, li tirriproduċi kompletament is-snin 2005 sa 12/2018).
+Hawnhekk, jista’ jkun hemm devjazzjonijiet fl-indikazzjonijiet tad-daqs meta mqabbla ma’ dawk fl-iskeda tal-istħarriġ.
+Id-dejta dwar id-daqs fl-iskedi tal-istħarriġ hija deċiżiva.
+Għas-servizz tal-kard WMS hemm fajl GML skont is-servizz tal-kard WMS.
+
+
+Iż-żona tat-tniżżil:
+
+Barra minn hekk, fajl GML b’tabella ta’ attributi estiża u l-vintages kollha huwa disponibbli (żippjat, fiż-żona tat-tniżżil, link hawn fuq) li fih id-data ġeografika tal-bijotopi u d-data deskrittiva essenzjali tagħhom, ħlief għal-listi tal-ispeċijiet tal-pjanti tal-bijotopi individwali.
+Il-fajls tal-GML jistgħu jiġu integrati f’sistemi ta’ informazzjoni ġeografika (GIS).
+L-istruzzjonijiet għal dan jinsabu fiż-żona tat-tniżżil tal-portal tat-trasparenza għall-katast tal-bijotopi ta’ Hamburg (Link:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+
+L-informazzjoni kollha dwar bijotopu tista’ tinstab fl-iskeda tal-istħarriġ korrispondenti, li hija pprovduta wkoll bħala zip file fiż-żona tat-tniżżil tal-portal tat-trasparenza.
+Il-folji huma assenjati lill-bijotopi permezz tad-DK5, in-nru tal-bijotopu u d-data tal-immappjar (eż. 6620_317_080716.pdf).</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Údaje a mapy o biotopoch rastlín a zvierat s osobitným zreteľom na zákonom chránené biotopy, ktoré už nie sú uvedené samostatne. Prezentácia sa zmenila tak, aby bol rozdiel viditeľný na prvý pohľad.  Základom pre zber údajov o biotopoch/obsadeniach Hamburgu sú „inštrukcie na cart a kľúče typu biotopu na mapovanie biotopov Hamburgu“, ako aj „Posúdenie biotopov pre mapovanie biotopu Hamburgu“.
+Oba súbory možno nájsť ako súbor na prevzatie vo formáte PDF na adrese https://www.hamburg.de/details-der-biotopkartierung/.Tu je stručne vysvetlené aj mapovanie biotopov.
+
+Napriek kontrolám hodnovernosti nie je možné poskytnúť žiadnu záruku úplnosti alebo presnosti údajov.Pre zavedenie zákonnej ochrany biotopov je vždy rozhodujúci skutočný stav biotopu v prírode.
+  Služby spojené s kartami WMS:Súbory údajov, ktoré sú základom týchto údajov, sú odvodené z modelovania, ktoré vedie k komplexnému mapovaniu vrstvy bez prekrytia.
+Na tento účel sa použili údaje z celkovej databázy katastra biotopu Hamburg, ktorá úplne reprodukuje roky 2005 až 12/2018).
+V tomto prípade môžu byť odchýlky v indikáciách veľkosti v porovnaní s indikáciami v prehľade.Údaje o veľkosti v prehľadoch sú rozhodujúce.
+K službe WMS karty sa nachádza súbor GML podľa služby karty WMS.
+  Oblasť sťahovania:
+Okrem toho je k dispozícii súbor GML s rozšírenou tabuľkou atribútov a všetkými ročníkmi (v oblasti sťahovania odkaz vyššie), ktorý obsahuje geografické údaje o biotopoch a ich základné opisné údaje, s výnimkou zoznamov rastlinných druhov jednotlivých biotopov.
+GML súbory môžu byť integrované do geografických informačných systémov (GIS).Pokyny na to možno nájsť v oblasti sťahovania portálu transparentnosti pre biotopový kataster Hamburg (odkaz:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+  Všetky informácie o biotope nájdete v príslušnom prehľade, ktorý sa poskytuje aj ako súbor zip v oblasti sťahovania portálu transparentnosti. Listy sa priraďujú k biotopom prostredníctvom DK5, biotopu č. a dátumu mapovania (napr. 6620_317_080716.pdf). Údaje a mapy o biotopoch rastlín a zvierat s osobitným zreteľom na zákonom chránené biotopy, ktoré už nie sú uvedené samostatne. Prezentácia sa zmenila tak, aby bol rozdiel viditeľný na prvý pohľad.  Základom pre zber údajov o biotopoch/obsadeniach Hamburgu sú „inštrukcie na cart a kľúče typu biotopu na mapovanie biotopov Hamburgu“, ako aj „Posúdenie biotopov pre mapovanie biotopu Hamburgu“.  Oba súbory možno nájsť ako súbor na prevzatie vo formáte PDF na adrese https://www.hamburg.de/details-der-biotopkartierung/.Tu je stručne vysvetlené aj mapovanie biotopov.
+
+ Napriek kontrolám hodnovernosti nie je možné poskytnúť žiadnu záruku úplnosti alebo presnosti údajov.Pre zavedenie zákonnej ochrany biotopov je vždy rozhodujúci skutočný stav biotopu v prírode.
+
+Služby spojené s kartami WMS:
+Súbory údajov, ktoré sú základom týchto údajov, sú odvodené z modelovania, ktoré vedie k komplexnému mapovaniu vrstvy bez prekrytia. Na tento účel sa použili údaje z celkovej databázy katastra biotopu Hamburg, ktorá úplne reprodukuje roky 2005 až 12/2018). V tomto prípade môžu byť odchýlky v indikáciách veľkosti v porovnaní s indikáciami v prehľade.Údaje o veľkosti v prehľadoch sú rozhodujúce.
+K službe WMS karty sa nachádza súbor GML podľa služby karty WMS.  Oblasť sťahovania:
+
+Okrem toho je k dispozícii súbor GML s rozšírenou tabuľkou atribútov a všetkými ročníkmi (v oblasti sťahovania odkaz vyššie), ktorý obsahuje geografické údaje o biotopoch a ich základné opisné údaje, s výnimkou zoznamov rastlinných druhov jednotlivých biotopov. GML súbory môžu byť integrované do geografických informačných systémov (GIS). Pokyny na to možno nájsť v oblasti sťahovania portálu transparentnosti pre biotopový kataster Hamburg (odkaz:https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+ Všetky informácie o biotope nájdete v príslušnom prehľade, ktorý sa poskytuje aj ako súbor zip v oblasti sťahovania portálu transparentnosti.
+Listy sa priraďujú k biotopom prostredníctvom DK5, biotopu č. a dátumu mapovania (napr. 6620_317_080716.pdf).</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Biotoop kadastre Hamburg</dct:title>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Dati un kartes par augu un dzīvnieku dzīvotnēm, jo īpaši attiecībā uz juridiski aizsargātiem biotopiem, kas vairs nav uzskaitīti atsevišķi. Prezentācija ir mainīta, lai atšķirību varētu redzēt īsumā.
+Hamburgas biotopu/ieradumu datu vākšanas pamatā ir “kartes instrukcijas un biotopu tipa atslēgas Hamburgas biotopu kartēšanai”, kā arī “Biotope Assessment for Biotope mapping Hamburg”.
+Abus var atrast kā lejupielādes failu PDF formātā vietnē https://www.hamburg.de/details-der-biotopkartierung/. Šeit īsumā ir izskaidrota arī biotopu kartēšana.
+
+Neraugoties uz ticamības pārbaudēm, nevar sniegt nekādas garantijas par datu pilnīgumu vai precizitāti. Lai īstenotu tiesību aktos noteikto biotopu aizsardzību, biotopa faktiskais stāvoklis pēc būtības vienmēr ir noteicošais.
+
+WMS karšu pakalpojumi: Datu kopas, kas ir šo datu pamatā, ir iegūtas no modelēšanas, kuras rezultātā tiek visaptveroši kartēts slānis bez pārklājuma. Šim nolūkam tika izmantoti dati no Hamburgas biotopa kadastra kopējās datubāzes, kas pilnībā atspoguļo 2005. līdz 12.2018. gadu. Šeit var būt novirzes lieluma indikācijās, salīdzinot ar tām, kas norādītas apsekojuma lapā. Noteicošie ir dati par lielumu apsekojumu lapās. Uz WMS kartes pakalpojumu ir GML fails saskaņā ar WMS kartes pakalpojumu.
+
+Lejupielādēt apgabalu:
+Turklāt ir pieejama GML datne ar paplašinātu atribūtu tabulu un visas vintages (ielādēšanas apgabalā ir saite iepriekš), kurā ir biotopu ģeogrāfiskie dati un to aprakstošie dati, izņemot atsevišķu biotopu augu sugu sarakstus. GML datnes var integrēt ģeogrāfiskās informācijas sistēmās (ĢIS). Norādījumi par to ir pieejami Hamburgas biotopa kadastra pārredzamības portāla lejupielādes sadaļā (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Visu informāciju par biotopu var atrast attiecīgajā aptaujas lapā, kas tiek sniegta arī kā zip fails pārredzamības portāla lejupielādes apgabalā. Lapas tiek piešķirtas biotopiem, izmantojot DK5, biotopa Nr. un kartēšanas datumu (piemēram, 6620_317_080716.pdf).</dct:description>
+        <dct:source rdf:resource="https://metaver.de/cswhh"/>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Kadastre biotopowe Hamburg</dct:title>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/790f8a77-c2ff-4182-bbbf-6592c50ef5e1">
+            <dct:title>Datendownload Biotopkataster 2018-11 (GML - entspricht dem WFS-Dienst)</dct:title>
+            <dct:format>GML</dct:format>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >17214021</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >17214021</dcat:byteSize>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Biotopkataster_HH_2018-11-16.zip"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/4628173f-bda3-4f72-b439-50359407b6f4</dct:identifier>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization>
+            <foaf:name>Behörde für Umwelt, Klima, Energie und Agrarwirtschaft (BUKEA)</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:description xml:lang="it-t-de-t0-mtec">Dati e mappe sugli habitat di piante e animali con particolare riguardo ai biotopi legalmente protetti, che non sono più elencati separatamente.
+La presentazione è stata modificata in modo che la differenza possa essere vista a colpo d'occhio.  La base per la raccolta dei dati dei biotopi/abitazioni di Amburgo è costituita dalle "istruzioni del carretto e delle chiavi di tipo biotopo per la mappatura del biotopo di Amburgo" e dalla "Valutazione del biotopo per la mappatura del biotopo di Amburgo".  Entrambi possono essere trovati come file di download in formato PDF all'indirizzo https://www.hamburg.de/details-der-biotopkartierung/.Qui, anche la mappatura del biotopo è brevemente spiegata.
+ Nonostante i controlli di plausibilità, non è possibile fornire alcuna garanzia per la completezza o l'accuratezza dei dati.
+Per l'attuazione della protezione legale del biotopo, lo stato effettivo di un biotopo in natura è sempre decisivo.
+ Servizi di carta WMS:
+I set di dati alla base di questi dati sono derivati da una modellazione che porta a una mappatura completa di un livello senza sovrapposizione.
+A tal fine sono stati utilizzati i dati della banca dati totale del catasto del biotopo di Amburgo, che riproduce completamente gli anni dal 2005 al 12/2018. Qui, ci possono essere deviazioni nelle indicazioni di dimensione rispetto a quelle contenute nel foglio di indagine.I dati sulle dimensioni contenuti nelle schede di indagine sono decisivi.
+Per il servizio di carta WMS c'è un file GML secondo il servizio di carta WMS.   Area di download:  Inoltre, viene messo a disposizione un file GML con una tabella degli attributi estesa e tutte le annate (pinzate, nell'area di download, link sopra) contenente i dati geografici dei biotopi e i loro dati descrittivi essenziali, ad eccezione degli elenchi delle specie vegetali dei singoli biotopi. I file GML possono essere integrati nei sistemi informativi geografici (GIS). Le istruzioni sono reperibili nell'area download del portale trasparenza per il catasto del biotopo Amburgo (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).   Tutte le informazioni su un biotopo possono essere trovate nel corrispondente foglio di indagine, che è anche fornito come file zip nell'area di download del portale trasparenza.I fogli sono assegnati ai biotopi tramite il DK5, il biotopo n. e la data di mappatura (es. 6620_317_080716.pdf). La base per la raccolta dei dati dei biotopi/abitazioni di Amburgo è costituita dalle "istruzioni del carretto e delle chiavi di tipo biotopo per la mappatura del biotopo di Amburgo" e dalla "Valutazione del biotopo per la mappatura del biotopo di Amburgo".
+Entrambi possono essere trovati come file di download in formato PDF all'indirizzo https://www.hamburg.de/details-der-biotopkartierung/.
+Qui, anche la mappatura del biotopo è brevemente spiegata.
+  Nonostante i controlli di plausibilità, non è possibile fornire alcuna garanzia per la completezza o l'accuratezza dei dati.Per l'attuazione della protezione legale del biotopo, lo stato effettivo di un biotopo in natura è sempre decisivo.
+  Servizi di carta WMS:I set di dati alla base di questi dati sono derivati da una modellazione che porta a una mappatura completa di un livello senza sovrapposizione.
+A tal fine sono stati utilizzati i dati della banca dati totale del catasto del biotopo di Amburgo, che riproduce completamente gli anni dal 2005 al 12/2018.
+Qui, ci possono essere deviazioni nelle indicazioni di dimensione rispetto a quelle contenute nel foglio di indagine. I dati sulle dimensioni contenuti nelle schede di indagine sono decisivi. Per il servizio di carta WMS c'è un file GML secondo il servizio di carta WMS.
+
+
+Area di download:
+
+Inoltre, viene messo a disposizione un file GML con una tabella degli attributi estesa e tutte le annate (pinzate, nell'area di download, link sopra) contenente i dati geografici dei biotopi e i loro dati descrittivi essenziali, ad eccezione degli elenchi delle specie vegetali dei singoli biotopi.
+I file GML possono essere integrati nei sistemi informativi geografici (GIS).
+Le istruzioni sono reperibili nell'area download del portale trasparenza per il catasto del biotopo Amburgo (Link:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+
+Tutte le informazioni su un biotopo possono essere trovate nel corrispondente foglio di indagine, che è anche fornito come file zip nell'area di download del portale trasparenza.
+I fogli sono assegnati ai biotopi tramite il DK5, il biotopo n. e la data di mappatura (es. 6620_317_080716.pdf).</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Údaje a mapy o stanovištích rostlin a živočichů se zvláštním ohledem na právně chráněné biotopy, které již nejsou uvedeny samostatně. Prezentace byla změněna tak, aby byl rozdíl vidět na první pohled.
+Základem pro sběr údajů o biotopech/obydlech Hamburku jsou „pokyny pro vozík a klíče typu biotope pro mapování biotopů Hamburg“ a „Biotope Assessment for Biotope mapping Hamburg“.
+Obojí lze nalézt jako soubor ke stažení ve formátu PDF na adrese https://www.hamburg.de/details-der-biotopkartierung/. Zde je také stručně vysvětleno mapování biotopů.
+
+Navzdory kontrolám věrohodnosti nelze poskytnout žádnou záruku úplnosti nebo přesnosti údajů. Pro zavedení zákonné ochrany biotopů je vždy rozhodující skutečný stav biotopu v přírodě.
+
+Služby karty WMS: Datové sady, které jsou základem těchto dat, jsou odvozeny z modelování, které vede k komplexnímu mapování vrstvy bez překrytí. Za tímto účelem byly použity údaje z celkové databáze biotopového katastru Hamburku, který zcela reprodukuje roky 2005 až 12/2018. Zde mohou být odchylky v indikacích velikosti ve srovnání s těmi, které jsou uvedeny v listu zjišťování. Údaje o velikosti v přehledech průzkumů jsou rozhodující. Ke službě WMS karty je GML soubor podle služby WMS karty.
+
+Oblast ke stažení:
+Kromě toho je k dispozici soubor GML s rozšířenou tabulkou atributů a všechny ročníky (viz výše uvedené odkazy) obsahující zeměpisné údaje biotopů a jejich základní popisné údaje, s výjimkou seznamů druhů rostlin jednotlivých biotopů. GML soubory lze integrovat do geografických informačních systémů (GIS). Pokyny k tomu lze nalézt v oblasti stahování portálu transparentnosti pro biotop katastr Hamburg (Odkaz: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true.
+
+Veškeré informace o biotopu naleznete v příslušném přehledu průzkumu, který je také poskytován jako zip soubor v oblasti stahování portálu transparentnosti. Listy jsou přiřazeny biotopům prostřednictvím DK5, biotopu č. a data mapování (např. 6620_317_080716.pdf).</dct:description>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/transparenzportalHamburg"/>
+        <dct:title xml:lang="es-t-de-t0-mtec">Catastro de biotopos Hamburgo</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Biotopa kadastra Hamburga</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Biótopo cadastre Hamburgo</dct:title>
+        <dcat:keyword>pflanzen</dcat:keyword>
+        <dct:temporal>
+          <dct:PeriodOfTime>
+            <schema:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >1979-01-01T00:00:00</schema:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Дані та карти місць проживання рослин і тварин з особливою увагою до захищених законом біотопів, які більше не перераховані окремо. Презентація була змінена так, щоб різницю можна було побачити з першого погляду.  Основою для збору даних біотопів/звич Гамбурга є «інструкція з кошика та ключі типу біотопу для картування біотопу Гамбурга», а також «Оцінка біотопу для картування біотопу Гамбурга».
+Обидва можна знайти як файл завантаження у форматі PDF за адресою https://www.hamburg.de/details-der-biotopkartierung/. Тут також коротко пояснено мапування біотопів.
+
+
+Незважаючи на перевірку правдоподібності, жодна гарантія не може бути надана на повноту або точність даних.
+Для здійснення законодавчого захисту біотопів, фактичний стан біотопу в природі завжди є вирішальним.
+
+
+Послуги WMS-картки:
+Набори даних, що лежать в основі цих даних, отримані з моделювання, яке призводить до комплексного відображення шару без накладання.
+Для цього були використані дані з загальної бази даних біотопного кадастру Гамбурга, які повністю відтворюють 2005-12/2018 роки.
+Тут можуть бути відхилення в показаннях розміру в порівнянні з тими, що знаходяться в оглядовому аркуші.
+Дані про розмір в оглядових листах є вирішальними.
+Для служби картки WMS є файл GML згідно з картковим сервісом WMS.
+
+
+Область завантаження:
+
+Крім того, GML-файл з розширеною таблицею атрибутів і всі вінтажі стають доступними (zipped, в області завантаження, посилання вище), що містить географічні дані біотопів і їх основні описові дані, за винятком списків видів рослин окремих біотопів.
+GML-файли можуть бути інтегровані в геоінформаційні системи (ГІС).
+Інструкції щодо цього можна знайти в області завантаження порталу прозорості для кадастру біотопу Гамбурга (Посилання:
+Категорія:Особисті.
+
+
+Всю інформацію про біотоп можна знайти у відповідному оглядовому аркуші, який також надається у вигляді zip-файлу в області завантаження порталу прозорості.
+Аркуші присвоюються біотопам через DK5, biotope no. і дати відображення (наприклад, 6620_317_080716.pdf).</dct:description>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Biotope cadastre Hamburg</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Biotope cadastre Hamburg</dct:title>
+        <dcat:keyword>tiere</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Cadastrul biotopului Hamburg</dct:title>
+        <dcat:keyword>inspireidentifiziert</dcat:keyword>
+        <dcat:keyword>habitat</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/29c50b29-3c7a-41f7-8b29-c05bddaf8b9b">
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Biotopkataster_umfangreich_HH_2017-08-23.zip"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:format>GML</dct:format>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >49111561</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/8826d3dc-43a8-421b-ae8b-710fa24d9b5c</dct:identifier>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >49111561</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:title>Datendownload Biotopkataster - Jahrgänge 1979 bis 12/2015, 2017-08 (GML)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Podaci i karte o staništima biljaka i životinja s posebnim osvrtom na zakonski zaštićene biotope koji se više ne navode odvojeno. Prezentacija je promijenjena tako da se razlika može vidjeti na prvi pogled.
+Temelj za prikupljanje podataka biotopa/staništa Hamburga su „upute za košaricu i tip tipki biotopa za mapiranje biotopa Hamburg”, kao i „Biotope Assessment for Biotope mapping Hamburg”.
+Oba se mogu naći kao datoteka za preuzimanje u PDF formatu na https://www.hamburg.de/details-der-biotopkartierung/. Ovdje je ukratko objašnjeno i mapiranje biotopa.
+
+Unatoč provjerama vjerodostojnosti, ne može se dati jamstvo za potpunost ili točnost podataka. Za provedbu zakonske zaštite biotopa uvijek je odlučujuće stvarno stanje biotopa u prirodi.
+
+Usluge WMS kartica: Skupovi podataka na kojima se temelje ti podaci izvedeni su iz modeliranja koje dovodi do sveobuhvatnog mapiranja sloja bez preklapanja. U tu su svrhu upotrijebljeni podaci iz ukupne baze podataka katastra biotopa Hamburg, koji u potpunosti reproducira godine od 2005. do 12/2018. Ovdje mogu postojati odstupanja u indikacijama veličine u usporedbi s onima u anketi. Podaci o veličini u anketnim listovima su odlučujući. Na WMS kartičnu uslugu postoji GML datoteka prema WMS kartičnoj usluzi.
+
+Područje preuzimanja:
+Osim toga, na raspolaganje je stavljena GML datoteka s proširenom tablicom atributa i sve vintages (u području preuzimanja prethodno navedena poveznica) koja sadržava zemljopisne podatke biotopa i njihove bitne opisne podatke, osim popisa biljnih vrsta pojedinačnih biotopa. GML datoteke mogu se integrirati u geografske informacijske sustave (GIS). Upute za to nalaze se u području preuzimanja portala za transparentnost biotopova u Hamburgu (poveznica: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true.
+
+Sve informacije o biotopu možete pronaći u odgovarajućem anketnom listu, koji je također dostupan kao zip datoteka u području preuzimanja portala za transparentnost. Listovi se dodjeljuju biotopima putem DK5, broj biotopa i datum mapiranja (npr. 6620_317_080716.pdf).</dct:description>
+        <dct:description xml:lang="da-t-de-t0-mtec">Data og kort over levesteder for planter og dyr, navnlig med hensyn til de juridisk beskyttede biotoper, som ikke længere er opført separat. Præsentationen er blevet ændret, så forskellen kan ses på et øjeblik.
+Grundlaget for dataindsamlingen af ​​biotoper/liv i Hamborg er "cart instruktioner og biotop type nøgler til biotop kortlægning Hamburg" samt "Biotope Assessment for Biotope mapping Hamburg".
+Begge kan findes som en download-fil i PDF-format på https://www.hamburg.de/details-der-biotopkartierung/. Her forklares biotopkortlægningen også kort.
+
+Trods plausibilitetskontrol kan der ikke gives nogen garanti for, at dataene er fuldstændige eller nøjagtige. For gennemførelsen af den lovpligtige biotopbeskyttelse er den faktiske tilstand af en biotop i naturen altid afgørende.
+
+WMS-korttjenester: De datasæt, der ligger til grund for disse data, er afledt af en modellering, der fører til en omfattende kortlægning af et overlay-frit lag. Til dette formål blev dataene fra den samlede database for biotopkadastre Hamburg, som gengiver årene 2005 til 12/2018 fuldstændigt), blevet anvendt. Her kan der være afvigelser i størrelsesangivelserne sammenlignet med dem i undersøgelsesarket. Størrelsesdataene i undersøgelsesarkene er afgørende. Til WMS-korttjenesten er der en GML-fil i henhold til WMS-korttjenesten.
+
+Download område:
+Desuden stilles en GML-fil med en udvidet attributtabel og alle årgange til rådighed (i downloadområdet, linket ovenfor), der indeholder de geografiske data for biotoperne og deres væsentlige beskrivende data, bortset fra planteartslisterne for de enkelte biotoper. GML-filerne kan integreres i geografiske informationssystemer (GIS). Vejledningen til dette kan findes i downloadområdet på gennemsigtighedsportalen for biotop cadastre Hamburg (Link: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Alle oplysninger om en biotop kan findes i det tilsvarende undersøgelsesark, som også leveres som en zip-fil i downloadområdet på gennemsigtighedsportalen. Arkene tildeles biotoperne via DK5, biotopnr. og kortlægningsdato (f.eks. 6620_317_080716.pdf).</dct:description>
+        <foaf:page rdf:resource="http://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg13"/>
+        <owl:versionInfo>24.0</owl:versionInfo>
+        <dct:provenance>Der Datensatz wurde geharvestet. Ursprung: Metaverbund Katalog</dct:provenance>
+        <dcat:keyword>ffh-lebensraumtyp</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-12T00:00:00</dct:modified>
+        <dct:title xml:lang="it-t-de-t0-mtec">Catasto biotopo Amburgo</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Biotóp kataszter Hamburg</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Biotope katastar Hamburg</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:keyword>biotoptyp</dcat:keyword>
+        <dct:description xml:lang="es-t-de-t0-mtec">Datos y mapas sobre hábitats de plantas y animales, especialmente en relación con los biotopos legalmente protegidos, que ya no se enumeran por separado. La presentación se ha cambiado para que la diferencia se pueda ver de un vistazo.  La base para la recopilación de datos de los biotopos/hábitos de Hamburgo son las «instrucciones de carro y las claves de tipo biotopo para el mapeo de biotopos de Hamburgo», así como la «Evaluación del biotopo para el mapeo de biotopos en Hamburgo».
+Ambos se pueden encontrar como un archivo de descarga en formato PDF en https://www.hamburg.de/details-der-biotopkartierung/.Aquí, el mapeo de biotopos también se explica brevemente.
+
+A pesar de los controles de verosimilitud, no se puede garantizar la integridad o exactitud de los datos.Para la aplicación de la protección legal del biotopo, el estado real de un biotopo en la naturaleza es siempre decisivo.
+  Servicios de tarjetas WMS:Los conjuntos de datos subyacentes a estos datos se derivan de un modelado que conduce a un mapeo completo de una capa sin superposición.
+Para ello, se utilizaron los datos de la base de datos total del catastro de biotopos de Hamburgo, que reproduce completamente los años 2005 a 12/2018.
+Aquí, puede haber desviaciones en las indicaciones de tamaño en comparación con las de la hoja de encuesta.Los datos de tamaño de las fichas de encuesta son decisivos.
+Para el servicio de tarjetas WMS hay un archivo GML según el servicio de tarjeta WMS.
+  Área de descarga:
+Además, se pone a disposición un archivo GML con una tabla de atributos ampliado y todas las cosechas (zipped, en la zona de descarga, enlace anterior) que contiene los datos geográficos de los biotopos y sus datos descriptivos esenciales, excepto las listas de especies vegetales de los biotopos individuales.
+Los archivos GML se pueden integrar en los sistemas de información geográfica (SIG).Las instrucciones para ello se pueden encontrar en el área de descarga del portal de transparencia para el catastro de biotopos de Hamburgo (Enlace:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+  Toda la información sobre un biotopo se puede encontrar en la hoja de encuesta correspondiente, que también se proporciona como archivo zip en el área de descarga del portal de transparencia. Las hojas se asignan a los biotopos a través del DK5, el biotopo n.º y la fecha de mapeo (por ejemplo, 6620_317_080716.pdf). Datos y mapas sobre hábitats de plantas y animales, especialmente en relación con los biotopos legalmente protegidos, que ya no se enumeran por separado. La presentación se ha cambiado para que la diferencia se pueda ver de un vistazo.  La base para la recopilación de datos de los biotopos/hábitos de Hamburgo son las «instrucciones de carro y las claves de tipo biotopo para el mapeo de biotopos de Hamburgo», así como la «Evaluación del biotopo para el mapeo de biotopos en Hamburgo».  Ambos se pueden encontrar como un archivo de descarga en formato PDF en https://www.hamburg.de/details-der-biotopkartierung/.Aquí, el mapeo de biotopos también se explica brevemente.
+
+ A pesar de los controles de verosimilitud, no se puede garantizar la integridad o exactitud de los datos.Para la aplicación de la protección legal del biotopo, el estado real de un biotopo en la naturaleza es siempre decisivo.
+
+Servicios de tarjetas WMS:
+Los conjuntos de datos subyacentes a estos datos se derivan de un modelado que conduce a un mapeo completo de una capa sin superposición. Para ello, se utilizaron los datos de la base de datos total del catastro de biotopos de Hamburgo, que reproduce completamente los años 2005 a 12/2018. Aquí, puede haber desviaciones en las indicaciones de tamaño en comparación con las de la hoja de encuesta.Los datos de tamaño de las fichas de encuesta son decisivos.
+Para el servicio de tarjetas WMS hay un archivo GML según el servicio de tarjeta WMS.  Área de descarga:
+
+Además, se pone a disposición un archivo GML con una tabla de atributos ampliado y todas las cosechas (zipped, en la zona de descarga, enlace anterior) que contiene los datos geográficos de los biotopos y sus datos descriptivos esenciales, excepto las listas de especies vegetales de los biotopos individuales. Los archivos GML se pueden integrar en los sistemas de información geográfica (SIG). Las instrucciones para ello se pueden encontrar en el área de descarga del portal de transparencia para el catastro de biotopos de Hamburgo (Enlace:https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+ Toda la información sobre un biotopo se puede encontrar en la hoja de encuesta correspondiente, que también se proporciona como archivo zip en el área de descarga del portal de transparencia.
+Las hojas se asignan a los biotopos a través del DK5, el biotopo n.º y la fecha de mapeo (por ejemplo, 6620_317_080716.pdf).</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Biotoopide katastre Hamburg</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Podatke in zemljevide o habitatih rastlin in živali s posebnim poudarkom na zakonsko zaščitenih biotopih, ki niso več navedeni ločeno. Predstavitev je bila spremenjena, tako da je razliko mogoče videti na prvi pogled.  Podlaga za zbiranje podatkov o biotopih/nastankih Hamburga so „navodila za vozičke in tipke za biotope za kartiranje biotopov Hamburg“ ter „Ocena biotopov za kartiranje biotopov Hamburg“.
+Oba sta na voljo kot datoteka za prenos v formatu PDF na naslovu https://www.hamburg.de/details-der-biotopkartierung/.Tukaj je na kratko razloženo tudi kartiranje biotopov.
+
+Kljub preverjanju verodostojnosti ni mogoče dati nobenega jamstva za popolnost ali točnost podatkov.Za izvajanje zakonske zaščite biotopov je dejansko stanje biotopa v naravi vedno odločilno.
+  Storitve kartic WMS:Podatkovni nizi, na katerih temeljijo ti podatki, izhajajo iz modeliranja, ki vodi do celovitega preslikave brezplastne plasti.
+V ta namen so bili uporabljeni podatki iz skupne podatkovne zbirke biotopskega katastra Hamburg, ki v celoti povzema leta od 2005 do 12/2018.
+Tukaj lahko pride do odstopanj v indikacijah velikosti v primerjavi s tistimi na listu za raziskovanje.Podatki o velikosti v anketnih listih so odločilni.
+Za storitev kartice WMS je GML datoteka v skladu s storitvijo WMS kartice.
+  Območje za prenos:
+Poleg tega je na voljo datoteka GML z razširjeno tabelo atributov in vsemi letniki (na zgornjem območju prenosa), ki vsebuje geografske podatke o biotopih in njihove bistvene opisne podatke, razen za sezname rastlinskih vrst posameznih biotopov.
+Datoteke GML se lahko integrirajo v geografske informacijske sisteme (GIS).Navodila za to so na voljo na področju prenosa portala za preglednost biotopskega katastra Hamburg (povezava:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+  Vse informacije o biotopu lahko najdete v ustreznem anketnem listu, ki je na voljo tudi kot zip datoteka na področju prenosa portala za preglednost. Listi so dodeljeni biotopom prek DK5, biotopa št. in datuma kartiranja (npr. 6620_317_080716.pdf). Podatke in zemljevide o habitatih rastlin in živali s posebnim poudarkom na zakonsko zaščitenih biotopih, ki niso več navedeni ločeno. Predstavitev je bila spremenjena, tako da je razliko mogoče videti na prvi pogled.  Podlaga za zbiranje podatkov o biotopih/nastankih Hamburga so „navodila za vozičke in tipke za biotope za kartiranje biotopov Hamburg“ ter „Ocena biotopov za kartiranje biotopov Hamburg“.  Oba sta na voljo kot datoteka za prenos v formatu PDF na naslovu https://www.hamburg.de/details-der-biotopkartierung/.Tukaj je na kratko razloženo tudi kartiranje biotopov.
+
+ Kljub preverjanju verodostojnosti ni mogoče dati nobenega jamstva za popolnost ali točnost podatkov.Za izvajanje zakonske zaščite biotopov je dejansko stanje biotopa v naravi vedno odločilno.
+
+Storitve kartic WMS:
+Podatkovni nizi, na katerih temeljijo ti podatki, izhajajo iz modeliranja, ki vodi do celovitega preslikave brezplastne plasti. V ta namen so bili uporabljeni podatki iz skupne podatkovne zbirke biotopskega katastra Hamburg, ki v celoti povzema leta od 2005 do 12/2018. Tukaj lahko pride do odstopanj v indikacijah velikosti v primerjavi s tistimi na listu za raziskovanje.Podatki o velikosti v anketnih listih so odločilni.
+Za storitev kartice WMS je GML datoteka v skladu s storitvijo WMS kartice.  Območje za prenos:
+
+Poleg tega je na voljo datoteka GML z razširjeno tabelo atributov in vsemi letniki (na zgornjem območju prenosa), ki vsebuje geografske podatke o biotopih in njihove bistvene opisne podatke, razen za sezname rastlinskih vrst posameznih biotopov. Datoteke GML se lahko integrirajo v geografske informacijske sisteme (GIS). Navodila za to so na voljo na področju prenosa portala za preglednost biotopskega katastra Hamburg (povezava:https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+ Vse informacije o biotopu lahko najdete v ustreznem anketnem listu, ki je na voljo tudi kot zip datoteka na področju prenosa portala za preglednost.
+Listi so dodeljeni biotopom prek DK5, biotopa št. in datuma kartiranja (npr. 6620_317_080716.pdf).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ff743982-1d06-43d9-8487-1fe38654d5f5">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/401132ad-a9fb-4aae-b38b-2781dd551f7f</dct:identifier>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >59959583</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Biotopkataster_umfangreich_HH_2020-05-25.zip"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >59959583</dcat:byteSize>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:format>GML</dct:format>
+            <dct:title>Datendownload Biotopkataster - Jahrgänge 1979 bis 07/2018, 2020-05 (GML)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title>Biotopkataster Hamburg</dct:title>
+        <dcatapde:legalBasis>Hamburgisches Transparenzgesetz (HmbTG). URL: http://transparenz.hamburg.de/das-hmbtg/ Gesetzestext: http://transparenz.hamburg.de/contentblob/4318588/c8600b2b27ea31a5de6a92dacc138894/data/gesetzestext-hmbtg.pdf</dcatapde:legalBasis>
+        <dcat:keyword>lebensräume-und-biotope</dcat:keyword>
+        <dcat:keyword>umweltdaten</dcat:keyword>
+        <dcat:keyword>gesetzlich-geschützter-biotop</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Biotopový kataster Hamburg</dct:title>
+        <dcat:landingPage rdf:resource="http://www.hamburg.de/fhh-permalink/549270"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a2cba5c8-dde8-43c9-a603-9083ddc664f3">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dct:title>Metadatenbeschreibung aus dem MetaVer</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dcat:accessURL rdf:resource="https://metaver.de/trefferanzeige?docuuid=D7B5CCBB-1F03-4482-AB59-26F2F7972547"/>
+            <dct:format>HTML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >71c07a4a5c4a386b49f5b80657cecc7a84d7dba8f20ee5e16551c4e681db8d63</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >156735</dcat:byteSize>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/f076d5f2-90c9-4caf-b3c0-fafa90095342</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/117ecfba-c747-4343-a723-848ea7d3adb9">
+            <dcat:accessURL rdf:resource="https://api.hamburg.de/datasets/v1/biotopkataster"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >0</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title>OGC API - Features (OAF) Landing Page</dct:title>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/47dadba8-ab49-4ba0-a1a0-2c9ae65f061f</dct:identifier>
+            <dct:format>OAF</dct:format>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Биотопен кадастър Хамбург</dct:title>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/020000000000"/>
+        <dct:accessRights rdf:resource="https://www.govdata.de/dl-de/by-2-0"/>
+        <dct:title xml:lang="da-t-de-t0-mtec">Biotop cadastre Hamburg</dct:title>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Date și hărți privind habitatele plantelor și animalelor, în special în ceea ce privește biotopurile protejate legal, care nu mai sunt enumerate separat. Prezentarea a fost schimbată astfel încât diferența să poată fi văzută dintr-o privire.  Baza pentru colectarea de date a biotopurilor/obiectivelor din Hamburg este „instrucțiunile de cart și cheile de tip biotop pentru cartografierea biotopului Hamburg”, precum și „Evaluarea biotopilor pentru cartografierea biotopului Hamburg”.
+Ambele pot fi găsite ca fișier de descărcare în format PDF la https://www.hamburg.de/details-der-biotopkartierung/.Aici, cartografierea biotopului este, de asemenea, explicată pe scurt.
+
+În ciuda verificărilor plauzibilității, nu se poate oferi nicio garanție pentru exhaustivitatea sau acuratețea datelor.Pentru punerea în aplicare a protecției legale a biotopului, starea reală a unui biotop în natură este întotdeauna decisivă.
+  Servicii de carduri WMS:Seturile de date care stau la baza acestor date sunt derivate dintr-o modelare care duce la o cartografiere cuprinzătoare a unui strat fără suprapunere.
+În acest scop, au fost utilizate datele din baza de date totală a cadastrului biotopului Hamburg, care reproduce complet anii 2005-12/2018).
+În acest caz, pot exista abateri în ceea ce privește indicațiile privind dimensiunea în comparație cu cele din fișa de anchetă.Datele privind dimensiunea din fișele de anchetă sunt decisive.
+La serviciul de carduri WMS există un fișier GML în conformitate cu serviciul de carduri WMS.
+  Zona de descărcare:
+În plus, se pune la dispoziție un fișier GML cu un tabel cu atribute extinse și toate recoltele (cu fermoar, în zona de descărcare, linkul de mai sus) care conține datele geografice ale biotopurilor și datele descriptive esențiale ale acestora, cu excepția listelor speciilor de plante ale biotopurilor individuale.
+Fișierele GML pot fi integrate în sistemele de informații geografice (GIS).Instrucțiunile în acest sens pot fi găsite în zona de descărcare a portalului de transparență pentru cadastrul biotopului Hamburg (Link:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+  Toate informațiile despre un biotop pot fi găsite în fișa de anchetă corespunzătoare, care este, de asemenea, furnizată ca fișier zip în zona de descărcare a portalului de transparență. Foile sunt atribuite biotopurilor prin DK5, biotopul nr. și data cartografierii (de exemplu, 6620_317_080716.pdf). Date și hărți privind habitatele plantelor și animalelor, în special în ceea ce privește biotopurile protejate legal, care nu mai sunt enumerate separat. Prezentarea a fost schimbată astfel încât diferența să poată fi văzută dintr-o privire.  Baza pentru colectarea de date a biotopurilor/obiectivelor din Hamburg este „instrucțiunile de cart și cheile de tip biotop pentru cartografierea biotopului Hamburg”, precum și „Evaluarea biotopilor pentru cartografierea biotopului Hamburg”.  Ambele pot fi găsite ca fișier de descărcare în format PDF la https://www.hamburg.de/details-der-biotopkartierung/.Aici, cartografierea biotopului este, de asemenea, explicată pe scurt.
+
+ În ciuda verificărilor plauzibilității, nu se poate oferi nicio garanție pentru exhaustivitatea sau acuratețea datelor.Pentru punerea în aplicare a protecției legale a biotopului, starea reală a unui biotop în natură este întotdeauna decisivă.
+
+Servicii de carduri WMS:
+Seturile de date care stau la baza acestor date sunt derivate dintr-o modelare care duce la o cartografiere cuprinzătoare a unui strat fără suprapunere. În acest scop, au fost utilizate datele din baza de date totală a cadastrului biotopului Hamburg, care reproduce complet anii 2005-12/2018). În acest caz, pot exista abateri în ceea ce privește indicațiile privind dimensiunea în comparație cu cele din fișa de anchetă.Datele privind dimensiunea din fișele de anchetă sunt decisive.
+La serviciul de carduri WMS există un fișier GML în conformitate cu serviciul de carduri WMS.  Zona de descărcare:
+
+În plus, se pune la dispoziție un fișier GML cu un tabel cu atribute extinse și toate recoltele (cu fermoar, în zona de descărcare, linkul de mai sus) care conține datele geografice ale biotopurilor și datele descriptive esențiale ale acestora, cu excepția listelor speciilor de plante ale biotopurilor individuale. Fișierele GML pot fi integrate în sistemele de informații geografice (GIS). Instrucțiunile în acest sens pot fi găsite în zona de descărcare a portalului de transparență pentru cadastrul biotopului Hamburg (Link:https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+ Toate informațiile despre un biotop pot fi găsite în fișa de anchetă corespunzătoare, care este, de asemenea, furnizată ca fișier zip în zona de descărcare a portalului de transparență.
+Foile sunt atribuite biotopurilor prin DK5, biotopul nr. și data cartografierii (de exemplu, 6620_317_080716.pdf).</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Des données et des cartes sur les habitats des plantes et des animaux, en accordant une attention particulière aux biotopes protégés par la loi, qui ne sont plus mentionnés séparément. La représentation a été modifiée de manière à ce que la différence soit visible en un coup d’œil.
+La collecte des données des biotopes/habitats de Hambourg repose sur les «instructions cartier et clés de type biotope pour la cartographie des biotopes de Hambourg» ainsi que sur l’«évaluation des biotopes pour la cartographie biotopique de Hambourg».
+Tous les deux peuvent être téléchargés au format PDF à l’adresse https://www.hamburg.de/details-der-biotopkartierung/. La cartographie du biotope est également brièvement expliquée ici.
+
+Malgré les contrôles de plausibilité, aucune garantie ne peut être donnée quant à l’exhaustivité ou à l’exactitude des données. L’état réel d’un biotope dans la nature est toujours déterminant pour la mise en œuvre de la protection légale des biotopes.
+
+Services de carte WMS: Les ensembles de données sous-jacents à ces données sont dérivés d’une modélisation qui donne lieu à une représentation globale d’un niveau sans superposition. Pour ce faire, les données de la base de données globale du cadastre des biotopes de Hambourg, qui reproduisent intégralement les millésimes 2005 à 12/2018, ont été utilisées. Il peut y avoir des divergences entre les indications de taille et celles figurant dans la fiche d’enquête. Les données de taille figurant dans les fiches d’enquête sont déterminantes. Pour le service de carte WMS, il y a un fichier GML correspondant au service de carte WMS.
+
+Zone de téléchargement:
+En outre, un fichier GML contenant une table d’attributs étendue et tous les millésimes est mis à disposition (zippé, dans la zone de téléchargement, lien ci-dessus) contenant les données géographiques des biotopes ainsi que leurs principales données descriptives, à l’exception des listes d’espèces végétales pour chaque biotope. Les fichiers GML peuvent être intégrés dans les systèmes d’information géographique (SIG). Les instructions se trouvent dans la section de téléchargement du portail Transparence sur le cadastre biotope de Hambourg (lien: https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+Toutes les informations relatives à un biotope peuvent être extraites du formulaire d’enquête correspondant, qui est également disponible sous forme de fichier zip dans la zone de téléchargement du portail Transparence. Les feuilles sont attribuées aux biotopes par le DK5, le numéro de biotope et la date de cartier (par exemple 6620_317_080716.pdf).</dct:description>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Biotopų kadastras Hamburgas</dct:title>
+        <dcat:keyword>höhere-pflanzen</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Schulze, Dennis, Herr</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Duomenys ir žemėlapiai apie augalų ir gyvūnų buveines, ypač atsižvelgiant į teisiškai saugomus biotopus, kurie nebėra atskirai išvardyti. Pristatymas buvo pakeistas, kad skirtumas būtų matomas iš pirmo žvilgsnio.
+Hamburgo biotopų ir (arba) buveinių duomenų rinkimo pagrindas yra „Hamburgo biotopų kartografavimo instrukcijos ir biotopų tipo raktai“, taip pat „Biotope Assessment for Biotope mapping Hamburg“.  Abu dokumentus galima rasti kaip atsisiuntimo failą PDF formatu adresu https://www.hamburg.de/details-der-biotopkartierung/.Čia taip pat trumpai paaiškinamas biotopo kartografavimas.
+ 
+Nepaisant patikimumo patikrinimų, negalima garantuoti duomenų išsamumo ar tikslumo.
+Įgyvendinant teisės aktais nustatytą biotopų apsaugą, tikroji biotopo būsena savo pobūdžiu visada yra lemiama.
+
+
+WMS kortelių paslaugos:
+Duomenų rinkiniai, kuriais grindžiami šie duomenys, gaunami pagal modeliavimą, pagal kurį sudaromas išsamus perdangos neturinčio sluoksnio kartografavimas.
+Šiuo tikslu buvo naudojami visos Hamburgo biotopo kadastro duomenų bazės duomenys, kuriuose visiškai atkuriami 2005–12/2018 m. duomenys.
+Čia gali būti nukrypimų nuo dydžio indikacijų, palyginti su tyrimo lape nurodytomis indikacijomis.
+Tyrimo lapuose pateikti dydžio duomenys yra lemiami.
+Į WMS kortelės paslaugą yra GML failas pagal WMS kortelės paslaugą.
+
+
+Parsisiųsdinimo sritis:
+
+Be to, pateikiama GML rinkmena su išplėstine atributų lentele ir visi vintages (užtraukta, atsisiuntimo srityje, nuoroda aukščiau), kurioje pateikiami biotopų geografiniai duomenys ir jų esminiai aprašomieji duomenys, išskyrus atskirų biotopų augalų rūšių sąrašus.
+GML failus galima integruoti į geografines informacines sistemas (GIS).
+Instrukcijas galima rasti Hamburgo biotopo kadastro skaidrumo portalo atsisiuntimo srityje (nuoroda:
+https://suche.transparenz.hamburg.de/dataset/biotopkataster-hamburg7?forceWeb=true).
+
+
+Visą informaciją apie biotopą galima rasti atitinkamame tyrimo lape, kuris taip pat pateikiamas kaip zip failas skaidrumo portalo atsisiuntimo srityje.
+Lapai biotopams priskiriami DK5, biotopo Nr. ir kartografavimo data (pvz., 6620_317_080716.pdf).</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Данни и карти на местообитанията на растенията и животните, по-специално по отношение на законно защитените биотопи, които вече не са изброени отделно. Презентацията е променена, така че разликата може да се види с един поглед. Основата за събирането на данни за биотопите/населенията на Хамбург са „инструкциите на количката и ключовете от типа биотоп за картографиране на биотопа в Хамбург„, както и „Биотопна оценка за биотопа за картографиране на биотопи в Хамбург“.
+ И двете могат да бъдат намерени като файл за изтегляне в PDF формат на https://www.hamburg.de/details-der-biotopkartierung/. Тук картографирането на биотопа също е обяснено накратко. 
+Въпреки проверките за достоверност, не може да се даде гаранция за пълнотата или точността на данните. За прилагането на законоустановената защита на биотопа действителното състояние на биотопа в природата винаги е от решаващо значение. 
+WMS картови услуги: Наборите от данни, на които се основават тези данни, са получени от моделиране, което води до цялостно картографиране на слой без наслагване. За тази цел са използвани данните от общата база данни на биотопния кадастър Хамбург, които възпроизвеждат изцяло годините от 2005 г. до 12/2018 г.).Тук може да има отклонения в индикациите за размер в сравнение с тези в листовката за изследване.
+Данните за размера в таблиците за проучване са от решаващо значение.
+Към услугата WMS карта има GML файл според услугата WMS карта.   Област за изтегляне:
+Освен това се предоставя GML файл с разширена таблица на атрибутите и всички реколти (ципиран, в зоната за изтегляне, връзката по-горе), съдържащ географските данни на биотопите и техните основни описателни данни, с изключение на списъците на растителните видове на отделните биотопи.
+GML файловете могат да бъдат интегрирани в географските информационни системи (ГИС).Инструкциите за това могат да бъдат намерени в областта за изтегляне на портала за прозрачност за биотопа кадастър Хамбург (Link:
+категория:Автомобили).  
+Цялата информация за биотопа може да бъде намерена в съответния лист за проучване, който също се предоставя като zip файл в областта за изтегляне на портала за прозрачност.
+Листовете се приписват на биотопите чрез DK5, биотопа № и датата на картографиране (напр. 6620_317_080716.pdf).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4fd5dc82-0197-4647-b92d-e521d0c8cc6d">
+            <dct:title>Datendownload Biotopkataster - Jahrgänge 1979 bis 12/2018, 2021-02 (GML)</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/dl-by-de/2.0"/>
+            <dcatapde:licenseAttributionByText>Freie und Hansestadt Hamburg, Behörde für Umwelt und Energie</dcatapde:licenseAttributionByText>
+            <dcat:accessURL rdf:resource="https://daten-hamburg.de/umwelt_klima/biotopkataster/Biotopkataster_umfangreich_HH_2021-02-24.zip"/>
+            <dct:identifier>http://suche.transparenz.hamburg.de/dataset/461274f9-07a3-4761-9254-2efea5c60d87/resource/b3c2729b-ab42-48dd-9e83-fa765fddf474</dct:identifier>
+            <dct:format>GML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-12T00:00:00</dct:modified>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/1.0/</dct:conformsTo>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >75576243</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >75576243</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Біотоп кадастр Гамбург</dct:title>
+        <dcat:keyword>paragraph-paragraph-30-komma-38-bnatschg-komma-paragraph-paragraph-13-komma-14-hmbbnatschag</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-12T00:00:00</dct:issued>
+        <dcat:keyword>richtlinie</dcat:keyword>
+        <dcatapde:originator>
+          <foaf:Organization>
+            <foaf:name>Behörde für Umwelt, Klima, Energie und Agrarwirtschaft (BUKEA)</foaf:name>
+          </foaf:Organization>
+        </dcatapde:originator>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/OTHER"/>
+        <dcat:keyword>farne</dcat:keyword>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Behörde für Umwelt, Klima, Energie und Agrarwirtschaft (BUKEA)</foaf:name>
+          </foaf:Organization>
+        </dct:creator>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/level/state"/>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Seirbhís do Chustaiméirí</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-22T23:49:19Z</dct:issued>
+    <dct:identifier>D7B5CCBB-1F03-4482-AB59-26F2F7972547</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>5d837b29c3eb73fb32c93ceefe4d7e75</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-13T23:47:19Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-13T23:47:19Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

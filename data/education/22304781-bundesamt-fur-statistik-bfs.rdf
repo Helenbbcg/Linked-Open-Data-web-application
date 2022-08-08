@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/22304781-bundesamt-fur-statistik-bfs">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>888ea98be5cefad6548d81fa89d0adfa</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>22304781@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:55Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:56:37Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/22304781-bundesamt-fur-statistik-bfs"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/22304781-bundesamt-fur-statistik-bfs">
+        <dct:language>it</dct:language>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Ammattikorkeakoulujen ja pedagogisten yliopistojen opiskelijat vuosittain, yliopistot, osastot, opintoaste ja sukupuoli</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-04-06T00:00:00</dct:issued>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Študenti na univerzitách aplikovaných vied a pedagogických univerzít podľa roka, univerzity, katedry, úrovne štúdia a pohlavia</dct:title>
+        <dct:identifier>22304781@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Studenți la universități de științe aplicate și universități pedagogice pe an, universitate, departament, nivel de studiu și gen</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Taikomųjų mokslų universitetų ir pedagoginių universitetų studentai pagal metus, universitetą, departamentą, studijų lygį ir lytį</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Estudiantes en universidades de ciencias aplicadas y universidades pedagógicas por año, universidad, departamento, nivel de estudio y género</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Студенти в университети по приложни науки и педагогически университети по година, университет, катедра, ниво на обучение и пол</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Опис змінних у файлі CSV доступний у додатку.</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+        <dct:title xml:lang="it">Studenti nelle alte scuole universitarie professionali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello di studio e sesso</dct:title>
+        <dct:description xml:lang="fr">Les descriptions des variables du fichier CSV sont disponibles dans l'annexe.</dct:description>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+        <dcat:keyword xml:lang="de">studierende-und-abschlusse-an-hochschulen</dcat:keyword>
+        <dct:description xml:lang="es-t-de-t0-mtec">Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-15.02.04.04_detail"/>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Studerande vid yrkeshögskolor och pedagogiska universitet efter år, universitet, institution, studienivå och kön</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Φοιτητές σε πανεπιστήμια εφαρμοσμένων επιστημών και παιδαγωγικών πανεπιστημίων ανά έτος, πανεπιστήμιο, τμήμα, επίπεδο σπουδών και φύλο</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Študenti na univerzah uporabnih znanosti in pedagoških univerz po letu, univerzi, oddelku, stopnji študija in spolu</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:description xml:lang="en">Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+        <dct:description xml:lang="nl-t-de-t0-mtec">De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Rakenduskõrgkoolide ja pedagoogiliste ülikoolide üliõpilased aasta, ülikooli, osakonna, õppetaseme ja soo järgi</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b1699f66-aa39-48a5-aafd-5ab601a24562">
+            <dct:description xml:lang="it">Per le descrizioni delle variabili del file CSV si rimanda all'allegato.</dct:description>
+            <dct:description xml:lang="fi-t-it-t0-mtec">CSV-tiedoston muuttujien kuvaukset ovat liitteessä.</dct:description>
+            <dct:description xml:lang="lv-t-it-t0-mtec">CSV datnes mainīgo lielumu aprakstu skatīt pielikumā.</dct:description>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Mic léinn i gcoláistí gairme ard agus scoileanna oideolaíocha ard in aghaidh na bliana, scoil ollscoile, réimse staidéir, leibhéal staidéir agus gnéas</dct:title>
+            <dct:description xml:lang="lt-t-it-t0-mtec">CSV rinkmenos kintamųjų aprašymus žr. priede.</dct:description>
+            <dct:title xml:lang="el-t-it-t0-mtec">Φοιτητές σε ανώτερα επαγγελματικά κολέγια και σχολές υψηλού παιδαγωγικού ανά έτος, πανεπιστημιακή σχολή, πεδίο σπουδών, επίπεδο σπουδών και σεξ</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Felsőfokú szakközépiskolák és magas pedagógiai iskolák hallgatói évente, egyetemi iskola, tanulmányi terület, tanulmányi szint és nem</dct:title>
+            <dct:description xml:lang="mt-t-it-t0-mtec">Għal deskrizzjonijiet tal-varjabbli tal-fajl CSV, jekk jogħġbok irreferi għall-anness.</dct:description>
+            <dct:title xml:lang="de-t-it-t0-mtec">Schüler in hohen Berufsschulen und hochpädagogischen Schulen pro Jahr, Universitätsschule, Studienfach, Studienniveau und Geschlecht</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="sk-t-it-t0-mtec">Opisy premenných súboru CSV sú uvedené v prílohe.</dct:description>
+            <dct:description xml:lang="el-t-it-t0-mtec">Για περιγραφές των μεταβλητών του αρχείου CSV, ανατρέξτε στο παράρτημα.</dct:description>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Studenten in hogescholen en hoge pedagogische scholen per jaar, universitaire school, vakgebied, opleidingsniveau en geslacht</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Aukštųjų profesinių kolegijų ir aukštųjų pedagoginių mokyklų studentai per metus, universitetinė mokykla, studijų sritis, studijų lygis ir lytis</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Studerende på gymnasier og højere læreanstalter pr. år, universitetsskole, studieretning, studieniveau og køn</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Studenti vysokých odborných škol a vysokých pedagogických škol ročně, vysokoškolské školy, studijního oboru, úrovně studia a pohlaví</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Студенти вищих професійно-технічних коледжів та вищих педагогічних шкіл на рік, університетської школи, галузі навчання, рівня навчання та сексу</dct:title>
+            <dct:description xml:lang="pt-t-it-t0-mtec">Para descrições das variáveis do ficheiro CSV, consultar o anexo.</dct:description>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Ammatillisten korkeakoulujen ja pedagogisten korkeakoulujen opiskelijat vuodessa, yliopistokoulu, opintoala, opintotaso ja sukupuoli</dct:title>
+            <dct:description xml:lang="de-t-it-t0-mtec">Beschreibungen der Variablen der CSV-Datei finden Sie im Anhang.</dct:description>
+            <dct:description xml:lang="pl-t-it-t0-mtec">Opisy zmiennych pliku CSV znajdują się w załączniku.</dct:description>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Elevii din colegii profesionale înalte și licee pedagogice pe an, școală universitară, domeniu de studiu, nivel de studiu și sex</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Studenti f’kulleġġi vokazzjonali għolja u skejjel pedagoġiċi għoljin kull sena, skola universitarja, qasam ta’ studju, livell ta’ studju u sess</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:issued>
+            <dct:description xml:lang="fr-t-it-t0-mtec">Pour la description des variables du fichier CSV, veuillez vous reporter à l’annexe.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/ts-x-15.02.04.04_detail"/>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Študenti visokih strokovnih šol in visokih pedagoških šol na leto, univerzitetne šole, študijskega področja, stopnje študija in spola</dct:title>
+            <dct:description xml:lang="da-t-it-t0-mtec">For beskrivelser af variablerne i CSV-filen henvises til bilaget.</dct:description>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Studerande vid yrkeshögskolor och gymnasieskolor per år, universitetsskola, ämnesområde, studienivå och kön</dct:title>
+            <dct:title xml:lang="it">Studenti nelle alte scuole universitarie professionali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello di studio e sesso</dct:title>
+            <dct:description xml:lang="nl-t-it-t0-mtec">Zie de bijlage voor beschrijvingen van de variabelen van het CSV-bestand.</dct:description>
+            <dct:description xml:lang="es-t-it-t0-mtec">Para obtener descripciones de las variables del archivo CSV, consulte el anexo.</dct:description>
+            <dct:description xml:lang="bg-t-it-t0-mtec">За описание на променливите в CSV файла, моля, вижте приложението.</dct:description>
+            <dct:description xml:lang="cs-t-it-t0-mtec">Popis proměnných v souboru CSV naleznete v příloze.</dct:description>
+            <dct:description xml:lang="sv-t-it-t0-mtec">Beskrivningar av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:description xml:lang="sl-t-it-t0-mtec">Opis spremenljivk v datoteki CSV je na voljo v prilogi.</dct:description>
+            <dct:title xml:lang="et-t-it-t0-mtec">Kõrgete kutsekoolide ja kõrgete pedagoogiliste koolide õpilased aastas, ülikoolikool, õppevaldkond, õppeaste ja sugu</dct:title>
+            <dct:description xml:lang="en-t-it-t0-mtec">For descriptions of the variables of the CSV file, please refer to the annex.</dct:description>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Študenti vysokých odborných škôl a vysokých pedagogických škôl ročne, univerzitná škola, študijný odbor, úroveň štúdia a pohlavie</dct:title>
+            <dct:description xml:lang="ga-t-it-t0-mtec">Chun cur síos a dhéanamh ar athróga an chomhaid CSV, féach ar an iarscríbhinn.</dct:description>
+            <dct:identifier>22304783-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Studenci wyższych szkół zawodowych i szkół pedagogicznych rocznie, szkoły uniwersyteckie, kierunek studiów, poziom studiów i płeć</dct:title>
+            <dct:description xml:lang="et-t-it-t0-mtec">CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:title xml:lang="en-t-it-t0-mtec">Students in high vocational colleges and high pedagogical schools per year, university school, field of study, level of study and sex</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Studenti visokih strukovnih škola i visokih pedagoških škola godišnje, sveučilišne škole, studijskog područja, razine studija i spola</dct:title>
+            <dct:description xml:lang="hr-t-it-t0-mtec">Opise varijabli CSV datoteke potražite u prilogu.</dct:description>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Étudiants dans les collèges professionnels de haut niveau et les écoles pédagogiques supérieures par an, école universitaire, domaine d’études, niveau d’études et sexe</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Estudiantes en escuelas superiores de formación profesional y escuelas pedagógicas superiores por año, escuela universitaria, campo de estudio, nivel de estudio y sexo</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Estudantes em faculdades profissionais e escolas pedagógicas por ano, escola universitária, campo de estudo, nível de estudo e sexo</dct:title>
+            <dct:description xml:lang="ro-t-it-t0-mtec">Pentru descrierile variabilelor din fișierul CSV, vă rugăm să consultați anexa.</dct:description>
+            <dct:description xml:lang="hu-t-it-t0-mtec">A CSV-fájl változóinak leírását lásd a mellékletben.</dct:description>
+            <dct:description xml:lang="uk-t-it-t0-mtec">Для опису змінних файлу CSV, будь ласка, зверніться до додатка.</dct:description>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Studenti augstākās profesionālās koledžās un augstākajās pedagoģiskajās skolās gadā, universitātes skolā, studiju jomā, studiju līmenī un seksā</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Студенти във висши професионални колежи и висши педагогически училища годишно, университетско училище, област на обучение, ниво на обучение и секс</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>en</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/08181383-2ff5-4b60-a075-2949337c8917">
+            <dct:identifier>22304783-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estudantes em universidades de ciências aplicadas e universidades pedagógicas por ano, universidade, departamento, nível de estudo e gênero</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Students at universities of applied sciences and pedagogical universities by year, university, department, level of study and gender</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Φοιτητές σε πανεπιστήμια εφαρμοσμένων επιστημών και παιδαγωγικών πανεπιστημίων ανά έτος, πανεπιστήμιο, τμήμα, επίπεδο σπουδών και φύλο</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Taikomųjų mokslų universitetų ir pedagoginių universitetų studentai pagal metus, universitetą, departamentą, studijų lygį ir lytį</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lietišķo zinātņu augstskolu un pedagoģisko universitāšu studenti pēc gada, universitātes, departamenta, studiju līmeņa un dzimuma</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Студенти в университети по приложни науки и педагогически университети по година, университет, катедра, ниво на обучение и пол</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Studenti vysokých škol aplikovaných věd a pedagogických univerzit podle roku, univerzity, katedry, úrovně studia a pohlaví</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">Les descriptions des variables dans le fichier CSV sont disponibles en annexe.</dct:description>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estudiantes en universidades de ciencias aplicadas y universidades pedagógicas por año, universidad, departamento, nivel de estudio y género</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mic léinn in ollscoileanna na n-eolaíochtaí feidhmeacha agus ollscoileanna oideolaíocha de réir bliana, ollscoil, roinn, leibhéal staidéir agus inscne</dct:title>
+            <dct:description xml:lang="da-t-de-t0-mtec">Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="it-t-de-t0-mtec">Studenti presso università di scienze applicate e università pedagogiche per anno, università, dipartimento, livello di studio e genere</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="et-t-de-t0-mtec">CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Studenci na uniwersytetach nauk stosowanych i uczelni pedagogicznych z roku na rok, uczelni, wydziału, poziomu studiów i płci</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Študenti na univerzitách aplikovaných vied a pedagogických univerzít podľa roka, univerzity, katedry, úrovne štúdia a pohlavia</dct:title>
+            <dct:description xml:lang="de">Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:title xml:lang="de">Studierende an den Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Studienstufe und Geschlecht</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:issued>
+            <dct:description xml:lang="en-t-de-t0-mtec">The descriptions of the variables in the CSV file are available in the appendix.</dct:description>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Étudiants des hautes écoles spécialisées et des établissements d’enseignement supérieur par année, université, domaine, niveau d’études et sexe</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Студенти університетів прикладних наук та педагогічних університетів за роком, університетом, кафедрою, рівнем навчання та гендеру</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">Le descrizioni delle variabili nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Studenti f’universitajiet ta’ xjenzi applikati u universitajiet pedagoġiċi skont is-sena, l-università, id-dipartiment, il-livell ta’ studju u s-sess</dct:title>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Študenti na univerzah uporabnih znanosti in pedagoških univerz po letu, univerzi, oddelku, stopnji študija in spolu</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Studerande vid yrkeshögskolor och pedagogiska universitet efter år, universitet, institution, studienivå och kön</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Studerende på universiteter i anvendt videnskab og pædagogiske universiteter efter år, universitet, afdeling, studieniveau og køn</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="pt-t-de-t0-mtec">As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az alkalmazott tudományok és a pedagógiai egyetemek egyetemeinek hallgatói év, egyetem, tanszék, tanulmányi szint és nem szerint</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Studenti na sveučilištima primijenjenih znanosti i pedagoškim sveučilištima po godini, sveučilištu, odjelu, razini studija i rodu</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ammattikorkeakoulujen ja pedagogisten yliopistojen opiskelijat vuosittain, yliopistot, osastot, opintoaste ja sukupuoli</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Studenți la universități de științe aplicate și universități pedagogice pe an, universitate, departament, nivel de studiu și gen</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Studenten aan hogescholen en pedagogische universiteiten per jaar, universiteit, afdeling, studieniveau en geslacht</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Rakenduskõrgkoolide ja pedagoogiliste ülikoolide üliõpilased aasta, ülikooli, osakonna, õppetaseme ja soo järgi</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/ts-x-15.02.04.04_detail"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Studenti f’universitajiet ta’ xjenzi applikati u universitajiet pedagoġiċi skont is-sena, l-università, id-dipartiment, il-livell ta’ studju u s-sess</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:description xml:lang="da-t-de-t0-mtec">Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Studenti na sveučilištima primijenjenih znanosti i pedagoškim sveučilištima po godini, sveučilištu, odjelu, razini studija i rodu</dct:title>
+        <dcat:keyword xml:lang="it">studenti-ed-esami-delle-scuole-universitarie</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="fi-t-de-t0-mtec">CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6c47493c-f9ab-4c24-9714-c71106c2c169">
+            <dct:description xml:lang="es-t-fr-t0-mtec">Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:description xml:lang="mt-t-fr-t0-mtec">Deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-Appendiċi.</dct:description>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estudantes de pós-graduação especializados e pedagógicos por ano, universidade, campo de estudo, nível de estudo e gênero</dct:title>
+            <dct:description xml:lang="ga-t-fr-t0-mtec">Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san Aguisín.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="hr-t-fr-t0-mtec">Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estudiantes graduados especializados y pedagógicos por año, universidad, campo de estudio, nivel de estudio y género</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="en-t-fr-t0-mtec">Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+            <dct:description xml:lang="pl-t-fr-t0-mtec">Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:description xml:lang="fi-t-fr-t0-mtec">CSV-tiedoston muuttujien kuvaukset ovat saatavilla liitteessä.</dct:description>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Absolventai, specializuoti ir pedagoginiai pagal metus, universitetą, studijų sritį, studijų lygį ir lytį</dct:title>
+            <dct:description xml:lang="pt-t-fr-t0-mtec">As descrições das variáveis no arquivo CSV estão disponíveis no Apêndice.</dct:description>
+            <dct:description xml:lang="sv-t-fr-t0-mtec">Beskrivningar av variablerna i CSV-filen finns i tillägget.</dct:description>
+            <dct:description xml:lang="hu-t-fr-t0-mtec">A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/ts-x-15.02.04.04_detail"/>
+            <dct:format>HTML</dct:format>
+            <dct:identifier>22304783-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="lv-t-fr-t0-mtec">Mainīgo lielumu apraksti CSV datnē ir pieejami papildinājumā.</dct:description>
+            <dct:description xml:lang="fr">Les descriptions des variables du fichier CSV sont disponibles dans l'annexe.</dct:description>
+            <dct:description xml:lang="lt-t-fr-t0-mtec">CSV rinkmenos kintamųjų aprašymai pateikiami priedėlyje.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Erikoistuneet ja pedagogiset jatko-opiskelijat vuosi-, yliopisto-, opintoala-, opintoaste- ja sukupuolikohtaisesti</dct:title>
+            <dct:description xml:lang="bg-t-fr-t0-mtec">Описанията на променливите в CSV файла са налични в допълнението.</dct:description>
+            <dct:description xml:lang="et-t-fr-t0-mtec">CSV-faili muutujate kirjeldused on esitatud liites.</dct:description>
+            <dct:description xml:lang="uk-t-fr-t0-mtec">Опис змінних у файлі CSV доступний у Додатку.</dct:description>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Studenti laureati specializzati e pedagogici per anno, università, campo di studio, livello di studio e genere</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Podiplomski študenti, specializirani in pedagoški po letu, univerzi, študijskem področju, stopnji študija in spolu</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:issued>
+            <dct:description xml:lang="nl-t-fr-t0-mtec">Beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="da-t-fr-t0-mtec">Beskrivelser af variablerne i CSV-filen findes i tillægget.</dct:description>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Absolventi specializēti un pedagoģiski pēc gada, universitātes, studiju jomas, studiju līmeņa un dzimuma</dct:title>
+            <dct:description xml:lang="de-t-fr-t0-mtec">Beschreibungen der Variablen der CSV-Datei finden Sie im Anhang.</dct:description>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Kandidatstuderende specialiseret og pædagogisk efter år, universitet, studieområde, studieniveau og køn</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Mic léinn iarchéime speisialaithe agus oideolaíoch de réir bliana, ollscoil, réimse staidéir, leibhéal staidéir agus inscne</dct:title>
+            <dct:description xml:lang="ro-t-fr-t0-mtec">Descrierile variabilelor din fișierul CSV sunt disponibile în apendice.</dct:description>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Afgestudeerde studenten gespecialiseerd en pedagogisch per jaar, universiteit, vakgebied, opleidingsniveau en geslacht</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Studenten der Fach- und Pädagogischen Hochschulen nach Jahr, Hochschule, Studienfach, Bildungsstufe und Geschlecht</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Diplomski studenti specijalizirani i pedagoški po godini, sveučilište, područje studija, razina studija i spol</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Absolventi specializovaní a pedagogičtí podle roku, univerzity, studijního oboru, úrovně studia a pohlaví</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Μεταπτυχιακοί φοιτητές ειδικευμένοι και παιδαγωγικοί ανά έτος, πανεπιστήμιο, τομέας σπουδών, επίπεδο σπουδών και φύλο</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Studenti gradwati speċjalizzati u pedagoġiċi skont is-sena, università, qasam ta ‘studju, livell ta ‘studju u l-ġeneru</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Absolwenci specjalizują się i pedagogiczni według roku, uniwersytetu, kierunku studiów, poziomu studiów i płci</dct:title>
+            <dct:description xml:lang="cs-t-fr-t0-mtec">Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:description xml:lang="sk-t-fr-t0-mtec">Opisy premenných v súbore CSV sú k dispozícii v dodatku.</dct:description>
+            <dct:description xml:lang="el-t-fr-t0-mtec">Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:description xml:lang="it-t-fr-t0-mtec">Le descrizioni delle variabili presenti nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Аспіранти спеціалізовані та педагогічні за рік, університет, галузь навчання, рівень навчання та стать</dct:title>
+            <dct:description xml:lang="sl-t-fr-t0-mtec">Opisi spremenljivk v datoteki CSV so na voljo v Dodatku.</dct:description>
+            <dct:title xml:lang="fr">Etudiants des hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'études et le sexe</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Absolventi špecializovaní a pedagogickí študenti podľa roka, univerzity, študijného odboru, úrovne štúdia a pohlavia</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Absolvenți specializați și pedagogici pe an, universitate, domeniu de studiu, nivel de studiu și gen</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Специализанти и педагогически по година, университет, област на обучение, ниво на обучение и пол</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Graduate students specialised and pedagogical by year, university, field of study, level of study and gender</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Doktorander specialiserade och pedagogiska efter år, universitet, ämnesområde, studienivå och kön</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Kraadiõppurid, kes on spetsialiseerunud ja pedagoogilised aasta, ülikooli, õppevaldkonna, õppetaseme ja soo järgi</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Végzős hallgatók szakosított és pedagógiai év, egyetem, tanulmányi terület, tanulmányi szint és nem</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Студенти університетів прикладних наук та педагогічних університетів за роком, університетом, кафедрою, рівнем навчання та гендеру</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+        <dct:language>fr</dct:language>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+        <dcat:keyword xml:lang="en">students-and-degrees-of-higher-education-institutions</dcat:keyword>
+        <dct:title xml:lang="de">Studierende an den Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Studienstufe und Geschlecht</dct:title>
+        <dct:title xml:lang="en">Students at universities of applied sciences and universities of teacher education by year, institution, field of study, level of study and sex</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Mic léinn in ollscoileanna na n-eolaíochtaí feidhmeacha agus ollscoileanna oideolaíocha de réir bliana, ollscoil, roinn, leibhéal staidéir agus inscne</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ba51e10d-75c5-4dc4-a317-ca6b8a71727a">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Studenti na sveučilištima primijenjenih znanosti i pedagoškim sveučilištima po godini, sveučilištu, odjelu, razini studija i rodu</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Študenti na univerzah uporabnih znanosti in pedagoških univerz po letu, univerzi, oddelku, stopnji študija in spolu</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ammattikorkeakoulujen ja pedagogisten yliopistojen opiskelijat vuosittain, yliopistot, osastot, opintoaste ja sukupuoli</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estudiantes en universidades de ciencias aplicadas y universidades pedagógicas por año, universidad, departamento, nivel de estudio y género</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Φοιτητές σε πανεπιστήμια εφαρμοσμένων επιστημών και παιδαγωγικών πανεπιστημίων ανά έτος, πανεπιστήμιο, τμήμα, επίπεδο σπουδών και φύλο</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Studenten aan hogescholen en pedagogische universiteiten per jaar, universiteit, afdeling, studieniveau en geslacht</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Studerande vid yrkeshögskolor och pedagogiska universitet efter år, universitet, institution, studienivå och kön</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dct:title xml:lang="et-t-de-t0-mtec">Rakenduskõrgkoolide ja pedagoogiliste ülikoolide üliõpilased aasta, ülikooli, osakonna, õppetaseme ja soo järgi</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az alkalmazott tudományok és a pedagógiai egyetemek egyetemeinek hallgatói év, egyetem, tanszék, tanulmányi szint és nem szerint</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dct:language>en</dct:language>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:modified>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Studenți la universități de științe aplicate și universități pedagogice pe an, universitate, departament, nivel de studiu și gen</dct:title>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estudantes em universidades de ciências aplicadas e universidades pedagógicas por ano, universidade, departamento, nível de estudo e gênero</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Studenti vysokých škol aplikovaných věd a pedagogických univerzit podle roku, univerzity, katedry, úrovně studia a pohlaví</dct:title>
+            <dct:format>CSV</dct:format>
+            <dct:description xml:lang="fi-t-de-t0-mtec">CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Студенти університетів прикладних наук та педагогічних університетів за роком, університетом, кафедрою, рівнем навчання та гендеру</dct:title>
+            <dct:identifier>22304783-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="de">Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lietišķo zinātņu augstskolu un pedagoģisko universitāšu studenti pēc gada, universitātes, departamenta, studiju līmeņa un dzimuma</dct:title>
+            <dct:title xml:lang="it">Studenti nelle alte scuole universitarie professionali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello di studio e sesso</dct:title>
+            <dct:title xml:lang="fr">Etudiants des hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'études et le sexe</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22304783/master"/>
+            <dct:description xml:lang="el-t-de-t0-mtec">Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+            <dcat:mediaType>text/csv</dcat:mediaType>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Студенти в университети по приложни науки и педагогически университети по година, университет, катедра, ниво на обучение и пол</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Studenci na uniwersytetach nauk stosowanych i uczelni pedagogicznych z roku na rok, uczelni, wydziału, poziomu studiów i płci</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Studenti f’universitajiet ta’ xjenzi applikati u universitajiet pedagoġiċi skont is-sena, l-università, id-dipartiment, il-livell ta’ studju u s-sess</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mic léinn in ollscoileanna na n-eolaíochtaí feidhmeacha agus ollscoileanna oideolaíocha de réir bliana, ollscoil, roinn, leibhéal staidéir agus inscne</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Študenti na univerzitách aplikovaných vied a pedagogických univerzít podľa roka, univerzity, katedry, úrovne štúdia a pohlavia</dct:title>
+            <dct:title xml:lang="de">Studierende an den Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Studienstufe und Geschlecht</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22304783/master"/>
+            <dct:description xml:lang="fr">Les descriptions des variables du fichier CSV sont disponibles dans l'annexe.</dct:description>
+            <dct:language>it</dct:language>
+            <dct:description xml:lang="en">Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:description xml:lang="it">Per le descrizioni delle variabili del file CSV si rimanda all'allegato.</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Taikomųjų mokslų universitetų ir pedagoginių universitetų studentai pagal metus, universitetą, departamentą, studijų lygį ir lytį</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Studerende på universiteter i anvendt videnskab og pædagogiske universiteter efter år, universitet, afdeling, studieniveau og køn</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:issued>
+            <dct:title xml:lang="en">Students at universities of applied sciences and universities of teacher education by year, institution, field of study, level of study and sex</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+        <dct:description xml:lang="it">Per le descrizioni delle variabili del file CSV si rimanda all'allegato.</dct:description>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Studenci na uniwersytetach nauk stosowanych i uczelni pedagogicznych z roku na rok, uczelni, wydziału, poziomu studiów i płci</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/864bb41a-3ce7-44b6-aaca-18b5cb55b8ed">
+            <dct:description xml:lang="lv-t-en-t0-mtec">Mainīgo lielumu apraksti CSV datnē ir pieejami papildinājumā.</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:issued>
+            <dct:description xml:lang="nl-t-en-t0-mtec">Beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:title xml:lang="et-t-en-t0-mtec">Rakenduskõrgkoolide ja õpetajahariduse ülikoolide üliõpilased aasta, õppeasutuse, õppevaldkonna, õppetaseme ja soo järgi</dct:title>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Studenti na sveučilištima primijenjenih znanosti i sveučilištima obrazovanja nastavnika po godini, instituciji, području studija, razini studija i spolu</dct:title>
+            <dct:description xml:lang="ro-t-en-t0-mtec">Descrierile variabilelor din fișierul CSV sunt disponibile în apendice.</dct:description>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Studenți la universități de științe aplicate și universități de formare a cadrelor didactice pe an, instituție, domeniu de studiu, nivel de studiu și sex</dct:title>
+            <dct:description xml:lang="lt-t-en-t0-mtec">CSV rinkmenos kintamųjų aprašymai pateikiami priedėlyje.</dct:description>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Študenti na univerzitách aplikovaných vied a univerzitách učiteľského vzdelávania podľa roku, inštitúcie, študijného odboru, úrovne štúdia a pohlavia</dct:title>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Mic léinn in ollscoileanna na n-eolaíochtaí feidhmeacha agus ollscoileanna in oideachas múinteoirí de réir bliana, institiúide, réimse staidéir, leibhéil staidéir agus gnéis</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">Deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-Appendiċi.</dct:description>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Studenti f’universitajiet ta’ xjenzi applikati u universitajiet tal-edukazzjoni tal-għalliema skont is-sena, l-istituzzjoni, il-qasam ta’ studju, il-livell ta’ studju u s-sess</dct:title>
+            <dct:description xml:lang="bg-t-en-t0-mtec">Описанията на променливите в CSV файла са налични в допълнението.</dct:description>
+            <dct:title xml:lang="uk-t-en-t0-mtec">Студенти університетів прикладних наук та університетів педагогічної освіти по року, установі, галузі навчання, рівню навчання та статі</dct:title>
+            <dct:title xml:lang="es-t-en-t0-mtec">Estudiantes en universidades de ciencias aplicadas y universidades de formación docente por año, institución, campo de estudio, nivel de estudio y sexo</dct:title>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Estudantes em universidades de ciências aplicadas e universidades de formação de professores por ano, instituição, campo de estudo, nível de estudo e sexo</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">CSV-faili muutujate kirjeldused on esitatud liites.</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Opiskelijat ammattikorkeakouluissa ja opettajankoulutuksen yliopistoissa vuosi-, laitos-, opinto-, opintoaste- ja sukupuolikohtaisesti</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">CSV-tiedoston muuttujien kuvaukset ovat saatavilla liitteessä.</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Studierende an Fachhochschulen und Universitäten der Lehrerbildung nach Jahr, Institution, Studienfach, Studienniveau und Geschlecht</dct:title>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Studerande vid yrkeshögskolor och lärarutbildningsuniversitet efter år, institution, ämnesområde, studienivå och kön</dct:title>
+            <dct:title xml:lang="it-t-en-t0-mtec">Studenti presso università di scienze applicate e università di formazione degli insegnanti per anno, istituzione, campo di studio, livello di studio e sesso</dct:title>
+            <dct:description xml:lang="ga-t-en-t0-mtec">Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san Aguisín.</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">Les descriptions des variables dans le fichier CSV sont disponibles à l’annexe.</dct:description>
+            <dct:description xml:lang="pl-t-en-t0-mtec">Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">As descrições das variáveis no arquivo CSV estão disponíveis no Apêndice.</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Opisy premenných v súbore CSV sú k dispozícii v dodatku.</dct:description>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Étudiants des universités de sciences appliquées et des universités de formation des enseignants par année, institution, domaine d’études, niveau d’études et sexe</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="cs-t-en-t0-mtec">Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Lietišķo zinātņu augstskolu un skolotāju izglītības augstskolu studenti pēc gada, institūcijas, studiju jomas, studiju līmeņa un dzimuma</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Opisi spremenljivk v datoteki CSV so na voljo v Dodatku.</dct:description>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Студенти в университети по приложни науки и университети за обучение на учители по година, институция, област на обучение, ниво на обучение и пол</dct:title>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Študenti na univerzah uporabnih znanosti in univerzah izobraževanja učiteljev po letu, instituciji, študijskem področju, stopnji študija in spolu</dct:title>
+            <dct:description xml:lang="uk-t-en-t0-mtec">Опис змінних у файлі CSV доступний у Додатку.</dct:description>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Studenci na uniwersytetach nauk stosowanych i uczelniach kształcenia nauczycieli według roku, instytucji, kierunku studiów, poziomu studiów i płci</dct:title>
+            <dct:title xml:lang="en">Students at universities of applied sciences and universities of teacher education by year, institution, field of study, level of study and sex</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/en/ts-x-15.02.04.04_detail"/>
+            <dct:description xml:lang="it-t-en-t0-mtec">Le descrizioni delle variabili presenti nel file CSV sono disponibili nell'appendice.</dct:description>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Studenti vysokých škol aplikovaných věd a univerzit vzdělávání učitelů podle roku, instituce, studijního oboru, úrovně studia a pohlaví</dct:title>
+            <dct:identifier>22304783-en@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:description xml:lang="de-t-en-t0-mtec">Beschreibungen der Variablen in der CSV-Datei finden Sie im Anhang.</dct:description>
+            <dct:description xml:lang="es-t-en-t0-mtec">Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:description xml:lang="da-t-en-t0-mtec">Beskrivelser af variablerne i CSV-filen findes i tillægget.</dct:description>
+            <dct:title xml:lang="el-t-en-t0-mtec">Φοιτητές σε πανεπιστήμια εφαρμοσμένων επιστημών και πανεπιστήμια εκπαίδευσης εκπαιδευτικών ανά έτος, ίδρυμα, πεδίο σπουδών, επίπεδο σπουδών και φύλο</dct:title>
+            <dct:description xml:lang="en">Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">Beskrivningar av variablerna i CSV-filen finns i tillägget.</dct:description>
+            <dct:language>en</dct:language>
+            <dct:description xml:lang="hu-t-en-t0-mtec">A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Az alkalmazott tudományok egyetemein és a tanárképzésben részt vevő egyetemek hallgatói év, intézmény, tanulmányi terület, tanulmányi szint és nem szerint</dct:title>
+            <dct:description xml:lang="hr-t-en-t0-mtec">Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Taikomųjų mokslų universitetų ir mokytojų rengimo universitetų studentai pagal metus, instituciją, studijų sritį, studijų lygį ir lytį</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Studerende på universiteter i anvendt videnskab og universiteter for læreruddannelse efter år, institution, studieområde, studieniveau og køn</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Studenten aan hogescholen en universiteiten van lerarenopleiding per jaar, instelling, vakgebied, studieniveau en geslacht</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:49:00.883142</dct:modified>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Studenti vysokých škol aplikovaných věd a pedagogických univerzit podle roku, univerzity, katedry, úrovně studia a pohlaví</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Studerende på universiteter i anvendt videnskab og pædagogiske universiteter efter år, universitet, afdeling, studieniveau og køn</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Az alkalmazott tudományok és a pedagógiai egyetemek egyetemeinek hallgatói év, egyetem, tanszék, tanulmányi szint és nem szerint</dct:title>
+        <dcat:keyword xml:lang="fr">etudiants-et-examens-finals-des-hautes-ecoles</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:description xml:lang="de">Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Estudantes em universidades de ciências aplicadas e universidades pedagógicas por ano, universidade, departamento, nível de estudo e gênero</dct:title>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a665c146-f6cc-4aac-9fc9-84bc886d1c31">
+            <dct:description xml:lang="nl-t-de-t0-mtec">De beschrijvingen van de variabelen in het CSV-bestand zijn beschikbaar in de bijlage.</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Descrierile variabilelor din fișierul CSV sunt disponibile în anexă.</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Опис змінних у файлі CSV доступний у додатку.</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">CSV-tiedoston muuttujien kuvaukset ovat saatavilla lisäyksessä.</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Студенти в университети по приложни науки и педагогически университети по година, университет, катедра, ниво на обучение и пол</dct:title>
+            <dct:description xml:lang="fr">Les descriptions des variables du fichier CSV sont disponibles dans l'annexe.</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Lietišķo zinātņu augstskolu un pedagoģisko universitāšu studenti pēc gada, universitātes, departamenta, studiju līmeņa un dzimuma</dct:title>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Opisy premenných v súbore CSV sú k dispozícii v prílohe.</dct:description>
+            <dct:language>en</dct:language>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Opisi spremenljivk v datoteki CSV so na voljo v dodatku.</dct:description>
+            <dct:title xml:lang="it">Studenti nelle alte scuole universitarie professionali e nelle alte scuole pedagogiche per anno, scuola universitaria, settore di studio, livello di studio e sesso</dct:title>
+            <dct:title xml:lang="de">Studierende an den Fachhochschulen und pädagogischen Hochschulen nach Jahr, Hochschule, Fachbereich, Studienstufe und Geschlecht</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Ammattikorkeakoulujen ja pedagogisten yliopistojen opiskelijat vuosittain, yliopistot, osastot, opintoaste ja sukupuoli</dct:title>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Opisi varijabli u CSV datoteci dostupni su u Dodatku.</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">A CSV-fájl változóinak leírása a függelékben található.</dct:description>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Taikomųjų mokslų universitetų ir pedagoginių universitetų studentai pagal metus, universitetą, departamentą, studijų lygį ir lytį</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Mic léinn in ollscoileanna na n-eolaíochtaí feidhmeacha agus ollscoileanna oideolaíocha de réir bliana, ollscoil, roinn, leibhéal staidéir agus inscne</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Описанията на променливите в CSV файла са налични в приложението.</dct:description>
+            <dcat:mediaType>application/vnd.oasis.opendocument.spreadsheet</dcat:mediaType>
+            <dct:format>ODS</dct:format>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Студенти університетів прикладних наук та педагогічних університетів за роком, університетом, кафедрою, рівнем навчання та гендеру</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Rakenduskõrgkoolide ja pedagoogiliste ülikoolide üliõpilased aasta, ülikooli, osakonna, õppetaseme ja soo järgi</dct:title>
+            <dct:description xml:lang="es-t-de-t0-mtec">Las descripciones de las variables en el archivo CSV están disponibles en el apéndice.</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Studerande vid yrkeshögskolor och pedagogiska universitet efter år, universitet, institution, studienivå och kön</dct:title>
+            <dct:description xml:lang="it">Per le descrizioni delle variabili del file CSV si rimanda all'allegato.</dct:description>
+            <dct:description xml:lang="en">Descriptions of the variables in the CSV file are available in the Appendix.</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">Φοιτητές σε πανεπιστήμια εφαρμοσμένων επιστημών και παιδαγωγικών πανεπιστημίων ανά έτος, πανεπιστήμιο, τμήμα, επίπεδο σπουδών και φύλο</dct:title>
+            <dct:description xml:lang="de">Die Beschreibungen der Variablen in der CSV-Datei sind im Anhang verfügbar.</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Studenti f’universitajiet ta’ xjenzi applikati u universitajiet pedagoġiċi skont is-sena, l-università, id-dipartiment, il-livell ta’ studju u s-sess</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">Οι περιγραφές των μεταβλητών στο αρχείο CSV είναι διαθέσιμες στο προσάρτημα.</dct:description>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Studenti na sveučilištima primijenjenih znanosti i pedagoškim sveučilištima po godini, sveučilištu, odjelu, razini studija i rodu</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Id-deskrizzjonijiet tal-varjabbli fil-fajl CSV huma disponibbli fl-appendiċi.</dct:description>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22304783/appendix"/>
+            <dct:description xml:lang="et-t-de-t0-mtec">CSV-faili muutujate kirjeldused on esitatud lisas.</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Studenten aan hogescholen en pedagogische universiteiten per jaar, universiteit, afdeling, studieniveau en geslacht</dct:title>
+            <dct:title xml:lang="en">Students at universities of applied sciences and universities of teacher education by year, institution, field of study, level of study and sex</dct:title>
+            <dct:language>it</dct:language>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Tá tuairiscí ar na hathróga sa chomhad CSV ar fáil san aguisín.</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Studenci na uniwersytetach nauk stosowanych i uczelni pedagogicznych z roku na rok, uczelni, wydziału, poziomu studiów i płci</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Studenți la universități de științe aplicate și universități pedagogice pe an, universitate, departament, nivel de studiu și gen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Študenti na univerzitách aplikovaných vied a pedagogických univerzít podľa roka, univerzity, katedry, úrovne štúdia a pohlavia</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-04-06T00:00:00</dct:modified>
+            <dct:title xml:lang="fr">Etudiants des hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'études et le sexe</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Opisy zmiennych w pliku CSV są dostępne w dodatku.</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Studenti vysokých škol aplikovaných věd a pedagogických univerzit podle roku, univerzity, katedry, úrovně studia a pohlaví</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Studerende på universiteter i anvendt videnskab og pædagogiske universiteter efter år, universitet, afdeling, studieniveau og køn</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estudantes em universidades de ciências aplicadas e universidades pedagógicas por ano, universidade, departamento, nível de estudo e gênero</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Beskrivningarna av variablerna i CSV-filen finns i bilagan.</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Mainīgo lielumu apraksti CSV datnē ir pieejami pielikumā.</dct:description>
+            <dct:identifier>22304783-appendix@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/22304783/appendix"/>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Kintamųjų CSV rinkmenoje aprašymai pateikiami priede.</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Študenti na univerzah uporabnih znanosti in pedagoških univerz po letu, univerzi, oddelku, stopnji študija in spolu</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Az alkalmazott tudományok és a pedagógiai egyetemek egyetemeinek hallgatói év, egyetem, tanszék, tanulmányi szint és nem szerint</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estudiantes en universidades de ciencias aplicadas y universidades pedagógicas por año, universidad, departamento, nivel de estudio y género</dct:title>
+            <dct:description xml:lang="pt-t-de-t0-mtec">As descrições das variáveis no arquivo CSV estão disponíveis no apêndice.</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Beskrivelserne af variablerne i CSV-filen er tilgængelige i tillægget.</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fr">Etudiants des hautes écoles spécialisées et pédagogiques selon l'année, la haute école, le domaine d'études, le niveau d'études et le sexe</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Studenten aan hogescholen en pedagogische universiteiten per jaar, universiteit, afdeling, studieniveau en geslacht</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Lietišķo zinātņu augstskolu un pedagoģisko universitāšu studenti pēc gada, universitātes, departamenta, studiju līmeņa un dzimuma</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Popis proměnných v souboru CSV je k dispozici v dodatku.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:06:01Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:55Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,546 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/fb8903bb-df12-45a7-a7de-5d0f17e2fca2">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T14:11:39Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>802ab5f7324c976f296816242f24472e</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:29Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-16T23:45:18Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/fb8903bb-df12-45a7-a7de-5d0f17e2fca2"/>
+    <dct:identifier>fb8903bb-df12-45a7-a7de-5d0f17e2fca2</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-17T05:41:40Z</edp:transReceived>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/85cc0fbd-7abb-4384-8024-5254a5dd636b">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/c9608823-3a3e-4677-97e5-c6facd8af70b</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dct:title>Gemeindefläche</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/gemeinden/wms"/>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T14:37:39</dct:issued>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt dækker det kommunale område i Hansestaden og University City of Rostock. Ressourcerne opdateres normalt med følgende intervaller: 3 dage</dct:description>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor se vztahuje na obecní oblast hanzovního a univerzitního města Rostock. Zdroje se obvykle aktualizují v následujících intervalech: 3 dny</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων καλύπτει τη δημοτική περιοχή της Χανσεατικής και της Πανεπιστημιακής Πόλης του Ρόστοκ. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 3 ημέρες Αυτό το σύνολο δεδομένων καλύπτει τη δημοτική περιοχή της Χανσεατικής και της Πανεπιστημιακής Πόλης του Ρόστοκ. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 3 ημέρες Αυτό το σύνολο δεδομένων καλύπτει τη δημοτική περιοχή της Χανσεατικής και της Πανεπιστημιακής Πόλης του Ρόστοκ.
+Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα:
+3 ημέρες</dct:description>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/56329aaf-6906-456d-a477-8e05a63d8203">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T14:37:39</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >746c146ba53073e3d30e9db913e8645d68694333b57bb797634e5e4b206a0d87</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >120294</dcat:byteSize>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/7ea80f70-6208-42ca-9537-deda7dcc4981</dct:identifier>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.gml"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:title>Gemeindefläche</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.gml"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados abrange a área municipal da cidade hanseática e universitária de Rostock. Os recursos são geralmente atualizados nos seguintes intervalos: 3 dias</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:identifier>fb8903bb-df12-45a7-a7de-5d0f17e2fca2</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ba5e0ae7-53a6-4a5b-8e78-667b69eaf405">
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >3405f202cc066a50e50a8345a4993523843e065b0cc87c868d3a6dd01e8ebec4</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >97798</dcat:byteSize>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.json"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.json"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T14:37:39</dct:issued>
+            <dct:title>Gemeindefläche</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/0d01f5b2-819b-467a-9a99-6194e6986a73</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни обхваща общинския район на ханзейския и университетския град Рощок. Ресурсите обикновено се актуализират на следните интервали: 3 дни Този набор от данни обхваща общинския район на ханзейския и университетския град Рощок. Ресурсите обикновено се актуализират на следните интервали: 3 дни Този набор от данни обхваща общинския район на ханзейския и университетския град Рощок.
+Ресурсите обикновено се актуализират на следните интервали:
+3 дни</dct:description>
+        <dct:accessRights>public</dct:accessRights>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jkopri ż-żona muniċipali tal-Belt Hanseatic u tal-Università ta’ Rostock. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 3 ijiem</dct:description>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta podatkovni niz zajema občinsko območje Hanseatic in University City of Rostock. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 3 dni Ta podatkovni niz zajema občinsko območje Hanseatic in University City of Rostock. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 3 dni Ta podatkovni niz zajema občinsko območje Hanseatic in University City of Rostock.
+Viri se običajno posodabljajo v naslednjih časovnih presledkih:
+3 dni</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa aptver Hanzas pilsētas un Rostokas Universitātes teritoriju. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 3 dienas Šī datu kopa aptver Hanzas pilsētas un Rostokas Universitātes teritoriju. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 3 dienas Šī datu kopa aptver Hanzas pilsētas un Rostokas Universitātes teritoriju.
+Resursi parasti tiek atjaunināti ar šādiem intervāliem:
+3 dienas</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka obuhvaća općinsko područje Hanseatskog i sveučilišnog grada Rostocka. Resursi se obično ažuriraju u sljedećim intervalima: 3 dana</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima savivaldybės plotas Hanzos ir universiteto miesto Rostoko. Ištekliai paprastai atnaujinami tokiais intervalais: 3 dienos</dct:description>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+        <dcat:keyword>grenze</dcat:keyword>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date acoperă zona municipală a orașului Hanseatic și al Universității Rostock. Resursele sunt, de obicei, actualizate la următoarele intervale: 3 zile Acest set de date acoperă zona municipală a orașului Hanseatic și al Universității Rostock. Resursele sunt, de obicei, actualizate la următoarele intervale: 3 zile Acest set de date acoperă zona municipală a orașului Hanseatic și al Universității Rostock.
+Resursele sunt, de obicei, actualizate la următoarele intervale:
+3 zile</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8efd43f4-2942-4b41-83c6-7978055858a0">
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.shp"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title>Gemeindefläche</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.shp.zip"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.shp.zip"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >f72945e25ec47f355942e07c1c592a8d0f7e6ec2824f946602da9ebf92291c6b</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T14:37:39</dct:issued>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >43940</dcat:byteSize>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/cc62be8a-3f9a-4eb4-a524-e75223d5f578</dct:identifier>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0014ec12-952c-4e1f-a6d7-bcfe9a75efda">
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.kml"/>
+            <dct:title>Gemeindefläche</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >120151</dcat:byteSize>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T14:37:39</dct:issued>
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >78ce3214e3f724e0a2de73543bb385c5ef994dfa1f5d01e9444c365668739306</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/5d3851f8-d783-42bb-b254-1872fd92f7d4</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.kml"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description>Dieser Datensatz umfasst die Gemeindefläche der Hanse- und Universitätsstadt Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 3 Tage</dct:description>
+        <dct:title>Gemeindefläche</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:33:12.794796</dct:modified>
+        <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+        <dcat:keyword>stadtverwaltung</dcat:keyword>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati riguarda l'area comunale della città anseatica e universitaria di Rostock. Le risorse sono solitamente aggiornate ai seguenti intervalli: 3 giorni Questa serie di dati riguarda l'area comunale della città anseatica e universitaria di Rostock. Le risorse sono solitamente aggiornate ai seguenti intervalli: 3 giorni Questa serie di dati riguarda l'area comunale della città anseatica e universitaria di Rostock.
+Le risorse sono solitamente aggiornate ai seguenti intervalli:
+3 giorni</dct:description>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset covers the municipal area of the Hanseatic and University City of Rostock. The resources are usually updated at the following intervals: 3 days</dct:description>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dcd9ca94-801e-4e6e-9117-58cd8d8390e4">
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:title>Gemeindefläche</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/4da143d9-6640-46f6-a5a2-a8fbf988c5ae</dct:identifier>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-12T12:43:03</dct:issued>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/gemeinden/wfs"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos cubre el área municipal de la Ciudad Hanseática y Universitaria de Rostock. Por lo general, los recursos se actualizan en los siguientes intervalos: 3 días Este conjunto de datos cubre el área municipal de la Ciudad Hanseática y Universitaria de Rostock. Por lo general, los recursos se actualizan en los siguientes intervalos: 3 días Este conjunto de datos cubre el área municipal de la Ciudad Hanseática y Universitaria de Rostock.
+Por lo general, los recursos se actualizan en los siguientes intervalos:
+3 días</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+        <dcat:keyword>verwaltung</dcat:keyword>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données couvre la superficie de la commune de la ville hanséatique et universitaire de Rostock. Les ressources sont généralement mises à jour à l’intervalle suivant: 3 jours</dct:description>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje obszar miejski miasta hanzeatyckiego i uniwersyteckiego w Rostocku. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 3 dni</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b1c62c6a-4cbf-4e49-a8ac-833cdf0ca85e">
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.csv"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.csv"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >ad0f13b7bcc9db6318d7fd4942737105357516109818a053ab097fe6a94729db</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title>Gemeindefläche</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/9135010f-e51b-4b1e-a8af-4b911e2ffe7a</dct:identifier>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >118671</dcat:byteSize>
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T14:37:39</dct:issued>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Clúdaíonn an tacar sonraí seo limistéar bardasach Hanseatic agus University City of Rostock. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 3 lá</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä tietokokonaisuus kattaa Rostockin Hanseaticin ja University Cityn kunnan. Resursseja päivitetään yleensä seuraavin väliajoin: 3 päivää</dct:description>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum hõlmab munitsipaalpiirkonda Hanseatic ja University City of Rostock. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 3 päeva</dct:description>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov sa vzťahuje na obecnú oblasť Hanseatic a University City of Rostock. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 3 dni</dct:description>
+        <dcat:keyword>verwaltungsgrenze</dcat:keyword>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset omfattar kommunområdet Hanseatic och University City of Rostock. Resurserna uppdateras vanligtvis med följande intervall: 3 dagar Denna dataset omfattar kommunområdet Hanseatic och University City of Rostock. Resurserna uppdateras vanligtvis med följande intervall: 3 dagar Denna dataset omfattar kommunområdet Hanseatic och University City of Rostock.
+Resurserna uppdateras vanligtvis med följande intervall:
+3 dagar</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f3125f67-356d-4952-9a39-1c49e0a1700c">
+            <dct:title xml:lang="mt-t-de-t0-mtec">Iż-żona muniċipali</dct:title>
+            <dct:title>Gemeindefläche</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-01-23T14:37:39</dct:issued>
+            <dct:identifier>https://www.opendata-hro.de/dataset/fb8903bb-df12-45a7-a7de-5d0f17e2fca2/resource/4aaf5f5d-30b7-4def-bd90-94532deb32da</dct:identifier>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašvaldības teritorija</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >32c33fa3b073ab24962849afe79402b5ecccff4afa4700f6f0a500133ef62a77</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kunnan alue</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Limistéar bardasach</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Obszar gminny</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Települési terület</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Općinsko područje</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Área municipal</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savivaldybės teritorija</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δημοτική περιοχή</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Area comunale</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >3457</dcat:byteSize>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Obecná oblasť</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Municipal area</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gemeentelijk gebied</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Общински район</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:25</dct:modified>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Zona municipală</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kommunalt område</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.xlsx"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/gemeindeflaeche/gemeindeflaeche.xlsx"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Munitsipaalpiirkond</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Superficie de la commune</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Občinsko območje</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Obecní oblast</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>kommunalverwaltung</dcat:keyword>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset heeft betrekking op het gemeentelijk gebied van de Hanzestad en de Universiteitsstad Rostock. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 3 dagen Deze dataset heeft betrekking op het gemeentelijk gebied van de Hanzestad en de Universiteitsstad Rostock. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 3 dagen Deze dataset heeft betrekking op het gemeentelijk gebied van de Hanzestad en de Universiteitsstad Rostock.
+De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt:
+3 dagen</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet Rostock Hanza és Egyetem városának önkormányzati területét fedi le. Az erőforrásokat általában a következő időközönként frissítik: 3 nap</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

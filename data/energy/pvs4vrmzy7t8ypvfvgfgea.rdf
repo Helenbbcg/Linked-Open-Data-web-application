@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/pvs4vrmzy7t8ypvfvgfgea">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:00:47Z</dct:issued>
+    <dct:identifier>PvS4vrmZY7t8yPVfvGFGeA</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>fdb631c612ef8b17ad0ac69037787c92</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/pvs4vrmzy7t8ypvfvgfgea">
+        <dct:title xml:lang="de">Exporte von Erdgas nach Herkunftsland - monatliche Daten</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Izvoz zemeljskega plina po partnerskih državah – mesečni podatki</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_te_gasm">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_te_gasm</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/pvs4vrmzy7t8ypvfvgfgea"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_te_gasm</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Maakaasun vienti kumppanimaittain – kuukausittaiset tiedot</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Gamtinių dujų eksportas pagal šalis partneres – mėnesiniai duomenys</dct:description>
+        <dct:description xml:lang="fr">Exportations de gaz naturel par pays partenaire - données mensuelles</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Износ на природен газ по държави партньори — месечни данни</dct:title>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/nrg_te_gasm"/>
+        <dct:description xml:lang="et-t-en-t0-mtec">Maagaasi eksport partnerriikide kaupa – kuuandmed</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Eksport af naturgas efter partnerland — månedlige data</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Uitvoer van aardgas naar partnerland — maandelijkse gegevens</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Εξαγωγές φυσικού αερίου ανά χώρα εταίρο — μηνιαία στοιχεία</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/nrg_quant_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/pvs4vrmzy7t8ypvfvgfgea"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Földgázexport partnerországonként – havi adatok</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Eksport gazu ziemnego według krajów partnerskich – dane miesięczne</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-19</dct:modified>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/9b0928b1-8073-49f7-96b2-539ca35101d0">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2008-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2022-06-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Експорт природного газу за країнами-партнерами - щомісячні дані</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/14bd7d64-fd7d-4a50-8e03-3b9f699795d6">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_te_gasm.sdmx.zip"/>
+            <dct:title xml:lang="en">Exports of natural gas by partner country - monthly data</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:title xml:lang="fr">Exportations de gaz naturel par pays partenaire - données mensuelles</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/495bbea3-b8bb-4336-9d6f-5dfba7440113</dct:identifier>
+            <dct:title xml:lang="de">Exporte von Erdgas nach Herkunftsland - monatliche Daten</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Exportações de gás natural por país parceiro — dados mensais</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Földgázexport partnerországonként – havi adatok</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/83bc26ed-1b69-4b77-b2fc-249cb646ae01">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/afd69284-7abc-4cfa-81fa-c22929d8787f">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Maakaasun vienti kumppanimaittain – kuukausittaiset tiedot</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Износ на природен газ по държави партньори — месечни данни</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="el-t-en-t0-mtec">Εξαγωγές φυσικού αερίου ανά χώρα εταίρο — μηνιαία στοιχεία</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Maagaasi eksport partnerriikide kaupa – kuuandmed</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Export av naturgas efter partnerland – månadsuppgifter</dct:title>
+        <dct:title xml:lang="fr">Exportations de gaz naturel par pays partenaire - données mensuelles</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Eksport af naturgas efter partnerland — månedlige data</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Izvoz prirodnog plina po zemljama partnerima – mjesečni podaci</dct:description>
+        <dct:description xml:lang="en">Exports of natural gas by partner country - monthly data</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Onnmhairí gáis nádúrtha de réir tíre comhpháirtíochta — sonraí míosúla</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Eksport gazu ziemnego według krajów partnerskich – dane miesięczne</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d3f5b928-bf5e-4326-893b-ed9801ef2381">
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Exportations de gaz naturel par pays partenaire - données mensuelles</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_te_gasm.tsv.gz"/>
+            <dct:title xml:lang="en">Exports of natural gas by partner country - monthly data</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="de">Exporte von Erdgas nach Herkunftsland - monatliche Daten</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/f6ef8f56-df62-4a35-8633-71b6e5bc817d</dct:identifier>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Exporturile de gaze naturale pe țări partenere – date lunare</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Dabasgāzes eksports pa partnervalstīm — mēneša dati</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Vývoz zemního plynu podle partnerských zemí – měsíční údaje</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Esportazzjonijiet ta’ gass naturali skont il-pajjiż sieħeb — data ta’ kull xahar</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Exportações de gás natural por país parceiro — dados mensais</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Vývoz zemního plynu podle partnerských zemí – měsíční údaje</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Exportaciones de gas natural por país socio — Datos mensuales</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Vývoz zemného plynu podľa partnerských krajín – mesačné údaje</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Експорт природного газу за країнами-партнерами - щомісячні дані</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        </dcat:theme>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Vývoz zemného plynu podľa partnerských krajín – mesačné údaje</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Esportazioni di gas naturale per paese partner — dati mensili</dct:description>
+        <dct:title xml:lang="en">Exports of natural gas by partner country - monthly data</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Exportaciones de gas natural por país socio — Datos mensuales</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Esportazioni di gas naturale per paese partner — dati mensili</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Esportazzjonijiet ta’ gass naturali skont il-pajjiż sieħeb — data ta’ kull xahar</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/pvs4vrmzy7t8ypvfvgfgea"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/nrg_quant_esms.htm</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="de">Exporte von Erdgas nach Herkunftsland - monatliche Daten</dct:description>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Onnmhairí gáis nádúrtha de réir tíre comhpháirtíochta — sonraí míosúla</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Dabasgāzes eksports pa partnervalstīm — mēneša dati</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Export av naturgas efter partnerland – månadsuppgifter</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Uitvoer van aardgas naar partnerland — maandelijkse gegevens</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1299a515-bb4e-4633-b9a0-abee681d234a">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Exportations de gaz naturel par pays partenaire - données mensuelles</dct:title>
+            <dct:title xml:lang="en">Exports of natural gas by partner country - monthly data</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nrg_te_gasm.tsv.gz&amp;unzip=true"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/20de9af3-5ddf-415e-b57d-6bd48fc7d791</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="de">Exporte von Erdgas nach Herkunftsland - monatliche Daten</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Exporturile de gaze naturale pe țări partenere – date lunare</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Izvoz prirodnog plina po zemljama partnerima – mjesečni podaci</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Izvoz zemeljskega plina po partnerskih državah – mesečni podatki</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Gamtinių dujų eksportas pagal šalis partneres – mėnesiniai duomenys</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:identifier>nrg_te_gasm</dct:identifier>
+        <dct:identifier>http://data.europa.eu/88u/dataset/PvS4vrmZY7t8yPVfvGFGeA</dct:identifier>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T22:02:46Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T22:02:46Z</edp:transIssued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/pvs4vrmzy7t8ypvfvgfgea"/>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18904352-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>18904352@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:21Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:29Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18904352-bundesamt-fur-statistik-bfs"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:21Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:33:07Z</edp:transReceived>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>f20dd58569fff60e8964c9f30d3d3060</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18904352-bundesamt-fur-statistik-bfs">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e7552785-0afd-4034-82d9-a82c9a8be1a3">
+            <dct:title xml:lang="et-t-de-t0-mtec">Stipendiumid: Summa ja palgad haridustaseme ja kantoni järgi (üksikasjalik vaade)</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Stipendijas: Summa un algas sadalījumā pa izglītības līmeņiem un kantonu (Detailed view)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Stipendije: Iznos i plaće po stupnju obrazovanja i kantona (Detaljni prikaz)</dct:title>
+            <dct:identifier>18904363-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Boroż ta’ studju: Ammont u salarji skont il-livell ta’ edukazzjoni u kanton (Veduta dettaljata)</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Scoláireachtaí: Méid agus tuarastail de réir leibhéal oideachais agus canton (Amharc mionsonraithe)</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Beurzen: Bedrag en salaris per opleidingsniveau en kanton (Gedetailleerde weergave)</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Bourses d’études: Montant et bénéficiaires par niveau d’enseignement et par canton (vue détaillée)</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Borse di studio: Importo e stipendi per livello di istruzione e cantone (vista dettagliata)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904363/master"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Stipendier: Beløb og lønninger efter uddannelsesniveau og kanton (Detaljeret visning)</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Štipendije: Znesek in plače po stopnji izobrazbe in kantonu (podroben pogled)</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οι υποτροφίες: Ποσό και μισθοί ανά επίπεδο εκπαίδευσης και καντονίου (λεπτομερής άποψη)</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Stipendijos: Suma ir atlyginimai pagal išsilavinimo lygį ir kantoną (išsamus vaizdas)</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Ösztöndíjak: Összeg és fizetés iskolai végzettség és kanton szerint (Részletes nézet)</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Стипендії: Розмір і заробітна плата за рівнем освіти і кантону (детальний вигляд)</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Burse: Suma și salariile în funcție de nivelul de educație și de canton (vedere detaliată)</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Stipendier: Belopp och löner per utbildningsnivå och kanton (detaljerad vy)</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štipendiá: Suma a platy podľa úrovne vzdelania a kantónu (podrobný pohľad)</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Becas: Cantidad y salarios por nivel de educación y cantón (visión detallada)</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stipendia: Výše a platy podle úrovně vzdělání a kantonu (podrobný pohled)</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stypendia: Kwota i wynagrodzenia według poziomu wykształcenia i kantonu (szczegółowy widok)</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Malas de estudo: Montante e salários por nível de educação e cantão (Visão detalhada)</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scholarships: Amount and salaries by level of education and canton (Detailed view)</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Apurahat: Määrä ja palkat koulutusasteen ja kantonin mukaan (yksityiskohtainen näkymä)</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Стипендии: Размер и заплати по ниво на образование и кантон (Подробен преглед)</dct:title>
+            <dct:title xml:lang="de">Stipendien: Betrag und Bezügerinnen und Bezüger nach Bildungsstufe und Kanton (Detailansicht)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-29T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904363/master"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-10-06T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="en">cantonal-scholarships-and-loans</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Стипендії: Розмір і заробітна плата за рівнем освіти і кантону (детальний вигляд)</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Οι υποτροφίες: Ποσό και μισθοί ανά επίπεδο εκπαίδευσης και καντονίου (λεπτομερής άποψη)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/191f2753-7f49-4a14-84c9-d5a35d3cc284">
+            <dct:title xml:lang="de">Stipendien: Betrag und Bezügerinnen und Bezüger nach Bildungsstufe und Kanton (Detailansicht)</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οι υποτροφίες: Ποσό και μισθοί ανά επίπεδο εκπαίδευσης και καντονίου (λεπτομερής άποψη)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Apurahat: Määrä ja palkat koulutusasteen ja kantonin mukaan (yksityiskohtainen näkymä)</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Stipendier: Belopp och löner per utbildningsnivå och kanton (detaljerad vy)</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Burse: Suma și salariile în funcție de nivelul de educație și de canton (vedere detaliată)</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Boroż ta’ studju: Ammont u salarji skont il-livell ta’ edukazzjoni u kanton (Veduta dettaljata) Boroż ta’ studju:
+Ammont u salarji skont il-livell ta’ edukazzjoni u kanton (Veduta dettaljata)</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Stipendije: Iznos i plaće po stupnju obrazovanja i kantona (Detaljni prikaz) Stipendije:
+Iznos i plaće po stupnju obrazovanja i kantona (Detaljni prikaz)</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stipendia: Výše a platy podle úrovně vzdělání a kantonu (podrobný pohled)</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Стипендії: Розмір і заробітна плата за рівнем освіти і кантону (детальний вигляд)</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Stipendijas: Summa un algas sadalījumā pa izglītības līmeņiem un kantonu (Detailed view) Stipendijas:
+Summa un algas sadalījumā pa izglītības līmeņiem un kantonu (Detailed view)</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Stipendier: Beløb og lønninger efter uddannelsesniveau og kanton (Detaljeret visning)</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Scoláireachtaí: Méid agus tuarastail de réir leibhéal oideachais agus canton (Amharc mionsonraithe)</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Becas: Cantidad y salarios por nivel de educación y cantón (visión detallada)</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Bourses d’études: Montant et bénéficiaires par niveau d’enseignement et par canton (vue détaillée)</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scholarships: Amount and salaries by level of education and canton (Detailed view)</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Stipendiumid: Summa ja palgad haridustaseme ja kantoni järgi (üksikasjalik vaade)</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Beurzen: Bedrag en salaris per opleidingsniveau en kanton (Gedetailleerde weergave) Beurzen:
+Bedrag en salaris per opleidingsniveau en kanton (Gedetailleerde weergave)</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Ösztöndíjak: Összeg és fizetés iskolai végzettség és kanton szerint (Részletes nézet)</dct:title>
+            <dct:identifier>18904363-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Стипендии: Размер и заплати по ниво на образование и кантон (Подробен преглед)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.06.02.05"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štipendiá: Suma a platy podľa úrovne vzdelania a kantónu (podrobný pohľad)</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Štipendije: Znesek in plače po stopnji izobrazbe in kantonu (podroben pogled)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stypendia: Kwota i wynagrodzenia według poziomu wykształcenia i kantonu (szczegółowy widok) Stypendia:
+Kwota i wynagrodzenia według poziomu wykształcenia i kantonu (szczegółowy widok)</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Malas de estudo:
+Montante e salários por nível de educação e cantão (Visão detalhada)</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Stipendijos: Suma ir atlyginimai pagal išsilavinimo lygį ir kantoną (išsamus vaizdas) Stipendijos:
+Suma ir atlyginimai pagal išsilavinimo lygį ir kantoną (išsamus vaizdas)</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Borse di studio: Importo e stipendi per livello di istruzione e cantone (vista dettagliata) Borse di studio:
+Importo e stipendi per livello di istruzione e cantone (vista dettagliata)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="es-t-de-t0-mtec">Becas: Cantidad y salarios por nivel de educación y cantón (visión detallada)</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8dbc6906-205d-4689-8252-f70d8f580bf8">
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Scoláireachtaí: méid agus tairbhithe de réir leibhéal na hoiliúna agus an chanúin (léargas mionsonraithe)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904358/master"/>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Apurahat: määrä ja edunsaajat koulutustason ja kantonien mukaan (yksityiskohtainen kuva) Apurahat: määrä ja edunsaajat koulutustason ja kantonien mukaan (yksityiskohtainen kuva) Apurahat:
+määrä ja edunsaajat koulutustason ja kantonien mukaan (yksityiskohtainen kuva)</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904358/master"/>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Stipendien: Betrag und Begünstigte nach Bildungsstand und Kanton (Detailansicht) Stipendien: Betrag und Begünstigte nach Bildungsstand und Kanton (Detailansicht)</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Stipendier: beløb og støttemodtagere efter uddannelsesniveau og kanton (detaljeret visning)</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Ösztöndíjak: összeg és kedvezményezettek képzési szint és kanton szerint (részletes nézet) Ösztöndíjak: összeg és kedvezményezettek képzési szint és kanton szerint (részletes nézet) Ösztöndíjak:
+összeg és kedvezményezettek képzési szint és kanton szerint (részletes nézet)</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Stipendije: iznos i korisnici prema razini obuke i kantona (detaljni prikaz) Stipendije: iznos i korisnici prema razini obuke i kantona (detaljni prikaz)</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Malas de estudo: montante e beneficiários por nível de formação e cantão (visão pormenorizada)</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Borse di studio: importo e beneficiari per livello di formazione e cantone (vista dettagliata) Borse di studio: importo e beneficiari per livello di formazione e cantone (vista dettagliata) Borse di studio:
+importo e beneficiari per livello di formazione e cantone (vista dettagliata)</dct:title>
+            <dct:identifier>18904358-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Becas: cantidad y beneficiarios por nivel de formación y cantón (vista detallada)</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Стипендії: кількість та бенефіціарів за рівнем підготовки та кантону (детальний вигляд)</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Burse: suma și beneficiarii în funcție de nivelul de formare și de canton (vedere detaliată)</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Scholarships: amount and beneficiaries by level of training and canton (detailed view)</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-29T00:00:00</dct:modified>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Stipendiumid: summa ja toetusesaajad koolituse taseme ja kantoni kaupa (üksikasjalik ülevaade) Stipendiumid: summa ja toetusesaajad koolituse taseme ja kantoni kaupa (üksikasjalik ülevaade)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Beurzen: bedrag en begunstigden naar opleidingsniveau en kanton (gedetailleerde weergave) Beurzen:
+bedrag en begunstigden naar opleidingsniveau en kanton (gedetailleerde weergave)</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Οι υποτροφίες: ποσό και δικαιούχοι ανά επίπεδο κατάρτισης και καντόνι (λεπτομερής εικόνα)</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štipendiá: suma a príjemcovia podľa úrovne odbornej prípravy a kantónu (podrobný pohľad)</dct:title>
+            <dct:title xml:lang="fr">Bourses: montant et bénéficiaires selon le degré de formation et le canton (vue détaillée)</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Stipendijas: summa un labuma guvēji pēc apmācības līmeņa un kantona (detalizēts skats) Stipendijas: summa un labuma guvēji pēc apmācības līmeņa un kantona (detalizēts skats) Stipendijas:
+summa un labuma guvēji pēc apmācības līmeņa un kantona (detalizēts skats)</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Štipendije: znesek in upravičenci glede na raven usposabljanja in kantona (podroben pogled) Štipendije: znesek in upravičenci glede na raven usposabljanja in kantona (podroben pogled) Štipendije:
+znesek in upravičenci glede na raven usposabljanja in kantona (podroben pogled)</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Stipendier: belopp och stödmottagare per utbildningsnivå och kanton (detaljerad vy) Stipendier: belopp och stödmottagare per utbildningsnivå och kanton (detaljerad vy) Stipendier: belopp och stödmottagare per utbildningsnivå och kanton (detaljerad vy) Stipendier:
+belopp och stödmottagare per utbildningsnivå och kanton (detaljerad vy)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Boroż ta’ studju: l-ammont u l-benefiċjarji skont il-livell ta’ taħriġ u kanton (opinjoni dettaljata) Boroż ta’ studju: l-ammont u l-benefiċjarji skont il-livell ta’ taħriġ u kanton (opinjoni dettaljata)</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Stipendijos: suma ir paramos gavėjai pagal mokymo ir kantono lygį (išsamus vaizdas) Stipendijos:
+suma ir paramos gavėjai pagal mokymo ir kantono lygį (išsamus vaizdas)</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Stipendia: částka a příjemci podle úrovně odborné přípravy a kantonu (podrobný pohled)</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Стипендии: размер и бенефициери по ниво на обучение и кантон (подробен преглед)</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Stypendia: kwota i beneficjenci według poziomu szkolenia i kantonu (widok szczegółowy) Stypendia:
+kwota i beneficjenci według poziomu szkolenia i kantonu (widok szczegółowy)</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Stypendia: Kwota i wynagrodzenia według poziomu wykształcenia i kantonu (szczegółowy widok)</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Ösztöndíjak: Összeg és fizetés iskolai végzettség és kanton szerint (Részletes nézet)</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Apurahat: Määrä ja palkat koulutusasteen ja kantonin mukaan (yksityiskohtainen näkymä)</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Štipendiá: Suma a platy podľa úrovne vzdelania a kantónu (podrobný pohľad)</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Stipendier: Belopp och löner per utbildningsnivå och kanton (detaljerad vy)</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ae816b67-271c-4914-93f8-b8f98ce0da3a">
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Stipendia: částka a příjemci podle úrovně odborné přípravy a kantonu (podrobný pohled)</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Stipendiumid: summa ja toetusesaajad koolituse taseme ja kantoni kaupa (üksikasjalik ülevaade)</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Stipendije: iznos i korisnici prema razini obuke i kantona (detaljni prikaz)</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Stipendier: beløb og støttemodtagere efter uddannelsesniveau og kanton (detaljeret visning)</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Οι υποτροφίες: ποσό και δικαιούχοι ανά επίπεδο κατάρτισης και καντόνι (λεπτομερής εικόνα)</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Stipendijas: summa un labuma guvēji pēc apmācības līmeņa un kantona (detalizēts skats)</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Scholarships: amount and beneficiaries by level of training and canton (detailed view)</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Стипендії: кількість та бенефіціарів за рівнем підготовки та кантону (детальний вигляд)</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.06.02.05"/>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Štipendije: znesek in upravičenci glede na raven usposabljanja in kantona (podroben pogled)</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štipendiá: suma a príjemcovia podľa úrovne odbornej prípravy a kantónu (podrobný pohľad)</dct:title>
+            <dct:identifier>18904358-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Borse di studio: importo e beneficiari per livello di formazione e cantone (vista dettagliata)</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Burse: suma și beneficiarii în funcție de nivelul de formare și de canton (vedere detaliată)</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Malas de estudo: montante e beneficiários por nível de formação e cantão (visão pormenorizada)</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Стипендии: размер и бенефициери по ниво на обучение и кантон (подробен преглед)</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Beurzen: bedrag en begunstigden naar opleidingsniveau en kanton (gedetailleerde weergave)</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Ösztöndíjak: összeg és kedvezményezettek képzési szint és kanton szerint (részletes nézet)</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Boroż ta’ studju: l-ammont u l-benefiċjarji skont il-livell ta’ taħriġ u kanton (opinjoni dettaljata)</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Stipendier: belopp och stödmottagare per utbildningsnivå och kanton (detaljerad vy)</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Stypendia: kwota i beneficjenci według poziomu szkolenia i kantonu (widok szczegółowy)</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Scoláireachtaí: méid agus tairbhithe de réir leibhéal na hoiliúna agus an chanúin (léargas mionsonraithe)</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="fr">Bourses: montant et bénéficiaires selon le degré de formation et le canton (vue détaillée)</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Stipendijos: suma ir paramos gavėjai pagal mokymo ir kantono lygį (išsamus vaizdas)</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Becas: cantidad y beneficiarios por nivel de formación y cantón (vista detallada)</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Apurahat: määrä ja edunsaajat koulutustason ja kantonien mukaan (yksityiskohtainen kuva)</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Stipendien: Betrag und Begünstigte nach Bildungsstand und Kanton (Detailansicht)</dct:title>
+            <dct:language>fr</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Stipendiumid: Summa ja palgad haridustaseme ja kantoni järgi (üksikasjalik vaade)</dct:title>
+        <dcat:keyword xml:lang="it">sovvenzioni-cantonali-e-prestiti</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Stipendier: Beløb og lønninger efter uddannelsesniveau og kanton (Detaljeret visning)</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:identifier>18904352@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Beurzen: Bedrag en salaris per opleidingsniveau en kanton (Gedetailleerde weergave)</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Scoláireachtaí: Méid agus tuarastail de réir leibhéal oideachais agus canton (Amharc mionsonraithe)</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Malas de estudo: Montante e salários por nível de educação e cantão (Visão detalhada)</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Stipendijos: Suma ir atlyginimai pagal išsilavinimo lygį ir kantoną (išsamus vaizdas)</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stipendia: Výše a platy podle úrovně vzdělání a kantonu (podrobný pohled)</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:spatial>Kantone</dct:spatial>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Stipendije: Iznos i plaće po stupnju obrazovanja i kantona (Detaljni prikaz)</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Borse di studio: Importo e stipendi per livello di istruzione e cantone (vista dettagliata)</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Burse: Suma și salariile în funcție de nivelul de educație și de canton (vedere detaliată)</dct:title>
+        <dcat:keyword xml:lang="fr">bourses-et-prets-detudes-cantonaux</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:05:59.267130</dct:modified>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Štipendije: Znesek in plače po stopnji izobrazbe in kantonu (podroben pogled)</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Scholarships: Amount and salaries by level of education and canton (Detailed view)</dct:title>
+        <dcat:keyword xml:lang="de">kantonale-stipendien-und-darlehen</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.06.02.05"/>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Stipendijas: Summa un algas sadalījumā pa izglītības līmeņiem un kantonu (Detailed view)</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Стипендии: Размер и заплати по ниво на образование и кантон (Подробен преглед)</dct:title>
+        <dct:title xml:lang="de">Stipendien: Betrag und Bezügerinnen und Bezüger nach Bildungsstufe und Kanton (Detailansicht)</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Boroż ta’ studju: Ammont u salarji skont il-livell ta’ edukazzjoni u kanton (Veduta dettaljata)</dct:title>
+        <dct:title xml:lang="fr">Bourses: montant et bénéficiaires selon le degré de formation et le canton (vue détaillée)</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

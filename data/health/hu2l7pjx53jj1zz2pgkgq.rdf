@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/hu2l7pjx53jj1zz2pgkgq">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:05:22Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/hu2l7pjx53jj1zz2pgkgq">
+        <dct:description xml:lang="pt-t-en-t0-mtec">Taxa de privação material grave por regiões NUTS</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/HU2l7pjX53JJ1zZ2pgKGQ</dct:identifier>
+        <dct:description xml:lang="de">Rate der erheblichen materiellen Deprivation nach NUTS-Regionen</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="da-t-en-t0-mtec">Andelen af alvorlige materielle afsavn fordelt på NUTS-regioner</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Tasa de privación material grave por regiones NUTS</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-06-15</dct:modified>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Smagas materiālās nenodrošinātības rādītājs pa NUTS reģioniem</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ποσοστό σοβαρής υλικής στέρησης ανά περιφέρειες NUTS</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Tasso di deprivazione materiale grave per regioni NUTS</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/515bc41d-6764-454f-a958-6781a7e3ce0b">
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/b3d67b7c-41d0-4358-9b16-f6df715c7dcd">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Miera závažnej materiálnej deprivácie podľa regiónov NUTS</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Тяжкий рівень депривації матеріалів за регіонами NUTS</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm">
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/hu2l7pjx53jj1zz2pgkgq"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/3659"/>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Vakava aineellinen puute NUTS-alueilla</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Stopnja hude materialne prikrajšanosti po regijah NUTS</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ilc_esms.sdmx.zip">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/ilc_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/hu2l7pjx53jj1zz2pgkgq"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Ráta géardhíthe ábhartha de réir réigiúin NUTS</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Andelen af alvorlige materielle afsavn fordelt på NUTS-regioner</dct:description>
+        <dct:identifier>ilc_mddd21</dct:identifier>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Дял на тежките материални лишения по региони по NUTS</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4050"/>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Stopnja hude materialne prikrajšanosti po regijah NUTS</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd21">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/hu2l7pjx53jj1zz2pgkgq"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd21</schema:url>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd21</schema:url>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="et-t-en-t0-mtec">Suure materiaalse puuduse määr NUTSi piirkondade kaupa</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Wskaźnik poważnej deprywacji materialnej według regionów NUTS</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Тяжкий рівень депривації матеріалів за регіонами NUTS</dct:description>
+        <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach NUTS-Regionen</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Suure materiaalse puuduse määr NUTSi piirkondade kaupa</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Ποσοστό σοβαρής υλικής στέρησης ανά περιφέρειες NUTS</dct:description>
+        <dct:title xml:lang="fr">Taux de privation matérielle sévère par région NUTS</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8e05836f-28d2-4940-bc00-821569e37128">
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Severe material deprivation rate by NUTS regions</dct:title>
+            <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach NUTS-Regionen</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_mddd21.tsv.gz"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/94ee37a1-8f10-4e37-bc9f-983f1ae02f21</dct:identifier>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="fr">Taux de privation matérielle sévère par région NUTS</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_mddd21"/>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Wskaźnik poważnej deprywacji materialnej według regionów NUTS</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Rata ta’ deprivazzjoni materjali estrema skont ir-reġjuni NUTS</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Allvarlig materiell fattigdom per NUTS-regioner</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1469"/>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Ernstige materiële deprivatie per NUTS-regio</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Tasa de privación material grave por regiones NUTS</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Rata de deprivare materială severă pe regiuni NUTS</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Rata de deprivare materială severă pe regiuni NUTS</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Vakava aineellinen puute NUTS-alueilla</dct:description>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/83"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/348d4ce0-2862-4e32-b2fb-cd78b23a7457">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="fr">Taux de privation matérielle sévère par région NUTS</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/d3d1a31d-d391-46fa-85c4-f73aecb933b3</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach NUTS-Regionen</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_mddd21.sdmx.zip"/>
+            <dct:title xml:lang="en">Severe material deprivation rate by NUTS regions</dct:title>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A súlyos anyagi nélkülözés aránya NUTS-régiók szerint</dct:title>
+        <dct:description xml:lang="en">Severe material deprivation rate by NUTS regions</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Míra závažné materiální deprivace podle regionů NUTS</dct:title>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Stopa teške materijalne oskudice po regijama NUTS-a</dct:title>
+        <dct:title xml:lang="en">Severe material deprivation rate by NUTS regions</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8da45382-0410-4346-8338-420d479878c9">
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:title xml:lang="fr">Taux de privation matérielle sévère par région NUTS</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Rate der erheblichen materiellen Deprivation nach NUTS-Regionen</dct:title>
+            <dct:title xml:lang="en">Severe material deprivation rate by NUTS regions</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/f1f0de91-c8b9-48c9-8877-6ca15c678bc5</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_mddd21.tsv.gz&amp;unzip=true"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Taxa de privação material grave por regiões NUTS</dct:title>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Didelio materialinio nepritekliaus lygis pagal NUTS regionus</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Míra závažné materiální deprivace podle regionů NUTS</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Ráta géardhíthe ábhartha de réir réigiúin NUTS</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:description xml:lang="fr">Taux de privation matérielle sévère par région NUTS</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Stopa teške materijalne oskudice po regijama NUTS-a</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Smagas materiālās nenodrošinātības rādītājs pa NUTS reģioniem</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Дял на тежките материални лишения по региони по NUTS</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Didelio materialinio nepritekliaus lygis pagal NUTS regionus</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A súlyos anyagi nélkülözés aránya NUTS-régiók szerint</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Miera závažnej materiálnej deprivácie podľa regiónov NUTS</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/41b02b5c-b154-450e-b1f4-ff2498517317">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2003-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Ernstige materiële deprivatie per NUTS-regio</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Tasso di deprivazione materiale grave per regioni NUTS</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Rata ta’ deprivazzjoni materjali estrema skont ir-reġjuni NUTS</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Allvarlig materiell fattigdom per NUTS-regioner</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>b401c4b35b64fba4bd342933da5e9917</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:05:22Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/hu2l7pjx53jj1zz2pgkgq"/>
+    <dct:identifier>HU2l7pjX53JJ1zZ2pgKGQ</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:03:18Z</dct:issued>
+    <edp:originalLanguage>en</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/annual-list-contractors-2010">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/annual-list-contractors-2010"/>
+    <dct:identifier>annual-list-contractors-2010</dct:identifier>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-30T18:01:54Z</dct:modified>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>2d0818f560d9840a5cb56cb23dd451eb</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/annual-list-contractors-2010">
+        <dct:description xml:lang="sl-t-en-t0-mtec">V skladu s členom 90 finančne uredbe ES, natančneje členoma 118 in 119 splošnih izvedbenih pravil, ki določajo podrobna pravila za oglaševanje pogodb: Neposredne pogodbe v vrednosti od 25 000 EUR do 60,000 EUR in posebne pogodbe, podpisane na podlagi okvirne pogodbe za posamezno ali skupno vrednost nad 125 000 EUR, se objavijo na spletni strani Fuzije za energijo najpozneje do 31. marca naslednjega proračunskega leta po podpisu.Navedene publikacije se nanašajo samo na upravne pogodbe Fuzije za energijo.</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Pagal EB finansinio reglamento 90 straipsnį, konkrečiau – bendrųjų įgyvendinimo taisyklių 118 ir 119 straipsnius, nustatančius išsamias sutarčių skelbimo taisykles: Tiesioginės sutartys, kurių vertė yra nuo 25 000 EUR iki 60 000 EUR, ir specialiosios sutartys, pasirašytos pagal bendrąją sutartį, kurių individuali arba bendra vertė viršija 125 000 EUR, paskelbiamos Branduolių sintezės energetikos vystymo bendrosios įmonės interneto svetainėje ne vėliau kaip kitų finansinių metų, kuriais ji pasirašoma, kovo 31 d. Nurodytos publikacijos yra susijusios tik su Branduolių sintezės energetikos vystymo bendrosios įmonės administracinėmis sutartimis.</dct:description>
+        <dct:description xml:lang="de-t-en-t0-mtec">Gemäß Artikel 90 der Haushaltsordnung, insbesondere den Artikeln 118 und 119 der allgemeinen Durchführungsbestimmungen, mit Durchführungsbestimmungen für die Bekanntmachung von Aufträgen: Direktverträge mit einem Wert zwischen 25 000 EUR und 60 000 EUR sowie Einzelverträge, die im Rahmen eines Rahmenvertrags über einen Einzel- oder kumulierten Wert von mehr als 125,000 EUR unterzeichnet wurden, werden spätestens am 31. März des folgenden Haushaltsjahres ihrer Unterzeichnung auf der Website „Fusion for Energy“ veröffentlicht.Die Veröffentlichungen betreffen nur die Verwaltungsverträge von Fusion for Energy.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b5e34dbc-60ac-4410-b03d-94aed6258fce">
+            <dct:description xml:lang="ga-t-en-t0-mtec">bliantúil_list_conraitheoirí.pdf</dct:description>
+            <adms:status>
+              <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+            </adms:status>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2013-07-15T16:15:01.556031+02:00</dct:issued>
+            <dct:title xml:lang="lt-t-en-t0-mtec">Atsisiųsti duomenų rinkinį pdf formatu</dct:title>
+            <dct:title xml:lang="pl-t-en-t0-mtec">Pobierz zbiór danych w formacie pdf</dct:title>
+            <dct:title xml:lang="ro-t-en-t0-mtec">Descărcați setul de date în format pdf</dct:title>
+            <dct:description xml:lang="nl-t-en-t0-mtec">jaarlijks_list_contractors.pdf</dct:description>
+            <dct:title xml:lang="fi-t-en-t0-mtec">Lataa aineisto pdf-muodossa</dct:title>
+            <dct:title xml:lang="sk-t-en-t0-mtec">Stiahnuť súbor dát vo formáte pdf</dct:title>
+            <dct:title xml:lang="mt-t-en-t0-mtec">Niżżel is-sett tad-data f’format pdf</dct:title>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:description xml:lang="es-t-en-t0-mtec">anual_list_contractors.pdf</dct:description>
+            <dct:title xml:lang="sl-t-en-t0-mtec">Prenos nabora podatkov v formatu pdf</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/pdf"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Download dataset in pdf format</dct:title>
+            <dct:title xml:lang="et-t-en-t0-mtec">Laadige andmekogum alla PDF-vormingus</dct:title>
+            <dct:title xml:lang="nl-t-en-t0-mtec">Download dataset in pdf-formaat</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/9635d42d-2449-42ea-bd29-27a082391e12</dct:identifier>
+            <dct:title xml:lang="sv-t-en-t0-mtec">Ladda ner dataset i pdf-format</dct:title>
+            <dct:title xml:lang="el-t-en-t0-mtec">Κατεβάστε το σύνολο δεδομένων σε μορφή pdf</dct:title>
+            <dct:title xml:lang="cs-t-en-t0-mtec">Stáhnout datovou sadu ve formátu pdf</dct:title>
+            <dct:title xml:lang="hu-t-en-t0-mtec">Adatkészlet letöltése pdf formátumban</dct:title>
+            <dct:description xml:lang="pl-t-en-t0-mtec">annual_list_wykonawcy.pdf</dct:description>
+            <dct:description xml:lang="lv-t-en-t0-mtec">annual_list_Contractors.pdf</dct:description>
+            <dct:title xml:lang="es-t-en-t0-mtec">Descargar el conjunto de datos en formato pdf</dct:title>
+            <dct:title xml:lang="da-t-en-t0-mtec">Download datasæt i pdf-format</dct:title>
+            <dcat:accessURL rdf:resource="http://fusionforenergy.europa.eu/downloads/procurements/annual_list_contractors.pdf"/>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+            </dct:license>
+            <dct:title xml:lang="bg-t-en-t0-mtec">Изтегляне на набор от данни във формат PDF</dct:title>
+            <dct:description xml:lang="mt-t-en-t0-mtec">annwali_list_kuntratturi.pdf</dct:description>
+            <dcat:downloadURL rdf:resource="http://fusionforenergy.europa.eu/downloads/procurements/annual_list_contractors.pdf"/>
+            <dct:title xml:lang="it-t-en-t0-mtec">Scarica il set di dati in formato pdf</dct:title>
+            <dct:description xml:lang="el-t-en-t0-mtec">Annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="hr-t-en-t0-mtec">godišnja_list_izvođači.pdf</dct:description>
+            <dct:description xml:lang="hu-t-en-t0-mtec">Annual_list_contractors.pdf</dct:description>
+            <dct:title xml:lang="hr-t-en-t0-mtec">Preuzmite skup podataka u pdf formatu</dct:title>
+            <dct:description xml:lang="sl-t-en-t0-mtec">Annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="et-t-en-t0-mtec">aastane_list_töövõtjad.pdf</dct:description>
+            <dct:description xml:lang="sk-t-en-t0-mtec">Annual_list_dodávatelia.pdf</dct:description>
+            <dct:title xml:lang="ga-t-en-t0-mtec">Íoslódáil an tacar sonraí i bhformáid pdf</dct:title>
+            <dct:title xml:lang="fr-t-en-t0-mtec">Télécharger l’ensemble de données au format pdf</dct:title>
+            <dct:title xml:lang="lv-t-en-t0-mtec">Lejupielādēt datu kopu pdf formātā</dct:title>
+            <dct:description xml:lang="cs-t-en-t0-mtec">roční_list_dodavatelé.pdf</dct:description>
+            <dct:description xml:lang="da-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="de-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:title xml:lang="pt-t-en-t0-mtec">Baixe o conjunto de dados em formato pdf</dct:title>
+            <dct:description xml:lang="fi-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="fr-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="en">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="ro-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="lt-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="bg-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="pt-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="sv-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:description xml:lang="it-t-en-t0-mtec">annual_list_contractors.pdf</dct:description>
+            <dct:title xml:lang="de-t-en-t0-mtec">Datensatz im PDF-Format herunterladen</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/PDF"/>
+            </dct:format>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de-t-en-t0-mtec">Jährliche Liste der Auftragnehmer 2013</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Liosta bliantúil na gconraitheoirí 2013</dct:title>
+        <dct:description xml:lang="fr-t-en-t0-mtec">Aux termes de l’article 90 du règlement financier CE, et plus particulièrement des articles 118 et 119 des règles générales de mise en œuvre, établissant les modalités d’application des contrats de publicité: Les contrats directs d’une valeur comprise entre 25 000 EUR et 60 000 EUR et les contrats spécifiques signés dans le cadre d’un contrat-cadre d’une valeur individuelle ou cumulée supérieure à 125 000 EUR sont publiés sur le site web Fusion for Energy au plus tard le 31 mars de l’exercice suivant suivant sa signature.Les publications mentionnées ci-dessus ne concernent que les contrats administratifs de Fusion for Energy.</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Lista anuală a contractanților 2013</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Vastavalt EÜ finantsmääruse artiklile 90, täpsemalt üldiste rakenduseeskirjade artiklitele 118 ja 119, milles sätestatakse lepingute väljakuulutamise üksikasjalikud eeskirjad: Otselepingud väärtusega 25 000 kuni 60 000 eurot ning raamlepingu alusel sõlmitud erilepingud, mille maksumus ületab 125 000 eurot, avaldatakse Fusion for Energy veebisaidil hiljemalt selle allkirjastamisele järgneva eelarveaasta 31. märtsiks. Käesolevas dokumendis osutatud väljaanded käsitlevad üksnes Fusion for Energy halduslepinguid.</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/FUSEN"/>
+        </dct:publisher>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Gadskārtējais darbuzņēmēju saraksts 2013. gadā</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Ετήσιος κατάλογος αναδόχων 2013</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">A vállalkozók éves listája 2013</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Σύμφωνα με το άρθρο 90 του δημοσιονομικού κανονισμού ΕΚ, και ειδικότερα με τα άρθρα 118 και 119 των γενικών κανόνων εφαρμογής, που καθορίζουν τις λεπτομέρειες της δημοσιότητας των συμβάσεων: Οι άμεσες συμβάσεις αξίας μεταξύ 25.000 και 60,000 EUR και οι ειδικές συμβάσεις που υπογράφονται στο πλαίσιο σύμβασης-πλαισίου για ατομική ή σωρευτική αξία άνω των 125,000 EUR, δημοσιεύονται στον δικτυακό τόπο της Σύντηξης για ενέργεια το αργότερο έως τις 31 Μαρτίου του επόμενου οικονομικού έτους υπογραφής της.Οι δημοσιεύσεις στις οποίες γίνεται αναφορά αφορούν μόνο τις διοικητικές συμβάσεις της εταιρείας Σύντηξη για ενέργεια.</dct:description>
+        <dct:description xml:lang="en">According to Article 90 of the EC Financial Regulation, and more specifically to Articles 118 and 119 of the general lmplementing Rules, laying down detailed rules for contracts advertising: Direct Contracts with a value between € 25.000 and € 60.000 and, Specific Contracts signed under a Framework Contract for a individual or cumulated value above € 125.000,shall be published on the Fusion for Energy website no later than 31 March of the following financial year of its signature.The publications hereby referred to concerns only the administrative contracts of Fusion for Energy.</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="lt-t-en-t0-mtec">2013 m. metinis rangovų sąrašas</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Letni seznam izvajalcev za leto 2013</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Vuotuinen luettelo toimeksisaajista 2013</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Saskaņā ar EK Finanšu regulas 90. pantu un, konkrētāk, Vispārīgo īstenošanas noteikumu 118. un 119. pantu, kuros paredzēti sīki izstrādāti noteikumi līgumu izsludināšanai: Tiešos līgumus, kuru vērtība ir no EUR 25 000 līdz EUR 60 000, un īpašos līgumus, kas parakstīti saskaņā ar pamatlīgumu par individuālu vai kumulētu vērtību, kura pārsniedz EUR 125 000, publicē Fusion for Energy tīmekļa vietnē ne vēlāk kā nākamā finanšu gada 31. martā pēc tā parakstīšanas.Šajā dokumentā minētās publikācijas attiecas tikai uz “Kodolsintēzes enerģijas ieguvei” administratīvajiem līgumiem.</dct:description>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2018-12-20</dct:modified>
+        <dct:title xml:lang="da-t-en-t0-mtec">Årlig liste over kontrahenter 2013</dct:title>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Годишен списък на изпълнителите за 2013 г.</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/753"/>
+        <dct:description xml:lang="hr-t-en-t0-mtec">U skladu s člankom 90. Financijske uredbe EZ-a i, konkretnije, člancima 118. i 119. općih provedbenih pravila, kojima se utvrđuju detaljna pravila za ugovore oglašavanju: Izravni ugovori u vrijednosti između 25 000 EUR i 60 000 EUR te posebni ugovori potpisani na temelju okvirnog ugovora za pojedinačnu ili kumulativnu vrijednost veću od 125 000 EUR objavljuju se na internetskim stranicama Fuzije za energiju najkasnije 31. ožujka sljedeće financijske godine potpisivanja. U publikacijama se upućuje samo na administrativne ugovore Fuzije za energiju.</dct:description>
+        <dct:description xml:lang="da-t-en-t0-mtec">Artikel 90 i EF-finansforordningen, nærmere bestemt artikel 118 og 119 i de almindelige gennemførelsesbestemmelser, der fastsætter de nærmere regler for offentliggørelse af kontrakter: Direkte kontrakter til en værdi af mellem 25 000 EUR og 60 000 EUR og særkontrakter, der indgås i henhold til en rammekontrakt til en individuel eller samlet værdi på over 125 000 EUR, offentliggøres på Fusion for Energy's websted senest den 31. marts i det følgende regnskabsår efter undertegnelsen.De publikationer, der henvises til, vedrører kun Fusion for Energy's administrative kontrakter.</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Jaarlijkse lijst van contractanten 2013</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/1123"/>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/49f0e0ac-905d-4f26-a284-ac4a678c35ce">
+            <vcard:hasEmail rdf:resource="mailto:info@f4e.europa.eu"/>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/df484a61-bdae-46c0-af56-5bb1417ab4dd">
+                <vcard:street-address>c/ Josep Pla, nº 2 Torres Diagonal Litoral Edificio B3 08019 Barcelona Spain</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+34933201800">
+                <vcard:hasValue rdf:resource="tel:+34933201800"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Fusion for Energy</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://fusionforenergy.europa.eu/">
+                <schema:url>http://fusionforenergy.europa.eu/</schema:url>
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:description xml:lang="fi-t-en-t0-mtec">EY:n varainhoitoasetuksen 90 artiklassa ja erityisesti yleisten soveltamissääntöjen 118 ja 119 artiklassa, joissa säädetään sopimusten julkaisemista koskevista yksityiskohtaisista säännöistä, säädetään seuraavaa: Suorat sopimukset, joiden arvo on 25 000–60 000 euroa, ja puitesopimuksen perusteella allekirjoitetut erillissopimukset, joiden arvo on yli 125 000 euroa, julkaistaan Fusion for Energy -yhteisyrityksen verkkosivustolla viimeistään sen varainhoitovuoden, jona se on allekirjoitettu, 31. maaliskuuta mennessä. Julkaisut koskevat ainoastaan Fusion for Energy -yhteisyrityksen hallinnollisia sopimuksia.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Съгласно член 90 от Финансовия регламент на ЕО, и по-специално членове 118 и 119 от общите правила за прилагане, които определят подробни правила за обявяване на поръчки: Преките договори на стойност между 25 000 EUR и 60 000 EUR и конкретните договори, подписани по рамков договор за индивидуална или кумулативна стойност над 125 000 EUR, се публикуват на уебсайта „Термоядрен синтез за енергия“ не по-късно от 31 март на следващата финансова година от подписването му.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Nos termos do artigo 90.º do Regulamento Financeiro CE e, mais especificamente, dos artigos 118.º e 119.º das regras gerais de execução, que estabelecem as modalidades de publicidade dos contratos: Os contratos diretos com um valor compreendido entre 25 000 EUR e 60 000 EUR e os contratos específicos assinados ao abrigo de um contrato-quadro de valor individual ou cumulado superior a 125 000 EUR serão publicados no sítio Web «Energia de Fusão» até 31 de março do exercício seguinte ao da sua assinatura.As publicações referidas referem-se apenas aos contratos administrativos da Energia de Fusão.</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:title xml:lang="it-t-en-t0-mtec">Elenco annuale dei contraenti 2013</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Lista anual de contratantes 2013</dct:title>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5536"/>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Roczny wykaz wykonawców w 2013 r.</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/ef9efb18-3d77-4c5b-a921-7f3110538f5a">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2013-12-31T00:00:00</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2013-01-01T00:00:00</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Článek 90 finančního nařízení ES, konkrétně články 118 a 119 obecných prováděcích pravidel, která stanoví podrobná pravidla pro zveřejňování zakázek: Přímé smlouvy v hodnotě mezi 25 000 a 60 000 EUR a zvláštní smlouvy podepsané na základě rámcové smlouvy o individuální nebo kumulované hodnotě vyšší než 125 000 EUR se zveřejní na internetových stránkách podniku Fusion for Energy nejpozději do 31. března následujícího rozpočtového roku, kdy byla podepsána.Odkazované publikace se týkají pouze správních smluv podniku Fusion for Energy.</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Årlig förteckning över uppdragstagare 2013</dct:title>
+        <dct:description xml:lang="sv-t-en-t0-mtec">I artikel 90 i EG:s budgetförordning, närmare bestämt artiklarna 118 och 119 i de allmänna genomförandebestämmelserna, föreskrivs följande: Direkta kontrakt till ett värde av mellan 25 000 EUR och 60 000 EUR och särskilda kontrakt som undertecknats inom ramen för ett ramavtal för ett enskilt eller sammanlagt värde över 125 000 EUR ska offentliggöras på webbplatsen Fusion for Energy senast den 31 mars påföljande budgetår efter undertecknandet. De publikationer som avses gäller endast de administrativa kontrakten för Fusion for Energy.</dct:description>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        </dcat:theme>
+        <dct:title xml:lang="es-t-en-t0-mtec">Lista anual de contratistas 2013</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="https://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx">
+            <schema:url>https://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/annual-list-contractors-2010"/>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="ga-t-en-t0-mtec">De réir Airteagal 90 de Rialachán Airgeadais CE, agus go háirithe Airteagal 118 agus Airteagal 119 de na Rialacha maidir le Cur Chun Feidhme ginearálta, lena leagtar síos rialacha mionsonraithe maidir le conarthaí a fhógairt: Déanfar Conarthaí Díreacha dar luach idir EUR 25 000 agus EUR 60.000 agus Conarthaí Sonracha a síníodh faoi Chreatchonradh le haghaidh luach aonair nó luach carntha os cionn EUR 125.000 a fhoilsiú ar shuíomh gréasáin Fuinneamh Comhleá tráth nach déanaí ná an 31 Márta den bhliain airgeadais ina dhiaidh sin.</dct:description>
+        <dct:title xml:lang="fr-t-en-t0-mtec">Liste annuelle des contractants 2013</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Roční seznam dodavatelů za rok 2013</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Ročný zoznam dodávateľov za rok 2013</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Skont l-Artikolu 90 tar-Regolament Finanzjarju tal-KE, u b’mod aktar speċifiku għall-Artikoli 118 u 119 tar-Regoli Ġenerali ta’ Implimentazzjoni, li jistabbilixxu regoli dettaljati għar-reklamar tal-kuntratti: Kuntratti Diretti b’valur ta’ bejn EUR 25 000 u EUR 60.000 u, Kuntratti Speċifiċi ffirmati skont Kuntratt Qafas għal valur individwali jew akkumulat ta’ aktar minn EUR 125 000, għandhom jiġu ppubblikati fuq is-sit web tal-Fużjoni għall-Enerġija mhux aktar tard mill-31 ta’ Marzu tas-sena finanzjarja ta’ wara tal-iffirmar tiegħu.Il-pubblikazzjonijiet imsemmija hawnhekk jikkonċernaw biss il-kuntratti amministrattivi tal-Fużjoni għall-Enerġija.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Godišnji popis izvođača 2013.</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">În conformitate cu articolul 90 din Regulamentul financiar al CE, în special cu articolele 118 și 119 din normele generale de punere în aplicare, care stabilesc norme detaliate pentru contractele de publicitate: Contractele directe cu o valoare cuprinsă între 25 000 EUR și 60 000 EUR și contractele specifice semnate în temeiul unui contract-cadru pentru o valoare individuală sau cumulată mai mare de 125 000 EUR se publică pe site-ul Fusion for Energy cel târziu la data de 31 martie a exercițiului financiar următor semnării sale. Publicațiile menționate se referă numai la contractele administrative ale întreprinderii Fusion for Energy.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Podľa článku 90 rozpočtového nariadenia ES a konkrétnejšie článkov 118 a 119 všeobecných vykonávacích pravidiel stanovujúcich podrobné pravidlá zverejňovania zmlúv: Priame zmluvy s hodnotou od 25 000 EUR do 60 000 EUR a osobitné zmluvy podpísané na základe rámcovej zmluvy s individuálnou alebo kumulovanou hodnotou vyššou ako 125 000 EUR sa uverejnia na internetovej stránke Fusion for Energy najneskôr do 31. marca nasledujúceho rozpočtového roka od jej podpisu. Uvedené publikácie sa týkajú len administratívnych zmlúv spoločného podniku Fusion for Energy.</dct:description>
+        <dct:title xml:lang="en">Annual list of contractors 2013</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Con arreglo al artículo 90 del Reglamento financiero CE y, más concretamente, a los artículos 118 y 119 de las normas generales de desarrollo, que establecen las modalidades de publicidad de los contratos: Los contratos directos por un valor comprendido entre 25.000 y 60 000 EUR y los contratos específicos firmados en el marco de un contrato marco por un valor individual o acumulado superior a 125 000 EUR se publicarán en el sitio web de Fusion for Energy a más tardar el 31 de marzo del ejercicio financiero siguiente a su firma.Las publicaciones se refieren únicamente a los contratos administrativos de Fusion for Energy.</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Az EK költségvetési rendelet 90. cikke, és konkrétabban az általános végrehajtási szabályok 118. és 119. cikke szerint, amelyek a szerződések meghirdetésére vonatkozó részletes szabályokat állapítanak meg: A 25 000 EUR és 60 000 EUR közötti értékű közvetlen szerződéseket, valamint a keretszerződés alapján 125 000 eurót meghaladó egyedi vagy kumulált értékre kötött egyedi szerződéseket legkésőbb az aláírását követő pénzügyi év március 31-ig közzé kell tenni a Fusion for Energy honlapján. Az említett kiadványok csak a Fusion for Energy igazgatási szerződéseire vonatkoznak.</dct:description>
+        <dct:title xml:lang="et-t-en-t0-mtec">Töövõtjate 2013. aasta nimekiri</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx">
+            <dct:title xml:lang="en">Key Reference Documents</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+            </dct:format>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+            </dcat:mediaType>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <dct:description xml:lang="en">Key Reference Documents</dct:description>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/annual-list-contractors-2010"/>
+            <schema:url xml:lang="en">http://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Zgodnie z art. 90 rozporządzenia finansowego WE, a w szczególności z art. 118 i 119 ogólnych zasad wykonania, które określają szczegółowe zasady ogłaszania zamówień: Umowy bezpośrednie o wartości od 25 000 EUR do 60 000 EUR oraz umowy szczegółowe podpisane w ramach umowy ramowej na wartość indywidualną lub skumulowaną powyżej 125 000 EUR publikuje się na stronie internetowej Fusion for Energy nie później niż dnia 31 marca następnego roku budżetowego, w którym została podpisana. Publikacje, o których mowa w niniejszym dokumencie, dotyczą wyłącznie umów administracyjnych Fusion for Energy.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Artikel 90 van het Financieel Reglement van de EG, en meer in het bijzonder de artikelen 118 en 119 van de algemene uitvoeringsvoorschriften, die de uitvoeringsbepalingen voor de bekendmaking van opdrachten bevatten, bepaalt: Rechtstreekse contracten met een waarde tussen 25 000 EUR en 60 000 EUR en specifieke contracten die worden ondertekend in het kader van een raamcontract met een individuele of gecumuleerde waarde van meer dan 125,000 EUR, worden uiterlijk op 31 maart van het volgende begrotingsjaar van de ondertekening ervan bekendgemaakt op de website Fusion for Energy.De publicaties hebben uitsluitend betrekking op de administratieve contracten van Fusion for Energy.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Ai sensi dell'art. 90 del regolamento finanziario CE e, più in particolare, degli artt. 118 e 119 delle norme generali di esecuzione, che stabiliscono le modalità di applicazione degli appalti pubblici: I contratti diretti di valore compreso tra 25 000 EUR e 60 000 EUR e i contratti specifici firmati nell'ambito di un contratto quadro per un valore individuale o cumulativo superiore a 125 000 EUR sono pubblicati sul sito web "Fusion for Energy" entro il 31 marzo dell'esercizio finanziario successivo della firma.Le pubblicazioni in oggetto riguardano solo i contratti amministrativi di Fusion for Energy.</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Lista annwali ta’ kuntratturi 2013</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2015-07-27</dct:issued>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-12-03T11:38:18Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-01T10:01:54Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-02-04T05:34:16Z</edp:transReceived>
+  </dcat:CatalogRecord>
+</rdf:RDF>

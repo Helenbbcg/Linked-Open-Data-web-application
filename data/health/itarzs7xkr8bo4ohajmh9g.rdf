@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/itarzs7xkr8bo4ohajmh9g">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:12:23Z</dct:issued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/itarzs7xkr8bo4ohajmh9g"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/itarzs7xkr8bo4ohajmh9g">
+        <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par NACE</dct:title>
+        <dct:description xml:lang="fr">Il s'agit de chaque nuitée passée par un voyageur ou pour laquelle un client s'est inscrit dans établissement d'hébergement collectif, sa présence physique n'étant pas indispensable.</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Tūristu izmitināšanas uzņēmumos pavadītās naktis pēc NACE</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Noc strávená každou noc je host/turista (rezident nebo nerezident) skutečně stráví (spánky nebo pobyty) nebo je registrován (její fyzická přítomnost tam není nutná) v turistickém ubytovacím zařízení.</dct:description>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Oícheanta caite i mbunachais chóiríochta turasóireachta faoi NACE</dct:title>
+        <dct:title xml:lang="da-t-en-t0-mtec">Overnatninger på turistindlogeringsvirksomheder efter NACE</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/6eace5a5-8f3d-4151-b800-c5b2efccd9e6">
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2021-01-01</dcat:endDate>
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2010-01-01</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Noci strávené v ubytovacích zařízeních cestovního ruchu podle NACE</dct:title>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:description xml:lang="de">Als Übernachtung gilt jede Nacht, die ein Gast in einem Beherbergungsbetrieb verbringt bzw. für die er dort gemeldet ist; die tatsächliche Anwesenheit ist dabei nicht von Belang.</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Idegenforgalmi szálláshelyeken töltött éjszakák NACE szerinti bontásban</dct:title>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tin00177">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tin00177</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/itarzs7xkr8bo4ohajmh9g"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tin00177</schema:url>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/5909"/>
+        <dct:subject rdf:resource="http://eurovoc.europa.eu/4470"/>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Uma noite passada é cada noite que um hóspede/turista (residente ou não residente) passa efetivamente (dorme ou estada) ou está registado (a sua presença física não é desnecessária) num estabelecimento de alojamento turístico.</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Noćenje je svake noći gost/turist (rezident ili nerezident) stvarno provodi (spavanje ili boravak) ili je registriran (njegova fizička prisutnost nije potrebna) u turističkom smještaju.</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Διανυκτερεύσεις σε τουριστικά καταλύματα κατά NACE</dct:title>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Нощувки, прекарани в обекти за туристическо настаняване по NACE</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/59473aa7-faf8-4393-bc1c-04527a7e6a03">
+            <dct:identifier>http://data.europa.eu/88u/distribution/3806f0fb-b91f-43f3-b89a-63eca7175219</dct:identifier>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="fr">Graphique</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">Graph</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&amp;plugin=1&amp;language=en&amp;pcode=tin00177"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sv-t-en-t0-mtec">En natt tillbringas varje natt en gäst/turist (bosatt eller icke bosatt) faktiskt tillbringar (sov eller vistelser) eller är registrerad (hans fysiska närvaro är onödig) på ett turistboende.</dct:description>
+        <dct:identifier>http://data.europa.eu/88u/dataset/iTarZS7xkr8Bo4OHajMh9g</dct:identifier>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Ночі, проведені в закладах туристичного розміщення КВЕД</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        </dcat:theme>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Is ionann oíche a chaitear gach oíche agus aoi/turasóir (cónaitheach nó neamhchónaitheach) a chaitheann go hiarbhír (codlata nó tréimhsí fanachta) nó atá cláraithe (a láithreacht fhisiciúil nach bhfuil gá leis) i mbunaíocht chóiríochta turasóireachta.</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Всяка нощувка е гост/турист (пребиваващ или нерезидент) действително прекарва (сънува или престои) или е регистриран (нейното физическо присъствие там е ненужно) в обект за туристическо настаняване.</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Praleista naktis yra kiekvieną naktį, kurią svečias/turistas (gyventojas arba nerezidentas) faktiškai praleidžia (miega arba būna) arba yra registruotas (jo fizinis buvimas ten nebūtinas) turistų apgyvendinimo įstaigoje.</dct:description>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tin00177"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ff3cd406-a1bd-404f-94b4-c14121e12264">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&amp;init=1&amp;plugin=1&amp;language=en&amp;pcode=tin00177"/>
+            <dct:title xml:lang="en">Map</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/8f9bec66-261a-4a18-87df-fe42f5126dd0</dct:identifier>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="fr">Carte</dct:title>
+            <dct:title xml:lang="de">Karte</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by NACE</dct:title>
+        <dct:description xml:lang="es-t-en-t0-mtec">Una noche es cada noche que un huésped/turista (residente o no residente) realmente pasa (dormir o estadías) o está registrado (su presencia física allí es innecesaria) en un establecimiento de alojamiento turístico.</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Een overnachting is elke nacht die een gast/toerist (inwoner of niet-ingezetene) daadwerkelijk doorbrengt (slaapt of verblijft) of is geregistreerd (zijn/haar fysieke aanwezigheid is er onnodig) in een toeristische accommodatie.</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Prenočitev pomeni vsako noč, ki jo gost/turist (prebivalec ali nerezident) dejansko preživi (spati ali biva) ali je registriran (njegova fizična prisotnost ni potrebna) v turističnem nastanitvenem objektu.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">Una notte trascorsa è ogni notte che un ospite/turista (residente o non residente) spende effettivamente (pernottamenti o soggiorni) o è registrato (la sua presenza fisica non è necessaria) in una struttura ricettiva turistica.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/06632f3a-087a-47f2-bf97-df5a288b3f98">
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:identifier>http://data.europa.eu/88u/distribution/89f3e54f-a76c-4d53-853a-fca30f9a5e22</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by NACE</dct:title>
+            <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par NACE</dct:title>
+            <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben nach NACE</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00177.tsv.gz"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Dormidas em estabelecimentos de alojamento turístico pela NACE</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Turistų apgyvendinimo įstaigose praleistos nakvynės pagal NACE</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Prenočitve v turističnih nastanitvenih obratih po NACE</dct:title>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Minden éjszaka vendég/turista (lakó vagy nem rezidens) ténylegesen (alvás vagy tartózkodás) vagy regisztrálva van (a fizikai jelenléte szükségtelen) egy turisztikai szálláshely-létesítményben.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Noc strávená je každá noc, ktorú hosť/turista (rezident alebo nerezident) skutočne strávi (spánok alebo pobyty) alebo je registrovaný (jeho fyzická prítomnosť tam nie je potrebná) v turistickom ubytovacom zariadení.</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Katru nakti viesis/tūrists (rezidents vai nerezidents) faktiski pavada (miega vai uzturēšanās) vai ir reģistrēts (viņa fiziska klātbūtne tur nav nepieciešama) tūristu mītnē.</dct:description>
+        <dct:title xml:lang="fi-t-en-t0-mtec">NACE:n yöpymiset majoitusliikkeissä</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Ööbimine on iga öö, kui külaline/turism (resident või mitteresident) tegelikult veedab (magab või viibib) või on registreeritud (tema füüsiline kohalolek seal ei ole vajalik) majutusettevõttes.</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Overnachtingen in toeristische accommodaties door de NACE</dct:title>
+        <dct:description xml:lang="ro-t-en-t0-mtec">O noapte petrecută este fiecare noapte pe care un oaspete/turist (rezident sau nerezident) petrece efectiv (somn sau sejururi) sau este înregistrat (prezența sa fizică acolo fiind inutilă) într-o unitate de cazare turistică.</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Notti trascorse presso strutture ricettive turistiche da NACE</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Övernattningar på inkvarteringsanläggningar för turister av Nace</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="en">A night spent is each night a guest/tourist (resident or non-resident) actually spends (sleeps or stays) or is registered (his/her physical presence there being unnecessary) in a tourist accommodation establishment.</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Noćenja u turističkim smještajnim objektima prema NACE</dct:title>
+        <dct:title xml:lang="es-t-en-t0-mtec">Noches pasadas en establecimientos de alojamiento turístico por NACE</dct:title>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Iljieli mqattgħin fi stabbilimenti ta’ akkomodazzjoni turistika skont in-NACE</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Prenocovanie v ubytovacích zariadeniach cestovného ruchu podľa NACE</dct:title>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Ніч проводиться щоночі гостя/туриста (резидента або нерезидента) фактично проводить (спить або перебування) або зареєстрований (його фізична присутність там необов'язкова) в туристичному закладі розміщення.</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Nopți petrecute în unități de cazare turistică de către NACE</dct:title>
+        <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben nach NACE</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Η διανυκτέρευση είναι κάθε βράδυ επισκέπτης/τουριστής (κάτοικος ή μη μόνιμος κάτοικος) στην πραγματικότητα (ύπνος ή διαμονή) ή είναι εγγεγραμμένος (η φυσική του παρουσία είναι περιττή) σε τουριστικό κατάλυμα.</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Vietetty yö on jokainen yö, jonka vieras/turisti (asuva tai ulkomailla asuva) tosiasiallisesti viettää (nukkuu tai oleskelua) tai on rekisteröitynyt (hänen fyysinen läsnäolonsa siellä ei ole tarpeeton) majoitusliikkeessä.</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Lejl li jqatta’ huwa kull lejl mistieden/tourist (residenti jew mhux residenti) fil-fatt iqatta’ (irqad jew soġġorni) jew ikun irreġistrat (il-preżenza fiżika tiegħu ma tkunx meħtieġa) fi stabbiliment ta’ akkomodazzjoni turistika.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7451567c-f34d-4d51-9cea-86160e4427f9">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben nach NACE</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by NACE</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00177.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par NACE</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c47e3b31-299c-4ec2-8202-a6972e1d79b8</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/dd91f5ec-7cb7-42e9-ab61-fb8478d25faf">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="de">Tabelle</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/ee7c2364-4df5-4fde-92c3-cc60949937ff</dct:identifier>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=tin00177"/>
+            <dct:title xml:lang="en">Table</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="fr">Tableau</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/a24858cc-a732-471d-85fd-7641a436dffc">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/c84f8b6d-87e1-4183-b7b9-9ba00941f4bd">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-07</dct:modified>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="et-t-en-t0-mtec">Majutusettevõtetes veedetud ööd NACE järgi</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Noc spędzona co noc to gość/turysta (rezydent lub nierezydent) faktycznie spędza (spanie lub pobyty) lub jest zarejestrowany (jego fizyczna obecność tam jest niepotrzebna) w turystycznych obiektach noclegowych.</dct:description>
+        <dct:identifier>tin00177</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ee6a850f-8fee-4eec-8544-fd2efe66de7b">
+            <dct:title xml:lang="fr">Nuitées dans des établissements d'hébergement touristique par NACE</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="de">Übernachtungen in Beherbergungsbetrieben nach NACE</dct:title>
+            <dct:title xml:lang="en">Nights spent at tourist accommodation establishments by NACE</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00177.sdmx.zip"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/99577caf-30b7-47e2-a5a9-d31451b3bbd6</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-en-t0-mtec">En overnatning er hver nat en gæst/turist (bosiddende eller ikke-bosiddende) faktisk tilbringer (søvn eller ophold) eller er registreret (hans/hendes fysiske tilstedeværelse der er unødvendig) i et turistindkvarteringssted.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Noclegi spędzone w turystycznych obiektach noclegowych przez NACE</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>383ae91d401aaf7356d165d168f91ace</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>iTarZS7xkr8Bo4OHajMh9g</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T14:13:46Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T14:13:46Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

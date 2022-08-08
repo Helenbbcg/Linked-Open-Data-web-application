@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/1uah83b3jaj9m7epch7hg">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/1uah83b3jaj9m7epch7hg">
+        <dct:title xml:lang="mt-t-en-t0-mtec">Persuni maqtula f’inċidenti tat-triq skont it-tip ta’ vettura (sors: KURA) Persuni maqtula f’inċidenti tat-triq skont it-tip ta’ vettura (sors:
+KURA)</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Persuni maqtula f’inċidenti tat-triq skont it-tip ta’ vettura (sors: KURA)</dct:description>
+        <dct:description xml:lang="fr">Personnes tuées dans des accidents de la route, par type de véhicule (source: CARE)</dct:description>
+        <dct:title xml:lang="el-t-en-t0-mtec">Άτομα που σκοτώθηκαν σε τροχαία ατυχήματα ανά τύπο οχήματος (πηγή: ΦΡΟΝΤΊΖΟΥΜΕ)</dct:title>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Osebe, ki so umrle v prometnih nesrečah, glede na vrsto vozila (vir: NEGA)</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Personer som omkommit i trafikolyckor efter typ av fordon (källa: SKÖTSEL) Personer som omkommit i trafikolyckor efter typ av fordon (källa:
+SKÖTSEL)</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Liiklusõnnetustes hukkunud isikud sõidukitüüpide kaupa (allikas: HOOLITSUS)</dct:description>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Osoby zabite w wypadkach drogowych według typu pojazdu (źródło: OPIEKUŃCZY)</dct:description>
+        <dct:title xml:lang="es-t-en-t0-mtec">Personas muertas en accidentes de tráfico por tipo de vehículo (fuente: CUIDADO DE LOS NIÑOS Personas muertas en accidentes de tráfico por tipo de vehículo (fuente:
+CUIDADO DE LOS NIÑOS</dct:title>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Osebe, ki so umrle v prometnih nesrečah, glede na vrsto vozila (vir: NEGA) Osebe, ki so umrle v prometnih nesrečah, glede na vrsto vozila (vir:
+NEGA)</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/TRAN"/>
+        </dcat:theme>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/tran_sf_roadve">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/1uah83b3jaj9m7epch7hg"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/tran_sf_roadve</schema:url>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/tran_sf_roadve</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Personer som omkommit i trafikolyckor efter typ av fordon (källa: SKÖTSEL)</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Pessoas mortas em acidentes rodoviários por tipo de veículo (fonte: CUIDADOS DE SAÚDE)</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Особи, які загинули в дорожньо-транспортних пригодах за типом транспортного засобу (джерело: ДОГЛЯД ЗА ШКІРОЮ)</dct:description>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Personen die zijn gedood bij verkeersongevallen per type voertuig (bron:
+VERZORGING)</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Osoby usmrtené pri dopravných nehodách podľa typu vozidla (zdroj: STAROSTLIVOSŤ)</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Közúti balesetekben elhunyt személyek járműtípusonként (forrás: ELLÁTÁS)</dct:description>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Ceļu satiksmes negadījumos bojā gājušās personas pēc transportlīdzekļa veida (avots: GINEKOLOĢIJA)</dct:description>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Persoane ucise în accidente rutiere în funcție de tipul de vehicul (sursa: ÎNGRIJIRE)</dct:description>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Közúti balesetekben elhunyt személyek járműtípusonként (forrás: ELLÁTÁS) Közúti balesetekben elhunyt személyek járműtípusonként (forrás:
+ELLÁTÁS)</dct:title>
+        <dct:identifier>http://data.europa.eu/88u/dataset/1uaH83b3JAj9m7EpcH7hg</dct:identifier>
+        <dct:description xml:lang="es-t-en-t0-mtec">Personas muertas en accidentes de tráfico por tipo de vehículo (fuente: CUIDADO DE LOS NIÑOS</dct:description>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Лица, загинали при пътнотранспортни произшествия по вид превозно средство (източник: ГРИЖОВНИ ГРИЖИ)</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Eismo įvykiuose žuvę asmenys pagal transporto priemonės tipą (šaltinis: PRIEŽIŪRA)</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Pessoas mortas em acidentes rodoviários por tipo de veículo (fonte: CUIDADOS DE SAÚDE) Pessoas mortas em acidentes rodoviários por tipo de veículo (fonte:
+CUIDADOS DE SAÚDE)</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Особи, які загинули в дорожньо-транспортних пригодах за типом транспортного засобу (джерело: ДОГЛЯД ЗА ШКІРОЮ) Особи, які загинули в дорожньо-транспортних пригодах за типом транспортного засобу (джерело:
+ДОГЛЯД ЗА ШКІРОЮ)</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Liikenneonnettomuuksissa kuolleet ajoneuvotyypeittäin (lähde: HOIVA)</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Osobe poginule u prometnim nesrećama prema vrsti vozila (izvor: ŠTO SE TIČE NJEGE?</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Daoine a maraíodh i dtionóiscí bóthair de réir an chineáil feithicle (foinse: CÚRAM) Daoine a maraíodh i dtionóiscí bóthair de réir an chineáil feithicle (foinse: CÚRAM) Daoine a maraíodh i dtionóiscí bóthair de réir an chineáil feithicle (foinse:
+CÚRAM)</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Liiklusõnnetustes hukkunud isikud sõidukitüüpide kaupa (allikas: HOOLITSUS)</dct:title>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Ceļu satiksmes negadījumos bojā gājušās personas pēc transportlīdzekļa veida (avots: GINEKOLOĢIJA) Ceļu satiksmes negadījumos bojā gājušās personas pēc transportlīdzekļa veida (avots:
+GINEKOLOĢIJA)</dct:title>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Osoby usmrcené při dopravních nehodách podle typu vozidla (zdroj: PÉČE O DĚTI) Osoby usmrcené při dopravních nehodách podle typu vozidla (zdroj:
+PÉČE O DĚTI)</dct:title>
+        <dct:description xml:lang="el-t-en-t0-mtec">Άτομα που σκοτώθηκαν σε τροχαία ατυχήματα ανά τύπο οχήματος (πηγή: ΦΡΟΝΤΊΖΟΥΜΕ)</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Лица, загинали при пътнотранспортни произшествия по вид превозно средство (източник: ГРИЖОВНИ ГРИЖИ)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e514d423-a2a8-45aa-b24d-5d6c106a4e1f">
+            <dct:identifier>http://data.europa.eu/88u/distribution/ccac0a08-4a43-4782-bcff-75ccba0cb1c2</dct:identifier>
+            <dct:title xml:lang="de">Strassenverkehrstote nach Fahrzeugtyp (Quelle: CARE)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Persons killed in road accidents by type of vehicle (source: CARE)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tran_sf_roadve.sdmx.zip"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="fr">Personnes tuées dans des accidents de la route, par type de véhicule (source: CARE)</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/90249ba1-bcb7-4197-b090-bd814d4434f8">
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/276a0633-3024-4f7e-871e-8a3389de390c">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Persoane ucise în accidente rutiere în funcție de tipul de vehicul (sursa: ÎNGRIJIRE) Persoane ucise în accidente rutiere în funcție de tipul de vehicul (sursa:
+ÎNGRIJIRE)</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Osobe poginule u prometnim nesrećama prema vrsti vozila (izvor: ŠTO SE TIČE NJEGE?</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/544e387b-763d-47d8-a0f4-0d93b54e5b12">
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:title xml:lang="fr">Personnes tuées dans des accidents de la route, par type de véhicule (source: CARE)</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/131fb8d3-3cc7-4d2b-b09c-524bf0a92a8c</dct:identifier>
+            <dct:title xml:lang="en">Persons killed in road accidents by type of vehicle (source: CARE)</dct:title>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tran_sf_roadve.tsv.gz&amp;unzip=true"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="de">Strassenverkehrstote nach Fahrzeugtyp (Quelle: CARE)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tran_sf_road_esms.sdmx.zip">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/1uah83b3jaj9m7epch7hg"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/tran_sf_road_esms.sdmx.zip</schema:url>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Osoby usmrtené pri dopravných nehodách podľa typu vozidla (zdroj: STAROSTLIVOSŤ) Osoby usmrtené pri dopravných nehodách podľa typu vozidla (zdroj:
+STAROSTLIVOSŤ)</dct:title>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/tran_sf_roadve"/>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dct:identifier>tran_sf_roadve</dct:identifier>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Daoine a maraíodh i dtionóiscí bóthair de réir an chineáil feithicle (foinse: CÚRAM)</dct:description>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Eismo įvykiuose žuvę asmenys pagal transporto priemonės tipą (šaltinis: PRIEŽIŪRA)</dct:title>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/d5462cf6-f27a-47c9-844a-a86909d6a225">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >1999-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Osoby usmrcené při dopravních nehodách podle typu vozidla (zdroj: PÉČE O DĚTI)</dct:description>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/tran_sf_road_esms.htm">
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/tran_sf_road_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/1uah83b3jaj9m7epch7hg"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-12</dct:modified>
+        <dct:title xml:lang="da-t-en-t0-mtec">Personer, der er dræbt i trafikulykker efter køretøjstype (kilde: PLEJE)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c2ce13e6-f0c3-4225-828b-1b6c73d37145">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="de">Strassenverkehrstote nach Fahrzeugtyp (Quelle: CARE)</dct:title>
+            <dct:title xml:lang="en">Persons killed in road accidents by type of vehicle (source: CARE)</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/a2e4da5c-34a4-41c5-b93e-b4595ab69000</dct:identifier>
+            <dct:title xml:lang="fr">Personnes tuées dans des accidents de la route, par type de véhicule (source: CARE)</dct:title>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tran_sf_roadve.tsv.gz"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="da-t-en-t0-mtec">Personer, der er dræbt i trafikulykker efter køretøjstype (kilde: PLEJE)</dct:description>
+        <dct:title xml:lang="de">Strassenverkehrstote nach Fahrzeugtyp (Quelle: CARE)</dct:title>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Osoby zabite w wypadkach drogowych według typu pojazdu (źródło: OPIEKUŃCZY) Osoby zabite w wypadkach drogowych według typu pojazdu (źródło:
+OPIEKUŃCZY)</dct:title>
+        <dct:description xml:lang="it-t-en-t0-mtec">Persone uccise in incidenti stradali per tipo di veicolo (fonte: CURA)</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Persone uccise in incidenti stradali per tipo di veicolo (fonte: CURA)</dct:title>
+        <dct:description xml:lang="en">Persons killed in road accidents by type of vehicle (source: CARE)</dct:description>
+        <dct:title xml:lang="en">Persons killed in road accidents by type of vehicle (source: CARE)</dct:title>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Liikenneonnettomuuksissa kuolleet ajoneuvotyypeittäin (lähde: HOIVA)</dct:title>
+        <dct:title xml:lang="fr">Personnes tuées dans des accidents de la route, par type de véhicule (source: CARE)</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Personen die zijn gedood bij verkeersongevallen per type voertuig (bron: VERZORGING) Personen die zijn gedood bij verkeersongevallen per type voertuig (bron:
+VERZORGING)</dct:title>
+        <dct:description xml:lang="de">Strassenverkehrstote nach Fahrzeugtyp (Quelle: CARE)</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>1uaH83b3JAj9m7EpcH7hg</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/1uah83b3jaj9m7epch7hg"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:15:38Z</dct:modified>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T12:15:38Z</edp:transIssued>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>ccd20d8be52f8853a00c35550b0816d7</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:13:27Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

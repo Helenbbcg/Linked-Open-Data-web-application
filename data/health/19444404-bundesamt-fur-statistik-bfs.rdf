@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/19444404-bundesamt-fur-statistik-bfs">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:54:47Z</edp:transReceived>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:31Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/19444404-bundesamt-fur-statistik-bfs"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>48c3d81c1da416c9158a2e99ed434c96</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:31Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:39Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/19444404-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="fr">Méthodes de suicide, selon la classe d'âge et le sexe</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Zelfmoordmethoden, per leeftijdsgroep en geslacht</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Savižudybės metodai pagal amžiaus grupes ir lytį</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Metodi di suicidio, per gruppi di età e sesso</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Μέθοδοι αυτοκτονίας, ανά ηλικιακή ομάδα και φύλο</dct:title>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Métodos de suicídio, por grupos etários e sexo</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/81b8e11e-8419-4039-a37b-5dde9dfb7f33">
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Metody samobójstwa, według grupy wiekowej i płci</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Suizidmethoden, nach Altersklasse und Geschlecht</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Selvmordsmetoder, efter aldersgruppe og køn</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444416/master"/>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Methods of suicide, by age group and sex</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Metode de sinucidere, pe grupe de vârstă și sex</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Métodos de suicidio, por grupo de edad y sexo</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Μέθοδοι αυτοκτονίας, ανά ηλικιακή ομάδα και φύλο</dct:title>
+            <dct:title xml:lang="fr">Méthodes de suicide, selon la classe d'âge et le sexe</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Modhanna féinmharaithe, de réir aoisghrúpa agus inscne</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Savižudybės metodai pagal amžiaus grupę ir lytį</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Методи суїциду, за віковою групою і статтю</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Metode samomora po starostni skupini in spolu</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Методи на самоубийство, по възрастова група и пол</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Metode samoubojstva, prema dobnoj skupini i spolu</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Itsemurhamenetelmät ikäryhmittäin ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Metody sebevraždy podle věkové skupiny a pohlaví</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-29T00:00:00</dct:modified>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Enesetappude meetodid vanuserühma ja soo järgi</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pašnāvības metodes pēc vecuma grupas un dzimuma</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Självmordsmetoder, efter åldersgrupp och kön</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Öngyilkossági módszerek korcsoport és nem szerint</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Metodi ta’ suwiċidju, skont il-grupp ta’ età u s-sess</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444416/master"/>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Metódy samovraždy podľa vekovej skupiny a pohlavia</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Métodos de suicídio, por faixa etária e sexo</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Methoden van zelfmoord, naar leeftijdsgroep en geslacht</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:identifier>19444416-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Metodi di suicidio, per fascia di età e sesso</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">statistica-delle-cause-di-morte-e-di-mortinatalita</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Metódy samovraždy podľa vekových skupín a pohlavia</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Metody samobójcze, według grup wiekowych i płci</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="de">Suizidmethoden, nach Altersgruppen und Geschlecht</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.11"/>
+        <dct:title xml:lang="es-t-de-t0-mtec">Métodos de suicidio, por grupos de edad y sexo</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Metode samomora po starostnih skupinah in spolu</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Självmordsmetoder, efter åldersgrupper och kön</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Itsemurhamenetelmät ikäryhmittäin ja sukupuolen mukaan</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Pašnāvības metodes pēc vecuma grupām un dzimuma</dct:title>
+        <dct:identifier>19444404@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Metodi ta’ suwiċidju, skont il-gruppi ta’ età u s-sess</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e11e76f1-b186-4501-91a5-cb4abf55f0e2">
+            <dct:identifier>19444416-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.03.04.01.11"/>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Metode samomora po starostni skupini in spolu</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Metody samobójstwa, według grupy wiekowej i płci</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Savižudybės metodai pagal amžiaus grupę ir lytį</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Methods of suicide, by age group and sex</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Métodos de suicidio, por grupo de edad y sexo</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Методи суїциду, за віковою групою і статтю</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Μέθοδοι αυτοκτονίας, ανά ηλικιακή ομάδα και φύλο</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:title xml:lang="fr">Méthodes de suicide, selon la classe d'âge et le sexe</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Metode samoubojstva, prema dobnoj skupini i spolu</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Metody sebevraždy podle věkové skupiny a pohlaví</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Methoden van zelfmoord, naar leeftijdsgroep en geslacht</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Metodi ta’ suwiċidju, skont il-grupp ta’ età u s-sess</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Metódy samovraždy podľa vekovej skupiny a pohlavia</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Metodi di suicidio, per fascia di età e sesso</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Методи на самоубийство, по възрастова група и пол</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Öngyilkossági módszerek korcsoport és nem szerint</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Métodos de suicídio, por faixa etária e sexo</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Självmordsmetoder, efter åldersgrupp och kön</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Metode de sinucidere, pe grupe de vârstă și sex</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Modhanna féinmharaithe, de réir aoisghrúpa agus inscne</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Suizidmethoden, nach Altersklasse und Geschlecht</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Enesetappude meetodid vanuserühma ja soo järgi</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Pašnāvības metodes pēc vecuma grupas un dzimuma</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Itsemurhamenetelmät ikäryhmittäin ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Selvmordsmetoder, efter aldersgruppe og køn</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Suicide methods, by age groups and sex</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Metode samoubojstva, prema dobnim skupinama i spolu</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:keyword xml:lang="de">statistik-der-todesursachen-und-totgeburten</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Методи на самоубийство, по възрастови групи и пол</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-12-21T00:00:00</dct:issued>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Суїцидальні методи, за віковими групами та статтю</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:59:08.344005</dct:modified>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Metode de sinucidere, pe grupe de vârstă și sex</dct:title>
+        <dcat:keyword xml:lang="en">cause-of-death-and-stillbirth-statistics</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Modhanna féinmharaithe, de réir aoisghrúpaí agus gnéis</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Selvmordsmetoder, efter aldersgruppe og køn</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="et-t-de-t0-mtec">Enesetappude meetodid, vanuserühmade ja soo järgi</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Öngyilkossági módszerek korcsoportok és nem szerint</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9c28e51b-1132-4127-9f96-20ec5f070aaf">
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašnāvības metodes pēc vecuma grupām un dzimuma</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.11"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Öngyilkossági módszerek korcsoportok és nem szerint</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zelfmoordmethoden, per leeftijdsgroep en geslacht</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Metodi ta’ suwiċidju, skont il-gruppi ta’ età u s-sess</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Metode samomora po starostnih skupinah in spolu</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μέθοδοι αυτοκτονίας, ανά ηλικιακή ομάδα και φύλο</dct:title>
+            <dct:title xml:lang="de">Suizidmethoden, nach Altersgruppen und Geschlecht</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Modhanna féinmharaithe, de réir aoisghrúpaí agus gnéis</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Metody samobójcze, według grup wiekowych i płci</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Méthodes suicidaires, par groupe d’âge et par sexe</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Metode de sinucidere, pe grupe de vârstă și sex</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Metody sebevraždy podle věkových skupin a pohlaví</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Selvmordsmetoder, efter aldersgruppe og køn</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Суїцидальні методи, за віковими групами та статтю</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Enesetappude meetodid, vanuserühmade ja soo järgi</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Методи на самоубийство, по възрастови групи и пол</dct:title>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savižudybės metodai pagal amžiaus grupes ir lytį</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Metódy samovraždy podľa vekových skupín a pohlavia</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Självmordsmetoder, efter åldersgrupper och kön</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Metode samoubojstva, prema dobnim skupinama i spolu</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Metodi di suicidio, per gruppi di età e sesso</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="es-t-de-t0-mtec">Métodos de suicidio, por grupos de edad y sexo</dct:title>
+            <dct:identifier>19444409-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">Suicide methods, by age groups and sex</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Itsemurhamenetelmät ikäryhmittäin ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Métodos de suicídio, por grupos etários e sexo</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">statistique-des-causes-de-deces-et-des-mortinaissances</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/109c0672-1700-4175-95c7-cff3ffe77e6f">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Metode samoubojstva, prema dobnim skupinama i spolu</dct:title>
+            <dct:title xml:lang="de">Suizidmethoden, nach Altersgruppen und Geschlecht</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Zelfmoordmethoden, per leeftijdsgroep en geslacht</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Itsemurhamenetelmät ikäryhmittäin ja sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Öngyilkossági módszerek korcsoportok és nem szerint</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Suicide methods, by age groups and sex</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Pašnāvības metodes pēc vecuma grupām un dzimuma</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Métodos de suicidio, por grupos de edad y sexo</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Metody sebevraždy podle věkových skupin a pohlaví</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-29T00:00:00</dct:modified>
+            <dct:title xml:lang="et-t-de-t0-mtec">Enesetappude meetodid, vanuserühmade ja soo järgi</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Självmordsmetoder, efter åldersgrupper och kön</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Metode samomora po starostnih skupinah in spolu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444409/master"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Métodos de suicídio, por grupos etários e sexo</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444409/master"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Metódy samovraždy podľa vekových skupín a pohlavia</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Metody samobójcze, według grup wiekowych i płci</dct:title>
+            <dct:identifier>19444409-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Modhanna féinmharaithe, de réir aoisghrúpaí agus gnéis</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Суїцидальні методи, за віковими групами та статтю</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Méthodes suicidaires, par groupe d’âge et par sexe</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Metodi ta’ suwiċidju, skont il-gruppi ta’ età u s-sess</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Selvmordsmetoder, efter aldersgruppe og køn</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Savižudybės metodai pagal amžiaus grupes ir lytį</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="it-t-de-t0-mtec">Metodi di suicidio, per gruppi di età e sesso</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Μέθοδοι αυτοκτονίας, ανά ηλικιακή ομάδα και φύλο</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Методи на самоубийство, по възрастови групи и пол</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Metode de sinucidere, pe grupe de vârstă și sex</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Metody sebevraždy podle věkových skupin a pohlaví</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:identifier>19444404@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+  </dcat:CatalogRecord>
+</rdf:RDF>

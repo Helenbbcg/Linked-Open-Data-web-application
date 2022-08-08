@@ -1,0 +1,537 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:locn="http://www.w3.org/ns/locn#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcatapde="http://dcat-ap.de/def/dcatde/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/6cd99421-30d4-466a-930b-7a260e1240a2">
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/6cd99421-30d4-466a-930b-7a260e1240a2">
+        <dct:description xml:lang="es-t-de-t0-mtec">Este conjunto de datos cubre los corredores de la Ciudad Hanseática y Universitaria de Rostock. Por lo general, los recursos se actualizan en los siguientes intervalos: 3 días</dct:description>
+        <dct:description xml:lang="fr-t-de-t0-mtec">Cet ensemble de données comprend les couloirs dans la ville hanséatique et universitaire de Rostock. Les ressources sont généralement mises à jour à l’intervalle suivant: 3 jours</dct:description>
+        <dcat:keyword>stadtverwaltung</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geodienste@rostock.de"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:spatial>
+          <dct:Location>
+            <locn:geometry rdf:datatype="https://replacement.io/assignments/media-types/application/vnd.geo+json"
+            >{"type":"Polygon","coordinates":[[[11.9936, 54.0486], [11.9936, 54.2466], [12.3045, 54.2466], [12.3045, 54.0486], [11.9936, 54.0486]]]}</locn:geometry>
+            <locn:geometry rdf:datatype="http://replacement.io/ont/geosparql#wktLiteral"
+            >POLYGON ((11.9936 54.0486, 11.9936 54.2466, 12.3045 54.2466, 12.3045 54.0486, 11.9936 54.0486))</locn:geometry>
+          </dct:Location>
+        </dct:spatial>
+        <dct:title>Fluren</dct:title>
+        <dct:accessRights>public</dct:accessRights>
+        <dcatapde:geocodingDescription>Rostock</dcatapde:geocodingDescription>
+        <dct:description xml:lang="da-t-de-t0-mtec">Dette datasæt dækker korridorerne i Hansestaden og University City of Rostock. Ressourcerne opdateres normalt med følgende intervaller: 3 dage Dette datasæt dækker korridorerne i Hansestaden og University City of Rostock.
+Ressourcerne opdateres normalt med følgende intervaller:
+3 dage</dct:description>
+        <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+        <dcatapde:maintainer>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>geodienste@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dcatapde:maintainer>
+        <dct:identifier>6cd99421-30d4-466a-930b-7a260e1240a2</dct:identifier>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Acest set de date acoperă coridoarele din orașul Hanseatic și Universitatea din Rostock. Resursele sunt, de obicei, actualizate la următoarele intervale: 3 zile</dct:description>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Tämä aineisto kattaa käytävät Hanseatic ja University City of Rostock. Resursseja päivitetään yleensä seuraavin väliajoin: 3 päivää</dct:description>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+        <dct:description xml:lang="en-t-de-t0-mtec">This dataset covers the corridors in the Hanseatic and University City of Rostock. The resources are usually updated at the following intervals: 3 days</dct:description>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2017-08-01T10:46:45.590516</dct:issued>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+        <dct:description xml:lang="it-t-de-t0-mtec">Questa serie di dati copre i corridoi della città anseatica e universitaria di Rostock. Le risorse sono solitamente aggiornate ai seguenti intervalli: 3 giorni</dct:description>
+        <dcatapde:politicalGeocodingURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Denna dataset täcker korridorerna i Hanseatic och University City of Rostock. Resurserna uppdateras vanligtvis med följande intervall: 3 dagar</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcatapde:contributorID rdf:resource="http://dcat-ap.de/def/contributors/openDataHRO"/>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+        <dct:description xml:lang="hu-t-de-t0-mtec">Ez az adatkészlet a Hanza és a University City of Rostock folyosóit fedi le. Az erőforrásokat általában a következő időközönként frissítik: 3 nap Ez az adatkészlet a Hanza és a University City of Rostock folyosóit fedi le.
+Az erőforrásokat általában a következő időközönként frissítik:
+3 nap</dct:description>
+        <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+        <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Този набор от данни обхваща коридорите в ханзейския и университетския град Рощок. Ресурсите обикновено се актуализират на следните интервали: 3 дни</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Deze dataset omvat de corridors in de Hanzestad en de Universiteitsstad Rostock. De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt: 3 dagen Deze dataset omvat de corridors in de Hanzestad en de Universiteitsstad Rostock.
+De middelen worden gewoonlijk met de volgende tussenpozen bijgewerkt:
+3 dagen</dct:description>
+        <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4211f0e5-43e0-40a1-b350-fb1912cb087e">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.csv"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.csv"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/93bb3600-56b2-4c97-bc2d-615b17622718</dct:identifier>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title>Fluren</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >aaebd66c927b64104be886a105aa0938488613d47252901b2912b01ef218d4de</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >837031</dcat:byteSize>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Clúdaíonn an tacar sonraí seo na conairí i gCathair Hanseatic agus Ollscoil Rostock. Déantar na hacmhainní a nuashonrú de ghnáth ag na heatraimh seo a leanas: 3 lá</dct:description>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/5091e286-e2cb-4231-907f-033a89631c37">
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/4d5eeff5-0c5c-431b-92ea-c1128211289a</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <dct:title>Fluren</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/fluren/wms"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="et-t-de-t0-mtec">See andmekogum hõlmab koridore Hanseatic ja University City of Rostock. Ressursse ajakohastatakse tavaliselt järgmiste ajavahemike järel: 3 päeva</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Šī datu kopa aptver Hanzas un Rostokas Universitātes koridorus. Resursi parasti tiek atjaunināti ar šādiem intervāliem: 3 dienas</dct:description>
+        <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T04:30:27.702638</dct:modified>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tento datový soubor pokrývá koridory v hanzovním a univerzitním městě Rostock. Zdroje se obvykle aktualizují v následujících intervalech: 3 dny</dct:description>
+        <dcatapde:politicalGeocodingLevelURI rdf:resource="http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3e076338-edf7-4dc7-8ecc-b948494d7d94">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.gml"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/gml+xml"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.gml"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/3bbdb6d8-d4c1-43f8-94fd-8facd4cbe3b5</dct:identifier>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GML"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >908391</dcat:byteSize>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >84baabf15ca31e4758770d381c764f696a321cd146a57b1bae23357c4bdd30ad</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title>Fluren</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Ta nabor podatkov zajema koridorje v Hanseaticskem in univerzitetnem mestu Rostock. Viri se običajno posodabljajo v naslednjih časovnih presledkih: 3 dni</dct:description>
+        <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/954d4383-32de-4e3b-b362-cb2bc0e9e38e">
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.shp.zip"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >257430</dcat:byteSize>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.shp"/>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:title>Fluren</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/b0b60373-4a0b-4bf5-9411-07da0a364cf6</dct:identifier>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.shp.zip"/>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >80466844d112d875cb5d4a544fbd2206ccdc0679735d7e584c3079264467db32</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/SHP"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e20dab6c-dbda-4715-a4c3-2e6484ccf470">
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/e8a28509-cb3a-4903-ad4d-651e0339b9ab</dct:identifier>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >53ee7955600bfaec9e4f301e1e339fb5f601d2886fbe3699c8f14f30342f577c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.kml"/>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KML"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >890997</dcat:byteSize>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dct:title>Fluren</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.kml"/>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šis duomenų rinkinys apima Hanzos ir Rostoko universiteto koridorius. Ištekliai paprastai atnaujinami tokiais intervalais: 3 dienos</dct:description>
+        <dct:description xml:lang="pt-t-de-t0-mtec">Este conjunto de dados abrange os corredores da cidade hanseática e universitária de Rostock. Os recursos são geralmente atualizados nos seguintes intervalos: 3 dias Este conjunto de dados abrange os corredores da cidade hanseática e universitária de Rostock.
+Os recursos são geralmente atualizados nos seguintes intervalos:
+3 dias</dct:description>
+        <dct:creator>
+          <foaf:Organization>
+            <foaf:name>Hanse- und Universitätsstadt Rostock – Kataster-, Vermessungs- und Liegenschaftsamt</foaf:name>
+            <foaf:mbox>opendata.hro@rostock.de</foaf:mbox>
+          </foaf:Organization>
+        </dct:creator>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/8eefb8ee-968c-467d-b947-1de73491ed4e">
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.xlsx"/>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >4e4771ded27f3c70df212b471dc37d063c7948efd9f4bec4de459533995ca45a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.xlsx"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dct:title>Fluren</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >6816</dcat:byteSize>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/6a577099-8a7e-44d1-ba1b-20a09782a26a</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>verwaltungsgrenze</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e7239d1e-809e-40eb-abad-34a8f8c00515">
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:title>Fluren</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/b8353395-9d46-4031-988e-5f90c47cd5da</dct:identifier>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WFS"/>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/geodienste/fluren/wfs"/>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword>kataster</dcat:keyword>
+        <dct:spatial>
+          <dct:Location>
+            <locn:adminUnitL2 rdf:resource="http://dcat-ap.de/def/politicalGeocoding/regionalKey/130030000000"/>
+          </dct:Location>
+        </dct:spatial>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tento súbor údajov pokrýva koridory v hanzovom a univerzitnom meste Rostock. Zdroje sa zvyčajne aktualizujú v týchto intervaloch: 3 dni</dct:description>
+        <dcat:keyword>kommunalverwaltung</dcat:keyword>
+        <dcat:keyword>grenze</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+        <dct:description xml:lang="mt-t-de-t0-mtec">Dan is-sett ta’ data jkopri l-kurituri fil-Belt Anseatika u Universitarja ta’ Rostock. Ir-riżorsi normalment jiġu aġġornati fl-intervalli li ġejjin: 3 ijiem</dct:description>
+        <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Ten zbiór danych obejmuje korytarze w hanzeatyckim i uniwersyteckim mieście Rostock. Zasoby są zazwyczaj aktualizowane w następujących odstępach czasu: 3 dni</dct:description>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.opendata-hro.de/organization/b952e781-ab4c-456a-8e7a-2845f7efaf83">
+            <foaf:name>Hanse- und Universitätsstadt Rostock</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:keyword>verwaltung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7da56d2a-21d9-40ca-9bc6-17a6ddfa64e4">
+            <dct:license rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/geo+json"/>
+            <dct:title>Fluren</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Koridoriai</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Korridorer</dct:title>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"
+            >710799</dcat:byteSize>
+            <dct:title xml:lang="el-t-de-t0-mtec">Διάδρομοι</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Couloirs</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Corredores</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Kurituri</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2015-08-20T10:13:55</dct:issued>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Coridoare</dct:title>
+            <dct:identifier>https://www.opendata-hro.de/dataset/6cd99421-30d4-466a-930b-7a260e1240a2/resource/6cd99421-30d4-466a-930b-7a260e1240a2</dct:identifier>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Käytävät</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Korridorer</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-22T01:06:26</dct:modified>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary"
+                >8d3aa896e3d067669ced907c0edabfa952dee5e824d13cd871ca4f34ca80808c</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://dcat-ap.de/def/hashAlgorithms/sha/256"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/GEOJSON"/>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Коридори</dct:title>
+            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/DEU"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Conairí</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Koridory</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gangen</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Corridors</dct:title>
+            <dct:rights rdf:resource="http://dcat-ap.de/def/licenses/cc-zero"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Corridoi</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Folyosók</dct:title>
+            <dct:conformsTo>http://dcat-ap.de/def/dcatde/</dct:conformsTo>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Koridorid</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Koridori</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Koridorji</dct:title>
+            <dcat:accessURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.json"/>
+            <dcat:downloadURL rdf:resource="https://geo.sv.rostock.de/download/opendata/fluren/fluren.json"/>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Chodby</dct:title>
+            <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pasillos</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Korytarze</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description>Dieser Datensatz umfasst die Fluren in der Hanse- und Universitätsstadt Rostock. Die Ressourcen werden in der Regel im folgenden Zeitabstand aktualisiert: 3 Tage</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Αυτό το σύνολο δεδομένων καλύπτει τους διαδρόμους της Χανσεατικής και της Πανεπιστημιακής Πόλης του Ρόστοκ. Οι πόροι επικαιροποιούνται συνήθως στα ακόλουθα χρονικά διαστήματα: 3 ημέρες</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Ovaj skup podataka obuhvaća koridore u hanzeatskom i sveučilišnom gradu Rostocku. Resursi se obično ažuriraju u sljedećim intervalima: 3 dana</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/6cd99421-30d4-466a-930b-7a260e1240a2"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-14T23:45:20Z</edp:transIssued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-01-14T23:46:03Z</edp:transReceived>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>a21116c1d962fa91fc95bfc73f0c669d</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2021-10-11T14:11:39Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T23:46:34Z</dct:modified>
+    <dct:identifier>6cd99421-30d4-466a-930b-7a260e1240a2</dct:identifier>
+  </dcat:CatalogRecord>
+</rdf:RDF>

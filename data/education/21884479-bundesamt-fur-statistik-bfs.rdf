@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/21884479-bundesamt-fur-statistik-bfs">
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:47Z</dct:issued>
+    <dct:identifier>21884479@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:26:24Z</edp:transReceived>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:56Z</dct:modified>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/21884479-bundesamt-fur-statistik-bfs"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:47Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>9a101e0c70372fdc0f4ef7170a36a922</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/21884479-bundesamt-fur-statistik-bfs">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/7870da6e-5d2e-4bf1-b804-61f983a29616">
+            <dct:title xml:lang="sl-t-it-t0-mtec">Novi študenti SUP na diplomski/diplomski ravni (brez ASP) na leto, študijsko področje, državljanstvo (kategorija) in univerzitetno šolo</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Νέοι φοιτητές SUP σε επίπεδο πτυχίου/εργαστηρίου (χωρίς ASP) ανά έτος, πεδίο σπουδών, εθνικότητα (κατηγορία) και πανεπιστημιακή σχολή</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Nowi studenci SUP na poziomie dyplomu/kategorii (bez ASP) rocznie, kierunek studiów, narodowość (kategoria) i szkoła wyższa</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Нови студенти по SUP на ниво диплома/бакалавър (без ASP) годишно, област на обучение, националност (категория) и университетско училище</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Noví študenti SUP na diplomovej/bakalárskej úrovni (bez ASP) za rok, študijný odbor, štátna príslušnosť (kategória) a univerzitná škola</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Nouveaux étudiants SUP au niveau diplôme/bachelor (sans ASP) par an, domaine d’études, nationalité (catégorie) et école universitaire</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Noví studenti SUP na úrovni diplomu/bakalářského studia (bez ASP) za rok, obor, státní příslušnost (kategorie) a vysokou školu</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Novi studenti SUP-a na razini diplome/prvostupnika (bez ASP-a) godišnje, području studija, državljanstvu (kategorija) i sveučilišnoj školi</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Uued SUP üliõpilased diplomi/bakalaureuse tasemel (ilma ASPta) aastas, õppevaldkonnas, rahvuses (kategoorias) ja ülikoolikoolis</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Jauni SUP studenti diploma/bakalaura līmenī (bez ASP) gadā, studiju jomā, valstspiederībā (kategorijā) un universitātes skolā</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Noi studenți SUP la nivel de diplomă/licență (fără ASP) pe an, domeniul de studiu, naționalitatea (categoria) și școala universitară</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="da-t-it-t0-mtec">Nye SUP-studerende på eksamensbevis/bachelorniveau (uden ASP) pr. år, studieområde, nationalitet (kategori) og universitetsskole</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Uudet SUP-opiskelijat, joilla on tutkintotodistus/kandidaattitaso (ilman ASP:tä) vuodessa, opintoala, kansalaisuus (luokka) ja yliopistokoulu</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">New SUP students at diploma/bachelor levels (without ASP) per year, field of study, nationality (category) and university school</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Нові студенти СУП на дипломних / бакалаврських рівнях (без ASP) на рік, галузі навчання, національності (категорія) та університетської школи</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Mic léinn nua aon úsáide ar leibhéil dioplóma/baitsiléara (gan ASP) in aghaidh na bliana, réimse staidéir, náisiúntacht (catagóir) agus scoil ollscoile</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/px-x-1502040200_182"/>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Nieuwe SUP-studenten op diploma-/bachelorniveau (zonder ASP) per jaar, vakgebied, nationaliteit (categorie) en universitaire school</dct:title>
+            <dct:identifier>21884483-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-it-t0-mtec">Nuevos estudiantes de SUP en los niveles de diploma/bachillerato (sin ASP) por año, campo de estudio, nacionalidad (categoría) y escuela universitaria</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Studenti SUP ġodda f’livelli ta’ diploma/baċellerat (mingħajr ASP) fis-sena, qasam ta’ studju, nazzjonalità (kategorija) u skola universitarja</dct:title>
+            <dct:title xml:lang="it">Nuovi studenti SUP ai livelli diploma/bachelor (senza ASP) per anno, settore di studio, nazionalità (categoria) e scuola universitaria</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="de-t-it-t0-mtec">Neue SUP-Studierende auf Diplom-/Bachelorstufen (ohne ASP) pro Jahr, Studienfach, Nationalität (Kategorie) und Universitätsschule</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">Új SUP hallgatók diploma/alapképzési szinten (ASP nélkül) évente, tanulmányi területen, nemzetiségben (kategória) és egyetemi iskolában</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Novos alunos da SUP nos níveis de diploma/bachelor (sem ASP) por ano, campo de estudo, nacionalidade (categoria) e escola universitária</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Nya SUP-studenter på diplom/kandidatnivå (utan ASP) per år, ämnesområde, nationalitet (kategori) och universitetsskola</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Nauji SUP studentai diplomu/bakalauro lygiu (be ASP) per metus, studijų sritis, pilietybė (kategorija) ir universitetinė mokykla</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Iontrálacha chuig leibhéil Dioplóma agus Baitsiléir Eolaíochtaí Feidhmeacha (gan PH san áireamh) de réir bliana, roinne, náisiúntachta (catagóir) agus ollscoile</dct:title>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Felvételi szintek Diploma és Bachelor of Applied Sciences (kivéve PH) év, osztály, nemzetiség (kategória) és egyetem</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4462ab46-6e2d-4ab6-9bdd-46c4d530f5c8">
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Candidatos ao diploma/nível de bacharel de universidades especializadas (sem HEP) por ano, campo de estudo, nacionalidade (categoria) e universidade</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Absolventi diplomové/bakalářské úrovně specializovaných univerzit (bez HEP) podle roku, oboru, státní příslušnosti (kategorie) a univerzity</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Absolventen der Fachhochschulen (ohne HEP) nach Jahrgang, Studienfach, Nationalität (Kategorie) und Hochschule</dct:title>
+            <dct:title xml:lang="fr">Entrants aux niveaux diplôme/bachelor des hautes écoles spécialisées (sans HEP) selon l'année, le domaine d'études, la nationalité (catégorie) et la haute école</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Upisnici na diplomu/preddiplomsku razinu specijaliziranih sveučilišta (bez HEP-a) po godini, području studija, državljanstvu (kategorija) i sveučilištu</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Erialaülikoolide diplomi/bakalaureuse taseme (ilma HEP-ita) sisenejad aasta, õppevaldkonna, rahvuse (kategooria) ja ülikooli järgi</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tutkinnon suorittaneet korkeakouluissa (ilman HEP:tä) vuosittain, koulutusala, kansalaisuus (luokka) ja yliopisto</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Înscrierea la nivelul de diplomă/licență al universităților specializate (fără HEP) pe an, domeniu de studiu, naționalitate (categorie) și universitate</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Участници в дипломата/бакалавърското ниво на специализираните университети (без HEP) по година, област на обучение, националност (категория) и университет</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Deelnemers aan het diploma/bachelorniveau van gespecialiseerde universiteiten (zonder HEP) per jaar, vakgebied, nationaliteit (categorie) en universiteit</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Абітурієнти на диплом/бакалаврський рівень спеціалізованих університетів (без HEP) по року, галузі навчання, національності (категорія) та університету</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Iontrálaithe ar an leibhéal dioplóma/bachelor na n-ollscoileanna speisialaithe (gan HEP) de réir bliana, réimse staidéir, náisiúntacht (catagóir) agus ollscoil</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Kandidati za diplomo/diplomsko raven specializiranih univerz (brez HEP) po letu, študijskem področju, državljanstvu (kategoriji) in univerzitetno</dct:title>
+            <dct:identifier>21884483-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A szakosított egyetemek oklevelébe/alapképzésébe (HEP nélkül) belépők év, tanulmányi terület, nemzetiség (kategória) és egyetem szerint</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Participantes en el nivel de diploma/bachillerato de universidades especializadas (sin HEP) por año, campo de estudio, nacionalidad (categoría) y universidad</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>fr</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Uchádzači o diplom/bakalársky stupeň špecializovaných univerzít (bez VP) podľa roku, študijného odboru, štátnej príslušnosti (kategória) a univerzity</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Specializētu universitāšu (bez HEP) diplomu/bakalaura līmeņa dalībnieki pēc gada, studiju jomas, valstspiederības (kategorija) un universitātes</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Entrants to the diploma/bachelor level of specialised universities (without HEP) by year, field of study, nationality (category) and university</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1502040200_182"/>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Συμμετέχοντες στο πτυχίο/πτυχίο ειδικευμένων πανεπιστημίων (χωρίς HEP) ανά έτος, τομέα σπουδών, εθνικότητα (κατηγορία) και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Iscritti al livello di diploma/laurea di università specializzate (senza HEP) per anno, campo di studio, nazionalità (categoria) e università</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Deltagare på examensbevis/kandidatnivå vid specialiserade universitet (utan HEP) per år, utbildningsområde, nationalitet (kategori) och universitet</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Osoby wchodzące na dyplom/poziom licencjacki wyspecjalizowanych uniwersytetów (bez HEP) według roku, kierunku studiów, narodowości (kategorii) i uniwersytetu</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Specializuotų universitetų diplomo/bakalauro lygio (be HEP) dalyviai pagal metus, studijų sritį, pilietybę (kategoriją) ir universitetą</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Parteċipanti fil-livell ta’ diploma/baċellerat ta’ universitajiet speċjalizzati (mingħajr HEP) skont is-sena, il-qasam ta’ studju, in-nazzjonalità (kategorija) u l-università</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Deltagere på specialuniversiteternes eksamensbevis/bachelorniveau (uden HEP) efter år, studieområde, nationalitet (kategori) og universitet</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>it</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1b5e7600-2327-4dc3-81e3-38760c1c2d5c">
+            <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή σε επίπεδα Δίπλωμα και Bachelor of Applied Sciences (εκτός PH) ανά έτος, τμήμα, εθνικότητα (κατηγορία) και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="de">Eintritte auf Stufen Diplom und Bachelor der Fachhochschulen (ohne PH) nach Jahr, Fachbereich, Staatsangehörigkeit (Kategorie) und Hochschule</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Toelatingen tot niveaus Diploma en Bachelor of Applied Sciences (exclusief PH) per jaar, afdeling, nationaliteit (categorie) en universiteit</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Entrée aux niveaux Diplôme et baccalauréat des hautes écoles spécialisées (sans PH) par année, domaine, nationalité (catégorie) et établissement d’enseignement supérieur</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Admissions to levels Diploma and Bachelor of Applied Sciences (excluding PH) by year, department, nationality (category) and university</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1502040200_182/px-x-1502040200_182/px-x-1502040200_182.px"/>
+            <dct:title xml:lang="it-t-de-t0-mtec">Ammissione ai livelli Diploma e Bachelor of Applied Sciences (escluso PH) per anno, dipartimento, nazionalità (categoria) e università</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sissepääs tasemel Diploma ja Bachelor of Applied Sciences (välja arvatud PH) aasta, osakond, kodakondsus (kategooria) ja ülikooli</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ammissjonijiet għal-livelli Diploma u Baċellerat tax-Xjenzi Applikati (minbarra l-PH) skont is-sena, id-dipartiment, in-nazzjonalità (kategorija) u l-università</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Admiterea la nivel Diplomă și Licență în Științe Aplicate (cu excepția PH) pe an, departament, naționalitate (categorie) și universitate</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Вступ до рівнів Диплом та бакалавр прикладних наук (крім PH) за роком, відділом, національністю (категорією) та університетом</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Optagelse på niveauer Diplom og Bachelor of Applied Sciences (undtagen PH) efter år, afdeling, nationalitet (kategori) og universitet</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tutkinto ja ammattikorkeakoulututkinto (pl. PH) vuosittain, osastoittain, kansallisuus (luokka) ja yliopisto</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Felvételi szintek Diploma és Bachelor of Applied Sciences (kivéve PH) év, osztály, nemzetiség (kategória) és egyetem</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemšana līmeņos Diploma un bakalaurs Lietišķo zinātņu (izņemot PH) pēc gada, departamenta, valstspiederības (kategorija) un universitātes</dct:title>
+            <dct:identifier>link-21884492-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Admissões aos níveis Diploma e Bacharel em Ciências Aplicadas (excluindo PH) por ano, departamento, nacionalidade (categoria) e universidade</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Admisión a los niveles Diploma y Licenciatura en Ciencias Aplicadas (excluyendo PH) por año, departamento, nacionalidad (categoría) y universidad</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Diplom a bakalář aplikovaných věd (kromě PH) podle roku, oddělení, státní příslušnosti (kategorie) a univerzity</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Vpisi na stopnje Diploma in dodiplomski študij uporabnih znanosti (razen PH) po letu, oddelku, državljanstvu (kategoriji) in univerzi</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimas į diplomą ir taikomųjų mokslų bakalaurą (išskyrus PH) pagal metus, departamentą, tautybę (kategoriją) ir universitetą</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Prijatie na diplom a bakalár aplikovaných vied (okrem PH) podľa roku, oddelenia, štátnej príslušnosti (kategória) a univerzity</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Прием до нива Диплома и бакалавър по приложни науки (с изключение на PH) по година, отдел, националност (категория) и университет</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Antagning till nivåer Diplom och yrkesexamen (exklusive PH) per år, institution, nationalitet (kategori) och universitet</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Iontrálacha chuig leibhéil Dioplóma agus Baitsiléir Eolaíochtaí Feidhmeacha (gan PH san áireamh) de réir bliana, roinne, náisiúntachta (catagóir) agus ollscoile</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wstępy na poziomy Dyplom i Bachelor of Applied Sciences (z wyłączeniem PH) według roku, wydziału, narodowości (kategorii) i uniwersytetu</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Upisi na razine diploma i prvostupnik primijenjenih znanosti (isključujući PH) po godini, odjel, državljanstvo (kategorija) i sveučilište</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Optagelse på niveauer Diplom og Bachelor of Applied Sciences (undtagen PH) efter år, afdeling, nationalitet (kategori) og universitet</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2199a235-7aa5-4d94-aad1-b570e946408d">
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Specializētu universitāšu (bez HEP) diplomu/bakalaura līmeņa dalībnieki pēc gada, studiju jomas, valstspiederības (kategorija) un universitātes</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Erialaülikoolide diplomi/bakalaureuse taseme (ilma HEP-ita) sisenejad aasta, õppevaldkonna, rahvuse (kategooria) ja ülikooli järgi</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Tutkinnon suorittaneet korkeakouluissa (ilman HEP:tä) vuosittain, koulutusala, kansalaisuus (luokka) ja yliopisto</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Absolventen der Fachhochschulen (ohne HEP) nach Jahrgang, Studienfach, Nationalität (Kategorie) und Hochschule</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Deltagare på examensbevis/kandidatnivå vid specialiserade universitet (utan HEP) per år, utbildningsområde, nationalitet (kategori) och universitet</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Absolventi diplomové/bakalářské úrovně specializovaných univerzit (bez HEP) podle roku, oboru, státní příslušnosti (kategorie) a univerzity</dct:title>
+            <dct:title xml:lang="fr">Entrants aux niveaux diplôme/bachelor des hautes écoles spécialisées (sans HEP) selon l'année, le domaine d'études, la nationalité (catégorie) et la haute école</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Deltagere på specialuniversiteternes eksamensbevis/bachelorniveau (uden HEP) efter år, studieområde, nationalitet (kategori) og universitet</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Абітурієнти на диплом/бакалаврський рівень спеціалізованих університетів (без HEP) по року, галузі навчання, національності (категорія) та університету</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Upisnici na diplomu/preddiplomsku razinu specijaliziranih sveučilišta (bez HEP-a) po godini, području studija, državljanstvu (kategorija) i sveučilištu</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Iontrálaithe ar an leibhéal dioplóma/bachelor na n-ollscoileanna speisialaithe (gan HEP) de réir bliana, réimse staidéir, náisiúntacht (catagóir) agus ollscoil</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Specializuotų universitetų diplomo/bakalauro lygio (be HEP) dalyviai pagal metus, studijų sritį, pilietybę (kategoriją) ir universitetą</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Συμμετέχοντες στο πτυχίο/πτυχίο ειδικευμένων πανεπιστημίων (χωρίς HEP) ανά έτος, τομέα σπουδών, εθνικότητα (κατηγορία) και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Entrants to the diploma/bachelor level of specialised universities (without HEP) by year, field of study, nationality (category) and university</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1502040200_182/px-x-1502040200_182/px-x-1502040200_182.px"/>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Parteċipanti fil-livell ta’ diploma/baċellerat ta’ universitajiet speċjalizzati (mingħajr HEP) skont is-sena, il-qasam ta’ studju, in-nazzjonalità (kategorija) u l-università</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Участници в дипломата/бакалавърското ниво на специализираните университети (без HEP) по година, област на обучение, националност (категория) и университет</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Deelnemers aan het diploma/bachelorniveau van gespecialiseerde universiteiten (zonder HEP) per jaar, vakgebied, nationaliteit (categorie) en universiteit</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Osoby wchodzące na dyplom/poziom licencjacki wyspecjalizowanych uniwersytetów (bez HEP) według roku, kierunku studiów, narodowości (kategorii) i uniwersytetu</dct:title>
+            <dct:identifier>link-21884492-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Participantes en el nivel de diploma/bachillerato de universidades especializadas (sin HEP) por año, campo de estudio, nacionalidad (categoría) y universidad</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Candidatos ao diploma/nível de bacharel de universidades especializadas (sem HEP) por ano, campo de estudo, nacionalidade (categoria) e universidade</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A szakosított egyetemek oklevelébe/alapképzésébe (HEP nélkül) belépők év, tanulmányi terület, nemzetiség (kategória) és egyetem szerint</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Înscrierea la nivelul de diplomă/licență al universităților specializate (fără HEP) pe an, domeniu de studiu, naționalitate (categorie) și universitate</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Uchádzači o diplom/bakalársky stupeň špecializovaných univerzít (bez VP) podľa roku, študijného odboru, štátnej príslušnosti (kategória) a univerzity</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Kandidati za diplomo/diplomsko raven specializiranih univerz (brez HEP) po letu, študijskem področju, državljanstvu (kategoriji) in univerzitetno</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Iscritti al livello di diploma/laurea di università specializzate (senza HEP) per anno, campo di studio, nazionalità (categoria) e università</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">etudiants-et-examens-finals-des-hautes-ecoles</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/997a5ea1-82be-4a0a-aa91-d48b42136e5e">
+            <dct:title xml:lang="hu-t-it-t0-mtec">Új SUP hallgatók diploma/alapképzési szinten (ASP nélkül) évente, tanulmányi területen, nemzetiségben (kategória) és egyetemi iskolában</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">Uued SUP üliõpilased diplomi/bakalaureuse tasemel (ilma ASPta) aastas, õppevaldkonnas, rahvuses (kategoorias) ja ülikoolikoolis</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Uudet SUP-opiskelijat, joilla on tutkintotodistus/kandidaattitaso (ilman ASP:tä) vuodessa, opintoala, kansalaisuus (luokka) ja yliopistokoulu</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Noví studenti SUP na úrovni diplomu/bakalářského studia (bez ASP) za rok, obor, státní příslušnost (kategorie) a vysokou školu</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Nya SUP-studenter på diplom/kandidatnivå (utan ASP) per år, ämnesområde, nationalitet (kategori) och universitetsskola</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">Nauji SUP studentai diplomu/bakalauro lygiu (be ASP) per metus, studijų sritis, pilietybė (kategorija) ir universitetinė mokykla</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Studenti SUP ġodda f’livelli ta’ diploma/baċellerat (mingħajr ASP) fis-sena, qasam ta’ studju, nazzjonalità (kategorija) u skola universitarja</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/it/px-x-1502040200_182/px-x-1502040200_182/px-x-1502040200_182.px"/>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Нові студенти СУП на дипломних / бакалаврських рівнях (без ASP) на рік, галузі навчання, національності (категорія) та університетської школи</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Neue SUP-Studierende auf Diplom-/Bachelorstufen (ohne ASP) pro Jahr, Studienfach, Nationalität (Kategorie) und Universitätsschule</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Novi študenti SUP na diplomski/diplomski ravni (brez ASP) na leto, študijsko področje, državljanstvo (kategorija) in univerzitetno šolo</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Novi studenti SUP-a na razini diplome/prvostupnika (bez ASP-a) godišnje, području studija, državljanstvu (kategorija) i sveučilišnoj školi</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Noví študenti SUP na diplomovej/bakalárskej úrovni (bez ASP) za rok, študijný odbor, štátna príslušnosť (kategória) a univerzitná škola</dct:title>
+            <dct:identifier>link-21884492-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Нови студенти по SUP на ниво диплома/бакалавър (без ASP) годишно, област на обучение, националност (категория) и университетско училище</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Nye SUP-studerende på eksamensbevis/bachelorniveau (uden ASP) pr. år, studieområde, nationalitet (kategori) og universitetsskole</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Νέοι φοιτητές SUP σε επίπεδο πτυχίου/εργαστηρίου (χωρίς ASP) ανά έτος, πεδίο σπουδών, εθνικότητα (κατηγορία) και πανεπιστημιακή σχολή</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="es-t-it-t0-mtec">Nuevos estudiantes de SUP en los niveles de diploma/bachillerato (sin ASP) por año, campo de estudio, nacionalidad (categoría) y escuela universitaria</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="lv-t-it-t0-mtec">Jauni SUP studenti diploma/bakalaura līmenī (bez ASP) gadā, studiju jomā, valstspiederībā (kategorijā) un universitātes skolā</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Nowi studenci SUP na poziomie dyplomu/kategorii (bez ASP) rocznie, kierunek studiów, narodowość (kategoria) i szkoła wyższa</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Nieuwe SUP-studenten op diploma-/bachelorniveau (zonder ASP) per jaar, vakgebied, nationaliteit (categorie) en universitaire school</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Nouveaux étudiants SUP au niveau diplôme/bachelor (sans ASP) par an, domaine d’études, nationalité (catégorie) et école universitaire</dct:title>
+            <dct:title xml:lang="it">Nuovi studenti SUP ai livelli diploma/bachelor (senza ASP) per anno, settore di studio, nazionalità (categoria) e scuola universitaria</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Novos alunos da SUP nos níveis de diploma/bachelor (sem ASP) por ano, campo de estudo, nacionalidade (categoria) e escola universitária</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">New SUP students at diploma/bachelor levels (without ASP) per year, field of study, nationality (category) and university school</dct:title>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Noi studenți SUP la nivel de diplomă/licență (fără ASP) pe an, domeniul de studiu, naționalitatea (categoria) și școala universitară</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Mic léinn nua aon úsáide ar leibhéil dioplóma/baitsiléara (gan ASP) in aghaidh na bliana, réimse staidéir, náisiúntacht (catagóir) agus scoil ollscoile</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6daa6922-8e57-4cf0-9f42-9b23f395d825">
+            <dct:title xml:lang="hu-t-de-t0-mtec">Felvételi szintek Diploma és Bachelor of Applied Sciences (kivéve PH) év, osztály, nemzetiség (kategória) és egyetem</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Antagning till nivåer Diplom och yrkesexamen (exklusive PH) per år, institution, nationalitet (kategori) och universitet</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Ammissione ai livelli Diploma e Bachelor of Applied Sciences (escluso PH) per anno, dipartimento, nazionalità (categoria) e università</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Wstępy na poziomy Dyplom i Bachelor of Applied Sciences (z wyłączeniem PH) według roku, wydziału, narodowości (kategorii) i uniwersytetu</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimas į diplomą ir taikomųjų mokslų bakalaurą (išskyrus PH) pagal metus, departamentą, tautybę (kategoriją) ir universitetą</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Iontrálacha chuig leibhéil Dioplóma agus Baitsiléir Eolaíochtaí Feidhmeacha (gan PH san áireamh) de réir bliana, roinne, náisiúntachta (catagóir) agus ollscoile</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Sissepääs tasemel Diploma ja Bachelor of Applied Sciences (välja arvatud PH) aasta, osakond, kodakondsus (kategooria) ja ülikooli</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1502040200_182"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ammissjonijiet għal-livelli Diploma u Baċellerat tax-Xjenzi Applikati (minbarra l-PH) skont is-sena, id-dipartiment, in-nazzjonalità (kategorija) u l-università</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Admissions to levels Diploma and Bachelor of Applied Sciences (excluding PH) by year, department, nationality (category) and university</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Admissões aos níveis Diploma e Bacharel em Ciências Aplicadas (excluindo PH) por ano, departamento, nacionalidade (categoria) e universidade</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Vpisi na stopnje Diploma in dodiplomski študij uporabnih znanosti (razen PH) po letu, oddelku, državljanstvu (kategoriji) in univerzi</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Entrée aux niveaux Diplôme et baccalauréat des hautes écoles spécialisées (sans PH) par année, domaine, nationalité (catégorie) et établissement d’enseignement supérieur</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Toelatingen tot niveaus Diploma en Bachelor of Applied Sciences (exclusief PH) per jaar, afdeling, nationaliteit (categorie) en universiteit</dct:title>
+            <dct:identifier>21884483-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Вступ до рівнів Диплом та бакалавр прикладних наук (крім PH) за роком, відділом, національністю (категорією) та університетом</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Upisi na razine diploma i prvostupnik primijenjenih znanosti (isključujući PH) po godini, odjel, državljanstvo (kategorija) i sveučilište</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Admiterea la nivel Diplomă și Licență în Științe Aplicate (cu excepția PH) pe an, departament, naționalitate (categorie) și universitate</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Diplom a bakalář aplikovaných věd (kromě PH) podle roku, oddělení, státní příslušnosti (kategorie) a univerzity</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Optagelse på niveauer Diplom og Bachelor of Applied Sciences (undtagen PH) efter år, afdeling, nationalitet (kategori) og universitet</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Tutkinto ja ammattikorkeakoulututkinto (pl. PH) vuosittain, osastoittain, kansallisuus (luokka) ja yliopisto</dct:title>
+            <dct:title xml:lang="de">Eintritte auf Stufen Diplom und Bachelor der Fachhochschulen (ohne PH) nach Jahr, Fachbereich, Staatsangehörigkeit (Kategorie) und Hochschule</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemšana līmeņos Diploma un bakalaurs Lietišķo zinātņu (izņemot PH) pēc gada, departamenta, valstspiederības (kategorija) un universitātes</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή σε επίπεδα Δίπλωμα και Bachelor of Applied Sciences (εκτός PH) ανά έτος, τμήμα, εθνικότητα (κατηγορία) και πανεπιστήμιο</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Prijatie na diplom a bakalár aplikovaných vied (okrem PH) podľa roku, oddelenia, štátnej príslušnosti (kategória) a univerzity</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Прием до нива Диплома и бакалавър по приложни науки (с изключение на PH) по година, отдел, националност (категория) и университет</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Admisión a los niveles Diploma y Licenciatura en Ciencias Aplicadas (excluyendo PH) por año, departamento, nacionalidad (categoría) y universidad</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a5d5121f-d710-4668-8238-83ed0eb59b04">
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:identifier>link-21884488-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1502040200_182/px-x-1502040200_182.px"/>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Admiterea la nivel Diplomă și Licență în Științe Aplicate (cu excepția PH) pe an, departament, naționalitate (categorie) și universitate</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Vpisi na stopnje Diploma in dodiplomski študij uporabnih znanosti (razen PH) po letu, oddelku, državljanstvu (kategoriji) in univerzi</dct:title>
+        <dcat:keyword xml:lang="de">studierende-und-abschlusse-an-hochschulen</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Ammissjonijiet għal-livelli Diploma u Baċellerat tax-Xjenzi Applikati (minbarra l-PH) skont is-sena, id-dipartiment, in-nazzjonalità (kategorija) u l-università</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Priėmimas į diplomą ir taikomųjų mokslų bakalaurą (išskyrus PH) pagal metus, departamentą, tautybę (kategoriją) ir universitetą</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="de">Eintritte auf Stufen Diplom und Bachelor der Fachhochschulen (ohne PH) nach Jahr, Fachbereich, Staatsangehörigkeit (Kategorie) und Hochschule</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Sissepääs tasemel Diploma ja Bachelor of Applied Sciences (välja arvatud PH) aasta, osakond, kodakondsus (kategooria) ja ülikooli</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Uzņemšana līmeņos Diploma un bakalaurs Lietišķo zinātņu (izņemot PH) pēc gada, departamenta, valstspiederības (kategorija) un universitātes</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="fr">Entrants aux niveaux diplôme/bachelor des hautes écoles spécialisées (sans HEP) selon l'année, le domaine d'études, la nationalité (catégorie) et la haute école</dct:title>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dcat:keyword xml:lang="it">studenti-ed-esami-delle-scuole-universitarie</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Toelatingen tot niveaus Diploma en Bachelor of Applied Sciences (exclusief PH) per jaar, afdeling, nationaliteit (categorie) en universiteit</dct:title>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Прием до нива Диплома и бакалавър по приложни науки (с изключение на PH) по година, отдел, националност (категория) и университет</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Admisión a los niveles Diploma y Licenciatura en Ciencias Aplicadas (excluyendo PH) por año, departamento, nacionalidad (categoría) y universidad</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Tutkinto ja ammattikorkeakoulututkinto (pl. PH) vuosittain, osastoittain, kansallisuus (luokka) ja yliopisto</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Antagning till nivåer Diplom och yrkesexamen (exklusive PH) per år, institution, nationalitet (kategori) och universitet</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:language>fr</dct:language>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-03-25T00:00:00</dct:issued>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="en-t-de-t0-mtec">Admissions to levels Diploma and Bachelor of Applied Sciences (excluding PH) by year, department, nationality (category) and university</dct:title>
+        <dct:identifier>21884479@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:50:19.682292</dct:modified>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Diplom a bakalář aplikovaných věd (kromě PH) podle roku, oddělení, státní příslušnosti (kategorie) a univerzity</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Вступ до рівнів Диплом та бакалавр прикладних наук (крім PH) за роком, відділом, національністю (категорією) та університетом</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6c350dda-da6c-463b-aef8-c04c7100f335">
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1502040200_182/px-x-1502040200_182.px"/>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:identifier>link-21884488-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-de-t0-mtec">Εισαγωγή σε επίπεδα Δίπλωμα και Bachelor of Applied Sciences (εκτός PH) ανά έτος, τμήμα, εθνικότητα (κατηγορία) και πανεπιστήμιο</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Admissões aos níveis Diploma e Bacharel em Ciências Aplicadas (excluindo PH) por ano, departamento, nacionalidade (categoria) e universidade</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="en">students-and-degrees-of-higher-education-institutions</dcat:keyword>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="it">Nuovi studenti SUP ai livelli diploma/bachelor (senza ASP) per anno, settore di studio, nazionalità (categoria) e scuola universitaria</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Upisi na razine diploma i prvostupnik primijenjenih znanosti (isključujući PH) po godini, odjel, državljanstvo (kategorija) i sveučilište</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Prijatie na diplom a bakalár aplikovaných vied (okrem PH) podľa roku, oddelenia, štátnej príslušnosti (kategória) a univerzity</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/1ba5107f-e507-4763-8667-e5fb3aede284">
+            <dct:title xml:lang="pl-t-it-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Structure JSON</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">JSON Struktur</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">JSON-rakenne</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/it/px-x-1502040200_182/px-x-1502040200_182.px"/>
+            <dct:identifier>link-21884488-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-it-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Estructura JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-25T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-it-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="it">Struttura JSON</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Struttura JSON</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">JSON štruktúra</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Структура JSON</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">JSON-strukturen</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Wstępy na poziomy Dyplom i Bachelor of Applied Sciences (z wyłączeniem PH) według roku, wydziału, narodowości (kategorii) i uniwersytetu</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

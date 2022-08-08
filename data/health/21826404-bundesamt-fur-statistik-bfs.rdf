@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/21826404-bundesamt-fur-statistik-bfs">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T11:39:46Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/21826404-bundesamt-fur-statistik-bfs"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>a0fddf30f8919c2f9aad357a244c1b2b</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/21826404-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="cs-t-de-t0-mtec">Souběžná onemocnění všech úmrtí s onemocněním COVID-19 jako hlavní příčinou úmrtí, po měsíci, pohlaví</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Sočasne bolezni vseh smrti s COVID-19 kot glavnim vzrokom smrti, po mesecih, spolu</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Sprievodné ochorenia všetkých úmrtí s ochorením COVID-19 ako hlavnou príčinou smrti, podľa mesiaca, pohlavia</dct:title>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Valamennyi haláleset egyidejű betegsége a Covid19-cel együtt, mint a fő halálok, havonta, nemenként</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.16"/>
+        <dct:title xml:lang="de">Begleiterkrankungen aller Sterbefälle mit COVID-19 als Haupttodesursache, nach Monat, Geschlecht</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Enfermedades concomitantes de todas las muertes con COVID-19 como principal causa de muerte, por mes, sexo</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Супутні захворювання всіх смертей з COVID-19 як основна причина смерті, по місяцях, секс</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Popratne bolesti svih smrtnih slučajeva s bolešću COVID-19 kao glavnim uzrokom smrti, po mjesecima, spol</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a3491b00-0aa6-4efb-87e9-ac57015fb807">
+            <dct:title xml:lang="es-t-fr-t0-mtec">Enfermedades concomitantes por defunciones de las cuales la COVID-19 es la causa principal, por sexo, por mes</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Blakusslimības nāves gadījumiem, kuru galvenais cēlonis mēnesī pēc dzimuma ir Covid-19</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Samtidiga dödsfall där covid-19 är den främsta orsaken per månad efter kön</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Współistniejące choroby w przypadku zgonów, których główną przyczyną na miesiąc jest COVID-19 ze względu na płeć</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Souběžné nemoci úmrtí, jejichž hlavní příčinou je onemocnění COVID-19 měsíčně podle pohlaví</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Boli concomitente pentru decese, a căror cauză principală este COVID-19, pe lună, în funcție de sex</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.03.04.01.16"/>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Samaaegsed haigused surma korral, mille peamine põhjus on COVID-19 kuus, soo järgi</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Popratne bolesti kod smrtnih slučajeva od kojih je bolest COVID-19 glavni uzrok, mjesečno, po spolu</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egyidejű betegségek halálesetek esetén, amelyek fő oka a Covid19, havonta, nemek szerint</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Gretutinės ligos mirties atveju, kurių pagrindinė priežastis yra COVID-19 per mėnesį pagal lytį</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Concomitant diseases for deaths of which COVID-19 is the main cause, per month, by sex</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Samtidige sygdomme ved dødsfald, hvoraf covid-19 er hovedårsagen pr. måned efter køn</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Doenças concomitantes para mortes das quais a COVID-19 é a principal causa, por mês, por sexo</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Gelijktijdige ziekten voor sterfgevallen waarvan COVID-19 de belangrijkste oorzaak is, per maand, naar geslacht</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Sprievodné choroby pri úmrtiach, ktorých hlavnou príčinou je ochorenie COVID-19 za mesiac podľa pohlavia</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Malattie concomitanti per decessi di cui la COVID-19 è la causa principale, al mese, per sesso</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ταυτόχρονη νόσος για θανάτους των οποίων η νόσος COVID-19 είναι η κύρια αιτία, ανά μήνα, ανά φύλο</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Супутні захворювання, смерті від яких COVID-19 є основною причиною, в місяць, сексом</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Съпътстващи заболявания за смъртни случаи, за които COVID-19 е основната причина за всеки месец по пол</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Mard konkomitanti għall-imwiet li l-COVID-19 tiegħu hija l-kawża ewlenija, fix-xahar, skont is-sess</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Sočasne bolezni smrti, pri katerih je COVID-19 glavni vzrok, na mesec, po spolu</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Begleiterkrankungen bei Todesfällen, deren Hauptursache COVID-19 ist, pro Monat nach Geschlecht</dct:title>
+            <dct:identifier>21826410-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Samanaikaiset kuolemantapaukset, joiden suurin syy on covid-19-tauti kuukaudessa sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Galair chomhchéimneacha le haghaidh básanna arb é COVID-19 an phríomhchúis leo, in aghaidh na míosa, de réir gnéis</dct:title>
+            <dct:title xml:lang="fr">Maladies concomitantes pour les décès dont le COVID-19 est la cause principale, par mois, selon le sexe</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Bolile concomitente ale tuturor deceselor cu COVID-19 ca principala cauză a decesului, pe lună, sex</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Samtidiga sjukdomar i samband med alla dödsfall med covid-19 som den främsta dödsorsaken per månad, kön</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="fr">Maladies concomitantes pour les décès dont le COVID-19 est la cause principale, par mois, selon le sexe</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Samtidige sygdomme af alle dødsfald med covid-19 som den vigtigste dødsårsag pr. måned, køn</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Kaikkien covid-19-kuolemien samanaikaiset sairaudet pääasiallisena kuolinsyynä kuukausittain sukupuolen mukaan</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Visu nāves gadījumu vienlaicīgas slimības ar Covid-19 kā galveno nāves cēloni, pa mēnešiem, dzimumiem</dct:title>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/906cc0d7-67db-4d38-a0c3-989d73022ff6">
+            <dct:title xml:lang="fr">Maladies concomitantes pour les décès dont le COVID-19 est la cause principale, par mois, selon le sexe</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Samtidige sygdomme ved dødsfald, hvoraf covid-19 er hovedårsagen pr. måned efter køn</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-17T00:00:00</dct:modified>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Gretutinės ligos mirties atveju, kurių pagrindinė priežastis yra COVID-19 per mėnesį pagal lytį</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ταυτόχρονη νόσος για θανάτους των οποίων η νόσος COVID-19 είναι η κύρια αιτία, ανά μήνα, ανά φύλο</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Concomitant diseases for deaths of which COVID-19 is the main cause, per month, by sex</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Samaaegsed haigused surma korral, mille peamine põhjus on COVID-19 kuus, soo järgi</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Enfermedades concomitantes por defunciones de las cuales la COVID-19 es la causa principal, por sexo, por mes</dct:title>
+            <dct:identifier>21826410-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Samanaikaiset kuolemantapaukset, joiden suurin syy on covid-19-tauti kuukaudessa sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Samtidiga dödsfall där covid-19 är den främsta orsaken per månad efter kön</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Begleiterkrankungen bei Todesfällen, deren Hauptursache COVID-19 ist, pro Monat nach Geschlecht</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Gelijktijdige ziekten voor sterfgevallen waarvan COVID-19 de belangrijkste oorzaak is, per maand, naar geslacht</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Boli concomitente pentru decese, a căror cauză principală este COVID-19, pe lună, în funcție de sex</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Blakusslimības nāves gadījumiem, kuru galvenais cēlonis mēnesī pēc dzimuma ir Covid-19</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Egyidejű betegségek halálesetek esetén, amelyek fő oka a Covid19, havonta, nemek szerint</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Doenças concomitantes para mortes das quais a COVID-19 é a principal causa, por mês, por sexo</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Mard konkomitanti għall-imwiet li l-COVID-19 tiegħu hija l-kawża ewlenija, fix-xahar, skont is-sess</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Sprievodné choroby pri úmrtiach, ktorých hlavnou príčinou je ochorenie COVID-19 za mesiac podľa pohlavia</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Sočasne bolezni smrti, pri katerih je COVID-19 glavni vzrok, na mesec, po spolu</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Съпътстващи заболявания за смъртни случаи, за които COVID-19 е основната причина за всеки месец по пол</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Souběžné nemoci úmrtí, jejichž hlavní příčinou je onemocnění COVID-19 měsíčně podle pohlaví</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Galair chomhchéimneacha le haghaidh básanna arb é COVID-19 an phríomhchúis leo, in aghaidh na míosa, de réir gnéis</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826410/master"/>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Malattie concomitanti per decessi di cui la COVID-19 è la causa principale, al mese, per sesso</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Popratne bolesti kod smrtnih slučajeva od kojih je bolest COVID-19 glavni uzrok, mjesečno, po spolu</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Współistniejące choroby w przypadku zgonów, których główną przyczyną na miesiąc jest COVID-19 ze względu na płeć</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826410/master"/>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Супутні захворювання, смерті від яких COVID-19 є основною причиною, в місяць, сексом</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-de-t0-mtec">Ταυτόχρονη νόσος όλων των θανάτων με τη νόσο COVID-19 ως κύρια αιτία θανάτου, ανά μήνα, σεξ</dct:title>
+        <dcat:keyword xml:lang="en">cause-of-death-and-stillbirth-statistics</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Съпътстващи заболявания на всички смъртни случаи с COVID-19 като основна причина за смърт по месеци, по пол</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Galair chomhchéimneacha na mbásanna uile agus COVID-19 mar phríomhchúis an bháis, de réir míosa, gnéas</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kõigi surmade samaaegsed haigused, mille peamine surmapõhjus on COVID-19, kuu ja soo kaupa</dct:title>
+        <dcat:keyword xml:lang="de">statistik-der-todesursachen-und-totgeburten</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Visų mirčių, susijusių su COVID-19 kaip pagrindine mirties priežastimi, ligos pagal mėnesį, lytis</dct:title>
+        <dct:identifier>21826404@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b928fcf3-0c6e-42e2-8ec4-101346746808">
+            <dct:title xml:lang="bg-t-de-t0-mtec">Съпътстващи заболявания на всички смъртни случаи с COVID-19 като основна причина за смърт по месеци, по пол</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Enfermedades concomitantes de todas las muertes con COVID-19 como principal causa de muerte, por mes, sexo</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Sprievodné ochorenia všetkých úmrtí s ochorením COVID-19 ako hlavnou príčinou smrti, podľa mesiaca, pohlavia</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kaikkien covid-19-kuolemien samanaikaiset sairaudet pääasiallisena kuolinsyynä kuukausittain sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kõigi surmade samaaegsed haigused, mille peamine surmapõhjus on COVID-19, kuu ja soo kaupa</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Popratne bolesti svih smrtnih slučajeva s bolešću COVID-19 kao glavnim uzrokom smrti, po mjesecima, spol</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Mard konkomitanti tal-imwiet kollha bil-COVID-19 bħala l-kawża ewlenija tal-mewt, skont ix-xahar, is-sess</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826408/master"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Concomitant diseases of all deaths with COVID-19 as the main cause of death, by month, sex</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Galair chomhchéimneacha na mbásanna uile agus COVID-19 mar phríomhchúis an bháis, de réir míosa, gnéas</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-17T00:00:00</dct:modified>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Doenças concomitantes de todas as mortes com COVID-19 como principal causa de morte, por mês, sexo</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Visu nāves gadījumu vienlaicīgas slimības ar Covid-19 kā galveno nāves cēloni, pa mēnešiem, dzimumiem</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Souběžná onemocnění všech úmrtí s onemocněním COVID-19 jako hlavní příčinou úmrtí, po měsíci, pohlaví</dct:title>
+            <dct:identifier>21826408-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="it-t-de-t0-mtec">Malattie concomitanti di tutti i decessi con COVID-19 come principale causa di morte, per mese, sesso</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gelijktijdige ziekten van alle sterfgevallen met COVID-19 als belangrijkste doodsoorzaak, per maand, geslacht</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Maladies concomitantes de tous les décès liés à la COVID-19 comme principale cause de décès, par mois, par sexe</dct:title>
+            <dct:title xml:lang="de">Begleiterkrankungen aller Sterbefälle mit COVID-19 als Haupttodesursache, nach Monat, Geschlecht</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Samtidige sygdomme af alle dødsfald med covid-19 som den vigtigste dødsårsag pr. måned, køn</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Współistniejące choroby wszystkich zgonów z COVID-19 jako główna przyczyna śmierci, w podziale na miesiąc, płeć</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/21826408/master"/>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταυτόχρονη νόσος όλων των θανάτων με τη νόσο COVID-19 ως κύρια αιτία θανάτου, ανά μήνα, σεξ</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Samtidiga sjukdomar i samband med alla dödsfall med covid-19 som den främsta dödsorsaken per månad, kön</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Bolile concomitente ale tuturor deceselor cu COVID-19 ca principala cauză a decesului, pe lună, sex</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Sočasne bolezni vseh smrti s COVID-19 kot glavnim vzrokom smrti, po mesecih, spolu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Visų mirčių, susijusių su COVID-19 kaip pagrindine mirties priežastimi, ligos pagal mėnesį, lytis</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Супутні захворювання всіх смертей з COVID-19 як основна причина смерті, по місяцях, секс</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Valamennyi haláleset egyidejű betegsége a Covid19-cel együtt, mint a fő halálok, havonta, nemenként</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Współistniejące choroby wszystkich zgonów z COVID-19 jako główna przyczyna śmierci, w podziale na miesiąc, płeć</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Doenças concomitantes de todas as mortes com COVID-19 como principal causa de morte, por mês, sexo</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:title xml:lang="en-t-de-t0-mtec">Concomitant diseases of all deaths with COVID-19 as the main cause of death, by month, sex</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Gelijktijdige ziekten van alle sterfgevallen met COVID-19 als belangrijkste doodsoorzaak, per maand, geslacht</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-03-31T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="fr">statistique-des-causes-de-deces-et-des-mortinaissances</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="it-t-de-t0-mtec">Malattie concomitanti di tutti i decessi con COVID-19 come principale causa di morte, per mese, sesso</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Mard konkomitanti tal-imwiet kollha bil-COVID-19 bħala l-kawża ewlenija tal-mewt, skont ix-xahar, is-sess</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:49:44.450534</dct:modified>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cf320a58-4211-44f1-96fe-86f7770a50ea">
+            <dct:title xml:lang="it-t-de-t0-mtec">Malattie concomitanti di tutti i decessi con COVID-19 come principale causa di morte, per mese, sesso</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="en-t-de-t0-mtec">Concomitant diseases of all deaths with COVID-19 as the main cause of death, by month, sex</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Sprievodné ochorenia všetkých úmrtí s ochorením COVID-19 ako hlavnou príčinou smrti, podľa mesiaca, pohlavia</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Maladies concomitantes de tous les décès liés à la COVID-19 comme principale cause de décès, par mois, par sexe</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Doenças concomitantes de todas as mortes com COVID-19 como principal causa de morte, por mês, sexo</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Samtidige sygdomme af alle dødsfald med covid-19 som den vigtigste dødsårsag pr. måned, køn</dct:title>
+            <dct:identifier>21826408-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Sočasne bolezni vseh smrti s COVID-19 kot glavnim vzrokom smrti, po mesecih, spolu</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Съпътстващи заболявания на всички смъртни случаи с COVID-19 като основна причина за смърт по месеци, по пол</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kaikkien covid-19-kuolemien samanaikaiset sairaudet pääasiallisena kuolinsyynä kuukausittain sukupuolen mukaan</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kõigi surmade samaaegsed haigused, mille peamine surmapõhjus on COVID-19, kuu ja soo kaupa</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Супутні захворювання всіх смертей з COVID-19 як основна причина смерті, по місяцях, секс</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Valamennyi haláleset egyidejű betegsége a Covid19-cel együtt, mint a fő halálok, havonta, nemenként</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Popratne bolesti svih smrtnih slučajeva s bolešću COVID-19 kao glavnim uzrokom smrti, po mjesecima, spol</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Samtidiga sjukdomar i samband med alla dödsfall med covid-19 som den främsta dödsorsaken per månad, kön</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Współistniejące choroby wszystkich zgonów z COVID-19 jako główna przyczyna śmierci, w podziale na miesiąc, płeć</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Souběžná onemocnění všech úmrtí s onemocněním COVID-19 jako hlavní příčinou úmrtí, po měsíci, pohlaví</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-03-31T00:00:00</dct:issued>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Visų mirčių, susijusių su COVID-19 kaip pagrindine mirties priežastimi, ligos pagal mėnesį, lytis</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Gelijktijdige ziekten van alle sterfgevallen met COVID-19 als belangrijkste doodsoorzaak, per maand, geslacht</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.16"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Enfermedades concomitantes de todas las muertes con COVID-19 como principal causa de muerte, por mes, sexo</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Bolile concomitente ale tuturor deceselor cu COVID-19 ca principala cauză a decesului, pe lună, sex</dct:title>
+            <dct:title xml:lang="de">Begleiterkrankungen aller Sterbefälle mit COVID-19 als Haupttodesursache, nach Monat, Geschlecht</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Galair chomhchéimneacha na mbásanna uile agus COVID-19 mar phríomhchúis an bháis, de réir míosa, gnéas</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ταυτόχρονη νόσος όλων των θανάτων με τη νόσο COVID-19 ως κύρια αιτία θανάτου, ανά μήνα, σεξ</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Mard konkomitanti tal-imwiet kollha bil-COVID-19 bħala l-kawża ewlenija tal-mewt, skont ix-xahar, is-sess</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Visu nāves gadījumu vienlaicīgas slimības ar Covid-19 kā galveno nāves cēloni, pa mēnešiem, dzimumiem</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">statistica-delle-cause-di-morte-e-di-mortinatalita</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:identifier>21826404@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:56Z</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:51Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

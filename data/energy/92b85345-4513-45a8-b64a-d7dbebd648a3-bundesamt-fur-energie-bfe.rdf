@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/92b85345-4513-45a8-b64a-d7dbebd648a3-bundesamt-fur-energie-bfe">
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-13T20:06:49Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/92b85345-4513-45a8-b64a-d7dbebd648a3-bundesamt-fur-energie-bfe"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-14T08:05:13Z</edp:transReceived>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:30Z</dct:issued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>a50d1243f5f78f0ee69d9b2e943dccf3</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-21T20:07:32Z</dct:modified>
+    <dct:identifier>92b85345-4513-45a8-b64a-d7dbebd648a3@bundesamt-fur-energie-bfe</dct:identifier>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/92b85345-4513-45a8-b64a-d7dbebd648a3-bundesamt-fur-energie-bfe">
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b0dfe537-0c8b-4e91-8542-8fbd5fb1c6bc">
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dcat:downloadURL rdf:resource="http://data.geo.admin.ch/ch.bfe.thermische-netze/xtf/2056/ch.bfe.thermische-netze.zip"/>
+            <dct:title xml:lang="de">Interlis</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">INTERLIS</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-13T00:00:00</dct:issued>
+            <dct:description xml:lang="sk-t-de-t0-mtec">SLOVENČINA</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:title>
+            <dct:language>de</dct:language>
+            <dcat:accessURL rdf:resource="http://data.geo.admin.ch/ch.bfe.thermische-netze/xtf/2056/ch.bfe.thermische-netze.zip"/>
+            <dct:description xml:lang="lv-t-de-t0-mtec">INTERLIS INFORMĀCIJA</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:title xml:lang="lv-t-de-t0-mtec">INTERLIS INFORMĀCIJA</dct:title>
+            <dct:description xml:lang="mt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:title xml:lang="da-t-de-t0-mtec">I NÆRHEDEN AF INTERLIS</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">INTERLIS</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">МІЖНАРОДНИЙ МІЖНАРОДН</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-de-t0-mtec">AZ INTERLIS</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:description>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/ad8df3fc-72f6-4d5e-9a88-110314489949/resource/e85f0e09-3f51-491f-867e-34ae69f87b55</dct:identifier>
+            <dct:description xml:lang="uk-t-de-t0-mtec">МІЖНАРОДНИЙ МІЖНАРОДН</dct:description>
+            <dct:format>INTERLIS</dct:format>
+            <dct:title xml:lang="sk-t-de-t0-mtec">SLOVENČINA</dct:title>
+            <dct:description xml:lang="de">Interlis</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">I NÆRHEDEN AF INTERLIS</dct:description>
+            <dcat:mediaType>INTERLIS</dcat:mediaType>
+            <dct:description xml:lang="hu-t-de-t0-mtec">AZ INTERLIS</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:description xml:lang="pt-t-de-t0-mtec">As redes térmicas — também aquecimento urbano, aquecimento local ou redes de refrigeração urbana — são uma infraestrutura que abastece vários edifícios em diferentes parcelas com energia térmica. É um fornecimento de calor condutor de clientes sobre água ou vapor. Além das redes de aquecimento urbano, há também redes de resfriamento urbano — é por isso que hoje o termo mais geral redes térmicas é usado. O fornecimento de energia das redes térmicas não é necessariamente renovável, mas é muitas vezes caracterizado por um baixo equilíbrio de emissões de CO2 — por exemplo, em instalações de incineração de Kehricht.
+Por exemplo, o aquecimento urbano permite a utilização de calor residual ou a utilização de energias renováveis e, por conseguinte, está a tornar-se cada vez mais importante.
+O aquecimento urbano descreve um fornecimento de calor condutor aos clientes através de água ou vapor com calor gerado centralmente e abrange uma ampla gama de energia com capacidades de conexão de menos de 100 kW até mais de 1 GW.
+Uma distribuição de calor apenas através de um grupo de distribuição não é considerada aquecimento urbano.
+Os dados espaciais «Redes térmicas» documentam o estoque atual de redes de aquecimento urbano na Suíça.
+Todas as informações baseiam-se nas informações fornecidas pelos operadores das instalações.
+A informação serve como material de informação para o público e não constitui informação oficial ou declaração juridicamente vinculativa.</dct:description>
+        <dcat:keyword xml:lang="fr">ifdg-linfrastructure-federale-de-donnees-geographiques</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.geocat.ch/geonetwork/srv/ger/md.viewer#/full_view/92b85345-4513-45a8-b64a-d7dbebd648a3">
+            <rdfs:label>geocat.ch permalink</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:identifier>92b85345-4513-45a8-b64a-d7dbebd648a3@bundesamt-fur-energie-bfe</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/e5a9652e-7d3a-457f-97ad-bce9a64ac962">
+            <dct:description xml:lang="pt-t-de-t0-mtec">Portal especializado — map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Portal especializado — map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Karta (förhandsgranska) Fachportal – map.energie.admin.ch</dct:title>
+            <dcat:accessURL rdf:resource="https://map.geo.admin.ch/?topic=energie&amp;lang=de&amp;bgLayer=ch.swisstopo.pixelkarte-grau&amp;catalogNodes=2419,2420,2427,2480,2429,2431,2434,2436,2767,2441,3206,15075&amp;layers=ch.bfe.thermische-netze"/>
+            <dct:language>fr</dct:language>
+            <dct:language>en</dct:language>
+            <dct:description xml:lang="fr">Géoportail thématique - map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">Spetsialisti portaal – map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Mapa (Podgląd) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Léarscáil (Réamhamharc) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Asiantuntijaportaali – map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Kartta (esikatselu) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Portalul specialiștilor – map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Спеціалізований портал - map.energie.admin.ch</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:description xml:lang="en">Thematic geoportal - map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Mapa (Preview) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Mapa (Preview) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="en">Map (Preview) Thematic geoportal - map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Karte (priekšskatījums) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Специализиран портал — map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Portal speċjalizzat — map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Hartă (Previzualizare) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Kort (Preview) Fachportal — kort.energie.admin.ch</dct:title>
+            <dct:title xml:lang="fr">Map (Preview) Géoportail thématique - map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Tairseach Speisialtóra — léarscáil.energie.admin.ch</dct:description>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Mapa (Preview) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Speciālistu portāls — map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Strokovni portal – map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Specialistportal – map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Szakportál – map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Specijalistički portal – map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="it">Geoportale tematico - map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Kaart (Preview) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Karta (Pregled) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Portal specjalistyczny – map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Zemljevid (predogled) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Térkép (előzetes) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Specialistų portalas – map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="de">Map (Preview) Fachportal - map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Карта (Попередній перегляд) Fachportal - map.energie.admin.ch</dct:title>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/ad8df3fc-72f6-4d5e-9a88-110314489949/resource/9a141837-cddf-4c23-80d1-54f58d3282fe</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-13T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:description xml:lang="el-t-de-t0-mtec">Ειδική πύλη — map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="it">Map (Preview) Geoportale tematico - map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kaart (eelvaade) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:description xml:lang="de">Fachportal - map.energie.admin.ch</dct:description>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Mapa (Zobraziť) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χάρτης (Προεπισκόπηση) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Карта (Преглед) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Žemėlapis (Preview) Fachportal – map.energie.admin.ch</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Specialist portal — map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Specialist portal — map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Odborný portál – map.energie.admin.ch</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Odborný portál – map.energie.admin.ch</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Mappa (Preview) Fachportal — map.energie.admin.ch</dct:title>
+            <dct:language>it</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">fsdi-federal-spatial-data-infrastructure</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Thermische netwerken (nabije verwarming, stadsverwarming, stadskoeling)</dct:title>
+        <dct:description xml:lang="es-t-de-t0-mtec">Las redes térmicas, también las redes de calefacción urbana, de calefacción local o de refrigeración urbana, son una infraestructura que suministra energía térmica a varios edificios de diferentes parcelas. Es un suministro de calor conductor de los clientes sobre agua o vapor. Además de las redes de calefacción urbana, también hay redes de refrigeración urbana, es por eso que hoy en día se utiliza el término más general de redes térmicas. El suministro de energía de las redes térmicas no es necesariamente renovable, pero a menudo se caracteriza por un bajo equilibrio de emisiones de CO2, por ejemplo en las plantas de incineración de Kehricht. Por ejemplo, la calefacción urbana permite el uso de calor residual o el uso de energías renovables y, por lo tanto, es cada vez más importante. La calefacción urbana describe un suministro de calor conductor a los clientes a través de agua o vapor con calor generado centralmente y cubre un amplio rango de energía con capacidades de conexión de menos de 100 kW hasta más de 1 GW. Una distribución de calor solo a través de un grupo de distribución no se considera calefacción urbana. Los datos espaciales «redes térmicas» documentan el stock actual de redes de calefacción urbana en Suiza. Toda la información se basa en la información proporcionada por los operadores de la planta. La información sirve como material informativo para el público y no constituye información oficial o declaración jurídicamente vinculante.</dct:description>
+        <dct:description xml:lang="el-t-de-t0-mtec">Τα θερμικά δίκτυα — επίσης τηλεθέρμανση, τοπικά δίκτυα θέρμανσης ή τηλεψύξης — είναι μια υποδομή που τροφοδοτεί αρκετά κτίρια σε διαφορετικά οικόπεδα με θερμική ενέργεια. Είναι μια αγώγιμη παροχή θερμότητας των πελατών πέρα από το νερό ή τον ατμό. Εκτός από τα δίκτυα τηλεθέρμανσης, υπάρχουν επίσης δίκτυα τηλεψύξης — γι’ αυτό σήμερα χρησιμοποιείται ο γενικότερος όρος θερμικά δίκτυα. Ο ενεργειακός εφοδιασμός των θερμοηλεκτρικών δικτύων δεν είναι απαραίτητα ανανεώσιμος, αλλά συχνά χαρακτηρίζεται από χαμηλό ισοζύγιο εκπομπών CO2 — για παράδειγμα στις μονάδες αποτέφρωσης Kehricht. Για παράδειγμα, η τηλεθέρμανση επιτρέπει τη χρήση απορριπτόμενης θερμότητας ή τη χρήση ανανεώσιμων πηγών ενέργειας και, ως εκ τούτου, καθίσταται όλο και πιο σημαντική. Η τηλεθέρμανση περιγράφει την αγώγιμη παροχή θερμότητας στους πελάτες μέσω νερού ή ατμού με κεντρική παραγόμενη θερμότητα και καλύπτει ευρύ φάσμα ισχύος με δυναμικότητα σύνδεσης μικρότερη από 100 kW έως και 1 GW. Η διανομή θερμότητας μόνο μέσω ομάδας διανομής δεν θεωρείται τηλεθέρμανση. Τα χωρικά δεδομένα «θερμικά δίκτυα» τεκμηριώνουν το τρέχον απόθεμα δικτύων τηλεθέρμανσης στην Ελβετία. Όλες οι πληροφορίες βασίζονται στις πληροφορίες που παρέχονται από τους φορείς εκμετάλλευσης των εγκαταστάσεων. Οι πληροφορίες χρησιμεύουν ως πληροφοριακό υλικό για το κοινό και δεν αποτελούν επίσημη πληροφορία ή νομικά δεσμευτική δήλωση.</dct:description>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Hőhálózatok (közelfűtés, távfűtés, távhűtés)</dct:title>
+        <dcat:keyword xml:lang="it">ifdg-infrastruttura-federale-dei-dati-geografici</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Värmenät (nära värme, fjärrvärme, fjärrkyla)</dct:title>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/WEEKLY"/>
+        <dct:description xml:lang="sk-t-de-t0-mtec">Tepelné siete – aj siete diaľkového vykurovania, miestneho vykurovania alebo diaľkového chladenia – sú infraštruktúrou, ktorá dodáva niekoľko budov na rôznych pozemkoch s tepelnou energiou. Je to vodivé zásobovanie odberateľov teplom nad vodou alebo parou. Okrem sietí diaľkového vykurovania existujú aj siete diaľkového chladenia – preto sa dnes používa všeobecnejší pojem tepelné siete. Dodávka energie termických sietí nie je nevyhnutne obnoviteľná, ale často sa vyznačuje nízkou rovnováhou emisií CO2 – napríklad v spaľovniach Kehricht. Napríklad diaľkové vykurovanie umožňuje využívanie odpadového tepla alebo využívanie energie z obnoviteľných zdrojov, a preto je čoraz dôležitejšie. Diaľkové vykurovanie opisuje vodivý zdroj tepla pre zákazníkov prostredníctvom vody alebo pary s centrálne generovaným teplom a pokrýva široký rozsah výkonu s kapacitou pripojenia menej ako 100 kW až do viac ako 1 GW. Distribúcia tepla len prostredníctvom distribučnej skupiny sa nepovažuje za diaľkové vykurovanie. Priestorové údaje „Thermal Network“ dokumentujú súčasný stav sietí diaľkového vykurovania vo Švajčiarsku. Všetky informácie sú založené na informáciách, ktoré poskytli prevádzkovatelia zariadení. Informácie slúžia ako informačný materiál pre verejnosť a nepredstavujú oficiálne informácie ani právne záväzné vyhlásenie. Tepelné siete – aj siete diaľkového vykurovania, miestneho vykurovania alebo diaľkového chladenia – sú infraštruktúrou, ktorá dodáva niekoľko budov na rôznych pozemkoch s tepelnou energiou.
+Je to vodivé zásobovanie odberateľov teplom nad vodou alebo parou.
+Okrem sietí diaľkového vykurovania existujú aj siete diaľkového chladenia – preto sa dnes používa všeobecnejší pojem tepelné siete.
+Dodávka energie termických sietí nie je nevyhnutne obnoviteľná, ale často sa vyznačuje nízkou rovnováhou emisií CO2 – napríklad v spaľovniach Kehricht.
+Napríklad diaľkové vykurovanie umožňuje využívanie odpadového tepla alebo využívanie energie z obnoviteľných zdrojov, a preto je čoraz dôležitejšie.
+Diaľkové vykurovanie opisuje vodivý zdroj tepla pre zákazníkov prostredníctvom vody alebo pary s centrálne generovaným teplom a pokrýva široký rozsah výkonu s kapacitou pripojenia menej ako 100 kW až do viac ako 1 GW.
+Distribúcia tepla len prostredníctvom distribučnej skupiny sa nepovažuje za diaľkové vykurovanie.
+Priestorové údaje „Thermal Network“ dokumentujú súčasný stav sietí diaľkového vykurovania vo Švajčiarsku.
+Všetky informácie sú založené na informáciách, ktoré poskytli prevádzkovatelia zariadení.
+Informácie slúžia ako informačný materiál pre verejnosť a nepredstavujú oficiálne informácie ani právne záväzné vyhlásenie.</dct:description>
+        <dct:language>it</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/cd584386-985f-4891-83bd-f85531636b3e">
+            <dct:identifier>https://ckan.opendata.swiss/dataset/ad8df3fc-72f6-4d5e-9a88-110314489949/resource/ea3ba55c-6837-470d-b0a8-7a6ef6e1a72e</dct:identifier>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Web Map Usluge WMS</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Služby webových map WMS</dct:description>
+            <dct:title xml:lang="hu-t-de-t0-mtec">CH.bfe.thermal hálózatok</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">CH.bfe.thermal мрежи</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-13T00:00:00</dct:issued>
+            <dct:title xml:lang="cs-t-de-t0-mtec">ch.bfe.termální sítě</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Webbkarta Tjänster WMS</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Web Karttapalvelut WMS</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">ch.bfe.thermala nätverk</dct:title>
+            <dct:description xml:lang="en">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="fr">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="it">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="de">Web Map Services WMS</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Уеб картови услуги WMS</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Seirbhísí Léarscáileanna Gréasáin WMS</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Servizzi web Mappa WMS</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">CH.bfe.termiske netværk</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sk-t-de-t0-mtec">ch.bfe.thermal siete</dct:title>
+            <dct:description xml:lang="lt-t-de-t0-mtec">WEB Žemėlapis Paslaugos WMS</dct:description>
+            <dct:title xml:lang="pt-t-de-t0-mtec">redes do ch.bfe.thermal</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Послуги веб-карти WMS</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">Serviços de Mapa Web WMS</dct:description>
+            <dct:title xml:lang="el-t-de-t0-mtec">ch.bfe.θερμικά δίκτυα</dct:title>
+            <dct:description xml:lang="et-t-de-t0-mtec">Veebikaardi teenused WMS</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:format>WMS</dct:format>
+            <dct:title xml:lang="hr-t-de-t0-mtec">ch.bfe.termalne mreže</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">ch.bfe.terminiai tinklai</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">CH.bfe.termilised võrgud</dct:title>
+            <dct:description xml:lang="nl-t-de-t0-mtec">Web Kaart Diensten WMS</dct:description>
+            <dct:title xml:lang="mt-t-de-t0-mtec">netwerks termali ta’ ch.bfe.</dct:title>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Storitve spletnega zemljevida WMS</dct:description>
+            <dct:title xml:lang="en">ch.bfe.thermische-netze</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">ch.bfe.thermal мережі</dct:title>
+            <dct:title xml:lang="it">ch.bfe.thermische-netze</dct:title>
+            <dct:title xml:lang="fr">ch.bfe.thermische-netze</dct:title>
+            <dct:title xml:lang="de">ch.bfe.thermische-netze</dct:title>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Usługi map internetowych WMS</dct:description>
+            <dct:title xml:lang="ga-t-de-t0-mtec">c.bfe. líonraí teirmeacha</dct:title>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Tīmekļa kartes pakalpojumi WMS</dct:description>
+            <dct:title xml:lang="sl-t-de-t0-mtec">CH.bfe.termalna omrežja</dct:title>
+            <dct:language>en</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">CH.bfe.termālie tīkli</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">rețele ch.bfe.termale</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">redes térmicas de ch.bfe.</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">ch.bfe.termiset verkot</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">ch.bfe.termalne sieci</dct:title>
+            <dct:description xml:lang="el-t-de-t0-mtec">WEB Map Υπηρεσίες WMS</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">Servicii de hărți web WMS</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Web Térkép Szolgáltatások WMS</dct:description>
+            <dcat:accessURL rdf:resource="http://wms.geo.admin.ch/?SERVICE=WMS&amp;VERSION=1.3.0&amp;REQUEST=GetCapabilities&amp;lang=de"/>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Služby webovej mapy WMS</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">Servicios de Mapa Web WMS</dct:description>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="nl-t-de-t0-mtec">ch.bfe.thermale netwerken</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:landingPage rdf:resource="https://www.bfe.admin.ch/thermische-netze"/>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Топлофикационни мрежи (близо до отопление, централно отопление, районни охладителни системи)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4b09a460-27d7-429e-9ab4-f5c62ee40a8a">
+            <dct:description xml:lang="hu-t-de-t0-mtec">GeoPackage – Videó letöltés mp3-ban</dct:description>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Геопакет геопакетів</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-13T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lv-t-de-t0-mtec">GeoPackage Sistēmas Prasības</dct:title>
+            <dct:description xml:lang="de">Geopackage</dct:description>
+            <dcat:mediaType>Geopackage (ogc)</dcat:mediaType>
+            <dct:title xml:lang="hu-t-de-t0-mtec">GeoPackage – Videó letöltés mp3-ban</dct:title>
+            <dct:format>GPKG</dct:format>
+            <dct:title xml:lang="de">Geopackage</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">GeoPackage</dct:title>
+            <dcat:accessURL rdf:resource="http://data.geo.admin.ch/ch.bfe.thermische-netze/gpkg/2056/ch.bfe.thermische-netze.zip"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="fi-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Ippakkjar ta ‘GeoPackage</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">GeoPackage</dct:title>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Геопакет геопакетів</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">GeoPackage</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">Ippakkjar ta ‘GeoPackage</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">GeoPackage Sistēmas Prasības</dct:description>
+            <dcat:downloadURL rdf:resource="http://data.geo.admin.ch/ch.bfe.thermische-netze/gpkg/2056/ch.bfe.thermische-netze.zip"/>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/ad8df3fc-72f6-4d5e-9a88-110314489949/resource/19db5a12-e0de-4a98-b1be-0a44e64b9efa</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Redes térmicas (perto de aquecimento, aquecimento urbano, arrefecimento urbano)</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Θερμικά δίκτυα (κοντά θέρμανση, τηλεθέρμανση, τηλεψύξη)</dct:title>
+        <dct:title xml:lang="es-t-de-t0-mtec">Redes térmicas (cerca de calefacción, calefacción urbana, refrigeración urbana)</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Tepelné siete (blízko vykurovania, diaľkového vykurovania, diaľkového chladenia)</dct:title>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-11-13T00:00:00</dct:issued>
+        <dct:description xml:lang="da-t-de-t0-mtec">Termiske net — også fjernvarme, lokal opvarmning eller fjernkøling — er en infrastruktur, der forsyner flere bygninger på forskellige grunde med termisk energi. Det er en ledende varmeforsyning af kunderne over vand eller damp. Ud over fjernvarmenet er der også fjernkølingsnet — det er derfor, de mere generelle termer termiske net bruges i dag. Energiforsyningen til termiske net er ikke nødvendigvis vedvarende, men er ofte kendetegnet ved en lav balance i CO2-udledningen — f.eks. i Kehricht-forbrændingsanlæg. Fjernvarme muliggør f.eks. brug af overskudsvarme eller anvendelse af vedvarende energi og bliver derfor stadig vigtigere. Fjernvarme beskriver en ledende varmeforsyning til kunderne via vand eller damp med centralt produceret varme og dækker et bredt effektområde med en tilslutningskapacitet på mindre end 100 kW op til over 1 GW. En varmefordeling kun via en distributionsgruppe betragtes ikke som fjernvarme. De geodata "termiske net" dokumenterer den nuværende lager af fjernvarmenet i Schweiz. Alle oplysninger er baseret på oplysninger fra anlægsoperatørerne. Oplysningerne tjener som informationsmateriale for offentligheden og udgør ikke officielle oplysninger eller juridisk bindende erklæring.</dct:description>
+        <dct:title xml:lang="en">Thermal networks (local heating, district heating, district cooling)</dct:title>
+        <dcat:keyword xml:lang="de">aufbewahrungs--und-archivierungsplanung-aap---bund</dcat:keyword>
+        <dct:description xml:lang="sl-t-de-t0-mtec">Toplotna omrežja – tudi omrežja daljinskega ogrevanja, lokalnega ogrevanja ali daljinskega hlajenja – so infrastruktura, ki na različnih parcelah oskrbuje več stavb s toplotno energijo. Gre za prevodno oskrbo odjemalcev z vodo ali paro.
+Poleg omrežij za daljinsko ogrevanje obstajajo tudi omrežja za daljinsko hlajenje – zato se danes uporablja bolj splošen izraz termalna omrežja.
+Oskrba termičnih omrežij z energijo ni nujno obnovljiva, vendar jo pogosto zaznamuje nizko ravnovesje emisij CO2 – na primer v sežigalnicah Kehricht.
+Daljinsko ogrevanje na primer omogoča uporabo odpadne toplote ali uporabo obnovljivih virov energije, zato postaja vse pomembnejše.
+Daljinsko ogrevanje opisuje prevodno oskrbo odjemalcev z vodo ali paro s centralno proizvedeno toploto in pokriva širok razpon moči s priključno zmogljivostjo manj kot 100 kW do več kot 1 GW.
+Distribucija toplote samo prek distribucijske skupine se ne šteje za daljinsko ogrevanje.
+Prostorski podatki „Temeljna omrežja“ dokumentirajo trenutno stanje omrežij daljinskega ogrevanja v Švici.
+Vse informacije temeljijo na informacijah, ki so jih predložili upravljavci obrata.
+Informacije služijo kot informativno gradivo za javnost in ne predstavljajo uradne informacije ali pravno zavezujoče izjave.</dct:description>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:description xml:lang="ro-t-de-t0-mtec">Rețelele termice – de asemenea, termoficare, încălzire locală sau rețele de răcire centralizată – sunt o infrastructură care furnizează mai multe clădiri pe parcele diferite cu energie termică. Este o sursă de căldură conductivă a clienților peste apă sau abur. În plus față de rețelele de încălzire centralizată, există, de asemenea, rețele de răcire centralizată – de aceea astăzi se folosesc rețele termice mai generale. Alimentarea cu energie a rețelelor termice nu este neapărat regenerabilă, dar se caracterizează adesea printr-un echilibru scăzut al emisiilor de CO2 – de exemplu în instalațiile de incinerare Kehricht. De exemplu, încălzirea centralizată permite utilizarea căldurii reziduale sau utilizarea energiilor regenerabile și, prin urmare, devine din ce în ce mai importantă. Încălzirea centralizată descrie o alimentare cu căldură conductivă a clienților prin apă sau abur cu căldură generată central și acoperă o gamă largă de energie cu capacități de conectare mai mici de 100 kW până la peste 1 GW. O distribuție a căldurii numai prin intermediul unui grup de distribuție nu este considerată încălzire centralizată. Datele spațiale „Rețele termice” documentează stocul actual de rețele de termoficare din Elveția. Toate informațiile se bazează pe informațiile furnizate de operatorii instalațiilor. Informațiile servesc drept material informativ pentru public și nu constituie informații oficiale sau declarații obligatorii din punct de vedere juridic. Rețelele termice – de asemenea, termoficare, încălzire locală sau rețele de răcire centralizată – sunt o infrastructură care furnizează mai multe clădiri pe parcele diferite cu energie termică.
+Este o sursă de căldură conductivă a clienților peste apă sau abur.
+În plus față de rețelele de încălzire centralizată, există, de asemenea, rețele de răcire centralizată – de aceea astăzi se folosesc rețele termice mai generale.
+Alimentarea cu energie a rețelelor termice nu este neapărat regenerabilă, dar se caracterizează adesea printr-un echilibru scăzut al emisiilor de CO2 – de exemplu în instalațiile de incinerare Kehricht.
+De exemplu, încălzirea centralizată permite utilizarea căldurii reziduale sau utilizarea energiilor regenerabile și, prin urmare, devine din ce în ce mai importantă.
+Încălzirea centralizată descrie o alimentare cu căldură conductivă a clienților prin apă sau abur cu căldură generată central și acoperă o gamă largă de energie cu capacități de conectare mai mici de 100 kW până la peste 1 GW.
+O distribuție a căldurii numai prin intermediul unui grup de distribuție nu este considerată încălzire centralizată.
+Datele spațiale „Rețele termice” documentează stocul actual de rețele de termoficare din Elveția.
+Toate informațiile se bazează pe informațiile furnizate de operatorii instalațiilor.
+Informațiile servesc drept material informativ pentru public și nu constituie informații oficiale sau declarații obligatorii din punct de vedere juridic.</dct:description>
+        <dct:description xml:lang="fi-t-de-t0-mtec">Lämpöverkot – myös kaukolämpö-, paikallislämmitys- tai kaukojäähdytysverkot – ovat infrastruktuuri, joka toimittaa useita rakennuksia eri tontille lämpöenergialla. Se on johtava lämmön toimitus asiakkaille veden tai höyryn yli. Kaukolämpöverkkojen lisäksi on myös kaukojäähdytysverkkoja – siksi nykyään käytetään yleisempiä termejä lämpöverkoista. Lämpöverkkojen energiahuolto ei välttämättä ole uusiutuvaa, mutta sille on usein ominaista alhainen hiilidioksidipäästöjen tasapaino – esimerkiksi Kehrichtin polttolaitoksissa. Esimerkiksi kaukolämpö mahdollistaa hukkalämmön tai uusiutuvien energialähteiden käytön, ja siksi se on yhä tärkeämpi. Kaukolämpö kuvaa johtavaa lämmönsyöttöä asiakkaille veden tai höyryn välityksellä keskitetysti tuotetulla lämmöllä ja kattaa laajan tehoalueen, jonka kytkentäkapasiteetti on alle 100 kW ja enintään 1 GW. Lämmönjakelua ainoastaan jakeluryhmän kautta ei pidetä kaukolämmönä. Paikkatiedoissa ”Thermal networks” dokumentoidaan Sveitsin nykyinen kaukolämpöverkkojen kanta. Kaikki tiedot perustuvat laitoksen toimijoiden antamiin tietoihin. Tiedot toimivat yleisölle tarkoitettuna tiedotusmateriaalina, eivätkä ne ole virallisia tietoja tai oikeudellisesti sitovia lausuntoja.</dct:description>
+        <dct:language>en</dct:language>
+        <dcat:keyword xml:lang="it">pianificazione-della-conservazione-e-dellarchiviazione-aap---confederazione</dcat:keyword>
+        <dct:title xml:lang="de">Thermische Netze (Nahwärme, Fernwärme, Fernkälte)</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/energy"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dct:description xml:lang="sv-t-de-t0-mtec">Värmenät – även fjärrvärme, lokal värme eller fjärrkyla – är en infrastruktur som förser flera byggnader på olika tomter med värmeenergi. Det är en ledande värmeförsörjning till kunder över vatten eller ånga. Förutom fjärrvärmenät finns det också fjärrkylanät – det är därför som den mer allmänna termen värmenät används idag. Energitillförseln av termiska nät är inte nödvändigtvis förnybar, men den kännetecknas ofta av en låg balans av koldioxidutsläpp – till exempel i Kehrichts förbränningsanläggningar. Fjärrvärme möjliggör till exempel användning av spillvärme eller användning av förnybar energi och blir därför allt viktigare. Fjärrvärme beskriver en ledande värmeförsörjning till kunder via vatten eller ånga med centralt genererad värme och täcker ett brett effektområde med anslutningskapacitet på mindre än 100 kW upp till över 1 GW. En värmedistribution endast via en distributionsgrupp betraktas inte som fjärrvärme. Rumsliga data ”termiska nät” dokumenterar det nuvarande beståndet av fjärrvärmenät i Schweiz.
+All information baseras på den information som lämnats av anläggningsoperatörerna.
+Informationen fungerar som informationsmaterial för allmänheten och utgör inte officiell information eller rättsligt bindande uttalande.</dct:description>
+        <dct:description xml:lang="it">Con il termine «reti termiche» (reti di riscaldamento locale, di teleriscaldamento e di teleraffreddamento) si fa riferimento all'infrastruttura che fornisce energia termica a più edifici situati su fondi diversi. Grazie a un sistema di condotte il calore viene trasportato mediante acqua calda o vapore all'utente. Oltre alle reti di teleriscaldamento esistono anche quelle di teleraffreddamento, motivo per cui oggi si usa il termine generico «reti termiche». L'approvvigionamento energetico delle reti termiche non è necessariamente rinnovabile ma spesso si contraddistingue per le sue basse emissioni di CO2, ad esempio nel caso di impianti di incenerimento dei rifiuti. Il teleriscaldamento permette, ad esempio, di sfruttare il calore residuo o di impiegare energie rinnovabili, motivo per cui riveste un'importanza sempre maggiore. Il teleriscaldamento è un sistema di condotte che permette di produrre calore in modo centralizzato, trasportandolo mediante acqua calda o vapore all'utente. Esso copre un ampio range di potenza: il suo allacciamento può spaziare da un valore inferiore a 100kW a uno superiore a 1GW. La distribuzione del calore che avviene esclusivamente mediante un gruppo di distribuzione non è considerata teleriscaldamento. I geodati specifici «reti termiche» documentano lo stato attuale delle reti di teleriscaldamento in Svizzera, basandosi sulle informazioni dei gestori degli impianti. I dati sono da intendersi come materiale informativo per il pubblico; non hanno carattere ufficiale e non sono vincolanti sotto il profilo giuridico.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/geography"/>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/geoinformation.html">
+            <foaf:name>Bundesamt für Energie</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:language>de</dct:language>
+        <dct:description xml:lang="lt-t-de-t0-mtec">Šilumos tinklai – taip pat centralizuoto šilumos tiekimo, vietinio šildymo arba centralizuoto vėsinimo tinklai – yra infrastruktūra, kuri šilumine energija aprūpina kelis pastatus skirtinguose sklypuose. Tai laidus šilumos tiekimas klientams per vandenį ar garą. Be centralizuoto šilumos tiekimo tinklų, yra ir centralizuoto vėsinimo tinklų, todėl šiandien vartojamas bendresnis terminas šilumos tinklai. Terminių tinklų energijos tiekimas nebūtinai yra atsinaujinantis, tačiau jam dažnai būdingas mažas išmetamo CO2 kiekio balansas, pavyzdžiui, Kehrichto deginimo įmonėse. Pavyzdžiui, centralizuotas šilumos tiekimas leidžia naudoti atliekinę šilumą arba naudoti atsinaujinančiąją energiją, todėl jis tampa vis svarbesnis. Centralizuotas šilumos tiekimas – tai laidus šilumos tiekimas vartotojams vandeniu arba garais, naudojant centralizuotai pagamintą šilumą, ir apima platų galios diapazoną, kurio prijungimo pajėgumas yra mažesnis nei 100 kW, bet ne didesnis kaip 1 GW. Šilumos paskirstymas tik per skirstomąją grupę nelaikomas centralizuotu šilumos tiekimu. Erdviniai duomenys „šiluminiai tinklai“ dokumentuoja dabartinius centralizuoto šilumos tiekimo tinklus Šveicarijoje. Visa informacija grindžiama įmonės veiklos vykdytojų pateikta informacija. Informacija naudojama kaip informacinė medžiaga visuomenei ir nėra oficiali informacija ar teisiškai įpareigojantis pareiškimas. Šilumos tinklai – taip pat centralizuoto šilumos tiekimo, vietinio šildymo arba centralizuoto vėsinimo tinklai – yra infrastruktūra, kuri šilumine energija aprūpina kelis pastatus skirtinguose sklypuose.
+Tai laidus šilumos tiekimas klientams per vandenį ar garą.
+Be centralizuoto šilumos tiekimo tinklų, yra ir centralizuoto vėsinimo tinklų, todėl šiandien vartojamas bendresnis terminas šilumos tinklai.
+Terminių tinklų energijos tiekimas nebūtinai yra atsinaujinantis, tačiau jam dažnai būdingas mažas išmetamo CO2 kiekio balansas, pavyzdžiui, Kehrichto deginimo įmonėse.
+Pavyzdžiui, centralizuotas šilumos tiekimas leidžia naudoti atliekinę šilumą arba naudoti atsinaujinančiąją energiją, todėl jis tampa vis svarbesnis.
+Centralizuotas šilumos tiekimas – tai laidus šilumos tiekimas vartotojams vandeniu arba garais, naudojant centralizuotai pagamintą šilumą, ir apima platų galios diapazoną, kurio prijungimo pajėgumas yra mažesnis nei 100 kW, bet ne didesnis kaip 1 GW.
+Šilumos paskirstymas tik per skirstomąją grupę nelaikomas centralizuotu šilumos tiekimu.
+Erdviniai duomenys „šiluminiai tinklai“ dokumentuoja dabartinius centralizuoto šilumos tiekimo tinklus Šveicarijoje.
+Visa informacija grindžiama įmonės veiklos vykdytojų pateikta informacija.
+Informacija naudojama kaip informacinė medžiaga visuomenei ir nėra oficiali informacija ar teisiškai įpareigojantis pareiškimas.</dct:description>
+        <dct:description xml:lang="hr-t-de-t0-mtec">Toplinske mreže – također centralizirano grijanje, lokalne mreže grijanja ili centralizirano hlađenje – infrastruktura je koja opskrbljuje nekoliko zgrada na različitim parcelama toplinskom energijom. To je vodljiva opskrba toplinom kupaca preko vode ili pare. Osim mreža centraliziranog grijanja, postoje i mreže za centralizirano hlađenje – zato se danas koristi općenitiji pojam toplinske mreže. Opskrba energijom termičke mreže nije nužno obnovljiva, ali je često obilježena niskom ravnotežom emisija CO2 – na primjer u postrojenjima za spaljivanje u Kehrichtu. Na primjer, centralizirano grijanje omogućuje upotrebu otpadne topline ili korištenje obnovljivih izvora energije te stoga postaje sve važnije. Centralizirano grijanje opisuje vodljivu opskrbu kupaca toplinom vodom ili parom s centralno generiranom toplinom i obuhvaća širok raspon snage s priključnim kapacitetima manjim od 100 kW do preko 1 GW. Distribucija topline samo putem distribucijske skupine ne smatra se centraliziranim grijanjem. Prostorni podaci „Termalne mreže” dokumentiraju trenutačnu zalihu mreža centraliziranog grijanja u Švicarskoj. Sve se informacije temelje na informacijama koje su dostavili operateri postrojenja. Informacije služe kao informativni materijal za javnost i ne predstavljaju službenu informaciju ili pravno obvezujuću izjavu.</dct:description>
+        <dct:title xml:lang="da-t-de-t0-mtec">Termiske net (nærvarme, fjernvarme, fjernkøling)</dct:title>
+        <dct:description xml:lang="fr">On entend par réseaux thermiques (y compris chauffage de proximité, chauffage et froid à distance) une infrastructure qui approvisionne en énergie thermique plusieurs bâtiments se trouvant sur des parcelles différentes. Les clients sont approvisionnés en chaleur fournie en réseau par le biais de l'eau ou de la vapeur. Outre les réseaux de chauffage à distance, il existe également des réseaux de froid à distance. C'est pourquoi on utilise aujourd'hui l'expression générique «réseaux thermiques». L'approvisionnement en énergie des réseaux thermiques n'est pas nécessairement renouvelable, mais elle se caractérise souvent par un bilan carbone faible, par exemple dans le cas d'usines d'incinération des ordures ménagères. Le chauffage à distance permet notamment d'exploiter les pertes de chaleur ou d'utiliser les énergies renouvelables, raison pour laquelle il gagne en importance. Le chauffage à distance désigne un approvisionnement en chaleur fournie en réseau à des clients par le biais de l'eau ou de la vapeur au moyen de chaleur produite de manière centralisée et couvre une large plage de puissance avec des puissances de raccordement allant de moins de 100 kW à plus de 1 GW. La distribution de chaleur effectuée uniquement par au sein d'un groupe de distribution n'est pas considérée comme de la chaleur à distance. Les géodonnées techniques «Réseaux thermiques» documentent l'état actuel des réseaux de chauffage à distance en Suisse. L'ensemble des informations s'appuient sur les renseignements fournis par les exploitants d'installation. Les indications servent à informer le grand public et ne constituent pas des informations officielles ni des déclarations juridiquement contraignantes.</dct:description>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Líonraí teirmeacha (théamh gar, téamh ceantair, fuarú ceantair)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/da587c82-afe8-4e6d-9f69-372435ce1ad4">
+            <dct:title xml:lang="lv-t-de-t0-mtec">CSV CSV</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:title>
+            <dct:description xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:description>
+            <dcat:mediaType>Text (.csv), comma separated</dcat:mediaType>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/ad8df3fc-72f6-4d5e-9a88-110314489949/resource/a8bc6284-4153-4744-b149-e642b7077663</dct:identifier>
+            <dcat:accessURL rdf:resource="https://data.geo.admin.ch/ch.bfe.thermische-netze/csv/2056/ch.bfe.thermische-netze.zip"/>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dcat:downloadURL rdf:resource="https://data.geo.admin.ch/ch.bfe.thermische-netze/csv/2056/ch.bfe.thermische-netze.zip"/>
+            <dct:description xml:lang="pt-t-de-t0-mtec">CSV (EM INGLÊS)</dct:description>
+            <dct:title xml:lang="sv-t-de-t0-mtec">SVENSKA</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">CSV (EM INGLÊS)</dct:title>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="bg-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="ga-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="en-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="sk-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="it-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">CSV</dct:description>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-13T00:00:00</dct:issued>
+            <dct:description xml:lang="cs-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="nl-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">ROMÂNĂ</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">CSV</dct:description>
+            <dct:description xml:lang="de">Csv</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">CSV CSV</dct:description>
+            <dct:format>CSV</dct:format>
+            <dct:title xml:lang="it-t-de-t0-mtec">CSV</dct:title>
+            <dct:title xml:lang="de">Csv</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">CSV</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Šilumos tinklai (netoli šildymo, centralizuoto šilumos tiekimo, centralizuoto vėsinimo)</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Soojusvõrgud (lähiküte, kaugküte, kaugjahutus)</dct:title>
+        <dct:description xml:lang="et-t-de-t0-mtec">Soojusvõrgud – ka kaugkütte-, kaugkütte- või kaugjahutusvõrgud – on taristu, mis varustab soojusenergiaga mitmel eri krundil asuvat hoonet. See on juhtiv soojusvarustus klientidele üle vee või auru. Lisaks kaugküttevõrkudele on olemas ka kaugjahutusvõrgud – seetõttu kasutatakse tänapäeval üldisemaid soojusvõrke. Termiliste võrkude energiavarustus ei ole tingimata taastuv, kuid seda iseloomustab sageli madal CO2 heitkoguste tasakaal – näiteks Kehrichti põletustehastes. Näiteks kaugküte võimaldab heitsoojuse kasutamist või taastuvenergia kasutamist ning muutub seetõttu üha olulisemaks. Kaugküte kirjeldab elektrijuhtivat soojust tarbijatele vee või auru kaudu tsentraalselt toodetud soojusega ning hõlmab laia võimsusvahemikku, mille ühendusvõimsus on alla 100 kW kuni üle 1 GW. Kaugkütteks ei loeta soojusjaotust ainult jaotusrühma kaudu. Ruumiandmed „Thermal Network“ dokumenteerivad Šveitsi kaugküttevõrkude praegust seisu. Kogu teave põhineb jaama käitajate esitatud teabel. Teave on üldsusele mõeldud teabematerjal ega kujuta endast ametlikku teavet ega õiguslikult siduvat avaldust.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/territory"/>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Toplinske mreže (blisko grijanje, centralizirano grijanje, centralizirano hlađenje)</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Lämpöverkot (lähilämmitys, kaukolämpö, kaukojäähdytys)</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="fr">Réseaux thermiques (chauffage de proximité, chauffage et froid à distance)</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Теплові мережі (біля теплопостачання, централізоване теплопостачання, централізоване охолодження)</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-20T00:00:00</dct:modified>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Siltumtīkli (gandrīz siltumapgāde, centralizētā siltumapgāde, centralizētā dzesēšana)</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Toplotna omrežja (bližnje ogrevanje, daljinsko ogrevanje, daljinsko hlajenje)</dct:title>
+        <dct:description xml:lang="ga-t-de-t0-mtec">Is bonneagar iad líonraí teirmeacha — téamh ceantair, líonraí téimh áitiúil nó líonraí fuaraithe ceantair freisin — a sholáthraíonn roinnt foirgneamh ar cheapacha éagsúla a bhfuil fuinneamh teirmeach acu. Is soláthar teasa seoltaí na gcustaiméirí thar uisce nó gaile. Chomh maith le líonraí téimh ceantair, tá líonraí fuaraithe ceantair ann freisin — sin an fáth a n-úsáidtear líonraí teirmeacha téarma níos ginearálta inniu. Ní gá go mbeadh soláthar fuinnimh na n-eangach Teirmeach in-athnuaite, ach is minic a bhíonn cothromaíocht íseal astaíochtaí CO2 ann — mar shampla i ngléasraí loiscthe Kehricht. Mar shampla, cuireann téamh ceantair ar chumas úsáid dramhtheasa nó úsáid fuinnimh in-athnuaite agus dá bhrí sin tá sé ag éirí níos tábhachtaí. Déanann téamh ceantair cur síos ar sholáthar teasa seoltaí do chustaiméirí trí uisce nó gaile le teas a ghintear go lárnach agus clúdaíonn sé raon cumhachta leathan le hacmhainneachtaí nasctha níos lú ná 100 kW suas go dtí níos mó ná 1 GW. Ní mheastar gur téamh ceantair é dáileadh teasa trí ghrúpa dáileacháin amháin. Déanann na sonraí spásúla “Líonraí Teirmeach” taifead ar stoc reatha na líonraí téimh ceantair san Eilvéis. Tá an fhaisnéis go léir bunaithe ar an bhfaisnéis a chuireann na hoibreoirí plandaí ar fáil. Fónann an fhaisnéis mar ábhar faisnéise don phobal agus ní faisnéis oifigiúil ná ráiteas atá ceangailteach ó thaobh dlí í.</dct:description>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/culture"/>
+        <dct:description xml:lang="de">Unter Thermischen Netzen - auch Fernwärme-, Nahwärme- oder Fernkältenetze - versteht man eine Infrastruktur, welche mehrere Gebäude auf verschiedenen Grundstücken mit thermischer Energie versorgt. Es ist eine leitungsgebundene Wärmeversorgung von Kunden über Wasser oder Dampf. Neben Fernwärmenetzen existieren auch Fernkältenetze – deshalb verwendet man heute den allgemeineren Begriff Thermische Netze. Die Energieversorgung von Thermischen Netzen ist dabei nicht zwangsläufig erneuerbar, aber sie zeichnet sich oft – so zum Beispiel bei Kehrichtverbrennungsanlagen – durch eine geringe Bilanz an CO2-Emissionen aus. So ermöglicht Fernwärme z.B. die Nutzung von Abwärme oder den Einsatz von erneuerbaren Energien und gewinnt deshalb zunehmend an Bedeutung. Fernwärme beschreibt eine leitungsgebundene Wärmeversorgung von Kunden über Wasser oder Dampf mit zentral erzeugter Wärme und deckt einen breiten Leistungsbereich mit Anschlussleistungen von weniger als 100 kW bis zu über 1 GW ab. Eine Wärmeverteilung einzig über eine Verteilergruppe gilt nicht als Fernwärme. Die Geofachdaten «Thermische Netze» dokumentieren den aktuellen Bestand der Fernwärmenetze in der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.</dct:description>
+        <dcat:keyword xml:lang="de">bgdi-bundesgeodaten-infrastruktur</dcat:keyword>
+        <dcat:keyword xml:lang="en">conservation-and-archiving-planning-aap---confederation</dcat:keyword>
+        <dcat:keyword xml:lang="fr">planification-de-la-conservation-et-de-larchivage-aap---confederation</dcat:keyword>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>geoinformation@bfe.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:geoinformation@bfe.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="it">Reti termiche (riscaldamento locale, teleriscaldamento, teleraffreddamento)</dct:title>
+        <dct:description xml:lang="uk-t-de-t0-mtec">Теплові мережі - також централізоване теплопостачання, локальне опалення або централізоване охолодження - це інфраструктура, яка забезпечує тепловою енергією кілька будівель на різних ділянках. Це провідне теплопостачання клієнтів по воді або парі.
+Крім мереж централізованого теплопостачання, існують і районні охолоджувальні мережі - саме тому сьогодні використовується більш загальний термін теплових мереж.
+Енергопостачання термічних мереж не обов'язково є відновлюваним, але часто характеризується низьким балансом викидів CO2 - наприклад, на заводах спалювання Кегріхта.
+Наприклад, централізоване теплопостачання дозволяє використовувати відпрацьоване тепло або використовувати відновлювані джерела енергії, і тому набуває все більшого значення.
+Централізоване опалення описує провідне теплопостачання споживачів за допомогою води або пари з централізованим теплом і охоплює широкий діапазон потужності з підключенням менше 100 кВт до понад 1 ГВт.
+Розподіл тепла тільки через розподільну групу не вважається централізованим опаленням.
+Просторові дані «Тепломережі» документують поточний запас мереж централізованого теплопостачання в Швейцарії.
+Вся інформація базується на інформації, наданої операторами заводу.
+Інформація служить інформаційним матеріалом для громадськості і не є офіційною інформацією або юридично обов'язковою заявою.</dct:description>
+        <dct:description xml:lang="mt-t-de-t0-mtec">In-netwerks termali — ukoll it-tisħin distrettwali, it-tisħin lokali jew in-netwerks tat-tkessiħ distrettwali — huma infrastruttura li tforni diversi binjiet fuq plottijiet differenti b’enerġija termali. Huwa provvista tas-sħana konduttiva ta ‘klijenti fuq l-ilma jew fwar. Minbarra n-netwerks tat-tisħin distrettwali, hemm ukoll netwerks ta’ tkessiħ distrettwali — huwa għalhekk li llum qed jintużaw in-netwerks termali b’terminu aktar ġenerali. Il-provvista tal-enerġija tal-grilji termiċi mhijiex neċessarjament rinnovabbli, iżda ħafna drabi hija kkaratterizzata minn bilanċ baxx ta’ emissjonijiet tas-CO2 — pereżempju fl-impjanti tal-inċinerazzjoni ta’ Kehricht. Pereżempju, it-tisħin distrettwali jippermetti l-użu ta’ sħana mormija jew l-użu ta’ enerġiji rinnovabbli u għalhekk qed isir dejjem aktar importanti. It-tisħin distrettwali jiddeskrivi provvista ta’ sħana konduttiva lill-klijenti permezz tal-ilma jew tal-fwar bi sħana ġġenerata ċentralment u jkopri firxa wiesgħa ta’ enerġija b’kapaċitajiet ta’ konnessjoni ta’ inqas minn 100 kW sa aktar minn 1 GW. Distribuzzjoni tas-sħana biss permezz ta’ grupp ta’ distribuzzjoni ma titqiesx bħala tisħin distrettwali. Id-data ġeografika “Netwerks termiċi” tiddokumenta l-istokk attwali ta’ netwerks ta’ tisħin distrettwali fl-Iżvizzera. L-informazzjoni kollha hija bbażata fuq l-informazzjoni pprovduta mill-operaturi tal-impjanti. L-informazzjoni sservi bħala materjal ta’ informazzjoni għall-pubbliku u ma tikkostitwixxix informazzjoni uffiċjali jew dikjarazzjoni legalment vinkolanti. In-netwerks termali — ukoll it-tisħin distrettwali, it-tisħin lokali jew in-netwerks tat-tkessiħ distrettwali — huma infrastruttura li tforni diversi binjiet fuq plottijiet differenti b’enerġija termali.
+Huwa provvista tas-sħana konduttiva ta ‘klijenti fuq l-ilma jew fwar.
+Minbarra n-netwerks tat-tisħin distrettwali, hemm ukoll netwerks ta’ tkessiħ distrettwali — huwa għalhekk li llum qed jintużaw in-netwerks termali b’terminu aktar ġenerali.
+Il-provvista tal-enerġija tal-grilji termiċi mhijiex neċessarjament rinnovabbli, iżda ħafna drabi hija kkaratterizzata minn bilanċ baxx ta’ emissjonijiet tas-CO2 — pereżempju fl-impjanti tal-inċinerazzjoni ta’ Kehricht.
+Pereżempju, it-tisħin distrettwali jippermetti l-użu ta’ sħana mormija jew l-użu ta’ enerġiji rinnovabbli u għalhekk qed isir dejjem aktar importanti.
+It-tisħin distrettwali jiddeskrivi provvista ta’ sħana konduttiva lill-klijenti permezz tal-ilma jew tal-fwar bi sħana ġġenerata ċentralment u jkopri firxa wiesgħa ta’ enerġija b’kapaċitajiet ta’ konnessjoni ta’ inqas minn 100 kW sa aktar minn 1 GW.
+Distribuzzjoni tas-sħana biss permezz ta’ grupp ta’ distribuzzjoni ma titqiesx bħala tisħin distrettwali.
+Id-data ġeografika “Netwerks termiċi” tiddokumenta l-istokk attwali ta’ netwerks ta’ tisħin distrettwali fl-Iżvizzera.
+L-informazzjoni kollha hija bbażata fuq l-informazzjoni pprovduta mill-operaturi tal-impjanti.
+L-informazzjoni sservi bħala materjal ta’ informazzjoni għall-pubbliku u ma tikkostitwixxix informazzjoni uffiċjali jew dikjarazzjoni legalment vinkolanti.</dct:description>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Tepelné sítě (téměř vytápění, dálkové vytápění, dálkové chlazení)</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/054d690d-e736-4deb-a050-a60290218901">
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-13T00:00:00</dct:issued>
+            <dct:identifier>https://ckan.opendata.swiss/dataset/ad8df3fc-72f6-4d5e-9a88-110314489949/resource/1039e3e7-f73c-40ed-8a70-6e3596d58896</dct:identifier>
+            <dct:format>API</dct:format>
+            <dct:description xml:lang="en-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="es-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="de">swisstopo REST API</dct:description>
+            <dct:description xml:lang="da-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="ro-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dcat:accessURL rdf:resource="https://api3.geo.admin.ch/rest/services/api/MapServer/ch.bfe.thermische-netze"/>
+            <dct:description xml:lang="nl-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="pt-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="et-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="mt-t-de-t0-mtec">swisstopo REST API</dct:description>
+            <dct:description xml:lang="fr-t-de-t0-mtec">API Swisstopo REST</dct:description>
+            <dct:rights>NonCommercialAllowed-CommercialAllowed-ReferenceRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dct:description xml:lang="sk-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="cs-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="hr-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="sl-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2022-07-20T00:00:00</dct:modified>
+            <dct:description xml:lang="ga-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="el-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="bg-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="lt-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="fi-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="hu-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="sv-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="lv-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="uk-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:description xml:lang="pl-t-de-t0-mtec">Swisstopo REST API</dct:description>
+            <dct:title xml:lang="it-t-de-t0-mtec">API di swisstopo REST</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">swisstopo REST API</dct:title>
+            <dct:title xml:lang="de">swisstopo REST API</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">API Swisstopo REST</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Swisstopo REST API</dct:title>
+            <dct:description xml:lang="it-t-de-t0-mtec">API di swisstopo REST</dct:description>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Sieci cieplne (bliskie ogrzewanie, ciepłownictwo miejskie, chłodzenie miejskie)</dct:title>
+        <dct:description xml:lang="pl-t-de-t0-mtec">Sieci cieplne – również sieci ciepłownicze, lokalne sieci ciepłownicze lub chłodnicze – to infrastruktura, która dostarcza energię cieplną kilku budynków na różnych działkach. Jest to przewodzące ciepło klientów nad wodą lub parą. Oprócz sieci ciepłowniczych istnieją również sieci chłodnicze – dlatego obecnie stosuje się bardziej ogólny termin „sieć cieplna”. Dostawy energii sieci Thermic niekoniecznie są odnawialne, ale często charakteryzują się niskim bilansem emisji CO2 – na przykład w spalarniach Kehricht. Na przykład systemy ciepłownicze umożliwiają wykorzystanie ciepła odpadowego lub wykorzystanie energii ze źródeł odnawialnych i w związku z tym stają się coraz ważniejsze. System ciepłowniczy opisuje przewodzące ciepło do odbiorców za pośrednictwem wody lub pary z centralnie wytwarzanym ciepłem i obejmuje szeroki zakres mocy o mocy przyłączeniowej poniżej 100 kW do ponad 1 GW. Dystrybucja ciepła wyłącznie za pośrednictwem grupy dystrybucyjnej nie jest uważana za ciepło komunalne. Dane przestrzenne „Sieci termalne” dokumentują aktualne zasoby sieci ciepłowniczych w Szwajcarii. Wszystkie informacje opierają się na informacjach dostarczonych przez operatorów zakładów. Informacje te służą jako materiał informacyjny dla ogółu społeczeństwa i nie stanowią informacji urzędowych ani prawnie wiążącego oświadczenia. Sieci cieplne – również sieci ciepłownicze, lokalne sieci ciepłownicze lub chłodnicze – to infrastruktura, która dostarcza energię cieplną kilku budynków na różnych działkach.
+Jest to przewodzące ciepło klientów nad wodą lub parą.
+Oprócz sieci ciepłowniczych istnieją również sieci chłodnicze – dlatego obecnie stosuje się bardziej ogólny termin „sieć cieplna”.
+Dostawy energii sieci Thermic niekoniecznie są odnawialne, ale często charakteryzują się niskim bilansem emisji CO2 – na przykład w spalarniach Kehricht.
+Na przykład systemy ciepłownicze umożliwiają wykorzystanie ciepła odpadowego lub wykorzystanie energii ze źródeł odnawialnych i w związku z tym stają się coraz ważniejsze.
+System ciepłowniczy opisuje przewodzące ciepło do odbiorców za pośrednictwem wody lub pary z centralnie wytwarzanym ciepłem i obejmuje szeroki zakres mocy o mocy przyłączeniowej poniżej 100 kW do ponad 1 GW.
+Dystrybucja ciepła wyłącznie za pośrednictwem grupy dystrybucyjnej nie jest uważana za ciepło komunalne.
+Dane przestrzenne „Sieci termalne” dokumentują aktualne zasoby sieci ciepłowniczych w Szwajcarii.
+Wszystkie informacje opierają się na informacjach dostarczonych przez operatorów zakładów.
+Informacje te służą jako materiał informacyjny dla ogółu społeczeństwa i nie stanowią informacji urzędowych ani prawnie wiążącego oświadczenia.</dct:description>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Netwerks termali (kważi tisħin, tisħin distrettwali, tkessiħ distrettwali)</dct:title>
+        <dct:description xml:lang="nl-t-de-t0-mtec">Thermische netwerken — ook stadsverwarming, lokale verwarming of stadskoelingsnetwerken — zijn een infrastructuur die verschillende gebouwen op verschillende percelen van thermische energie voorziet. Het is een geleidende warmtevoorziening van klanten over water of stoom. Naast stadsverwarmingsnetwerken zijn er ook stadskoelingsnetwerken — daarom wordt vandaag de meer algemene term thermische netwerken gebruikt. De energievoorziening van Thermische netten is niet noodzakelijk hernieuwbaar, maar wordt vaak gekenmerkt door een lage CO2-uitstoot — bijvoorbeeld in Kehricht verbrandingsinstallaties. Stadsverwarming maakt bijvoorbeeld het gebruik van afvalwarmte of het gebruik van hernieuwbare energie mogelijk en wordt daarom steeds belangrijker. Stadsverwarming beschrijft een geleidende warmtevoorziening aan klanten via water of stoom met centraal opgewekte warmte en bestrijkt een breed vermogensbereik met een aansluitvermogen van minder dan 100 kW tot meer dan 1 GW. Een warmtedistributie alleen via een distributiegroep wordt niet beschouwd als stadsverwarming. De ruimtelijke gegevens „Thermische netwerken” documenteren de huidige voorraad stadsverwarmingsnetten in Zwitserland. Alle informatie is gebaseerd op de door de exploitanten van installaties verstrekte informatie. De informatie dient als informatiemateriaal voor het publiek en vormt geen officiële informatie of juridisch bindende verklaring. Thermische netwerken — ook stadsverwarming, lokale verwarming of stadskoelingsnetwerken — zijn een infrastructuur die verschillende gebouwen op verschillende percelen van thermische energie voorziet.
+Het is een geleidende warmtevoorziening van klanten over water of stoom.
+Naast stadsverwarmingsnetwerken zijn er ook stadskoelingsnetwerken — daarom wordt vandaag de meer algemene term thermische netwerken gebruikt.
+De energievoorziening van Thermische netten is niet noodzakelijk hernieuwbaar, maar wordt vaak gekenmerkt door een lage CO2-uitstoot — bijvoorbeeld in Kehricht verbrandingsinstallaties.
+Stadsverwarming maakt bijvoorbeeld het gebruik van afvalwarmte of het gebruik van hernieuwbare energie mogelijk en wordt daarom steeds belangrijker.
+Stadsverwarming beschrijft een geleidende warmtevoorziening aan klanten via water of stoom met centraal opgewekte warmte en bestrijkt een breed vermogensbereik met een aansluitvermogen van minder dan 100 kW tot meer dan 1 GW.
+Een warmtedistributie alleen via een distributiegroep wordt niet beschouwd als stadsverwarming.
+De ruimtelijke gegevens „Thermische netwerken” documenteren de huidige voorraad stadsverwarmingsnetten in Zwitserland.
+Alle informatie is gebaseerd op de door de exploitanten van installaties verstrekte informatie.
+De informatie dient als informatiemateriaal voor het publiek en vormt geen officiële informatie of juridisch bindende verklaring.</dct:description>
+        <dct:description xml:lang="en">Thermal networks – including district heating-, local heating- or district cooling networks – are systems that provide a number of separate buildings with thermal energy. They supply heat to customers through pipelines that carry water or steam. As well as district heating networks there are also district cooling networks – which is why the more general term ‘thermal networks' is now used. The energy supplied by thermal networks does not necessarily come from renewable sources, but these systems are often characterised by their low CO2 emissions, for example when based on heat recovered from waste incineration . District heating is an excellent way of making use of waste heat or renewable energies and is therefore becoming increasingly important. District heating is defined as a system that provides customers with heat that is generated in a central plant and supplied through pipes in the form of hot water or steam; the performance of individual systems varies widely, from less than 100 kW to over 1 GW. The supply of heat to one group of recipients only is not regarded as district heating. The geodata on thermal networks document the district heating networks currently operating in Switzerland, and are based entirely on information provided by the network operators. The data are unofficial, are not legally binding, and are provided simply as information for the public.</dct:description>
+        <dct:description xml:lang="lv-t-de-t0-mtec">Siltumtīkli — arī centralizētās siltumapgādes, vietējās siltumapgādes vai centralizētās dzesēšanas tīkli — ir infrastruktūra, kas piegādā vairākas ēkas dažādos zemes gabalos ar siltumenerģiju. Tas ir vadošs siltumapgādi klientiem virs ūdens vai tvaika. Papildus centralizētās siltumapgādes tīkliem ir arī centralizētās dzesēšanas tīkli — tāpēc šodien tiek izmantoti vispārīgāki terminālie siltumtīkli. Termisko tīklu energoapgāde ne vienmēr ir atjaunojama, bet to bieži raksturo zems CO2 emisiju līdzsvars, piemēram, Kehricht sadedzināšanas iekārtās. Piemēram, centralizētā siltumapgāde ļauj izmantot atlikumsiltumu vai izmantot atjaunojamos energoresursus, un tādēļ tā kļūst arvien svarīgāka. Centralizētā siltumapgāde raksturo vadošu siltumapgādi klientiem, izmantojot ūdeni vai tvaiku ar centrāli ģenerētu siltumu, un aptver plašu jaudas diapazonu ar pieslēguma jaudu, kas mazāka par 100 kW, līdz pat 1 GW. Siltuma sadali tikai ar sadales grupas starpniecību neuzskata par centralizētu siltumapgādi. Telpiskie dati “Termālie tīkli” dokumentē pašreizējo centralizētās siltumapgādes tīklu kopumu Šveicē. Visa informācija ir balstīta uz iekārtu operatoru sniegto informāciju. Šī informācija ir informatīvs materiāls sabiedrībai un nav uzskatāma par oficiālu informāciju vai juridiski saistošu paziņojumu. Siltumtīkli — arī centralizētās siltumapgādes, vietējās siltumapgādes vai centralizētās dzesēšanas tīkli — ir infrastruktūra, kas piegādā vairākas ēkas dažādos zemes gabalos ar siltumenerģiju.
+Tas ir vadošs siltumapgādi klientiem virs ūdens vai tvaika.
+Papildus centralizētās siltumapgādes tīkliem ir arī centralizētās dzesēšanas tīkli — tāpēc šodien tiek izmantoti vispārīgāki terminālie siltumtīkli.
+Termisko tīklu energoapgāde ne vienmēr ir atjaunojama, bet to bieži raksturo zems CO2 emisiju līdzsvars, piemēram, Kehricht sadedzināšanas iekārtās.
+Piemēram, centralizētā siltumapgāde ļauj izmantot atlikumsiltumu vai izmantot atjaunojamos energoresursus, un tādēļ tā kļūst arvien svarīgāka.
+Centralizētā siltumapgāde raksturo vadošu siltumapgādi klientiem, izmantojot ūdeni vai tvaiku ar centrāli ģenerētu siltumu, un aptver plašu jaudas diapazonu ar pieslēguma jaudu, kas mazāka par 100 kW, līdz pat 1 GW.
+Siltuma sadali tikai ar sadales grupas starpniecību neuzskata par centralizētu siltumapgādi.
+Telpiskie dati “Termālie tīkli” dokumentē pašreizējo centralizētās siltumapgādes tīklu kopumu Šveicē.
+Visa informācija ir balstīta uz iekārtu operatoru sniegto informāciju.
+Šī informācija ir informatīvs materiāls sabiedrībai un nav uzskatāma par oficiālu informāciju vai juridiski saistošu paziņojumu.</dct:description>
+        <dct:description xml:lang="hu-t-de-t0-mtec">A termikus hálózatok – a távfűtési, helyi fűtési vagy távhűtési hálózatok – olyan infrastruktúra, amely különböző telkeken több épületet lát el hőenergiával. Ez a fogyasztók vezetőképes hőellátása a víz vagy a gőz felett. A távfűtési hálózatok mellett távhűtési hálózatok is léteznek – ezért használják ma az általánosabb termikus hálózatokat. A termikus hálózatok energiaellátása nem feltétlenül megújuló, de gyakran a szén-dioxid-kibocsátás alacsony egyensúlya jellemzi – például a Kehricht égetőművekben. A távfűtés például lehetővé teszi a hulladékhő vagy a megújuló energiaforrások használatát, ezért egyre fontosabbá válik. A távfűtés a fogyasztók vízen vagy gőzön keresztül történő, központilag generált hővel történő, vezetőképes hőellátását írja le, és széles teljesítménytartományt fed le, 100 kW-nál kisebb és 1 GW-ot meghaladó csatlakozási kapacitással. A kizárólag elosztási csoporton keresztüli hőelosztás nem minősül távfűtésnek. A termálhálózatok téradatai a svájci távfűtési hálózatok jelenlegi állományát dokumentálják. Minden információ a létesítmény üzemeltetői által szolgáltatott információkon alapul. Az információ tájékoztató anyagként szolgál a nyilvánosság számára, és nem minősül hivatalos tájékoztatásnak vagy jogilag kötelező erejű nyilatkozatnak.</dct:description>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Rețele termice (încălzire apropiată, încălzire centralizată, răcire centralizată)</dct:title>
+        <dct:description xml:lang="cs-t-de-t0-mtec">Tepelné sítě – také dálkové vytápění, lokální vytápění nebo sítě dálkového chlazení – jsou infrastrukturou, která zásobuje několik budov na různých pozemcích tepelnou energií. Jedná se o vodivé dodávky tepla zákazníkům přes vodu nebo páru. Kromě sítí dálkového vytápění existují také sítě dálkového chlazení – to je důvod, proč se dnes používá obecnější termín tepelné sítě. Dodávky energie termických rozvodných sítí nemusí být nutně obnovitelné, ale často se vyznačují nízkou rovnováhou emisí CO2 – například ve spalovnách Kehricht. Například dálkové vytápění umožňuje využití odpadního tepla nebo využívání energie z obnovitelných zdrojů, a je proto stále důležitější. Dálkové vytápění popisuje vodivé dodávky tepla zákazníkům prostřednictvím vody nebo páry s centrálně generovaným teplem a pokrývá široký rozsah výkonu s připojovací kapacitou menší než 100 kW až do 1 GW. Rozvod tepla pouze prostřednictvím distribuční skupiny se nepovažuje za dálkové vytápění. Prostorová data „Thermal networks“ dokumentují aktuální zásobu sítí dálkového vytápění ve Švýcarsku. Veškeré informace vycházejí z informací poskytnutých provozovateli zařízení. Tyto informace slouží jako informační materiál pro veřejnost a nepředstavují oficiální informace ani právně závazné prohlášení.</dct:description>
+        <dct:description xml:lang="bg-t-de-t0-mtec">Топлофикационните мрежи — също топлофикационни, локални отоплителни или районни охладителни мрежи — са инфраструктура, която снабдява няколко сгради на различни парцели с топлинна енергия. Това е проводящо топлоснабдяване на клиентите над вода или пара. В допълнение към топлофикационните мрежи има и районни охладителни мрежи — ето защо днес се използват по-общите термични мрежи. Енергийните доставки на термичните мрежи не са непременно възобновяеми, но често се характеризират с нисък баланс на емисиите на CO2 — например в инсталациите за изгаряне в Керихт. Например централното отопление позволява използването на отпадна топлина или използването на възобновяеми енергийни източници и поради това придобива все по-голямо значение. Районното отопление описва проводящо топлоснабдяване на клиентите чрез вода или пара с централно генерирана топлинна енергия и обхваща широк диапазон на мощност с капацитет на свързване под 100 kW до над 1 GW. Топлоразпределението само чрез група за разпределение не се счита за централно отопление. Пространствените данни „Термални мрежи“ документират текущия запас от топлофикационни мрежи в Швейцария. Цялата информация се основава на информацията, предоставена от операторите на инсталации. Информацията служи като информационен материал за обществеността и не представлява официална информация или правно обвързващо изявление.</dct:description>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+  </dcat:CatalogRecord>
+</rdf:RDF>

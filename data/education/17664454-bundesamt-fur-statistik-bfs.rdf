@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/17664454-bundesamt-fur-statistik-bfs">
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>f94b508203de3f5dc28c5136ae769278</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:11Z</dct:issued>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/17664454-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="it-t-de-t0-mtec">Personale delle università universitarie per fonte finanziaria, categoria di personale e università — in ETP</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники університетських університетів за фінансовими джерелами, категорією персоналу та університетом - в FTE</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/932d2a03-7051-4547-b85c-14387f791ab2">
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό του Πανεπιστημιακού Κολλεγίου ανά πηγή χρηματοδότησης, κατηγορία προσωπικού και πανεπιστήμιο — σε ΙΠΑ</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann an Choláiste Ollscoile de réir foinse maoinithe, catagóir foirne agus ollscoile — in FTE</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal universitario por fuente de financiación, categoría de personal y universidad — en ETC</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal University College skont is-sors ta ‘finanzjament, kategorija tal-persunal u l-università — fl FTE</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Pracownicy Kolegium Uniwersyteckiego według źródła finansowania, kategorii personelu i uniwersytetu – w EPC</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Співробітники університетського коледжу за джерелом фінансування, категорія персоналу та університет - в FTE</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci vysokej školy podľa zdroja financovania, kategórie zamestnancov a univerzity – v ekvivalente plného pracovného času</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:identifier>17664463-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">University College személyzete finanszírozási forrás, személyzeti kategória és egyetem szerint – teljes munkaidős egyenértékben</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zaměstnanci vysokých škol podle zdroje financování, kategorie zaměstnanců a vysokých škol – na plný úvazek</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Служители на университетския колеж по източник на финансиране, категория персонал и университет — в ЕПРВ</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal universitário por fonte de financiamento, categoria de pessoal e universidade — em ETI</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Universiteto kolegijos darbuotojai pagal finansavimo šaltinį, darbuotojų kategoriją ir universitetą – visos darbo dienos ekvivalentais</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Högskolans personal efter finansieringskälla, personalkategori och universitet – i heltidsekvivalenter</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Augstskolu koledžas personāls pēc finansējuma avota, personāla kategorijas un universitātes — FTE</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">University College staff by source of funding, staff category and university — in FTE</dct:title>
+            <dct:title xml:lang="fr">Personnel des hautes écoles universitaires selon la source de financement, la catégorie de personnel et la haute école - en EPT</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Universitetsakademiets personale efter finansieringskilde, personalekategori og universitet — i fuldtidsækvivalenter</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/px-x-1504040100_107"/>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje na univerzi glede na vir financiranja, kategorijo osebja in univerzo – v EPDČ</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje Visoke škole prema izvoru financiranja, kategoriji osoblja i sveučilištu – u EPRV-u</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Korkeakoulujen henkilöstö rahoituslähteen, henkilöstöluokan ja yliopiston mukaan – kokoaikaiseksi muutettuna</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikooli kolledži töötajad rahastamisallikate, töötajate kategooria ja ülikooli kaupa – täistööajale taandatud töötajad</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale universitario per fonte di finanziamento, categoria di personale e università — in ETP</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Hochschulpersonal nach Finanzierungsquelle, Personalkategorie und Hochschule – in Vollzeitäquivalenten</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:issued>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Personeel van het Universitair College naar financieringsbron, personeelscategorie en universiteit — in VTE</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personalul Colegiului Universitar după sursă de finanțare, categorie de personal și universitate – în ENI</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Persunal ta’ universitajiet universitarji skont is-sors finanzjarju, il-kategorija tal-persunal u l-università — f’FTE</dct:title>
+        <dcat:keyword xml:lang="en">university-staff</dcat:keyword>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Universitetų darbuotojai pagal finansinius šaltinius, personalo kategoriją ir universitetą – visos darbo dienos ekvivalentais</dct:title>
+        <dcat:keyword xml:lang="it">personale-universitario</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Personale på universitetsuniversiteter efter finansiel kilde, personalekategori og universitet — i fuldtidsækvivalenter</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-07-29T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/143593d6-4997-4b36-9116-505f7d268a42">
+            <dct:title xml:lang="et-t-fr-t0-mtec">Ülikooli kolledži töötajad rahastamisallikate, töötajate kategooria ja ülikooli kaupa – täistööajale taandatud töötajad</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Служители на университетския колеж по източник на финансиране, категория персонал и университет — в ЕПРВ</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Osebje na univerzi glede na vir financiranja, kategorijo osebja in univerzo – v EPDČ</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Universitetsakademiets personale efter finansieringskilde, personalekategori og universitet — i fuldtidsækvivalenter</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/fr/px-x-1504040100_107/px-x-1504040100_107/px-x-1504040100_107.px"/>
+            <dct:identifier>link-17664478-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Högskolans personal efter finansieringskälla, personalkategori och universitet – i heltidsekvivalenter</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Personalul Colegiului Universitar după sursă de finanțare, categorie de personal și universitate – în ENI</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Pracownicy Kolegium Uniwersyteckiego według źródła finansowania, kategorii personelu i uniwersytetu – w EPC</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Foireann an Choláiste Ollscoile de réir foinse maoinithe, catagóir foirne agus ollscoile — in FTE</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Persunal University College skont is-sors ta ‘finanzjament, kategorija tal-persunal u l-università — fl FTE</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">University College személyzete finanszírozási forrás, személyzeti kategória és egyetem szerint – teljes munkaidős egyenértékben</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Korkeakoulujen henkilöstö rahoituslähteen, henkilöstöluokan ja yliopiston mukaan – kokoaikaiseksi muutettuna</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Personeel van het Universitair College naar financieringsbron, personeelscategorie en universiteit — in VTE</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Osoblje Visoke škole prema izvoru financiranja, kategoriji osoblja i sveučilištu – u EPRV-u</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Augstskolu koledžas personāls pēc finansējuma avota, personāla kategorijas un universitātes — FTE</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Zaměstnanci vysokých škol podle zdroje financování, kategorie zaměstnanců a vysokých škol – na plný úvazek</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Προσωπικό του Πανεπιστημιακού Κολλεγίου ανά πηγή χρηματοδότησης, κατηγορία προσωπικού και πανεπιστήμιο — σε ΙΠΑ</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">University College staff by source of funding, staff category and university — in FTE</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Співробітники університетського коледжу за джерелом фінансування, категорія персоналу та університет - в FTE</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Personal universitario por fuente de financiación, categoría de personal y universidad — en ETC</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Pessoal universitário por fonte de financiamento, categoria de pessoal e universidade — em ETI</dct:title>
+            <dct:title xml:lang="fr">Personnel des hautes écoles universitaires selon la source de financement, la catégorie de personnel et la haute école - en EPT</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Universiteto kolegijos darbuotojai pagal finansavimo šaltinį, darbuotojų kategoriją ir universitetą – visos darbo dienos ekvivalentais</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Hochschulpersonal nach Finanzierungsquelle, Personalkategorie und Hochschule – in Vollzeitäquivalenten</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Zamestnanci vysokej školy podľa zdroja financovania, kategórie zamestnancov a univerzity – v ekvivalente plného pracovného času</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Personale universitario per fonte di finanziamento, categoria di personale e università — in ETP</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen henkilöstö rahoituslähteittäin, henkilöstöryhmittäin ja yliopistoittain – kokoaikaiseksi muutettuna</dct:title>
+        <dcat:landingPage rdf:resource="https://www.pxweb.bfs.admin.ch/Default.aspx?"/>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci vysokých škôl podľa finančných zdrojov, kategórie zamestnancov a univerzít – v ekvivalente plného pracovného času</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:identifier>17664454@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3c42f726-e933-4267-a6bd-6c2c56693587">
+            <dct:title xml:lang="fr">Structure JSON</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">JSON štruktúra</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Структура JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/fr/px-x-1504040100_107/px-x-1504040100_107.px"/>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">JSON структура</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Struttura di JSON</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Struttura JSON</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">JSON struktuur</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="en-t-fr-t0-mtec">JSON structure</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">JSON structuur</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">JSON-Struktur</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:issued>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Estructura JSON</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">JSON-strukturen</dct:title>
+            <dct:identifier>link-17664476-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Struchtúr JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="fr">personnel-des-hautes-ecoles</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Personeel van universitaire universiteiten naar financiële bron, personeelscategorie en universiteit — in VTE</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Personal al universităților universitare după sursă financiară, categorie de personal și universitate – în ENI</dct:title>
+        <dcat:keyword xml:lang="de">hochschulpersonal</dcat:keyword>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:09:46.398870</dct:modified>
+        <dct:title xml:lang="en-t-de-t0-mtec">Staff of university universities by financial source, personnel category and university — in FTE</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b63d8086-e2c4-4371-aa9a-a481f8ae89e4">
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades universitarias por fuente financiera, categoría de personal y universidad — en ETC</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci vysokých škôl podľa finančných zdrojov, kategórie zamestnancov a univerzít – v ekvivalente plného pracovného času</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Personeel van universitaire universiteiten naar financiële bron, personeelscategorie en universiteit — in VTE</dct:title>
+            <dct:title xml:lang="de">Personal der universitären Hochschulen nach Finanzquelle, Personalkategorie und Hochschule - in VZÄ</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Universitetų darbuotojai pagal finansinius šaltinius, personalo kategoriją ir universitetą – visos darbo dienos ekvivalentais</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje univerzitetnih univerz po finančnih virih, kategoriji osebja in univerzi – v EPDČ</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники університетських університетів за фінансовими джерелами, категорією персоналу та університетом - в FTE</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал на университетите по финансов източник, категория персонал и университет — в ЕПРВ</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1504040100_107/px-x-1504040100_107/px-x-1504040100_107.px"/>
+            <dct:identifier>link-17664478-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Universitetsuniversitetens personal efter finansieringskälla, personalkategori och universitet – i heltidsekvivalenter</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi egyetemek személyzete pénzügyi forrás, személyzeti kategória és egyetem szerint – teljes munkaidős egyenértékben</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Personale på universitetsuniversiteter efter finansiel kilde, personalekategori og universitet — i fuldtidsækvivalenter</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal das universidades universitárias por fonte financeira, categoria de pessoal e universidade — em ETI</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale delle università universitarie per fonte finanziaria, categoria di personale e università — in ETP</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje sveučilišnih sveučilišta prema financijskim izvorima, kategoriji osoblja i sveučilištu – u EPRV-u</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Foireann ollscoileanna de réir foinse airgeadais, catagóire pearsanra agus ollscoile — in FTE</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen henkilöstö rahoituslähteittäin, henkilöstöryhmittäin ja yliopistoittain – kokoaikaiseksi muutettuna</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Personel uczelni wyższych według źródeł finansowych, kategorii personelu i uniwersytetów – w EPC</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel universitaire par source de financement, catégorie de personnel et établissement d’enseignement supérieur — en ETP</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal al universităților universitare după sursă financiară, categorie de personal și universitate – în ENI</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ülikoolide töötajad rahaliste allikate, personalikategooriate ja ülikoolide kaupa – täistööajale taandatud töötajad</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci vysokých škol podle finančních zdrojů, personální kategorie a vysokých škol – na plný úvazek</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal ta’ universitajiet universitarji skont is-sors finanzjarju, il-kategorija tal-persunal u l-università — f’FTE</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Universitāšu universitāšu personāls pēc finanšu avota, personāla kategorijas un universitātes — FTE</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό πανεπιστημιακών πανεπιστημίων ανά οικονομική πηγή, κατηγορία προσωπικού και πανεπιστήμιο — σε ΙΠΑ</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Staff of university universities by financial source, personnel category and university — in FTE</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Personal der universitären Hochschulen nach Finanzquelle, Personalkategorie und Hochschule - in VZÄ</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades universitarias por fuente financiera, categoría de personal y universidad — en ETC</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Foireann ollscoileanna de réir foinse airgeadais, catagóire pearsanra agus ollscoile — in FTE</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi egyetemek személyzete pénzügyi forrás, személyzeti kategória és egyetem szerint – teljes munkaidős egyenértékben</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Personel uczelni wyższych według źródeł finansowych, kategorii personelu i uniwersytetów – w EPC</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Персонал на университетите по финансов източник, категория персонал и университет — в ЕПРВ</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje sveučilišnih sveučilišta prema financijskim izvorima, kategoriji osoblja i sveučilištu – u EPRV-u</dct:title>
+        <dct:title xml:lang="fr">Personnel des hautes écoles universitaires selon la source de financement, la catégorie de personnel et la haute école - en EPT</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Universitāšu universitāšu personāls pēc finanšu avota, personāla kategorijas un universitātes — FTE</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό πανεπιστημιακών πανεπιστημίων ανά οικονομική πηγή, κατηγορία προσωπικού και πανεπιστήμιο — σε ΙΠΑ</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Universitetsuniversitetens personal efter finansieringskälla, personalkategori och universitet – i heltidsekvivalenter</dct:title>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Osebje univerzitetnih univerz po finančnih virih, kategoriji osebja in univerzi – v EPDČ</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal das universidades universitárias por fonte financeira, categoria de pessoal e universidade — em ETI</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Ülikoolide töötajad rahaliste allikate, personalikategooriate ja ülikoolide kaupa – täistööajale taandatud töötajad</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/6de6e7f6-c6ba-4bbe-a8e7-c45a5993dd57">
+            <dct:title xml:lang="ro-t-de-t0-mtec">Structura JSON</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Estrutura de JSON</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Estructura de JSON</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Struttura di JSON</dct:title>
+            <dct:identifier>link-17664476-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="en-t-de-t0-mtec">JSON Structure</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">JSON struktur</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Structure de JSON</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">JSON-rakenne</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Δομή JSON</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">JSON Štruktúra</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Struttura JSON</dct:title>
+            <dcat:accessURL rdf:resource="https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1504040100_107/px-x-1504040100_107.px"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Struktura JSON</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Struchtúr JSON</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">JSON Struktura</dct:title>
+            <dct:format>SERVICE</dct:format>
+            <dct:title xml:lang="lv-t-de-t0-mtec">JSON struktūra</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Структура на JSON</dct:title>
+            <dct:title xml:lang="de">JSON-Struktur</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">JSON Structuur</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">JSON szerkezet</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">JSON struktura</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">JSON struktuur</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:language>de</dct:language>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Структура JSON</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci vysokých škol podle finančních zdrojů, personální kategorie a vysokých škol – na plný úvazek</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/fe066acf-9f39-4dc3-85fa-f8c9390a926a">
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="et-t-de-t0-mtec">Ülikoolide töötajad rahaliste allikate, personalikategooriate ja ülikoolide kaupa – täistööajale taandatud töötajad</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/px-x-1504040100_107"/>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Foireann ollscoileanna de réir foinse airgeadais, catagóire pearsanra agus ollscoile — in FTE</dct:title>
+            <dct:identifier>17664463-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Zaměstnanci vysokých škol podle finančních zdrojů, personální kategorie a vysokých škol – na plný úvazek</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Співробітники університетських університетів за фінансовими джерелами, категорією персоналу та університетом - в FTE</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Universitāšu universitāšu personāls pēc finanšu avota, personāla kategorijas un universitātes — FTE</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Personnel universitaire par source de financement, catégorie de personnel et établissement d’enseignement supérieur — en ETP</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Personale på universitetsuniversiteter efter finansiel kilde, personalekategori og universitet — i fuldtidsækvivalenter</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Universitetsuniversitetens personal efter finansieringskälla, personalkategori och universitet – i heltidsekvivalenter</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Persunal ta’ universitajiet universitarji skont is-sors finanzjarju, il-kategorija tal-persunal u l-università — f’FTE</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Staff of university universities by financial source, personnel category and university — in FTE</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Osebje univerzitetnih univerz po finančnih virih, kategoriji osebja in univerzi – v EPDČ</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Personal al universităților universitare după sursă financiară, categorie de personal și universitate – în ENI</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Персонал на университетите по финансов източник, категория персонал и университет — в ЕПРВ</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Zamestnanci vysokých škôl podľa finančných zdrojov, kategórie zamestnancov a univerzít – v ekvivalente plného pracovného času</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Osoblje sveučilišnih sveučilišta prema financijskim izvorima, kategoriji osoblja i sveučilištu – u EPRV-u</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Universitetų darbuotojai pagal finansinius šaltinius, personalo kategoriją ir universitetą – visos darbo dienos ekvivalentais</dct:title>
+            <dct:title xml:lang="de">Personal der universitären Hochschulen nach Finanzquelle, Personalkategorie und Hochschule - in VZÄ</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-07-29T00:00:00</dct:issued>
+            <dct:title xml:lang="el-t-de-t0-mtec">Προσωπικό πανεπιστημιακών πανεπιστημίων ανά οικονομική πηγή, κατηγορία προσωπικού και πανεπιστήμιο — σε ΙΠΑ</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Egyetemi egyetemek személyzete pénzügyi forrás, személyzeti kategória és egyetem szerint – teljes munkaidős egyenértékben</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Yliopistojen henkilöstö rahoituslähteittäin, henkilöstöryhmittäin ja yliopistoittain – kokoaikaiseksi muutettuna</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Personel uczelni wyższych według źródeł finansowych, kategorii personelu i uniwersytetów – w EPC</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it-t-de-t0-mtec">Personale delle università universitarie per fonte finanziaria, categoria di personale e università — in ETP</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Personal de las universidades universitarias por fuente financiera, categoría de personal y universidad — en ETC</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Pessoal das universidades universitárias por fonte financeira, categoria de pessoal e universidade — em ETI</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Personeel van universitaire universiteiten naar financiële bron, personeelscategorie en universiteit — in VTE</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:11Z</edp:transIssued>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:identifier>17664454@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/17664454-bundesamt-fur-statistik-bfs"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:13:08Z</edp:transReceived>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:14Z</dct:modified>
+  </dcat:CatalogRecord>
+</rdf:RDF>

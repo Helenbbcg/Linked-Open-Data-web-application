@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/14839999-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T09:35:40Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/14839999-bundesamt-fur-statistik-bfs"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>48d6490eb444176cb66de79dcfc1f440</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:identifier>14839999@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:24:55Z</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:07Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/14839999-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="sk-t-de-t0-mtec">Scenáre na roky 2020 – 2029 pre systém vzdelávania: Študenti, študenti a tituly Scenáre na roky 2020 – 2029 pre systém vzdelávania:
+Študenti, študenti a tituly</dct:title>
+        <dct:title xml:lang="et-t-de-t0-mtec">Haridussüsteemi stsenaariumid 2020–2029: Õppijad, üliõpilased ja kraadid</dct:title>
+        <dct:language>it</dct:language>
+        <dcat:keyword xml:lang="fr">scenarios-de-levolution-demographique</dcat:keyword>
+        <dcat:keyword xml:lang="de">bildungsperspektiven</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Scenarier 2020-2029 for uddannelsessystemet: Elever, studerende og grader Scenarier 2020-2029 for uddannelsessystemet: Elever, studerende og grader</dct:title>
+        <dcat:keyword xml:lang="it">scenari-del-cambiamento-demografico</dcat:keyword>
+        <dcat:keyword xml:lang="de">szenarien</dcat:keyword>
+        <dct:title xml:lang="lt-t-de-t0-mtec">2020–2029 m. švietimo sistemos scenarijai: Besimokantieji, studentai ir laipsniai 2020–2029 m. švietimo sistemos scenarijai: Besimokantieji, studentai ir laipsniai</dct:title>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Cenários 2020-2029 para o sistema educativo: Alunos, alunos e diplomas Cenários 2020-2029 para o sistema educativo: Alunos, alunos e diplomas</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Сценарії 2020-2029 для системи освіти: Учні, студенти та ступені Сценарії 2020-2029 для системи освіти: Учні, студенти та ступені</dct:title>
+        <dcat:keyword xml:lang="en">education-prospects</dcat:keyword>
+        <dcat:keyword xml:lang="en">population-scenarios</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Xenarji 2020–2029 għas-sistema edukattiva: Studenti, studenti u lawrji</dct:title>
+        <dcat:keyword xml:lang="en">scenarios</dcat:keyword>
+        <dcat:keyword xml:lang="fr">scenarios</dcat:keyword>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Forgatókönyvek a 2020–2029-es időszakra az oktatási rendszer számára: Tanulók, diákok és diplomák Forgatókönyvek a 2020–2029-es időszakra az oktatási rendszer számára: Tanulók, diákok és diplomák</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Scénáře pro vzdělávací systém na období 2020–2029: Studenti, studenti a tituly</dct:title>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Scenariile 2020-2029 pentru sistemul de învățământ: Cursanți, studenți și diplome Scenariile 2020-2029 pentru sistemul de învățământ:
+Cursanți, studenți și diplome</dct:title>
+        <dct:title xml:lang="it">Scenari 2020-2029 per il sistema di formazione: Allievi, studenti e titoli</dct:title>
+        <dcat:keyword xml:lang="fr">perspectives-de-la-formation</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.09.00.01"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/a1af981e-b0dd-4bb9-9bf9-bfbd7390af2f">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Scenariusze na lata 2020–2029 dla systemu edukacji: Osoby uczące się, studenci i stopnie naukowe</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Scenario’s 2020-2029 voor het onderwijssysteem: Leerlingen, studenten en diploma’s</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Cenários 2020-2029 para o sistema educativo: Alunos, alunos e diplomas</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="de">Szenarien 2020-2029 für das Bildungssystem: Lernende, Studierende und Abschlüsse</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Escenarios 2020-2029 para el sistema educativo: Estudiantes, estudiantes y títulos</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Scénáře pro vzdělávací systém na období 2020–2029: Studenti, studenti a tituly</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14840001/master"/>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Forgatókönyvek a 2020–2029-es időszakra az oktatási rendszer számára: Tanulók, diákok és diplomák</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scenarios 2020-2029 for the education system: Learners, students and degrees</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Сценарії 2020-2029 для системи освіти: Учні, студенти та ступені</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusjärjestelmän skenaariot 2020–2029: Oppijat, opiskelijat ja tutkinnot</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Σενάρια 2020-2029 για το εκπαιδευτικό σύστημα: Μαθητές, φοιτητές και πτυχία</dct:title>
+            <dct:identifier>14840001-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Scénarios 2020-2029 pour le système éducatif: Apprenants, étudiants et diplômes</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Haridussüsteemi stsenaariumid 2020–2029: Õppijad, üliõpilased ja kraadid</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">2020.–2029. gada scenāriji izglītības sistēmai: Izglītojamie, studenti un grādi</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Scenáre na roky 2020 – 2029 pre systém vzdelávania: Študenti, študenti a tituly</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Сценарии за 2020—2029 г. за образователната система: Учащи, студенти и степени</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Scenari 2020-2029 per il sistema educativo: Studenti, studenti e diplomi</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Scenarierna 2020–2029 för utbildningssystemet: Studerande, studenter och examina</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14840001/master"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Xenarji 2020–2029 għas-sistema edukattiva: Studenti, studenti u lawrji</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Scenarier 2020-2029 for uddannelsessystemet: Elever, studerende og grader</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-11T00:00:00</dct:modified>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Scenariji za razdoblje 2020. – 2029. za obrazovni sustav: Učenici, studenti i diploma</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Scenariile 2020-2029 pentru sistemul de învățământ: Cursanți, studenți și diplome</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Scenariji za obdobje 2020–2029 za izobraževalni sistem: Učenci, študenti in diplome</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cásanna 2020-2029 don chóras oideachais: Foghlaimeoirí, mic léinn agus céimeanna</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-de-t0-mtec">2020–2029 m. švietimo sistemos scenarijai: Besimokantieji, studentai ir laipsniai</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Szenarien 2020-2029 für das Bildungssystem: Lernende, Studierende und Abschlüsse</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Scenarierna 2020–2029 för utbildningssystemet: Studerande, studenter och examina Scenarierna 2020–2029 för utbildningssystemet: Studerande, studenter och examina</dct:title>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/3497fb84-8199-4133-9b73-3adf2d593e2a">
+            <dct:title xml:lang="et-t-de-t0-mtec">Haridussüsteemi stsenaariumid 2020–2029: Õppijad, üliõpilased ja kraadid</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Scenariile 2020-2029 pentru sistemul de învățământ: Cursanți, studenți și diplome</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Scenariji za razdoblje 2020. – 2029. za obrazovni sustav: Učenici, studenti i diploma</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Сценарии за 2020—2029 г. за образователната система: Учащи, студенти и степени</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Cásanna 2020-2029 don chóras oideachais: Foghlaimeoirí, mic léinn agus céimeanna</dct:title>
+            <dct:title xml:lang="de">Szenarien 2020-2029 für das Bildungssystem: Lernende, Studierende und Abschlüsse</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Scenariusze na lata 2020–2029 dla systemu edukacji: Osoby uczące się, studenci i stopnie naukowe</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Scénáře pro vzdělávací systém na období 2020–2029: Studenti, studenti a tituly</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Scenario’s 2020-2029 voor het onderwijssysteem: Leerlingen, studenten en diploma’s</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Scenarier 2020-2029 for uddannelsessystemet: Elever, studerende og grader</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scenarios 2020-2029 for the education system: Learners, students and degrees</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.09.00.01"/>
+            <dct:title xml:lang="es-t-de-t0-mtec">Escenarios 2020-2029 para el sistema educativo: Estudiantes, estudiantes y títulos</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lt-t-de-t0-mtec">2020–2029 m. švietimo sistemos scenarijai: Besimokantieji, studentai ir laipsniai</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Сценарії 2020-2029 для системи освіти: Учні, студенти та ступені</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Forgatókönyvek a 2020–2029-es időszakra az oktatási rendszer számára: Tanulók, diákok és diplomák</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Scénarios 2020-2029 pour le système éducatif: Apprenants, étudiants et diplômes</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Scenarierna 2020–2029 för utbildningssystemet: Studerande, studenter och examina</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Scenariji za obdobje 2020–2029 za izobraževalni sistem: Učenci, študenti in diplome</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusjärjestelmän skenaariot 2020–2029: Oppijat, opiskelijat ja tutkinnot</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">2020.–2029. gada scenāriji izglītības sistēmai: Izglītojamie, studenti un grādi</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Scenari 2020-2029 per il sistema educativo: Studenti, studenti e diplomi</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Σενάρια 2020-2029 για το εκπαιδευτικό σύστημα: Μαθητές, φοιτητές και πτυχία</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Scenáre na roky 2020 – 2029 pre systém vzdelávania: Študenti, študenti a tituly</dct:title>
+            <dct:identifier>14840001-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Xenarji 2020–2029 għas-sistema edukattiva: Studenti, studenti u lawrji</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Cenários 2020-2029 para o sistema educativo: Alunos, alunos e diplomas</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="el-t-de-t0-mtec">Σενάρια 2020-2029 για το εκπαιδευτικό σύστημα: Μαθητές, φοιτητές και πτυχία</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:12:29.140941</dct:modified>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Scenario’s 2020-2029 voor het onderwijssysteem: Leerlingen, studenten en diploma’s</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="es-t-de-t0-mtec">Escenarios 2020-2029 para el sistema educativo: Estudiantes, estudiantes y títulos Escenarios 2020-2029 para el sistema educativo: Estudiantes, estudiantes y títulos</dct:title>
+        <dct:identifier>14839999@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Cásanna 2020-2029 don chóras oideachais: Foghlaimeoirí, mic léinn agus céimeanna</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Scenariji za razdoblje 2020. – 2029. za obrazovni sustav: Učenici, studenti i diploma</dct:title>
+        <dcat:keyword xml:lang="it">prospettive-per-la-formazione</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Koulutusjärjestelmän skenaariot 2020–2029: Oppijat, opiskelijat ja tutkinnot</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/01aa21b0-213c-4bb2-8e15-46d66357ce33">
+            <dct:title xml:lang="en-t-it-t0-mtec">Scenarios 2020-2029 for the training system: Students, students and qualifications</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Scenariji za razdoblje 2020. – 2029. za sustav osposobljavanja: Studenti, studenti i kvalifikacije</dct:title>
+            <dct:identifier>14840005-it@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>it</dct:language>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Cásanna 2020-2029 don chóras oiliúna: Mic léinn, mic léinn agus cáilíochtaí</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Сценарии за 2020—2029 г. за системата за обучение: Студенти, студенти и квалификации</dct:title>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Scenariusze na lata 2020–2029 dotyczące systemu szkoleń: Studenci, studenci i kwalifikacje</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Scenarier 2020-2029 for uddannelsessystemet: Studerende, studerende og kvalifikationer</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Сценарії 2020-2029 для системи навчання: Студенти, студенти та кваліфікація</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="lv-t-it-t0-mtec">2020.–2029. gada scenāriji attiecībā uz apmācības sistēmu: Studenti, studenti un kvalifikācija</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Scenarierna 2020–2029 för utbildningssystemet: Studerande, studenter och kvalifikationer</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">2020–2029 m. mokymo sistemos scenarijai: Studentai, studentai ir kvalifikacija</dct:title>
+            <dct:title xml:lang="fi-t-it-t0-mtec">Koulutusjärjestelmän skenaariot 2020–2029: Opiskelijat, opiskelijat ja tutkinnot</dct:title>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Xenarji 2020–2029 għas-sistema ta’ taħriġ: Studenti, studenti u kwalifiki</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/it/je-i-15.09.00.01"/>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Cenários 2020-2029 para o sistema de formação: Estudantes, estudantes e qualificações</dct:title>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Scenariji 2020–2029 za sistem usposabljanja: Študenti, študenti in kvalifikacije</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Scénarios 2020-2029 pour le système de formation: Étudiants, étudiants et qualifications</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Szenarien 2020-2029 für das Schulungssystem: Studierende, Studierende und Qualifikationen</dct:title>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Scenáre na roky 2020 – 2029 pre systém odbornej prípravy: Študenti, študenti a kvalifikácia</dct:title>
+            <dct:title xml:lang="hu-t-it-t0-mtec">A 2020–2029-es időszakra vonatkozó forgatókönyvek a képzési rendszer tekintetében: Diákok, diákok és képesítések</dct:title>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Scénáře pro systém odborné přípravy na období 2020–2029: Studenti, studenti a kvalifikace</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Scenariile 2020-2029 pentru sistemul de formare: Studenți, studenți și calificări</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Scenario’s 2020-2029 voor het opleidingssysteem: Studenten, studenten en kwalificaties</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">2020.–2029. aasta koolitussüsteemi stsenaariumid: Õpilased, üliõpilased ja kvalifikatsioonid</dct:title>
+            <dct:title xml:lang="it">Scenari 2020-2029 per il sistema di formazione: Allievi, studenti e titoli</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="es-t-it-t0-mtec">Escenarios 2020-2029 para el sistema de formación: Estudiantes, estudiantes y cualificaciones</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Σενάρια 2020-2029 για το σύστημα κατάρτισης: Φοιτητές, φοιτητές και προσόντα</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Сценарии за 2020—2029 г. за образователната система: Учащи, студенти и степени Сценарии за 2020—2029 г. за образователната система: Учащи, студенти и степени</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Scenariji za obdobje 2020–2029 za izobraževalni sistem: Učenci, študenti in diplome Scenariji za obdobje 2020–2029 za izobraževalni sistem: Učenci, študenti in diplome Scenariji za obdobje 2020–2029 za izobraževalni sistem:
+Učenci, študenti in diplome</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2020-11-23T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:keyword xml:lang="de">bevolkerungsszenarien</dcat:keyword>
+        <dct:title xml:lang="fr">Scénarios 2020-2029 pour le système de formation: Elèves, étudiants et titres</dct:title>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4ea9a155-c6c2-408b-9fde-50cb03f25019">
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Scenariile 2020-2029 pentru sistemul de formare: Elevi, studenți și titluri Scenariile 2020-2029 pentru sistemul de formare:
+Elevi, studenți și titluri</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14840003/master"/>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Scenariji za razdoblje 2020. – 2029. za sustav osposobljavanja: Učenici, studenti i naslovi</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">2020–2029 m. mokymo sistemos scenarijai: Moksleiviai, studentai ir titulai</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Scenario’s 2020-2029 voor het opleidingssysteem: Leerlingen, studenten en titels Scenario’s 2020-2029 voor het opleidingssysteem: Leerlingen, studenten en titels Scenario’s 2020-2029 voor het opleidingssysteem: Leerlingen, studenten en titels</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Σενάρια 2020-2029 για το σύστημα κατάρτισης: Μαθητές, φοιτητές και τίτλοι</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Scenarierna 2020–2029 för utbildningssystemet: Elever, studenter och titlar Scenarierna 2020–2029 för utbildningssystemet: Elever, studenter och titlar</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A 2020–2029-es időszakra vonatkozó forgatókönyvek a képzési rendszer tekintetében: Diákok, diákok és címek A 2020–2029-es időszakra vonatkozó forgatókönyvek a képzési rendszer tekintetében:
+Diákok, diákok és címek</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Сценарии за 2020—2029 г. за системата за обучение: Ученици, студенти и титли</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Scenariusze na lata 2020–2029 dotyczące systemu szkoleń: Uczniowie, studenci i tytuły Scenariusze na lata 2020–2029 dotyczące systemu szkoleń: Uczniowie, studenci i tytuły Scenariusze na lata 2020–2029 dotyczące systemu szkoleń: Uczniowie, studenci i tytuły</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Scenarier 2020-2029 for uddannelsessystemet: Elever, studerende og titler</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Scenariji 2020–2029 za sistem usposabljanja: Učenci, študenti in nazivi Scenariji 2020–2029 za sistem usposabljanja: Učenci, študenti in nazivi</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Cenários 2020-2029 para o sistema de formação: Alunos, alunos e títulos Cenários 2020-2029 para o sistema de formação: Alunos, alunos e títulos Cenários 2020-2029 para o sistema de formação: Alunos, alunos e títulos</dct:title>
+            <dct:identifier>14840003-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">2020.–2029. gada scenāriji attiecībā uz apmācības sistēmu: Skolēni, studenti un tituli 2020.–2029. gada scenāriji attiecībā uz apmācības sistēmu: Skolēni, studenti un tituli 2020.–2029. gada scenāriji attiecībā uz apmācības sistēmu: Skolēni, studenti un tituli</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Scénáře pro systém odborné přípravy na období 2020–2029: Žáci, studenti a tituly</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Сценарії 2020-2029 для системи навчання: Учні, студенти та звання</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14840003/master"/>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Szenarien 2020-2029 für das Ausbildungssystem: Schüler, Studenten und Titel</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">2020.–2029. aasta koolitussüsteemi stsenaariumid: Õpilased, õpilased ja tiitlid</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Xenarji 2020–2029 għas-sistema ta’ taħriġ: Tfal ta’ l-iskola, studenti u titli Xenarji 2020–2029 għas-sistema ta’ taħriġ: Tfal ta’ l-iskola, studenti u titli Xenarji 2020–2029 għas-sistema ta’ taħriġ: Tfal ta’ l-iskola, studenti u titli</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Cásanna 2020-2029 don chóras oiliúna: Daltaí, mic léinn agus teidil</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Escenarios 2020-2029 para el sistema de formación: Alumnos, estudiantes y títulos</dct:title>
+            <dct:title xml:lang="fr">Scénarios 2020-2029 pour le système de formation: Elèves, étudiants et titres</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-11T00:00:00</dct:modified>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Scenari 2020-2029 per il sistema di formazione: Alunni, studenti e titoli Scenari 2020-2029 per il sistema di formazione: Alunni, studenti e titoli Scenari 2020-2029 per il sistema di formazione:
+Alunni, studenti e titoli</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Scenáre na roky 2020 – 2029 pre systém odbornej prípravy: Žiaci, študenti a tituly Scenáre na roky 2020 – 2029 pre systém odbornej prípravy: Žiaci, študenti a tituly</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Koulutusjärjestelmän skenaariot 2020–2029: Oppilaat, opiskelijat ja tittelit</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Scenarios 2020-2029 for the training system: Pupils, students and titles</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">2020.–2029. gada scenāriji izglītības sistēmai: Izglītojamie, studenti un grādi</dct:title>
+        <dcat:keyword xml:lang="it">scenari</dcat:keyword>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0a01c1a9-bd12-45c5-a3fc-a1c0a167c37c">
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Scénáře pro systém odborné přípravy na období 2020–2029: Žáci, studenti a tituly</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Szenarien 2020-2029 für das Ausbildungssystem: Schüler, Studenten und Titel</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:identifier>14840003-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Xenarji 2020–2029 għas-sistema ta’ taħriġ: Tfal ta’ l-iskola, studenti u titli</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Escenarios 2020-2029 para el sistema de formación: Alumnos, estudiantes y títulos</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Scenarios 2020-2029 for the training system: Pupils, students and titles</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Scenáre na roky 2020 – 2029 pre systém odbornej prípravy: Žiaci, študenti a tituly</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Scenariji 2020–2029 za sistem usposabljanja: Učenci, študenti in nazivi</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.09.00.01"/>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">A 2020–2029-es időszakra vonatkozó forgatókönyvek a képzési rendszer tekintetében: Diákok, diákok és címek</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Scenari 2020-2029 per il sistema di formazione: Alunni, studenti e titoli</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">2020–2029 m. mokymo sistemos scenarijai: Moksleiviai, studentai ir titulai</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Сценарії 2020-2029 для системи навчання: Учні, студенти та звання</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Cásanna 2020-2029 don chóras oiliúna: Daltaí, mic léinn agus teidil</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Koulutusjärjestelmän skenaariot 2020–2029: Oppilaat, opiskelijat ja tittelit</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">2020.–2029. aasta koolitussüsteemi stsenaariumid: Õpilased, õpilased ja tiitlid</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Cenários 2020-2029 para o sistema de formação: Alunos, alunos e títulos</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Сценарии за 2020—2029 г. за системата за обучение: Ученици, студенти и титли</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">2020.–2029. gada scenāriji attiecībā uz apmācības sistēmu: Skolēni, studenti un tituli</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Scenarierna 2020–2029 för utbildningssystemet: Elever, studenter och titlar</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Scenarier 2020-2029 for uddannelsessystemet: Elever, studerende og titler</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Scenariile 2020-2029 pentru sistemul de formare: Elevi, studenți și titluri</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Scenario’s 2020-2029 voor het opleidingssysteem: Leerlingen, studenten en titels</dct:title>
+            <dct:title xml:lang="fr">Scénarios 2020-2029 pour le système de formation: Elèves, étudiants et titres</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Scenariji za razdoblje 2020. – 2029. za sustav osposobljavanja: Učenici, studenti i naslovi</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Σενάρια 2020-2029 για το σύστημα κατάρτισης: Μαθητές, φοιτητές και τίτλοι</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Scenariusze na lata 2020–2029 dotyczące systemu szkoleń: Uczniowie, studenci i tytuły</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="en-t-de-t0-mtec">Scenarios 2020-2029 for the education system: Learners, students and degrees</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Scenariusze na lata 2020–2029 dla systemu edukacji: Osoby uczące się, studenci i stopnie naukowe</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/789d0953-6ccb-47e9-900f-91c9fc51f6fd">
+            <dct:title xml:lang="fi-t-it-t0-mtec">Koulutusjärjestelmän skenaariot 2020–2029: Opiskelijat, opiskelijat ja tutkinnot</dct:title>
+            <dct:title xml:lang="ga-t-it-t0-mtec">Cásanna 2020-2029 don chóras oiliúna: Mic léinn, mic léinn agus cáilíochtaí</dct:title>
+            <dct:title xml:lang="bg-t-it-t0-mtec">Сценарии за 2020—2029 г. за системата за обучение:
+Студенти, студенти и квалификации</dct:title>
+            <dct:title xml:lang="sv-t-it-t0-mtec">Scenarierna 2020–2029 för utbildningssystemet:
+Studerande, studenter och kvalifikationer</dct:title>
+            <dct:title xml:lang="uk-t-it-t0-mtec">Сценарії 2020-2029 для системи навчання:
+Студенти, студенти та кваліфікація</dct:title>
+            <dct:title xml:lang="de-t-it-t0-mtec">Szenarien 2020-2029 für das Schulungssystem:
+Studierende, Studierende und Qualifikationen</dct:title>
+            <dct:title xml:lang="en-t-it-t0-mtec">Scenarios 2020-2029 for the training system: Students, students and qualifications</dct:title>
+            <dct:title xml:lang="fr-t-it-t0-mtec">Scénarios 2020-2029 pour le système de formation: Étudiants, étudiants et qualifications</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14840005/master"/>
+            <dct:title xml:lang="sk-t-it-t0-mtec">Scenáre na roky 2020 – 2029 pre systém odbornej prípravy: Študenti, študenti a kvalifikácia</dct:title>
+            <dct:title xml:lang="ro-t-it-t0-mtec">Scenariile 2020-2029 pentru sistemul de formare: Studenți, studenți și calificări</dct:title>
+            <dct:title xml:lang="hr-t-it-t0-mtec">Scenariji za razdoblje 2020. – 2029. za sustav osposobljavanja: Studenti, studenti i kvalifikacije</dct:title>
+            <dct:title xml:lang="nl-t-it-t0-mtec">Scenario’s 2020-2029 voor het opleidingssysteem: Studenten, studenten en kwalificaties</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="mt-t-it-t0-mtec">Xenarji 2020–2029 għas-sistema ta’ taħriġ:
+Studenti, studenti u kwalifiki</dct:title>
+            <dct:title xml:lang="it">Scenari 2020-2029 per il sistema di formazione: Allievi, studenti e titoli</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/14840005/master"/>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="cs-t-it-t0-mtec">Scénáře pro systém odborné přípravy na období 2020–2029: Studenti, studenti a kvalifikace</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2020-11-23T00:00:00</dct:issued>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hu-t-it-t0-mtec">A 2020–2029-es időszakra vonatkozó forgatókönyvek a képzési rendszer tekintetében: Diákok, diákok és képesítések</dct:title>
+            <dct:title xml:lang="lv-t-it-t0-mtec">2020.–2029. gada scenāriji attiecībā uz apmācības sistēmu: Studenti, studenti un kvalifikācija</dct:title>
+            <dct:title xml:lang="es-t-it-t0-mtec">Escenarios 2020-2029 para el sistema de formación: Estudiantes, estudiantes y cualificaciones</dct:title>
+            <dct:title xml:lang="lt-t-it-t0-mtec">2020–2029 m. mokymo sistemos scenarijai: Studentai, studentai ir kvalifikacija</dct:title>
+            <dct:title xml:lang="et-t-it-t0-mtec">2020.–2029. aasta koolitussüsteemi stsenaariumid:
+Õpilased, üliõpilased ja kvalifikatsioonid</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-04-28T00:00:00</dct:modified>
+            <dct:title xml:lang="pl-t-it-t0-mtec">Scenariusze na lata 2020–2029 dotyczące systemu szkoleń: Studenci, studenci i kwalifikacje</dct:title>
+            <dct:identifier>14840005-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sl-t-it-t0-mtec">Scenariji 2020–2029 za sistem usposabljanja: Študenti, študenti in kvalifikacije</dct:title>
+            <dct:title xml:lang="da-t-it-t0-mtec">Scenarier 2020-2029 for uddannelsessystemet: Studerende, studerende og kvalifikationer</dct:title>
+            <dct:title xml:lang="el-t-it-t0-mtec">Σενάρια 2020-2029 για το σύστημα κατάρτισης: Φοιτητές, φοιτητές και προσόντα</dct:title>
+            <dct:title xml:lang="pt-t-it-t0-mtec">Cenários 2020-2029 para o sistema de formação:
+Estudantes, estudantes e qualificações</dct:title>
+            <dct:language>it</dct:language>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

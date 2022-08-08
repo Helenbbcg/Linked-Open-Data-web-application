@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/18904368-bundesamt-fur-statistik-bfs">
+    <dct:identifier>18904368@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:21Z</edp:transIssued>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:21Z</dct:issued>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:34:24Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/18904368-bundesamt-fur-statistik-bfs"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:29Z</dct:modified>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/18904368-bundesamt-fur-statistik-bfs">
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Стипендии: Размер по пол, възраст и избрани характеристики на обучението, по кантон</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Boroż ta’ studju: Ammont skont is-sess, l-età u l-karatteristiċi ta’ taħriġ magħżula, skont il-canton</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Οι υποτροφίες: Ποσότητα ανά φύλο, ηλικία και επιλεγμένα χαρακτηριστικά κατάρτισης, ανά καντόνι</dct:title>
+        <dct:identifier>18904368@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4310db16-a076-48d4-bb17-7e4b0278dcc8">
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stypendia: Ilość według płci, wieku i wybranych cech treningowych, według kantonu Stypendia:
+Ilość według płci, wieku i wybranych cech treningowych, według kantonu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scholarships: Amount by gender, age and selected training characteristics, by canton</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Stipendiumid: Summa soo, vanuse ja valitud koolitusomaduste järgi kantonite kaupa</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Apurahat: Määrä sukupuolen, iän ja valittujen koulutusominaisuuksien mukaan kantoniittain</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οι υποτροφίες: Ποσότητα ανά φύλο, ηλικία και επιλεγμένα χαρακτηριστικά κατάρτισης, ανά καντόνι</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Стипендії: Кількість за статтю, віком та вибраними характеристиками навчання, кантоном Стипендії:
+Кількість за статтю, віком та вибраними характеристиками навчання, кантоном</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Stipendije: Količina prema spolu, dobi i odabranim karakteristikama obuke, po kantonu Stipendije:
+Količina prema spolu, dobi i odabranim karakteristikama obuke, po kantonu</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Stipendijos: Kiekis pagal lytį, amžių ir pasirinktas mokymo charakteristikas pagal kantoną</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904374/master"/>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stipendia: Množství podle pohlaví, věku a vybraných tréninkových charakteristik, podle kantonu</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Malas de estudo: Montante por sexo, idade e características de formação selecionadas, por cantão Malas de estudo:
+Montante por sexo, idade e características de formação selecionadas, por cantão</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Beurzen: Aantal per geslacht, leeftijd en geselecteerde opleidingskenmerken, per kanton</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Stipendijas:
+Daudzums pēc dzimuma, vecuma un izvēlētajiem apmācības raksturlielumiem, pēc kantona</dct:title>
+            <dct:title xml:lang="de">Stipendien: Betrag nach Geschlecht, Alter und ausgewählten Ausbildungsmerkmalen, nach Kanton</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-29T00:00:00</dct:modified>
+            <dct:title xml:lang="da-t-de-t0-mtec">Stipendier: Beløb efter køn, alder og udvalgte uddannelseskarakteristika, efter kanton</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Bourses d’études: Montant par sexe, âge et caractéristiques de formation sélectionnées, par canton</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Boroż ta’ studju: Ammont skont is-sess, l-età u l-karatteristiċi ta’ taħriġ magħżula, skont il-canton</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Стипендии: Размер по пол, възраст и избрани характеристики на обучението, по кантон</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Becas: Cantidad por sexo, edad y características de formación seleccionadas, por cantón</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Scoláireachtaí: An méid de réir inscne, aoise agus saintréithe oiliúna roghnaithe, de réir canton Scoláireachtaí: An méid de réir inscne, aoise agus saintréithe oiliúna roghnaithe, de réir canton Scoláireachtaí: An méid de réir inscne, aoise agus saintréithe oiliúna roghnaithe, de réir canton</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:identifier>18904374-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Burse: Cantitate în funcție de sex, vârstă și caracteristici de formare selectate, în funcție de canton Burse:
+Cantitate în funcție de sex, vârstă și caracteristici de formare selectate, în funcție de canton</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Stipendier: Mängd efter kön, ålder och valda träningsegenskaper, per kanton Stipendier:
+Mängd efter kön, ålder och valda träningsegenskaper, per kanton</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904374/master"/>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Štipendije: Znesek po spolu, starosti in izbranih značilnostih usposabljanja, po kantonu Štipendije:
+Znesek po spolu, starosti in izbranih značilnostih usposabljanja, po kantonu</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Ösztöndíjak: Összeg nem, kor és válogatott képzési jellemzők szerint, kanton szerint Ösztöndíjak: Összeg nem, kor és válogatott képzési jellemzők szerint, kanton szerint Ösztöndíjak: Összeg nem, kor és válogatott képzési jellemzők szerint, kanton szerint</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Borse di studio: Importo in base al sesso, all'età e alle caratteristiche formative selezionate, per cantone</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štipendiá: Množstvo podľa pohlavia, veku a vybraných tréningových charakteristík podľa kantónu Štipendiá:
+Množstvo podľa pohlavia, veku a vybraných tréningových charakteristík podľa kantónu</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/41a76e8f-918f-40f5-8a03-0670ce289e74">
+            <dct:title xml:lang="it-t-de-t0-mtec">Borse di studio: Importo in base al sesso, all'età e alle caratteristiche formative selezionate, per cantone</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.06.02.08"/>
+            <dct:title xml:lang="en-t-de-t0-mtec">Scholarships: Amount by gender, age and selected training characteristics, by canton</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Boroż ta’ studju: Ammont skont is-sess, l-età u l-karatteristiċi ta’ taħriġ magħżula, skont il-canton</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Stipendia: Množství podle pohlaví, věku a vybraných tréninkových charakteristik, podle kantonu</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Stipendier: Mängd efter kön, ålder och valda träningsegenskaper, per kanton</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Стипендии: Размер по пол, възраст и избрани характеристики на обучението, по кантон</dct:title>
+            <dct:identifier>18904374-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="da-t-de-t0-mtec">Stipendier: Beløb efter køn, alder og udvalgte uddannelseskarakteristika, efter kanton</dct:title>
+            <dct:title xml:lang="de">Stipendien: Betrag nach Geschlecht, Alter und ausgewählten Ausbildungsmerkmalen, nach Kanton</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Стипендії:
+Кількість за статтю, віком та вибраними характеристиками навчання, кантоном</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Štipendije: Znesek po spolu, starosti in izbranih značilnostih usposabljanja, po kantonu</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Stipendijos: Kiekis pagal lytį, amžių ir pasirinktas mokymo charakteristikas pagal kantoną</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Stypendia: Ilość według płci, wieku i wybranych cech treningowych, według kantonu</dct:title>
+            <dct:language>de</dct:language>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Scoláireachtaí: An méid de réir inscne, aoise agus saintréithe oiliúna roghnaithe, de réir canton</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Stipendiumid: Summa soo, vanuse ja valitud koolitusomaduste järgi kantonite kaupa</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Burse: Cantitate în funcție de sex, vârstă și caracteristici de formare selectate, în funcție de canton Burse:
+Cantitate în funcție de sex, vârstă și caracteristici de formare selectate, în funcție de canton</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Štipendiá: Množstvo podľa pohlavia, veku a vybraných tréningových charakteristík podľa kantónu</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Bourses d’études: Montant par sexe, âge et caractéristiques de formation sélectionnées, par canton</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Οι υποτροφίες: Ποσότητα ανά φύλο, ηλικία και επιλεγμένα χαρακτηριστικά κατάρτισης, ανά καντόνι Οι υποτροφίες:
+Ποσότητα ανά φύλο, ηλικία και επιλεγμένα χαρακτηριστικά κατάρτισης, ανά καντόνι</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Stipendije: Količina prema spolu, dobi i odabranim karakteristikama obuke, po kantonu</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Beurzen: Aantal per geslacht, leeftijd en geselecteerde opleidingskenmerken, per kanton</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Apurahat: Määrä sukupuolen, iän ja valittujen koulutusominaisuuksien mukaan kantoniittain</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Malas de estudo: Montante por sexo, idade e características de formação selecionadas, por cantão</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Stipendijas: Daudzums pēc dzimuma, vecuma un izvēlētajiem apmācības raksturlielumiem, pēc kantona</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Becas: Cantidad por sexo, edad y características de formación seleccionadas, por cantón</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Ösztöndíjak: Összeg nem, kor és válogatott képzési jellemzők szerint, kanton szerint</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="et-t-de-t0-mtec">Stipendiumid: Summa soo, vanuse ja valitud koolitusomaduste järgi kantonite kaupa</dct:title>
+        <dct:title xml:lang="de">Stipendien: Betrag nach Geschlecht, Alter und ausgewählten Ausbildungsmerkmalen, nach Kanton</dct:title>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Stypendia: Ilość według płci, wieku i wybranych cech treningowych, według kantonu</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">Borse di studio: Importo in base al sesso, all'età e alle caratteristiche formative selezionate, per cantone</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Malas de estudo: Montante por sexo, idade e características de formação selecionadas, por cantão</dct:title>
+        <dct:language>fr</dct:language>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Stipendier: Beløb efter køn, alder og udvalgte uddannelseskarakteristika, efter kanton</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Štipendiá: Množstvo podľa pohlavia, veku a vybraných tréningových charakteristík podľa kantónu</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Stipendia: Množství podle pohlaví, věku a vybraných tréninkových charakteristik, podle kantonu</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:05:48.942665</dct:modified>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Scoláireachtaí: An méid de réir inscne, aoise agus saintréithe oiliúna roghnaithe, de réir canton</dct:title>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="de">kantonale-stipendien-und-darlehen</dcat:keyword>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="fr">bourses-et-prets-detudes-cantonaux</dcat:keyword>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Стипендії: Кількість за статтю, віком та вибраними характеристиками навчання, кантоном</dct:title>
+        <dct:title xml:lang="fr">Bourses: montant selon le sexe, l'âge et diverses caractéristiques de la formation, par canton</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Apurahat: Määrä sukupuolen, iän ja valittujen koulutusominaisuuksien mukaan kantoniittain</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ba4070df-0c6b-436b-9946-dde72505f5e3">
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Scoláireachtaí: méid de réir gnéis, aoise agus tréithe éagsúla oiliúna, de réir canton</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Стипендії: кількість за статтю, віком та різними характеристиками навчання, кантоном</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Beurzen: aantal per geslacht, leeftijd en verschillende kenmerken van de opleiding, per kanton</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Stipendijas: daudzums pēc dzimuma, vecuma un dažādām apmācības īpašībām, ar kantonu</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Becas: cantidad por sexo, edad y diversas características del entrenamiento, por cantón</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Borse di studio: quantità per sesso, età e varie caratteristiche di allenamento, per cantone</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Stipendien: Höhe nach Geschlecht, Alter und verschiedenen Merkmalen der Ausbildung, nach Kantonen</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Apurahat: määrä sukupuolen, iän ja koulutuksen eri ominaisuuksien mukaan, kantoni</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-15.06.02.08"/>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Stipendiumid: kogus soo, vanuse ja koolituse erinevate omaduste järgi kantoni järgi</dct:title>
+            <dct:identifier>18904380-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štipendiá: množstvo podľa pohlavia, veku a rôznych charakteristík tréningu, podľa kantónu</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Burse: cantitate în funcție de sex, vârstă și diverse caracteristici ale antrenamentului, în funcție de canton</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Stypendia: ilość według płci, wieku i różnych cech treningu, według kantonu</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Stipendia: množství podle pohlaví, věku a různých charakteristik tréninku, podle kantonu</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Stipendier: mängd efter kön, ålder och olika egenskaper hos träning, efter kanton</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Boroż ta’ studju:
+ammont skont is-sess, l-età u diversi karatteristiċi ta’ taħriġ, skont id-distrett</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Stipendijos: kiekis pagal lytį, amžių ir įvairias mokymo charakteristikas pagal kantoną</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Štipendije: količina po spolu, starosti in različnih značilnostih usposabljanja, po kantonu</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Malas de estudo: quantidade por sexo, idade e várias características do treinamento, por cantão</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Stipendije: količina po spolu, dobi i različitim karakteristikama treninga, po kantonu</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Стипендии: количество по пол, възраст и различни характеристики на обучението, по кантон</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Ösztöndíjak: mennyiség nem, életkor és a képzés különböző jellemzői szerint, kanton szerint</dct:title>
+            <dct:title xml:lang="fr">Bourses: montant selon le sexe, l'âge et diverses caractéristiques de la formation, par canton</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Οι υποτροφίες: ποσότητα ανά φύλο, ηλικία και διάφορα χαρακτηριστικά της κατάρτισης, ανά καντόνι</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Stipendier: mængde efter køn, alder og forskellige karakteristika ved træning, efter kanton</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Scholarships: amount by sex, age and various characteristics of training, by canton</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="en">education-and-science</dcat:keyword>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Beurzen: Aantal per geslacht, leeftijd en geselecteerde opleidingskenmerken, per kanton</dct:title>
+        <dcat:keyword xml:lang="fr">education-et-science</dcat:keyword>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Stipendije: Količina prema spolu, dobi i odabranim karakteristikama obuke, po kantonu</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-15.06.02.08"/>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Ösztöndíjak: Összeg nem, kor és válogatott képzési jellemzők szerint, kanton szerint</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-10-06T00:00:00</dct:issued>
+        <dcat:keyword xml:lang="it">formazione-e-scienza</dcat:keyword>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Štipendije: Znesek po spolu, starosti in izbranih značilnostih usposabljanja, po kantonu</dct:title>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="es-t-de-t0-mtec">Becas: Cantidad por sexo, edad y características de formación seleccionadas, por cantón</dct:title>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/education"/>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Stipendijas: Daudzums pēc dzimuma, vecuma un izvēlētajiem apmācības raksturlielumiem, pēc kantona</dct:title>
+        <dcat:keyword xml:lang="it">sovvenzioni-cantonali-e-prestiti</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Burse: Cantitate în funcție de sex, vârstă și caracteristici de formare selectate, în funcție de canton</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Scholarships: Amount by gender, age and selected training characteristics, by canton</dct:title>
+        <dcat:keyword xml:lang="de">bildung-und-wissenschaft</dcat:keyword>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Stipendier: Mängd efter kön, ålder och valda träningsegenskaper, per kanton</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2c896518-c510-4181-90d2-3e42a55b3ecf">
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Stipendije: količina po spolu, dobi i različitim karakteristikama treninga, po kantonu</dct:title>
+            <dct:title xml:lang="fr">Bourses: montant selon le sexe, l'âge et diverses caractéristiques de la formation, par canton</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Apurahat: määrä sukupuolen, iän ja koulutuksen eri ominaisuuksien mukaan, kantoni</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Stipendijos: kiekis pagal lytį, amžių ir įvairias mokymo charakteristikas pagal kantoną Stipendijos:
+kiekis pagal lytį, amžių ir įvairias mokymo charakteristikas pagal kantoną</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Boroż ta’ studju: ammont skont is-sess, l-età u diversi karatteristiċi ta’ taħriġ, skont id-distrett Boroż ta’ studju:
+ammont skont is-sess, l-età u diversi karatteristiċi ta’ taħriġ, skont id-distrett</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Becas: cantidad por sexo, edad y diversas características del entrenamiento, por cantón</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Štipendiá: množstvo podľa pohlavia, veku a rôznych charakteristík tréningu, podľa kantónu Štipendiá:
+množstvo podľa pohlavia, veku a rôznych charakteristík tréningu, podľa kantónu</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904380/master"/>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Scholarships: amount by sex, age and various characteristics of training, by canton</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/18904380/master"/>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Štipendije: količina po spolu, starosti in različnih značilnostih usposabljanja, po kantonu Štipendije:
+količina po spolu, starosti in različnih značilnostih usposabljanja, po kantonu</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Stipendier: mängd efter kön, ålder och olika egenskaper hos träning, efter kanton Stipendier:
+mängd efter kön, ålder och olika egenskaper hos träning, efter kanton</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-09-29T00:00:00</dct:modified>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Scoláireachtaí: méid de réir gnéis, aoise agus tréithe éagsúla oiliúna, de réir canton</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-10-06T00:00:00</dct:issued>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:identifier>18904380-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Ösztöndíjak: mennyiség nem, életkor és a képzés különböző jellemzői szerint, kanton szerint</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Beurzen: aantal per geslacht, leeftijd en verschillende kenmerken van de opleiding, per kanton Beurzen:
+aantal per geslacht, leeftijd en verschillende kenmerken van de opleiding, per kanton</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Malas de estudo: quantidade por sexo, idade e várias características do treinamento, por cantão</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Burse: cantitate în funcție de sex, vârstă și diverse caracteristici ale antrenamentului, în funcție de canton Burse:
+cantitate în funcție de sex, vârstă și diverse caracteristici ale antrenamentului, în funcție de canton</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Stipendiumid: kogus soo, vanuse ja koolituse erinevate omaduste järgi kantoni järgi</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Stipendia: množství podle pohlaví, věku a různých charakteristik tréninku, podle kantonu</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Стипендії: кількість за статтю, віком та різними характеристиками навчання, кантоном Стипендії:
+кількість за статтю, віком та різними характеристиками навчання, кантоном</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Stipendien: Höhe nach Geschlecht, Alter und verschiedenen Merkmalen der Ausbildung, nach Kantonen</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Stipendijas: daudzums pēc dzimuma, vecuma un dažādām apmācības īpašībām, ar kantonu Stipendijas:
+daudzums pēc dzimuma, vecuma un dažādām apmācības īpašībām, ar kantonu</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Stypendia: ilość według płci, wieku i różnych cech treningu, według kantonu Stypendia:
+ilość według płci, wieku i różnych cech treningu, według kantonu</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Stipendier: mængde efter køn, alder og forskellige karakteristika ved træning, efter kanton</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Стипендии: количество по пол, възраст и различни характеристики на обучението, по кантон</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Borse di studio:
+quantità per sesso, età e varie caratteristiche di allenamento, per cantone</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Οι υποτροφίες: ποσότητα ανά φύλο, ηλικία και διάφορα χαρακτηριστικά της κατάρτισης, ανά καντόνι</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Stipendijos: Kiekis pagal lytį, amžių ir pasirinktas mokymo charakteristikas pagal kantoną</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dcat:keyword xml:lang="en">cantonal-scholarships-and-loans</dcat:keyword>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>b128a3b6967f3a110baf230e4547394d</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+  </dcat:CatalogRecord>
+</rdf:RDF>

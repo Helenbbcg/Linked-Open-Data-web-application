@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/ffwxgmha7ui6fyzedzkq">
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/ffwxgmha7ui6fyzedzkq"/>
+    <dct:identifier>FFWXgMHa7UI6FYZedZKQ</dct:identifier>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>a5d85d8d899ef172be91970036be8b98</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T08:59:34Z</dct:issued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/ffwxgmha7ui6fyzedzkq">
+        <dct:title xml:lang="fr">Dépenses au titre des établissements d'enseignement publics - en % des dépenses totales ou courantes</dct:title>
+        <dct:title xml:lang="en">Expenditure on public educational institutions - as % of total or current expenditure</dct:title>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Výdaje na veřejné vzdělávací instituce – jako % celkových nebo běžných výdajů</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Δαπάνες για δημόσια εκπαιδευτικά ιδρύματα — ως % των συνολικών ή τρεχουσών δαπανών</dct:description>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dct:description xml:lang="fr">Dépenses au titre des établissements d'enseignement publics - en % des dépenses totales ou courantes</dct:description>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Julkisten oppilaitosten menot – % kokonaismenoista tai juoksevista menoista</dct:description>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Витрати на державні навчальні заклади - у % від загальних або поточних витрат</dct:title>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Cheltuieli cu instituțiile publice de învățământ – ca procent din cheltuielile totale sau curente</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dct:title xml:lang="es-t-en-t0-mtec">Gasto en instituciones públicas de enseñanza — en % del gasto total o corriente</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Wydatki na publiczne instytucje edukacyjne – jako % całkowitych lub bieżących wydatków</dct:description>
+        <dct:accessRights>
+          <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        </dct:accessRights>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Izdevumi par valsts izglītības iestādēm — % no kopējiem vai kārtējiem izdevumiem</dct:title>
+        <dct:description xml:lang="en">Expenditure on public educational institutions - as % of total or current expenditure</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/038097ed-a0ae-4949-90ee-6cac1b0848e6">
+            <dct:title xml:lang="fr">Dépenses au titre des établissements d'enseignement publics - en % des dépenses totales ou courantes</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini05.tsv.gz&amp;unzip=true"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:identifier>http://data.europa.eu/88u/distribution/f11d698c-4ec1-4779-ab1b-dda6f5e245e3</dct:identifier>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+            <dct:title xml:lang="de">Ausgaben für öffentliche Bildungseinrichtungen - in % der gesamten oder jeweiligen Ausgaben</dct:title>
+            <dct:title xml:lang="en">Expenditure on public educational institutions - as % of total or current expenditure</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Közoktatási intézményekre fordított kiadások – az összes vagy folyó kiadás %-ában</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/educ_uoe_enr_esms.sdmx.zip">
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/educ_uoe_enr_esms.sdmx.zip</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/ffwxgmha7ui6fyzedzkq"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Cheltuieli cu instituțiile publice de învățământ – ca procent din cheltuielile totale sau curente</dct:description>
+        <dcat:landingPage>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fini05">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fini05</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/ffwxgmha7ui6fyzedzkq"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fini05</schema:url>
+          </foaf:Document>
+        </dcat:landingPage>
+        <dct:description xml:lang="hu-t-en-t0-mtec">Közoktatási intézményekre fordított kiadások – az összes vagy folyó kiadás %-ában</dct:description>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Výdaje na veřejné vzdělávací instituce – jako % celkových nebo běžných výdajů</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Δαπάνες για δημόσια εκπαιδευτικά ιδρύματα — ως % των συνολικών ή τρεχουσών δαπανών</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="it-t-en-t0-mtec">Spese per istituti pubblici di istruzione — in % della spesa totale o corrente</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/ae24207d-1839-4f84-825d-218f7c965adf">
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini05.sdmx.zip"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c1eb77bb-18a9-4d7f-87c6-394c473b453c</dct:identifier>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Expenditure on public educational institutions - as % of total or current expenditure</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Ausgaben für öffentliche Bildungseinrichtungen - in % der gesamten oder jeweiligen Ausgaben</dct:title>
+            <dct:title xml:lang="fr">Dépenses au titre des établissements d'enseignement publics - en % des dépenses totales ou courantes</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Wydatki na publiczne instytucje edukacyjne – jako % całkowitych lub bieżących wydatków</dct:title>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Výdavky na verejné vzdelávacie inštitúcie – ako % celkových alebo bežných výdavkov</dct:description>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Utgifter för offentliga utbildningsinstitutioner – i % av de totala eller löpande utgifterna</dct:title>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Despesas com instituições públicas de ensino — em % das despesas totais ou correntes</dct:title>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Разходи за обществени образователни институции — като % от общите или текущите разходи</dct:description>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Išlaidos valstybinėms švietimo įstaigoms – visų arba einamųjų išlaidų procentinė dalis</dct:description>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Разходи за обществени образователни институции — като % от общите или текущите разходи</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Izdevumi par valsts izglītības iestādēm — % no kopējiem vai kārtējiem izdevumiem</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Izdatki za javne izobraževalne ustanove – kot % skupnih ali tekočih odhodkov</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Caiteachas ar institiúidí oideachais poiblí — mar % den chaiteachas iomlán nó den chaiteachas reatha</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">Gasto en instituciones públicas de enseñanza — en % del gasto total o corriente</dct:description>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Rashodi za javne obrazovne ustanove – kao % ukupnih ili tekućih rashoda</dct:title>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/33712002-9c9e-4901-a738-dbd01d7b4d1b">
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/616a5764-d38d-4554-be1d-54f56b7adfa7">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="da-t-en-t0-mtec">Udgifter til offentlige uddannelsesinstitutioner — i % af de samlede eller løbende udgifter</dct:title>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Išlaidos valstybinėms švietimo įstaigoms – visų arba einamųjų išlaidų procentinė dalis</dct:title>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Витрати на державні навчальні заклади - у % від загальних або поточних витрат</dct:description>
+        <foaf:page rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/educ_uoe_fini05"/>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Utgifter för offentliga utbildningsinstitutioner – i % av de totala eller löpande utgifterna</dct:description>
+        <dct:identifier>educ_uoe_fini05</dct:identifier>
+        <dct:description xml:lang="nl-t-en-t0-mtec">Uitgaven voor openbare onderwijsinstellingen — in % van de totale of lopende uitgaven</dct:description>
+        <dct:description xml:lang="mt-t-en-t0-mtec">Nefqa fuq istituzzjonijiet edukattivi pubbliċi — bħala % tan-nefqa totali jew kurrenti</dct:description>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/784ea2b0-6972-4099-960e-8c1b9ac02767">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2012-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2019-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Julkisten oppilaitosten menot – % kokonaismenoista tai juoksevista menoista</dct:title>
+        <dct:description xml:lang="pt-t-en-t0-mtec">Despesas com instituições públicas de ensino — em % das despesas totais ou correntes</dct:description>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Nefqa fuq istituzzjonijiet edukattivi pubbliċi — bħala % tan-nefqa totali jew kurrenti</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Caiteachas ar institiúidí oideachais poiblí — mar % den chaiteachas iomlán nó den chaiteachas reatha</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Výdavky na verejné vzdelávacie inštitúcie – ako % celkových alebo bežných výdavkov</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/educ_uoe_enr_esms.htm">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/ffwxgmha7ui6fyzedzkq"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/educ_uoe_enr_esms.htm</schema:url>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/c25b43a6-069d-4a33-b60b-d352e6271e5d">
+            <dct:title xml:lang="de">Ausgaben für öffentliche Bildungseinrichtungen - in % der gesamten oder jeweiligen Ausgaben</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/educ_uoe_fini05.tsv.gz"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/3f8b7041-db50-4bbc-88ab-e445fccf2bb8</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">Expenditure on public educational institutions - as % of total or current expenditure</dct:title>
+            <dct:title xml:lang="fr">Dépenses au titre des établissements d'enseignement publics - en % des dépenses totales ou courantes</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="de">Ausgaben für öffentliche Bildungseinrichtungen - in % der gesamten oder jeweiligen Ausgaben</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Kulutused riiklikele haridusasutustele – protsendina kogukuludest või jooksvatest kuludest</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Udgifter til offentlige uddannelsesinstitutioner — i % af de samlede eller løbende udgifter</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:identifier>http://data.europa.eu/88u/dataset/FFWXgMHa7UI6FYZedZKQ</dct:identifier>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Izdatki za javne izobraževalne ustanove – kot % skupnih ali tekočih odhodkov</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-22</dct:modified>
+        <dct:description xml:lang="de">Ausgaben für öffentliche Bildungseinrichtungen - in % der gesamten oder jeweiligen Ausgaben</dct:description>
+        <dct:title xml:lang="it-t-en-t0-mtec">Spese per istituti pubblici di istruzione — in % della spesa totale o corrente</dct:title>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:description xml:lang="et-t-en-t0-mtec">Kulutused riiklikele haridusasutustele – protsendina kogukuludest või jooksvatest kuludest</dct:description>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Rashodi za javne obrazovne ustanove – kao % ukupnih ili tekućih rashoda</dct:description>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Uitgaven voor openbare onderwijsinstellingen — in % van de totale of lopende uitgaven</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:01:36Z</dct:modified>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-23T08:01:36Z</edp:transIssued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

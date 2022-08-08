@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/19444380-bundesamt-fur-statistik-bfs">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:checksumValue>b025305e9df54c433c94985b26c37a17</spdx:checksumValue>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:31Z</dct:issued>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:31Z</edp:transIssued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:39Z</dct:modified>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/19444380-bundesamt-fur-statistik-bfs"/>
+    <dct:identifier>19444380@bundesamt-fur-statistik-bfs</dct:identifier>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:52:27Z</edp:transReceived>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/19444380-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="pl-t-de-t0-mtec">Utracone potencjalne lata życia, kobiety</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Kaotatud potentsiaalsed eluaastad, naised</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:language>fr</dct:language>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dct:title xml:lang="el-t-de-t0-mtec">Χαμένα χρόνια ζωής, γυναίκες</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Zaudējis potenciālos dzīves gadus, sievietes</dct:title>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dcat:keyword xml:lang="fr">statistique-des-causes-de-deces-et-des-mortinaissances</dcat:keyword>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2c5a9df2-81c4-4732-8ce0-6d587b58a016">
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Potențiali ani de viață pierduți, femei</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Potentiella år av liv förlorat, kvinnor</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Anos potenciais de vida perdidos, raparigas</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.03.04.01.07"/>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Потенциални изгубени години живот, жени</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Potencialūs gyvenimo metai, moterys</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Elveszett életévek, nők</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Potenciálne stratené roky života, ženy</dct:title>
+            <dct:language>fr</dct:language>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Potencijalne godine izgubljenog života, žene</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Mögliche verlorene Lebensjahre, Frauen</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Izgubljena leta življenja, ženske</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Potential years of life lost, women</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Snin potenzjali ta’ ħajja mitlufa, nisa</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Потенційні роки втраченого життя, жінки</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Mahdolliset menetetyt elinvuodet, naiset</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Potenciální roky ztraceného života, ženy</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Πιθανά χρόνια ζωής χάνονται, γυναίκες</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Potentielle leveår tabt, kvinder</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Potenciālie dzīves gadi zaudēti, sievietes</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Potencjalne lata życia stracone, kobiety</dct:title>
+            <dct:identifier>19444387-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Blianta féideartha den saol caillte, mná</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Potenziali anni di vita perduta, donne</dct:title>
+            <dct:title xml:lang="fr">Années potentielles de vie perdues, femmes</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Potentiële levensjaren verloren, vrouwen</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Años potenciales de vida perdidos, mujeres</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Potentsiaalsed kaotatud eluaastad, naised</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Изгубени потенциални години живот, жени</dct:title>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.07"/>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dct:identifier>19444380@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="fr">Années potentielles de vie perdues, femmes</dct:title>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Blianta a d’fhéadfadh a bheith caillte den saol, mná</dct:title>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T09:59:31.411250</dct:modified>
+        <dct:title xml:lang="hu-t-de-t0-mtec">Elveszett életévek, nők</dct:title>
+        <dct:title xml:lang="de">Verlorene potenzielle Lebensjahre, Frauen</dct:title>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-12-21T00:00:00</dct:issued>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Anos potenciais perdidos de vida, raparigas</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/34bbe50f-f404-4fb6-b9d7-7a85dfe911ba">
+            <dct:title xml:lang="ro-t-de-t0-mtec">Ani de viață pierduți, femei</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-29T00:00:00</dct:modified>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изгубени потенциални години живот, жени</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χαμένα χρόνια ζωής, γυναίκες</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444394/master"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Snin potenzjali ta’ ħajja mitlufa, nisa</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Tabte potentielle leveår, kvinder</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kaotatud potentsiaalsed eluaastad, naised</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Elveszett életévek, nők</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">I potenziali anni di vita perduti, le donne</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444394/master"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izgubljene potencijalne godine života, žene</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pérdida de años potenciales de vida, mujeres</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Verloren potentiële levensjaren, vrouwen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Blianta a d’fhéadfadh a bheith caillte den saol, mná</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Prarasti potencialūs gyvenimo metai, moterys</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Menetetty potentiaalinen elinvuosi, naiset</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ztráta potenciálních let života, ženy</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izgubljena leta življenja, ženske</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Zaudējis potenciālos dzīves gadus, sievietes</dct:title>
+            <dct:identifier>19444394-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Anos potenciais perdidos de vida, raparigas</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Années de vie potentielles perdues, femmes</dct:title>
+            <dct:title xml:lang="de">Verlorene potenzielle Lebensjahre, Frauen</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Förlorade potentiella år av liv, kvinnor</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Utracone potencjalne lata życia, kobiety</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Втрачені потенційні роки життя, жінки</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stratené potencionálne roky života, ženy</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Lost potential years of life, women</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:title xml:lang="es-t-de-t0-mtec">Pérdida de años potenciales de vida, mujeres</dct:title>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Prarasti potencialūs gyvenimo metai, moterys</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Snin potenzjali ta’ ħajja mitlufa, nisa</dct:title>
+        <dct:title xml:lang="it-t-de-t0-mtec">I potenziali anni di vita perduti, le donne</dct:title>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Verloren potentiële levensjaren, vrouwen</dct:title>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Menetetty potentiaalinen elinvuosi, naiset</dct:title>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dcat:keyword xml:lang="de">statistik-der-todesursachen-und-totgeburten</dcat:keyword>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Ztráta potenciálních let života, ženy</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/61367709-9d57-45e2-9674-8e2ca76ea9b4">
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.03.04.01.07"/>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Ani de viață pierduți, femei</dct:title>
+            <dct:title xml:lang="es-t-de-t0-mtec">Pérdida de años potenciales de vida, mujeres</dct:title>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Izgubljene potencijalne godine života, žene</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Stratené potencionálne roky života, ženy</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Lost potential years of life, women</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Années de vie potentielles perdues, femmes</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Anos potenciais perdidos de vida, raparigas</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Tabte potentielle leveår, kvinder</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Snin potenzjali ta’ ħajja mitlufa, nisa</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Izgubljena leta življenja, ženske</dct:title>
+            <dct:title xml:lang="de">Verlorene potenzielle Lebensjahre, Frauen</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Ztráta potenciálních let života, ženy</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">Elveszett életévek, nők</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Prarasti potencialūs gyvenimo metai, moterys</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">I potenziali anni di vita perduti, le donne</dct:title>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Zaudējis potenciālos dzīves gadus, sievietes</dct:title>
+            <dct:identifier>19444394-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Blianta a d’fhéadfadh a bheith caillte den saol, mná</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Втрачені потенційні роки життя, жінки</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Utracone potencjalne lata życia, kobiety</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Verloren potentiële levensjaren, vrouwen</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Χαμένα χρόνια ζωής, γυναίκες</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Förlorade potentiella år av liv, kvinnor</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Kaotatud potentsiaalsed eluaastad, naised</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Изгубени потенциални години живот, жени</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Menetetty potentiaalinen elinvuosi, naiset</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d0d0fb9b-be45-4784-a399-9b59e4326b69">
+            <dct:title xml:lang="de-t-fr-t0-mtec">Mögliche verlorene Lebensjahre, Frauen</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Anos potenciais de vida perdidos, raparigas</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Mahdolliset menetetyt elinvuodet, naiset</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444387/master"/>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Potenciální roky ztraceného života, ženy</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Potencijalne godine izgubljenog života, žene</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Потенційні роки втраченого життя, жінки</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Potenciálne stratené roky života, ženy</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Potentiële levensjaren verloren, vrouwen</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Потенциални изгубени години живот, жени</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-12-21T00:00:00</dct:issued>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Potentsiaalsed kaotatud eluaastad, naised</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/19444387/master"/>
+            <dct:identifier>19444387-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-29T00:00:00</dct:modified>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Potentiella år av liv förlorat, kvinnor</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Blianta féideartha den saol caillte, mná</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Potenziali anni di vita perduta, donne</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Años potenciales de vida perdidos, mujeres</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Πιθανά χρόνια ζωής χάνονται, γυναίκες</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Potenciālie dzīves gadi zaudēti, sievietes</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Potentielle leveår tabt, kvinder</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Potencialūs gyvenimo metai, moterys</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Elveszett életévek, nők</dct:title>
+            <dct:title xml:lang="fr">Années potentielles de vie perdues, femmes</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Snin potenzjali ta’ ħajja mitlufa, nisa</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Potențiali ani de viață pierduți, femei</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Potential years of life lost, women</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Potencjalne lata życia stracone, kobiety</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Izgubljena leta življenja, ženske</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Förlorade potentiella år av liv, kvinnor</dct:title>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dct:title xml:lang="da-t-de-t0-mtec">Tabte potentielle leveår, kvinder</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Lost potential years of life, women</dct:title>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Stratené potencionálne roky života, ženy</dct:title>
+        <dct:spatial>Schweiz</dct:spatial>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Izgubljene potencijalne godine života, žene</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Izgubljena leta življenja, ženske</dct:title>
+        <dcat:keyword xml:lang="it">statistica-delle-cause-di-morte-e-di-mortinatalita</dcat:keyword>
+        <dct:language>de</dct:language>
+        <dcat:keyword xml:lang="en">cause-of-death-and-stillbirth-statistics</dcat:keyword>
+        <dct:title xml:lang="ro-t-de-t0-mtec">Ani de viață pierduți, femei</dct:title>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Втрачені потенційні роки життя, жінки</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>

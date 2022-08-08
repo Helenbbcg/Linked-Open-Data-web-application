@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/20044044-bundesamt-fur-statistik-bfs">
+    <edp:originalLanguage>de</edp:originalLanguage>
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransCompleted"/>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:29Z</edp:transIssued>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>696775a0fbe2e80fbe6fadfb5abc0a77</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-22T20:05:37Z</dct:modified>
+    <dct:identifier>20044044@bundesamt-fur-statistik-bfs</dct:identifier>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <edp:transReceived rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-06T10:52:13Z</edp:transReceived>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/20044044-bundesamt-fur-statistik-bfs"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/20044044-bundesamt-fur-statistik-bfs">
+        <dct:title xml:lang="ro-t-de-t0-mtec">Fluxul de pacienți spitalizați în funcție de cantonul rezidențial și cantonul furnizorului de servicii medicale</dct:title>
+        <dct:title xml:lang="da-t-de-t0-mtec">Flow af indlagte patienter i henhold til deres bolig kanton og kanton af plejeudbyderen</dct:title>
+        <dct:title xml:lang="mt-t-de-t0-mtec">Il-fluss ta’ pazjenti li jiddaħħlu l-isptar skont il-canton residenzjali tagħhom u l-canton tal-fornitur tal-kura</dct:title>
+        <dct:title xml:lang="hr-t-de-t0-mtec">Protok hospitaliziranih pacijenata prema njihovom stambenom kantonu i kantonu pružatelja skrbi</dct:title>
+        <dcat:keyword xml:lang="de">medizinische-statistik-der-krankenhauser</dcat:keyword>
+        <dcat:keyword xml:lang="fr">tableau</dcat:keyword>
+        <dcat:landingPage rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.04.01.02.03"/>
+        <dcat:keyword xml:lang="fr">statistique-medicale-des-hopitaux</dcat:keyword>
+        <dct:title xml:lang="pt-t-de-t0-mtec">Fluxo de pacientes hospitalizados de acordo com seu cantão residencial e cantão do prestador de cuidados</dct:title>
+        <dcat:keyword xml:lang="en">health</dcat:keyword>
+        <dct:title xml:lang="fr">Flux des patients hospitalisés par canton de provenance et par le canton de l'hôpital fournissant les soins</dct:title>
+        <dcat:keyword xml:lang="de">vollerhebung</dcat:keyword>
+        <dcat:keyword xml:lang="fr">sante</dcat:keyword>
+        <dct:title xml:lang="pl-t-de-t0-mtec">Przepływ hospitalizowanych pacjentów zgodnie z kantonem mieszkalnym i kantonem opiekuna</dct:title>
+        <dct:language>de</dct:language>
+        <dct:title xml:lang="it-t-de-t0-mtec">Flusso di pazienti ricoverati secondo il loro cantone residenziale e cantone del prestatore di cure</dct:title>
+        <dct:title xml:lang="en-t-de-t0-mtec">Flow of hospitalised patients according to their residential canton and canton of the care provider</dct:title>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2021-11-19T00:00:00</dct:issued>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/4bd31229-f9d1-4395-97bd-0ae6f348f572">
+            <dct:format>XLS</dct:format>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="es-t-de-t0-mtec">Flujo de pacientes hospitalizados según su cantón residencial y cantón del proveedor de atención médica</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Поток от хоспитализирани пациенти според техния жилищен кантон и кантон на доставчика на грижи</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Haiglas viibivate patsientide vood vastavalt raviteenuse osutaja kantonile ja kantonile</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Hospitalizēto pacientu plūsma saskaņā ar viņu dzīvojamo kantonu un aprūpes sniedzēja kantonu</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Sairaalapotilaiden virtaus heidän asuinkantoninsa ja hoitopalvelujen tarjoajan kantonien mukaan</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Przepływ hospitalizowanych pacjentów zgodnie z kantonem mieszkalnym i kantonem opiekuna</dct:title>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Flöde av patienter på sjukhus enligt deras bostadskanton och kanton hos vårdgivaren</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Sreabhadh na n-othar ospidéalaithe de réir a gcantún cónaithe agus canton an tsoláthraí cúraim</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ροή των ασθενών που νοσηλεύονται σύμφωνα με το καντόνι και το καντόνι του παρόχου περίθαλψης</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Flux des patients hospitalisés en fonction de leur canton résidentiel et du canton du prestataire de soins</dct:title>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Fluxo de pacientes hospitalizados de acordo com seu cantão residencial e cantão do prestador de cuidados</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/20044053/master"/>
+            <dct:title xml:lang="hr-t-de-t0-mtec">Protok hospitaliziranih pacijenata prema njihovom stambenom kantonu i kantonu pružatelja skrbi</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-17T00:00:00</dct:modified>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Tok hospitalizovaných pacientov podľa ich rezidenčného kantónu a kantónu poskytovateľa starostlivosti</dct:title>
+            <dct:identifier>20044053-master@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Tok hospitalizovaných pacientů podle jejich obytného kantonu a kantonu poskytovatele péče</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A kórházi betegek áramlása az ellátó kantonja és kantonja szerint</dct:title>
+            <dct:title xml:lang="de">Fluss der hospitalisierten Patienten nach ihrem Wohnkanton und nach Kanton des Leistungserbringers</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Tok hospitaliziranih pacientov glede na njihov stanovanjski kanton in kanton ponudnika oskrbe</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Hospitalizuotų pacientų srautas pagal jų gyvenamąjį kantoną ir slaugos paslaugų teikėjo kantoną</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/20044053/master"/>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Il-fluss ta’ pazjenti li jiddaħħlu l-isptar skont il-canton residenzjali tagħhom u l-canton tal-fornitur tal-kura</dct:title>
+            <dct:title xml:lang="it-t-de-t0-mtec">Flusso di pazienti ricoverati secondo il loro cantone residenziale e cantone del prestatore di cure</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-19T00:00:00</dct:issued>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Fluxul de pacienți spitalizați în funcție de cantonul rezidențial și cantonul furnizorului de servicii medicale</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Flow af indlagte patienter i henhold til deres bolig kanton og kanton af plejeudbyderen</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Потік госпіталізованих пацієнтів згідно з їх житловим кантоном і кантоном постачальника послуг</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Flow of hospitalised patients according to their residential canton and canton of the care provider</dct:title>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Stroom van gehospitaliseerde patiënten volgens hun woonkanton en kanton van de zorgverlener</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="ga-t-de-t0-mtec">Sreabhadh na n-othar ospidéalaithe de réir a gcantún cónaithe agus canton an tsoláthraí cúraim</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/0914c15f-ce70-40e9-81d6-d4ef4506a6bb">
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/20044050/master"/>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Patientflow ved kanton af oprindelse og ved kantonen af det hospital, der yder plejen</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Statsionaarsed vood päritolukantoni ja ravi osutava haigla kantoni poolt</dct:title>
+            <dcat:mediaType>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</dcat:mediaType>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Tok pacientov podľa kantónu pôvodu a kantónu nemocnice poskytujúcej starostlivosť</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Ströme der Krankenhauspatienten nach Herkunftskanton und Krankenhauskanton</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Stacionarinis srautas kilmės kantonu ir ligoninės kantonu, teikiančiu priežiūrą</dct:title>
+            <dcat:downloadURL rdf:resource="https://www.bfs.admin.ch/bfsstatic/dam/assets/20044050/master"/>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-19T00:00:00</dct:issued>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Flujo hospitalario por cantón de origen y por el cantón del hospital que presta la atención</dct:title>
+            <dct:title xml:lang="fr">Flux des patients hospitalisés par canton de provenance et par le canton de l'hôpital fournissant les soins</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Fluss inpatient mill-canton ta’ oriġini u mill-canton tal-isptar li jipprovdi l-kura</dct:title>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Bolnički protok kantonom podrijetla i kantonom bolnice koji pruža skrb</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Nemocniční tok kantonu původu a kantonu nemocnice poskytující péči</dct:title>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Sairaalan virtaus alkuperäkantonin ja hoitoa antavan sairaalan kantonin mukaan</dct:title>
+            <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-17T00:00:00</dct:modified>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Fekvőbeteg-áramlás a származási kanton és az ellátást nyújtó kórház kantonja szerint</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Inpatient flow by canton of origin and by the canton of the hospital providing the care</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Stacionārā plūsma pēc izcelsmes kantona un no slimnīcas, kas nodrošina aprūpi, kantona</dct:title>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Стаціонарний потік кантоном походження і кантоном лікарні, що надає допомогу</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Sreabhadh othar cónaitheach de réir canton tionscnaimh agus ag canton an ospidéil a sholáthraíonn an cúram</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Fluxo de internação por cantão de origem e pelo cantão do hospital que presta os cuidados</dct:title>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Inpatient flöde av kantonen av ursprung och av kantonen av det sjukhus som tillhandahåller vården</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Przepływ szpitalny przez kanton pochodzenia i kanton szpitala zapewniającego opiekę</dct:title>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Стационарен поток по кантон на произход и от кантона на болницата, осигуряваща грижите</dct:title>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ενδονοσοκομειακή ροή από καντόνι προέλευσης και από το καντόνι του νοσοκομείου που παρέχει τη φροντίδα</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Flusso ospedaliero per cantone di origine e dal cantone dell'ospedale che fornisce le cure</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Bolnišnični tok po izvornem kantonu in kantonu bolnišnice, ki zagotavlja oskrbo</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Intramurale stroom door kanton van herkomst en door het kanton van het ziekenhuis dat de zorg verstrekt</dct:title>
+            <dct:format>XLS</dct:format>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Fluxul internat de cantonul de origine și de cantonul spitalului care asigură îngrijirea</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:identifier>20044050-master@bundesamt-fur-statistik-bfs</dct:identifier>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:publisher>
+          <foaf:Organization rdf:about="https://www.bfs.admin.ch/">
+            <foaf:name>BFS/OFS</foaf:name>
+          </foaf:Organization>
+        </dct:publisher>
+        <dct:title xml:lang="sk-t-de-t0-mtec">Tok hospitalizovaných pacientov podľa ich rezidenčného kantónu a kantónu poskytovateľa starostlivosti</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/05a8b68f-ae41-42f3-8fa1-a0176db969e9">
+            <dct:title xml:lang="hr-t-de-t0-mtec">Protok hospitaliziranih pacijenata prema njihovom stambenom kantonu i kantonu pružatelja skrbi</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="lv-t-de-t0-mtec">Hospitalizēto pacientu plūsma saskaņā ar viņu dzīvojamo kantonu un aprūpes sniedzēja kantonu</dct:title>
+            <dct:title xml:lang="cs-t-de-t0-mtec">Tok hospitalizovaných pacientů podle jejich obytného kantonu a kantonu poskytovatele péče</dct:title>
+            <dct:title xml:lang="en-t-de-t0-mtec">Flow of hospitalised patients according to their residential canton and canton of the care provider</dct:title>
+            <dct:language>de</dct:language>
+            <dct:title xml:lang="es-t-de-t0-mtec">Flujo de pacientes hospitalizados según su cantón residencial y cantón del proveedor de atención médica</dct:title>
+            <dct:title xml:lang="sk-t-de-t0-mtec">Tok hospitalizovaných pacientov podľa ich rezidenčného kantónu a kantónu poskytovateľa starostlivosti</dct:title>
+            <dct:format>HTML</dct:format>
+            <dct:identifier>20044053-de@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:title xml:lang="nl-t-de-t0-mtec">Stroom van gehospitaliseerde patiënten volgens hun woonkanton en kanton van de zorgverlener</dct:title>
+            <dct:title xml:lang="pl-t-de-t0-mtec">Przepływ hospitalizowanych pacjentów zgodnie z kantonem mieszkalnym i kantonem opiekuna</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="sv-t-de-t0-mtec">Flöde av patienter på sjukhus enligt deras bostadskanton och kanton hos vårdgivaren</dct:title>
+            <dct:title xml:lang="ga-t-de-t0-mtec">Sreabhadh na n-othar ospidéalaithe de réir a gcantún cónaithe agus canton an tsoláthraí cúraim</dct:title>
+            <dct:title xml:lang="sl-t-de-t0-mtec">Tok hospitaliziranih pacientov glede na njihov stanovanjski kanton in kanton ponudnika oskrbe</dct:title>
+            <dct:title xml:lang="de">Fluss der hospitalisierten Patienten nach ihrem Wohnkanton und nach Kanton des Leistungserbringers</dct:title>
+            <dct:title xml:lang="mt-t-de-t0-mtec">Il-fluss ta’ pazjenti li jiddaħħlu l-isptar skont il-canton residenzjali tagħhom u l-canton tal-fornitur tal-kura</dct:title>
+            <dct:title xml:lang="da-t-de-t0-mtec">Flow af indlagte patienter i henhold til deres bolig kanton og kanton af plejeudbyderen</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-19T00:00:00</dct:issued>
+            <dct:title xml:lang="it-t-de-t0-mtec">Flusso di pazienti ricoverati secondo il loro cantone residenziale e cantone del prestatore di cure</dct:title>
+            <dct:title xml:lang="fi-t-de-t0-mtec">Sairaalapotilaiden virtaus heidän asuinkantoninsa ja hoitopalvelujen tarjoajan kantonien mukaan</dct:title>
+            <dct:title xml:lang="et-t-de-t0-mtec">Haiglas viibivate patsientide vood vastavalt raviteenuse osutaja kantonile ja kantonile</dct:title>
+            <dct:title xml:lang="fr-t-de-t0-mtec">Flux des patients hospitalisés en fonction de leur canton résidentiel et du canton du prestataire de soins</dct:title>
+            <dct:title xml:lang="ro-t-de-t0-mtec">Fluxul de pacienți spitalizați în funcție de cantonul rezidențial și cantonul furnizorului de servicii medicale</dct:title>
+            <dct:title xml:lang="el-t-de-t0-mtec">Ροή των ασθενών που νοσηλεύονται σύμφωνα με το καντόνι και το καντόνι του παρόχου περίθαλψης</dct:title>
+            <dct:title xml:lang="uk-t-de-t0-mtec">Потік госпіталізованих пацієнтів згідно з їх житловим кантоном і кантоном постачальника послуг</dct:title>
+            <dct:title xml:lang="bg-t-de-t0-mtec">Поток от хоспитализирани пациенти според техния жилищен кантон и кантон на доставчика на грижи</dct:title>
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/de/je-d-14.04.01.02.03"/>
+            <dct:title xml:lang="pt-t-de-t0-mtec">Fluxo de pacientes hospitalizados de acordo com seu cantão residencial e cantão do prestador de cuidados</dct:title>
+            <dct:title xml:lang="hu-t-de-t0-mtec">A kórházi betegek áramlása az ellátó kantonja és kantonja szerint</dct:title>
+            <dct:title xml:lang="lt-t-de-t0-mtec">Hospitalizuotų pacientų srautas pagal jų gyvenamąjį kantoną ir slaugos paslaugų teikėjo kantoną</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:keyword xml:lang="it">statistica-medica-ospedaliera</dcat:keyword>
+        <dct:title xml:lang="et-t-de-t0-mtec">Haiglas viibivate patsientide vood vastavalt raviteenuse osutaja kantonile ja kantonile</dct:title>
+        <dct:title xml:lang="lv-t-de-t0-mtec">Hospitalizēto pacientu plūsma saskaņā ar viņu dzīvojamo kantonu un aprūpes sniedzēja kantonu</dct:title>
+        <dct:title xml:lang="sl-t-de-t0-mtec">Tok hospitaliziranih pacientov glede na njihov stanovanjski kanton in kanton ponudnika oskrbe</dct:title>
+        <dct:title xml:lang="el-t-de-t0-mtec">Ροή των ασθενών που νοσηλεύονται σύμφωνα με το καντόνι και το καντόνι του παρόχου περίθαλψης</dct:title>
+        <dcat:keyword xml:lang="fr">releve-exhaustif</dcat:keyword>
+        <dct:title xml:lang="fi-t-de-t0-mtec">Sairaalapotilaiden virtaus heidän asuinkantoninsa ja hoitopalvelujen tarjoajan kantonien mukaan</dct:title>
+        <dcat:keyword xml:lang="de">tabelle</dcat:keyword>
+        <dcat:theme rdf:resource="http://dcat-ap.ch/vocabulary/themes/health"/>
+        <dct:language>fr</dct:language>
+        <dct:title xml:lang="nl-t-de-t0-mtec">Stroom van gehospitaliseerde patiënten volgens hun woonkanton en kanton van de zorgverlener</dct:title>
+        <dct:title xml:lang="cs-t-de-t0-mtec">Tok hospitalizovaných pacientů podle jejich obytného kantonu a kantonu poskytovatele péče</dct:title>
+        <dcat:keyword xml:lang="en">table</dcat:keyword>
+        <dct:title xml:lang="hu-t-de-t0-mtec">A kórházi betegek áramlása az ellátó kantonja és kantonja szerint</dct:title>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:hasEmail rdf:resource="mailto:auskunftsdienst@bfs.admin.ch"/>
+            <vcard:fn>info@bfs.admin.ch</vcard:fn>
+          </vcard:Organization>
+        </dcat:contactPoint>
+        <dct:title xml:lang="bg-t-de-t0-mtec">Поток от хоспитализирани пациенти според техния жилищен кантон и кантон на доставчика на грижи</dct:title>
+        <dcat:keyword xml:lang="en">medical-statistics-of-hospitals</dcat:keyword>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        <dct:relation>
+          <rdf:Description rdf:about="https://www.admin.ch/opc/de/classified-compilation/19920252/index.html">
+            <rdfs:label>legal_basis</rdfs:label>
+          </rdf:Description>
+        </dct:relation>
+        <dct:title xml:lang="uk-t-de-t0-mtec">Потік госпіталізованих пацієнтів згідно з їх житловим кантоном і кантоном постачальника послуг</dct:title>
+        <dcat:keyword xml:lang="it">rilevazione-totale</dcat:keyword>
+        <dcat:keyword xml:lang="it">salute</dcat:keyword>
+        <dct:title xml:lang="de">Fluss der hospitalisierten Patienten nach ihrem Wohnkanton und nach Kanton des Leistungserbringers</dct:title>
+        <dct:title xml:lang="sv-t-de-t0-mtec">Flöde av patienter på sjukhus enligt deras bostadskanton och kanton hos vårdgivaren</dct:title>
+        <dct:spatial>Kantone</dct:spatial>
+        <dct:title xml:lang="lt-t-de-t0-mtec">Hospitalizuotų pacientų srautas pagal jų gyvenamąjį kantoną ir slaugos paslaugų teikėjo kantoną</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/2c0d3300-bffe-46d9-9961-a785cad50d2c">
+            <dcat:accessURL rdf:resource="https://www.bfs.admin.ch/asset/fr/je-f-14.04.01.02.03"/>
+            <dct:title xml:lang="bg-t-fr-t0-mtec">Стационарен поток по кантон на произход и от кантона на болницата, осигуряваща грижите</dct:title>
+            <dct:title xml:lang="da-t-fr-t0-mtec">Patientflow ved kanton af oprindelse og ved kantonen af det hospital, der yder plejen</dct:title>
+            <dct:title xml:lang="lv-t-fr-t0-mtec">Stacionārā plūsma pēc izcelsmes kantona un no slimnīcas, kas nodrošina aprūpi, kantona</dct:title>
+            <dct:title xml:lang="mt-t-fr-t0-mtec">Fluss inpatient mill-canton ta’ oriġini u mill-canton tal-isptar li jipprovdi l-kura</dct:title>
+            <dct:title xml:lang="hu-t-fr-t0-mtec">Fekvőbeteg-áramlás a származási kanton és az ellátást nyújtó kórház kantonja szerint</dct:title>
+            <dct:title xml:lang="sk-t-fr-t0-mtec">Tok pacientov podľa kantónu pôvodu a kantónu nemocnice poskytujúcej starostlivosť</dct:title>
+            <dct:title xml:lang="it-t-fr-t0-mtec">Flusso ospedaliero per cantone di origine e dal cantone dell'ospedale che fornisce le cure</dct:title>
+            <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+            >2021-11-19T00:00:00</dct:issued>
+            <dct:title xml:lang="sv-t-fr-t0-mtec">Inpatient flöde av kantonen av ursprung och av kantonen av det sjukhus som tillhandahåller vården</dct:title>
+            <dct:title xml:lang="ga-t-fr-t0-mtec">Sreabhadh othar cónaitheach de réir canton tionscnaimh agus ag canton an ospidéil a sholáthraíonn an cúram</dct:title>
+            <dct:title xml:lang="de-t-fr-t0-mtec">Ströme der Krankenhauspatienten nach Herkunftskanton und Krankenhauskanton</dct:title>
+            <dct:title xml:lang="nl-t-fr-t0-mtec">Intramurale stroom door kanton van herkomst en door het kanton van het ziekenhuis dat de zorg verstrekt</dct:title>
+            <dct:title xml:lang="es-t-fr-t0-mtec">Flujo hospitalario por cantón de origen y por el cantón del hospital que presta la atención</dct:title>
+            <dct:title xml:lang="en-t-fr-t0-mtec">Inpatient flow by canton of origin and by the canton of the hospital providing the care</dct:title>
+            <dct:title xml:lang="ro-t-fr-t0-mtec">Fluxul internat de cantonul de origine și de cantonul spitalului care asigură îngrijirea</dct:title>
+            <dct:title xml:lang="lt-t-fr-t0-mtec">Stacionarinis srautas kilmės kantonu ir ligoninės kantonu, teikiančiu priežiūrą</dct:title>
+            <dct:language>fr</dct:language>
+            <dct:title xml:lang="fi-t-fr-t0-mtec">Sairaalan virtaus alkuperäkantonin ja hoitoa antavan sairaalan kantonin mukaan</dct:title>
+            <dct:title xml:lang="sl-t-fr-t0-mtec">Bolnišnični tok po izvornem kantonu in kantonu bolnišnice, ki zagotavlja oskrbo</dct:title>
+            <dct:title xml:lang="et-t-fr-t0-mtec">Statsionaarsed vood päritolukantoni ja ravi osutava haigla kantoni poolt</dct:title>
+            <dct:title xml:lang="pl-t-fr-t0-mtec">Przepływ szpitalny przez kanton pochodzenia i kanton szpitala zapewniającego opiekę</dct:title>
+            <dcat:mediaType>text/html</dcat:mediaType>
+            <dct:title xml:lang="el-t-fr-t0-mtec">Ενδονοσοκομειακή ροή από καντόνι προέλευσης και από το καντόνι του νοσοκομείου που παρέχει τη φροντίδα</dct:title>
+            <dct:title xml:lang="pt-t-fr-t0-mtec">Fluxo de internação por cantão de origem e pelo cantão do hospital que presta os cuidados</dct:title>
+            <dct:identifier>20044050-fr@bundesamt-fur-statistik-bfs</dct:identifier>
+            <dct:format>HTML</dct:format>
+            <dct:title xml:lang="uk-t-fr-t0-mtec">Стаціонарний потік кантоном походження і кантоном лікарні, що надає допомогу</dct:title>
+            <dct:title xml:lang="fr">Flux des patients hospitalisés par canton de provenance et par le canton de l'hôpital fournissant les soins</dct:title>
+            <dct:rights>NonCommercialAllowed-CommercialWithPermission-ReferenceRequired</dct:rights>
+            <dct:title xml:lang="hr-t-fr-t0-mtec">Bolnički protok kantonom podrijetla i kantonom bolnice koji pruža skrb</dct:title>
+            <dct:title xml:lang="cs-t-fr-t0-mtec">Nemocniční tok kantonu původu a kantonu nemocnice poskytující péči</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+        >2022-07-22T10:02:43.012778</dct:modified>
+        <dcat:keyword xml:lang="de">gesundheit</dcat:keyword>
+        <dcat:keyword xml:lang="en">complete-enumeration-survey</dcat:keyword>
+        <dct:identifier>20044044@bundesamt-fur-statistik-bfs</dct:identifier>
+        <dct:title xml:lang="es-t-de-t0-mtec">Flujo de pacientes hospitalizados según su cantón residencial y cantón del proveedor de atención médica</dct:title>
+        <dcat:keyword xml:lang="it">tabella</dcat:keyword>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-06-03T08:25:29Z</dct:issued>
+  </dcat:CatalogRecord>
+</rdf:RDF>

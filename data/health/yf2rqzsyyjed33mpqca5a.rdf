@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:edp="https://europeandataportal.eu/voc#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://data.europa.eu/88u/ontology/dcatapop#"
+    xmlns:dqv="http://www.w3.org/ns/dqv#"
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:schema="http://schema.org/"
+    xmlns:dcat="http://www.w3.org/ns/dcat#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <dcat:CatalogRecord rdf:about="http://data.europa.eu/88u/record/yf2rqzsyyjed33mpqca5a">
+    <edp:transStatus rdf:resource="https://europeandataportal.eu/voc#TransInProcess"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T14:14:47Z</dct:modified>
+    <edp:originalLanguage>en</edp:originalLanguage>
+    <dct:identifier>yf2rQzsYYJeD33MpqCA5A</dct:identifier>
+    <spdx:checksum>
+      <spdx:Checksum>
+        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5"/>
+        <spdx:checksumValue>87beb9fafdeee1e8d0afd8e6189388f3</spdx:checksumValue>
+      </spdx:Checksum>
+    </spdx:checksum>
+    <edp:transIssued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-07-16T14:14:47Z</edp:transIssued>
+    <dct:creator rdf:resource="http://piveau.io"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2022-04-29T09:13:26Z</dct:issued>
+    <dqv:hasQualityMetadata rdf:resource="http://data.europa.eu/88u/metrics/yf2rqzsyyjed33mpqca5a"/>
+    <foaf:primaryTopic>
+      <dcat:Dataset rdf:about="http://data.europa.eu/88u/dataset/yf2rqzsyyjed33mpqca5a">
+        <dct:title xml:lang="es-t-en-t0-mtec">Consumo de energía primaria</dct:title>
+        <dct:title xml:lang="et-t-en-t0-mtec">Primaarenergia tarbimine</dct:title>
+        <dct:description xml:lang="mt-t-en-t0-mtec">L-indikatur ikejjel il-ħtiġijiet totali tal-enerġija ta’ pajjiż bl-esklużjoni tal-użu kollu mhux tal-enerġija tat-trasportaturi tal-enerġija (eż. gass naturali użat mhux għall-kombustjoni iżda għall-produzzjoni ta’ sustanzi kimiċi). Il-“Konsum tal-Enerġija Primarja” jkopri l-konsum tal-enerġija mill-utenti aħħarin bħall-industrija, it-trasport, id-djar, is-servizzi u l-agrikoltura, kif ukoll il-konsum tal-enerġija tas-settur tal-enerġija nnifsu għall-produzzjoni u t-trasformazzjoni tal-enerġiji, it-telf li jseħħ matul it-trasformazzjoni tal-enerġiji (eż. l-effiċjenza tal-produzzjoni tal-elettriku mill-fjuwils kombustibbli) u t-telf tat-trażmissjoni u d-distribuzzjoni tal-enerġija).</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/f1e52617-4cd0-499f-a5f7-d0c01dfe309d">
+            <dct:rights>
+              <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            </dct:rights>
+            <dct:title xml:lang="en">Primary energy consumption</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/tab-separated-values"/>
+            </dcat:mediaType>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sdg_07_10.tsv.gz&amp;unzip=true"/>
+            <dct:title xml:lang="fr">Consommation d'énergie primaire</dct:title>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:description xml:lang="en">Download dataset in TSV format (unzipped)</dct:description>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/TSV"/>
+            </dct:format>
+            <dct:title xml:lang="de">Primärenergieverbrauch</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/b1ebaa34-059d-440d-9a8b-18b86f3dcf81</dct:identifier>
+            <dct:license>
+              <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            </dct:license>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="hr-t-en-t0-mtec">Potrošnja primarne energije</dct:title>
+        <dct:description xml:lang="de">Der Indikator misst den Energieendbedarf eines Landes ohne den nichtenergetischen Verbrauch von Energieträgern (z. B. Erdgas, das nicht zur Verbrennung, sondern zur Herstellung von Chemikalien verwendet wird). Der „Primärenergieverbrauch“ umfasst den Energieverbrauch von Endverbrauchern wie Industrie, Verkehr, Haushalte, Dienstleistungen und Landwirtschaft, sowie den Energieverbrauch des Energiesektors selbst für die Produktion und Transformation von Energien und die Verluste, die während der Umwandlung (z.B. die Effizienz bei der Stromerzeugung aus Brennstoffen) und Verteilung von Energie entstehen.</dct:description>
+        <dct:description xml:lang="sk-t-en-t0-mtec">Ukazovateľ meria celkové energetické potreby krajiny s výnimkou všetkých neenergetických použití nosičov energie (napr. zemný plyn, ktorý sa nepoužíva na spaľovanie, ale na výrobu chemikálií). „Primárna spotreba energie“ zahŕňa spotrebu energie koncovými odberateľmi, ako je priemysel, doprava, domácnosti, služby a poľnohospodárstvo, ako aj spotrebu energie v samotnom energetickom sektore na výrobu a transformáciu energií, straty vzniknuté pri transformácii energií (napr. efektívnosť výroby elektrickej energie z horľavých palív) a straty pri prenose a distribúcii energie.</dct:description>
+        <dct:description xml:lang="hu-t-en-t0-mtec">A mutató egy ország teljes energiaszükségletét méri, kivéve az energiahordozók nem energiafelhasználását (pl. nem égetésre, hanem vegyi anyagok előállítására használt földgáz). Az „elsődleges energiafogyasztás” magában foglalja a végfelhasználók – például az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság – energiafogyasztását, valamint magának az energiaágazatnak az energiatermelésre és -átalakításra irányuló energiafogyasztását, az energia átalakítása során bekövetkező veszteségeket (pl. az éghető tüzelőanyagokból történő villamosenergia-termelés hatékonysága), valamint az energia átviteli és elosztási veszteségeit.</dct:description>
+        <dct:description xml:lang="it-t-en-t0-mtec">L'indicatore misura il fabbisogno energetico totale di un paese, escludendo tutti gli usi non energetici dei vettori energetici (ad esempio il gas naturale utilizzato non per la combustione ma per la produzione di sostanze chimiche). Il "consumo primario di energia" comprende il consumo di energia da parte degli utenti finali quali l'industria, i trasporti, le famiglie, i servizi e l'agricoltura, nonché il consumo energetico dello stesso settore energetico per la produzione e la trasformazione di energie, le perdite che si verificano durante la trasformazione delle energie (ad esempio l'efficienza della produzione di energia elettrica da combustibili combustibili) e le perdite di trasmissione e distribuzione di energia).</dct:description>
+        <dct:title xml:lang="lv-t-en-t0-mtec">Primārās enerģijas patēriņš</dct:title>
+        <dct:description xml:lang="fr">Cet indicateur mesureles besoins énergétiques d’un pays hors de l'usages non énergétiques de sources énergétiques (par ex. le gaz naturel utilisé non pour la combustion, mais pour la production de produits chimiques). La «consommation d’énergie primaire» couvre la consommation d’énergie par les utilisateurs finaux tels que les ménages, l’industrie, les transports, les services et l’agriculture,plus la consommation d'énergie du secteur de l'énergie elle-même pour la production et la transformation des énergies, les pertes survenant lors de la transformation des énergies (par exemple, l'efficacité de la production d'électricité à partir de carburants combustibles) et les pertes de transmission et de distribution de l'énergie.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/d4759ee5-894f-4443-97c7-1f75f023e57e">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=sdg_07_10"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="en">Table</dct:title>
+            <dct:title xml:lang="de">Tabelle</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            </dct:format>
+            <dct:identifier>http://data.europa.eu/88u/distribution/4766b30f-2bca-4bc3-8b35-1ddc3ad8056c</dct:identifier>
+            <dct:title xml:lang="fr">Tableau</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:about="http://purl.org/dc/terms/PeriodOfTime/e5c203a2-c445-4057-a394-16165c0b003e">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2000-01-01</dcat:startDate>
+            <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+            >2020-01-01</dcat:endDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/b0a323e1-b7ce-48f8-8e06-a6c20c37d938">
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dct:title xml:lang="en">Map</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/mapToolClosed.do?tab=map&amp;init=1&amp;plugin=1&amp;language=en&amp;pcode=sdg_07_10"/>
+            <dct:title xml:lang="de">Karte</dct:title>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/c714758a-d835-45f3-b0e0-b429add7e1d5</dct:identifier>
+            <dct:title xml:lang="fr">Carte</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:title xml:lang="lt-t-en-t0-mtec">Pirminės energijos suvartojimas</dct:title>
+        <dct:title xml:lang="it-t-en-t0-mtec">Consumo di energia primaria</dct:title>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_07_10">
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_07_10</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/yf2rqzsyyjed33mpqca5a"/>
+            <dct:title xml:lang="en">More information on Eurostat Website</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+            </dct:type>
+            <schema:url>http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_07_10</schema:url>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="nl-t-en-t0-mtec">De indicator meet de totale energiebehoeften van een land, met uitzondering van alle niet-energiegebruik van energiedragers (bv. aardgas dat niet wordt gebruikt voor verbranding maar voor de productie van chemische stoffen). „Primair energieverbruik” omvat het energieverbruik door eindgebruikers zoals industrie, vervoer, huishoudens, diensten en landbouw, plus het energieverbruik van de energiesector zelf voor de productie en transformatie van energie, verliezen tijdens de transformatie van energie (bv. de efficiëntie van de elektriciteitsproductie uit brandbare brandstoffen) en het transmissie- en distributieverlies van energie).</dct:description>
+        <dct:publisher>
+          <foaf:Agent rdf:about="http://publications.europa.eu/resource/authority/corporate-body/ESTAT"/>
+        </dct:publisher>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+        >2022-07-11</dct:modified>
+        <dct:title xml:lang="bg-t-en-t0-mtec">Първично потребление на енергия</dct:title>
+        <dct:description xml:lang="hr-t-en-t0-mtec">Pokazateljem se mjere ukupne energetske potrebe zemlje, isključujući svu neenergetsku uporabu nositelja energije (npr. prirodni plin koji se ne upotrebljava za izgaranje, već za proizvodnju kemikalija). „Potrošnja primarne energije” obuhvaća potrošnju energije krajnjih korisnika kao što su industrija, promet, kućanstva, usluge i poljoprivreda, plus potrošnja energije u samom energetskom sektoru za proizvodnju i transformaciju energije, gubici do kojih dolazi tijekom transformacije energije (npr. učinkovitost proizvodnje električne energije iz zapaljivih goriva) te gubici u prijenosu i distribuciji energije).</dct:description>
+        <dct:identifier>sdg_07_10</dct:identifier>
+        <dct:description xml:lang="ro-t-en-t0-mtec">Indicatorul măsoară nevoile totale de energie ale unei țări, excluzând toate utilizările neenergetice ale purtătorilor de energie (de exemplu, gazele naturale utilizate nu pentru ardere, ci pentru producerea de substanțe chimice). „Consumul de energie primară” acoperă consumul de energie al utilizatorilor finali, cum ar fi industria, transporturile, gospodăriile, serviciile și agricultura, plus consumul de energie al sectorului energetic în sine pentru producția și transformarea energiilor, pierderile survenite în timpul transformării energiilor (de exemplu, eficiența producției de energie electrică din combustibili combustibili) și pierderile de energie din transport și distribuție.</dct:description>
+        <dcat:landingPage rdf:resource="http://ec.europa.eu/eurostat/web/products-datasets/-/sdg_07_10"/>
+        <dct:title xml:lang="fi-t-en-t0-mtec">Primäärienergian kulutus</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/931449c6-6a80-48e4-b006-7c4957aa1403">
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dct:title xml:lang="en">Primary energy consumption</dct:title>
+            <dcat:mediaType>
+              <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/zip"/>
+            </dcat:mediaType>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sdg_07_10.tsv.gz"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:format>
+              <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            </dct:format>
+            <dct:title xml:lang="fr">Consommation d'énergie primaire</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/bfe121c9-f6f5-424c-bb20-9858214d0501</dct:identifier>
+            <dct:description xml:lang="en">Download dataset in TSV format</dct:description>
+            <dct:title xml:lang="de">Primärenergieverbrauch</dct:title>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/HEAL"/>
+        </dcat:theme>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
+        </dcat:theme>
+        <dct:description xml:lang="lt-t-en-t0-mtec">Šiuo rodikliu matuojamas bendras šalies energijos poreikis, išskyrus visą energijos nešiklių (pvz., gamtinių dujų, naudojamų ne degimui, bet cheminių medžiagų gamybai) naudojimą ne energetikos reikmėms. Pirminės energijos suvartojimas – galutinių vartotojų, pvz., pramonės, transporto, namų ūkių, paslaugų ir žemės ūkio, suvartojamos energijos kiekis, taip pat paties energetikos sektoriaus energijos suvartojimas energijos gamybai ir transformacijai, energijos transformacijos metu patirti nuostoliai (pvz., elektros energijos gamybos iš degiųjų degalų efektyvumas) ir energijos perdavimo ir paskirstymo nuostoliai).</dct:description>
+        <dct:title xml:lang="ro-t-en-t0-mtec">Consumul de energie primară</dct:title>
+        <dct:title xml:lang="fr">Consommation d'énergie primaire</dct:title>
+        <dct:description xml:lang="fi-t-en-t0-mtec">Indikaattori mittaa maan kokonaisenergiantarvetta lukuun ottamatta kaikkea energiankantajien muuta kuin energiakäyttöä (esim. maakaasua, jota ei käytetä polttamiseen vaan kemikaalien tuotantoon). ”Ensisijainen energiankulutus” kattaa loppukäyttäjien, kuten teollisuuden, liikenteen, kotitalouksien, palvelujen ja maatalouden, energiankulutuksen, energia-alan energiankulutuksen itse energian tuotantoon ja muuntamiseen, energiamuuntamisen aikana syntyvät häviöt (esim. palavista polttoaineista saatavan sähköntuotannon tehokkuus) sekä energian siirto- ja jakeluhäviöt.</dct:description>
+        <dct:description xml:lang="pt-t-en-t0-mtec">O indicador mede as necessidades energéticas totais de um país, excluindo toda a utilização não energética de vetores de energia (por exemplo, gás natural utilizado não para combustão, mas para a produção de produtos químicos). O «consumo primário de energia» abrange o consumo de energia pelos utilizadores finais, como a indústria, os transportes, as famílias, os serviços e a agricultura, bem como o consumo de energia do próprio setor energético para a produção e transformação de energias, as perdas ocorridas durante a transformação das energias (por exemplo, a eficiência da produção de eletricidade a partir de combustíveis combustíveis) e as perdas de transporte e distribuição de energia.</dct:description>
+        <dct:description xml:lang="sv-t-en-t0-mtec">Indikatorn mäter det totala energibehovet i ett land exklusive all annan energianvändning än energibärare (t.ex. naturgas som inte används för förbränning utan för framställning av kemikalier). Primär energiförbrukning: slutanvändarnas energianvändning, t.ex. industri, transporter, hushåll, tjänster och jordbruk, plus energiförbrukning inom energisektorn för produktion och omvandling av energi, förluster som uppstår under omvandlingen av energier (t.ex. effektiviteten i elproduktionen från brännbara bränslen) och överförings- och distributionsförluster av energi.</dct:description>
+        <dct:description xml:lang="uk-t-en-t0-mtec">Показник вимірює загальні енергетичні потреби країни, виключаючи всі неенергетичне використання енергоносіїв (наприклад, природний газ, який використовується не для горіння, а для виробництва хімічних речовин). "Первинне споживання енергії" охоплює споживання енергії кінцевими споживачами, такими як промисловість, транспорт, домогосподарства, послуги та сільське господарство, а також споживання енергії самим енергетичним сектором для виробництва та перетворення енергій, втрати, що виникають під час трансформації енергії (наприклад, ефективність виробництва електроенергії з горючих видів палива) та втрати передачі та розподілу енергії.</dct:description>
+        <dct:description xml:lang="cs-t-en-t0-mtec">Ukazatel měří celkové energetické potřeby země s vyloučením veškerého neenergetického využití nosičů energie (např. zemní plyn nevyužívaný ke spalování, ale k výrobě chemických látek). „Primární spotřeba energie“ zahrnuje spotřebu energie koncovými uživateli, jako je průmysl, doprava, domácnosti, služby a zemědělství, plus spotřeba energie v samotném odvětví energetiky pro výrobu a transformaci energií, ztráty vzniklé při transformaci energie (např. účinnost výroby elektřiny z hořlavých paliv) a ztráty na přenosu a distribuci energie).</dct:description>
+        <dcat:contactPoint>
+          <vcard:Kind rdf:about="http://www.w3.org/2006/vcard/ns#Kind/c1837d0a-6172-45f1-860a-5f4db03aa427">
+            <vcard:hasURL>
+              <foaf:Document rdf:about="http://ec.europa.eu/eurostat/help/support">
+                <foaf:topic rdf:resource="file:///usr/verticles/"/>
+                <schema:url>http://ec.europa.eu/eurostat/help/support</schema:url>
+              </foaf:Document>
+            </vcard:hasURL>
+            <vcard:hasTelephone>
+              <vcard:Voice rdf:about="http://data.europa.eu/88u/voice/+352430136789">
+                <vcard:hasValue rdf:resource="tel:+352430136789"/>
+              </vcard:Voice>
+            </vcard:hasTelephone>
+            <vcard:hasAddress>
+              <vcard:Address rdf:about="http://www.w3.org/2006/vcard/ns#Address/1a4d84c5-b355-4abc-924c-325662d414b5">
+                <vcard:street-address>Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</vcard:street-address>
+              </vcard:Address>
+            </vcard:hasAddress>
+            <vcard:organisation-name>Eurostat, the statistical office of the European Union</vcard:organisation-name>
+          </vcard:Kind>
+        </dcat:contactPoint>
+        <dct:title xml:lang="cs-t-en-t0-mtec">Spotřeba primární energie</dct:title>
+        <dct:description xml:lang="pl-t-en-t0-mtec">Wskaźnik mierzy całkowite zapotrzebowanie państwa na energię, z wyłączeniem całego zużycia energii nośników energii (np. gazu ziemnego wykorzystywanego nie do spalania, lecz do produkcji chemikaliów). „Pierwotne zużycie energii” obejmuje zużycie energii przez użytkowników końcowych, takich jak przemysł, transport, gospodarstwa domowe, usługi i rolnictwo, a także zużycie energii przez sam sektor energetyczny do produkcji i transformacji energii, straty powstałe podczas transformacji energii (np. efektywność produkcji energii elektrycznej z paliw palnych) oraz straty przesyłowe i dystrybucyjne energii).</dct:description>
+        <dct:title xml:lang="da-t-en-t0-mtec">Primærenergiforbrug</dct:title>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/36cdc597-5e8e-4763-9962-03176fba3939">
+            <dct:title xml:lang="fr">Graphique</dct:title>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/tgm/graph.do?tab=graph&amp;plugin=1&amp;language=en&amp;pcode=sdg_07_10"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:identifier>http://data.europa.eu/88u/distribution/14fdcf94-924f-4628-ac8b-3ef250896ab9</dct:identifier>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:title xml:lang="en">Graph</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:identifier>http://data.europa.eu/88u/dataset/yf2rQzsYYJeD33MpqCA5A</dct:identifier>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/cache/metadata/en/sdg_07_10_esmsip2.htm">
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/cache/metadata/en/sdg_07_10_esmsip2.htm</schema:url>
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/yf2rqzsyyjed33mpqca5a"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>
+            <dct:type>
+              <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/documentation-type/DOCUMENTATION_MAIN"/>
+            </dct:type>
+          </foaf:Document>
+        </foaf:page>
+        <dct:description xml:lang="ga-t-en-t0-mtec">Leis an táscaire tomhaistear riachtanais fuinnimh iomlána tíre gan úsáid neamhfhuinnimh uile na n-iompróirí fuinnimh a áireamh (e.g. gás nádúrtha a úsáidtear le haghaidh dócháin ach chun ceimiceáin a tháirgeadh). Cuimsíonn “Tomhaltas Príomhúil Fuinnimh” tomhaltas fuinnimh ag úsáideoirí deiridh amhail tionscal, iompar, teaghlaigh, seirbhísí agus talmhaíocht, móide ídiú fuinnimh na hearnála fuinnimh féin chun fuinnimh a tháirgeadh agus a chlaochlú, caillteanais a tharlaíonn le linn chlaochlú an fhuinnimh (e.g. éifeachtúlacht táirgthe leictreachais ó bhreoslaí indóite) agus caillteanais tarchuir agus dáilte fuinnimh).</dct:description>
+        <dct:title xml:lang="sl-t-en-t0-mtec">Poraba primarne energije</dct:title>
+        <j.0:debugInfo>EUODP Legacy-&gt;DEU xslt, version:20220321</j.0:debugInfo>
+        <dcat:theme>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+        </dcat:theme>
+        <dct:description xml:lang="bg-t-en-t0-mtec">Показателят измерва общите енергийни нужди на дадена държава, като се изключват всички неенергийни нужди на енергоносителите (напр. природен газ, използван не за горене, а за производство на химикали). „Първично потребление на енергия“ обхваща потреблението на енергия от крайните потребители като промишлеността, транспорта, домакинствата, услугите и селското стопанство, плюс енергийното потребление на самия енергиен сектор за производство и преобразуване на енергия, загубите, възникнали по време на преобразуването на енергията (напр. ефективността на производството на електроенергия от запалими горива) и загубите от пренос и разпределение на енергия).</dct:description>
+        <dct:description xml:lang="sl-t-en-t0-mtec">Kazalnik meri skupne potrebe države po energiji, pri čemer so izključene vse neenergetske rabe nosilcev energije (npr. zemeljski plin, ki se ne uporablja za zgorevanje, temveč za proizvodnjo kemikalij). „Poraba primarne energije“ zajema porabo energije s strani končnih uporabnikov, kot so industrija, promet, gospodinjstva, storitve in kmetijstvo, ter porabo energije v energetskem sektorju za proizvodnjo in preoblikovanje energije, izgube, ki nastanejo med preoblikovanjem energije (npr. učinkovitost proizvodnje električne energije iz gorljivih goriv), ter izgube pri prenosu in distribuciji energije.</dct:description>
+        <dct:title xml:lang="pl-t-en-t0-mtec">Zużycie energii pierwotnej</dct:title>
+        <dct:title xml:lang="uk-t-en-t0-mtec">Первинне споживання енергії</dct:title>
+        <dct:title xml:lang="ga-t-en-t0-mtec">Tomhaltas fuinnimh phríomhúil</dct:title>
+        <dct:title xml:lang="nl-t-en-t0-mtec">Primair energieverbruik</dct:title>
+        <dct:title xml:lang="sk-t-en-t0-mtec">Primárna spotreba energie</dct:title>
+        <dct:description xml:lang="et-t-en-t0-mtec">Näitaja mõõdab riigi koguenergiavajadust, välja arvatud energiakandjate kogu energiatarbimine (nt maagaas, mida kasutatakse mitte põletamiseks, vaid kemikaalide tootmiseks). „Esmane energiatarbimine“ hõlmab lõpptarbijate, näiteks tööstuse, transpordi, kodumajapidamiste, teenuste ja põllumajanduse energiatarbimist, samuti energiasektori enda energiatarbimist energia tootmiseks ja muundamiseks, energia muundamise käigus tekkivaid kadusid (nt põlevatest kütustest elektri tootmise tõhusus) ning energia ülekande- ja jaotuskadu.</dct:description>
+        <dct:description xml:lang="el-t-en-t0-mtec">Ο δείκτης μετρά τις συνολικές ενεργειακές ανάγκες μιας χώρας, εξαιρουμένων όλων των μη ενεργειακών χρήσεων των φορέων ενέργειας (π.χ. φυσικό αέριο που χρησιμοποιείται όχι για καύση αλλά για την παραγωγή χημικών ουσιών). Η «πρωτογενής κατανάλωση ενέργειας» καλύπτει την κατανάλωση ενέργειας από τελικούς χρήστες, όπως η βιομηχανία, οι μεταφορές, τα νοικοκυριά, οι υπηρεσίες και η γεωργία, καθώς και η κατανάλωση ενέργειας του ίδιου του ενεργειακού τομέα για την παραγωγή και μετατροπή ενέργειας, οι απώλειες που προκύπτουν κατά τη μετατροπή ενέργειας (π.χ. η αποδοτικότητα της παραγωγής ηλεκτρικής ενέργειας από καύσιμα καύσιμα) και οι απώλειες μεταφοράς και διανομής ενέργειας.</dct:description>
+        <dct:description xml:lang="en">The indicator measures the total energy needs of a country excluding all non-energy use of energy carriers (e.g. natural gas used not for combustion but for producing chemicals). "Primary Energy Consumption" covers the energy consumption by end users such as industry, transport, households, services and agriculture, plus energy consumption of the energy sector itself for production and transformation of energies, losses occurring during the transformation of energies (e.g. the efficiency of electricity production from combustible fuels) and the transmission and distribution losses of energy).</dct:description>
+        <dct:title xml:lang="pt-t-en-t0-mtec">Consumo de energia primária</dct:title>
+        <dct:description xml:lang="lv-t-en-t0-mtec">Ar šo rādītāju mēra valsts kopējās enerģijas vajadzības, izņemot visu enerģijas nesēju izmantošanu, kas nav saistīta ar enerģiju (piemēram, dabasgāze, ko izmanto nevis sadedzināšanai, bet ķīmisko vielu ražošanai). “Primārais enerģijas patēriņš” ietver enerģijas patēriņu, ko veic tiešie lietotāji, piemēram, rūpniecība, transports, mājsaimniecības, pakalpojumi un lauksaimniecība, kā arī enerģijas patēriņu pašā enerģētikas nozarē enerģijas ražošanai un pārveidošanai, zudumiem, kas rodas enerģijas pārveidošanas laikā (piemēram, elektroenerģijas ražošanas efektivitāte no degoša kurināmā) un enerģijas pārvades un sadales zudumiem).</dct:description>
+        <dct:type>
+          <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
+        </dct:type>
+        <dct:title xml:lang="en">Primary energy consumption</dct:title>
+        <dct:title xml:lang="el-t-en-t0-mtec">Κατανάλωση πρωτογενούς ενέργειας</dct:title>
+        <dct:title xml:lang="hu-t-en-t0-mtec">Primerenergia-fogyasztás</dct:title>
+        <dct:title xml:lang="sv-t-en-t0-mtec">Primär energiförbrukning</dct:title>
+        <dct:title xml:lang="de">Primärenergieverbrauch</dct:title>
+        <dct:description xml:lang="da-t-en-t0-mtec">Indikatoren måler et lands samlede energibehov, eksklusive al ikke-energianvendelse af energibærere (f.eks. naturgas, der ikke anvendes til forbrænding, men til fremstilling af kemikalier). "Primært energiforbrug" omfatter slutbrugeres energiforbrug som f.eks. industri, transport, husholdninger, tjenesteydelser og landbrug samt energisektorens energiforbrug til produktion og omdannelse af energi, tab, der opstår under energiomdannelsen (f.eks. effektiviteten af elproduktionen fra brændbare brændstoffer) og transmissions- og distributionstab af energi).</dct:description>
+        <dct:description xml:lang="es-t-en-t0-mtec">El indicador mide las necesidades totales de energía de un país, excluyendo todo uso no energético de portadores de energía (por ejemplo, gas natural utilizado no para la combustión sino para la producción de productos químicos). El «consumo primario de energía» abarca el consumo de energía por parte de los usuarios finales, como la industria, el transporte, los hogares, los servicios y la agricultura, más el consumo de energía del propio sector energético para la producción y transformación de energías, las pérdidas que se producen durante la transformación de las energías (por ejemplo, la eficiencia de la producción de electricidad a partir de combustibles combustibles) y las pérdidas de transmisión y distribución de energía.</dct:description>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/51b1b519-ba17-46d5-a83b-2d991f490ac5">
+            <dcat:accessURL rdf:resource="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/sdg_07_10.sdmx.zip"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dct:description xml:lang="en">Download dataset in SDMX-ML format</dct:description>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+            <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:title xml:lang="en">Default_Title</dct:title>
+            <dct:identifier>http://data.europa.eu/88u/distribution/5c667cc9-04e8-4176-a373-17f4136be37b</dct:identifier>
+            <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+            <dct:title xml:lang="de">Primärenergieverbrauch</dct:title>
+            <dct:title xml:lang="fr">Consommation d'énergie primaire</dct:title>
+            <dct:title xml:lang="en">Primary energy consumption</dct:title>
+          </dcat:Distribution>
+        </dcat:distribution>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <foaf:page>
+          <foaf:Document rdf:about="http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/sdg_07_10_esmsip2.sdmx.zip">
+            <foaf:topic rdf:resource="http://data.europa.eu/88u/dataset/yf2rqzsyyjed33mpqca5a"/>
+            <dct:title xml:lang="en">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/OP_DATPRO"/>
+            <schema:url xml:lang="en">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/sdg_07_10_esmsip2.sdmx.zip</schema:url>
+            <dct:type rdf:resource="http://publications.europa.eu/resource/authority/documentation-type/WEBPAGE_RELATED"/>
+          </foaf:Document>
+        </foaf:page>
+        <dct:title xml:lang="mt-t-en-t0-mtec">Konsum ta’ enerġija primarja</dct:title>
+      </dcat:Dataset>
+    </foaf:primaryTopic>
+  </dcat:CatalogRecord>
+</rdf:RDF>
