@@ -7,9 +7,9 @@ To be able to run the web application, the user needs to install the Python envi
 #### App:
 app.py: an instance of Flask and is used to receive requests from the web server，the main program that starts the whole web application.  
 #### Static:  
-echarts.min.js: a JavaScript plugin that uses various charts to display statistical analysis results.  
-jquery-2.2.1.min.js: a compressed version of the jQuery library.  
-bootstrap.min.js: a compressed version of bootstrap's collection of all JavaScript commands.  
+echarts.min.js: a JavaScript plugin that provides various charts.  
+jquery-2.2.1.min.js: a JavaScript framework, containing JavaScript functions.    
+bootstrap.min.js: a collection of JavaScript commands.  
 bootstrap.css: complete generic stylesheet.  
 The above four files are from the official website.[2,3,4]    
 style.css: custom style sheet. 
