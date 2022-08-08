@@ -5,7 +5,7 @@ This is a web application that presents a linked data cloud [1] from the Europea
 To be able to run the web application, the user needs to install the Python environment and the very important Flask library. Once everything is configured and ready, the user runs app.py to start the application.
 ## Each specific file of the web application is described below.
 #### App:
-app.py: an instance of Flask and is used to receive requests from the web server，the main program that starts the whole web application.  
+app.py: the main program that starts the whole web application, receiving requests from the web server.  
 #### Static:  
 echarts.min.js: a JavaScript plugin that provides various charts.  
 jquery-2.2.1.min.js: a JavaScript framework, containing JavaScript functions.    
