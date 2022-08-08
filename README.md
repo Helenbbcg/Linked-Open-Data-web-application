@@ -34,6 +34,8 @@ In addition, there are also three json files in the folder "data":
 links.json: link data after being processed by Neo4j.  
 datasets.json: nodes which represents the datasets.  
 nodes with links.json: nodes that have direct relationship with datasets.
+#### Data collection:
+collectData.py: data collection from European Data Portal
 
 #### Data precessing:
 json.py: data processing within Python
