@@ -33,7 +33,7 @@ The folder "data" contains data from six categories. It should be noted that the
 In addition, there are also three json files in the folder "data":  
 links.json: link data after being processed by Neo4j.  
 datasets.json: nodes which represents the datasets.  
-nodes with links.json: nodes that have direct relatioship with datasets.
+nodes with links.json: nodes that have direct relationship with datasets.
 
 #### Data precessing:
 json.py: data processing within Python
