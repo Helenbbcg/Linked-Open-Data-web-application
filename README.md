@@ -29,7 +29,14 @@ result_publisher.html: page for showing the search results to querying by publis
 #### Data:
 data.json: data that has been processed through Neo4j and Python.   
 
-The folder "data" contains data from six categories. It should be noted that the data collection process collected all RDF data for the six categories, but due to the sheer volume, the dataset shown here is part of the dataset used for visualization. The visualization of more linked data is mentioned in the "Future work" section of the report.
+The folder "data" contains data from six categories. It should be noted that the data collection process collected all RDF data for the six categories, but due to the sheer volume, the dataset shown here is part of the dataset used for visualization. The visualization of more linked data is mentioned in the "Future work" section of the report.  
+In addition, there are also three json files in the folder "data":  
+links.json: link data after being processed by Neo4j.  
+datasets.json: nodes with represents the datasets.  
+nodes with links.json: nodes that have direct relatioship with datasets.
+
+#### Data precessing:
+json.py: data processing within Python
 
 References:  
 [1] The official portal for European data. [Online]. Available: https://data.europa.eu/en. [Accessed: Jul. 2, 2022].  
