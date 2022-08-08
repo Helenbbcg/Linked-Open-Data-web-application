@@ -41,7 +41,8 @@ collectData.py: data collection from European Data Portal
 json.py: data processing within Python
 
 References:  
-[1] The official portal for European data. [Online]. Available: https://data.europa.eu/en. [Accessed: Jul. 2, 2022].  
-[2] Apache ECharts. [Online]. Available: https://echarts.apache.org/en/index.html. [Accessed: Jul. 18, 2022].  
-[3] jQuery. [Online]. Available: https://jquery.com/. [Accessed: Jul. 15, 2022].  
-[4] Bootstrap. [Online]. Available: https://getbootstrap.com/. [Accessed: Jul. 15, 2022].  
+[1] The official portal for European data. [Online]. Available: https://data.europa.eu/en.  
+[2] Apache ECharts. [Online]. Available: https://echarts.apache.org/en/index.html.    
+[3] jQuery. [Online]. Available: https://jquery.com/.    
+[4] Bootstrap. [Online]. Available: https://getbootstrap.com/.  
+[5] BaiDu Image. [Online]. Available: https://image.baidu.com.
