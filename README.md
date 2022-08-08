@@ -11,9 +11,9 @@ echarts.min.js: a JavaScript plugin that uses various charts to display statisti
 jquery-2.2.1.min.js: a compressed version of the jQuery library.  
 bootstrap.min.js: a compressed version of bootstrap's collection of all JavaScript commands.  
 bootstrap.css: complete generic stylesheet.  
-The above four files are from the official website.[2,3,4]  
+The above four files are from the official website.[2,3,4]    
 style.css: custom style sheet. 
-img.png: background image of the web application [5]. 
+img.png: background image of the web application [5].   
 HTML:   
 index.html: the home page, showing the cross-domain data.   
 cities.html: visualization for linked data in cities.  
